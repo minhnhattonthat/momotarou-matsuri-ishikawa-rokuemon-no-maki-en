@@ -1,0 +1,201 @@
+id	source	kind	japanese	note
+#1	CHR0D.BIN:1@2a50	logo	桃太郎 (orange tag, with 祭 fan)	character-select name tag
+#2	CHR0D.BIN:2@89d0	menu	金太郎 / 夜叉姫 (x2) / 石川六右衛門 / 浦島	character name plates
+#6	CI0D.BIN:3@a910	logo	スタートボタンを おしてね! / 桃太郎 / 石川六右衛門 / まつり / の巻 / いしかわろくえもんのまき furigana	title logo parts + press-start prompt
+#16	DEF0D.BIN:9@1f880	other	白 / 赤	tiny team icons (white/red)
+#37	ECTBG06D.BIN:2@26f0	sign	calligraphy on 3 hanging scrolls	unsure, brush script (decoration?)
+#70	ECTBG24D.BIN:8@24810	sign	nobori flags	unsure if text
+#71	ECTBG24D.BIN:11@2f7b0	sign	nobori flags	unsure if text
+#72	ECTBG24D.BIN:14@3ae40	sign	nobori flags	unsure if text
+#101	EVT090D.BIN:1@e40	banner	大 / 開? (orange characters on green hills)	reading unsure
+#102	EVT090D.BIN:2@5c20	banner	開 / 大 (orange kanji on green hills)	reading unsure
+#105	EVT100D.BIN:0@70	sign	nobori banners on poles	unsure
+#107	EVT100D.BIN:2@9370	sign	white nobori flags	unsure if text
+#108	EVT110D.BIN:0@60	sign	small wooden sign; emblem on snow statue	tiny, unsure
+#109	EVT110D.BIN:1@4770	sign	small wooden sign	tiny, unsure
+#115	EVT130D.BIN:1@3170	sign	tanabata tanzaku strips	unsure
+#141	EVT220D.BIN:1@4020	sign	よ... (shop banner) / ...こそ!! (ようこそ!!)	town shop signs in kana, partly cropped
+#167	EVT600D.BIN:2@a6e0	credits	staff roll part 1 (総監督 さくま あきら ... テクニカルアドバイザー)	credits drawn as image
+#168	EVT600D.BIN:3@f610	credits	staff roll part 2 (マスタリングスタッフ ... スペシャルサンクス ...)	credits drawn as image
+#169	EVT600D.BIN:4@145c0	credits	staff roll part 3 (... プロデューサー / 制作 株式会社 ハドソン)	credits drawn as image
+#172	EVT620D.BIN:0@f0	other	祭 on lanterns/fan	emblem in ending art; likely keep
+#173	EVT620D.BIN:1@a9d0	other	祭 (orange fan)	emblem; likely keep
+#185	FILESL0D.BIN:1@15b0	logo	桃太郎まつり (vertical, 2 variants)	file-select logo
+#186	FONT0D.BIN:0@10	font	page A kanji, page B digits+kana+symbols (2bpp planes)	main text font
+#187	FONT0D.BIN:1@5730	font	kanji pages	main text font
+#265	GCV0310D.BIN:13@30470	other	桃太郎 / 柿太郎 / 栗太郎 / 月姫 (red kanji on cream strip, 4 name tags)	character name tags, crisp dark-red text; sheet 022
+#302	GF10000D.BIN:0@20	sign	八百屋 (carved wooden shop board, lower right); carved kanji on small board upper right ?; strip of carved sign characters mid-left ?	town building tiles; tiny/unsure which kanji
+#305	GF10000D.BIN:3@9270	sign	row of 7 round-ish shop plaques with gold kanji ?, plus 八百屋 board below	shop-sign plaques; kanji unreadable at this size
+#320	GV00000D.BIN:0@20	sign	八百屋 (board lower right); carved kanji on small board upper right ?; sign-character strip ?	same layout as #302 (variant palette)
+#327	GV01000D.BIN:0@10	sign	row of carved sign kanji strip (mid-left) ?; 八百屋 board (centre right)	same tileset family as #302
+#329	GV01000D.BIN:2@8360	sign	7 shop plaques with kanji ?; 八百屋 board	same as #305
+#352	GV02000D.BIN:0@20	sign	vertical signboards with kanji (right of shrine; 道 ... ?)	kanji unreadable; unsure
+#354	GV02000D.BIN:2@81b0	banner	天下一だ… / …じゃれ大会 (two white boards, probably 天下一だじゃれ大会); green signs with gold kanji ?; pink/white flags with emblem (unsure if text)	festival banners/signs; real text, translatable
+#355	GV02000D.BIN:3@a7e0	sign	7 shop plaques with kanji ?; 八百屋 board	same as #305
+#372	GV03010D.BIN:3@e230	sign	small wooden shop boards with kanji in centre/left rows ?	unsure; tiny
+#375	GV03030D.BIN:3@e200	sign	small wooden shop boards with kanji ?	same as #372; unsure
+#373	GV03020D.BIN:2@aec0	sign	small board lower centre with kanji ?	unsure; tiny
+#377	GV04000D.BIN:0@20	sign	道と… / 八百屋 board (large carved board top right, "道" + ?); two more plaques with kanji in the lower strip ?	signs; partly readable
+#380	GV04000D.BIN:3@d460	sign	tiny shop plaques top row ?	unsure; likely decoration
+#385	GV04002D.BIN:0	sign	宿 / 道 と 茶 / 八百屋 (wooden shop signs)	town tileset; tiny; reading unsure
+#413	GV06000D.BIN:0	sign	八百屋? + ~3 other shop signs	town tileset signs, tiny
+#416	GV06000D.BIN:3	sign	row of 8 round kanji plaques + 八百屋 plaque + small plaque	sign sprite strip
+#422	GV08000D.BIN:0	sign	town signs (kanji, illegible)	unsure
+#430	GV09000D.BIN:0	sign	town signs (illegible)	unsure
+#433	GV09000D.BIN:3	sign	row of 5 round kanji plaques	sign strip
+#446	GV11000D.BIN:2	sign	鬼の実? (6 red vertical nobori flags, 3 kanji each)	best effort
+#447	GV12000D.BIN:0	sign	town signs: 八百屋? + kanji	snow town tileset
+#448	GV12000D.BIN:1	sign	large wooden board with ~3 kana (ゆ?..)	unsure
+#455	GV12002D.BIN:0	sign	town signs incl 八百屋?	snow town
+#456	GV12002D.BIN:1	sign	wooden board ゆ??	same as #448
+#459	GV12002D.BIN:4	other	き? (single glyph on a snow statue)	unsure if text
+#467	GV13000D.BIN:0	sign	town signs incl 八百屋?	unsure
+#468	GV13000D.BIN:1	sign	ゆ?? (3 kana on wooden board)	recurs #481 #514 #547 #556 #562
+#469	GV13000D.BIN:2	banner	天下一だじゃれ大会	large clear banner strip
+#478	GV16000D.BIN:0	sign	ゆ 衣 茶 舗? と 宿 (long signboard)	bath/inn town; unsure
+#481	GV16000D.BIN:3	sign	ゆ?? board; 湯? / 亭? roof signs	unsure
+#486	GV16090D.BIN:1	sign	男湯 / 女湯	clear; noren curtains
+#499	GV20000D.BIN:0	sign	宿 道 茶 ? 八百屋?	unsure
+#502	GV20000D.BIN:3	sign	row of 8 round kanji plaques	sign strip
+#503	GV20002D.BIN:0	sign	宿 道 茶 ? + 八百屋	unsure
+#506	GV20002D.BIN:3	sign	row of 8 round kanji plaques	sign strip
+#507	GV21000D.BIN:0	sign	宿 道 ? 茶 ? + ゆ?? board	unsure
+#510	GV21000D.BIN:3	sign	8 round kanji plaques + 八百屋 plaque	sign strip
+#513	GV22000D.BIN:0	sign	row of kanji shop signs	unsure
+#514	GV22000D.BIN:1	sign	ゆ?? board	unsure
+#538	GV30000D.BIN:0	sign	八百屋? small board	unsure
+#547	GV32000D.BIN:1	sign	ゆ?? long board	unsure
+#549	GV32000D.BIN:3	sign	8 round kanji plaques + 八百屋 + 2 small	sign strip
+#555	GV34000D.BIN:0	sign	town signs	unsure
+#556	GV34000D.BIN:1	sign	ゆ?? board	unsure
+#561	GV36000D.BIN:0	sign	town signs incl 湯? plaque	unsure
+#562	GV36000D.BIN:1	sign	ゆ?? board	unsure
+#565	GV37000D.BIN:0	sign	旅籠場? (4-char wooden board)	reading unsure
+#566	GV38000D.BIN:0	sign	town sign plaques	unsure
+#574	HCARD00D.BIN:0	card	なまら あっつぃべゃぁ / ばっ / NO.007 北海道	collectible dialect card: brush text in art + caption bar
+#575	HCARD00D.BIN:1	card	はっちゃきこく? / ギシ ギシ / NO.002 北海道	collectible dialect card
+#576	HCARD00D.BIN:2	card	NO.003 青森県 / じょっぱり	dialect card: handwritten word + baked label bar (NO.### + prefecture); #574-#673 share this layout
+#577	HCARD00D.BIN:3	card	NO.004 青森県 / かね?
+#578	HCARD00D.BIN:4	card	NO.005 岩手県 / おしょすい / どき どき
+#579	HCARD00D.BIN:5	card	NO.006 岩手県 / きちゃきらで? / ギシギシ	word unsure
+#580	HCARD00D.BIN:6	card	NO.007 宮城県 / おみょーねぇ
+#581	HCARD00D.BIN:7	card	NO.008 宮城県 / すげない
+#582	HCARD00D.BIN:8	card	NO.009 秋田県 / とんじんまけた / どんっ
+#583	HCARD00D.BIN:9	card	NO.010 秋田県 / いいふりこぎ / ビシ?
+#584	HCARD10D.BIN:0	card	NO.011 山形県 / きたれけつ?	word unsure
+#585	HCARD10D.BIN:1	card	NO.012 山形県 / うがい
+#586	HCARD10D.BIN:2	card	NO.013 福島県 / きめっこしる
+#587	HCARD10D.BIN:3	card	NO.014 福島県 / あいぶ
+#588	HCARD10D.BIN:4	card	NO.015 茨城県 / つうペー こうペー
+#589	HCARD10D.BIN:5	card	NO.016 茨城県 / いびる
+#590	HCARD10D.BIN:6	card	NO.017 栃木県 / わすらする
+#591	HCARD10D.BIN:7	card	NO.018 栃木県 / いじやける
+#592	HCARD10D.BIN:8	card	NO.019 群馬県 / あてっこうど / ピンピン
+#593	HCARD10D.BIN:9	card	NO.020 群馬県 / ぶっこぬき
+#594	HCARD20D.BIN:0	card	NO.021 埼玉県 / あってこてもねぇ
+#595	HCARD20D.BIN:1	card	NO.022 埼玉県 / かてて
+#596	HCARD20D.BIN:2	card	NO.023 千葉県 / ぶんなぐる
+#597	HCARD20D.BIN:3	card	NO.024 千葉県 / がんだ / プシュー
+#598	HCARD20D.BIN:4	card	NO.025 東京都 / てやんでい
+#599	HCARD20D.BIN:5	card	NO.026 東京都 / まっつぐ
+#600	HCARD20D.BIN:6	card	NO.027 東京都 / はしっこい / だだて?
+#601	HCARD20D.BIN:7	card	NO.028 神奈川県 / こわい
+#602	HCARD20D.BIN:8	card	NO.029 神奈川県 / つけとく
+#603	HCARD20D.BIN:9	card	NO.030 新潟県 / やいやいやい
+#604	HCARD30D.BIN:0	card	NO.031 新潟県 / じょんのび
+#605	HCARD30D.BIN:1	card	NO.032 富山県 / さっくい
+#606	HCARD30D.BIN:2	card	NO.033 富山県 / どんだくれ / ボリボリ
+#607	HCARD30D.BIN:3	card	NO.034 石川県 / いじくらしい
+#608	HCARD30D.BIN:4	card	NO.035 石川県 / きすをする / ぐびぐび
+#609	HCARD30D.BIN:5	card	NO.036 福井県 / おちょきんする
+#610	HCARD30D.BIN:6	card	NO.037 福井県 / かてーけのー?	word unsure
+#611	HCARD30D.BIN:7	card	NO.038 山梨県 / よっちゃばる
+#612	HCARD30D.BIN:8	card	NO.039 山梨県 / ごっちょでごんす?	word unsure
+#613	HCARD30D.BIN:9	card	NO.040 長野県 / みやましい
+#614	HCARD40D.BIN:0	card	NO.041 長野県 / しょびしょび
+#615	HCARD40D.BIN:1	card	NO.042 岐阜県 / かんこうしょ
+#616	HCARD40D.BIN:2	card	NO.043 岐阜県 / たむらう?	word unsure
+#617	HCARD40D.BIN:3	card	NO.044 静岡県 / ばかけっこい?	word unsure
+#618	HCARD40D.BIN:4	card	NO.045 静岡県 / ちんぷりょーかく / ちゃぽん
+#619	HCARD40D.BIN:5	card	NO.046 愛知県 / やっとかめ / ガ
+#620	HCARD40D.BIN:6	card	NO.047 愛知県 / たーけ / ばしゃ
+#621	HCARD40D.BIN:7	card	NO.048 三重県 / つる / ひょい
+#622	HCARD40D.BIN:8	card	NO.049 三重県 / いごーわいた / ペッペッ
+#623	HCARD40D.BIN:9	card	NO.050 滋賀県 / ほっこりする
+#624	HCARD50D.BIN:0	card	NO.051 滋賀県 / おしずかに / スピー
+#625	HCARD50D.BIN:1	card	NO.052 京都府 / じぶんき?	word unsure
+#626	HCARD50D.BIN:2	card	NO.053 京都府 / おいとない?	word unsure
+#627	HCARD50D.BIN:3	card	NO.054 大阪府 / おはよう おかえり
+#628	HCARD50D.BIN:4	card	NO.055 大阪府 / はばかりさん / ゴシゴシ
+#629	HCARD50D.BIN:5	card	NO.056 大阪府 / どつく / ゴーン
+#630	HCARD50D.BIN:6	card	NO.057 兵庫県 / いっちょかみ
+#631	HCARD50D.BIN:7	card	NO.058 兵庫県 / なんならよ
+#632	HCARD50D.BIN:8	card	NO.059 奈良県 / すずめのおまつり
+#633	HCARD50D.BIN:9	card	NO.060 奈良県 / おしまいな
+#634	HCARD60D.BIN:0	card	NO.061 奈良県 / おどろし?	word unsure
+#635	HCARD60D.BIN:1	card	NO.062 和歌山県 / おてんす
+#636	HCARD60D.BIN:2	card	NO.063 和歌山県 / つれもてしょら?	word unsure
+#637	HCARD60D.BIN:3	card	NO.064 和歌山県 / やつす / ぱた ぱた
+#638	HCARD60D.BIN:4	card	NO.065 鳥取県 / けっぱなづく?	word unsure
+#639	HCARD60D.BIN:5	card	NO.066 鳥取県 / ほしー
+#640	HCARD60D.BIN:6	card	NO.067 島根県 / だんだん
+#641	HCARD60D.BIN:7	card	NO.068 島根県 / てぼっぽ? / だんご	word unsure
+#642	HCARD60D.BIN:8	card	NO.069 岡山県 / けー、こけー、けーして?	word unsure
+#643	HCARD60D.BIN:9	card	NO.070 岡山県 / きんだまびより?	word unsure
+#644	HCARD70D.BIN:0	card	NO.071 広島県 / しーしちゃるど? / バキ	word unsure
+#645	HCARD70D.BIN:1	card	NO.072 広島県 / いんぐりもんぐり
+#646	HCARD70D.BIN:2	card	NO.073 山口県 / ふぐ / ぢおる? / ぱた	word unsure
+#647	HCARD70D.BIN:3	card	NO.074 山口県 / とっぴん / どた
+#648	HCARD70D.BIN:4	card	NO.075 徳島県 / あるでなって?	word unsure
+#649	HCARD70D.BIN:5	card	NO.076 徳島県 / まがる / ベシッ
+#650	HCARD70D.BIN:6	card	NO.077 徳島県 / まけまけ
+#651	HCARD70D.BIN:7	card	NO.078 香川県 / かく
+#652	HCARD70D.BIN:8	card	NO.079 香川県 / けっこい
+#653	HCARD70D.BIN:9	card	NO.080 愛媛県 / ちょぎな人 / バキッ
+#654	HCARD80D.BIN:0	card	NO.081 愛媛県 / じゅるい / ズブズブ
+#655	HCARD80D.BIN:1	card	NO.082 愛媛県 / さきらほうさら?	word unsure
+#656	HCARD80D.BIN:2	card	NO.083 高知県 / はちきん
+#657	HCARD80D.BIN:3	card	NO.084 高知県 / くそーな? / ピチ ピチ	word unsure
+#658	HCARD80D.BIN:4	card	NO.085 福岡県 / しぇからしか
+#659	HCARD80D.BIN:5	card	NO.086 福岡県 / すいとう
+#660	HCARD80D.BIN:6	card	NO.087 佐賀県 / きんきんまーるか?	word unsure
+#661	HCARD80D.BIN:7	card	NO.088 佐賀県 / どしか?	word unsure
+#662	HCARD80D.BIN:8	card	NO.089 長崎県 / ひえぞたれ? / ぶる ぶる	word unsure
+#663	HCARD80D.BIN:9	card	NO.090 長崎県 / おぞむ / がばっ
+#664	HCARD90D.BIN:0	card	NO.091 熊本県 / うんぶるる? / ガボ ゴボ	word unsure
+#665	HCARD90D.BIN:1	card	NO.092 熊本県 / もだゆる
+#666	HCARD90D.BIN:2	card	NO.093 大分県 / よさきい? / ポイ	word unsure
+#667	HCARD90D.BIN:3	card	NO.094 大分県 / さるがりー?	word unsure
+#668	HCARD90D.BIN:4	card	NO.095 宮崎県 / いっぺこっぺ
+#669	HCARD90D.BIN:5	card	NO.096 宮崎県 / あば
+#670	HCARD90D.BIN:6	card	NO.097 鹿児島県 / びんた
+#671	HCARD90D.BIN:7	card	NO.098 鹿児島県 / おじゃいも
+#672	HCARD90D.BIN:8	card	NO.099 沖縄県 / ちゃんぷるー / ぐっ
+#673	HCARD90D.BIN:9	card	NO.100 沖縄県 / ちばりよー
+#674	HOUGEN0D.BIN:0	menu	カードアルバム / 枚 / 北海道 東北 関東 中部 近畿 中国・四国 九州・沖縄 / 新しいカード?	card-album UI atlas: region table, 枚 counter, red new-card tags
+#676	HOUGEN0D.BIN:2	logo	桃太郎まつり 石川六右衛門の巻 (+ tiny subtitle)	title logo on blue panel
+#687	M010D.BIN:4	banner	パーフェクトで賞! / たたいたで賞! / ごほうびで賞! / 見きったで賞! / のこったで賞!	5 award banners
+#692	M030D.BIN:1	other	どっち?	tiny hiragana by O K! labels; unsure
+#694	M030D.BIN:3	banner	パーフェクトで賞!	same style as #687
+#703	M050D.BIN:2	banner	大当たり	small tag under target sprites
+#706	M060D.BIN:2	other	れべる? 1 2 3 / よいしょ! / ほい! / まだまだ! / がんばれ!	speech bubbles
+#717	M080D.BIN:6	other	リーチ!?	speech bubble; unsure
+#725	M110D.BIN:0	banner	じゃんけん!ぽん! / 勝ち! 負け! 引き分け!	janken banners
+#744	M140D.BIN:0	banner	勝ち! / 負け! / 連続	win/lose tags
+#761	M170D.BIN:20	sign	一番	vertical flag held by hero in bath scene
+#768	M180D.BIN:3	hud	スカ ? (next to digits "+-5678910")	unsure, tiny, may be glyph fragment
+#783	M230D.BIN:0@f0	banner	?レース (framed katakana box, lower-left, roughly "アクア/レース")	unsure reading; also 1P 2P 3P 4P in Latin
+#786	M230D.BIN:3@5360	font	hiragana+katakana+ASCII A-Z/0-9 + symbols	small ~8px, kana+ASCII only, no kanji
+#796	M250D.BIN:21	logo	お面アルバム	green banner title (Mask Album)
+#797	M250D.BIN:22	menu	できあがり / つくりなおし / L1ボタン / R1ボタン	two states (bright+dim) of buttons
+#870	M440D.BIN:0	sign	price board: 大トロ 四〇〇, うに ?〇〇, 三〇〇, ?, えび, 二〇〇, 一〇〇	in-scene wooden sign; partly repeated in #871 left edge
+#877	M500D.BIN:0	banner	スタート	small orange text with Momotarou sprite
+#888	M560D.BIN:1	banner	勝ち! 負け! 引き分け!	rainbow result banners
+#890	M590D.BIN:0	banner	引き分け! 勝ち! 負け!	same banners (partial crop)
+#896	M590D.BIN:6	banner	勝ち! 負け! 引き分け!	same banners plus cloud sprites
+#897	M990D.BIN:0	font	HUD word atlas: 時間計勝負分得点記録階 / 1P2P3P4P コース ステージ ボーナス 両 / 桃太郎と金の勝ち / 赤浦島夜叉姫鬼 二 / 三四五六七八九十 / 本日回戦負け 走天候予想後 / 参加レース けっか 遅い回 コ 本 秒 間	metallic outlined glyphs; shared minigame HUD/result words
+#898	M990D.BIN:1	font	big outlined: 2345 6789 新記録達成!初 段位更新!段 免許皆伝ゲーム そこまで!おつかれさま 引き分け!スタート	~24px result/announcement glyphs
+#902	NAME0D.BIN:0	menu	ゆうぎアルバム / 段位詳細 / おためし対戦! / ネームエントリー	title + menu labels with arrows
+#903	NAME0D.BIN:1	font	name-entry hiragana table (あ..ん, small kana, dakuten)	yellow ~12px; name entry keyboard
+#910	STATUS0D.BIN:0	menu	ステータス / 総段位 段 巻 / 免許皆伝 / 総カード枚数 / プレイ時間 / 歩数 / お金 / 桃太郎 / 桃太郎名人 / 桃太郎達人 / 桃太郎仙人	status screen labels and rank titles
+#916	YUGI0D.BIN:1	logo	桃太郎まつり 石川六右衛門の巻 (+ tiny tagline)	title logo
