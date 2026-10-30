@@ -1,0 +1,6 @@
+# Cold boot to the title (ready ~frame 2400 on the SCPH-5500 BIOS), Start to the main menu
+2400 -
+6 start
+200 -
+6 start
+400 -

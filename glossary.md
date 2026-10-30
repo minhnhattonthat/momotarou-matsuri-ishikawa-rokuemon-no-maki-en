@@ -1,13 +1,14 @@
-# Glossary - <Game title>
+# Glossary - Momotarou Matsuri: Ishikawa Rokuemon no Maki (PS1)
 
 Binding for every translator and reviewer. Agents propose additions in reports; only the controller edits this file.
 
 ## Rulings (asked of the user once; options and reasons in docs/decisions.md)
-- Honorifics: <kept, hyphenated (Johannes-san) | dropped>. Name order: <JP | Western>.
-- Romanisation source: <official art / anime / Hepburn>.
-- Credits: <stay kanji | English>.
-- Register / flavour: <e.g. keep light JP flavour>. Sound effects: <*Slam!*>.
-- Abbreviations: <default: full names and terms everywhere, prefer engine changes over shortening>.
+- Honorifics: kept, hyphenated (Momotaro-san). Name order: Western (given name first).
+- Romanisation source: official English names where they exist, else an earlier fan patch, else Hepburn without
+  macrons (Momotaro, not Momotarou). Reuse the spellings in `../momotarou-densetsu-en/glossary.md` (same series).
+- Credits: English.
+- Register / flavour: <set in phase 6>. Sound effects: <*Slam!*>.
+- Abbreviations: full names and terms everywhere, prefer engine changes over shortening.
 
 ## Style rules
 - Punctuation map: 「」 -> "...", 『』 -> '...', ・・・ -> ..., ！？ -> !?, <more>.
