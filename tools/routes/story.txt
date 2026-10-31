@@ -1,0 +1,12 @@
+# Cold boot -> New game (初めて) -> いざ！物語へ (story mode, menu mode 0x50, top-right item)
+2400 -
+6 start
+200 -
+6 start
+500 -
+6 circle
+400 -
+6 right
+60 -
+6 circle
+200 -

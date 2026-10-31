@@ -14,6 +14,7 @@ Addresses are for the dump in `rom.sha1` unless a note says otherwise.
 |---|---|---|
 | [disc.md](disc.md) | disc layout, EXE LBA file table, load addresses, archives, ECD compression, free space | verified (free space: candidates) |
 | [text.md](text.md) | Shift-JIS, control codes, message block, where the text is | encoding/codes verified; script bytecode layout open |
+| [debug.md](debug.md) | game mode/map/event RAM, script interpreter, warp tool, unreachable maps | verified by warp_all (452 scenes) |
 | [graphics.md](graphics.md) | font, TIM images, graphics-text survey | survey from the static sweep; runtime checks in phase 8 |
 
 Tools: `tools/iso.py` (LBAs), `tools/arc.py` (archives), `tools/ecd.py` (ECD codec), `tools/tim.py` (TIM decode),

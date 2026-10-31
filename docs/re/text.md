@@ -49,7 +49,8 @@
 - **Script bytecode layout (guess):** GSV/GSF/GSS/GDEF entries hold u16-word instructions with message blocks
   inline; whether any instruction holds a byte offset into its entry (a jump that would break when text grows)
   is not known. The interpreter was not found statically (no large jump-table switch reads these words; the
-  155-case switch at OVLEVT 0x800CBB5C is the event actor engine). Plan: phase 2 reaches board mode, then a
-  read watch on a loaded GSV entry gives the interpreter PC (same method as `work/qa/watch1`).
+  155-case switch at OVLEVT 0x800CBB5C is the event actor engine). Phase 2 found the interpreter loop at EXE
+  0x8003698C, state at 0x800BF7B8 (debug.md); jump ops look like label ids (`0x1E N`), not offsets (guess).
+  Next: disassemble the op handlers from 0x8003698C to list each op's length and any offset operands.
 - Code strings (overlays, EXE): pointer form (`lui/addiu` pairs vs tables; OVLGMAIN has a 3,606-word pointer
   table at 0x800DD3F0) to be swept in phase 4.

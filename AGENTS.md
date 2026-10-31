@@ -6,7 +6,7 @@ Skill: translate-retro-game (Claude Code: plugin, enabled in .claude/settings.js
 - Build:    `python -X utf8 tools/build.py` -> `build/momotarou-matsuri_en.cue/.bin` (phase 3+; checks the dump against `rom.sha1` first)
 - Check:    `python -X utf8 tools/check.py` (tests + lint; the pre-commit hook runs it; `git config core.hooksPath tools/hooks` once per clone)
 - Smoke:    `python -X utf8 "$(python tools/skill.py)/scripts/emu.py" build/momotarou-matsuri_en.cue --out work/qa/smoke --route tools/routes/boot.txt --smoke` (boot.txt ends on the New/Continue menu)
-- Warp:     `python -X utf8 "$(python tools/skill.py)/scripts/emu.py" build/momotarou-matsuri_en.cue --out work/qa/warp --script tools/debug/warp.lua --var "SCENE='<name>'" --frames 900 --sheet` (phase 2+; scenes: `tools/debug/scenes.txt`; never ask the user to play to a scene)
+- Warp:     `python -X utf8 "$(python tools/skill.py)/scripts/emu.py" build/momotarou-matsuri_en.cue --out work/qa/warp --script tools/debug/warp.lua --var "SCENE='<name>'" --frames 900 --sheet` (scenes: `tools/debug/scenes.txt`, RE in `docs/re/debug.md`; all scenes: `python -X utf8 tools/debug/warp_all.py [CUE]`; never ask the user to play to a scene)
 - Release:  `python -X utf8 tools/release.py` (phase 9; xdelta against the .bin; patch + verify; never publish without the user)
 - Clean:    `python -X utf8 tools/clean.py` (published projects: lists rebuildable/downloadable files; `--yes` deletes)
 
