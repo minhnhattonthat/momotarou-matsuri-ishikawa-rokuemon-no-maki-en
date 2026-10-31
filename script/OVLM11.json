@@ -3,14 +3,14 @@
   "id": "OVLM11@800CB338",
   "kind": "code",
   "jp": "グー　チョキ　パーをえらびましょう！",
-  "en": "",
+  "en": "Choose rock, paper or scissors!",
   "max": 39
  },
  {
   "id": "OVLM11@800CB360",
   "kind": "code",
   "jp": "方向キーの　上下で",
-  "en": "",
+  "en": "Up/Down on the D-pad",
   "max": 23
  }
 ]

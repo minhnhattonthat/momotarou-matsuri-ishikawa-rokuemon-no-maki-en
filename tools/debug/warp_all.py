@@ -26,15 +26,16 @@ def scenes():
     return out
 
 
-def run(cue, out, name, hold=None, click=None, every=None, probes=()):
+def run(cue, out, name, hold=None, click=None, every=None, probes=(), debugger=False):
     d = os.path.join(out, name)
     shutil.rmtree(d, ignore_errors=True)
     extra = (['--var', f'HOLD={hold}'] if hold else []) + (['--var', f'CLICK={click}'] if click else []) + \
         (['--shot-every', str(every)] if every else []) + [x for p in probes for x in ('--script', os.path.abspath(p))]
+    extra += ['--debugger'] if debugger else []   # exec hooks (e.g. tools/lua/deadwatch.lua) need the interpreter
     p = subprocess.run([sys.executable, '-X', 'utf8', os.path.join(SKILL, 'scripts', 'emu.py'), cue, '--out', d,
                         '--script', os.path.join(HERE, 'warp.lua'), '--var', f"SCENE='{name}'",
                         '--var', f"SCENES=[[{os.path.abspath(os.path.join(HERE, 'scenes.txt'))}]]",
-                        '--frames', '1', '--timeout', str(240 + (hold or 0) // 20)] + extra,
+                        '--frames', '1', '--timeout', str((240 + (hold or 0) // 20) * (3 if debugger else 1))] + extra,
                        capture_output=True, text=True)
     log = open(os.path.join(d, 'log.txt'), encoding='utf-8', errors='replace').read() if os.path.exists(
         os.path.join(d, 'log.txt')) else ''
@@ -59,11 +60,12 @@ def main():
     ap.add_argument('--click', type=int, help='press circle every N frames after arrival (warp.lua CLICK)')
     ap.add_argument('--every', type=int, help='also shoot every N frames (OUT/<scene>/f*.png)')
     ap.add_argument('--probe', action='append', default=[], help='extra Lua script, e.g. tools/lua/textlog.lua')
+    ap.add_argument('--debugger', action='store_true', help='interpreter + debugger (exec-hook probes)')
     a = ap.parse_args()
     os.makedirs(os.path.join(a.out, 'shots'), exist_ok=True)
     todo = [s for s in scenes() if re.search(a.only, s)]
     with cf.ThreadPoolExecutor(a.jobs) as ex:
-        res = list(ex.map(lambda s: run(a.cue, a.out, s, a.hold, a.click, a.every, a.probe), todo))
+        res = list(ex.map(lambda s: run(a.cue, a.out, s, a.hold, a.click, a.every, a.probe, a.debugger), todo))
     with open(os.path.join(a.out, 'result.tsv'), 'w', encoding='utf-8', newline='\n') as f:
         for r in res:
             f.write('\t'.join(r) + '\n')

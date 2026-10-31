@@ -10,8 +10,9 @@ Modes:
 overrides = {id: text} wins over both (stress lines for the width gate).
 
 Archives: script entries are rebuilt with text.rebuild (jumps move) and the archive repacked (arc.pack).
-Code strings (`NAME@ADDR`, kind code) are written in place: encoded bytes + NUL within `max`; longer text is
-an error until relocation exists (phase 7).
+Code strings (`NAME@ADDR`, kind code) are written in place: encoded bytes + NUL within `max`. Longer text is
+relocated in layout.RELOC files (patch_code) and an error elsewhere (EXE, OVLM*: too little slack, and the
+"dead" EXE functions from tools/deadcode.py are not dead: 0x80058A98 ran in event00 under tools/lua/deadwatch.lua).
 """
 import json
 import re
@@ -137,18 +138,72 @@ def build_archive(path, items):
     return arc.pack(ents, struct.unpack_from('<I', d)[0])
 
 
+def fit(t, n):
+    """t cut to at most n encoded bytes."""
+    while len(text.encode_text(t)) > n:
+        t = t[:-1]
+    return t
+
+
 def patch_code(data, path, items, rows):
-    """Code file bytes with strings replaced in place."""
+    """Code file bytes with strings replaced in place. In layout.RELOC files a string longer than its `max` moves
+    into a hole that shorter English leaves inside another string's original Japanese bytes (never the zero
+    padding after it, which may be a struct field), 4-aligned, and every ref codestr finds (pointer words,
+    lui+lo pairs) is repointed; its old place keeps the English cut to fit, for any ref codestr misses."""
+    import layout
     out = bytearray(data)
-    _, base, hdr = codestr.image(path)
+    d, base, hdr = codestr.image(path)
     byid = {r['id']: r for r in rows}
+    starts = sorted(int(r['id'].split('@')[1], 16) - base + hdr for r in rows)
+    holes, moves = [], []
     for iid, t in items.items():
         r = byid[iid]
         enc = text.encode_text(t)
-        if len(enc) > r['max']:
-            raise ValueError(f'{iid}: {len(enc)} bytes > max {r["max"]}: {t!r}')
         o = int(iid.split('@')[1], 16) - base + hdr
+        if len(enc) > r['max']:
+            if not iid.startswith(layout.RELOC):
+                raise ValueError(f'{iid}: {len(enc)} bytes > max {r["max"]}: {t!r}')
+            moves.append((iid, o, enc, t))
+            enc = text.encode_text(fit(t, r['max']))
         out[o:o + r['max'] + 1] = enc + bytes(r['max'] + 1 - len(enc))
+        # free: after this English's NUL up to the original string's 4-aligned end (its NUL + alignment padding,
+        # within max) or the next string (a tail ref), whichever first
+        nul = d.index(b'\0', o - hdr) + hdr
+        end = min([(nul + 4) & ~3, o + r['max'] + 1] + [s for s in starts if s > o])
+        lo = (o + len(enc) + 1 + 3) & ~3
+        if end > lo:
+            holes.append([lo, end])
+    if not moves:
+        return bytes(out)
+    rf = codestr.refs(d, base)
+    lui_users = defaultdict(set)
+    for a, rs in rf.items():
+        for k in rs:
+            if k[0] == 'hilo':
+                lui_users[k[1]].add(a)
+    for iid, o, enc, t in sorted(moves, key=lambda m: -len(m[2])):
+        need = len(enc) + 1
+        h = min((h for h in holes if h[1] - h[0] >= need), key=lambda h: h[1] - h[0], default=None)
+        if h is None:
+            raise ValueError(f'{iid}: no hole for {need} bytes: {t!r}')
+        new = base + h[0] - hdr
+        out[h[0]:h[0] + need] = enc + b'\0'
+        h[0] = (h[0] + need + 3) & ~3
+        old = base + o - hdr
+        for k in rf.get(old, []):
+            if k[0] == 'ptr':
+                struct.pack_into('<I', out, hdr + k[1], new)
+                continue
+            lui_o, lo_o = hdr + k[1], hdr + k[2]
+            lw = struct.unpack_from('<I', out, lo_o)[0]
+            signed = lw >> 26 != 0x0D
+            hi = (new + 0x8000) >> 16 if signed else new >> 16
+            ui = struct.unpack_from('<I', out, lui_o)[0]
+            if hi != ui & 0xFFFF:
+                if lui_users[k[1]] - {old}:
+                    raise ValueError(f'{iid}: lui at {k[1]:#x} shared, cannot move to {new:#x}')
+                struct.pack_into('<I', out, lui_o, (ui & 0xFFFF0000) | hi)
+            struct.pack_into('<I', out, lo_o, (lw & 0xFFFF0000) | (new & 0xFFFF))
     return bytes(out)
 
 

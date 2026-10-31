@@ -47,7 +47,11 @@ Tests: `tests/test_text.py`.
   408 menus (1,601 items), 27 captions. Every one rebuilds byte-identical; grown text moves every jump with its op.
 - Code strings: 1,156 NUL-terminated strings reached by a pointer word or a `lui`+`addiu/ori/load` pair, in the
   EXE (259), OVLGMAIN (503), OVLXTTL (276), OVLEVT (17) and 13 OVLM overlays. `max` = bytes up to the next string
-  (in-place room); longer English needs relocation and repointing every ref (phase 5/7).
+  (in-place room). Longer English (OVLGMAIN, OVLXTTL only) moves at build into slack that shorter English
+  leaves inside other strings' original Japanese bytes; every ref is repointed and the old place keeps a cut copy
+  (`insert.patch_code`, test `test_long_overlay_string_moves_into_slack_and_every_ref_follows`). EXE and OVLM
+  strings must fit `max`: slack is short there, and tools/deadcode.py "dead" EXE functions can run (0x80058A98
+  ran in event00 under an exec watch, tools/lua/deadwatch.lua), so no code cave for strings.
 - Coverage: every Shift-JIS run with >= 4 chars and >= 1/3 kana on the disc lies inside an extracted item, except
   8 runs checked as binary noise (listed in the test). A looser kanji-only scan (6+ chars, NUL- or code-ended,
   even offset) found only noise too (1,258 hits, all in graphics/sound data).

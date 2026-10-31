@@ -3,1687 +3,1687 @@
   "id": "OVLXTTL@800CB4E4",
   "kind": "code",
   "jp": "　　　　　初めて　　　　続き",
-  "en": "",
+  "en": "　　　　　New Game　　　Resume",
   "max": 31
  },
  {
   "id": "OVLXTTL@800CB504",
   "kind": "code",
   "jp": "おためし対戦！",
-  "en": "",
+  "en": "Quick Match!",
   "max": 15
  },
  {
   "id": "OVLXTTL@800CB514",
   "kind": "code",
   "jp": "いざ！物語へ",
-  "en": "",
+  "en": "Story Mode",
   "max": 15
  },
  {
   "id": "OVLXTTL@800CB524",
   "kind": "code",
   "jp": "ゆうぎアルバム",
-  "en": "",
+  "en": "Game Album",
   "max": 15
  },
  {
   "id": "OVLXTTL@800CB534",
   "kind": "code",
   "jp": "ステータス",
-  "en": "",
+  "en": "Status",
   "max": 11
  },
  {
   "id": "OVLXTTL@800CB5C0",
   "kind": "code",
   "jp": "桃太郎の実家",
-  "en": "",
+  "en": "Momotaro's Home",
   "max": 15
  },
  {
   "id": "OVLXTTL@800CB5D0",
   "kind": "code",
   "jp": "ひょっとこの村",
-  "en": "",
+  "en": "Hyottoko",
   "max": 15
  },
  {
   "id": "OVLXTTL@800CB5E0",
   "kind": "code",
   "jp": "小太郎の村",
-  "en": "",
+  "en": "Kotaro",
   "max": 11
  },
  {
   "id": "OVLXTTL@800CB5EC",
   "kind": "code",
   "jp": "わらしべの村",
-  "en": "",
+  "en": "Warashibe",
   "max": 15
  },
  {
   "id": "OVLXTTL@800CB5FC",
   "kind": "code",
   "jp": "隠れ里",
-  "en": "",
+  "en": "Hidden Village",
   "max": 7
  },
  {
   "id": "OVLXTTL@800CB604",
   "kind": "code",
   "jp": "竹取りの村",
-  "en": "",
+  "en": "Taketori",
   "max": 11
  },
  {
   "id": "OVLXTTL@800CB610",
   "kind": "code",
   "jp": "ひこぼしの村",
-  "en": "",
+  "en": "Hikoboshi",
   "max": 15
  },
  {
   "id": "OVLXTTL@800CB620",
   "kind": "code",
   "jp": "ウサカメの村",
-  "en": "",
+  "en": "Usakame",
   "max": 15
  },
  {
   "id": "OVLXTTL@800CB630",
   "kind": "code",
   "jp": "希望の都",
-  "en": "",
+  "en": "Capital",
   "max": 11
  },
  {
   "id": "OVLXTTL@800CB63C",
   "kind": "code",
   "jp": "ほほえみの村",
-  "en": "",
+  "en": "Hohoemi",
   "max": 15
  },
  {
   "id": "OVLXTTL@800CB64C",
   "kind": "code",
   "jp": "寝太郎の村",
-  "en": "",
+  "en": "Netaro",
   "max": 11
  },
  {
   "id": "OVLXTTL@800CB658",
   "kind": "code",
   "jp": "浦島の村",
-  "en": "",
+  "en": "Urashima",
   "max": 11
  },
  {
   "id": "OVLXTTL@800CB664",
   "kind": "code",
   "jp": "金太郎の村",
-  "en": "",
+  "en": "Kintaro",
   "max": 11
  },
  {
   "id": "OVLXTTL@800CB670",
   "kind": "code",
   "jp": "花咲かの村",
-  "en": "",
+  "en": "Hanasaka",
   "max": 11
  },
  {
   "id": "OVLXTTL@800CB67C",
   "kind": "code",
   "jp": "恩返しの村",
-  "en": "",
+  "en": "Ongaeshi",
   "max": 11
  },
  {
   "id": "OVLXTTL@800CB688",
   "kind": "code",
   "jp": "おむすび村",
-  "en": "",
+  "en": "Omusubi",
   "max": 11
  },
  {
   "id": "OVLXTTL@800CB694",
   "kind": "code",
   "jp": "カチカチの村",
-  "en": "",
+  "en": "Kachi-Kachi",
   "max": 15
  },
  {
   "id": "OVLXTTL@800CB6A4",
   "kind": "code",
   "jp": "旅立ちの村",
-  "en": "",
+  "en": "Tabidachi",
   "max": 11
  },
  {
   "id": "OVLXTTL@800CB6B0",
   "kind": "code",
   "jp": "地獄",
-  "en": "",
+  "en": "Hell",
   "max": 7
  },
  {
   "id": "OVLXTTL@800CB6B8",
   "kind": "code",
   "jp": "龍神の沼",
-  "en": "",
+  "en": "Dragon God Marsh",
   "max": 11
  },
  {
   "id": "OVLXTTL@800CB6C4",
   "kind": "code",
   "jp": "ファイルがこわれています{KE}",
-  "en": "",
+  "en": "This file is corrupted.{KE}",
   "max": 27
  },
  {
   "id": "OVLXTTL@800CB6E0",
   "kind": "code",
   "jp": "このファイルでいいですか？{KE}",
-  "en": "",
+  "en": "Use this file?{KE}",
   "max": 31
  },
  {
   "id": "OVLXTTL@800CB700",
   "kind": "code",
   "jp": "差込口１のメモリーカードには{KK}このゲームのファイルは{KK}ありません{KE}",
-  "en": "",
+  "en": "The Memory Card in{KK}slot 1 has no save{KK}file for this game.{KE}",
   "max": 67
  },
  {
   "id": "OVLXTTL@800CB744",
   "kind": "code",
   "jp": "セーブが終了しました{KE}",
-  "en": "",
+  "en": "Save complete.{KE}",
   "max": 23
  },
  {
   "id": "OVLXTTL@800CB75C",
   "kind": "code",
   "jp": "ロードが終了しました{KE}",
-  "en": "",
+  "en": "Load complete.{KE}",
   "max": 23
  },
  {
   "id": "OVLXTTL@800CB774",
   "kind": "code",
   "jp": "セーブしなくても{KK}いいですか？{KE}",
-  "en": "",
+  "en": "Really go on{KK}without saving?{KE}",
   "max": 35
  },
  {
   "id": "OVLXTTL@800CB798",
   "kind": "code",
   "jp": "ロードしなくても{KK}いいですか？{KE}",
-  "en": "",
+  "en": "Really go on{KK}without loading?{KE}",
   "max": 35
  },
  {
   "id": "OVLXTTL@800CB7BC",
   "kind": "code",
   "jp": "セーブするファイルを{KK}えらんでください{KE}",
-  "en": "",
+  "en": "Choose a file{KK}to save to.{KE}",
   "max": 43
  },
  {
   "id": "OVLXTTL@800CB7E8",
   "kind": "code",
   "jp": "ロードするファイルを{KK}えらんでください{KE}",
-  "en": "",
+  "en": "Choose a file{KK}to load.{KE}",
   "max": 43
  },
  {
   "id": "OVLXTTL@800CB814",
   "kind": "code",
   "jp": "はい",
-  "en": "",
+  "en": "Yes",
   "max": 7
  },
  {
   "id": "OVLXTTL@800CB81C",
   "kind": "code",
   "jp": "いいえ",
-  "en": "",
+  "en": "No",
   "max": 7
  },
  {
   "id": "OVLXTTL@800CB824",
   "kind": "code",
   "jp": "ファイルがありません",
-  "en": "",
+  "en": "No file found",
   "max": 23
  },
  {
   "id": "OVLXTTL@800CB83C",
   "kind": "code",
   "jp": "ファイルがこわれています",
-  "en": "",
+  "en": "This file is corrupted.",
   "max": 27
  },
  {
   "id": "OVLXTTL@800CB878",
   "kind": "code",
   "jp": "　　　　　　がんばりなさい　　　　　　",
-  "en": "",
+  "en": "Do your best",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CB8A0",
   "kind": "code",
   "jp": "　　　　　　　ごちゃまぜ　　　　　　　",
-  "en": "",
+  "en": "All jumbled up",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CB8C8",
   "kind": "code",
   "jp": "　　　　　　いらっしゃる　　　　　　　",
-  "en": "",
+  "en": "To be here (polite)",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CB8F0",
   "kind": "code",
   "jp": "　　　　　　　　あたま　　　　　　　　",
-  "en": "",
+  "en": "Head",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CB918",
   "kind": "code",
   "jp": "　　　　　　　　新しい　　　　　　　　",
-  "en": "",
+  "en": "New",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CB940",
   "kind": "code",
   "jp": "　　　　　　　一生けん命　　　　　　　",
-  "en": "",
+  "en": "With all your might",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CB968",
   "kind": "code",
   "jp": "　　　　　　　かたぐるま　　　　　　　",
-  "en": "",
+  "en": "A ride on someone's shoulders",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CB990",
   "kind": "code",
   "jp": "　　　　めんどくさい　おっくう　　　　",
-  "en": "",
+  "en": "Bothersome; can't be bothered",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CB9B8",
   "kind": "code",
   "jp": "　　　　　　　　あせる　　　　　　　　",
-  "en": "",
+  "en": "To be flustered",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CB9E0",
   "kind": "code",
   "jp": "　おぼれる　　おぼれた人はうんぶくれ　",
-  "en": "",
+  "en": "To drown (a drowned one: unbukure)",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CBA08",
   "kind": "code",
   "jp": "　　　　　起きる　目を覚ます　　　　　",
-  "en": "",
+  "en": "To get up; to wake up",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CBA30",
   "kind": "code",
   "jp": "　　　　　　　　小心者　　　　　　　　",
-  "en": "",
+  "en": "A coward",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CBA58",
   "kind": "code",
   "jp": "　　　　　　　　不器用　　　　　　　　",
-  "en": "",
+  "en": "Clumsy",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CBA80",
   "kind": "code",
   "jp": "　　　　　　　まん丸い　　　　　　　　",
-  "en": "",
+  "en": "Perfectly round",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CBAA8",
   "kind": "code",
   "jp": "　　　　　　　　好き　　　　　　　　　",
-  "en": "",
+  "en": "To like",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CBAD0",
   "kind": "code",
   "jp": "　　　うるさい　つべこべ言うな　　　　",
-  "en": "",
+  "en": "Noisy; quit your griping",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CBAF8",
   "kind": "code",
   "jp": "　　　　まるまるして健康そう　　　　　",
-  "en": "",
+  "en": "Plump and healthy-looking",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CBB20",
   "kind": "code",
   "jp": "　　　　　　　おてんば　　　　　　　　",
-  "en": "",
+  "en": "Tomboy",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CBB48",
   "kind": "code",
   "jp": "さんざんな目にあう　めちゃくちゃになる",
-  "en": "",
+  "en": "Have an awful time; get wrecked",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CBB70",
   "kind": "code",
   "jp": "　　　　　　ぬかるんでいる　　　　　　",
-  "en": "",
+  "en": "Muddy",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CBB98",
   "kind": "code",
   "jp": "　　　　　　　暴れん坊　　　　　　　　",
-  "en": "",
+  "en": "A wild one",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CBBC0",
   "kind": "code",
   "jp": "　　　　　　　　きれい　　　　　　　　",
-  "en": "",
+  "en": "Pretty; clean",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CBBE8",
   "kind": "code",
   "jp": "　　　　　　　　運ぶ　　　　　　　　　",
-  "en": "",
+  "en": "To carry",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CBC10",
   "kind": "code",
   "jp": "　　　　　あふれそうな様子　　　　　　",
-  "en": "",
+  "en": "About to overflow",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CBC38",
   "kind": "code",
   "jp": "　　　　　　　邪魔になる　　　　　　　",
-  "en": "",
+  "en": "To be in the way",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CBC60",
   "kind": "code",
   "jp": "　　　あるではないですか＝ある　　　　",
-  "en": "",
+  "en": "\"Isn't there?\" = there is",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CBC88",
   "kind": "code",
   "jp": "　　　　　　　　大急ぎ　　　　　　　　",
-  "en": "",
+  "en": "In a big hurry",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CBCB0",
   "kind": "code",
   "jp": "　　　　　　駄々をこねる　　　　　　　",
-  "en": "",
+  "en": "To throw a tantrum",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CBCD8",
   "kind": "code",
   "jp": "　　　　　　　くねくね　　　　　　　　",
-  "en": "",
+  "en": "Wiggly; winding",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CBD00",
   "kind": "code",
   "jp": "　　　　　　こらしめてやる　　　　　　",
-  "en": "",
+  "en": "I'll teach you a lesson",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CBD28",
   "kind": "code",
   "jp": "　　　　　ハッキリしない天気　　　　　",
-  "en": "",
+  "en": "Unsettled weather",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CBD50",
   "kind": "code",
   "jp": "　　これ　ここへ　返してください　　　",
-  "en": "",
+  "en": "Hey, please put this back here",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CBD78",
   "kind": "code",
   "jp": "　　　　　　　一文無し　　　　　　　　",
-  "en": "",
+  "en": "Penniless",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CBDA0",
   "kind": "code",
   "jp": "　　　　　　　ありがとう　　　　　　　",
-  "en": "",
+  "en": "Thank you",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CBDC8",
   "kind": "code",
   "jp": "　　　　　　もったいない　　　　　　　",
-  "en": "",
+  "en": "What a waste",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CBDF0",
   "kind": "code",
   "jp": "　　　　　　　つまづく　　　　　　　　",
-  "en": "",
+  "en": "To trip",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CBE18",
   "kind": "code",
   "jp": "　　　　　　おめかしする　　　　　　　",
-  "en": "",
+  "en": "To dress up",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CBE40",
   "kind": "code",
   "jp": "　　　　　　一緒にやろう　　　　　　　",
-  "en": "",
+  "en": "Let's do it together",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CBE68",
   "kind": "code",
   "jp": "　　　　　　　値段が高い　　　　　　　",
-  "en": "",
+  "en": "Expensive",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CBE90",
   "kind": "code",
   "jp": "　　　　面倒　疲れた　だるい　　　　　",
-  "en": "",
+  "en": "A bother; tired; sluggish",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CBEB8",
   "kind": "code",
   "jp": "　　　　　　　こんばんは　　　　　　　",
-  "en": "",
+  "en": "Good evening",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CBEE0",
   "kind": "code",
   "jp": "　　　　　　　おしゃべり　　　　　　　",
-  "en": "",
+  "en": "Chatterbox",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CBF08",
   "kind": "code",
   "jp": "　　　あいづちの言葉　なるほど　　　　",
-  "en": "",
+  "en": "Word of agreement: \"I see\"",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CBF30",
   "kind": "code",
   "jp": "　　　　何にでも首を突っ込む人　　　　",
-  "en": "",
+  "en": "Someone who pokes into everything",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CBF58",
   "kind": "code",
   "jp": "　　　素手でなぐる　物でたたく　　　　",
-  "en": "",
+  "en": "Punch bare-handed; hit with a thing",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CBF80",
   "kind": "code",
   "jp": "　　　　　　　ご苦労様　　　　　　　　",
-  "en": "",
+  "en": "Thanks for your trouble",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CBFA8",
   "kind": "code",
   "jp": "　　　　　いってらっしゃい　　　　　　",
-  "en": "",
+  "en": "See you later, take care",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CBFD0",
   "kind": "code",
   "jp": "　　　　（お金に）こだわらない　　　　",
-  "en": "",
+  "en": "Easygoing (about money)",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CBFF8",
   "kind": "code",
   "jp": "　　　　　　　食事の時間　　　　　　　",
-  "en": "",
+  "en": "Mealtime",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CC020",
   "kind": "code",
   "jp": "　　　疲れがとれる　ゆったりする　　　",
-  "en": "",
+  "en": "Feel rested; relax",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CC048",
   "kind": "code",
   "jp": "　　　　　　　腹が立った　　　　　　　",
-  "en": "",
+  "en": "I got mad",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CC070",
   "kind": "code",
   "jp": "　　　　もちあげる（机をつる）　　　　",
-  "en": "",
+  "en": "To lift (carry a desk)",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CC098",
   "kind": "code",
   "jp": "　　　　　　たわけ　あほ　　　　　　　",
-  "en": "",
+  "en": "Fool; idiot",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CC0C0",
   "kind": "code",
   "jp": "　　　　　　　ひさしぶり　　　　　　　",
-  "en": "",
+  "en": "Long time no see",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CC0E8",
   "kind": "code",
   "jp": "　　　　すねる　ふてくされる　　　　　",
-  "en": "",
+  "en": "To sulk; to pout",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CC110",
   "kind": "code",
   "jp": "　　　　　　とてもキレイ　　　　　　　",
-  "en": "",
+  "en": "Very pretty",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CC138",
   "kind": "code",
   "jp": "　　　　　　体をいたわる　　　　　　　",
-  "en": "",
+  "en": "Take care of yourself",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CC160",
   "kind": "code",
   "jp": "　　　　　　　トイレ　　　　　　　　　",
-  "en": "",
+  "en": "Toilet",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CC188",
   "kind": "code",
   "jp": "　　　　みずみずしい　新鮮な　　　　　",
-  "en": "",
+  "en": "Juicy; fresh",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CC1B0",
   "kind": "code",
   "jp": "　　　　　きちんとしている　　　　　　",
-  "en": "",
+  "en": "Neat and tidy",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CC1D8",
   "kind": "code",
   "jp": "　　　　　　ご苦労様です　　　　　　　",
-  "en": "",
+  "en": "Thank you for your hard work",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CC200",
   "kind": "code",
   "jp": "　　　　　　　集まる　　　　　　　　　",
-  "en": "",
+  "en": "To gather",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CC228",
   "kind": "code",
   "jp": "　　　　　　元気ですか？　　　　　　　",
-  "en": "",
+  "en": "How are you?",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CC250",
   "kind": "code",
   "jp": "　　　　　　　正座する　　　　　　　　",
-  "en": "",
+  "en": "To sit formally (seiza)",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CC278",
   "kind": "code",
   "jp": "　　　　　　　酒を飲む　　　　　　　　",
-  "en": "",
+  "en": "To drink sake",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CC2A0",
   "kind": "code",
   "jp": "　　　　　　　にくらしい　　　　　　　",
-  "en": "",
+  "en": "Detestable",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CC2C8",
   "kind": "code",
   "jp": "　　　　　　　なまけもの　　　　　　　",
-  "en": "",
+  "en": "Lazybones",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CC2F0",
   "kind": "code",
   "jp": "　　　　　　　人なつこい　　　　　　　",
-  "en": "",
+  "en": "Friendly; sociable",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CC318",
   "kind": "code",
   "jp": "　　　のんびりする　ゆったりする　　　",
-  "en": "",
+  "en": "Take it easy; relax",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CC340",
   "kind": "code",
   "jp": "　　　　まぁまあ　どうもどうも　　　　",
-  "en": "",
+  "en": "Well, well; thanks, thanks",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CC368",
   "kind": "code",
   "jp": "　　　　　　　乗せる　　　　　　　　　",
-  "en": "",
+  "en": "To give a ride",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CC390",
   "kind": "code",
   "jp": "　　　　　　　　固い　　　　　　　　　",
-  "en": "",
+  "en": "Hard",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CC3B8",
   "kind": "code",
   "jp": "　　　　機敏な　すばしっこい　　　　　",
-  "en": "",
+  "en": "Nimble; quick",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CC3E0",
   "kind": "code",
   "jp": "　　　　　　　まっすぐ　　　　　　　　",
-  "en": "",
+  "en": "Straight",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CC408",
   "kind": "code",
   "jp": "　　　　　なにを言ってるんだ　　　　　",
-  "en": "",
+  "en": "What are you saying?!",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CC430",
   "kind": "code",
   "jp": "　　　　　　　　不良品　　　　　　　　",
-  "en": "",
+  "en": "Defective goods",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CC458",
   "kind": "code",
   "jp": "　　　　　　　　食べる　　　　　　　　",
-  "en": "",
+  "en": "To eat",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CC480",
   "kind": "code",
   "jp": "　　　　　　仲間に入れて　　　　　　　",
-  "en": "",
+  "en": "Let me join in",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CC4A8",
   "kind": "code",
   "jp": "　　　とんでもない　途方もない　　　　",
-  "en": "",
+  "en": "Outrageous; tremendous",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CC4D0",
   "kind": "code",
   "jp": "　　　　　似てる　うりふたつ　　　　　",
-  "en": "",
+  "en": "Alike; two peas in a pod",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CC4F8",
   "kind": "code",
   "jp": "　　　　　　　　無鉄砲　　　　　　　　",
-  "en": "",
+  "en": "Reckless",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CC520",
   "kind": "code",
   "jp": "　　　　　　　　怒る　　　　　　　　　",
-  "en": "",
+  "en": "To get angry",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CC548",
   "kind": "code",
   "jp": "　　　　　　いたずらする　　　　　　　",
-  "en": "",
+  "en": "To play pranks",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CC570",
   "kind": "code",
   "jp": "　　　食べ物を　油で　いためる　　　　",
-  "en": "",
+  "en": "To fry food in oil",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CC598",
   "kind": "code",
   "jp": "　　　　　五分五分　引き分け　　　　　",
-  "en": "",
+  "en": "Fifty-fifty; a draw",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CC5C0",
   "kind": "code",
   "jp": "　　　　　　　　行く　　　　　　　　　",
-  "en": "",
+  "en": "To go",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CC5E8",
   "kind": "code",
   "jp": "　　　　　すねる　強情をはる　　　　　",
-  "en": "",
+  "en": "To sulk; to be stubborn",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CC610",
   "kind": "code",
   "jp": "　　　　　　たくさん　多い　　　　　　",
-  "en": "",
+  "en": "Lots; many",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CC638",
   "kind": "code",
   "jp": "　　　　中ごし　へっぴりごし　　　　　",
-  "en": "",
+  "en": "Half-crouch; timid stance",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CC660",
   "kind": "code",
   "jp": "　格好つけたがる人　体裁を気にする人　",
-  "en": "",
+  "en": "A show-off; one who minds looks",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CC688",
   "kind": "code",
   "jp": "　　　びっくりした　おったまげた　　　",
-  "en": "",
+  "en": "What a shock! I'm floored!",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CC6B0",
   "kind": "code",
   "jp": "　　　　　　　さみしい　　　　　　　　",
-  "en": "",
+  "en": "Lonely",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CC6D8",
   "kind": "code",
   "jp": "　　　　　　おやすみなさい　　　　　　",
-  "en": "",
+  "en": "Good night",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CC700",
   "kind": "code",
   "jp": "　　　　　　落ち着きがない　　　　　　",
-  "en": "",
+  "en": "Restless",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CC728",
   "kind": "code",
   "jp": "　　　　　　　恥ずかしい　　　　　　　",
-  "en": "",
+  "en": "Embarrassing",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CC750",
   "kind": "code",
   "jp": "　　　　　　　食べない？　　　　　　　",
-  "en": "",
+  "en": "Won't you eat?",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CC778",
   "kind": "code",
   "jp": "　　　　　　　強情っぱり　　　　　　　",
-  "en": "",
+  "en": "Stubborn as a mule",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CC7A0",
   "kind": "code",
   "jp": "　　　　　　　必死になる　　　　　　　",
-  "en": "",
+  "en": "To go all out",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CC7C8",
   "kind": "code",
   "jp": "　　　　　　すごくムカツク　　　　　　",
-  "en": "",
+  "en": "Really ticks me off",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CC7F0",
   "kind": "code",
   "jp": "－－－－－－－－－－－－－－－－－－－",
-  "en": "",
+  "en": "-------------------",
   "max": 39
  },
  {
   "id": "OVLXTTL@800CC8DC",
   "kind": "code",
   "jp": "タイトル　－－－－",
-  "en": "",
+  "en": "Game: ----",
   "max": 19
  },
  {
   "id": "OVLXTTL@800CC8F0",
   "kind": "code",
   "jp": "タイトル　ぐるぐる寿司",
-  "en": "",
+  "en": "Game: Round-and-Round Sushi",
   "max": 23
  },
  {
   "id": "OVLXTTL@800CC908",
   "kind": "code",
   "jp": "タイトル　ＧＯ！ＧＯ！茶釜リング",
-  "en": "",
+  "en": "Game: GO! GO! Kettle Ring",
   "max": 35
  },
  {
   "id": "OVLXTTL@800CC92C",
   "kind": "code",
   "jp": "タイトル　忍者だホイ！",
-  "en": "",
+  "en": "Game: Ninja Hoi!",
   "max": 23
  },
  {
   "id": "OVLXTTL@800CC944",
   "kind": "code",
   "jp": "タイトル　大漁ずんどこ節",
-  "en": "",
+  "en": "Game: Big Catch Zundoko Song",
   "max": 27
  },
  {
   "id": "OVLXTTL@800CC960",
   "kind": "code",
   "jp": "タイトル　カキ氷きーーーん！",
-  "en": "",
+  "en": "Game: Brain Freeze Ice!",
   "max": 31
  },
  {
   "id": "OVLXTTL@800CC980",
   "kind": "code",
   "jp": "タイトル　種まきドンドン！",
-  "en": "",
+  "en": "Game: Sowing Don-Don!",
   "max": 27
  },
  {
   "id": "OVLXTTL@800CC99C",
   "kind": "code",
   "jp": "タイトル　吹き矢でシュッ！",
-  "en": "",
+  "en": "Game: Blowdart Fwip!",
   "max": 27
  },
  {
   "id": "OVLXTTL@800CC9B8",
   "kind": "code",
   "jp": "タイトル　とんとん相撲",
-  "en": "",
+  "en": "Game: Tap-Tap Sumo",
   "max": 23
  },
  {
   "id": "OVLXTTL@800CC9D0",
   "kind": "code",
   "jp": "タイトル　風車くるりん",
-  "en": "",
+  "en": "Game: Pinwheel Spin",
   "max": 23
  },
  {
   "id": "OVLXTTL@800CC9E8",
   "kind": "code",
   "jp": "タイトル　ドサッと一本釣り！",
-  "en": "",
+  "en": "Game: Big Haul Fishing!",
   "max": 31
  },
  {
   "id": "OVLXTTL@800CCA08",
   "kind": "code",
   "jp": "タイトル　余計にまわしましょう！",
-  "en": "",
+  "en": "Game: Spin 'Em Extra!",
   "max": 35
  },
  {
   "id": "OVLXTTL@800CCA2C",
   "kind": "code",
   "jp": "タイトル　花火色合わせ！",
-  "en": "",
+  "en": "Game: Firework Color Match!",
   "max": 27
  },
  {
   "id": "OVLXTTL@800CCA48",
   "kind": "code",
   "jp": "タイトル　飛べ！水龍",
-  "en": "",
+  "en": "Game: Fly, Water Dragon!",
   "max": 23
  },
  {
   "id": "OVLXTTL@800CCA60",
   "kind": "code",
   "jp": "タイトル　お餅焼けたかな？",
-  "en": "",
+  "en": "Game: Is the Mochi Done?",
   "max": 27
  },
  {
   "id": "OVLXTTL@800CCA7C",
   "kind": "code",
   "jp": "タイトル　ゆらゆらローソク！",
-  "en": "",
+  "en": "Game: Wobbly Candle!",
   "max": 31
  },
  {
   "id": "OVLXTTL@800CCA9C",
   "kind": "code",
   "jp": "タイトル　えんやとっとレース",
-  "en": "",
+  "en": "Game: Heave-Ho Race",
   "max": 31
  },
  {
   "id": "OVLXTTL@800CCABC",
   "kind": "code",
   "jp": "タイトル　カゴしょってＧＯ！",
-  "en": "",
+  "en": "Game: Basket Backpack GO!",
   "max": 31
  },
  {
   "id": "OVLXTTL@800CCADC",
   "kind": "code",
   "jp": "タイトル　にらめっこアップップ！",
-  "en": "",
+  "en": "Game: Funny Face Face-Off!",
   "max": 35
  },
  {
   "id": "OVLXTTL@800CCB00",
   "kind": "code",
   "jp": "タイトル　鬼のつめあと",
-  "en": "",
+  "en": "Game: Oni's Claw Marks",
   "max": 23
  },
  {
   "id": "OVLXTTL@800CCB18",
   "kind": "code",
   "jp": "タイトル　ウサカメレース",
-  "en": "",
+  "en": "Game: Rabbit-Turtle Race",
   "max": 27
  },
  {
   "id": "OVLXTTL@800CCB34",
   "kind": "code",
   "jp": "タイトル　都でＧＯ！",
-  "en": "",
+  "en": "Game: Capital de GO!",
   "max": 23
  },
  {
   "id": "OVLXTTL@800CCB4C",
   "kind": "code",
   "jp": "タイトル　桃パズル",
-  "en": "",
+  "en": "Game: Peach Puzzle",
   "max": 19
  },
  {
   "id": "OVLXTTL@800CCB60",
   "kind": "code",
   "jp": "タイトル　カチカチ大レース",
-  "en": "",
+  "en": "Game: Great Kachi-Kachi Race",
   "max": 27
  },
  {
   "id": "OVLXTTL@800CCB7C",
   "kind": "code",
   "jp": "タイトル　つるつるつるりん",
-  "en": "",
+  "en": "Game: Slippity Slide",
   "max": 27
  },
  {
   "id": "OVLXTTL@800CCB98",
   "kind": "code",
   "jp": "タイトル　宝さがしゲームその２",
-  "en": "",
+  "en": "Game: Treasure Hunt Game 2",
   "max": 31
  },
  {
   "id": "OVLXTTL@800CCBB8",
   "kind": "code",
   "jp": "タイトル　宝さがしゲーム",
-  "en": "",
+  "en": "Game: Treasure Hunt Game",
   "max": 27
  },
  {
   "id": "OVLXTTL@800CCBD4",
   "kind": "code",
   "jp": "タイトル　お堀で水泳大会！",
-  "en": "",
+  "en": "Game: Moat Swimming Meet!",
   "max": 27
  },
  {
   "id": "OVLXTTL@800CCBF0",
   "kind": "code",
   "jp": "タイトル　ハリセンちょっぷ！",
-  "en": "",
+  "en": "Game: Paper Fan Chop!",
   "max": 31
  },
  {
   "id": "OVLXTTL@800CCC10",
   "kind": "code",
   "jp": "タイトル　うなれ！金太郎拳",
-  "en": "",
+  "en": "Game: Roar! Kintaro Fist",
   "max": 27
  },
  {
   "id": "OVLXTTL@800CCC2C",
   "kind": "code",
   "jp": "タイトル　偶数タヌキ",
-  "en": "",
+  "en": "Game: Even Tanuki",
   "max": 23
  },
  {
   "id": "OVLXTTL@800CCC44",
   "kind": "code",
   "jp": "タイトル　レッツ！まくらなげ",
-  "en": "",
+  "en": "Game: Let's Pillow Fight!",
   "max": 31
  },
  {
   "id": "OVLXTTL@800CCC64",
   "kind": "code",
   "jp": "タイトル　タコタコあがれ！",
-  "en": "",
+  "en": "Game: Fly, Kite, Fly!",
   "max": 27
  },
  {
   "id": "OVLXTTL@800CCC80",
   "kind": "code",
   "jp": "タイトル　ジャンケン７",
-  "en": "",
+  "en": "Game: Janken 7",
   "max": 23
  },
  {
   "id": "OVLXTTL@800CCC98",
   "kind": "code",
   "jp": "タイトル　えらんで団子",
-  "en": "",
+  "en": "Game: Pick-a-Dango",
   "max": 23
  },
  {
   "id": "OVLXTTL@800CCCB0",
   "kind": "code",
   "jp": "タイトル　はねつき地獄！",
-  "en": "",
+  "en": "Game: Hanetsuki Hell!",
   "max": 27
  },
  {
   "id": "OVLXTTL@800CCCCC",
   "kind": "code",
   "jp": "タイトル　タヌキスロット",
-  "en": "",
+  "en": "Game: Tanuki Slots",
   "max": 27
  },
  {
   "id": "OVLXTTL@800CCCE8",
   "kind": "code",
   "jp": "タイトル　餅つきぺったんこ",
-  "en": "",
+  "en": "Game: Pound-Pound Mochi",
   "max": 27
  },
  {
   "id": "OVLXTTL@800CCD04",
   "kind": "code",
   "jp": "タイトル　鬼まとあて",
-  "en": "",
+  "en": "Game: Oni Target Toss",
   "max": 23
  },
  {
   "id": "OVLXTTL@800CCD1C",
   "kind": "code",
   "jp": "タイトル　金魚すくい",
-  "en": "",
+  "en": "Game: Goldfish Scooping",
   "max": 23
  },
  {
   "id": "OVLXTTL@800CCD34",
   "kind": "code",
   "jp": "タイトル　どっちでＳＨＯＷ",
-  "en": "",
+  "en": "Game: Which One SHOW",
   "max": 27
  },
  {
   "id": "OVLXTTL@800CCD50",
   "kind": "code",
   "jp": "タイトル　ふくわらい",
-  "en": "",
+  "en": "Game: Fukuwarai",
   "max": 23
  },
  {
   "id": "OVLXTTL@800CCD68",
   "kind": "code",
   "jp": "タイトル　鬼たたき",
-  "en": "",
+  "en": "Game: Whack-an-Oni",
   "max": 19
  },
  {
   "id": "OVLXTTL@800CCD7C",
   "kind": "code",
   "jp": "タイトル　ダルマおとし",
-  "en": "",
+  "en": "Game: Daruma Drop",
   "max": 23
  },
  {
   "id": "OVLXTTL@800CCD94",
   "kind": "code",
   "jp": "段位　免許皆伝",
-  "en": "",
+  "en": "Rank: Full Mastery",
   "max": 15
  },
  {
   "id": "OVLXTTL@800CCDA4",
   "kind": "code",
   "jp": "段位　　　９段",
-  "en": "",
+  "en": "Rank: Level 9",
   "max": 15
  },
  {
   "id": "OVLXTTL@800CCDB4",
   "kind": "code",
   "jp": "段位　　　８段",
-  "en": "",
+  "en": "Rank: Level 8",
   "max": 15
  },
  {
   "id": "OVLXTTL@800CCDC4",
   "kind": "code",
   "jp": "段位　　　７段",
-  "en": "",
+  "en": "Rank: Level 7",
   "max": 15
  },
  {
   "id": "OVLXTTL@800CCDD4",
   "kind": "code",
   "jp": "段位　　　６段",
-  "en": "",
+  "en": "Rank: Level 6",
   "max": 15
  },
  {
   "id": "OVLXTTL@800CCDE4",
   "kind": "code",
   "jp": "段位　　　５段",
-  "en": "",
+  "en": "Rank: Level 5",
   "max": 15
  },
  {
   "id": "OVLXTTL@800CCDF4",
   "kind": "code",
   "jp": "段位　　　４段",
-  "en": "",
+  "en": "Rank: Level 4",
   "max": 15
  },
  {
   "id": "OVLXTTL@800CCE04",
   "kind": "code",
   "jp": "段位　　　３段",
-  "en": "",
+  "en": "Rank: Level 3",
   "max": 15
  },
  {
   "id": "OVLXTTL@800CCE14",
   "kind": "code",
   "jp": "段位　　　２段",
-  "en": "",
+  "en": "Rank: Level 2",
   "max": 15
  },
  {
   "id": "OVLXTTL@800CCE24",
   "kind": "code",
   "jp": "段位　　　初段",
-  "en": "",
+  "en": "Rank: Level 1",
   "max": 15
  },
  {
   "id": "OVLXTTL@800CCE34",
   "kind": "code",
   "jp": "段位　－－－－",
-  "en": "",
+  "en": "Rank: ----",
   "max": 15
  },
  {
   "id": "OVLXTTL@800CCE44",
   "kind": "code",
   "jp": "ぐるぐる寿司",
-  "en": "",
+  "en": "Round-and-Round Sushi",
   "max": 15
  },
  {
   "id": "OVLXTTL@800CCE54",
   "kind": "code",
   "jp": "ＧＯ！ＧＯ！茶釜リング",
-  "en": "",
+  "en": "GO! GO! Kettle Ring",
   "max": 23
  },
  {
   "id": "OVLXTTL@800CCE6C",
   "kind": "code",
   "jp": "忍者だホイ！",
-  "en": "",
+  "en": "Ninja Hoi!",
   "max": 15
  },
  {
   "id": "OVLXTTL@800CCE7C",
   "kind": "code",
   "jp": "大漁ずんどこ節",
-  "en": "",
+  "en": "Big Catch Zundoko Song",
   "max": 15
  },
  {
   "id": "OVLXTTL@800CCE8C",
   "kind": "code",
   "jp": "カキ氷きーーーん！",
-  "en": "",
+  "en": "Brain Freeze Ice!",
   "max": 19
  },
  {
   "id": "OVLXTTL@800CCEA0",
   "kind": "code",
   "jp": "種まきドンドン！",
-  "en": "",
+  "en": "Sowing Don-Don!",
   "max": 19
  },
  {
   "id": "OVLXTTL@800CCEB4",
   "kind": "code",
   "jp": "吹き矢でシュッ！",
-  "en": "",
+  "en": "Blowdart Fwip!",
   "max": 19
  },
  {
   "id": "OVLXTTL@800CCEC8",
   "kind": "code",
   "jp": "とんとん相撲",
-  "en": "",
+  "en": "Tap-Tap Sumo",
   "max": 15
  },
  {
   "id": "OVLXTTL@800CCED8",
   "kind": "code",
   "jp": "風車くるりん",
-  "en": "",
+  "en": "Pinwheel Spin",
   "max": 15
  },
  {
   "id": "OVLXTTL@800CCEE8",
   "kind": "code",
   "jp": "ドサッと一本釣り！",
-  "en": "",
+  "en": "Big Haul Fishing!",
   "max": 19
  },
  {
   "id": "OVLXTTL@800CCEFC",
   "kind": "code",
   "jp": "余計にまわしましょう！",
-  "en": "",
+  "en": "Spin 'Em Extra!",
   "max": 23
  },
  {
   "id": "OVLXTTL@800CCF14",
   "kind": "code",
   "jp": "花火色合わせ！",
-  "en": "",
+  "en": "Firework Color Match!",
   "max": 15
  },
  {
   "id": "OVLXTTL@800CCF24",
   "kind": "code",
   "jp": "飛べ！水龍",
-  "en": "",
+  "en": "Fly, Water Dragon!",
   "max": 11
  },
  {
   "id": "OVLXTTL@800CCF30",
   "kind": "code",
   "jp": "お餅焼けたかな？",
-  "en": "",
+  "en": "Is the Mochi Done?",
   "max": 19
  },
  {
   "id": "OVLXTTL@800CCF44",
   "kind": "code",
   "jp": "ゆらゆらローソク！",
-  "en": "",
+  "en": "Wobbly Candle!",
   "max": 19
  },
  {
   "id": "OVLXTTL@800CCF58",
   "kind": "code",
   "jp": "えんやとっとレース",
-  "en": "",
+  "en": "Heave-Ho Race",
   "max": 19
  },
  {
   "id": "OVLXTTL@800CCF6C",
   "kind": "code",
   "jp": "カゴしょってＧＯ！",
-  "en": "",
+  "en": "Basket Backpack GO!",
   "max": 19
  },
  {
   "id": "OVLXTTL@800CCF80",
   "kind": "code",
   "jp": "にらめっこアップップ！",
-  "en": "",
+  "en": "Funny Face Face-Off!",
   "max": 23
  },
  {
   "id": "OVLXTTL@800CCF98",
   "kind": "code",
   "jp": "鬼のつめあと",
-  "en": "",
+  "en": "Oni's Claw Marks",
   "max": 15
  },
  {
   "id": "OVLXTTL@800CCFA8",
   "kind": "code",
   "jp": "ウサカメレース",
-  "en": "",
+  "en": "Rabbit-Turtle Race",
   "max": 15
  },
  {
   "id": "OVLXTTL@800CCFB8",
   "kind": "code",
   "jp": "都でＧＯ！",
-  "en": "",
+  "en": "Capital de GO!",
   "max": 11
  },
  {
   "id": "OVLXTTL@800CCFC4",
   "kind": "code",
   "jp": "桃パズル",
-  "en": "",
+  "en": "Peach Puzzle",
   "max": 11
  },
  {
   "id": "OVLXTTL@800CCFD0",
   "kind": "code",
   "jp": "カチカチ大レース",
-  "en": "",
+  "en": "Great Kachi-Kachi Race",
   "max": 19
  },
  {
   "id": "OVLXTTL@800CCFE4",
   "kind": "code",
   "jp": "つるつるつるりん",
-  "en": "",
+  "en": "Slippity Slide",
   "max": 19
  },
  {
   "id": "OVLXTTL@800CCFF8",
   "kind": "code",
   "jp": "宝さがしゲームその２",
-  "en": "",
+  "en": "Treasure Hunt Game 2",
   "max": 23
  },
  {
   "id": "OVLXTTL@800CD010",
   "kind": "code",
   "jp": "宝さがしゲーム",
-  "en": "",
+  "en": "Treasure Hunt Game",
   "max": 15
  },
  {
   "id": "OVLXTTL@800CD020",
   "kind": "code",
   "jp": "お堀で水泳大会！",
-  "en": "",
+  "en": "Moat Swimming Meet!",
   "max": 19
  },
  {
   "id": "OVLXTTL@800CD034",
   "kind": "code",
   "jp": "ハリセンちょっぷ！",
-  "en": "",
+  "en": "Paper Fan Chop!",
   "max": 19
  },
  {
   "id": "OVLXTTL@800CD048",
   "kind": "code",
   "jp": "うなれ！金太郎拳",
-  "en": "",
+  "en": "Roar! Kintaro Fist",
   "max": 19
  },
  {
   "id": "OVLXTTL@800CD05C",
   "kind": "code",
   "jp": "偶数タヌキ",
-  "en": "",
+  "en": "Even Tanuki",
   "max": 11
  },
  {
   "id": "OVLXTTL@800CD068",
   "kind": "code",
   "jp": "レッツ！まくらなげ",
-  "en": "",
+  "en": "Let's Pillow Fight!",
   "max": 19
  },
  {
   "id": "OVLXTTL@800CD07C",
   "kind": "code",
   "jp": "タコタコあがれ！",
-  "en": "",
+  "en": "Fly, Kite, Fly!",
   "max": 19
  },
  {
   "id": "OVLXTTL@800CD090",
   "kind": "code",
   "jp": "ジャンケン７",
-  "en": "",
+  "en": "Janken 7",
   "max": 15
  },
  {
   "id": "OVLXTTL@800CD0A0",
   "kind": "code",
   "jp": "えらんで団子",
-  "en": "",
+  "en": "Pick-a-Dango",
   "max": 15
  },
  {
   "id": "OVLXTTL@800CD0B0",
   "kind": "code",
   "jp": "はねつき地獄！",
-  "en": "",
+  "en": "Hanetsuki Hell!",
   "max": 15
  },
  {
   "id": "OVLXTTL@800CD0C0",
   "kind": "code",
   "jp": "タヌキスロット",
-  "en": "",
+  "en": "Tanuki Slots",
   "max": 15
  },
  {
   "id": "OVLXTTL@800CD0D0",
   "kind": "code",
   "jp": "餅つきぺったんこ",
-  "en": "",
+  "en": "Pound-Pound Mochi",
   "max": 19
  },
  {
   "id": "OVLXTTL@800CD0E4",
   "kind": "code",
   "jp": "鬼まとあて",
-  "en": "",
+  "en": "Oni Target Toss",
   "max": 11
  },
  {
   "id": "OVLXTTL@800CD0F0",
   "kind": "code",
   "jp": "金魚すくい",
-  "en": "",
+  "en": "Goldfish Scooping",
   "max": 11
  },
  {
   "id": "OVLXTTL@800CD0FC",
   "kind": "code",
   "jp": "どっちでＳＨＯＷ",
-  "en": "",
+  "en": "Which One SHOW",
   "max": 19
  },
  {
   "id": "OVLXTTL@800CD110",
   "kind": "code",
   "jp": "ふくわらい",
-  "en": "",
+  "en": "Fukuwarai",
   "max": 11
  },
  {
   "id": "OVLXTTL@800CD11C",
   "kind": "code",
   "jp": "鬼たたき",
-  "en": "",
+  "en": "Whack-an-Oni",
   "max": 11
  },
  {
   "id": "OVLXTTL@800CD128",
   "kind": "code",
   "jp": "ダルマおとし",
-  "en": "",
+  "en": "Daruma Drop",
   "max": 15
  },
  {
   "id": "OVLXTTL@800CD138",
   "kind": "code",
   "jp": "記録",
-  "en": "",
+  "en": "Record",
   "max": 7
  },
  {
   "id": "OVLXTTL@800CD140",
   "kind": "code",
   "jp": "－－－－点",
-  "en": "",
+  "en": "---- pts",
   "max": 11
  },
  {
   "id": "OVLXTTL@800CD158",
   "kind": "code",
   "jp": "－－－－個",
-  "en": "",
+  "en": "---- items",
   "max": 11
  },
  {
   "id": "OVLXTTL@800CD170",
   "kind": "code",
   "jp": "－－：－－：－－",
-  "en": "",
+  "en": "--:--:--",
   "max": 19
  },
  {
   "id": "OVLXTTL@800CD194",
   "kind": "code",
   "jp": "－－－－－－両",
-  "en": "",
+  "en": "------ ryo",
   "max": 15
  },
  {
@@ -1697,203 +1697,203 @@
   "id": "OVLXTTL@800CD1B4",
   "kind": "code",
   "jp": "－－－－－点",
-  "en": "",
+  "en": "----- pts",
   "max": 15
  },
  {
   "id": "OVLXTTL@800CD220",
   "kind": "code",
   "jp": "タイトル　吹き矢でシュッ！",
-  "en": "",
+  "en": "Game: Blowdart Fwip!",
   "max": 27
  },
  {
   "id": "OVLXTTL@800CD23C",
   "kind": "code",
   "jp": "タイトル　ハリセンちょっぷ！",
-  "en": "",
+  "en": "Game: Paper Fan Chop!",
   "max": 31
  },
  {
   "id": "OVLXTTL@800CD25C",
   "kind": "code",
   "jp": "タイトル　レッツ！まくらなげ",
-  "en": "",
+  "en": "Game: Let's Pillow Fight!",
   "max": 31
  },
  {
   "id": "OVLXTTL@800CD27C",
   "kind": "code",
   "jp": "タイトル　餅つきぺったんこ",
-  "en": "",
+  "en": "Game: Pound-Pound Mochi",
   "max": 27
  },
  {
   "id": "OVLXTTL@800CD298",
   "kind": "code",
   "jp": "タイトル　金魚すくい",
-  "en": "",
+  "en": "Game: Goldfish Scooping",
   "max": 23
  },
  {
   "id": "OVLXTTL@800CD2B0",
   "kind": "code",
   "jp": "タイトル　ダルマおとし",
-  "en": "",
+  "en": "Game: Daruma Drop",
   "max": 23
  },
  {
   "id": "OVLXTTL@800CD2C8",
   "kind": "code",
   "jp": "段位　免許皆伝",
-  "en": "",
+  "en": "Rank: Full Mastery",
   "max": 15
  },
  {
   "id": "OVLXTTL@800CD2D8",
   "kind": "code",
   "jp": "段位　　　９段",
-  "en": "",
+  "en": "Rank: Level 9",
   "max": 15
  },
  {
   "id": "OVLXTTL@800CD2E8",
   "kind": "code",
   "jp": "段位　　　８段",
-  "en": "",
+  "en": "Rank: Level 8",
   "max": 15
  },
  {
   "id": "OVLXTTL@800CD2F8",
   "kind": "code",
   "jp": "段位　　　７段",
-  "en": "",
+  "en": "Rank: Level 7",
   "max": 15
  },
  {
   "id": "OVLXTTL@800CD308",
   "kind": "code",
   "jp": "段位　　　６段",
-  "en": "",
+  "en": "Rank: Level 6",
   "max": 15
  },
  {
   "id": "OVLXTTL@800CD318",
   "kind": "code",
   "jp": "段位　　　５段",
-  "en": "",
+  "en": "Rank: Level 5",
   "max": 15
  },
  {
   "id": "OVLXTTL@800CD328",
   "kind": "code",
   "jp": "段位　　　４段",
-  "en": "",
+  "en": "Rank: Level 4",
   "max": 15
  },
  {
   "id": "OVLXTTL@800CD338",
   "kind": "code",
   "jp": "段位　　　３段",
-  "en": "",
+  "en": "Rank: Level 3",
   "max": 15
  },
  {
   "id": "OVLXTTL@800CD348",
   "kind": "code",
   "jp": "段位　　　２段",
-  "en": "",
+  "en": "Rank: Level 2",
   "max": 15
  },
  {
   "id": "OVLXTTL@800CD358",
   "kind": "code",
   "jp": "段位　　　初段",
-  "en": "",
+  "en": "Rank: Level 1",
   "max": 15
  },
  {
   "id": "OVLXTTL@800CD368",
   "kind": "code",
   "jp": "段位　－－－－",
-  "en": "",
+  "en": "Rank: ----",
   "max": 15
  },
  {
   "id": "OVLXTTL@800CD378",
   "kind": "code",
   "jp": "吹き矢でシュッ！",
-  "en": "",
+  "en": "Blowdart Fwip!",
   "max": 19
  },
  {
   "id": "OVLXTTL@800CD38C",
   "kind": "code",
   "jp": "ハリセンちょっぷ！",
-  "en": "",
+  "en": "Paper Fan Chop!",
   "max": 19
  },
  {
   "id": "OVLXTTL@800CD3A0",
   "kind": "code",
   "jp": "レッツ！まくらなげ",
-  "en": "",
+  "en": "Let's Pillow Fight!",
   "max": 19
  },
  {
   "id": "OVLXTTL@800CD3B4",
   "kind": "code",
   "jp": "餅つきぺったんこ",
-  "en": "",
+  "en": "Pound-Pound Mochi",
   "max": 19
  },
  {
   "id": "OVLXTTL@800CD3C8",
   "kind": "code",
   "jp": "金魚すくい",
-  "en": "",
+  "en": "Goldfish Scooping",
   "max": 11
  },
  {
   "id": "OVLXTTL@800CD3D4",
   "kind": "code",
   "jp": "ダルマおとし",
-  "en": "",
+  "en": "Daruma Drop",
   "max": 15
  },
  {
   "id": "OVLXTTL@800CD3E4",
   "kind": "code",
   "jp": "記録",
-  "en": "",
+  "en": "Record",
   "max": 7
  },
  {
   "id": "OVLXTTL@800CD3EC",
   "kind": "code",
   "jp": "－－－－点",
-  "en": "",
+  "en": "---- pts",
   "max": 11
  },
  {
   "id": "OVLXTTL@800CD404",
   "kind": "code",
   "jp": "－－－－個",
-  "en": "",
+  "en": "---- items",
   "max": 11
  },
  {
   "id": "OVLXTTL@800CD41C",
   "kind": "code",
   "jp": "－－：－－：－－",
-  "en": "",
+  "en": "--:--:--",
   "max": 19
  },
  {
   "id": "OVLXTTL@800CD440",
   "kind": "code",
   "jp": "－－－－－－両",
-  "en": "",
+  "en": "------ ryo",
   "max": 15
  },
  {
@@ -1907,42 +1907,42 @@
   "id": "OVLXTTL@800CD460",
   "kind": "code",
   "jp": "－－－－－点",
-  "en": "",
+  "en": "----- pts",
   "max": 15
  },
  {
   "id": "OVLXTTL@800CD480",
   "kind": "code",
   "jp": "名前",
-  "en": "",
+  "en": "Name",
   "max": 7
  },
  {
   "id": "OVLXTTL@800CD488",
   "kind": "code",
   "jp": "－－－－",
-  "en": "",
+  "en": "----",
   "max": 15
  },
  {
   "id": "OVLXTTL@800CD4E4",
   "kind": "code",
   "jp": "スタートボタンで　終了になります！",
-  "en": "",
+  "en": "Press START to finish!",
   "max": 35
  },
  {
   "id": "OVLXTTL@800CD508",
   "kind": "code",
   "jp": "○ボタンで　決定します！",
-  "en": "",
+  "en": "Circle to confirm!",
   "max": 27
  },
  {
   "id": "OVLXTTL@800CD524",
   "kind": "code",
   "jp": "方向キーの　上下左右で　文字選択！",
-  "en": "",
+  "en": "Choose letters with the D-pad!",
   "max": 34
  }
 ]

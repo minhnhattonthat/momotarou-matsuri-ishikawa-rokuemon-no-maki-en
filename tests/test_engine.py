@@ -103,3 +103,29 @@ def test_every_item_has_a_box_budget_and_choices_use_fixed_layouts():
     assert {r["id"] for r in rows} <= set(v)
     assert sum(x in ("choice", "choice_top") for x in v.values()) == 1601
     assert all(windows.budget(r, v[r["id"]])[0] > 0 for r in rows)
+
+
+@disc
+def test_long_overlay_string_moves_into_slack_and_every_ref_follows():
+    import codestr
+    import insert
+    p = TREE / "OUTBIN" / "OVLXTTL.BIN"
+    rows = insert.rows_by_file()["OVLXTTL"]
+    iid, addr = "OVLXTTL@800CB4E4", 0x800CB4E4
+    row = next(r for r in rows if r["id"] == iid)
+    long = "Relocated string " * 3
+    others = {r["id"]: "x" for r in rows if r["id"] != iid}     # short English everywhere frees the slack
+    out = insert.patch_code(p.read_bytes(), p, {**others, iid: long}, rows)
+    d, base, _ = codestr.image(p)
+    want = text.encode_text(long) + b"\0"
+    refs = codestr.refs(d, base)[addr]
+    assert refs and len(want) > row["max"] + 1
+    for k in refs:
+        if k[0] == "ptr":
+            new = struct.unpack_from("<I", out, k[1])[0]
+        else:
+            hi, lw = struct.unpack_from("<I", out, k[1])[0] & 0xFFFF, struct.unpack_from("<I", out, k[2])[0]
+            lo = lw & 0xFFFF
+            new = (hi << 16) + (lo if lw >> 26 == 0x0D else lo - (lo & 0x8000) * 2)
+        assert new != addr and new % 4 == 0 and out[new - base:new - base + len(want)] == want
+    assert out[addr - base:addr - base + row["max"] + 1].endswith(b"\0")   # cut copy stays in place

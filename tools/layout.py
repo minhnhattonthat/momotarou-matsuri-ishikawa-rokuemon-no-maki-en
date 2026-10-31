@@ -26,6 +26,9 @@ CODE = re.compile(r'\{\w+\}|\[[0-9A-F]{2}\]')
 VAR_W = {'{MM}': 84, '{R0}': 52, '{R1}': 52, '{R2}': 52, '{R3}': 52}
 PAD = '　'
 PAGE_LINES = 3
+# code files whose strings may outgrow `max`: insert.patch_code relocates them into slack (EXE, OVLM*, OVLGMAIN:
+# English fills their Japanese bytes, holes <= 6 bytes)
+RELOC = ('OVLXTTL@',)
 _W = []
 
 
@@ -105,7 +108,7 @@ def render_line(en, row, px, soft=False):
     for ln in lines:
         if width(ln) > px and not soft:
             errs.append(f'{width(ln)} px > {px}: {ln!r}')
-    if row.get('max') is not None and len(text.encode_text(en)) > row['max']:
+    if row.get('max') is not None and len(text.encode_text(en)) > row['max'] and not row['id'].startswith(RELOC):
         errs.append(f'{len(text.encode_text(en))} bytes > in-place max {row["max"]} (shorten, or report LONG)')
     return en, errs
 

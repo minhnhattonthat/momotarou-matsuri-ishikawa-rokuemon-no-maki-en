@@ -58,7 +58,7 @@ def boxes(u, var):
     """[(row, variant)] one per distinct box (variant, in-place max) the unit's rows are drawn in."""
     seen, out = set(), []
     for r in u['rows']:
-        k = (var[r['id']], r.get('max'))
+        k = (var[r['id']], r.get('max'), r['id'].startswith(layout.RELOC))
         if k not in seen:
             seen.add(k)
             out.append((r, var[r['id']]))
@@ -204,7 +204,8 @@ def problems(u, en, var, gl, ok=()):
     if not en.strip():
         return ['empty English']
     errs = []
-    bad = sorted({c for c in TOKEN.sub('', en) if not ' ' <= c <= '~' or c in '{}[]'})
+    # full-width space allowed: 13 px in 2 bytes, for fixed-column code strings (title menu)
+    bad = sorted({c for c in TOKEN.sub('', en) if not (' ' <= c <= '~' or c == '　') or c in '{}[]'})
     if bad:
         errs.append(f'characters outside printable ASCII, or stray braces/brackets: {bad}')
     if '\\u' in en or '\\n' in en:

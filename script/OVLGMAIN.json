@@ -3,28 +3,28 @@
   "id": "OVLGMAIN@800CB368",
   "kind": "code",
   "jp": "やめる",
-  "en": "",
+  "en": "Quit",
   "max": 7
  },
  {
   "id": "OVLGMAIN@800CB370",
   "kind": "code",
   "jp": "売る",
-  "en": "",
+  "en": "Sell",
   "max": 7
  },
  {
   "id": "OVLGMAIN@800CB378",
   "kind": "code",
   "jp": "買う",
-  "en": "",
+  "en": "Buy",
   "max": 7
  },
  {
   "id": "OVLGMAIN@800CB380",
   "kind": "code",
   "jp": "借りる",
-  "en": "",
+  "en": "Rent",
   "max": 7
  },
  {
@@ -45,49 +45,49 @@
   "id": "OVLGMAIN@800CB3C8",
   "kind": "code",
   "jp": "あずかり高",
-  "en": "",
+  "en": "Balance",
   "max": 11
  },
  {
   "id": "OVLGMAIN@800CB3D4",
   "kind": "code",
   "jp": "道具",
-  "en": "",
+  "en": "Items",
   "max": 7
  },
  {
   "id": "OVLGMAIN@800CB3DC",
   "kind": "code",
   "jp": "お金",
-  "en": "",
+  "en": "Money",
   "max": 7
  },
  {
   "id": "OVLGMAIN@800CB3E4",
   "kind": "code",
   "jp": "やめる",
-  "en": "",
+  "en": "Quit",
   "max": 7
  },
  {
   "id": "OVLGMAIN@800CB3EC",
   "kind": "code",
   "jp": "説明",
-  "en": "",
+  "en": "Info",
   "max": 7
  },
  {
   "id": "OVLGMAIN@800CB3F4",
   "kind": "code",
   "jp": "引き出す",
-  "en": "",
+  "en": "Withdraw",
   "max": 11
  },
  {
   "id": "OVLGMAIN@800CB400",
   "kind": "code",
   "jp": "預ける",
-  "en": "",
+  "en": "Deposit",
   "max": 11
  },
  {
@@ -101,3444 +101,3444 @@
   "id": "OVLGMAIN@800CB4F4",
   "kind": "code",
   "jp": "せってい",
-  "en": "",
+  "en": "Settings",
   "max": 11
  },
  {
   "id": "OVLGMAIN@800CB500",
   "kind": "code",
   "jp": "ステータス",
-  "en": "",
+  "en": "Status",
   "max": 11
  },
  {
   "id": "OVLGMAIN@800CB50C",
   "kind": "code",
   "jp": "はやあし",
-  "en": "",
+  "en": "Dash",
   "max": 11
  },
  {
   "id": "OVLGMAIN@800CB518",
   "kind": "code",
   "jp": "じゅつ",
-  "en": "",
+  "en": "Arts",
   "max": 7
  },
  {
   "id": "OVLGMAIN@800CB520",
   "kind": "code",
   "jp": "だいじなもの",
-  "en": "",
+  "en": "Key Items",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CB530",
   "kind": "code",
   "jp": "どうぐ",
-  "en": "",
+  "en": "Items",
   "max": 7
  },
  {
   "id": "OVLGMAIN@800CB538",
   "kind": "code",
   "jp": "せりふ",
-  "en": "",
+  "en": "Text",
   "max": 7
  },
  {
   "id": "OVLGMAIN@800CB540",
   "kind": "code",
   "jp": "おんがく",
-  "en": "",
+  "en": "Sound",
   "max": 11
  },
  {
   "id": "OVLGMAIN@800CB54C",
   "kind": "code",
   "jp": "しんどう",
-  "en": "",
+  "en": "Vibration",
   "max": 11
  },
  {
   "id": "OVLGMAIN@800CB558",
   "kind": "code",
   "jp": "おそい",
-  "en": "",
+  "en": "Slow",
   "max": 7
  },
  {
   "id": "OVLGMAIN@800CB560",
   "kind": "code",
   "jp": "ふつう",
-  "en": "",
+  "en": "Mid",
   "max": 7
  },
  {
   "id": "OVLGMAIN@800CB568",
   "kind": "code",
   "jp": "はやい",
-  "en": "",
+  "en": "Fast",
   "max": 7
  },
  {
   "id": "OVLGMAIN@800CB570",
   "kind": "code",
   "jp": "まっは",
-  "en": "",
+  "en": "Mach",
   "max": 7
  },
  {
   "id": "OVLGMAIN@800CB578",
   "kind": "code",
   "jp": "モノラル",
-  "en": "",
+  "en": "Mono",
   "max": 11
  },
  {
   "id": "OVLGMAIN@800CB584",
   "kind": "code",
   "jp": "ステレオ",
-  "en": "",
+  "en": "Stereo",
   "max": 11
  },
  {
   "id": "OVLGMAIN@800CB590",
   "kind": "code",
   "jp": "オン",
-  "en": "",
+  "en": "On",
   "max": 7
  },
  {
   "id": "OVLGMAIN@800CB598",
   "kind": "code",
   "jp": "オフ",
-  "en": "",
+  "en": "Off",
   "max": 7
  },
  {
   "id": "OVLGMAIN@800CB5A0",
   "kind": "code",
   "jp": "わたす",
-  "en": "",
+  "en": "Give",
   "max": 7
  },
  {
   "id": "OVLGMAIN@800CB5A8",
   "kind": "code",
   "jp": "すてる",
-  "en": "",
+  "en": "Drop",
   "max": 7
  },
  {
   "id": "OVLGMAIN@800CB5B0",
   "kind": "code",
   "jp": "つかう",
-  "en": "",
+  "en": "Use",
   "max": 7
  },
  {
   "id": "OVLGMAIN@800CB5B8",
   "kind": "code",
   "jp": "貸衣装屋",
-  "en": "",
+  "en": "Costumes",
   "max": 11
  },
  {
   "id": "OVLGMAIN@800CB5C4",
   "kind": "code",
   "jp": "薬屋",
-  "en": "",
+  "en": "Meds",
   "max": 7
  },
  {
   "id": "OVLGMAIN@800CB5CC",
   "kind": "code",
   "jp": "魚屋",
-  "en": "",
+  "en": "Fish",
   "max": 7
  },
  {
   "id": "OVLGMAIN@800CB5D4",
   "kind": "code",
   "jp": "花屋",
-  "en": "",
+  "en": "Flower",
   "max": 7
  },
  {
   "id": "OVLGMAIN@800CB5DC",
   "kind": "code",
   "jp": "八百屋",
-  "en": "",
+  "en": "Grocer",
   "max": 7
  },
  {
   "id": "OVLGMAIN@800CB5E4",
   "kind": "code",
   "jp": "道具屋",
-  "en": "",
+  "en": "Items",
   "max": 7
  },
  {
   "id": "OVLGMAIN@800CB5EC",
   "kind": "code",
   "jp": "茶屋",
-  "en": "",
+  "en": "Tea",
   "max": 7
  },
  {
   "id": "OVLGMAIN@800CB5F4",
   "kind": "code",
   "jp": "かんてい小屋",
-  "en": "",
+  "en": "Appraisal Hut",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CB604",
   "kind": "code",
   "jp": "といち屋",
-  "en": "",
+  "en": "Bank",
   "max": 11
  },
  {
   "id": "OVLGMAIN@800CB610",
   "kind": "code",
   "jp": "仙人の村のせつめい",
-  "en": "",
+  "en": "On Hermit Village",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CB624",
   "kind": "code",
   "jp": "すずめの都のせつめい",
-  "en": "",
+  "en": "On Sparrow Capital",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CB63C",
   "kind": "code",
   "jp": "島です",
-  "en": "",
+  "en": "island",
   "max": 7
  },
  {
   "id": "OVLGMAIN@800CB644",
   "kind": "code",
   "jp": "えんま大王が　暮らす",
-  "en": "",
+  "en": "Great King Enma's",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CB65C",
   "kind": "code",
   "jp": "昔は　おそろしかった",
-  "en": "",
+  "en": "The once-terrifying",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CB674",
   "kind": "code",
   "jp": "巨大な　塔です",
-  "en": "",
+  "en": "giant tower",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CB684",
   "kind": "code",
   "jp": "夜叉姫が　住む",
-  "en": "",
+  "en": "Yashahime's",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CB694",
   "kind": "code",
   "jp": "龍の島にある　村です",
-  "en": "",
+  "en": "on Dragon Island",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CB6AC",
   "kind": "code",
   "jp": "小太郎が　住む",
-  "en": "",
+  "en": "Kotaro's home",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CB6BC",
   "kind": "code",
   "jp": "龍の子という　うわさの",
-  "en": "",
+  "en": "Rumored dragon child",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CB6D4",
   "kind": "code",
   "jp": "有名な村です",
-  "en": "",
+  "en": "& hot springs",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CB6E4",
   "kind": "code",
   "jp": "ひょっとこ山と　温泉で",
-  "en": "",
+  "en": "famed for Mt. Hyottoko",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CB6FC",
   "kind": "code",
   "jp": "サルさんが　住む",
-  "en": "",
+  "en": "Monkey-san's home,",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CB710",
   "kind": "code",
   "jp": "ひっそりと　暮らす",
-  "en": "",
+  "en": "beauty, hides away",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CB724",
   "kind": "code",
   "jp": "美しい　かぐや姫が",
-  "en": "",
+  "en": "Princess Kaguya, a",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CB738",
   "kind": "code",
   "jp": "七夕で　有名な村です",
-  "en": "",
+  "en": "Famed for Tanabata",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CB750",
   "kind": "code",
   "jp": "橋で　つながっている",
-  "en": "",
+  "en": "lies across the bridge",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CB768",
   "kind": "code",
   "jp": "おりひめの村と",
-  "en": "",
+  "en": "Orihime's town",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CB778",
   "kind": "code",
   "jp": "レースで　有名な村です",
-  "en": "",
+  "en": "race is famous here",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CB790",
   "kind": "code",
   "jp": "ウサギさんと　カメさんの",
-  "en": "",
+  "en": "Mr. Rabbit & Mr. Turtle's",
   "max": 27
  },
  {
   "id": "OVLGMAIN@800CB7AC",
   "kind": "code",
   "jp": "塩吹きの村のせつめい",
-  "en": "",
+  "en": "On Shiofuki Village",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CB7C4",
   "kind": "code",
   "jp": "銀次さんも　いますよ",
-  "en": "",
+  "en": "Ginji-san is here too",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CB7DC",
   "kind": "code",
   "jp": "なっています！",
-  "en": "",
+  "en": "wonderland!",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CB7EC",
   "kind": "code",
   "jp": "都　全体が　ゆうぎ場に",
-  "en": "",
+  "en": "The Capital is a game",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CB804",
   "kind": "code",
   "jp": "村は　ここです",
-  "en": "",
+  "en": "Right here!",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CB814",
   "kind": "code",
   "jp": "だじゃれが　大好きな",
-  "en": "",
+  "en": "village loves puns!",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CB82C",
   "kind": "code",
   "jp": "村の人たち　みんな",
-  "en": "",
+  "en": "Everyone in this",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CB840",
   "kind": "code",
   "jp": "寝ている　雪国の",
-  "en": "",
+  "en": "all year in snow",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CB854",
   "kind": "code",
   "jp": "寝太郎が　年中",
-  "en": "",
+  "en": "Netaro sleeps",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CB864",
   "kind": "code",
   "jp": "竜宮城の　カメが",
-  "en": "",
+  "en": "the Ryugu turtle",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CB878",
   "kind": "code",
   "jp": "心　やさしい　浦島と",
-  "en": "",
+  "en": "Kind Urashima and the",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CB890",
   "kind": "code",
   "jp": "わらしべ長者が",
-  "en": "",
+  "en": "Straw Tycoon",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CB8A0",
   "kind": "code",
   "jp": "ワラで　富を　きずいた",
-  "en": "",
+  "en": "Made rich by straw,",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CB8B8",
   "kind": "code",
   "jp": "住んでいる村です",
-  "en": "",
+  "en": "can be found here.",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CB8CC",
   "kind": "code",
   "jp": "力持ちの　金太郎さんが",
-  "en": "",
+  "en": "and strong Kintaro-san",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CB8E4",
   "kind": "code",
   "jp": "気は　やさしく",
-  "en": "",
+  "en": "Gentle-hearted",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CB8F4",
   "kind": "code",
   "jp": "イヌが　住んでいる",
-  "en": "",
+  "en": "the Dog, lives",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CB908",
   "kind": "code",
   "jp": "心強い　味方の",
-  "en": "",
+  "en": "A trusty ally,",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CB918",
   "kind": "code",
   "jp": "住んでいる　村です",
-  "en": "",
+  "en": "live here.",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CB92C",
   "kind": "code",
   "jp": "おツルさんが",
-  "en": "",
+  "en": "Otsuru-san",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CB93C",
   "kind": "code",
   "jp": "権兵衛さんや",
-  "en": "",
+  "en": "Gonbe-san and",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CB94C",
   "kind": "code",
   "jp": "村です",
-  "en": "",
+  "en": "here.",
   "max": 7
  },
  {
   "id": "OVLGMAIN@800CB954",
   "kind": "code",
   "jp": "じんぱちが　住んでいる",
-  "en": "",
+  "en": "and Jinpachi live",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CB96C",
   "kind": "code",
   "jp": "お祭り好きな　村長と",
-  "en": "",
+  "en": "A festival-mad chief",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CB984",
   "kind": "code",
   "jp": "仲良く暮らす　村です",
-  "en": "",
+  "en": "live in harmony here",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CB99C",
   "kind": "code",
   "jp": "タヌキさんが",
-  "en": "",
+  "en": "Mr. Tanuki",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CB9AC",
   "kind": "code",
   "jp": "ウサギさんと",
-  "en": "",
+  "en": "Mr. Rabbit &",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CB9BC",
   "kind": "code",
   "jp": "教えてくれる　村です",
-  "en": "",
+  "en": "teaches all the rules",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CB9D4",
   "kind": "code",
   "jp": "いろんな　お約束を",
-  "en": "",
+  "en": "a village that",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CB9E8",
   "kind": "code",
   "jp": "旅に　出る時の",
-  "en": "",
+  "en": "For travelers,",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CB9F8",
   "kind": "code",
   "jp": "たこあげの術のせつめい",
-  "en": "",
+  "en": "On the Kite art",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CBA10",
   "kind": "code",
   "jp": "夜が長い村で　使用",
-  "en": "",
+  "en": "For long nights",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CBA24",
   "kind": "code",
   "jp": "逆転させます",
-  "en": "",
+  "en": "day and night",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CBA34",
   "kind": "code",
   "jp": "鐘を　鳴らして　昼と夜を",
-  "en": "",
+  "en": "Ring the bell to switch",
   "max": 27
  },
  {
   "id": "OVLGMAIN@800CBA50",
   "kind": "code",
   "jp": "洞窟では　効果なし",
-  "en": "",
+  "en": "No effect in caves",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CBA64",
   "kind": "code",
   "jp": "よせつけません",
-  "en": "",
+  "en": "tanuki away.",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CBA74",
   "kind": "code",
   "jp": "光を放ち　鬼やタヌキを",
-  "en": "",
+  "en": "Light keeps oni and",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CBA8C",
   "kind": "code",
   "jp": "作り出します",
-  "en": "",
+  "en": "make dishes",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CBA9C",
   "kind": "code",
   "jp": "混ぜ合わせて　料理を",
-  "en": "",
+  "en": "ingredients to",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CBAB4",
   "kind": "code",
   "jp": "いろいろな　材料を",
-  "en": "",
+  "en": "Mix all kinds of",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CBAC8",
   "kind": "code",
   "jp": "移動することが",
-  "en": "",
+  "en": "normal speed",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CBAD8",
   "kind": "code",
   "jp": "通常の４倍の　速さで",
-  "en": "",
+  "en": "Move at four times",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CBAF0",
   "kind": "code",
   "jp": "もどることが　できます",
-  "en": "",
+  "en": "you have visited",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CBB08",
   "kind": "code",
   "jp": "村に　すぐに",
-  "en": "",
+  "en": "any village",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CBB18",
   "kind": "code",
   "jp": "一度　おとずれた",
-  "en": "",
+  "en": "Warp right back to",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CBB2C",
   "kind": "code",
   "jp": "地上に　もどることが",
-  "en": "",
+  "en": "a cave to the surface",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CBB44",
   "kind": "code",
   "jp": "どうくつから　一瞬で",
-  "en": "",
+  "en": "Instantly return from",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CBB5C",
   "kind": "code",
   "jp": "できます！",
-  "en": "",
+  "en": "your way!",
   "max": 11
  },
  {
   "id": "OVLGMAIN@800CBB68",
   "kind": "code",
   "jp": "どかせることが",
-  "en": "",
+  "en": "get out of",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CBB78",
   "kind": "code",
   "jp": "オナラをして　村人を",
-  "en": "",
+  "en": "Fart to make villagers",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CBB90",
   "kind": "code",
   "jp": "書かれている",
-  "en": "",
+  "en": "how to revive",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CBBA0",
   "kind": "code",
   "jp": "はかい神の　復活方法が",
-  "en": "",
+  "en": "God of Destruction:",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CBBB8",
   "kind": "code",
   "jp": "読むことが　できない…",
-  "en": "",
+  "en": "but it's unreadable...",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CBBD0",
   "kind": "code",
   "jp": "何かが　書いてあるが",
-  "en": "",
+  "en": "Something is written,",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CBBE8",
   "kind": "code",
   "jp": "４つ　そろうと…",
-  "en": "",
+  "en": "one kind unite...",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CBBFC",
   "kind": "code",
   "jp": "同じ種類の　鐘が",
-  "en": "",
+  "en": "When four bells of",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CBC10",
   "kind": "code",
   "jp": "別名　はかいの鐘",
-  "en": "",
+  "en": "Destruction Bell",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CBC24",
   "kind": "code",
   "jp": "栄養満点の　おかゆ",
-  "en": "",
+  "en": "a hearty porridge",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CBC38",
   "kind": "code",
   "jp": "銀次が　考えた",
-  "en": "",
+  "en": "Ginji devised",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CBC48",
   "kind": "code",
   "jp": "着ると　ネコの",
-  "en": "",
+  "en": "and cat speech",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CBC58",
   "kind": "code",
   "jp": "言葉が　わかります",
-  "en": "",
+  "en": "is clear!",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CBC6C",
   "kind": "code",
   "jp": "着ると　カエルの",
-  "en": "",
+  "en": "and frog speech",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CBC80",
   "kind": "code",
   "jp": "受け取れます",
-  "en": "",
+  "en": "can be yours!",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CBC90",
   "kind": "code",
   "jp": "宝物塔に　ある　木材が",
-  "en": "",
+  "en": "Treasure Tower lumber",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CBCA8",
   "kind": "code",
   "jp": "これで　寝太郎の村の",
-  "en": "",
+  "en": "Netaro Village's",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CBCC0",
   "kind": "code",
   "jp": "大切な　ものです",
-  "en": "",
+  "en": "good grooming",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CBCD4",
   "kind": "code",
   "jp": "乙女の　身だしなみに",
-  "en": "",
+  "en": "A must for a maiden's",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CBCEC",
   "kind": "code",
   "jp": "飲む　特製の　薬",
-  "en": "",
+  "en": "a special medicine",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CBD00",
   "kind": "code",
   "jp": "お腹が　痛い時に",
-  "en": "",
+  "en": "For a tummy ache,",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CBD14",
   "kind": "code",
   "jp": "美しく　なれる…かな",
-  "en": "",
+  "en": "be beautiful... maybe",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CBD2C",
   "kind": "code",
   "jp": "これを　身につけると",
-  "en": "",
+  "en": "Wear this and you'll",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CBD44",
   "kind": "code",
   "jp": "これが　なくっちゃね！",
-  "en": "",
+  "en": "holes, you need this!",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CBD5C",
   "kind": "code",
   "jp": "カベや穴を　ほるには",
-  "en": "",
+  "en": "For digging walls and",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CBD74",
   "kind": "code",
   "jp": "バッチリ　書いてある",
-  "en": "",
+  "en": "it's clearly marked!",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CBD8C",
   "kind": "code",
   "jp": "かくした　場所が",
-  "en": "",
+  "en": "hid the firewood:",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CBDA0",
   "kind": "code",
   "jp": "鬼面党が　マキを",
-  "en": "",
+  "en": "The Oni Mask Gang",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CBDB4",
   "kind": "code",
   "jp": "遊べる",
-  "en": "",
+  "en": "play!",
   "max": 7
  },
  {
   "id": "OVLGMAIN@800CBDBC",
   "kind": "code",
   "jp": "ゆうぎが　無料で",
-  "en": "",
+  "en": "games are free to",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CBDD0",
   "kind": "code",
   "jp": "カチカチの村の",
-  "en": "",
+  "en": "In Kachi-Kachi",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CBDE0",
   "kind": "code",
   "jp": "やる気が　わいてくる",
-  "en": "",
+  "en": "tingle with pep!",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CBDF8",
   "kind": "code",
   "jp": "たたけば　ジンジンと",
-  "en": "",
+  "en": "with this and you'll",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CBE10",
   "kind": "code",
   "jp": "これで　背中を",
-  "en": "",
+  "en": "Tap your back",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CBE20",
   "kind": "code",
   "jp": "戦意を　なくします",
-  "en": "",
+  "en": "the will to fight",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CBE34",
   "kind": "code",
   "jp": "出して　相手の",
-  "en": "",
+  "en": "wave that saps",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CBE44",
   "kind": "code",
   "jp": "強力な　波動を",
-  "en": "",
+  "en": "Emits a strong",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CBE54",
   "kind": "code",
   "jp": "つくった　鏡",
-  "en": "",
+  "en": "own mirror",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CBE64",
   "kind": "code",
   "jp": "光を　放つ　かぐや姫の",
-  "en": "",
+  "en": "Princess Kaguya's",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CBE7C",
   "kind": "code",
   "jp": "洞窟の　中でも　強力な",
-  "en": "",
+  "en": "Bright even in caves:",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CBE94",
   "kind": "code",
   "jp": "乗るほどの　小さな鐘",
-  "en": "",
+  "en": "fits in your palm",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CBEAC",
   "kind": "code",
   "jp": "鳴らす　手のひらに",
-  "en": "",
+  "en": "a tiny bell that",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CBEC0",
   "kind": "code",
   "jp": "かわいらしい　音を",
-  "en": "",
+  "en": "Makes a cute ring,",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CBED4",
   "kind": "code",
   "jp": "特製の　手ぬぐい",
-  "en": "",
+  "en": "this special towel",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CBEE8",
   "kind": "code",
   "jp": "名前が　入っている",
-  "en": "",
+  "en": "name is printed on",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CBEFC",
   "kind": "code",
   "jp": "料亭いしいの",
-  "en": "",
+  "en": "Ryotei Ishii's",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CBF0C",
   "kind": "code",
   "jp": "ふきとばす　うちわ",
-  "en": "",
+  "en": "no matter how big",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CBF20",
   "kind": "code",
   "jp": "どんなに　大きな物でも",
-  "en": "",
+  "en": "blows away anything,",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CBF38",
   "kind": "code",
   "jp": "ダルマてんぐが　持つ",
-  "en": "",
+  "en": "Daruma Tengu's fan",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CBF50",
   "kind": "code",
   "jp": "ちからを　持っている",
-  "en": "",
+  "en": "power dwells in it",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CBF68",
   "kind": "code",
   "jp": "大災を　しずめる",
-  "en": "",
+  "en": "disaster-calming",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CBF7C",
   "kind": "code",
   "jp": "水龍が　持つ",
-  "en": "",
+  "en": "Water Dragon's",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CBF8C",
   "kind": "code",
   "jp": "着ると　さるの　言葉が",
-  "en": "",
+  "en": "and monkey speech",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CBFA4",
   "kind": "code",
   "jp": "必要な笛",
-  "en": "",
+  "en": "with this!",
   "max": 11
  },
  {
   "id": "OVLGMAIN@800CBFB0",
   "kind": "code",
   "jp": "水龍を　呼び出すのに",
-  "en": "",
+  "en": "Call the Water Dragon",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CBFC8",
   "kind": "code",
   "jp": "首かざり",
-  "en": "",
+  "en": "necklace",
   "max": 11
  },
  {
   "id": "OVLGMAIN@800CBFD4",
   "kind": "code",
   "jp": "シンジュで　つくられた",
-  "en": "",
+  "en": "moonlight form this",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CBFEC",
   "kind": "code",
   "jp": "月の光を　つめこんだ",
-  "en": "",
+  "en": "Pearls brimming with",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CC004",
   "kind": "code",
   "jp": "あずかった　遺書",
-  "en": "",
+  "en": "gave you this will",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CC018",
   "kind": "code",
   "jp": "漁師の　幽霊から",
-  "en": "",
+  "en": "A ghost fisherman",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CC02C",
   "kind": "code",
   "jp": "あるような",
-  "en": "",
+  "en": "happen...",
   "max": 11
  },
  {
   "id": "OVLGMAIN@800CC038",
   "kind": "code",
   "jp": "何かが　おこることも",
-  "en": "",
+  "en": "something might just",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CC050",
   "kind": "code",
   "jp": "この笛を　ふくと",
-  "en": "",
+  "en": "Blow the flute and",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CC064",
   "kind": "code",
   "jp": "子どもの　人形",
-  "en": "",
+  "en": "carrying tea",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CC074",
   "kind": "code",
   "jp": "お茶を　はこぶ",
-  "en": "",
+  "en": "clatters along",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CC084",
   "kind": "code",
   "jp": "カタカタと　自動で",
-  "en": "",
+  "en": "A child doll that",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CC098",
   "kind": "code",
   "jp": "羽がある　風車",
-  "en": "",
+  "en": "vivid blades",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CC0A8",
   "kind": "code",
   "jp": "色あざやかな　６枚の",
-  "en": "",
+  "en": "A pinwheel with six",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CC0C0",
   "kind": "code",
   "jp": "１本の　ワラ",
-  "en": "",
+  "en": "piece of straw",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CC0D0",
   "kind": "code",
   "jp": "ごく　ありふれた",
-  "en": "",
+  "en": "A totally ordinary",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CC0E4",
   "kind": "code",
   "jp": "空を　とぶことが",
-  "en": "",
+  "en": "Fly in the sky",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CC0F8",
   "kind": "code",
   "jp": "必要な　かみかざり",
-  "en": "",
+  "en": "needs this hairpin",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CC10C",
   "kind": "code",
   "jp": "女性の　おしゃれに",
-  "en": "",
+  "en": "Every stylish lady",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CC120",
   "kind": "code",
   "jp": "出します",
-  "en": "",
+  "en": "smoke",
   "max": 11
  },
  {
   "id": "OVLGMAIN@800CC12C",
   "kind": "code",
   "jp": "大量の　けむりを",
-  "en": "",
+  "en": "spews out lots of",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CC140",
   "kind": "code",
   "jp": "投げると　玉の穴から",
-  "en": "",
+  "en": "Throw it and its hole",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CC158",
   "kind": "code",
   "jp": "する　米です",
-  "en": "",
+  "en": "strange aroma",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CC168",
   "kind": "code",
   "jp": "ふしぎな　かおりが",
-  "en": "",
+  "en": "this rice has a",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CC17C",
   "kind": "code",
   "jp": "ひかり　かがやく",
-  "en": "",
+  "en": "Shining bright,",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CC190",
   "kind": "code",
   "jp": "必要な券",
-  "en": "",
+  "en": "the ferry",
   "max": 11
  },
  {
   "id": "OVLGMAIN@800CC19C",
   "kind": "code",
   "jp": "定期船に　乗るために",
-  "en": "",
+  "en": "A ticket for riding",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CC1B4",
   "kind": "code",
   "jp": "必要な　カギ",
-  "en": "",
+  "en": "this key",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CC1C4",
   "kind": "code",
   "jp": "とびらを　あける時に",
-  "en": "",
+  "en": "north door opens with",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CC1DC",
   "kind": "code",
   "jp": "おむすび村の　北の",
-  "en": "",
+  "en": "Omusubi Village's",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CC1F0",
   "kind": "code",
   "jp": "とく　勇気の　あかし",
-  "en": "",
+  "en": "seal: proof of valor",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CC208",
   "kind": "code",
   "jp": "鬼ヶ島への　ふういんを",
-  "en": "",
+  "en": "Breaks the Onigashima",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CC220",
   "kind": "code",
   "jp": "乙姫さまの　鏡",
-  "en": "",
+  "en": "Otohime glass",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CC230",
   "kind": "code",
   "jp": "真実の心を　映し出す",
-  "en": "",
+  "en": "and true hearts:",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CC248",
   "kind": "code",
   "jp": "真実のすがたかたちや",
-  "en": "",
+  "en": "Reveals true forms",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CC260",
   "kind": "code",
   "jp": "わかります",
-  "en": "",
+  "en": "is clear!",
   "max": 11
  },
  {
   "id": "OVLGMAIN@800CC26C",
   "kind": "code",
   "jp": "着ると　犬の　言葉が",
-  "en": "",
+  "en": "and dog speech",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CC284",
   "kind": "code",
   "jp": "この　着ぐるみを",
-  "en": "",
+  "en": "Wear this costume",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CC298",
   "kind": "code",
   "jp": "ことが　できます！",
-  "en": "",
+  "en": "have collected!",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CC2AC",
   "kind": "code",
   "jp": "方言カードを　見る",
-  "en": "",
+  "en": "Dialect Cards you",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CC2C0",
   "kind": "code",
   "jp": "今まで　集めた",
-  "en": "",
+  "en": "View all the",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CC2D0",
   "kind": "code",
   "jp": "便利なもの",
-  "en": "",
+  "en": "So handy!",
   "max": 11
  },
  {
   "id": "OVLGMAIN@800CC2DC",
   "kind": "code",
   "jp": "歩数が　わかる",
-  "en": "",
+  "en": "steps you took",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CC2EC",
   "kind": "code",
   "jp": "今まで　歩いた",
-  "en": "",
+  "en": "Shows how many",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CC2FC",
   "kind": "code",
   "jp": "魚を　取れる…かも",
-  "en": "",
+  "en": "thrust... maybe",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CC310",
   "kind": "code",
   "jp": "ひとつきで　１０匹の",
-  "en": "",
+  "en": "Spear 10 fish with one",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CC328",
   "kind": "code",
   "jp": "できる　…気がする",
-  "en": "",
+  "en": "or so it seems",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CC33C",
   "kind": "code",
   "jp": "切り倒す　ことが",
-  "en": "",
+  "en": "by yourself...",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CC350",
   "kind": "code",
   "jp": "１人で　１０本の　木を",
-  "en": "",
+  "en": "Chop down ten trees",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CC368",
   "kind": "code",
   "jp": "手紙",
-  "en": "",
+  "en": "letter",
   "max": 7
  },
  {
   "id": "OVLGMAIN@800CC370",
   "kind": "code",
   "jp": "お題のことを　書いている",
-  "en": "",
+  "en": "theme, written in a",
   "max": 27
  },
  {
   "id": "OVLGMAIN@800CC38C",
   "kind": "code",
   "jp": "柿太郎が　だじゃれ大会の",
-  "en": "",
+  "en": "Kakitaro's Pun Contest",
   "max": 27
  },
  {
   "id": "OVLGMAIN@800CC3A8",
   "kind": "code",
   "jp": "お題が　書いてあります",
-  "en": "",
+  "en": "theme is written here",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CC3C0",
   "kind": "code",
   "jp": "天下一　だじゃれ大会の",
-  "en": "",
+  "en": "Greatest Pun Contest",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CC3D8",
   "kind": "code",
   "jp": "書かれています",
-  "en": "",
+  "en": "written here",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CC3E8",
   "kind": "code",
   "jp": "つくるための　材料が",
-  "en": "",
+  "en": "ingredients are",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CC400",
   "kind": "code",
   "jp": "はらいたの薬を",
-  "en": "",
+  "en": "Tummy Medicine",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CC410",
   "kind": "code",
   "jp": "目が　さめます　",
-  "en": "",
+  "en": "wake you right up",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CC424",
   "kind": "code",
   "jp": "その　冷たい　音色で",
-  "en": "",
+  "en": "its icy tone will",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CC43C",
   "kind": "code",
   "jp": "これを　ふけば！",
-  "en": "",
+  "en": "Blow this, and",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CC450",
   "kind": "code",
   "jp": "書いてあります　",
-  "en": "",
+  "en": "written in it",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CC464",
   "kind": "code",
   "jp": "身につける方法が",
-  "en": "",
+  "en": "the Warp art is",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CC478",
   "kind": "code",
   "jp": "ひえんの術を",
-  "en": "",
+  "en": "How to learn",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CC488",
   "kind": "code",
   "jp": "元気１００倍",
-  "en": "",
+  "en": "gets 100x pep!",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CC498",
   "kind": "code",
   "jp": "人でも　これを　飲めば",
-  "en": "",
+  "en": "soul who drinks this",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CC4B0",
   "kind": "code",
   "jp": "どんなに　元気のない",
-  "en": "",
+  "en": "Even the most tired",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CC4C8",
   "kind": "code",
   "jp": "貧乏神の　人形",
-  "en": "",
+  "en": "is bad luck!",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CC4D8",
   "kind": "code",
   "jp": "不幸に　なりそう！",
-  "en": "",
+  "en": "just holding it",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CC4EC",
   "kind": "code",
   "jp": "持っているだけで",
-  "en": "",
+  "en": "Poverty God doll:",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CC500",
   "kind": "code",
   "jp": "かわいい人形",
-  "en": "",
+  "en": "as a cute doll",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CC510",
   "kind": "code",
   "jp": "デフォルメした",
-  "en": "",
+  "en": "made cartoony",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CC520",
   "kind": "code",
   "jp": "桃太郎さんを",
-  "en": "",
+  "en": "Momotaro-san",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CC530",
   "kind": "code",
   "jp": "あふれる　気品豊かな",
-  "en": "",
+  "en": "elegant, refined tea",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CC548",
   "kind": "code",
   "jp": "貴族的な　イメージ",
-  "en": "",
+  "en": "An aristocratic,",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CC55C",
   "kind": "code",
   "jp": "見る者を　引きつける",
-  "en": "",
+  "en": "every eye to this tea",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CC574",
   "kind": "code",
   "jp": "奥深い　色合いで",
-  "en": "",
+  "en": "Deep colors draw",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CC588",
   "kind": "code",
   "jp": "ぜいたくな　茶わん",
-  "en": "",
+  "en": "a lavish tea bowl",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CC59C",
   "kind": "code",
   "jp": "金を　ちりばめた",
-  "en": "",
+  "en": "Studded with gold,",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CC5B0",
   "kind": "code",
   "jp": "茶わん",
-  "en": "",
+  "en": "bowl",
   "max": 7
  },
  {
   "id": "OVLGMAIN@800CC5B8",
   "kind": "code",
   "jp": "安定感　あふれる",
-  "en": "",
+  "en": "rock-steady tea",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CC5CC",
   "kind": "code",
   "jp": "どっしりした",
-  "en": "",
+  "en": "A solid, hefty",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CC5DC",
   "kind": "code",
   "jp": "どっしりとした",
-  "en": "",
+  "en": "a sturdy",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CC5EC",
   "kind": "code",
   "jp": "山の　ごとく",
-  "en": "",
+  "en": "Mountain-like,",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CC5FC",
   "kind": "code",
   "jp": "きれいな皿",
-  "en": "",
+  "en": "fine plate",
   "max": 11
  },
  {
   "id": "OVLGMAIN@800CC608",
   "kind": "code",
   "jp": "静かな　イメージの",
-  "en": "",
+  "en": "a calm-looking",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CC61C",
   "kind": "code",
   "jp": "林の　ごとく",
-  "en": "",
+  "en": "Like a forest,",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CC62C",
   "kind": "code",
   "jp": "イメージの　皿",
-  "en": "",
+  "en": "plate",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CC63C",
   "kind": "code",
   "jp": "あらあらしい　",
-  "en": "",
+  "en": "wild-looking",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CC64C",
   "kind": "code",
   "jp": "火の　ごとく",
-  "en": "",
+  "en": "Like fire, a",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CC65C",
   "kind": "code",
   "jp": "小さな皿",
-  "en": "",
+  "en": "small dish",
   "max": 11
  },
  {
   "id": "OVLGMAIN@800CC668",
   "kind": "code",
   "jp": "さわやかな　イメージの",
-  "en": "",
+  "en": "a breezy-looking",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CC680",
   "kind": "code",
   "jp": "風の　ごとく",
-  "en": "",
+  "en": "Like the wind,",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CC690",
   "kind": "code",
   "jp": "描いてあります",
-  "en": "",
+  "en": "laughing",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CC6A0",
   "kind": "code",
   "jp": "しまいそうな　絵が",
-  "en": "",
+  "en": "make you burst out",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CC6B4",
   "kind": "code",
   "jp": "思わず　ふき出して",
-  "en": "",
+  "en": "Its painting will",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CC6C8",
   "kind": "code",
   "jp": "絵が　描いてあります",
-  "en": "",
+  "en": "painted on it",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CC6E0",
   "kind": "code",
   "jp": "いさましい　龍の",
-  "en": "",
+  "en": "A brave dragon is",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CC6F4",
   "kind": "code",
   "jp": "音が　します",
-  "en": "",
+  "en": "lovely chime",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CC704",
   "kind": "code",
   "jp": "たたくと　美しい",
-  "en": "",
+  "en": "Tap it to hear a",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CC718",
   "kind": "code",
   "jp": "奥の深い　白色の皿",
-  "en": "",
+  "en": "subtle white plate",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CC72C",
   "kind": "code",
   "jp": "単純な　形だが",
-  "en": "",
+  "en": "Simple shape,",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CC73C",
   "kind": "code",
   "jp": "大きな皿",
-  "en": "",
+  "en": "big plate",
   "max": 11
  },
  {
   "id": "OVLGMAIN@800CC748",
   "kind": "code",
   "jp": "色絵の　はなやかな",
-  "en": "",
+  "en": "A gaily painted",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CC75C",
   "kind": "code",
   "jp": "大きな皿　",
-  "en": "",
+  "en": "big plate",
   "max": 11
  },
  {
   "id": "OVLGMAIN@800CC768",
   "kind": "code",
   "jp": "重量感　あふれる",
-  "en": "",
+  "en": "A hefty-feeling",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CC77C",
   "kind": "code",
   "jp": "ひびく　角皿",
-  "en": "",
+  "en": "A square plate",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CC78C",
   "kind": "code",
   "jp": "たたけば　カーンと",
-  "en": "",
+  "en": "Tap and it clangs!",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CC7A0",
   "kind": "code",
   "jp": "だ円形の　かびん",
-  "en": "",
+  "en": "oval vase",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CC7B4",
   "kind": "code",
   "jp": "描かれている",
-  "en": "",
+  "en": "adorns this",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CC7C4",
   "kind": "code",
   "jp": "水ボク画の　絵が",
-  "en": "",
+  "en": "Ink-wash painting",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CC7D8",
   "kind": "code",
   "jp": "海のような　青い",
-  "en": "",
+  "en": "An ocean-blue",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CC7EC",
   "kind": "code",
   "jp": "かびん",
-  "en": "",
+  "en": "vase",
   "max": 7
  },
  {
   "id": "OVLGMAIN@800CC7F4",
   "kind": "code",
   "jp": "荒々しさを　感じさせる",
-  "en": "",
+  "en": "rugged-looking",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CC80C",
   "kind": "code",
   "jp": "角ばった形が",
-  "en": "",
+  "en": "An angular,",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CC81C",
   "kind": "code",
   "jp": "色をした　かびん",
-  "en": "",
+  "en": "colored vase",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CC830",
   "kind": "code",
   "jp": "赤く　燃えるような",
-  "en": "",
+  "en": "A fiery red",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CC844",
   "kind": "code",
   "jp": "人形に　なりました！",
-  "en": "",
+  "en": "finally a doll!",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CC85C",
   "kind": "code",
   "jp": "かぐや姫が　とうとう",
-  "en": "",
+  "en": "Princess Kaguya is",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CC874",
   "kind": "code",
   "jp": "男の子に　大人気の",
-  "en": "",
+  "en": "A hit with boys,",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CC888",
   "kind": "code",
   "jp": "感じられる　ツボ",
-  "en": "",
+  "en": "craftsmanship",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CC89C",
   "kind": "code",
   "jp": "堂々たる　作風が",
-  "en": "",
+  "en": "A pot of imposing",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CC8B0",
   "kind": "code",
   "jp": "感じさせます",
-  "en": "",
+  "en": "feel",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CC8C0",
   "kind": "code",
   "jp": "女性的な　イメージを",
-  "en": "",
+  "en": "give it a feminine",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CC8D8",
   "kind": "code",
   "jp": "美しい曲線が",
-  "en": "",
+  "en": "Lovely curves",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CC8E8",
   "kind": "code",
   "jp": "キズだらけの　ツボです",
-  "en": "",
+  "en": "A badly scratched pot",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CC900",
   "kind": "code",
   "jp": "ツボです",
-  "en": "",
+  "en": "pot",
   "max": 11
  },
  {
   "id": "OVLGMAIN@800CC90C",
   "kind": "code",
   "jp": "ちから強い　イメージの",
-  "en": "",
+  "en": "A powerful-looking",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CC924",
   "kind": "code",
   "jp": "人形",
-  "en": "",
+  "en": "pepepe",
   "max": 7
  },
  {
   "id": "OVLGMAIN@800CC92C",
   "kind": "code",
   "jp": "ぺぺぺっと　しゃべる",
-  "en": "",
+  "en": "and this doll goes",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CC944",
   "kind": "code",
   "jp": "お腹を　おすと",
-  "en": "",
+  "en": "Push its tummy",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CC954",
   "kind": "code",
   "jp": "桃の人形",
-  "en": "",
+  "en": "peach doll",
   "max": 11
  },
  {
   "id": "OVLGMAIN@800CC960",
   "kind": "code",
   "jp": "顔が描いてある",
-  "en": "",
+  "en": "A face-painted",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CC970",
   "kind": "code",
   "jp": "動きます",
-  "en": "",
+  "en": "clockwork",
   "max": 11
  },
  {
   "id": "OVLGMAIN@800CC97C",
   "kind": "code",
   "jp": "ふしぎな　からくりで",
-  "en": "",
+  "en": "that moves by strange",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CC994",
   "kind": "code",
   "jp": "イヌ型の　人形で",
-  "en": "",
+  "en": "A dog-shaped doll",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CC9A8",
   "kind": "code",
   "jp": "怪獣の人形",
-  "en": "",
+  "en": "kaiju doll",
   "max": 11
  },
  {
   "id": "OVLGMAIN@800CC9B4",
   "kind": "code",
   "jp": "認知度は　日本一の",
-  "en": "",
+  "en": "know Japan's No. 1",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CC9C8",
   "kind": "code",
   "jp": "子供から　大人まで",
-  "en": "",
+  "en": "Kids and grown-ups",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CC9DC",
   "kind": "code",
   "jp": "けんだま型の　人形",
-  "en": "",
+  "en": "a kendama doll",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CC9F0",
   "kind": "code",
   "jp": "子供に　大人気の",
-  "en": "",
+  "en": "A kids' favorite:",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CCA04",
   "kind": "code",
   "jp": "りょうり７せつめい",
-  "en": "",
+  "en": "On Cooking 7",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CCA18",
   "kind": "code",
   "jp": "りょうり６せつめい",
-  "en": "",
+  "en": "On Cooking 6",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CCA2C",
   "kind": "code",
   "jp": "塩づけに　しました",
-  "en": "",
+  "en": "packed in salt",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CCA40",
   "kind": "code",
   "jp": "新鮮な　シャケを",
-  "en": "",
+  "en": "Fresh salmon",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CCA54",
   "kind": "code",
   "jp": "目印！",
-  "en": "",
+  "en": "tofu!",
   "max": 7
  },
  {
   "id": "OVLGMAIN@800CCA5C",
   "kind": "code",
   "jp": "大きな　おあげが",
-  "en": "",
+  "en": "Look for big fried",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CCA70",
   "kind": "code",
   "jp": "たくさん　入っています",
-  "en": "",
+  "en": "veggies inside",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CCA88",
   "kind": "code",
   "jp": "新鮮な　野菜が",
-  "en": "",
+  "en": "Loads of fresh",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CCA98",
   "kind": "code",
   "jp": "お祭り気分",
-  "en": "",
+  "en": "festival!",
   "max": 11
  },
  {
   "id": "OVLGMAIN@800CCAA4",
   "kind": "code",
   "jp": "これを　食べると",
-  "en": "",
+  "en": "Eat this: it's a",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CCAB8",
   "kind": "code",
   "jp": "あっとうされます",
-  "en": "",
+  "en": "blow you away",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CCACC",
   "kind": "code",
   "jp": "ボリュームに",
-  "en": "",
+  "en": "portions will",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CCADC",
   "kind": "code",
   "jp": "よこずな級の",
-  "en": "",
+  "en": "Yokozuna-class",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CCAEC",
   "kind": "code",
   "jp": "塩むすび",
-  "en": "",
+  "en": "rice ball",
   "max": 11
  },
  {
   "id": "OVLGMAIN@800CCAF8",
   "kind": "code",
   "jp": "どデカい　サイズの",
-  "en": "",
+  "en": "A huge, salted",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CCB0C",
   "kind": "code",
   "jp": "岩を　ふき飛ばすことが",
-  "en": "",
+  "en": "Blasts away boulders",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CCB24",
   "kind": "code",
   "jp": "＜せいけつ＞",
-  "en": "",
+  "en": "<Purity>",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CCB34",
   "kind": "code",
   "jp": "タニシに　なれます",
-  "en": "",
+  "en": "Turn into a snail",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CCB48",
   "kind": "code",
   "jp": "村娘に　なれます",
-  "en": "",
+  "en": "Turn into a maiden",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CCB5C",
   "kind": "code",
   "jp": "子どもに　なれます",
-  "en": "",
+  "en": "Turn into a child",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CCB70",
   "kind": "code",
   "jp": "ユキだるまに　なれます",
-  "en": "",
+  "en": "Turn into a snowman",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CCB88",
   "kind": "code",
   "jp": "ウンチに　なれます",
-  "en": "",
+  "en": "Turn into poop",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CCB9C",
   "kind": "code",
   "jp": "びろーんに　なれます",
-  "en": "",
+  "en": "Turn into a Biroon",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CCBB4",
   "kind": "code",
   "jp": "カメに　なれます",
-  "en": "",
+  "en": "Turn into a turtle",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CCBC8",
   "kind": "code",
   "jp": "持ち物だったらしい",
-  "en": "",
+  "en": "owned by a legend",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CCBDC",
   "kind": "code",
   "jp": "どうやら　伝説の",
-  "en": "",
+  "en": "Apparently, it was",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CCBF0",
   "kind": "code",
   "jp": "うんち花火",
-  "en": "",
+  "en": "poop burst",
   "max": 11
  },
  {
   "id": "OVLGMAIN@800CCBFC",
   "kind": "code",
   "jp": "におってきそうな",
-  "en": "",
+  "en": "you can smell this",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CCC10",
   "kind": "code",
   "jp": "夜空に　咲く",
-  "en": "",
+  "en": "Up in the sky,",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CCC20",
   "kind": "code",
   "jp": "牧草",
-  "en": "",
+  "en": "grass",
   "max": 7
  },
  {
   "id": "OVLGMAIN@800CCC28",
   "kind": "code",
   "jp": "牛の　大好物の",
-  "en": "",
+  "en": "Cows' favorite",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CCC38",
   "kind": "code",
   "jp": "もー　大変！",
-  "en": "",
+  "en": "udder chaos!",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CCC48",
   "kind": "code",
   "jp": "食べると",
-  "en": "",
+  "en": "Eat it and",
   "max": 11
  },
  {
   "id": "OVLGMAIN@800CCC54",
   "kind": "code",
   "jp": "キノコの　王様",
-  "en": "",
+  "en": "king of fungi",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CCC64",
   "kind": "code",
   "jp": "日本人の好物",
-  "en": "",
+  "en": "Japan's fave,",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CCC74",
   "kind": "code",
   "jp": "シイタケ",
-  "en": "",
+  "en": "shiitake!",
   "max": 11
  },
  {
   "id": "OVLGMAIN@800CCC80",
   "kind": "code",
   "jp": "とても　おいしい",
-  "en": "",
+  "en": "it's so delicious:",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CCC94",
   "kind": "code",
   "jp": "鍋に　入れると",
-  "en": "",
+  "en": "In a hotpot,",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CCCA4",
   "kind": "code",
   "jp": "高く　売れそう！",
-  "en": "",
+  "en": "Could sell high!",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CCCB8",
   "kind": "code",
   "jp": "ちがった　かがやき",
-  "en": "",
+  "en": "a normal marble's!",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CCCCC",
   "kind": "code",
   "jp": "ふつうの　ビー玉とは",
-  "en": "",
+  "en": "Its sparkle is unlike",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CCCE4",
   "kind": "code",
   "jp": "くだいた　食べ物",
-  "en": "",
+  "en": "crushed corn",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CCCF8",
   "kind": "code",
   "jp": "とうもろこしを",
-  "en": "",
+  "en": "Feed made from",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CCD08",
   "kind": "code",
   "jp": "牛の　好物の",
-  "en": "",
+  "en": "Cows love it!",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CCD18",
   "kind": "code",
   "jp": "竹づつに　ミルクが",
-  "en": "",
+  "en": "There's milk in",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CCD2C",
   "kind": "code",
   "jp": "行こう！",
-  "en": "",
+  "en": "this!",
   "max": 11
  },
  {
   "id": "OVLGMAIN@800CCD38",
   "kind": "code",
   "jp": "歩く時に　持って",
-  "en": "",
+  "en": "dark caves, bring",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CCD4C",
   "kind": "code",
   "jp": "暗い　どうくつを",
-  "en": "",
+  "en": "When exploring",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CCD60",
   "kind": "code",
   "jp": "できます",
-  "en": "",
+  "en": "with ease.",
   "max": 11
  },
  {
   "id": "OVLGMAIN@800CCD6C",
   "kind": "code",
   "jp": "水を入れることが",
-  "en": "",
+  "en": "or water",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CCD80",
   "kind": "code",
   "jp": "この中に　牛乳や",
-  "en": "",
+  "en": "Fill it with milk",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CCD94",
   "kind": "code",
   "jp": "早変わり！",
-  "en": "",
+  "en": "favorites!",
   "max": 11
  },
  {
   "id": "OVLGMAIN@800CCDA0",
   "kind": "code",
   "jp": "子供たちの　大好物に",
-  "en": "",
+  "en": "it becomes kids'",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CCDB8",
   "kind": "code",
   "jp": "目玉焼きに　たまご焼き",
-  "en": "",
+  "en": "Fried eggs, omelets:",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CCDD0",
   "kind": "code",
   "jp": "炎の海も　へっちゃらだ",
-  "en": "",
+  "en": "a sea of fire is easy!",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CCDE8",
   "kind": "code",
   "jp": "これを　はけば",
-  "en": "",
+  "en": "Wear these and",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CCDF8",
   "kind": "code",
   "jp": "なれる　ふしぎな実",
-  "en": "",
+  "en": "A mysterious fruit",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CCE0C",
   "kind": "code",
   "jp": "食べれば　いい気持ちに",
-  "en": "",
+  "en": "Eat it and feel great!",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CCE24",
   "kind": "code",
   "jp": "生き返らせます",
-  "en": "",
+  "en": "farmland",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CCE34",
   "kind": "code",
   "jp": "やせほそった　畑を",
-  "en": "",
+  "en": "Revives barren",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CCE48",
   "kind": "code",
   "jp": "大人気！",
-  "en": "",
+  "en": "is a hit!",
   "max": 11
  },
  {
   "id": "OVLGMAIN@800CCE54",
   "kind": "code",
   "jp": "からい　あんこが",
-  "en": "",
+  "en": "spicy bean paste",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CCE68",
   "kind": "code",
   "jp": "舌が　ぬけるほど",
-  "en": "",
+  "en": "Tongue-yanking",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CCE7C",
   "kind": "code",
   "jp": "１日　１本！",
-  "en": "",
+  "en": "One a day!",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CCE8C",
   "kind": "code",
   "jp": "カルシウム　いっぱい",
-  "en": "",
+  "en": "Packed with calcium",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CCEA4",
   "kind": "code",
   "jp": "あま～い　リンゴアメ",
-  "en": "",
+  "en": "make sweeet candy!",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CCEBC",
   "kind": "code",
   "jp": "ちっちゃい　姫リンゴの",
-  "en": "",
+  "en": "Teeny crab apples",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CCED4",
   "kind": "code",
   "jp": "シャケ弁当",
-  "en": "",
+  "en": "salmon box",
   "max": 11
  },
  {
   "id": "OVLGMAIN@800CCEE0",
   "kind": "code",
   "jp": "安くて　おいしい",
-  "en": "",
+  "en": "Cheap and tasty:",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CCEF4",
   "kind": "code",
   "jp": "かきもち　焼こう！",
-  "en": "",
+  "en": "toast kakimochi!",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CCF08",
   "kind": "code",
   "jp": "やきもち　焼かずに",
-  "en": "",
+  "en": "No burning envy;",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CCF1C",
   "kind": "code",
   "jp": "にわとりの　好物",
-  "en": "",
+  "en": "Chickens love it",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CCF30",
   "kind": "code",
   "jp": "しみる～！",
-  "en": "",
+  "en": "Stiiing!",
   "max": 11
  },
  {
   "id": "OVLGMAIN@800CCF3C",
   "kind": "code",
   "jp": "ころんだ時に　キズ薬",
-  "en": "",
+  "en": "Fell down? Use salve!",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CCF54",
   "kind": "code",
   "jp": "使いましょう！",
-  "en": "",
+  "en": "Use this!",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CCF64",
   "kind": "code",
   "jp": "赤くただれたら",
-  "en": "",
+  "en": "hot? Skin red?",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CCF74",
   "kind": "code",
   "jp": "熱いものに　ふれて",
-  "en": "",
+  "en": "Touched something",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CCF88",
   "kind": "code",
   "jp": "かぜ薬　",
-  "en": "",
+  "en": "cold syrup",
   "max": 11
  },
  {
   "id": "OVLGMAIN@800CCF94",
   "kind": "code",
   "jp": "ゴッホンと　言ったら",
-  "en": "",
+  "en": "Cough cough? Time for",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CCFAC",
   "kind": "code",
   "jp": "冬の　花火",
-  "en": "",
+  "en": "fireworks",
   "max": 11
  },
  {
   "id": "OVLGMAIN@800CCFB8",
   "kind": "code",
   "jp": "夜空に　まい散る",
-  "en": "",
+  "en": "Winter flurry of",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CCFCC",
   "kind": "code",
   "jp": "しょっぱ～い！",
-  "en": "",
+  "en": "Saaalty!",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CCFDC",
   "kind": "code",
   "jp": "かかせない！",
-  "en": "",
+  "en": "it's a must!",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CCFEC",
   "kind": "code",
   "jp": "おにぎり　づくりには",
-  "en": "",
+  "en": "For making rice balls",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CD004",
   "kind": "code",
   "jp": "例え　ひょうたんでも…",
-  "en": "",
+  "en": "even a gourd...",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CD01C",
   "kind": "code",
   "jp": "これさえ　あれば",
-  "en": "",
+  "en": "With just this,",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CD030",
   "kind": "code",
   "jp": "なりひびきます",
-  "en": "",
+  "en": "booms at night",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CD040",
   "kind": "code",
   "jp": "ごとく　夜空に",
-  "en": "",
+  "en": "sumo slap, it",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CD050",
   "kind": "code",
   "jp": "金太郎の　はり手の",
-  "en": "",
+  "en": "Like Kintaro's",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CD064",
   "kind": "code",
   "jp": "咲く　キジ花火",
-  "en": "",
+  "en": "pheasants pop",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CD074",
   "kind": "code",
   "jp": "夜空に　ケンケンと",
-  "en": "",
+  "en": "Squawk! In the sky",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CD088",
   "kind": "code",
   "jp": "咲く　サル花火",
-  "en": "",
+  "en": "monkeys pop",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CD098",
   "kind": "code",
   "jp": "夜空に　キャッキャッと",
-  "en": "",
+  "en": "Ooh-ooh! In the sky",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CD0B0",
   "kind": "code",
   "jp": "咲く　イヌ花火！",
-  "en": "",
+  "en": "dogs pop!",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CD0C4",
   "kind": "code",
   "jp": "夜空に　ワンワンと",
-  "en": "",
+  "en": "Woof! In the sky",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CD0D8",
   "kind": "code",
   "jp": "咲く　桃太郎さん",
-  "en": "",
+  "en": "Momotaro-san pops",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CD0EC",
   "kind": "code",
   "jp": "夜空に　ドーンと",
-  "en": "",
+  "en": "Boom! In the sky",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CD100",
   "kind": "code",
   "jp": "サバみそ　最高！",
-  "en": "",
+  "en": "Miso mackerel! Yum",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CD114",
   "kind": "code",
   "jp": "目黒の　サンマ",
-  "en": "",
+  "en": "Meguro saury",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CD124",
   "kind": "code",
   "jp": "これが　有名な",
-  "en": "",
+  "en": "The famous",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CD134",
   "kind": "code",
   "jp": "ひらき　ですね",
-  "en": "",
+  "en": "is best dried!",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CD144",
   "kind": "code",
   "jp": "アジと　言えば",
-  "en": "",
+  "en": "Horse mackerel",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CD154",
   "kind": "code",
   "jp": "さらに　おいしく！",
-  "en": "",
+  "en": "it's even tastier!",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CD168",
   "kind": "code",
   "jp": "うどんに　入れれば",
-  "en": "",
+  "en": "Add to udon and",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CD17C",
   "kind": "code",
   "jp": "どっさり　とれます",
-  "en": "",
+  "en": "sea, they abound",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CD190",
   "kind": "code",
   "jp": "海に　近い　川で",
-  "en": "",
+  "en": "In rivers near the",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CD1A4",
   "kind": "code",
   "jp": "＜いつわり＞",
-  "en": "",
+  "en": "<Deceit>",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CD1B4",
   "kind": "code",
   "jp": "＜熱愛＞",
-  "en": "",
+  "en": "<Passion>",
   "max": 11
  },
  {
   "id": "OVLGMAIN@800CD1C0",
   "kind": "code",
   "jp": "＜ほらふき＞",
-  "en": "",
+  "en": "<Braggart>",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CD1D0",
   "kind": "code",
   "jp": "＜愛を　もう一度＞",
-  "en": "",
+  "en": "<Love once more>",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CD1E4",
   "kind": "code",
   "jp": "＜小さな　しあわせ＞",
-  "en": "",
+  "en": "<Small joys>",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CD1FC",
   "kind": "code",
   "jp": "花言葉",
-  "en": "",
+  "en": "Means:",
   "max": 7
  },
  {
   "id": "OVLGMAIN@800CD204",
   "kind": "code",
   "jp": "グッスリンが　しばらく",
-  "en": "",
+  "en": "Gussurin will",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CD21C",
   "kind": "code",
   "jp": "天邪鬼は　しばらく",
-  "en": "",
+  "en": "Amanojaku will",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CD230",
   "kind": "code",
   "jp": "鬼たちが　しばらく",
-  "en": "",
+  "en": "the oni will",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CD244",
   "kind": "code",
   "jp": "貧乏神が　しばらく",
-  "en": "",
+  "en": "Poverty God will",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CD258",
   "kind": "code",
   "jp": "出てこなくなります",
-  "en": "",
+  "en": "for quite a while",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CD26C",
   "kind": "code",
   "jp": "タヌキが　しばらくの間",
-  "en": "",
+  "en": "tanuki stay away",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CD284",
   "kind": "code",
   "jp": "しばらく　出てきません",
-  "en": "",
+  "en": "will be gone awhile",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CD29C",
   "kind": "code",
   "jp": "漢字ぎらいな　算数の鬼が",
-  "en": "",
+  "en": "kanji-hating Math Oni",
   "max": 27
  },
  {
   "id": "OVLGMAIN@800CD2B8",
   "kind": "code",
   "jp": "出てきません",
-  "en": "",
+  "en": "be gone awhile",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CD2C8",
   "kind": "code",
   "jp": "クイズの鬼が　しばらく",
-  "en": "",
+  "en": "the Quiz Oni will",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CD2E0",
   "kind": "code",
   "jp": "タヌキが　出てくる",
-  "en": "",
+  "en": "tanuki show up",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CD2F4",
   "kind": "code",
   "jp": "ギャンブル好きな",
-  "en": "",
+  "en": "Gambling-mad",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CD308",
   "kind": "code",
   "jp": "サイコロを　ころがせば",
-  "en": "",
+  "en": "Roll the dice!",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CD320",
   "kind": "code",
   "jp": "算数の鬼が　出てくる",
-  "en": "",
+  "en": "a Math Oni appears",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CD338",
   "kind": "code",
   "jp": "クイズの鬼が　出てくる",
-  "en": "",
+  "en": "a Quiz Oni appears",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CD350",
   "kind": "code",
   "jp": "これを　押せば",
-  "en": "",
+  "en": "Press this and",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CD360",
   "kind": "code",
   "jp": "貧乏神の　お出まし",
-  "en": "",
+  "en": "Poverty God's here",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CD374",
   "kind": "code",
   "jp": "これを　使えば",
-  "en": "",
+  "en": "Use this and",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CD384",
   "kind": "code",
   "jp": "貧乏神の　大好物",
-  "en": "",
+  "en": "Poverty God's fave",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CD398",
   "kind": "code",
   "jp": "歯ごたえ！",
-  "en": "",
+  "en": "crunch!",
   "max": 11
  },
  {
   "id": "OVLGMAIN@800CD3A4",
   "kind": "code",
   "jp": "シャキッとした",
-  "en": "",
+  "en": "Crisp, snappy",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CD3B4",
   "kind": "code",
   "jp": "涙が　ポロリ",
-  "en": "",
+  "en": "tears roll!",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CD3C4",
   "kind": "code",
   "jp": "かわを　むけば",
-  "en": "",
+  "en": "Peel it and",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CD3D4",
   "kind": "code",
   "jp": "得意料理",
-  "en": "",
+  "en": "specialty",
   "max": 11
  },
  {
   "id": "OVLGMAIN@800CD3E0",
   "kind": "code",
   "jp": "おばあさんの",
-  "en": "",
+  "en": "Grandma's",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CD3F0",
   "kind": "code",
   "jp": "きんぴらごぼう",
-  "en": "",
+  "en": "Kinpira gobo:",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CD400",
   "kind": "code",
   "jp": "鍋には　はくさい！",
-  "en": "",
+  "en": "Napa for hotpot!",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CD414",
   "kind": "code",
   "jp": "浦島花火",
-  "en": "",
+  "en": "Urashima",
   "max": 11
  },
  {
   "id": "OVLGMAIN@800CD420",
   "kind": "code",
   "jp": "夜空に　波打つ",
-  "en": "",
+  "en": "Night waves:",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CD430",
   "kind": "code",
   "jp": "食べましょう！",
-  "en": "",
+  "en": "daikon!",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CD440",
   "kind": "code",
   "jp": "ダイコンおろしで",
-  "en": "",
+  "en": "saury with grated",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CD454",
   "kind": "code",
   "jp": "サンマの　塩焼きは",
-  "en": "",
+  "en": "Eat salt-grilled",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CD468",
   "kind": "code",
   "jp": "いっぱい！",
-  "en": "",
+  "en": "so peppy!",
   "max": 11
  },
  {
   "id": "OVLGMAIN@800CD474",
   "kind": "code",
   "jp": "食べれば　元気",
-  "en": "",
+  "en": "and you'll be",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CD484",
   "kind": "code",
   "jp": "ホウレンソウを",
-  "en": "",
+  "en": "Eat spinach,",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CD494",
   "kind": "code",
   "jp": "ウサギさんも　大好き",
-  "en": "",
+  "en": "Mr. Rabbit loves it",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CD4AC",
   "kind": "code",
   "jp": "パリパリ　ポリポリ",
-  "en": "",
+  "en": "Crunch, crunch!",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CD4C0",
   "kind": "code",
   "jp": "カブの　つけもの",
-  "en": "",
+  "en": "Pickled turnip",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CD4D4",
   "kind": "code",
   "jp": "なかよく　食べましょう",
-  "en": "",
+  "en": "for sharing with all!",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CD4EC",
   "kind": "code",
   "jp": "秋なすびは　みんなで",
-  "en": "",
+  "en": "Autumn eggplant is",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CD504",
   "kind": "code",
   "jp": "入っています",
-  "en": "",
+  "en": "a bamboo tube",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CD514",
   "kind": "code",
   "jp": "くんだ　泉水が",
-  "en": "",
+  "en": "springwater in",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CD524",
   "kind": "code",
   "jp": "浦島の村の　泉で",
-  "en": "",
+  "en": "Urashima Village",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CD538",
   "kind": "code",
   "jp": "関西風　おこのみ焼き",
-  "en": "",
+  "en": "Kansai okonomiyaki",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CD550",
   "kind": "code",
   "jp": "ボリューム　たっぷり",
-  "en": "",
+  "en": "Hearty and filling:",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CD568",
   "kind": "code",
   "jp": "いかの　すがた焼き",
-  "en": "",
+  "en": "grilled squid",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CD57C",
   "kind": "code",
   "jp": "ジャンボ　サイズの",
-  "en": "",
+  "en": "A jumbo-size whole",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CD590",
   "kind": "code",
   "jp": "たまりませんね",
-  "en": "",
+  "en": "is just divine",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CD5A0",
   "kind": "code",
   "jp": "ソースの　かおりが",
-  "en": "",
+  "en": "That sauce aroma",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CD5B4",
   "kind": "code",
   "jp": "１本で　２度　おいしい",
-  "en": "",
+  "en": "one is twice as tasty",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CD5CC",
   "kind": "code",
   "jp": "ミックス味だから",
-  "en": "",
+  "en": "flavors mixed, so",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CD5E0",
   "kind": "code",
   "jp": "チョコと　バナナの",
-  "en": "",
+  "en": "Choco and banana",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CD5F4",
   "kind": "code",
   "jp": "ふとい　めん",
-  "en": "",
+  "en": "noodles",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CD604",
   "kind": "code",
   "jp": "こしの　きいた",
-  "en": "",
+  "en": "Thick, chewy",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CD614",
   "kind": "code",
   "jp": "女の子に　大人気！",
-  "en": "",
+  "en": "girls adore it!",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CD628",
   "kind": "code",
   "jp": "ホッカ　ホッカで",
-  "en": "",
+  "en": "Piping hot and",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CD63C",
   "kind": "code",
   "jp": "別名　たいこやき　",
-  "en": "",
+  "en": "a.k.a. taikoyaki",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CD650",
   "kind": "code",
   "jp": "あんこ　ぎっしり",
-  "en": "",
+  "en": "Bean-paste packed,",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CD664",
   "kind": "code",
   "jp": "アンズあじ",
-  "en": "",
+  "en": "apricot!",
   "max": 11
  },
  {
   "id": "OVLGMAIN@800CD670",
   "kind": "code",
   "jp": "あまずっぱ～い",
-  "en": "",
+  "en": "Sweet 'n' sour",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CD680",
   "kind": "code",
   "jp": "おいしい　さくらもち",
-  "en": "",
+  "en": "specialty sakura mochi",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CD698",
   "kind": "code",
   "jp": "花咲かの村の　名物",
-  "en": "",
+  "en": "Hanasaka Village's",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CD6AC",
   "kind": "code",
   "jp": "おせんべい！",
-  "en": "",
+  "en": "rice crackers!",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CD6BC",
   "kind": "code",
   "jp": "お茶には　やっぱり",
-  "en": "",
+  "en": "With tea, you need",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CD6D0",
   "kind": "code",
   "jp": "やめられない　",
-  "en": "",
+  "en": "you can't stop",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CD6E0",
   "kind": "code",
   "jp": "食べ始めると　もう",
-  "en": "",
+  "en": "Once you start,",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CD6F4",
   "kind": "code",
   "jp": "パリポリ　パリポリ",
-  "en": "",
+  "en": "Crunch-munch!",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CD708",
   "kind": "code",
   "jp": "なつかしい　あじわい",
-  "en": "",
+  "en": "the more nostalgic",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CD720",
   "kind": "code",
   "jp": "かめば　かむほど",
-  "en": "",
+  "en": "The more you chew,",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CD734",
   "kind": "code",
   "jp": "たまりません！",
-  "en": "",
+  "en": "irresistible!",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CD744",
   "kind": "code",
   "jp": "こうばしい　かおりが",
-  "en": "",
+  "en": "That toasty aroma is",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CD75C",
   "kind": "code",
   "jp": "入っていますよ",
-  "en": "",
+  "en": "chunks inside!",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CD76C",
   "kind": "code",
   "jp": "大きな　タコが",
-  "en": "",
+  "en": "Big octopus",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CD77C",
   "kind": "code",
   "jp": "とろけちゃいます",
-  "en": "",
+  "en": "in your mouth",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CD790",
   "kind": "code",
   "jp": "おくちの　中で",
-  "en": "",
+  "en": "it melts right",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CD7A0",
   "kind": "code",
   "jp": "ふんわり　おいしい",
-  "en": "",
+  "en": "Fluffy and tasty,",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CD7B4",
   "kind": "code",
   "jp": "あんこが　ぎっしり",
-  "en": "",
+  "en": "to the tail tip!",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CD7C8",
   "kind": "code",
   "jp": "しっぽの　さきまで",
-  "en": "",
+  "en": "Bean paste packed",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CD7DC",
   "kind": "code",
   "jp": "つめた～い　ようかん",
-  "en": "",
+  "en": "chiiilled yokan",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CD7F4",
   "kind": "code",
   "jp": "あまさ　おさえた",
-  "en": "",
+  "en": "Not too sweet,",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CD808",
   "kind": "code",
   "jp": "派手な　花火",
-  "en": "",
+  "en": "fireworks show",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CD818",
   "kind": "code",
   "jp": "日本一",
-  "en": "",
+  "en": "No. 1",
   "max": 7
  },
  {
   "id": "OVLGMAIN@800CD820",
   "kind": "code",
   "jp": "これで　決まり",
-  "en": "",
+  "en": "this is it!",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CD830",
   "kind": "code",
   "jp": "ともと　言えば",
-  "en": "",
+  "en": "travel buddy,",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CD840",
   "kind": "code",
   "jp": "桃太郎の　旅の",
-  "en": "",
+  "en": "For Momotaro's",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CD850",
   "kind": "code",
   "jp": "何個でも　食べられそう",
-  "en": "",
+  "en": "you could eat dozens!",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CD868",
   "kind": "code",
   "jp": "つぶあん　たっぷり",
-  "en": "",
+  "en": "Chunky bean paste",
   "max": 19
  },
  {
   "id": "OVLGMAIN@800CD880",
   "kind": "code",
   "jp": "ほっぺが　おちそう！",
-  "en": "",
+  "en": "so good you'll melt!",
   "max": 23
  },
  {
   "id": "OVLGMAIN@800CD898",
   "kind": "code",
   "jp": "こしあん　たっぷり",
-  "en": "",
+  "en": "Smooth bean paste",
   "max": 18
  }
 ]

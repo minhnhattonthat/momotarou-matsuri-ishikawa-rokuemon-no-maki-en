@@ -3,112 +3,112 @@
   "id": "SLPM_868@80018314",
   "kind": "code",
   "jp": "これじゃだめだ{KE}",
-  "en": "",
+  "en": "This won't do.{KE}",
   "max": 19
  },
  {
   "id": "SLPM_868@80018328",
   "kind": "code",
   "jp": "これでいいのだ{KE}",
-  "en": "",
+  "en": "This'll do!{KE}",
   "max": 19
  },
  {
   "id": "SLPM_868@8001833C",
   "kind": "code",
   "jp": "初期化が終了しました{KE}",
-  "en": "",
+  "en": "Format complete.{KE}",
   "max": 23
  },
  {
   "id": "SLPM_868@80018354",
   "kind": "code",
   "jp": "初期化中です{KK}メモリーカードやコントローラの{KK}抜き差しを行わないでください{KE}",
-  "en": "",
+  "en": "Formatting...{KK}Don't remove the Memory Card{KK}or controller.{KE}",
   "max": 79
  },
  {
   "id": "SLPM_868@800183A4",
   "kind": "code",
   "jp": "メモリーカードが{KK}初期化されていません{KK}初期化しますか？{KE}",
-  "en": "",
+  "en": "This Memory Card{KK}is not formatted.{KK}Format it?{KE}",
   "max": 59
  },
  {
   "id": "SLPM_868@800183E0",
   "kind": "code",
   "jp": "ロード中です{KK}メモリーカードやコントローラの{KK}抜き差しを行わないでください{KE}",
-  "en": "",
+  "en": "Loading...{KK}Don't remove the Memory Card{KK}or controller.{KE}",
   "max": 79
  },
  {
   "id": "SLPM_868@80018430",
   "kind": "code",
   "jp": "セーブ中です{KK}メモリーカードやコントローラの{KK}抜き差しを行わないでください{KE}",
-  "en": "",
+  "en": "Saving...{KK}Don't remove the Memory Card{KK}or controller.{KE}",
   "max": 79
  },
  {
   "id": "SLPM_868@80018480",
   "kind": "code",
   "jp": "そのファイルに{KK}上書きしますが{KK}よろしいですか？{KE}",
-  "en": "",
+  "en": "This will overwrite{KK}that file.{KK}Is that OK?{KE}",
   "max": 51
  },
  {
   "id": "SLPM_868@800184B4",
   "kind": "code",
   "jp": "いつものファイルに{KK}記録しますか？{KE}",
-  "en": "",
+  "en": "Save to your usual{KK}file?{KE}",
   "max": 39
  },
  {
   "id": "SLPM_868@800184DC",
   "kind": "code",
   "jp": "ロードしなくても{KK}いいですか？{KE}",
-  "en": "",
+  "en": "Really go on{KK}without loading?{KE}",
   "max": 35
  },
  {
   "id": "SLPM_868@80018500",
   "kind": "code",
   "jp": "セーブしなくても{KK}いいですか？{KE}",
-  "en": "",
+  "en": "Really go on{KK}without saving?{KE}",
   "max": 35
  },
  {
   "id": "SLPM_868@80018524",
   "kind": "code",
   "jp": "メモリーカードのアクセスに{KK}失敗しました{KE}",
-  "en": "",
+  "en": "Could not access{KK}the Memory Card.{KE}",
   "max": 43
  },
  {
   "id": "SLPM_868@80018550",
   "kind": "code",
   "jp": "メモリーカードをチェック中です{KK}メモリーカードを抜かないで{KK}ください{KE}",
-  "en": "",
+  "en": "Checking the Memory Card...{KK}Don't remove the Memory Card.{KE}",
   "max": 71
  },
  {
   "id": "SLPM_868@80018598",
   "kind": "code",
   "jp": "差込口１のメモリーカードには{KK}このゲームのファイルは{KK}ありません{KE}",
-  "en": "",
+  "en": "The Memory Card in{KK}slot 1 has no save{KK}file for this game.{KE}",
   "max": 67
  },
  {
   "id": "SLPM_868@800185DC",
   "kind": "code",
   "jp": "差込口１のメモリーカードは空き{KK}ブロックがありません{KK}１ブロックの空きがひつようです{KE}",
-  "en": "",
+  "en": "The Memory Card in slot 1{KK}has no free blocks.{KK}1 free block is needed.{KE}",
   "max": 87
  },
  {
   "id": "SLPM_868@80018634",
   "kind": "code",
   "jp": "差込口１のメモリーカードが{KK}差されていません{KE}",
-  "en": "",
+  "en": "No Memory Card in{KK}slot 1.{KE}",
   "max": 47
  },
  {
@@ -136,1176 +136,1176 @@
   "id": "SLPM_868@80018864",
   "kind": "code",
   "jp": "仙人の村",
-  "en": "",
+  "en": "Hermits",
   "max": 11
  },
  {
   "id": "SLPM_868@80018870",
   "kind": "code",
   "jp": "すずめの都",
-  "en": "",
+  "en": "Sparrow",
   "max": 11
  },
  {
   "id": "SLPM_868@8001887C",
   "kind": "code",
   "jp": "小太郎の村",
-  "en": "",
+  "en": "Kotaro",
   "max": 11
  },
  {
   "id": "SLPM_868@80018888",
   "kind": "code",
   "jp": "ひょっとこの村",
-  "en": "",
+  "en": "Hyottoko",
   "max": 15
  },
  {
   "id": "SLPM_868@80018898",
   "kind": "code",
   "jp": "竹取りの村",
-  "en": "",
+  "en": "Taketori",
   "max": 11
  },
  {
   "id": "SLPM_868@800188A4",
   "kind": "code",
   "jp": "ひこぼしの村",
-  "en": "",
+  "en": "Hikoboshi",
   "max": 15
  },
  {
   "id": "SLPM_868@800188B4",
   "kind": "code",
   "jp": "ウサカメの村",
-  "en": "",
+  "en": "Usakame",
   "max": 15
  },
  {
   "id": "SLPM_868@800188C4",
   "kind": "code",
   "jp": "塩吹きの村",
-  "en": "",
+  "en": "Shiofuki",
   "max": 11
  },
  {
   "id": "SLPM_868@800188D0",
   "kind": "code",
   "jp": "希望の都",
-  "en": "",
+  "en": "Capital",
   "max": 11
  },
  {
   "id": "SLPM_868@800188DC",
   "kind": "code",
   "jp": "ほほえみの村",
-  "en": "",
+  "en": "Hohoemi",
   "max": 15
  },
  {
   "id": "SLPM_868@800188EC",
   "kind": "code",
   "jp": "寝太郎の村",
-  "en": "",
+  "en": "Netaro",
   "max": 11
  },
  {
   "id": "SLPM_868@800188F8",
   "kind": "code",
   "jp": "浦島の村",
-  "en": "",
+  "en": "Urashima",
   "max": 11
  },
  {
   "id": "SLPM_868@80018904",
   "kind": "code",
   "jp": "わらしべの村",
-  "en": "",
+  "en": "Warashibe",
   "max": 15
  },
  {
   "id": "SLPM_868@80018914",
   "kind": "code",
   "jp": "金太郎の村",
-  "en": "",
+  "en": "Kintaro",
   "max": 11
  },
  {
   "id": "SLPM_868@80018920",
   "kind": "code",
   "jp": "花咲かの村",
-  "en": "",
+  "en": "Hanasaka",
   "max": 11
  },
  {
   "id": "SLPM_868@8001892C",
   "kind": "code",
   "jp": "恩返しの村",
-  "en": "",
+  "en": "Ongaeshi",
   "max": 11
  },
  {
   "id": "SLPM_868@80018938",
   "kind": "code",
   "jp": "おむすび村",
-  "en": "",
+  "en": "Omusubi",
   "max": 11
  },
  {
   "id": "SLPM_868@80018944",
   "kind": "code",
   "jp": "カチカチの村",
-  "en": "",
+  "en": "Kachi-Kachi",
   "max": 15
  },
  {
   "id": "SLPM_868@80018954",
   "kind": "code",
   "jp": "旅立ちの村",
-  "en": "",
+  "en": "Tabidachi",
   "max": 11
  },
  {
   "id": "SLPM_868@80018960",
   "kind": "code",
   "jp": "たこあげの術",
-  "en": "",
+  "en": "Kite",
   "max": 15
  },
  {
   "id": "SLPM_868@80018970",
   "kind": "code",
   "jp": "ときかねの術",
-  "en": "",
+  "en": "Time Bell",
   "max": 15
  },
  {
   "id": "SLPM_868@80018980",
   "kind": "code",
   "jp": "おまもりの術",
-  "en": "",
+  "en": "Protection",
   "max": 15
  },
  {
   "id": "SLPM_868@80018990",
   "kind": "code",
   "jp": "りょうりの術",
-  "en": "",
+  "en": "Cooking",
   "max": 15
  },
  {
   "id": "SLPM_868@800189A0",
   "kind": "code",
   "jp": "はやあしの術",
-  "en": "",
+  "en": "Dash",
   "max": 15
  },
  {
   "id": "SLPM_868@800189B0",
   "kind": "code",
   "jp": "ひえんの術",
-  "en": "",
+  "en": "Warp",
   "max": 11
  },
  {
   "id": "SLPM_868@800189BC",
   "kind": "code",
   "jp": "ぬけだしの術",
-  "en": "",
+  "en": "Escape",
   "max": 15
  },
  {
   "id": "SLPM_868@800189CC",
   "kind": "code",
   "jp": "ほうひの術",
-  "en": "",
+  "en": "Fart",
   "max": 11
  },
  {
   "id": "SLPM_868@800189D8",
   "kind": "code",
   "jp": "はかい神の復活書",
-  "en": "",
+  "en": "Revival Book",
   "max": 19
  },
  {
   "id": "SLPM_868@800189EC",
   "kind": "code",
   "jp": "書物の切れはし４",
-  "en": "",
+  "en": "Torn Page 4",
   "max": 19
  },
  {
   "id": "SLPM_868@80018A00",
   "kind": "code",
   "jp": "書物の切れはし３",
-  "en": "",
+  "en": "Torn Page 3",
   "max": 19
  },
  {
   "id": "SLPM_868@80018A14",
   "kind": "code",
   "jp": "書物の切れはし２",
-  "en": "",
+  "en": "Torn Page 2",
   "max": 19
  },
  {
   "id": "SLPM_868@80018A28",
   "kind": "code",
   "jp": "書物の切れはし１",
-  "en": "",
+  "en": "Torn Page 1",
   "max": 19
  },
  {
   "id": "SLPM_868@80018A3C",
   "kind": "code",
   "jp": "希望のおかゆ",
-  "en": "",
+  "en": "Hope Porridge",
   "max": 15
  },
  {
   "id": "SLPM_868@80018A4C",
   "kind": "code",
   "jp": "ネコぐるみ",
-  "en": "",
+  "en": "Cat Suit",
   "max": 11
  },
  {
   "id": "SLPM_868@80018A58",
   "kind": "code",
   "jp": "カエルぐるみ",
-  "en": "",
+  "en": "Frog Suit",
   "max": 15
  },
  {
   "id": "SLPM_868@80018A68",
   "kind": "code",
   "jp": "はらいたの薬",
-  "en": "",
+  "en": "Tummy Medicine",
   "max": 15
  },
  {
   "id": "SLPM_868@80018A78",
   "kind": "code",
   "jp": "ゆうぎのまくら",
-  "en": "",
+  "en": "Game Pillow",
   "max": 15
  },
  {
   "id": "SLPM_868@80018A88",
   "kind": "code",
   "jp": "ゆうぎのはごろも",
-  "en": "",
+  "en": "Game Robe",
   "max": 19
  },
  {
   "id": "SLPM_868@80018A9C",
   "kind": "code",
   "jp": "つるはし",
-  "en": "",
+  "en": "Pickaxe",
   "max": 11
  },
  {
   "id": "SLPM_868@80018AA8",
   "kind": "code",
   "jp": "赤のどうたく",
-  "en": "",
+  "en": "Red Dotaku",
   "max": 15
  },
  {
   "id": "SLPM_868@80018AB8",
   "kind": "code",
   "jp": "やる木棒",
-  "en": "",
+  "en": "Pep Stick",
   "max": 11
  },
  {
   "id": "SLPM_868@80018AC4",
   "kind": "code",
   "jp": "ろっかくの玉",
-  "en": "",
+  "en": "Hexagon Orb",
   "max": 15
  },
  {
   "id": "SLPM_868@80018AD4",
   "kind": "code",
   "jp": "月光の鏡",
-  "en": "",
+  "en": "Moon Glass",
   "max": 11
  },
  {
   "id": "SLPM_868@80018AE0",
   "kind": "code",
   "jp": "小さな鐘",
-  "en": "",
+  "en": "Small Bell",
   "max": 11
  },
  {
   "id": "SLPM_868@80018AEC",
   "kind": "code",
   "jp": "手ぬぐい",
-  "en": "",
+  "en": "Hand Towel",
   "max": 11
  },
  {
   "id": "SLPM_868@80018AF8",
   "kind": "code",
   "jp": "大うちわ",
-  "en": "",
+  "en": "Giant Fan",
   "max": 11
  },
  {
   "id": "SLPM_868@80018B04",
   "kind": "code",
   "jp": "サルぐるみ",
-  "en": "",
+  "en": "MonkeySuit",
   "max": 11
  },
  {
   "id": "SLPM_868@80018B10",
   "kind": "code",
   "jp": "鳴きの笛",
-  "en": "",
+  "en": "Call Flute",
   "max": 11
  },
  {
   "id": "SLPM_868@80018B1C",
   "kind": "code",
   "jp": "首かざり",
-  "en": "",
+  "en": "necklace",
   "max": 11
  },
  {
   "id": "SLPM_868@80018B28",
   "kind": "code",
   "jp": "こだま笛",
-  "en": "",
+  "en": "Echo Flute",
   "max": 11
  },
  {
   "id": "SLPM_868@80018B34",
   "kind": "code",
   "jp": "からくり人形",
-  "en": "",
+  "en": "Karakuri Doll",
   "max": 15
  },
  {
   "id": "SLPM_868@80018B44",
   "kind": "code",
   "jp": "天のはごろも",
-  "en": "",
+  "en": "Heavenly Robe",
   "max": 15
  },
  {
   "id": "SLPM_868@80018B54",
   "kind": "code",
   "jp": "かんざし",
-  "en": "",
+  "en": "Hairpin",
   "max": 11
  },
  {
   "id": "SLPM_868@80018B60",
   "kind": "code",
   "jp": "けむり玉",
-  "en": "",
+  "en": "Smoke Bomb",
   "max": 11
  },
  {
   "id": "SLPM_868@80018B6C",
   "kind": "code",
   "jp": "ひかり米",
-  "en": "",
+  "en": "Shiny Rice",
   "max": 11
  },
  {
   "id": "SLPM_868@80018B78",
   "kind": "code",
   "jp": "おむすび村のカギ",
-  "en": "",
+  "en": "Omusubi Key",
   "max": 19
  },
  {
   "id": "SLPM_868@80018B8C",
   "kind": "code",
   "jp": "勇気の印",
-  "en": "",
+  "en": "Brave Mark",
   "max": 11
  },
  {
   "id": "SLPM_868@80018B98",
   "kind": "code",
   "jp": "真実の鏡",
-  "en": "",
+  "en": "True Glass",
   "max": 11
  },
  {
   "id": "SLPM_868@80018BA4",
   "kind": "code",
   "jp": "イヌぐるみ",
-  "en": "",
+  "en": "Dog Suit",
   "max": 11
  },
  {
   "id": "SLPM_868@80018BB0",
   "kind": "code",
   "jp": "カードアルバム",
-  "en": "",
+  "en": "Card Album",
   "max": 15
  },
  {
   "id": "SLPM_868@80018BC0",
   "kind": "code",
   "jp": "ゆうぎのもり",
-  "en": "",
+  "en": "Game Harpoon",
   "max": 15
  },
  {
   "id": "SLPM_868@80018BD0",
   "kind": "code",
   "jp": "ゆうぎのまさかり",
-  "en": "",
+  "en": "Game Axe",
   "max": 19
  },
  {
   "id": "SLPM_868@80018BE4",
   "kind": "code",
   "jp": "柿太郎の手紙",
-  "en": "",
+  "en": "Kakitaro Note",
   "max": 15
  },
  {
   "id": "SLPM_868@80018BF4",
   "kind": "code",
   "jp": "だじゃれのお題",
-  "en": "",
+  "en": "Pun Theme",
   "max": 15
  },
  {
   "id": "SLPM_868@80018C04",
   "kind": "code",
   "jp": "処方せん",
-  "en": "",
+  "en": "Med Recipe",
   "max": 11
  },
  {
   "id": "SLPM_868@80018C10",
   "kind": "code",
   "jp": "氷の篠笛",
-  "en": "",
+  "en": "Ice Flute",
   "max": 11
  },
  {
   "id": "SLPM_868@80018C1C",
   "kind": "code",
   "jp": "ひえんの巻物",
-  "en": "",
+  "en": "Warp Scroll",
   "max": 15
  },
  {
   "id": "SLPM_868@80018C2C",
   "kind": "code",
   "jp": "元気の玉",
-  "en": "",
+  "en": "Vigor Orb",
   "max": 11
  },
  {
   "id": "SLPM_868@80018C38",
   "kind": "code",
   "jp": "ボンビー人形",
-  "en": "",
+  "en": "Bombee Doll",
   "max": 15
  },
  {
   "id": "SLPM_868@80018C48",
   "kind": "code",
   "jp": "桃太郎人形",
-  "en": "",
+  "en": "Momo Doll",
   "max": 11
  },
  {
   "id": "SLPM_868@80018C54",
   "kind": "code",
   "jp": "平の茶わん",
-  "en": "",
+  "en": "Peace Cup",
   "max": 11
  },
  {
   "id": "SLPM_868@80018C60",
   "kind": "code",
   "jp": "源の茶わん",
-  "en": "",
+  "en": "Origin Cup",
   "max": 11
  },
  {
   "id": "SLPM_868@80018C6C",
   "kind": "code",
   "jp": "豊の茶わん",
-  "en": "",
+  "en": "Plenty Cup",
   "max": 11
  },
  {
   "id": "SLPM_868@80018C78",
   "kind": "code",
   "jp": "徳の茶わん",
-  "en": "",
+  "en": "Virtue Cup",
   "max": 11
  },
  {
   "id": "SLPM_868@80018C84",
   "kind": "code",
   "jp": "ほほえみ皿",
-  "en": "",
+  "en": "Smile Dish",
   "max": 11
  },
  {
   "id": "SLPM_868@80018C90",
   "kind": "code",
   "jp": "リュウの皿",
-  "en": "",
+  "en": "Ryu Plate",
   "max": 11
  },
  {
   "id": "SLPM_868@80018C9C",
   "kind": "code",
   "jp": "ゲンの皿",
-  "en": "",
+  "en": "Gen Plate",
   "max": 11
  },
  {
   "id": "SLPM_868@80018CA8",
   "kind": "code",
   "jp": "トウの皿",
-  "en": "",
+  "en": "To Plate",
   "max": 11
  },
  {
   "id": "SLPM_868@80018CB4",
   "kind": "code",
   "jp": "ズイの皿",
-  "en": "",
+  "en": "Zui Plate",
   "max": 11
  },
  {
   "id": "SLPM_868@80018CC0",
   "kind": "code",
   "jp": "カンの皿",
-  "en": "",
+  "en": "Kan Plate",
   "max": 11
  },
  {
   "id": "SLPM_868@80018CCC",
   "kind": "code",
   "jp": "ズイホウのかびん",
-  "en": "",
+  "en": "Zuiho Vase",
   "max": 19
  },
  {
   "id": "SLPM_868@80018CE0",
   "kind": "code",
   "jp": "ズイカクのかびん",
-  "en": "",
+  "en": "Zuikaku Vase",
   "max": 19
  },
  {
   "id": "SLPM_868@80018CF4",
   "kind": "code",
   "jp": "カガのかびん",
-  "en": "",
+  "en": "Kaga Vase",
   "max": 15
  },
  {
   "id": "SLPM_868@80018D04",
   "kind": "code",
   "jp": "アカギのかびん",
-  "en": "",
+  "en": "Akagi Vase",
   "max": 15
  },
  {
   "id": "SLPM_868@80018D14",
   "kind": "code",
   "jp": "かぐや姫人形",
-  "en": "",
+  "en": "Kaguya Doll",
   "max": 15
  },
  {
   "id": "SLPM_868@80018D24",
   "kind": "code",
   "jp": "オワリのツボ",
-  "en": "",
+  "en": "Owari Pot",
   "max": 15
  },
  {
   "id": "SLPM_868@80018D34",
   "kind": "code",
   "jp": "シナノのツボ",
-  "en": "",
+  "en": "Shinano Pot",
   "max": 15
  },
  {
   "id": "SLPM_868@80018D44",
   "kind": "code",
   "jp": "ムサシのツボ",
-  "en": "",
+  "en": "Musashi Pot",
   "max": 15
  },
  {
   "id": "SLPM_868@80018D54",
   "kind": "code",
   "jp": "ヤマトのツボ",
-  "en": "",
+  "en": "Yamato Pot",
   "max": 15
  },
  {
   "id": "SLPM_868@80018D64",
   "kind": "code",
   "jp": "ペペペ人形",
-  "en": "",
+  "en": "Pepepe Toy",
   "max": 11
  },
  {
   "id": "SLPM_868@80018D70",
   "kind": "code",
   "jp": "ピーチ人形",
-  "en": "",
+  "en": "Peach Doll",
   "max": 11
  },
  {
   "id": "SLPM_868@80018D7C",
   "kind": "code",
   "jp": "ヤイボ人形",
-  "en": "",
+  "en": "Yaibo Doll",
   "max": 11
  },
  {
   "id": "SLPM_868@80018D88",
   "kind": "code",
   "jp": "ドジラ人形",
-  "en": "",
+  "en": "Dojira Toy",
   "max": 11
  },
  {
   "id": "SLPM_868@80018D94",
   "kind": "code",
   "jp": "ゲンダム人形",
-  "en": "",
+  "en": "Gendam Figure",
   "max": 15
  },
  {
   "id": "SLPM_868@80018DA4",
   "kind": "code",
   "jp": "りょうり７",
-  "en": "",
+  "en": "Cooking 7",
   "max": 11
  },
  {
   "id": "SLPM_868@80018DB0",
   "kind": "code",
   "jp": "りょうり６",
-  "en": "",
+  "en": "Cooking 6",
   "max": 11
  },
  {
   "id": "SLPM_868@80018DBC",
   "kind": "code",
   "jp": "塩ジャケ",
-  "en": "",
+  "en": "Salt Fish",
   "max": 11
  },
  {
   "id": "SLPM_868@80018DC8",
   "kind": "code",
   "jp": "きつねうどん",
-  "en": "",
+  "en": "Kitsune Udon",
   "max": 15
  },
  {
   "id": "SLPM_868@80018DD8",
   "kind": "code",
   "jp": "野菜イタメ",
-  "en": "",
+  "en": "Stir-Fry",
   "max": 11
  },
  {
   "id": "SLPM_868@80018DE4",
   "kind": "code",
   "jp": "おまつりドン",
-  "en": "",
+  "en": "Festival Bowl",
   "max": 15
  },
  {
   "id": "SLPM_868@80018DF4",
   "kind": "code",
   "jp": "よこずな弁当",
-  "en": "",
+  "en": "Yokozuna Bento",
   "max": 15
  },
  {
   "id": "SLPM_868@80018E04",
   "kind": "code",
   "jp": "デカおにぎり",
-  "en": "",
+  "en": "Big Rice Ball",
   "max": 15
  },
  {
   "id": "SLPM_868@80018E14",
   "kind": "code",
   "jp": "ユキだるま",
-  "en": "",
+  "en": "Snowman",
   "max": 11
  },
  {
   "id": "SLPM_868@80018E20",
   "kind": "code",
   "jp": "びろーん",
-  "en": "",
+  "en": "Biroon",
   "max": 11
  },
  {
   "id": "SLPM_868@80018E2C",
   "kind": "code",
   "jp": "うんち花火",
-  "en": "",
+  "en": "poop burst",
   "max": 11
  },
  {
   "id": "SLPM_868@80018E38",
   "kind": "code",
   "jp": "わらいタケ",
-  "en": "",
+  "en": "Laugh Cap",
   "max": 11
  },
  {
   "id": "SLPM_868@80018E44",
   "kind": "code",
   "jp": "マツタケ",
-  "en": "",
+  "en": "Matsutake",
   "max": 11
  },
  {
   "id": "SLPM_868@80018E50",
   "kind": "code",
   "jp": "シイタケ",
-  "en": "",
+  "en": "shiitake!",
   "max": 11
  },
  {
   "id": "SLPM_868@80018E5C",
   "kind": "code",
   "jp": "牛のエサ",
-  "en": "",
+  "en": "Cow Feed",
   "max": 11
  },
  {
   "id": "SLPM_868@80018E68",
   "kind": "code",
   "jp": "牛乳の竹づつ",
-  "en": "",
+  "en": "Milk Flask",
   "max": 15
  },
  {
   "id": "SLPM_868@80018E78",
   "kind": "code",
   "jp": "たいまつ",
-  "en": "",
+  "en": "Torch",
   "max": 11
  },
  {
   "id": "SLPM_868@80018E84",
   "kind": "code",
   "jp": "鬼のわらじ",
-  "en": "",
+  "en": "Oni Sandal",
   "max": 11
  },
  {
   "id": "SLPM_868@80018E90",
   "kind": "code",
   "jp": "こやし玉",
-  "en": "",
+  "en": "Fertilizer",
   "max": 11
  },
  {
   "id": "SLPM_868@80018E9C",
   "kind": "code",
   "jp": "えんまんじゅう",
-  "en": "",
+  "en": "Enma Manju",
   "max": 15
  },
  {
   "id": "SLPM_868@80018EAC",
   "kind": "code",
   "jp": "ーーーーーー",
-  "en": "",
+  "en": "------",
   "max": 15
  },
  {
   "id": "SLPM_868@80018EBC",
   "kind": "code",
   "jp": "リンゴアメ",
-  "en": "",
+  "en": "Apple Pop",
   "max": 11
  },
  {
   "id": "SLPM_868@80018EC8",
   "kind": "code",
   "jp": "かきもち",
-  "en": "",
+  "en": "Kakimochi",
   "max": 11
  },
  {
   "id": "SLPM_868@80018ED4",
   "kind": "code",
   "jp": "にわとりのエサ",
-  "en": "",
+  "en": "Chicken Feed",
   "max": 15
  },
  {
   "id": "SLPM_868@80018EE4",
   "kind": "code",
   "jp": "やけどの薬",
-  "en": "",
+  "en": "Burn Cream",
   "max": 11
  },
  {
   "id": "SLPM_868@80018EF0",
   "kind": "code",
   "jp": "夜叉姫花火",
-  "en": "",
+  "en": "Yashahime",
   "max": 11
  },
  {
   "id": "SLPM_868@80018EFC",
   "kind": "code",
   "jp": "はがね包丁",
-  "en": "",
+  "en": "Chef Knife",
   "max": 11
  },
  {
   "id": "SLPM_868@80018F08",
   "kind": "code",
   "jp": "金太郎花火",
-  "en": "",
+  "en": "Kintaro",
   "max": 11
  },
  {
   "id": "SLPM_868@80018F14",
   "kind": "code",
   "jp": "キジ花火",
-  "en": "",
+  "en": "Pheasant",
   "max": 11
  },
  {
   "id": "SLPM_868@80018F20",
   "kind": "code",
   "jp": "サル花火",
-  "en": "",
+  "en": "Monkey",
   "max": 11
  },
  {
   "id": "SLPM_868@80018F2C",
   "kind": "code",
   "jp": "イヌ花火",
-  "en": "",
+  "en": "Dog",
   "max": 11
  },
  {
   "id": "SLPM_868@80018F38",
   "kind": "code",
   "jp": "桃太郎花火",
-  "en": "",
+  "en": "Momotaro",
   "max": 11
  },
  {
   "id": "SLPM_868@80018F44",
   "kind": "code",
   "jp": "あぶらあげ",
-  "en": "",
+  "en": "Fried Tofu",
   "max": 11
  },
  {
   "id": "SLPM_868@80018F50",
   "kind": "code",
   "jp": "ほおずき",
-  "en": "",
+  "en": "Hozuki",
   "max": 11
  },
  {
   "id": "SLPM_868@80018F5C",
   "kind": "code",
   "jp": "カーネーション",
-  "en": "",
+  "en": "Carnation",
   "max": 15
  },
  {
   "id": "SLPM_868@80018F6C",
   "kind": "code",
   "jp": "あじさい",
-  "en": "",
+  "en": "Hydrangea",
   "max": 11
  },
  {
   "id": "SLPM_868@80018F78",
   "kind": "code",
   "jp": "すいせん",
-  "en": "",
+  "en": "Daffodil",
   "max": 11
  },
  {
   "id": "SLPM_868@80018F84",
   "kind": "code",
   "jp": "にんそうがき",
-  "en": "",
+  "en": "Wanted Poster",
   "max": 15
  },
  {
   "id": "SLPM_868@80018F94",
   "kind": "code",
   "jp": "おによせのふだ",
-  "en": "",
+  "en": "Oni Lure Charm",
   "max": 15
  },
  {
   "id": "SLPM_868@80018FA4",
   "kind": "code",
   "jp": "おにのはた",
-  "en": "",
+  "en": "Oni Flag",
   "max": 11
  },
  {
   "id": "SLPM_868@80018FB0",
   "kind": "code",
   "jp": "こげみそ",
-  "en": "",
+  "en": "Burnt Miso",
   "max": 11
  },
  {
   "id": "SLPM_868@80018FBC",
   "kind": "code",
   "jp": "サイコロのおふだ",
-  "en": "",
+  "en": "Dice Charm",
   "max": 19
  },
  {
   "id": "SLPM_868@80018FD0",
   "kind": "code",
   "jp": "かんじのおふだ",
-  "en": "",
+  "en": "Kanji Charm",
   "max": 15
  },
  {
   "id": "SLPM_868@80018FE0",
   "kind": "code",
   "jp": "こたえのおふだ",
-  "en": "",
+  "en": "Answer Charm",
   "max": 15
  },
  {
   "id": "SLPM_868@80018FF0",
   "kind": "code",
   "jp": "サイコロ",
-  "en": "",
+  "en": "Dice",
   "max": 11
  },
  {
   "id": "SLPM_868@80018FFC",
   "kind": "code",
   "jp": "さんすうドリル",
-  "en": "",
+  "en": "Math Drill",
   "max": 15
  },
  {
   "id": "SLPM_868@8001900C",
   "kind": "code",
   "jp": "はやおしボタン",
-  "en": "",
+  "en": "Quiz Buzzer",
   "max": 15
  },
  {
   "id": "SLPM_868@8001901C",
   "kind": "code",
   "jp": "やきみそ",
-  "en": "",
+  "en": "Roast Miso",
   "max": 11
  },
  {
   "id": "SLPM_868@80019028",
   "kind": "code",
   "jp": "きゅうり",
-  "en": "",
+  "en": "Cucumber",
   "max": 11
  },
  {
   "id": "SLPM_868@80019034",
   "kind": "code",
   "jp": "たまねぎ",
-  "en": "",
+  "en": "Onion",
   "max": 11
  },
  {
   "id": "SLPM_868@80019040",
   "kind": "code",
   "jp": "はくさい",
-  "en": "",
+  "en": "Cabbage",
   "max": 11
  },
  {
   "id": "SLPM_868@8001904C",
   "kind": "code",
   "jp": "浦島花火",
-  "en": "",
+  "en": "Urashima",
   "max": 11
  },
  {
   "id": "SLPM_868@80019058",
   "kind": "code",
   "jp": "だいこん",
-  "en": "",
+  "en": "Daikon",
   "max": 11
  },
  {
   "id": "SLPM_868@80019064",
   "kind": "code",
   "jp": "ホウレンソウ",
-  "en": "",
+  "en": "Spinach",
   "max": 15
  },
  {
   "id": "SLPM_868@80019074",
   "kind": "code",
   "jp": "にんじん",
-  "en": "",
+  "en": "Carrot",
   "max": 11
  },
  {
   "id": "SLPM_868@80019080",
   "kind": "code",
   "jp": "泉水入り竹づつ",
-  "en": "",
+  "en": "Spring Flask",
   "max": 15
  },
  {
   "id": "SLPM_868@80019090",
   "kind": "code",
   "jp": "おこのみやき",
-  "en": "",
+  "en": "Okonomiyaki",
   "max": 15
  },
  {
   "id": "SLPM_868@800190A0",
   "kind": "code",
   "jp": "いかやき",
-  "en": "",
+  "en": "Ikayaki",
   "max": 11
  },
  {
   "id": "SLPM_868@800190AC",
   "kind": "code",
   "jp": "やきそば",
-  "en": "",
+  "en": "Yakisoba",
   "max": 11
  },
  {
   "id": "SLPM_868@800190B8",
   "kind": "code",
   "jp": "チョコバナナ",
-  "en": "",
+  "en": "Choco Banana",
   "max": 15
  },
  {
   "id": "SLPM_868@800190C8",
   "kind": "code",
   "jp": "やきいも",
-  "en": "",
+  "en": "Roast Yam",
   "max": 11
  },
  {
   "id": "SLPM_868@800190D4",
   "kind": "code",
   "jp": "いまがわやき",
-  "en": "",
+  "en": "Imagawayaki",
   "max": 15
  },
  {
   "id": "SLPM_868@800190E4",
   "kind": "code",
   "jp": "アンズアメ",
-  "en": "",
+  "en": "Apricot",
   "max": 11
  },
  {
   "id": "SLPM_868@800190F0",
   "kind": "code",
   "jp": "さくらもち",
-  "en": "",
+  "en": "Pink Mochi",
   "max": 11
  },
  {
   "id": "SLPM_868@800190FC",
   "kind": "code",
   "jp": "おせんべい",
-  "en": "",
+  "en": "Senbei",
   "max": 11
  },
  {
   "id": "SLPM_868@80019108",
   "kind": "code",
   "jp": "すこんぶ",
-  "en": "",
+  "en": "Sour Kelp",
   "max": 11
  },
  {
   "id": "SLPM_868@80019114",
   "kind": "code",
   "jp": "とうもろこし",
-  "en": "",
+  "en": "Grilled Corn",
   "max": 15
  },
  {
   "id": "SLPM_868@80019124",
   "kind": "code",
   "jp": "たこやき",
-  "en": "",
+  "en": "Takoyaki",
   "max": 11
  },
  {
   "id": "SLPM_868@80019130",
   "kind": "code",
   "jp": "わたがし",
-  "en": "",
+  "en": "Candyfloss",
   "max": 11
  },
  {
   "id": "SLPM_868@8001913C",
   "kind": "code",
   "jp": "たいやき",
-  "en": "",
+  "en": "Taiyaki",
   "max": 11
  },
  {
   "id": "SLPM_868@80019148",
   "kind": "code",
   "jp": "ようかん",
-  "en": "",
+  "en": "Yokan",
   "max": 11
  },
  {
   "id": "SLPM_868@80019154",
   "kind": "code",
   "jp": "桃伝花火",
-  "en": "",
+  "en": "Momoden",
   "max": 11
  },
  {
   "id": "SLPM_868@80019160",
   "kind": "code",
   "jp": "きびだんご",
-  "en": "",
+  "en": "Dumplings",
   "max": 11
  },
  {
   "id": "SLPM_868@8001916C",
   "kind": "code",
   "jp": "おまんじゅう",
-  "en": "",
+  "en": "Manju",
   "max": 15
  },
  {
@@ -1319,504 +1319,504 @@
   "id": "SLPM_868@800191A4",
   "kind": "code",
   "jp": "遊ばない",
-  "en": "",
+  "en": "Don't Play",
   "max": 11
  },
  {
   "id": "SLPM_868@800191B0",
   "kind": "code",
   "jp": "あつい　ゆうじょうを…",
-  "en": "",
+  "en": "Fiery friendship...",
   "max": 23
  },
  {
   "id": "SLPM_868@800191C8",
   "kind": "code",
   "jp": "もっと　みがるになりたい",
-  "en": "",
+  "en": "I want to be more nimble",
   "max": 27
  },
  {
   "id": "SLPM_868@800191E4",
   "kind": "code",
   "jp": "あのころに　もどりたい",
-  "en": "",
+  "en": "I want those days back",
   "max": 23
  },
  {
   "id": "SLPM_868@800191FC",
   "kind": "code",
   "jp": "ゲームを始める",
-  "en": "",
+  "en": "Start Game",
   "max": 15
  },
  {
   "id": "SLPM_868@8001920C",
   "kind": "code",
   "jp": "レースの説明を見る",
-  "en": "",
+  "en": "Read Race Rules",
   "max": 19
  },
  {
   "id": "SLPM_868@80019220",
   "kind": "code",
   "jp": "予想の説明を見る",
-  "en": "",
+  "en": "Read Betting Rules",
   "max": 19
  },
  {
   "id": "SLPM_868@80019234",
   "kind": "code",
   "jp": "いっぱい",
-  "en": "",
+  "en": "Full",
   "max": 15
  },
  {
   "id": "SLPM_868@8008C134",
   "kind": "code",
   "jp": "はい",
-  "en": "",
+  "en": "Yes",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C13C",
   "kind": "code",
   "jp": "いいえ",
-  "en": "",
+  "en": "No",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C148",
   "kind": "code",
   "jp": "鬼ヶ島",
-  "en": "",
+  "en": "Island",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C150",
   "kind": "code",
   "jp": "氷の塔",
-  "en": "",
+  "en": "Tower",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C158",
   "kind": "code",
   "jp": "黄の鐘",
-  "en": "",
+  "en": "Yellow",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C160",
   "kind": "code",
   "jp": "緑の鐘",
-  "en": "",
+  "en": "Green",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C168",
   "kind": "code",
   "jp": "赤の鐘",
-  "en": "",
+  "en": "Red",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C170",
   "kind": "code",
   "jp": "青の鐘",
-  "en": "",
+  "en": "Blue",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C178",
   "kind": "code",
   "jp": "許可証",
-  "en": "",
+  "en": "Permit",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C180",
   "kind": "code",
   "jp": "クシ",
-  "en": "",
+  "en": "Comb",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C188",
   "kind": "code",
   "jp": "地図",
-  "en": "",
+  "en": "Map",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C190",
   "kind": "code",
   "jp": "招待状",
-  "en": "",
+  "en": "Invite",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C198",
   "kind": "code",
   "jp": "虹の玉",
-  "en": "",
+  "en": "Prism",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C1A0",
   "kind": "code",
   "jp": "遺書",
-  "en": "",
+  "en": "Will",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C1A8",
   "kind": "code",
   "jp": "風車",
-  "en": "",
+  "en": "Whirl",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C1B0",
   "kind": "code",
   "jp": "ワラ",
-  "en": "",
+  "en": "Straw",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C1B8",
   "kind": "code",
   "jp": "乗船券",
-  "en": "",
+  "en": "Ticket",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C1C0",
   "kind": "code",
   "jp": "歩数計",
-  "en": "",
+  "en": "Steps",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C1C8",
   "kind": "code",
   "jp": "山の皿",
-  "en": "",
+  "en": "Mount",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C1D0",
   "kind": "code",
   "jp": "林の皿",
-  "en": "",
+  "en": "Forest",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C1D8",
   "kind": "code",
   "jp": "火の皿",
-  "en": "",
+  "en": "Fire",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C1E0",
   "kind": "code",
   "jp": "風の皿",
-  "en": "",
+  "en": "Wind",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C1E8",
   "kind": "code",
   "jp": "音の皿",
-  "en": "",
+  "en": "Sound",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C1F0",
   "kind": "code",
   "jp": "爆薬",
-  "en": "",
+  "en": "Bomb",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C1F8",
   "kind": "code",
   "jp": "ユリ",
-  "en": "",
+  "en": "Lily",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C200",
   "kind": "code",
   "jp": "タニシ",
-  "en": "",
+  "en": "Snail",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C208",
   "kind": "code",
   "jp": "村娘",
-  "en": "",
+  "en": "Maiden",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C210",
   "kind": "code",
   "jp": "子供",
-  "en": "",
+  "en": "Child",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C218",
   "kind": "code",
   "jp": "ウンチ",
-  "en": "",
+  "en": "Poop",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C220",
   "kind": "code",
   "jp": "カメ",
-  "en": "",
+  "en": "Turtle",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C228",
   "kind": "code",
   "jp": "雷玉",
-  "en": "",
+  "en": "Zapper",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C230",
   "kind": "code",
   "jp": "美味草",
-  "en": "",
+  "en": "Grass",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C238",
   "kind": "code",
   "jp": "ビー玉",
-  "en": "",
+  "en": "Marble",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C240",
   "kind": "code",
   "jp": "竹づつ",
-  "en": "",
+  "en": "Flask",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C248",
   "kind": "code",
   "jp": "たまご",
-  "en": "",
+  "en": "Egg",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C250",
   "kind": "code",
   "jp": "鬼の実",
-  "en": "",
+  "en": "Fruit",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C258",
   "kind": "code",
   "jp": "シャケ",
-  "en": "",
+  "en": "Salmon",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C260",
   "kind": "code",
   "jp": "キズ薬",
-  "en": "",
+  "en": "Salve",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C268",
   "kind": "code",
   "jp": "かぜ薬",
-  "en": "",
+  "en": "Syrup",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C274",
   "kind": "code",
   "jp": "サバ",
-  "en": "",
+  "en": "Saba",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C27C",
   "kind": "code",
   "jp": "サンマ",
-  "en": "",
+  "en": "Saury",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C284",
   "kind": "code",
   "jp": "アジ",
-  "en": "",
+  "en": "Scad",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C28C",
   "kind": "code",
   "jp": "シジミ",
-  "en": "",
+  "en": "Clams",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C294",
   "kind": "code",
   "jp": "すみれ",
-  "en": "",
+  "en": "Violet",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C29C",
   "kind": "code",
   "jp": "ごぼう",
-  "en": "",
+  "en": "Gobo",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C2A4",
   "kind": "code",
   "jp": "カブ",
-  "en": "",
+  "en": "Turnip",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C2AC",
   "kind": "code",
   "jp": "なすび",
-  "en": "",
+  "en": "Nasubi",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C2B4",
   "kind": "code",
   "jp": "うどん",
-  "en": "",
+  "en": "Udon",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C2BC",
   "kind": "code",
   "jp": "あられ",
-  "en": "",
+  "en": "Arare",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C2C4",
   "kind": "code",
   "jp": "もなか",
-  "en": "",
+  "en": "Wafer",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C2CC",
   "kind": "code",
   "jp": "いいえ",
-  "en": "",
+  "en": "No",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C2D4",
   "kind": "code",
   "jp": "はい",
-  "en": "",
+  "en": "Yes",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C2DC",
   "kind": "code",
   "jp": "遊ぶ",
-  "en": "",
+  "en": "Play",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C2E4",
   "kind": "code",
   "jp": "やめる",
-  "en": "",
+  "en": "Quit",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C2EC",
   "kind": "code",
   "jp": "泊まる",
-  "en": "",
+  "en": "Stay",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C2F4",
   "kind": "code",
   "jp": "休む",
-  "en": "",
+  "en": "Rest",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C30C",
   "kind": "code",
   "jp": "売る",
-  "en": "",
+  "en": "Sell",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C314",
   "kind": "code",
   "jp": "買う",
-  "en": "",
+  "en": "Buy",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C334",
   "kind": "code",
   "jp": "説明",
-  "en": "",
+  "en": "Info",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C33C",
   "kind": "code",
   "jp": "４人",
-  "en": "",
+  "en": "4P",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C344",
   "kind": "code",
   "jp": "３人",
-  "en": "",
+  "en": "3P",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C34C",
   "kind": "code",
   "jp": "２人",
-  "en": "",
+  "en": "2P",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C354",
   "kind": "code",
   "jp": "１人",
-  "en": "",
+  "en": "1P",
   "max": 7
  },
  {
   "id": "SLPM_868@8008C35C",
   "kind": "code",
   "jp": "ふつう",
-  "en": "",
+  "en": "Mid",
   "max": 1187
  }
 ]
