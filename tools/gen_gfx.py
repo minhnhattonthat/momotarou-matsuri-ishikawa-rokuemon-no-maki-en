@@ -7,7 +7,8 @@ LABELS: {"FILE:ENTRY": [(x0, y0, x1, y1, "English", opts), ...]}. Each rect is c
 bg='fill' to the rect's most common colour, for labels on a panel) and the English drawn centred in it with
 fonts/ofl/Fredoka.ttf (OFL), no antialiasing. Colours come from the Japanese lettering in the rect: the fill per
 row is that row's most common lettering colour (keeps vertical gradients), the outline is the darkest colour.
-opts: size (px, default fits the rect), wdth 75-125, wght 300-700, outline 0/1, fill (RGBA tuple) to force one.
+opts: size (px, default fits the rect), wdth 75-125, wght 300-700, outline 0/1, fill (RGBA tuple) to force one,
+align 'left' (menu labels; default centred).
 """
 import sys
 from collections import Counter
@@ -29,6 +30,11 @@ LABELS = {
     # two sprites: line 1 is as wide as スタートボタンを, line 2 only as wide as おしてね! (x 49..122)
     'CI0D.BIN:3': [(49, 49, 175, 65, 'Press START', {'bg': 'fill', 'outline': 0}),
                    (49, 65, 122, 81, 'button!', {'bg': 'fill', 'outline': 0})],
+    # Game Album menu: title + three mode labels (glossary; おためし対戦 as in the script, "Quick Match!")
+    'NAME0D.BIN:0': [(81, 0, 241, 25, 'Game Album', {}),
+                     (0, 145, 97, 168, 'Rank Details', {'wdth': 75, 'align': 'left'}),
+                     (0, 168, 160, 191, 'Quick Match!', {'align': 'left'}),
+                     (0, 192, 184, 216, 'Name Entry', {'align': 'left'})],
 }
 
 
@@ -77,7 +83,8 @@ def draw(im, x0, y0, x1, y1, text, o, pal):
         for x in range(x0, x1):
             px[x, y] = bgc
     m = fit(text, x1 - x0, y1 - y0, o)
-    ox, oy = x0 + (x1 - x0 - m.width) // 2, y0 + (y1 - y0 - m.height) // 2
+    ox = x0 + 1 if o.get('align') == 'left' else x0 + (x1 - x0 - m.width) // 2
+    oy = y0 + (y1 - y0 - m.height) // 2
     full = Image.new('L', im.size)
     full.paste(m, (ox, oy))
     edge = full.filter(ImageFilter.MaxFilter(3)) if o.get('outline', 1) else full
