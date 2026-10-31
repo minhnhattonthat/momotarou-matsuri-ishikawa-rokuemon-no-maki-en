@@ -15,7 +15,7 @@
   "id": "GSF0101D/5/0336",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}{MM}{ww}を　使った！\n　",
-  "en": ""
+  "en": "Momotaro used {bb}{MM}{ww}!"
  },
  {
   "id": "GSF0101D/5/0386",
@@ -57,7 +57,7 @@
   "id": "GSF0101D/6/021A",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}つるはし{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Pickaxe{ww}!{KN}"
  },
  {
   "id": "GSF0101D/6/026A",
@@ -93,7 +93,7 @@
   "id": "GSF0101D/8/0040",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}{MM}{ww}を　使った！\n　",
-  "en": ""
+  "en": "Momotaro used {bb}{MM}{ww}!"
  },
  {
   "id": "GSF0101D/8/0118",

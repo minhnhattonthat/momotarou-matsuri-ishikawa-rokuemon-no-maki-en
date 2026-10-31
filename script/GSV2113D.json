@@ -3,114 +3,114 @@
   "id": "GSV2113D/2/0018",
   "kind": "msg",
   "jp": "「ポンポコリン！\n　{bb}ウサカメレース{ww}は　今　休止中です！」\n　{KP}\n「事情は　村長に\n　聞いてください　ポンポコリン！」\n　",
-  "en": ""
+  "en": "\"Ponpokorin! The {bb}Rabbit-Turtle Race{ww} is on hold right now!\"{KP}\"Please ask the village chief for the details, Ponpokorin!\""
  },
  {
   "id": "GSV2113D/2/00B6",
   "kind": "msg",
   "jp": "「ポンポコリン！\n　{bb}ウサカメレース{ww}なら　ここですよ！」\n　{KP}\n「１回　１００両ですが\n　桃太郎さんも　かけてみますか？」\n　{KN}",
-  "en": ""
+  "en": "\"Ponpokorin! This is the place for the {bb}Rabbit-Turtle Race{ww}!\"{KP}\"It's 100 ryo a bet. Would you like to place one, Momotaro-san?\"{KN}"
  },
  {
   "id": "GSV2113D/2/015A",
   "kind": "msg",
   "jp": "「ありがとうございます！\n　レース結果を　お楽しみに！」\n　",
-  "en": ""
+  "en": "\"Thank you very much! Look forward to the race results!\""
  },
  {
   "id": "GSV2113D/2/01A6",
   "kind": "msg",
   "jp": "「遊び方の説明を　聞きますか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Would you like to hear how to play?\"{KN}"
  },
  {
   "id": "GSV2113D/2/020A",
   "kind": "msg",
   "jp": "「ポンポコリン！\n　{bb}ウサカメレース{ww}なら　ここですよ！」\n　{KP}\n「１回　１００両ですが\n　桃太郎さんも　かけてみますか？」\n　{KP}\n「…って\n　ありゃりゃ　桃太郎さん！」\n　{KP}\n「かけるための　１００両を\n　お持ちじゃ　ないようですよ！」\n　{KP}\n「またの　おこしを！\n　お待ちしております　ポン！」\n　",
-  "en": ""
+  "en": "\"Ponpokorin! This is the place for the {bb}Rabbit-Turtle Race{ww}!\"{KP}\"It's 100 ryo a bet. Would you like to place one, Momotaro-san?\"{KP}\"...Oh? Uh-oh, Momotaro-san!\"{KP}\"It seems you don't have the 100 ryo to bet!\"{KP}\"Please come again! We'll be waiting, pon!\""
  },
  {
   "id": "GSV2113D/2/035E",
   "kind": "msg",
   "jp": "「そうですか　残念ですね！\n　気が向いたら\n　また　来てくださいね！」",
-  "en": ""
+  "en": "\"I see, what a shame! Come back again if you feel like it!\""
  },
  {
   "id": "GSV2113D/3/0002",
   "kind": "msg",
   "jp": "「{bb}ウサカメレース{ww}は\n　１番から　３番まで　かけるの」\n　{KP}\n「３番まで\n　予想しなくちゃ　いけないのよ！」\n　{KP}\n「全部　当たったら\n　スゴイんだけどね！」\n　",
-  "en": ""
+  "en": "\"In the {bb}Rabbit-Turtle Race{ww}, you bet on 1st through 3rd place.\"{KP}\"You have to predict all the way down to 3rd!\"{KP}\"If you get them all right, it's amazing, though!\""
  },
  {
   "id": "GSV2113D/4/0010",
   "kind": "msg",
   "jp": "「この　ゆうぎ場で\n　{bb}ウサカメレース{ww}に　お金を\n　かけることが　できるのじゃ！」{KP}\n　\n「でも　今は\n　レースが　休止中でのォ！」\n　{KP}\n「{bb}ウサカメレース{ww}が　できないなんて\n　残念じゃのォ！」\n　",
-  "en": ""
+  "en": "\"At this game stall, you can bet money on the {bb}Rabbit-Turtle Race{ww}!\"{KP}\"But right now the races are on hold, eh!\"{KP}\"What a shame we can't have the {bb}Rabbit-Turtle Race{ww}, eh!\""
  },
  {
   "id": "GSV2113D/4/00F8",
   "kind": "msg",
   "jp": "「この　ゆうぎ場で\n　{bb}ウサカメレース{ww}に　お金を\n　かけることが　できるのじゃ！」{KP}\n　\n「どの選手に　かけるかは\n　予想画面で　選手の　体調や\n　性格などを」{KP}\n　\n「よ～く　見きわめてから\n　決めるのじゃよ！」\n　",
-  "en": ""
+  "en": "\"At this game stall, you can bet money on the {bb}Rabbit-Turtle Race{ww}!\"{KP}\"When choosing which runner to bet on, look closely at their condition and personality\"{KP}\"on the prediction screen before you decide!\""
  },
  {
   "id": "GSV2113D/5/000C",
   "kind": "msg",
   "jp": "「カキーッ！\n　さすがは　桃太郎さん！\n　やっぱ　かなわないや！」",
-  "en": ""
+  "en": "\"Kakiii! As expected of Momotaro-san! I just can't beat you!\""
  },
  {
   "id": "GSV2113D/5/005E",
   "kind": "msg",
   "jp": "「あんちゃんも\n　おしかった　クリ！」\n　",
-  "en": ""
+  "en": "\"That was close for you too, big bro, kuri!\""
  },
  {
   "id": "GSV2113D/5/0098",
   "kind": "msg",
   "jp": "「いっしょに　ゆうぎが\n　遊べて　楽しかったですよ！\n　桃太郎さん！」{KP}\n　\n「オイラの　願いを\n　聞いてくれて　ありがとう！」\n　{KP}\n「それでは　そろそろ\n　お別れします！」\n　",
-  "en": ""
+  "en": "\"It was fun playing games together, Momotaro-san!\"{KP}\"Thank you for granting my wish!\"{KP}\"Well, it's about time we said goodbye!\""
  },
  {
   "id": "GSV2113D/5/0166",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　ありがとう　クリクリ！」\n　{KP}\n「桃太郎さんとの　旅は\n　本当に　楽しかったクリ！」\n　",
-  "en": ""
+  "en": "\"Momotaro-san! Thank you, kuri kuri!\"{KP}\"Traveling with you was so much fun, kuri!\""
  },
  {
   "id": "GSV2113D/5/01E4",
   "kind": "msg",
   "jp": "「では　さようなら！\n　行くぞ　栗太郎！」\n　",
-  "en": ""
+  "en": "\"Well then, goodbye! Let's go, Kuritaro!\""
  },
  {
   "id": "GSV2113D/5/022A",
   "kind": "msg",
   "jp": "「カキーッ！\n　おしかった！　カキーッ！！」\n　{KP}\n「あれれ！　桃太郎さんも\n　ダメでしたか？」\n　",
-  "en": ""
+  "en": "\"Kakiii! So close! Kakiii!!\"{KP}\"Whoa! You didn't make it either, Momotaro-san?\""
  },
  {
   "id": "GSV2113D/5/02A2",
   "kind": "msg",
   "jp": "「ハラハラしたクリ！」\n　\n　",
-  "en": ""
+  "en": "\"That was nerve-racking, kuri!\""
  },
  {
   "id": "GSV2113D/5/02D0",
   "kind": "msg",
   "jp": "「負けても　桃太郎さんと\n　いっしょに　ゆうぎが　できて\n　楽しかったですよ！」{KP}\n　\n「オイラの　願いを\n　聞いてくれて　ありがとう！」\n　{KP}\n「それでは　そろそろ\n　お別れします！」\n　",
-  "en": ""
+  "en": "\"We lost, but getting to play games with you was fun, Momotaro-san!\"{KP}\"Thank you for granting my wish!\"{KP}\"Well, it's about time we said goodbye!\""
  },
  {
   "id": "GSV2113D/5/03A8",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　ありがとう　クリクリ！」\n　{KP}\n「桃太郎さんとの　旅は\n　本当に　楽しかったクリ！」\n　",
-  "en": ""
+  "en": "\"Momotaro-san! Thank you, kuri kuri!\"{KP}\"Traveling with you was so much fun, kuri!\""
  },
  {
   "id": "GSV2113D/5/0426",
   "kind": "msg",
   "jp": "「では　さようなら！\n　行くぞ　栗太郎！」\n　",
-  "en": ""
+  "en": "\"Well then, goodbye! Let's go, Kuritaro!\""
  }
 ]

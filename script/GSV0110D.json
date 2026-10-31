@@ -3,36 +3,36 @@
   "id": "GSV0110D/2/0020",
   "kind": "msg",
   "jp": "「桃太郎さん！　おひさしぶりです！」\n　\n　{KP}\n「あなたの　おかげで\n　すっかり　平和に　なりました！」\n　{KP}\n「また　旅に　出られるのですか！？\n　……では　おりいって　お願い\n　したいことが　あるのですが……」{KP}\n　\n「わが娘　{bb}おせん{ww}の\n　いいなずけの　ことですが……」\n　{KP}\n「名は　{bb}忠三郎{ww}と　いって\n　まじめな男なのですが　旅に\n　出たまま　帰って来んのです！」{KP}\n　\n「桃太郎さん！　どこかで\n　{bb}忠三郎{ww}にあったら　帰って\n　来るように　伝えてくだされ！」",
-  "en": ""
+  "en": "\"Momotaro-san! It's been a long time!\"{KP}\"Thanks to you, all is peaceful again!\"{KP}\"Are you setting off on a journey again?! ......Then there's a favor I must ask of you......\"{KP}\"It's about my daughter {bb}Osen{ww}'s fiance......\"{KP}\"His name is {bb}Chuzaburo{ww}, an honest man, but he went off on a journey and hasn't come back!\"{KP}\"Momotaro-san! If you meet {bb}Chuzaburo{ww} anywhere, please tell him to come home!\""
  },
  {
   "id": "GSV0110D/2/022E",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　よろしく　お願いします！」\n　",
-  "en": ""
+  "en": "\"Momotaro-san! I'm counting on you!\""
  },
  {
   "id": "GSV0110D/2/0280",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　{bb}忠三郎{ww}を　助けていただき\n　ありがとうございました！」{KP}\n　\n「お礼に　わたしの　お宝\n　{bb}豊の茶わん{ww}を　さしあげます！」\n　",
-  "en": ""
+  "en": "\"Momotaro-san! Thank you for helping {bb}Chuzaburo{ww}!\"{KP}\"As thanks, please take my treasure, the {bb}Plenty Bowl{ww}!\""
  },
  {
   "id": "GSV0110D/2/032C",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}豊の茶わん{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Plenty Bowl{ww}!{KN}"
  },
  {
   "id": "GSV0110D/2/0372",
   "kind": "msg",
   "jp": "「こんにちは　桃太郎さん！\n　{bb}おせん{ww}は　{bb}忠三郎{ww}の\n　家に　とついでいきましたよ！」{KP}\n　\n「ちょっと　さびしいですな～！」\n　\n　",
-  "en": ""
+  "en": "\"Hello, Momotaro-san! {bb}Osen{ww} married into {bb}Chuzaburo{ww}'s family!\"{KP}\"It's a little lonely now, I must say!\""
  },
  {
   "id": "GSV0110D/3/0002",
   "kind": "msg",
   "jp": "「クスン……　なぜ　帰って\n　来ないの…　{bb}忠三郎さん{ww}…」\n　",
-  "en": ""
+  "en": "\"Sniff...... Why won't you come home... {bb}Chuzaburo-san{ww}...\""
  }
 ]

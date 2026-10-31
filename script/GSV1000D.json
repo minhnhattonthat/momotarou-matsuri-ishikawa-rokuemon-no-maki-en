@@ -3,42 +3,42 @@
   "id": "GSV1000D/3/014C",
   "kind": "caption",
   "jp": "龍宮城",
-  "en": ""
+  "en": "Ryugu Palace"
  },
  {
   "id": "GSV1000D/3/01A0",
   "kind": "caption",
   "jp": "竜宮城",
-  "en": ""
+  "en": "Ryugu Palace"
  },
  {
   "id": "GSV1000D/4/0002",
   "kind": "msg",
   "jp": "「やあ　桃太郎さん！\n　どうも　どうも！」\n　{KP}\n「浦島の村に\n　もどりましょうか？」\n　{KN}",
-  "en": ""
+  "en": "\"Hello, Momotaro-san! Good to see you!\"{KP}\"Shall we head back to Urashima Village?\"{KN}"
  },
  {
   "id": "GSV1000D/4/0080",
   "kind": "msg",
   "jp": "「では　背中に\n　乗ってください！」\n　",
-  "en": ""
+  "en": "\"Then climb up on my back!\""
  },
  {
   "id": "GSV1000D/4/0120",
   "kind": "msg",
   "jp": "「そうですか………\n　また　いつでも　どうぞ！」\n　",
-  "en": ""
+  "en": "\"I see...... Come by anytime!\""
  },
  {
   "id": "GSV1000D/5/0002",
   "kind": "msg",
   "jp": "「ここは　乙姫さまが　住む\n　竜宮城です」\n　{KP}\n「桃太郎さん！\n　ようこそ　いらっしゃいました！」\n　",
-  "en": ""
+  "en": "\"This is Ryugu Palace, where Otohime-sama lives.\"{KP}\"Momotaro-san! Welcome, welcome!\""
  },
  {
   "id": "GSV1000D/6/0002",
   "kind": "msg",
   "jp": "「ここは　乙姫さまが　住む\n　竜宮城です！」\n　{KP}\n「来る時も　帰る時も\n　カメさんを　ご利用ください！」\n　",
-  "en": ""
+  "en": "\"This is Ryugu Palace, where Otohime-sama lives!\"{KP}\"Coming and going, please travel by Mr. Turtle!\""
  }
 ]

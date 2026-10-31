@@ -3,18 +3,18 @@
   "id": "GSV0902D/3/0002",
   "kind": "msg",
   "jp": "「ふ～　ここの　風呂は\n　気持ちよがった！」\n　{KP}\n「穴ほりの　つかれが\n　ふきとぶだ！　でん　でん」\n　",
-  "en": ""
+  "en": "\"Phew, the bath here sure felt grand!\"{KP}\"Blows the tiredness from diggin' clean away! Den-den!\""
  },
  {
   "id": "GSV0902D/4/0002",
   "kind": "msg",
   "jp": "「{bb}レッツ！まくらなげ{ww}は\n　がむしゃらに　投げても\n　鬼たちに　よけられるだけじゃ！」",
-  "en": ""
+  "en": "\"In {bb}Let's Pillow Fight!{ww}, if you just throw like crazy, the oni will only dodge!\""
  },
  {
   "id": "GSV0902D/5/0002",
   "kind": "msg",
   "jp": "「{bb}レッツ！まくらなげ{ww}で　出てくる\n　光るまくらを　鬼に　当てると\n　高得点が　入りますよ！」",
-  "en": ""
+  "en": "\"In {bb}Let's Pillow Fight!{ww}, hit the oni with the glowing pillows that show up, and you'll get lots of points!\""
  }
 ]

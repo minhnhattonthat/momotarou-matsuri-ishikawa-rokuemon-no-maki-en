@@ -9,468 +9,468 @@
   "id": "GSV0600D/14/0002",
   "kind": "msg",
   "jp": "「{bb}花咲かじいさん{ww}は　どこに\n　行ったんでしょうか？」\n　",
-  "en": ""
+  "en": "\"Where could {bb}Old Man Hanasaka{ww} have gone?\""
  },
  {
   "id": "GSV0600D/14/004A",
   "kind": "msg",
   "jp": "「あれ？」\n　\n　{KP}\n「うしろに　いるのは\n　よしきちくん　ですね！」\n　",
-  "en": ""
+  "en": "\"Oh?\"{KP}\"Isn't that Yoshikichi-kun behind you?\""
  },
  {
   "id": "GSV0600D/14/00A8",
   "kind": "msg",
   "jp": "「うん…　おかあちゃんが\n　いなくなったんだ！」\n　{KP}\n「だから　桃太郎さんに\n　おかあちゃん　さがしを\n　手伝って　もらってんだ！」",
-  "en": ""
+  "en": "\"Yeah... my mom's gone missing!\"{KP}\"So Momotaro-san is helping me look for my mom!\""
  },
  {
   "id": "GSV0600D/14/0142",
   "kind": "msg",
   "jp": "「そうですか……\n　桃太郎さんも　ご苦労さま\n　です！」{KP}\n　\n「それでは　わたしは\n　{bb}花咲かじいさん{ww}を　さがしに\n　村の外に　出てまいります！」{KP}\n　\n「申しわけありませんが\n　これで　失礼します！」\n　",
-  "en": ""
+  "en": "\"I see...... Thank you for your trouble too, Momotaro-san!\"{KP}\"Well then, I'll head out of the village to look for {bb}Old Man Hanasaka{ww}!\"{KP}\"I'm terribly sorry, but I must be going!\""
  },
  {
   "id": "GSV0600D/15/0002",
   "kind": "msg",
   "jp": "「よろしく　お願いしますよ！\n　桃太郎さん」\n　",
-  "en": ""
+  "en": "\"I'm counting on you, Momotaro-san!\""
  },
  {
   "id": "GSV0600D/15/003E",
   "kind": "msg",
   "jp": "「いってきますワン！」\n　\n　",
-  "en": ""
+  "en": "\"I'm off, woof!\""
  },
  {
   "id": "GSV0600D/16/0010",
   "kind": "msg",
   "jp": "「ワン　ワン！」\n　\n　",
-  "en": ""
+  "en": "\"Woof woof!\""
  },
  {
   "id": "GSV0600D/16/0048",
   "kind": "msg",
   "jp": "「その子の　母親ですか……」\n　\n　{KP}\n「さっき　村に　もどって\n　来たけど　すぐに　\n　出ていったワン！」{KP}\n　\n「それにしても　花見をする\n　人間は　うるさいワン！」\n　",
-  "en": ""
+  "en": "\"That kid's mother, you say...\"{KP}\"She came back to the village a while ago, but left again right away, woof!\"{KP}\"Anyway, the humans who come for the cherry blossoms are so noisy, woof!\""
  },
  {
   "id": "GSV0600D/16/0112",
   "kind": "msg",
   "jp": "「母親は　見つかりましたか！\n　それは　よかったワン！」\n　{KP}\n「それにしても　花見をする\n　人間は　うるさいワン！」\n　",
-  "en": ""
+  "en": "\"So you found the mother! That's great, woof!\"{KP}\"Anyway, the humans who come for the cherry blossoms are so noisy, woof!\""
  },
  {
   "id": "GSV0600D/17/0010",
   "kind": "msg",
   "jp": "「わん　わん　わん！」\n　\n　",
-  "en": ""
+  "en": "\"Bow wow wow!\""
  },
  {
   "id": "GSV0600D/17/004E",
   "kind": "msg",
   "jp": "「えっ？\n　女の人を　見かけたかたって？」\n　{KP}\n「この村に　来る　途中\n　{bb}あみだ洞窟{ww}に　入って行くのを\n　見たわん！」",
-  "en": ""
+  "en": "\"Huh? Have I seen a woman, you ask?\"{KP}\"On my way to this village, I saw her going into {bb}Amida Cave{ww}, bow-wow!\""
  },
  {
   "id": "GSV0600D/17/00E6",
   "kind": "msg",
   "jp": "「さがしていた人は\n　見つかりましたか！\n　それは　よかったわん」{KP}\n　\n「それにしても　この村の\n　サクラは　きれいだわん！」\n　",
-  "en": ""
+  "en": "\"So you found the person you were looking for! That's great, bow-wow.\"{KP}\"Anyway, the cherry blossoms in this village sure are pretty, bow-wow!\""
  },
  {
   "id": "GSV0600D/18/0010",
   "kind": "msg",
   "jp": "「ワン　ワン　ワン！」\n　\n　",
-  "en": ""
+  "en": "\"Woof woof woof!\""
  },
  {
   "id": "GSV0600D/18/004E",
   "kind": "msg",
   "jp": "「ぼくは　{bb}カレンさん{ww}に\n　かわれている犬だワン！」\n　{KP}\n「{bb}カレンさん{ww}は　花の　{bb}ユリ{ww}が\n　大好きなんですよ！」\n　",
-  "en": ""
+  "en": "\"I'm the dog {bb}Karen-san{ww} keeps, woof!\"{KP}\"{bb}Karen-san{ww} just loves {bb}lilies{ww}!\""
  },
  {
   "id": "GSV0600D/18/00E8",
   "kind": "msg",
   "jp": "「カレンさんったら　さえない\n　男の所に　かよっているんですよ\n　シットするワン！」",
-  "en": ""
+  "en": "\"Karen-san keeps going to see some dull, nothing-special guy. I'm so jealous, woof!\""
  },
  {
   "id": "GSV0600D/19/0010",
   "kind": "msg",
   "jp": "「ワン　ワン！」\n　\n　",
-  "en": ""
+  "en": "\"Woof woof!\""
  },
  {
   "id": "GSV0600D/19/0048",
   "kind": "msg",
   "jp": "「その子の　母親なら\n　知っていますよ」\n　{KP}\n「薬を　つくるのが\n　たいそう　得意でしてね！」\n　{KP}\n「{bb}処方せん{ww}と　材料を\n　持っていけば　どんな\n　薬でも　つくってくれますよ！」",
-  "en": ""
+  "en": "\"Ah, that kid's mother? I know her.\"{KP}\"She's awfully good at making medicine!\"{KP}\"Bring her a {bb}prescription{ww} and the ingredients, and she'll make you any medicine at all!\""
  },
  {
   "id": "GSV0600D/19/011C",
   "kind": "msg",
   "jp": "「母親は　見つかりましたか！\n　それは　よかったワンワン」\n　",
-  "en": ""
+  "en": "\"So you found the mother! That's great, woof woof.\""
  },
  {
   "id": "GSV0600D/20/0010",
   "kind": "msg",
   "jp": "「ワン　ワン　ワン！」\n　\n　",
-  "en": ""
+  "en": "\"Woof woof woof!\""
  },
  {
   "id": "GSV0600D/20/004E",
   "kind": "msg",
   "jp": "「ほかの　村から　来た\n　犬は　ふだんから　ちょっと\n　鳴き方が　ちがうんだよ！」{KP}\n　\n「人間には　あんまり\n　わからないんだろうけどね！」\n　",
-  "en": ""
+  "en": "\"Dogs from other villages always bark a little differently, you know!\"{KP}\"I guess humans can't really tell, though!\""
  },
  {
   "id": "GSV0600D/20/00F8",
   "kind": "msg",
   "jp": "「鳴き方の　ちがいで　どこから\n　来たのか　わかるってもんさ！」\n　{KP}\n「けっこう　とくちょうが\n　あるんだなあ　これが！」\n　",
-  "en": ""
+  "en": "\"From the way a dog barks, you can tell where it came from!\"{KP}\"Each one has its own quirks, believe it or not!\""
  },
  {
   "id": "GSV0600D/21/0010",
   "kind": "msg",
   "jp": "「おいおい　どうなってんだ！」\n　\n　{KP}\n「こっちとら　花見に\n　わざわざ　やって来たんだぜ！」\n　{KP}\n「枯れ木　見て\n　何が　おもしろいんだーっ！\n　金返せー！　ちくしょう！！」",
-  "en": ""
+  "en": "\"Hey, hey, what's goin' on here!\"{KP}\"We came all this way to see the cherry blossoms!\"{KP}\"What's so fun about starin' at dead trees?! Gimme my money back! Darn it all!!\""
  },
  {
   "id": "GSV0600D/21/00EC",
   "kind": "msg",
   "jp": "「いやあ　やっぱり\n　サクラは　きれいだなあ！」\n　{KP}\n「花見は　サイコーだな！\n　メシが　うめぇや！」\n　{KP}\n「どれも　これも\n　桃太郎さんの　おかげだぁ～」\n　{KP}\n「そうだ！　この　{bb}イヌぐるみ{ww}を\n　あげやしょう！」\n　{KP}\n「これを　着ると\n　犬の　ことばが　わかって\n　犬たちとも　話せるでっさ！」{KP}\n　\n「花咲かじいさんとこの　イヌに\n　ゆずってもらったんだが」\n　{KP}\n「オイラが　着ると　\n　なんだか　悪口しか\n　聞こえてこねぇんだよ！」",
-  "en": ""
+  "en": "\"Ahh, cherry blossoms sure are pretty after all!\"{KP}\"Blossom viewing is the best! The grub tastes great!\"{KP}\"And it's all thanks to Momotaro-san...\"{KP}\"I know! I'll give ya this {bb}Dog Suit{ww}!\"{KP}\"Put it on, and ya can understand dog talk and chat with the dogs too!\"{KP}\"Old Man Hanasaka's dog let me have it, but...\"{KP}\"When I wear it, somehow all I hear is folks badmouthin' me!\""
  },
  {
   "id": "GSV0600D/21/02D8",
   "kind": "msg",
   "jp": "桃太郎は　\n{bb}イヌぐるみ{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Dog Suit{ww}!{KN}"
  },
  {
   "id": "GSV0600D/21/0324",
   "kind": "msg",
   "jp": "「いやあ　やっぱり\n　サクラは　きれいだなあ！」\n　{KP}\n「花見は　サイコーだな！\n　メシが　うめぇや！」\n　",
-  "en": ""
+  "en": "\"Ahh, cherry blossoms sure are pretty after all!\"{KP}\"Blossom viewing is the best! The grub tastes great!\""
  },
  {
   "id": "GSV0600D/22/0018",
   "kind": "msg",
   "jp": "「やだよ　せっかく　金太郎の村から\n　やって来たっていうのに」\n　{KP}\n「サクラは　見れないし\n　この人は　怒るし……\n　本当に　もう！」",
-  "en": ""
+  "en": "\"Ugh, and after we came all the way from Kintaro Village...\"{KP}\"We can't see the cherry blossoms, and this one's in a huff... Honestly!\""
  },
  {
   "id": "GSV0600D/22/00C4",
   "kind": "msg",
   "jp": "「やだよ　せっかく　サクラが\n　咲いたってのに」\n　{KP}\n「うちの　人ったら　サクラなんか\n　そっちのけで　食べてばっかり！」\n　",
-  "en": ""
+  "en": "\"Ugh, the cherry blossoms finally bloomed, and yet...\"{KP}\"My husband ignores them completely and does nothing but eat!\""
  },
  {
   "id": "GSV0600D/22/015A",
   "kind": "msg",
   "jp": "「桃太郎さん　{bb}イヌぐるみ{ww}の\n　使い方を　ごぞんじですか？」\n　{KN}",
-  "en": ""
+  "en": "\"Momotaro-san, do you know how to use the {bb}Dog Suit{ww}?\"{KN}"
  },
  {
   "id": "GSV0600D/22/01D4",
   "kind": "msg",
   "jp": "「さすがは　桃太郎さん！\n　なんでも　お見通しですね！」\n　",
-  "en": ""
+  "en": "\"Just what I'd expect from Momotaro-san! You see right through everything!\""
  },
  {
   "id": "GSV0600D/22/0222",
   "kind": "msg",
   "jp": "「では　くわしく\n　教えて　あげましょう！」\n　{KP}\n「{bb}イヌぐるみ{ww}は　それを　着たものを\n　犬の　すがたに　かえるのですよ！」\n　{KP}\n「犬の　すがたに　なると　人とは\n　話しが　できなくなりますよ！」\n　{KP}\n「そのかわりに　{bb}イヌぐるみ{ww}を\n　着ている間は」\n　{KP}\n「犬たちは　桃太郎さんを\n　仲間と　思って\n　話しかけて　きますよ！」{KP}\n　\n「使い方は　簡単ですよ！\n　△ボタンを　押して」\n　{KP}\n「コマンドメニューから\n　{bb}だいじなもの{ww}を　選んで」\n　{KP}\n「さらに　{bb}だいじなもの{ww}メニューから\n　{bb}イヌぐるみ{ww}を　選んでください！」\n　{KP}\n「そうすれば　{bb}イヌぐるみ{ww}を\n　着たり　ぬいだり　できますよ！」\n　{KP}\n「もう一度\n　話を　聞きたいですか？」\n　{KN}",
-  "en": ""
+  "en": "\"Then let me explain it in detail!\"{KP}\"The {bb}Dog Suit{ww} turns whoever wears it into a dog!\"{KP}\"Once you look like a dog, you can't talk with people anymore!\"{KP}\"But in exchange, as long as you're wearing the {bb}Dog Suit{ww},\"{KP}\"the dogs will think Momotaro-san is one of them and talk to you!\"{KP}\"It's easy to use! Press the Triangle button,\"{KP}\"choose {bb}Key Items{ww} from the command menu,\"{KP}\"then choose the {bb}Dog Suit{ww} from the {bb}Key Items{ww} menu!\"{KP}\"That way, you can put on and take off the {bb}Dog Suit{ww}!\"{KP}\"Would you like to hear it again?\"{KN}"
  },
  {
   "id": "GSV0600D/23/0010",
   "kind": "msg",
   "jp": "「サクラが　散ってしまったけど\n　きみを　見ていれば　平気さ！」\n　{KP}\n「いや　きみしか　見えない…」\n　\n　{KP}\n桃太郎は\nムシされた　ようだ！\n　",
-  "en": ""
+  "en": "\"The cherry blossoms may have fallen, but as long as I can look at you, I'm fine!\"{KP}\"No, you're all I can see...\"{KP}Momotaro seems to have been ignored!"
  },
  {
   "id": "GSV0600D/23/00BE",
   "kind": "msg",
   "jp": "「サクラも　キレイだけど…」\n　\n　{KP}\n「きみの　ほうが\n　もっと　キレイだよ！」\n　{KP}\n桃太郎は　また\nムシされた　ようだ！\n　",
-  "en": ""
+  "en": "\"The cherry blossoms are lovely, but...\"{KP}\"You're even lovelier!\"{KP}Momotaro seems to have been ignored again!"
  },
  {
   "id": "GSV0600D/24/0010",
   "kind": "msg",
   "jp": "「あら　あなた　そんな…\n　フフフ」\n　{KP}\n桃太郎は\nムシされた　ようだ！\n　",
-  "en": ""
+  "en": "\"Oh, darling, you shouldn't... Hee hee hee.\"{KP}Momotaro seems to have been ignored!"
  },
  {
   "id": "GSV0600D/24/0074",
   "kind": "msg",
   "jp": "「あら　あなた　そんな…\n　もっと　言って\n　フフフ……」{KP}\n　\n桃太郎は　また\nムシされた　ようだ！\n　",
-  "en": ""
+  "en": "\"Oh, darling, you shouldn't... Say more... Hee hee hee......\"{KP}Momotaro seems to have been ignored again!"
  },
  {
   "id": "GSV0600D/25/0026",
   "kind": "msg",
   "jp": "「なんだか　最近\n　元気が　出ないんですよ」\n　{KP}\n「５月病って　わけでもないし\n　どうしちゃったんでしょうね」\n　{KP}\n「サクラも　散ってしまいましたしね」\n　\n　",
-  "en": ""
+  "en": "\"For some reason, I just haven't had any energy lately.\"{KP}\"It's not like it's the May blues... What's come over me, I wonder?\"{KP}\"And the cherry blossoms have all fallen, too.\""
  },
  {
   "id": "GSV0600D/25/00EA",
   "kind": "msg",
   "jp": "「なんだか　最近\n　元気が　出ないんですよ」\n　{KP}\n「５月病って　わけでもないし\n　どうしちゃったんでしょうね」\n　{KP}\n「サクラが　咲いたっていうのにね」\n　\n　",
-  "en": ""
+  "en": "\"For some reason, I just haven't had any energy lately.\"{KP}\"It's not like it's the May blues... What's come over me, I wonder?\"{KP}\"Even though the cherry blossoms are in bloom.\""
  },
  {
   "id": "GSV0600D/25/01B0",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}{MM}{ww}を　わたした！\n　",
-  "en": ""
+  "en": "Momotaro handed over {bb}{MM}{ww}!"
  },
  {
   "id": "GSV0600D/25/01E2",
   "kind": "msg",
   "jp": "「おお　これは！」\n　\n　{KP}\n「使えば　たちどころに\n　元気が　出るという\n　{bb}元気の玉{ww}！」{KP}\n　\n「こんなに　めずらしい物を\n　いただけるなんて！」\n　{KP}\n「お礼に\n　{bb}方言カード{ww}を　さしあげます！」\n　",
-  "en": ""
+  "en": "\"Oh, why, this is...!\"{KP}\"The {bb}Vigor Orb{ww}, said to restore your energy the instant you use it!\"{KP}\"To think I'd receive something so rare!\"{KP}\"As thanks, I'll give you a {bb}Dialect Card{ww}!\""
  },
  {
   "id": "GSV0600D/25/02D2",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０２６{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 026{ww}!{KN}"
  },
  {
   "id": "GSV0600D/25/032C",
   "kind": "msg",
   "jp": "「桃太郎さん　{bb}元気の玉{ww}を\n　どうも　ありがとうございました！」\n　{KP}\n「おかげさまで　すっかり\n　元気に　なりましたよ！」\n　",
-  "en": ""
+  "en": "\"Thank you so much for the {bb}Vigor Orb{ww}, Momotaro-san!\"{KP}\"Thanks to you, I'm full of energy again!\""
  },
  {
   "id": "GSV0600D/26/0010",
   "kind": "msg",
   "jp": "「あそこの　おじさん　さっき\n　犬の　ぬいぐるみを　着てたぜ！\n　いい年してさ！」",
-  "en": ""
+  "en": "\"That old guy over there was wearing a dog costume just now! At his age!\""
  },
  {
   "id": "GSV0600D/26/0074",
   "kind": "msg",
   "jp": "「いや～！\n　サクラは　きれいだなぁ！\n　心が　あらわれるようだ！」",
-  "en": ""
+  "en": "\"Wowee! The cherry blossoms are so pretty! It feels like my heart's being washed clean!\""
  },
  {
   "id": "GSV0600D/27/0010",
   "kind": "msg",
   "jp": "「あ～あ　なんて　ことだい\n　サクラが　散ってしまうなんて」\n　{KP}\n「昔　鬼に　枯らされてしまった時\n　以来だよ～！」\n　",
-  "en": ""
+  "en": "\"Oh, what a shame... The cherry blossoms falling like this...\"{KP}\"Not since the oni withered them long ago!\""
  },
  {
   "id": "GSV0600D/27/00A0",
   "kind": "msg",
   "jp": "「今年も　いろんな村から\n　お花見に　来ていますよ！」\n　{KP}\n「お祭りを　している\n　金太郎の村からも　来ていますし\n　おむすび村からも　来ていますよ！」",
-  "en": ""
+  "en": "\"This year, too, people have come from all sorts of villages to see the blossoms!\"{KP}\"They've come from Kintaro Village, where the festival's on, and from Omusubi Village too!\""
  },
  {
   "id": "GSV0600D/28/0010",
   "kind": "msg",
   "jp": "「まあ　よしきち！\n　どうしたんだい？」\n　{KP}\n「えっ　おまえの　\n　おかあちゃん……？」\n　{KP}\n「さぁ　見てないねぇ……」\n　\n　",
-  "en": ""
+  "en": "\"Why, Yoshikichi! What's the matter?\"{KP}\"Eh? Your mom......?\"{KP}\"Hmm, I haven't seen her......\""
  },
  {
   "id": "GSV0600D/28/00AE",
   "kind": "msg",
   "jp": "「よしきちの　おかあさんが\n　見つかったんですかい！\n　ホントに　よかったですね！」",
-  "en": ""
+  "en": "\"So Yoshikichi's mother's been found! That's real good news!\""
  },
  {
   "id": "GSV0600D/29/0002",
   "kind": "msg",
   "jp": "「{bb}ひえん仙人のいおり{ww}なら\n　この村を　出て」\n　{KP}\n「西に　しばらく　行った所に\n　あるって　聞いたことが　あるわ！」\n　",
-  "en": ""
+  "en": "\"I've heard that the {bb}Warp Hermit's Hut{ww}\"{KP}\"is a ways to the west once you leave this village!\""
  },
  {
   "id": "GSV0600D/30/0002",
   "kind": "msg",
   "jp": "「これは　桃太郎さん！\n　旅の人から　聞いたんじゃが」\n　{KP}\n「なんでも　桃太郎さんが\n　金太郎の村で　大あばれしたとか\n　しないとか？」{KP}\n　\n「じゃが　桃太郎さんが\n　そんな　ことは\n　せんよのォ～」{KP}\n　\n「旅の人の　見まちがいじゃろ\n　……のぉ～　桃太郎さん」\n　",
-  "en": ""
+  "en": "\"Why, Momotaro-san! I heard this from a traveler, see,\"{KP}\"something about Momotaro-san going on a rampage in Kintaro Village, or maybe not?\"{KP}\"But Momotaro-san would never do such a thing, eh...\"{KP}\"The traveler must've been mistaken... right, Momotaro-san?\""
  },
  {
   "id": "GSV0600D/31/0002",
   "kind": "msg",
   "jp": "「ふごふご…\n　桃太郎さんや！」\n　{KP}\n「この村を　ぬけて　北に　行くと\n　{bb}金太郎の村{ww}ですじゃ！」\n　{KP}\n「今ごろは　お祭りが\n　始まって　おることじゃろうて！」\n　{KP}\n「楽しそうじゃのぉ！」\n　\n　",
-  "en": ""
+  "en": "\"Mumble mumble... Momotaro-san!\"{KP}\"Go through this village and head north, and you'll reach {bb}Kintaro Village{ww}!\"{KP}\"The festival's probably started by now, I reckon!\"{KP}\"Sounds like fun, eh!\""
  },
  {
   "id": "GSV0600D/32/0002",
   "kind": "msg",
   "jp": "「花が　ほしいけど　買えない人が\n　たくさん　いるんでしょうね」\n　{KP}\n「この　近くの　村なら\n　買いに　来られるけど…」\n　{KP}\n「遠くの　村の人たちには\n　貴重　なんでしょうね！」\n　",
-  "en": ""
+  "en": "\"There must be lots of people who want flowers but can't buy them...\"{KP}\"People from villages nearby can come and buy them, but...\"{KP}\"for folks from faraway villages, they must be precious!\""
  },
  {
   "id": "GSV0600D/33/001E",
   "kind": "msg",
   "jp": "「こんにちわ　桃太郎さん！\n　ボクの　顔を　よーく\n　覚えておいて　くださいね！」",
-  "en": ""
+  "en": "\"Hello, Momotaro-san! Remember my face real well, okay?\""
  },
  {
   "id": "GSV0600D/33/0082",
   "kind": "msg",
   "jp": "「あれ！　ボクに\n　そっくりな　お面だね！」\n　{KP}\n「よかったら\n　よ～く　見せてくださいな！」\n　",
-  "en": ""
+  "en": "\"Hey! That mask looks just like me!\"{KP}\"If you don't mind, let me take a good look!\""
  },
  {
   "id": "GSV0600D/33/00FA",
   "kind": "msg",
   "jp": "　桃太郎は\n　お面を　見せてあげた\n　",
-  "en": ""
+  "en": "Momotaro showed him the mask."
  },
  {
   "id": "GSV0600D/33/0130",
   "kind": "msg",
   "jp": "「いや～！\n　ありがとうございます！\n　お礼に　これを　どうぞ！」",
-  "en": ""
+  "en": "\"Wow! Thank you so much! Please take this as thanks!\""
  },
  {
   "id": "GSV0600D/33/0182",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０４７{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 047{ww}!{KN}"
  },
  {
   "id": "GSV0600D/33/01D6",
   "kind": "msg",
   "jp": "「こんにちわ　桃太郎さん！\n　お面は　集まりましたか！？」\n　",
-  "en": ""
+  "en": "\"Hello, Momotaro-san! Have you collected the masks?!\""
  },
  {
   "id": "GSV0600D/34/0010",
   "kind": "msg",
   "jp": "「この家に　いる　{bb}不幸太{ww}は\n　お金は　落とすわ\n　井戸には　落ちるわ」{KP}\n　\n「かわやには　落ちるわと\n　不幸の　かたまりみたいな\n　やつ　なんだけど」{KP}\n　\n「びっくら　こいた　ことに\n　恋を　したんだってよ！」\n　{KP}\n「相手を　落とす前に\n　自分が　ならくの底に\n　落ちるんじゃねぇのか？」",
-  "en": ""
+  "en": "\"{bb}Fukota{ww}, who lives in this house, drops his money, falls down wells,\"{KP}\"falls into the outhouse... He's a walking lump of bad luck, but\"{KP}\"you won't believe it: I hear he's fallen in love!\"{KP}\"Before he gets her to fall for him, won't he just fall into a bottomless pit himself?\""
  },
  {
   "id": "GSV0600D/34/015C",
   "kind": "msg",
   "jp": "「びっくら　こいた　ことに\n　{bb}不幸太{ww}の　恋が　\n　実ったんだってよ！」{KP}\n　\n「それも　村一番の　美人の\n　{bb}カレンちゃん{ww}　だってよ！\n　びっくら　こいたなぁ」{KP}\n　\n「おいらも　がんばろう！」\n　\n　",
-  "en": ""
+  "en": "\"You won't believe it: I hear {bb}Fukota{ww}'s love paid off!\"{KP}\"And with {bb}Karen-chan{ww}, the prettiest girl in the village! Can you believe it?\"{KP}\"I'd better give it my all too!\""
  },
  {
   "id": "GSV0600D/35/0010",
   "kind": "msg",
   "jp": "「ひさしぶりじゃな　桃太郎！\n　ここは　満開の　サクラが\n　じまんの　花咲かの村じゃ」{KP}\n　\n「……と　言いたいところじゃが\n　今は　ごらんの　ありさまじゃ」\n　",
-  "en": ""
+  "en": "\"Long time no see, Momotaro! This is Hanasaka Village, famous for its cherry trees in full bloom.\"{KP}\"...Or so I'd like to say, but as you can see, this is the state of things now.\""
  },
  {
   "id": "GSV0600D/35/00CA",
   "kind": "msg",
   "jp": "「ひさしぶりじゃな　桃太郎\n　ここは　満開の　サクラが\n　じまんの　花咲かの村じゃ」",
-  "en": ""
+  "en": "\"Long time no see, Momotaro. This is Hanasaka Village, famous for its cherry trees in full bloom.\""
  },
  {
   "id": "GSV0600D/36/0010",
   "kind": "msg",
   "jp": "「こまったなぁ……」\n　\n　{KP}\n「サクラが　散ってしまったら\n　花見客が　来なくなってしまって\n　商売あがったりだよ」{KP}\n　\n「それにしても　あの雲は\n　なんだったんだ……\n　ちくしょうめ！」",
-  "en": ""
+  "en": "\"What a mess......\"{KP}\"With the cherry blossoms all fallen, the blossom viewers stopped coming, and business has dried up.\"{KP}\"And what was that cloud, anyway...... Blast it all!\""
  },
  {
   "id": "GSV0600D/36/00EC",
   "kind": "msg",
   "jp": "「いやー\n　よかった　よかった…」\n　{KP}\n「これで　花見客も　\n　どっと　おしよせて\n　おいらも　どっと　もうかって…」{KP}\n　\n「いやー\n　よかった　よかった…」\n　",
-  "en": ""
+  "en": "\"Well, well, that's a relief, a relief...\"{KP}\"Now the blossom viewers'll come flooding in, and I'll be flooded with money...\"{KP}\"Well, well, that's a relief, a relief...\""
  },
  {
   "id": "GSV0600D/37/006C",
   "kind": "msg",
   "jp": "「あっ　桃太郎さん！\n　おひさしぶりですね！」\n　{KP}\n「鬼退治の　旅は\n　楽しかったですね！」\n　{KP}\n「あれから　平和な　暮らしを\n　おくってきましたが…」\n　{KP}\n「見てください！！\n　まわりの木を……」\n　{KP}\n「昨日　小さな２つの雲が\n　村の中を　もうスピードで\n　あばれまわったので」{KP}\n　\n「サクラが　みんな　散って\n　しまい　せっかくの\n　花見祭りも　だいなしです！」{KP}\n　\n「こんな時こそ\n　{bb}花咲かじいさん{ww}の　出番\n　なのですが…」{KP}\n　\n「昨日から　すがたが\n　見えないので　今　さがして\n　いるところなのです！」",
-  "en": ""
+  "en": "\"Ah, Momotaro-san! It's been a long time!\"{KP}\"Our journey to defeat the oni sure was fun!\"{KP}\"I've been living a peaceful life since then, but...\"{KP}\"Look!! At the trees all around......\"{KP}\"Yesterday, two little clouds rampaged through the village at top speed,\"{KP}\"and all the cherry blossoms fell. Our Blossom Festival is ruined!\"{KP}\"This is exactly when {bb}Old Man Hanasaka{ww} should step in, but...\"{KP}\"No one's seen him since yesterday, so we're searching for him right now!\""
  },
  {
   "id": "GSV0600D/37/02B0",
   "kind": "msg",
   "jp": "「あれ？」\n　\n　{KP}\n「うしろに　いるのは\n　よしきちくん　ですね！」\n　",
-  "en": ""
+  "en": "\"Oh?\"{KP}\"Isn't that Yoshikichi-kun behind you?\""
  },
  {
   "id": "GSV0600D/37/031C",
   "kind": "msg",
   "jp": "「うん…　おかあちゃんが\n　いなくなったんだ！」\n　{KP}\n「だから　桃太郎さんに\n　おかあちゃん　さがしを\n　手伝って　もらってんだ！」",
-  "en": ""
+  "en": "\"Yeah... my mom's gone missing!\"{KP}\"So Momotaro-san is helping me look for my mom!\""
  },
  {
   "id": "GSV0600D/37/03B6",
   "kind": "msg",
   "jp": "「そうですか……\n　桃太郎さんも　ご苦労さま\n　です！」{KP}\n　\n「それでは　わたしは\n　{bb}花咲かじいさん{ww}を　さがしに\n　行ってまいります！」{KP}\n　\n「申しわけありませんが\n　これで　失礼します！」\n　",
-  "en": ""
+  "en": "\"I see...... Thank you for your trouble too, Momotaro-san!\"{KP}\"Well then, I'll go look for {bb}Old Man Hanasaka{ww}!\"{KP}\"I'm terribly sorry, but I must be going!\""
  },
  {
   "id": "GSV0600D/38/002C",
   "kind": "msg",
   "jp": "「やあ　やあ　桃太郎さん！\n　準備が　できましたよ！」\n　",
-  "en": ""
+  "en": "\"Well, well, Momotaro-san! Everything's ready!\""
  },
  {
   "id": "GSV0600D/38/0072",
   "kind": "msg",
   "jp": "「桃太郎さーん！」\n　\n　",
-  "en": ""
+  "en": "\"Momotaro-saaan!\""
  },
  {
   "id": "GSV0600D/38/00B4",
   "kind": "msg",
   "jp": "「花咲かじいさんを\n　さがしだしていただき\n　ありがとうございました！」{KP}\n　\n「さすがは　ボクらの\n　桃太郎さんですね！」\n　",
-  "en": ""
+  "en": "\"Thank you for finding Old Man Hanasaka for us!\"{KP}\"That's our Momotaro-san for you!\""
  },
  {
   "id": "GSV0600D/38/016C",
   "kind": "msg",
   "jp": "「さあ！　それでは　みんなで\n　枯れ木に　花を\n　咲かせましょうかのォ！」",
-  "en": ""
+  "en": "\"Now then! Shall we all make the dead trees bloom, eh!\""
  },
  {
   "id": "GSV0600D/38/03CE",
   "kind": "msg",
   "jp": "「わー！　さすがは\n　花咲かじいさん！」\n　{KP}\n「やっぱり　花咲かの村は\n　こうでなくてはね！」\n　",
-  "en": ""
+  "en": "\"Wow! That's Old Man Hanasaka for you!\"{KP}\"Hanasaka Village just has to look like this!\""
  },
  {
   "id": "GSV0600D/38/0442",
   "kind": "msg",
   "jp": "「はっはっはっ\n　ちと　気合いを\n　入れすぎたかのォ」{KP}\n　\n「つかれた時は　{bb}金太アメ{ww}を\n　なめたいがのォ……\n　今は　きらしてしもうた！」{KP}\n　\n「あの　あまさは　つかれを\n　ふきとばして　くれるでのォ」\n　{KP}\n「おお　そうじゃ！　イヌよ\n　{bb}金太郎さん{ww}の　ところに\n　行って」{KP}\n　\n「前に　頼んでおいた　\n　{bb}金太アメ{ww}を　もらってきて\n　おくれ！」{KP}\n　\n「桃太郎さんも　いることだし\n　ひさしぶりに　旅の　おともを\n　させてもらうが　よいじゃろ」",
-  "en": ""
+  "en": "\"Ha ha ha! Perhaps I put a bit too much spirit into it, eh.\"{KP}\"When I'm tired, I like to suck on some {bb}Kinta Candy{ww}... but I've run out!\"{KP}\"That sweetness just blows the tiredness away, you see.\"{KP}\"Oh, I know! Dog, go to {bb}Kintaro-san{ww}'s place\"{KP}\"and fetch the {bb}Kinta Candy{ww} I asked him for a while back!\"{KP}\"With Momotaro-san here, you may as well keep him company on his travels again, after all this time.\""
  },
  {
   "id": "GSV0600D/38/063C",
   "kind": "msg",
   "jp": "「えっ！　旅に　出て\n　いいのですか？」\n　{KP}\n「桃太郎さん！　ボクと\n　{bb}金太郎の村{ww}に　行って\n　いただけますか？」{KN}",
-  "en": ""
+  "en": "\"Huh?! I can go on a journey?\"{KP}\"Momotaro-san! Will you go to {bb}Kintaro Village{ww} with me?\"{KN}"
  },
  {
   "id": "GSV0600D/38/06DA",
   "kind": "msg",
   "jp": "　\n「わーい\n　ありがとうございます！」\n　",
-  "en": ""
+  "en": "\"Yaaay! Thank you so much!\""
  },
  {
   "id": "GSV0600D/38/0718",
   "kind": "msg",
   "jp": "{bb}イヌ{ww}が\n仲間に　くわわった！\n　{KN}",
-  "en": ""
+  "en": "{bb}Dog{ww} joined the party!{KN}"
  },
  {
   "id": "GSV0600D/38/0752",
   "kind": "msg",
   "jp": "「よろしく　お願いしますよ！\n　桃太郎さん！」\n　",
-  "en": ""
+  "en": "\"I'm counting on you, Momotaro-san!\""
  },
  {
   "id": "GSV0600D/38/0794",
   "kind": "msg",
   "jp": "「行ってきますワン！」\n　\n　",
-  "en": ""
+  "en": "\"I'm off, woof!\""
  },
  {
   "id": "GSV0600D/38/07D8",
   "kind": "msg",
   "jp": "　\n「ええっ！\n　ごめいわくは\n　おかけしませんから」{KN}",
-  "en": ""
+  "en": "\"What?! But I promise I won't be any trouble\"{KN}"
  }
 ]

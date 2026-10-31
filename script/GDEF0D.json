@@ -3,1152 +3,1152 @@
   "id": "GDEF0D/0/005A",
   "kind": "msg",
   "jp": "桃太郎さん！\n今は　使えませんよ！\n　",
-  "en": ""
+  "en": "Momotaro-san! You can't use that right now!"
  },
  {
   "id": "GDEF0D/0/0092",
   "kind": "msg",
   "jp": "行き先が　わからない！",
-  "en": ""
+  "en": "You don't know where to go!"
  },
  {
   "id": "GDEF0D/0/00B6",
   "kind": "msg",
   "jp": "わたす　相手が\nちがう！",
-  "en": ""
+  "en": "That's not the right person to give it to!"
  },
  {
   "id": "GDEF0D/0/00DE",
   "kind": "msg",
   "jp": "桃太郎は\n足もとを　しらべた！\n　{KP}\nしかし　気になるものは\n何もなかった！\n　",
-  "en": ""
+  "en": "Momotaro examined the ground at his feet!{KP}But there was nothing of interest!"
  },
  {
   "id": "GDEF0D/0/0144",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}{MM}{ww}を　すてた！\n　",
-  "en": ""
+  "en": "Momotaro threw away {bb}{MM}{ww}!"
  },
  {
   "id": "GDEF0D/0/0176",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}{MM}{ww}を　使った！\n　",
-  "en": ""
+  "en": "Momotaro used {bb}{MM}{ww}!"
  },
  {
   "id": "GDEF0D/0/01A4",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}{MM}{ww}を　わたした！\n　",
-  "en": ""
+  "en": "Momotaro handed over {bb}{MM}{ww}!"
  },
  {
   "id": "GDEF0D/0/01D4",
   "kind": "msg",
   "jp": "なんかの術をつかった！",
-  "en": ""
+  "en": "He used some kind of art!"
  },
  {
   "id": "GDEF0D/0/01F8",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}{MM}{ww}を　使った！\n　{KP}\nしかし\n何も　おこらなかった！\n　",
-  "en": ""
+  "en": "Momotaro used {bb}{MM}{ww}!{KP}But nothing happened!"
  },
  {
   "id": "GDEF0D/0/02BA",
   "kind": "msg",
   "jp": "言葉が　通じなかった！\n　\n　",
-  "en": ""
+  "en": "His words didn't get through!"
  },
  {
   "id": "GDEF0D/0/02EA",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}{MM}{ww}を　ぬいだ！\n　",
-  "en": ""
+  "en": "Momotaro took off {bb}{MM}{ww}!"
  },
  {
   "id": "GDEF0D/2/0002",
   "kind": "msg",
   "jp": "桃太郎は\n足もとを　しらべた！\n　",
-  "en": ""
+  "en": "Momotaro examined the ground at his feet!"
  },
  {
   "id": "GDEF0D/2/0034",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}{MM}{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got {bb}{MM}{ww}!{KN}"
  },
  {
   "id": "GDEF0D/3/0010",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}{MM}{ww}を\nしまおうとして{KP}\n　\n持ち物が\nいっぱいなのに　きがついた！\n何か　すてますか？{KN}",
-  "en": ""
+  "en": "Momotaro tried to put away {bb}{MM}{ww}...{KP}but realized he was carrying too much! Throw something away?{KN}"
  },
  {
   "id": "GDEF0D/3/009E",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}{MM}{ww}を\nあきらめた！",
-  "en": ""
+  "en": "Momotaro gave up on {bb}{MM}{ww}!"
  },
  {
   "id": "GDEF0D/4/0002",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}{MM}{ww}を　あきらめた！\n　",
-  "en": ""
+  "en": "Momotaro gave up on {bb}{MM}{ww}!"
  },
  {
   "id": "GDEF0D/5/0002",
   "kind": "msg",
   "jp": "桃太郎は\nつづらをあけた！\n　",
-  "en": ""
+  "en": "Momotaro opened the wicker chest!"
  },
  {
   "id": "GDEF0D/5/0032",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}{MM}{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got {bb}{MM}{ww}!{KN}"
  },
  {
   "id": "GDEF0D/6/0002",
   "kind": "msg",
   "jp": "桃太郎は\n足もとを　しらべた！\n　",
-  "en": ""
+  "en": "Momotaro examined the ground at his feet!"
  },
  {
   "id": "GDEF0D/6/003C",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}{R0}両{ww}を　手に入れた！\n　",
-  "en": ""
+  "en": "Momotaro got {bb}{R0} ryo{ww}!"
  },
  {
   "id": "GDEF0D/7/0002",
   "kind": "msg",
   "jp": "桃太郎は\nつづらをあけた！\n　",
-  "en": ""
+  "en": "Momotaro opened the wicker chest!"
  },
  {
   "id": "GDEF0D/7/003A",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}{R0}両{ww}を　手に入れた！\n　",
-  "en": ""
+  "en": "Momotaro got {bb}{R0} ryo{ww}!"
  },
  {
   "id": "GDEF0D/9/0006",
   "kind": "msg",
   "jp": "「いらっしゃーい！\n　{MM}に　ようこそ！」\n　{KP}\n「どんな　ご用ですか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Welcooome! Welcome to {MM}!\"{KP}\"What can I do for you?\"{KN}"
  },
  {
   "id": "GDEF0D/10/0000",
   "kind": "msg",
   "jp": "　\n「何を　おもとめですか？」\n　\n　　　　　　△やめる",
-  "en": ""
+  "en": "\"What are you looking for?\"{n}Triangle: Cancel"
  },
  {
   "id": "GDEF0D/11/0000",
   "kind": "msg",
   "jp": "「お金が\n　足りませんよ！」\n　",
-  "en": ""
+  "en": "\"You don't have enough money!\""
  },
  {
   "id": "GDEF0D/12/0000",
   "kind": "msg",
   "jp": "「これ以上\n　持てませんよ！」\n　",
-  "en": ""
+  "en": "\"You can't carry any more!\""
  },
  {
   "id": "GDEF0D/13/0000",
   "kind": "msg",
   "jp": "　\n「{oo}{MM}　{ww}ですね？\n　{R0}両に　なりますが\n　よろしいですか？」{KN}",
-  "en": ""
+  "en": "\"{oo}{MM}{ww}, is it? That'll be {R0} ryo. Is that all right?\"{KN}"
  },
  {
   "id": "GDEF0D/14/0000",
   "kind": "msg",
   "jp": "　\n「何を　売って\n　もらえるのですか？」\n　　　　　　△やめる",
-  "en": ""
+  "en": "\"What would you like to sell me?\"{n}Triangle: Cancel"
  },
  {
   "id": "GDEF0D/15/0000",
   "kind": "msg",
   "jp": "　\n「何も　持っていないじゃ\n　ありませんか？」\n　",
-  "en": ""
+  "en": "\"But you don't have anything, do you?\""
  },
  {
   "id": "GDEF0D/16/0000",
   "kind": "msg",
   "jp": "　\n「ありがとうございました！」\n　\n　",
-  "en": ""
+  "en": "\"Thank you very much!\""
  },
  {
   "id": "GDEF0D/17/0000",
   "kind": "msg",
   "jp": "「他に　何か\n　ご用は　ありますか？」\n　{KN}",
-  "en": ""
+  "en": "\"Is there anything else I can do for you?\"{KN}"
  },
  {
   "id": "GDEF0D/19/0000",
   "kind": "msg",
   "jp": "　\n「桃太郎さん！\n　お金が　いっぱいなので\n　買い取れませんよ！」",
-  "en": ""
+  "en": "\"Momotaro-san! Your purse is full, so I can't buy anything from you!\""
  },
  {
   "id": "GDEF0D/20/0006",
   "kind": "msg",
   "jp": "「いらっしゃーい！\n　{MM}に　ようこそ！」\n　{KP}\n「どんな　ご用ですか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Welcooome! Welcome to {MM}!\"{KP}\"What can I do for you?\"{KN}"
  },
  {
   "id": "GDEF0D/21/0000",
   "kind": "msg",
   "jp": "　\n「何を　おもとめですか？」\n　\n　　　　　　△やめる",
-  "en": ""
+  "en": "\"What are you looking for?\"{n}Triangle: Cancel"
  },
  {
   "id": "GDEF0D/22/0000",
   "kind": "msg",
   "jp": "「お金が\n　足りませんよ！」\n　",
-  "en": ""
+  "en": "\"You don't have enough money!\""
  },
  {
   "id": "GDEF0D/23/0000",
   "kind": "msg",
   "jp": "「これ以上\n　持てませんよ！」\n　",
-  "en": ""
+  "en": "\"You can't carry any more!\""
  },
  {
   "id": "GDEF0D/24/0000",
   "kind": "msg",
   "jp": "　\n「{oo}{MM}　{ww}ですね？\n　{R0}両に　なりますが\n　よろしいですか？」{KN}",
-  "en": ""
+  "en": "\"{oo}{MM}{ww}, is it? That'll be {R0} ryo. Is that all right?\"{KN}"
  },
  {
   "id": "GDEF0D/25/0000",
   "kind": "msg",
   "jp": "　\n「何を　売って\n　もらえるのですか？」\n　　　　　　△やめる",
-  "en": ""
+  "en": "\"What would you like to sell me?\"{n}Triangle: Cancel"
  },
  {
   "id": "GDEF0D/26/0000",
   "kind": "msg",
   "jp": "　\n「何も　持っていないじゃ\n　ありませんか？」\n　",
-  "en": ""
+  "en": "\"But you don't have anything, do you?\""
  },
  {
   "id": "GDEF0D/27/0000",
   "kind": "msg",
   "jp": "　\n「ありがとうございました！」\n　\n　",
-  "en": ""
+  "en": "\"Thank you very much!\""
  },
  {
   "id": "GDEF0D/28/0000",
   "kind": "msg",
   "jp": "「他に　何か\n　ご用は　ありますか？」\n　{KN}",
-  "en": ""
+  "en": "\"Is there anything else I can do for you?\"{KN}"
  },
  {
   "id": "GDEF0D/30/0000",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　お金が　いっぱいなので\n　買い取れませんよ！」",
-  "en": ""
+  "en": "\"Momotaro-san! Your purse is full, so I can't buy anything from you!\""
  },
  {
   "id": "GDEF0D/31/0006",
   "kind": "msg",
   "jp": "「いらっしゃーい！\n　{MM}に　ようこそ！」\n　{KP}\n「どんな　ご用ピョン？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Welcooome! Welcome to {MM}!\"{KP}\"What can I do for you, hop?\"{KN}"
  },
  {
   "id": "GDEF0D/32/0000",
   "kind": "msg",
   "jp": "　\n「何を　おもとめですピョン？」\n　\n　　　　　　△やめる",
-  "en": ""
+  "en": "\"What are you looking for, hop?\"{n}Triangle: Cancel"
  },
  {
   "id": "GDEF0D/33/0000",
   "kind": "msg",
   "jp": "「お金が\n　足りないピョン！」\n　",
-  "en": ""
+  "en": "\"You don't have enough money, hop!\""
  },
  {
   "id": "GDEF0D/34/0000",
   "kind": "msg",
   "jp": "「これ以上\n　持てないピョン！」\n　",
-  "en": ""
+  "en": "\"You can't carry any more, hop!\""
  },
  {
   "id": "GDEF0D/35/0000",
   "kind": "msg",
   "jp": "　\n「{oo}{MM}　{ww}ですね？\n　{R0}両になりますが\n　よろしいピョン？」{KN}",
-  "en": ""
+  "en": "\"{oo}{MM}{ww}, is it? That'll be {R0} ryo. Is that all right, hop?\"{KN}"
  },
  {
   "id": "GDEF0D/36/0000",
   "kind": "msg",
   "jp": "　\n「何を　売って\n　もらえるピョン？」\n　　　　　　△やめる",
-  "en": ""
+  "en": "\"What will you sell me, hop?\"{n}Triangle: Cancel"
  },
  {
   "id": "GDEF0D/37/0000",
   "kind": "msg",
   "jp": "　\n「何も　持っていないピョン？」\n　\n　",
-  "en": ""
+  "en": "\"You don't have anything, hop?\""
  },
  {
   "id": "GDEF0D/38/0000",
   "kind": "msg",
   "jp": "「ありがとうピョン！」\n　\n　",
-  "en": ""
+  "en": "\"Thank you, hop!\""
  },
  {
   "id": "GDEF0D/39/0000",
   "kind": "msg",
   "jp": "「他に　何か\n　ご用は　あるピョン？」\n　{KN}",
-  "en": ""
+  "en": "\"Anything else I can do for you, hop?\"{KN}"
  },
  {
   "id": "GDEF0D/41/0000",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　お金が　いっぱいなので\n　買い取れないピョン！」",
-  "en": ""
+  "en": "\"Momotaro-san! Your purse is full, so I can't buy anything from you, hop!\""
  },
  {
   "id": "GDEF0D/42/0006",
   "kind": "msg",
   "jp": "「いらっしゃ～い！\n　貸衣装屋に　ようこそ！」\n　{KP}\n「おしゃれな　あなたも\n　こいきに　ドレスアップ！」\n　{KN}",
-  "en": ""
+  "en": "\"Welcooome! Welcome to the costume rental shop!\"{KP}\"Stylish folks like you can dress up in style!\"{KN}"
  },
  {
   "id": "GDEF0D/43/0000",
   "kind": "msg",
   "jp": "「どの　衣装を\n　お貸ししましょうか？」\n　　　　　　△やめる",
-  "en": ""
+  "en": "\"Which costume shall I rent you?\"{n}Triangle: Cancel"
  },
  {
   "id": "GDEF0D/44/0000",
   "kind": "msg",
   "jp": "「お金が\n　足りませんよ！」\n　",
-  "en": ""
+  "en": "\"You don't have enough money!\""
  },
  {
   "id": "GDEF0D/45/0000",
   "kind": "msg",
   "jp": "「これ以上\n　持てませんよ！」\n　",
-  "en": ""
+  "en": "\"You can't carry any more!\""
  },
  {
   "id": "GDEF0D/46/0000",
   "kind": "msg",
   "jp": "「{oo}{MM}{ww}は　{R0}両です！\n　よろしいですか？」\n　{KN}",
-  "en": ""
+  "en": "\"{oo}{MM}{ww} is {R0} ryo! Is that all right?\"{KN}"
  },
  {
   "id": "GDEF0D/47/0000",
   "kind": "msg",
   "jp": "　\n「何を　売って\n　もらえるのですか？」\n　　　　　　△やめる",
-  "en": ""
+  "en": "\"What would you like to sell me?\"{n}Triangle: Cancel"
  },
  {
   "id": "GDEF0D/48/0010",
   "kind": "msg",
   "jp": "「ほほえみの村から　出ると\n　元に　もどるから　気をつけて！」\n　{KP}\n「それでは　ご自由に\n　楽しんでください！」\n　",
-  "en": ""
+  "en": "\"Careful! You'll change back once you leave Hohoemi Village!\"{KP}\"Now then, enjoy yourself as you please!\""
  },
  {
   "id": "GDEF0D/48/009C",
   "kind": "msg",
   "jp": "「ひょっとこの村から　出ると\n　元に　もどるから　気をつけて！」\n　{KP}\n「それでは　ご自由に\n　楽しんでください！」\n　",
-  "en": ""
+  "en": "\"Careful! You'll change back once you leave Hyottoko Village!\"{KP}\"Now then, enjoy yourself as you please!\""
  },
  {
   "id": "GDEF0D/48/012A",
   "kind": "msg",
   "jp": "「希望の都から　出ると\n　元に　もどるから　気をつけて！」\n　{KP}\n「それでは　ご自由に\n　楽しんでください！」\n　",
-  "en": ""
+  "en": "\"Careful! You'll change back once you leave the Capital of Hope!\"{KP}\"Now then, enjoy yourself as you please!\""
  },
  {
   "id": "GDEF0D/49/0000",
   "kind": "msg",
   "jp": "「また　どうぞー！」\n　\n　",
-  "en": ""
+  "en": "\"Come agaaain!\""
  },
  {
   "id": "GDEF0D/50/0000",
   "kind": "msg",
   "jp": "「ほかに　何か\n　ご用は　ありますか？」\n　{KN}",
-  "en": ""
+  "en": "\"Is there anything else I can do for you?\"{KN}"
  },
  {
   "id": "GDEF0D/52/0000",
   "kind": "msg",
   "jp": "「桃太郎さん　\n　お金が　いっぱいで\n　買い取れませんよ！」",
-  "en": ""
+  "en": "\"Momotaro-san, your purse is full, so I can't buy anything from you!\""
  },
  {
   "id": "GDEF0D/53/000E",
   "kind": "msg",
   "jp": "「いらっしゃいませ　桃太郎さん！\n　この宿は　１００両で　泊まれます！\n　泊まっていきなさるか？」{KN}",
-  "en": ""
+  "en": "\"Welcome, Momotaro-san! A night at this inn is 100 ryo! Will you be stopping the night?\"{KN}"
  },
  {
   "id": "GDEF0D/53/009C",
   "kind": "msg",
   "jp": "　\n「それは　残念ですね！\n　またのおこしを！」\n　",
-  "en": ""
+  "en": "\"That's a shame! Do come again!\""
  },
  {
   "id": "GDEF0D/53/0126",
   "kind": "msg",
   "jp": "　\n「では　ごゆっくりと！」\n　\n　",
-  "en": ""
+  "en": "\"Then please, take your time and rest!\""
  },
  {
   "id": "GDEF0D/53/01B2",
   "kind": "msg",
   "jp": "　\n桃太郎は　枕元にあった\n{bb}１２０両{ww}を　手に入れた！\n　",
-  "en": ""
+  "en": "Momotaro got the {bb}120 ryo{ww} that was by his pillow!"
  },
  {
   "id": "GDEF0D/53/0250",
   "kind": "msg",
   "jp": "「ありがとうございました！\n　また　おこしください！」\n　",
-  "en": ""
+  "en": "\"Thank you very much! Please come again!\""
  },
  {
   "id": "GDEF0D/53/02A8",
   "kind": "msg",
   "jp": "　\n「桃太郎さん！\n　お金が　足りませんよ！」\n　",
-  "en": ""
+  "en": "\"Momotaro-san! You don't have enough money!\""
  },
  {
   "id": "GDEF0D/54/000E",
   "kind": "msg",
   "jp": "「いらっしゃいませ　桃太郎さん！\n　この宿は　１００両で　泊まれます！\n　泊まっていきますか？」{KN}",
-  "en": ""
+  "en": "\"Welcome, Momotaro-san! A night at this inn is 100 ryo! Will you be staying?\"{KN}"
  },
  {
   "id": "GDEF0D/54/009A",
   "kind": "msg",
   "jp": "　\n「それは　残念ですね！\n　またのおこしを！」\n　",
-  "en": ""
+  "en": "\"That's a shame! Do come again!\""
  },
  {
   "id": "GDEF0D/54/0124",
   "kind": "msg",
   "jp": "　\n「では　ごゆっくりと！」\n　\n　",
-  "en": ""
+  "en": "\"Then please, take your time and rest!\""
  },
  {
   "id": "GDEF0D/54/01AC",
   "kind": "msg",
   "jp": "「桃太郎さん　{bb}レッツ！まくらなげ{ww}を\n　しませんか？」\n　{KN}",
-  "en": ""
+  "en": "\"Momotaro-san, how about a game of {bb}Let's! Pillow Fight{ww}?\"{KN}"
  },
  {
   "id": "GDEF0D/54/0208",
   "kind": "msg",
   "jp": "「残念ですね！\n　また　この次にでも！」\n　",
-  "en": ""
+  "en": "\"That's a shame! Maybe next time, then!\""
  },
  {
   "id": "GDEF0D/54/026A",
   "kind": "msg",
   "jp": "「遊び方の説明を　聞きますか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Would you like to hear how to play?\"{KN}"
  },
  {
   "id": "GDEF0D/54/0324",
   "kind": "msg",
   "jp": "「ありがとうございました！\n　また　おこしください！」\n　",
-  "en": ""
+  "en": "\"Thank you very much! Please come again!\""
  },
  {
   "id": "GDEF0D/54/037C",
   "kind": "msg",
   "jp": "　\n「桃太郎さん！\n　お金が　足りませんよ！」\n　",
-  "en": ""
+  "en": "\"Momotaro-san! You don't have enough money!\""
  },
  {
   "id": "GDEF0D/55/001E",
   "kind": "msg",
   "jp": "「いらっしゃいませ　桃太郎さん！\n　お休みしますか？　それとも\n　お泊りに　なりますか？」{KP}\n　\n「お休みは　５０両　\n　お泊りは　１００両です！\n　いかがいたしますか？」{KN}",
-  "en": ""
+  "en": "\"Welcome, Momotaro-san! Would you like a rest, or will you be staying the night?\"{KP}\"A rest is 50 ryo and a night's stay is 100 ryo! What would you like?\"{KN}"
  },
  {
   "id": "GDEF0D/55/0154",
   "kind": "msg",
   "jp": "　\n「では　ごゆっくりと！」\n　\n　",
-  "en": ""
+  "en": "\"Then please, take your time and rest!\""
  },
  {
   "id": "GDEF0D/55/035E",
   "kind": "msg",
   "jp": "「桃太郎さん　{bb}レッツ！まくらなげ{ww}を\n　しませんか？」\n　{KN}",
-  "en": ""
+  "en": "\"Momotaro-san, how about a game of {bb}Let's! Pillow Fight{ww}?\"{KN}"
  },
  {
   "id": "GDEF0D/55/03BA",
   "kind": "msg",
   "jp": "「残念ですね！\n　また　この次にでも！」\n　",
-  "en": ""
+  "en": "\"That's a shame! Maybe next time, then!\""
  },
  {
   "id": "GDEF0D/55/041E",
   "kind": "msg",
   "jp": "「遊び方の説明を　聞きますか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Would you like to hear how to play?\"{KN}"
  },
  {
   "id": "GDEF0D/55/04D8",
   "kind": "msg",
   "jp": "「ありがとうございました！\n　また　おこしください！」\n　",
-  "en": ""
+  "en": "\"Thank you very much! Please come again!\""
  },
  {
   "id": "GDEF0D/55/0530",
   "kind": "msg",
   "jp": "　\n「それは残念ですね！\n　またのおこしを！」\n　",
-  "en": ""
+  "en": "\"That's a shame! Do come again!\""
  },
  {
   "id": "GDEF0D/55/0588",
   "kind": "msg",
   "jp": "　\n「桃太郎さん！\n　お金が　足りませんよ！」\n　",
-  "en": ""
+  "en": "\"Momotaro-san! You don't have enough money!\""
  },
  {
   "id": "GDEF0D/56/0004",
   "kind": "msg",
   "jp": "「いらっしゃいませ！\n　美術品の　鑑定料は\n　５０両じゃが　よろしいかな？」{KN}",
-  "en": ""
+  "en": "\"Welcome! My fee for appraising works of art is 50 ryo. Is that all right?\"{KN}"
  },
  {
   "id": "GDEF0D/57/0000",
   "kind": "msg",
   "jp": "　\n「残念ですな！\n　またのおこしを！」\n　",
-  "en": ""
+  "en": "\"A pity! Do come again!\""
  },
  {
   "id": "GDEF0D/58/0000",
   "kind": "msg",
   "jp": "　\n「桃太郎さん！　お金が\n　足りないようですな！\n　またのおこしを！」",
-  "en": ""
+  "en": "\"Momotaro-san! Looks like you're short of money! Do come again!\""
  },
  {
   "id": "GDEF0D/59/0000",
   "kind": "msg",
   "jp": "　\n「桃太郎さん！\n　鑑定する　美術品が\n　ないですぞ！」",
-  "en": ""
+  "en": "\"Momotaro-san! You've no works of art for me to appraise!\""
  },
  {
   "id": "GDEF0D/60/0000",
   "kind": "msg",
   "jp": "「またのおこしを！」\n　\n　",
-  "en": ""
+  "en": "\"Do come again!\""
  },
  {
   "id": "GDEF0D/61/0000",
   "kind": "msg",
   "jp": "「どの美術品を\n　鑑定されますかな？」\n　{KN}",
-  "en": ""
+  "en": "\"Which work of art shall I appraise?\"{KN}"
  },
  {
   "id": "GDEF0D/62/001A",
   "kind": "msg",
   "jp": "「{oo}{MM}　{ww}か…\n　これは　{R1}両じゃな！\n　持っていても　仕方ないのォ！」",
-  "en": ""
+  "en": "\"{oo}{MM}{ww}, eh... This is worth {R1} ryo! Not much use keeping it, I'm afraid!\""
  },
  {
   "id": "GDEF0D/62/0070",
   "kind": "msg",
   "jp": "「{oo}{MM}　{ww}か…\n　これは　{R1}両じゃよ！\n　とても　ええものじゃよ！」",
-  "en": ""
+  "en": "\"{oo}{MM}{ww}, eh... This is worth {R1} ryo! A very fine piece indeed!\""
  },
  {
   "id": "GDEF0D/63/0000",
   "kind": "msg",
   "jp": "「他の　美術品も\n　鑑定されますかな？」\n　{KN}",
-  "en": ""
+  "en": "\"Shall I appraise any other works of art?\"{KN}"
  },
  {
   "id": "GDEF0D/64/0000",
   "kind": "msg",
   "jp": "「{oo}{MM}　{ww}は　すでに\n　鑑定ずみじゃ！\n　値段は　{R1}両じゃな！」",
-  "en": ""
+  "en": "\"I've already appraised {oo}{MM}{ww}! It's worth {R1} ryo!\""
  },
  {
   "id": "GDEF0D/65/000A",
   "kind": "msg",
   "jp": "桃太郎は　{bb}ほうひの術{ww}を\n使った！　ぶーすーぴー！",
-  "en": ""
+  "en": "Momotaro used the {bb}Fart art{ww}! Brrp-fsss-pfft!"
  },
  {
   "id": "GDEF0D/65/01C6",
   "kind": "msg",
   "jp": "「くさいですよ！」\n　\n　",
-  "en": ""
+  "en": "\"Pee-yew, that stinks!\""
  },
  {
   "id": "GDEF0D/65/01F6",
   "kind": "msg",
   "jp": "「くさいですよ！」\n　\n　",
-  "en": ""
+  "en": "\"Pee-yew, that stinks!\""
  },
  {
   "id": "GDEF0D/65/0234",
   "kind": "msg",
   "jp": "「桃太郎さん　くさいワン！」\n　\n　",
-  "en": ""
+  "en": "\"Momotaro-san, you stink, woof!\""
  },
  {
   "id": "GDEF0D/65/0282",
   "kind": "msg",
   "jp": "「キャイン　キャイン！」\n　\n　",
-  "en": ""
+  "en": "\"Yelp! Yelp!\""
  },
  {
   "id": "GDEF0D/65/02C6",
   "kind": "msg",
   "jp": "「桃太郎さん　くさいニャ！」\n　\n　",
-  "en": ""
+  "en": "\"Momotaro-san, you stink, meow!\""
  },
  {
   "id": "GDEF0D/65/030C",
   "kind": "msg",
   "jp": "「フニャッ！」\n　\n　",
-  "en": ""
+  "en": "\"Fnyah!\""
  },
  {
   "id": "GDEF0D/65/0338",
   "kind": "msg",
   "jp": "「ンモ～ッ！」\n　\n　",
-  "en": ""
+  "en": "\"Mooooo!\""
  },
  {
   "id": "GDEF0D/65/0372",
   "kind": "msg",
   "jp": "「桃太郎さん　くさいケロ！」\n　\n　",
-  "en": ""
+  "en": "\"Momotaro-san, you stink, ribbit!\""
  },
  {
   "id": "GDEF0D/65/03AC",
   "kind": "msg",
   "jp": "「ケロロッ！」\n　\n　",
-  "en": ""
+  "en": "\"Ribbit-ribbit!\""
  },
  {
   "id": "GDEF0D/65/03DC",
   "kind": "msg",
   "jp": "「コ　コケッ！」\n　\n　",
-  "en": ""
+  "en": "\"Cl-cluck!\""
  },
  {
   "id": "GDEF0D/65/0418",
   "kind": "msg",
   "jp": "「キャ　キャッ！\n　桃太郎さん　くさいですよ！」\n　",
-  "en": ""
+  "en": "\"Eek, eek! Momotaro-san, you stink!\""
  },
  {
   "id": "GDEF0D/65/0476",
   "kind": "msg",
   "jp": "「キャ　キャッ！」\n　\n　",
-  "en": ""
+  "en": "\"Eek, eek!\""
  },
  {
   "id": "GDEF0D/65/04A6",
   "kind": "msg",
   "jp": "「桃太郎　はしたないぞ！」\n　\n　",
-  "en": ""
+  "en": "\"Momotaro! How rude!\""
  },
  {
   "id": "GDEF0D/65/04DE",
   "kind": "msg",
   "jp": "「桃太郎　はしたないぞ！」\n　\n　",
-  "en": ""
+  "en": "\"Momotaro! How rude!\""
  },
  {
   "id": "GDEF0D/65/0516",
   "kind": "msg",
   "jp": "「桃太郎　はしたないですよ！」\n　\n　",
-  "en": ""
+  "en": "\"Momotaro! Mind your manners, dear!\""
  },
  {
   "id": "GDEF0D/65/0558",
   "kind": "msg",
   "jp": "「オギャー！　オギャー！\n　オギャーーーーーーッ！」\n　",
-  "en": ""
+  "en": "\"Waaah! Waaah! WAAAAAAAAAH!\""
  },
  {
   "id": "GDEF0D/65/05A6",
   "kind": "msg",
   "jp": "「……」\n　\n　",
-  "en": ""
+  "en": "\"......\""
  },
  {
   "id": "GDEF0D/65/05CC",
   "kind": "msg",
   "jp": "「くさいで！　桃太郎！」\n　\n　",
-  "en": ""
+  "en": "\"Ya stink, Momotaro!\""
  },
  {
   "id": "GDEF0D/65/0602",
   "kind": "msg",
   "jp": "「桃太郎！　くさいポン！」\n　\n　",
-  "en": ""
+  "en": "\"Momotaro! You stink, pon!\""
  },
  {
   "id": "GDEF0D/65/063A",
   "kind": "msg",
   "jp": "「くさいど！　桃太郎！」\n　\n　",
-  "en": ""
+  "en": "\"Ya reek, Momotaro!\""
  },
  {
   "id": "GDEF0D/65/0670",
   "kind": "msg",
   "jp": "「桃太郎！　くさいっち！」\n　\n　",
-  "en": ""
+  "en": "\"Momotaro! You stink, chi!\""
  },
  {
   "id": "GDEF0D/65/06A8",
   "kind": "msg",
   "jp": "「くさいぜ！　桃太郎！」\n　\n　",
-  "en": ""
+  "en": "\"Man, you stink, Momotaro!\""
  },
  {
   "id": "GDEF0D/65/06DE",
   "kind": "msg",
   "jp": "「ウスッ　ウスッ！\n　くさいですよ！　桃太郎さん！」\n　",
-  "en": ""
+  "en": "\"Oss! Oss! You stink, Momotaro-san!\""
  },
  {
   "id": "GDEF0D/65/072C",
   "kind": "msg",
   "jp": "「ブク　ブク……」\n　\n　",
-  "en": ""
+  "en": "\"Blub, blub......\""
  },
  {
   "id": "GDEF0D/65/075C",
   "kind": "msg",
   "jp": "「くさいギャ！　桃太郎！」\n　\n　",
-  "en": ""
+  "en": "\"You stink, gya! Momotaro!\""
  },
  {
   "id": "GDEF0D/65/0794",
   "kind": "msg",
   "jp": "「桃太郎サン　クサイデスヨ！」\n　\n　",
-  "en": ""
+  "en": "\"Momotaro-san. You. Are. Very. Smelly.\""
  },
  {
   "id": "GDEF0D/65/07D0",
   "kind": "msg",
   "jp": "「桃太郎さん　くさいびろーん！」\n　\n　",
-  "en": ""
+  "en": "\"Momotaro-san, you stink, biroon!\""
  },
  {
   "id": "GDEF0D/66/0002",
   "kind": "msg",
   "jp": "桃太郎は　{bb}ぬけだしの術{ww}を\n使った！　ぬけだしー！\n　",
-  "en": ""
+  "en": "Momotaro used the {bb}Escape art{ww}! Escaaape!"
  },
  {
   "id": "GDEF0D/67/000A",
   "kind": "msg",
   "jp": "桃太郎は　{bb}ひえんの術{ww}を\n使った！　そらひえーん！",
-  "en": ""
+  "en": "Momotaro used the {bb}Warp art{ww}! Sky-waaarp!"
  },
  {
   "id": "GDEF0D/67/0056",
   "kind": "msg",
   "jp": "桃太郎は　たこあげの術は\nなくなったぞ！\n　",
-  "en": ""
+  "en": "Momotaro no longer has the Kite art!"
  },
  {
   "id": "GDEF0D/67/020E",
   "kind": "msg",
   "jp": "しかし\nふとりすぎで　効果がなかった！\n　",
-  "en": ""
+  "en": "But he was too fat, so it had no effect!"
  },
  {
   "id": "GDEF0D/67/027A",
   "kind": "msg",
   "jp": "「おい　桃太郎！\n　ぬれぎぬも　はらさずに\n　村を出ていくのか！」",
-  "en": ""
+  "en": "\"Hey, Momotaro! You're leaving the village without even clearing your name!\""
  },
  {
   "id": "GDEF0D/69/000A",
   "kind": "msg",
   "jp": "桃太郎さん\n材料がたりませんよ！\n　",
-  "en": ""
+  "en": "Momotaro-san, you don't have enough ingredients!"
  },
  {
   "id": "GDEF0D/69/0040",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}りょうりの術{ww}を　使った！\nりょーりー！",
-  "en": ""
+  "en": "Momotaro used the {bb}Cooking art{ww}! Cooook!"
  },
  {
   "id": "GDEF0D/69/0084",
   "kind": "msg",
   "jp": "　\n{bb}{MM}{ww}ができあがった！\n　\n　",
-  "en": ""
+  "en": "{bb}{MM}{ww} is ready!"
  },
  {
   "id": "GDEF0D/70/0002",
   "kind": "msg",
   "jp": "桃太郎は　{bb}おまもりの術{ww}を\n使った！　おまもりー！\n　",
-  "en": ""
+  "en": "Momotaro used the {bb}Protection art{ww}! Protectiooon!"
  },
  {
   "id": "GDEF0D/71/0002",
   "kind": "msg",
   "jp": "桃太郎は　{bb}ときかねの術{ww}を\n使った！　ときーかねー！\n　",
-  "en": ""
+  "en": "Momotaro used the {bb}Time Bell art{ww}! Tiiime Belll!"
  },
  {
   "id": "GDEF0D/72/0004",
   "kind": "msg",
   "jp": "「もうかりまっか！　両替の\n　といち屋グループでおま！」\n　{KP}\n「ただ今　といち屋キャンペーンを\n　おこなっていまっせ！」\n　{KP}\n「記念に　{bb}方言カード{ww}を\n　さしあげまっせ！」\n　",
-  "en": ""
+  "en": "\"Makin' money? This here's the Bank Group, for all your money changin'!\"{KP}\"We're runnin' a Bank Group campaign right now!\"{KP}\"To mark the occasion, here's a {bb}Dialect Card{ww} for ya!\""
  },
  {
   "id": "GDEF0D/72/00D2",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０５４{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 054{ww}!{KN}"
  },
  {
   "id": "GDEF0D/72/011A",
   "kind": "msg",
   "jp": "「ところで　\n　今日は　何のご用でっか？」\n{KN}",
-  "en": ""
+  "en": "\"So, what can I do for ya today?\"{KN}"
  },
  {
   "id": "GDEF0D/73/0004",
   "kind": "msg",
   "jp": "「もうかりまっか！　両替の\n　といち屋グループでおま！」\n　{KP}\n「今日は　何のご用でっか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Makin' money? This here's the Bank Group, for all your money changin'!\"{KP}\"What can I do for ya today?\"{KN}"
  },
  {
   "id": "GDEF0D/74/0000",
   "kind": "msg",
   "jp": "「ほな　といち屋グループのしくみを\n　ご説明しまひょ！」\n　{KP}\n「まずは　お金の\n　預かり方でんな！」\n　{KP}\n「お預けは\n　最高　９９９９９００両まで\n　１００両単位で　できまっせ！」{KP}\n　\n「お引き出しは\n　預けて　もらってるぶん\n　１両単位で　引き出せまっせ！」{KP}\n　\n「長い間　預けてくれりゃ\n　気持ちばかりやが\n　利息を　つけたるわ！」{KP}\n　\n「次に　道具の\n　預かり方についてや！」\n　{KP}\n「お客はんの　持ち物で\n　手放したくないんやけど　めったに\n　使わへん物って　あるやろ！」{KP}\n　\n「旅に　持って歩くと\n　荷物になって　じゃまやったら\n　わいんとこに　預けときな！」{KP}\n　\n「これには　利息は　つきまへんが\n　手数料も　取りまへん\n　気軽に　預けとくんなはれ！」{KP}\n　\n「お金も　道具も　お引き出しは\n　といち屋グループの　オンラインで\n　どこの　店でも　できまっせ！」{KP}\n　\n「どや　わかりやしたか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Alrighty then, lemme explain how the Bank Group works!\"{KP}\"First off, how we look after your money!\"{KP}\"You can deposit up to 9,999,900 ryo, in units of 100 ryo!\"{KP}\"For withdrawals, you can take out as much as you've deposited, in units of 1 ryo!\"{KP}\"Leave it with us a good long while, and I'll add a little interest, just as a token!\"{KP}\"Next up, how we look after your items!\"{KP}\"There's gotta be stuff you don't wanna part with but hardly ever use, right?\"{KP}\"If it's just weighin' you down on your travels, leave it with me!\"{KP}\"There's no interest on items, but no fees neither, so leave 'em with us anytime!\"{KP}\"Money or items, you can take 'em out at any branch, thanks to the Bank Group's online network!\"{KP}\"So, got all that?\"{KN}"
  },
  {
   "id": "GDEF0D/75/0008",
   "kind": "msg",
   "jp": "「預かり高が　２００００両を\n　こえたので　{bb}方言カード{ww}を\n　２枚　さしあげまっせ！」",
-  "en": ""
+  "en": "\"Your deposits went over 20,000 ryo, so here's two {bb}Dialect Cards{ww} for ya!\""
  },
  {
   "id": "GDEF0D/75/0078",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０１２{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 012{ww}!{KN}"
  },
  {
   "id": "GDEF0D/75/00C0",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０３５{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 035{ww}!{KN}"
  },
  {
   "id": "GDEF0D/75/0110",
   "kind": "msg",
   "jp": "「預かり高が　２００００両を\n　こえたので　{bb}方言カード{ww}を\n　１枚　さしあげまっせ！」",
-  "en": ""
+  "en": "\"Your deposits went over 20,000 ryo, so here's a {bb}Dialect Card{ww} for ya!\""
  },
  {
   "id": "GDEF0D/75/0178",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０３５{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 035{ww}!{KN}"
  },
  {
   "id": "GDEF0D/75/01C0",
   "kind": "msg",
   "jp": "「預かり高が　５０００両を\n　こえたので　{bb}方言カード{ww}を\n　１枚　さしあげまっせ！」",
-  "en": ""
+  "en": "\"Your deposits went over 5,000 ryo, so here's a {bb}Dialect Card{ww} for ya!\""
  },
  {
   "id": "GDEF0D/75/0226",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０１２{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 012{ww}!{KN}"
  },
  {
   "id": "GDEF0D/76/0000",
   "kind": "msg",
   "jp": "「まいど　おおきに！\n　また　おこしやす！」\n　",
-  "en": ""
+  "en": "\"Thanks a bunch! Come again!\""
  },
  {
   "id": "GDEF0D/77/0008",
   "kind": "msg",
   "jp": "「何を　お預かりしまっか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Whaddya want me to hold for ya?\"{KN}"
  },
  {
   "id": "GDEF0D/77/003E",
   "kind": "msg",
   "jp": "「何を　お返ししまっか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Whaddya want back?\"{KN}"
  },
  {
   "id": "GDEF0D/78/0000",
   "kind": "msg",
   "jp": "「他にも　なんか\n　ありまっか？」\n　{KN}",
-  "en": ""
+  "en": "\"Got anything else?\"{KN}"
  },
  {
   "id": "GDEF0D/79/0000",
   "kind": "msg",
   "jp": "「お金を　持っていまへんや\n　ないでっか！」\n　{KP}\n　\n「他に　なんか\n　ありまっか？」\n　{KN}",
-  "en": ""
+  "en": "\"Why, you ain't got any money!\"{KP}\"Got anything else?\"{KN}"
  },
  {
   "id": "GDEF0D/80/0000",
   "kind": "msg",
   "jp": "「いくら　お預けになりまっか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"How much'll ya be depositin'?\"{KN}"
  },
  {
   "id": "GDEF0D/81/0000",
   "kind": "msg",
   "jp": "「{R0}両で\n　よろしいでっか？」\n　{KN}",
-  "en": ""
+  "en": "\"{R0} ryo, that right?\"{KN}"
  },
  {
   "id": "GDEF0D/82/0000",
   "kind": "msg",
   "jp": "「へえ！　ほなら\n　{R0}両　確かに…」\n　{KP}\n「……」\n　\n　{KP}\n「ちょっと　待たんかーい！\n　商売人　なめたら\n　あきまへんど！」{KP}\n　\n「他に　なんか\n　ありまっか！？」\n　{KN}",
-  "en": ""
+  "en": "\"Righto! Then that's {R0} ryo, all accounted for...\"{KP}\"......\"{KP}\"Now hold on just a minute! Don't you go makin' a fool of a businessman!\"{KP}\"Got anything else?!\"{KN}"
  },
  {
   "id": "GDEF0D/83/0000",
   "kind": "msg",
   "jp": "「そんなに　\n　預かれまへんよ！\n　もう！」{KP}\n　\n「他に　なんか\n　ありまっか？」\n　{KN}",
-  "en": ""
+  "en": "\"I can't hold that much for ya! Sheesh!\"{KP}\"Got anything else?\"{KN}"
  },
  {
   "id": "GDEF0D/84/0004",
   "kind": "msg",
   "jp": "「へい！　{R0}両\n　確かに　お預かりしました！」\n　",
-  "en": ""
+  "en": "\"Righto! I've got your {R0} ryo, safe and sound!\""
  },
  {
   "id": "GDEF0D/85/0000",
   "kind": "msg",
   "jp": "「いくらも　預かって\n　いまへんで！」\n　{KP}\n「他に　なんか\n　ありまっか？」\n　{KN}",
-  "en": ""
+  "en": "\"I ain't holdin' hardly anything for ya!\"{KP}\"Got anything else?\"{KN}"
  },
  {
   "id": "GDEF0D/86/0000",
   "kind": "msg",
   "jp": "「いくら　お引き出しされまっか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"How much'll ya be withdrawin'?\"{KN}"
  },
  {
   "id": "GDEF0D/87/0000",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　これ以上　お金は\n　持てまへんな！」{KP}\n　\n「他に　なんか\n　ありまっか？」\n　{KN}",
-  "en": ""
+  "en": "\"Momotaro-san! You can't carry any more money!\"{KP}\"Got anything else?\"{KN}"
  },
  {
   "id": "GDEF0D/88/0000",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　そんなに　お金は\n　持てまへんな！」",
-  "en": ""
+  "en": "\"Momotaro-san! You can't carry that much money!\""
  },
  {
   "id": "GDEF0D/89/0004",
   "kind": "msg",
   "jp": "「へい！　お預かりしてた\n　{R0}両でおま！」\n　",
-  "en": ""
+  "en": "\"Righto! Here's the {R0} ryo I was holdin' for ya!\""
  },
  {
   "id": "GDEF0D/90/0000",
   "kind": "msg",
   "jp": "「何を　お預かりしまっか？\n　お客はんの　持ち物から\n　選んでくんなはれ！」",
-  "en": ""
+  "en": "\"What'll I hold for ya? Pick somethin' from your belongings!\""
  },
  {
   "id": "GDEF0D/91/0000",
   "kind": "msg",
   "jp": "「{bb}{MM}{ww}で\n　よろしいでっか？」\n　{KN}",
-  "en": ""
+  "en": "\"{bb}{MM}{ww}, that right?\"{KN}"
  },
  {
   "id": "GDEF0D/92/0000",
   "kind": "msg",
   "jp": "「へい！　{bb}{MM}{ww}\n　確かに　お預かりしました！」\n　",
-  "en": ""
+  "en": "\"Righto! I've got {bb}{MM}{ww}, safe and sound!\""
  },
  {
   "id": "GDEF0D/93/0000",
   "kind": "msg",
   "jp": "「桃太郎はん！\n　道具を　持っていまへんや\n　ないでっか！」{KP}\n　\n「他に　なんか\n　ありまっか？」\n　{KN}",
-  "en": ""
+  "en": "\"Momotaro-han! Why, you ain't got any items!\"{KP}\"Got anything else?\"{KN}"
  },
  {
   "id": "GDEF0D/94/0000",
   "kind": "msg",
   "jp": "「すんません！　お客はん\n　金庫が　もう　いっぱいで\n　預かれまへんねん！」{KP}\n　\n「他に　なんか\n　ありまっか？」\n　{KN}",
-  "en": ""
+  "en": "\"Sorry, friend! The vault's full up, so I can't hold any more!\"{KP}\"Got anything else?\"{KN}"
  },
  {
   "id": "GDEF0D/95/0000",
   "kind": "msg",
   "jp": "「桃太郎はん！\n　何も　預かっていまへんよ！」\n　{KP}\n「他に　なんか\n　ありまっか？」\n　{KN}",
-  "en": ""
+  "en": "\"Momotaro-han! I ain't holdin' anything for ya!\"{KP}\"Got anything else?\"{KN}"
  },
  {
   "id": "GDEF0D/96/0000",
   "kind": "msg",
   "jp": "「桃太郎はん！　道具袋が\n　いっぱいでんがな！」\n　{KP}\n「他に　なんか\n　ありまっか？」\n　{KN}",
-  "en": ""
+  "en": "\"Momotaro-han! Your item bag's full up!\"{KP}\"Got anything else?\"{KN}"
  },
  {
   "id": "GDEF0D/97/0000",
   "kind": "msg",
   "jp": "「何を　持っていきまっか？\n　預かっている物から\n　選んでくんなはれ！」",
-  "en": ""
+  "en": "\"What'll ya take with ya? Pick somethin' I'm holdin' for ya!\""
  },
  {
   "id": "GDEF0D/98/0000",
   "kind": "msg",
   "jp": "「へい！　お預かりしてた\n　{bb}{MM}{ww}でおま！\n　",
-  "en": ""
+  "en": "\"Righto! Here's the {bb}{MM}{ww} I was holdin' for ya!\""
  },
  {
   "id": "GDEF0D/99/001E",
   "kind": "msg",
   "jp": "「いよぉ～　いらっしゃ～い！\n　ご用けんは\n　何で　ございまするかぁ～？」{KN}",
-  "en": ""
+  "en": "\"Yoooo! Welcooome! And what might your business be-e-eee?\"{KN}"
  },
  {
   "id": "GDEF0D/99/0098",
   "kind": "msg",
   "jp": "　\n「お面　１枚　１００両ですが\n　よろしいか？　よろし～い～か～？」\n　{KN}",
-  "en": ""
+  "en": "\"Masks are 100 ryo apiece. Is that all right? All ri-i-ight?\"{KN}"
  },
  {
   "id": "GDEF0D/99/013E",
   "kind": "msg",
   "jp": "「は～て　さて　桃太郎さん？\n　お金が　足りませぬぅ～！」\n　{KP}\n「いずこにて　かせいでから\n　また　おいで　くだしゃんせ～！」\n　",
-  "en": ""
+  "en": "\"Wellll now, Momotaro-san? You lack the coin-n-n!\"{KP}\"Go earn some somewhere, and pray come agaaain!\""
  },
  {
   "id": "GDEF0D/99/01DA",
   "kind": "msg",
   "jp": "「あいや　桃太郎さん！　お面を\n　持ちすぎで　ございまする～～」\n　{KP}\n「お面を\n　売っては　いかが～か～な」\n　",
-  "en": ""
+  "en": "\"Oh my, Momotaro-san! You carry too many masks-s-s!\"{KP}\"Why not sell a mask or twooo?\""
  },
  {
   "id": "GDEF0D/99/0282",
   "kind": "msg",
   "jp": "　\n「されど　桃太郎さん　桃太郎さん\n　お面が　あ～り～ませぬ～！」\n　",
-  "en": ""
+  "en": "\"And yet, Momotaro-san, Momotaro-san, you have no ma-a-asks!\""
  },
  {
   "id": "GDEF0D/99/02E0",
   "kind": "msg",
   "jp": "　\n「また　おいで　くだしゃんせ～！」\n　\n　",
-  "en": ""
+  "en": "\"Pray come agaaain!\""
  },
  {
   "id": "GDEF0D/99/0338",
   "kind": "msg",
   "jp": "「やめなさるかぁ～～！\n　では　１００両を\n　お返しするでござる～～！」",
-  "en": ""
+  "en": "\"You'll not buy-y-y?! Then I return your 100 ryo-o-o!\""
  },
  {
   "id": "GDEF0D/99/03CC",
   "kind": "msg",
   "jp": "「さぁ～て　さて　ほかに　何か\n　ごようは　ござらぬかぁ～？」\n　{KN}",
-  "en": ""
+  "en": "\"Wellll now, is there aught else you nee-e-eed?\"{KN}"
  },
  {
   "id": "GDEF0D/100/0008",
   "kind": "msg",
   "jp": "桃太郎は\nカロリーを　消費した！\n　",
-  "en": ""
+  "en": "Momotaro burned off calories!"
  },
  {
   "id": "GDEF0D/100/0040",
   "kind": "msg",
   "jp": "桃太郎は　スマートになった\nリバウンドには　気をつけてね！\n　",
-  "en": ""
+  "en": "Momotaro got slim! Watch out for that rebound weight!"
  },
  {
   "id": "GDEF0D/103/000A",
   "kind": "msg",
   "jp": "この{dd}グレー{dd}\n　\n　",
-  "en": ""
+  "en": "This {dd}gray{dd}"
  },
  {
   "id": "GDEF0D/103/0040",
   "kind": "msg",
   "jp": "はいを選択\n　\n　",
-  "en": ""
+  "en": "Selected Yes"
  },
  {
   "id": "GDEF0D/103/0060",
   "kind": "msg",
   "jp": "いいえを選択\n　\n　",
-  "en": ""
+  "en": "Selected No"
  },
  {
   "id": "GDEF0D/104/004A",
   "kind": "msg",
   "jp": "{bb}おまもりの術{ww}の\n効果が　なくなった！\n　",
-  "en": ""
+  "en": "The {bb}Protection art{ww} wore off!"
  },
  {
   "id": "GDEF0D/104/0088",
   "kind": "msg",
   "jp": "{bb}隠れみの{ww}の\n効果が　なくなった！\n　",
-  "en": ""
+  "en": "The {bb}Hiding Cloak{ww} wore off!"
  },
  {
   "id": "GDEF0D/104/00C2",
   "kind": "msg",
   "jp": "{bb}こたえのおふだ{ww}の\n効果が　なくなった！\n　",
-  "en": ""
+  "en": "The {bb}Answer Charm{ww} wore off!"
  },
  {
   "id": "GDEF0D/104/0102",
   "kind": "msg",
   "jp": "{bb}かんじのおふだ{ww}の\n効果が　なくなった！\n　",
-  "en": ""
+  "en": "The {bb}Kanji Charm{ww} wore off!"
  },
  {
   "id": "GDEF0D/104/0142",
   "kind": "msg",
   "jp": "{bb}サイコロのおふだ{ww}の\n効果が　なくなった！\n　",
-  "en": ""
+  "en": "The {bb}Dice Charm{ww} wore off!"
  },
  {
   "id": "GDEF0D/104/0184",
   "kind": "msg",
   "jp": "{bb}こげみそ{ww}の\n効果が　なくなった！\n　",
-  "en": ""
+  "en": "The {bb}Burnt Miso{ww} wore off!"
  },
  {
   "id": "GDEF0D/104/01BE",
   "kind": "msg",
   "jp": "{bb}おにのはた{ww}の\n効果が　なくなった！\n　",
-  "en": ""
+  "en": "The {bb}Oni Flag{ww} wore off!"
  },
  {
   "id": "GDEF0D/104/01FA",
   "kind": "msg",
   "jp": "{bb}おによせのふだ{ww}の\n効果が　なくなった！\n　",
-  "en": ""
+  "en": "The {bb}Oni Lure Charm{ww} wore off!"
  },
  {
   "id": "GDEF0D/104/023A",
   "kind": "msg",
   "jp": "{bb}にんそうがき{ww}の\n効果が　なくなった！\n　",
-  "en": ""
+  "en": "The {bb}Wanted Poster{ww} wore off!"
  }
 ]

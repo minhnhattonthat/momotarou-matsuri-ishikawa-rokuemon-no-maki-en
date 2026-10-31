@@ -3,42 +3,42 @@
   "id": "GSV2208D/0/002A",
   "kind": "msg",
   "jp": "「ちょっと　ちょっと　お客さん！\n　ただで　プレイしようなんて\n　かんべんしてくださいよ～～！」",
-  "en": ""
+  "en": "\"Hey, hey, hold on there! Don't go trying to play for free! Gimme a break!\""
  },
  {
   "id": "GSV2208D/2/000E",
   "kind": "msg",
   "jp": "「いらっしゃいませ！\n　{bb}ぐるぐる寿司{ww}が\n　５０両で楽しめます」{KN}",
-  "en": ""
+  "en": "\"Welcome! You can play {bb}Round-and-Round Sushi{ww} for 50 ryo.\"{KN}"
  },
  {
   "id": "GSV2208D/2/009A",
   "kind": "msg",
   "jp": "　\n「またのおこしを」\n　\n　",
-  "en": ""
+  "en": "\"Do come again.\""
  },
  {
   "id": "GSV2208D/2/00F2",
   "kind": "msg",
   "jp": "「遊び方の説明を　聞きますか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Would you like to hear how to play?\"{KN}"
  },
  {
   "id": "GSV2208D/2/0168",
   "kind": "msg",
   "jp": "　\n「桃太郎さん　\n　お金がたりませんよ！」\n　{KP}\n「またのおこしを」\n　\n　",
-  "en": ""
+  "en": "\"Momotaro-san, you don't have enough money!\"{KP}\"Do come again.\""
  },
  {
   "id": "GSV2208D/3/0002",
   "kind": "msg",
   "jp": "「やっと　{bb}ぐるぐる寿司{ww}が\n　できるぞ！」\n　{KP}\n「{bb}ぐるぐる寿司{ww}は　タイミングが\n　勝負ですよ！」\n　{KP}\n「でも　ボクは　いつも　目が\n　回っちゃって　わさび入り\n　ばっかり　取っちゃうんですよ！」",
-  "en": ""
+  "en": "\"At last, I can play {bb}Round-and-Round Sushi{ww}!\"{KP}\"{bb}Round-and-Round Sushi{ww} is all about timing!\"{KP}\"But I always get dizzy and end up grabbing nothing but the ones with wasabi!\""
  },
  {
   "id": "GSV2208D/4/0002",
   "kind": "msg",
   "jp": "「ん～　４０００点で　７段か～？\n　まだまだだな～！」\n　",
-  "en": ""
+  "en": "\"Hmm, 4000 points for level 7? I've still got a long way to go!\""
  }
 ]

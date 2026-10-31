@@ -3,36 +3,36 @@
   "id": "GSV1624D/3/000E",
   "kind": "msg",
   "jp": "「いらっしゃいませ！\n　{bb}ジャンケン７{ww}が\n　５０両で楽しめます」{KN}",
-  "en": ""
+  "en": "\"Welcome! You can play {bb}Janken 7{ww} for 50 ryo.\"{KN}"
  },
  {
   "id": "GSV1624D/3/007A",
   "kind": "msg",
   "jp": "　\n「またのおこしを」\n　\n　",
-  "en": ""
+  "en": "\"Do come again.\""
  },
  {
   "id": "GSV1624D/3/00D2",
   "kind": "msg",
   "jp": "「遊び方の説明を　聞きますか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Would you like to hear how to play?\"{KN}"
  },
  {
   "id": "GSV1624D/3/013E",
   "kind": "msg",
   "jp": "「桃太郎さん　\n　お金がたりませんよ！」\n　{KP}\n「またのおこしを」\n　\n　",
-  "en": ""
+  "en": "\"Momotaro-san, you don't have enough money!\"{KP}\"Please come again.\""
  },
  {
   "id": "GSV1624D/4/0002",
   "kind": "msg",
   "jp": "「あしゅらサマって　ちょーステキ！」\n　\n　{KP}\n「ジャンケンする　あしゅらサマって\n　シビレルわー！」\n　",
-  "en": ""
+  "en": "\"Ashura-sama is sooo dreamy!\"{KP}\"Ashura-sama playing rock-paper-scissors just makes me swoon!\""
  },
  {
   "id": "GSV1624D/5/0002",
   "kind": "msg",
   "jp": "「あしゅらサマは　なかなか\n　手強くってよ！」\n　{KP}\n「だって　次の手が\n　読めないんですもの！」\n　{KP}\n「だから　まだ　３５００点で\n　７段なんですもの！」\n　{KP}\n「う～ん　くやしいわ！」\n　\n　",
-  "en": ""
+  "en": "\"Ashura-sama is quite a tough one, you know!\"{KP}\"I just can't read his next move!\"{KP}\"That's why I'm still at level 7 with 3500 points!\"{KP}\"Ooh, it's so frustrating!\""
  }
 ]

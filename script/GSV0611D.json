@@ -3,42 +3,42 @@
   "id": "GSV0611D/2/0018",
   "kind": "msg",
   "jp": "「少しの間でしたけど\n　桃太郎さんと　旅が　できて\n　とても　楽しかったです！」{KP}\n　\n「そういえば　桃太郎さん！\n　{bb}きびだんご{ww}を\n　お持ちですか？」{KP}\n　\n「桃太郎さんと　旅を\n　したせいなのか\n　わかりませんけど」{KP}\n　\n「最近　むしょうに\n　食べたく　なったのです！」\n　{KP}\n「ですが　この村では\n　{bb}きびだんご{ww}が\n　手に入らないのです！」",
-  "en": ""
+  "en": "\"It was only for a little while, but traveling with Momotaro-san was so much fun!\"{KP}\"Oh, that reminds me, Momotaro-san! Do you have any {bb}millet dumplings{ww}?\"{KP}\"I don't know if it's because I traveled with Momotaro-san,\"{KP}\"but lately I've had a terrible craving for them!\"{KP}\"But you can't get {bb}millet dumplings{ww} in this village!\""
  },
  {
   "id": "GSV0611D/2/01B2",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}{MM}{ww}を　わたした！\n　",
-  "en": ""
+  "en": "Momotaro handed over {bb}{MM}{ww}!"
  },
  {
   "id": "GSV0611D/2/01E8",
   "kind": "msg",
   "jp": "「わぁ～\n　ありがとうございます！\n　なつかしいなぁ……」{KP}\n　\n「さっそく\n　いただきまーす！」\n　{KP}\n「モグモグ………\n　あー！\n　やっぱり　うまいなぁ」{KP}\n　\n「ありがとうございます！\n　桃太郎さん！」\n　{KP}\n「お礼に　{bb}方言カード{ww}を\n　さしあげます」\n　",
-  "en": ""
+  "en": "\"Wow! Thank you so much! This brings back memories......\"{KP}\"Time to dig in!\"{KP}\"Munch munch......... Ahh! They're delicious, just like I remembered.\"{KP}\"Thank you so much, Momotaro-san!\"{KP}\"As thanks, let me give you a {bb}Dialect Card{ww}.\""
  },
  {
   "id": "GSV0611D/2/0314",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード００４{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 004{ww}!{KN}"
  },
  {
   "id": "GSV0611D/2/036E",
   "kind": "msg",
   "jp": "「また　いつか　いっしょに\n　旅を　したいですね！」\n　",
-  "en": ""
+  "en": "\"I hope we can travel together again someday!\""
  },
  {
   "id": "GSV0611D/3/0010",
   "kind": "msg",
   "jp": "「いや～！　ひさしぶりに\n　運動したら　かたが　こって\n　しまったのぉ」",
-  "en": ""
+  "en": "\"Oof! I got some exercise for the first time in ages, and now my shoulders are all stiff.\""
  },
  {
   "id": "GSV0611D/3/006A",
   "kind": "msg",
   "jp": "「ありがとうございました\n　桃太郎さん！」\n　{KP}\n「イヌも　こうして　\n　無事に　帰ってきました」\n　",
-  "en": ""
+  "en": "\"Thank you so much, Momotaro-san!\"{KP}\"Dog has come home safe and sound, too.\""
  }
 ]

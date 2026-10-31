@@ -3,72 +3,72 @@
   "id": "GSV0302D/2/000E",
   "kind": "msg",
   "jp": "「いらっしゃいませ　桃太郎さん！\n　この宿は　１００両で　泊まれます！\n　泊まっていきますか？」{KN}",
-  "en": ""
+  "en": "\"Welcome, Momotaro-san! A night at this inn is 100 ryo! Will you be staying?\"{KN}"
  },
  {
   "id": "GSV0302D/2/009A",
   "kind": "msg",
   "jp": "　\n「それは　残念ですね！\n　またのおこしを！」\n　",
-  "en": ""
+  "en": "\"That's a shame! Do come again!\""
  },
  {
   "id": "GSV0302D/2/011E",
   "kind": "msg",
   "jp": "　\n「では　ごゆっくりと！」\n　\n　",
-  "en": ""
+  "en": "\"Then please, take your time and rest!\""
  },
  {
   "id": "GSV0302D/2/01A0",
   "kind": "msg",
   "jp": "「桃太郎さん{bb}レッツ！まくらなげ{ww}を\n　しませんか？」\n　{KN}",
-  "en": ""
+  "en": "\"Momotaro-san, how about a game of {bb}Let's Pillow Fight!{ww}?\"{KN}"
  },
  {
   "id": "GSV0302D/2/01FA",
   "kind": "msg",
   "jp": "「残念ですね！\n　また　この次にでも！」\n　",
-  "en": ""
+  "en": "\"That's a shame! Maybe next time, then!\""
  },
  {
   "id": "GSV0302D/2/025C",
   "kind": "msg",
   "jp": "「遊び方の説明を　聞きますか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Would you like to hear how to play?\"{KN}"
  },
  {
   "id": "GSV0302D/2/0316",
   "kind": "msg",
   "jp": "「ありがとうございました！\n　また　おこしください！」\n　",
-  "en": ""
+  "en": "\"Thank you very much! Please come again!\""
  },
  {
   "id": "GSV0302D/2/036E",
   "kind": "msg",
   "jp": "　\n「桃太郎さん！\n　お金が　足りませんよ！」\n　",
-  "en": ""
+  "en": "\"Momotaro-san! You don't have enough money!\""
  },
  {
   "id": "GSV0302D/3/0010",
   "kind": "msg",
   "jp": "「わたしは　旅の者です！\n　宿屋では　ゆっくりと\n　休みたい　ものですね」",
-  "en": ""
+  "en": "\"I'm a traveler! At an inn, you want to rest and take it easy.\""
  },
  {
   "id": "GSV0302D/3/007A",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　どうしちゃったんですか？」\n　{KP}\n「しかし　まあ　それにしても\n　見事な　ふとりっぷりですな！」\n　{KP}\n「いや～　ひさびさに\n　笑えるものを\n　見せてもらいました！」{KP}\n　\n「お礼と　いっては　なんですが\n　これを　どうぞ！」\n　",
-  "en": ""
+  "en": "\"Momotaro-san! What happened to you?\"{KP}\"But my, oh my, you've gotten splendidly fat!\"{KP}\"Ha ha, it's been ages since I saw something that made me laugh!\"{KP}\"It's not much of a thanks, but please take this!\""
  },
  {
   "id": "GSV0302D/3/019A",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード００２{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 002{ww}!{KN}"
  },
  {
   "id": "GSV0302D/3/01E4",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　また　ふとったんですか？」\n　{KP}\n「わらえますね～！\n　でも　もう　あげる\n　{bb}方言カード{ww}が　ないんですよ！」",
-  "en": ""
+  "en": "\"Momotaro-san! Did you get fat again?\"{KP}\"What a laugh! But I don't have any more {bb}Dialect Cards{ww} to give you!\""
  }
 ]

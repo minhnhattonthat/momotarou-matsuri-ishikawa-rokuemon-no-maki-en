@@ -3,84 +3,84 @@
   "id": "GSV0206D/0/0032",
   "kind": "msg",
   "jp": "「ちょっと　ちょっと　お客さん！\n　勝手に　プレイしようなんて\n　かんべんしてくださいよ～～！」",
-  "en": ""
+  "en": "\"Hey, hey, hold it, customer! Please don't go playing without asking!\""
  },
  {
   "id": "GSV0206D/0/00DC",
   "kind": "msg",
   "jp": "「ちょっと　ちょっと　お客さん！\n　勝手に　プレイしようなんて\n　かんべんしてくださいよ～～！」",
-  "en": ""
+  "en": "\"Hey, hey, hold it, customer! Please don't go playing without asking!\""
  },
  {
   "id": "GSV0206D/3/001E",
   "kind": "msg",
   "jp": "「いらっしゃいませ！\n　{bb}お餅焼けたかな？{ww}が\n　楽しめます」{KN}",
-  "en": ""
+  "en": "\"Welcome! Here you can enjoy {bb}Is the Mochi Done?{ww}\"{KN}"
  },
  {
   "id": "GSV0206D/3/0072",
   "kind": "msg",
   "jp": "「いらっしゃいませ！\n　{bb}お餅焼けたかな？{ww}が\n　５０両で楽しめます」{KN}",
-  "en": ""
+  "en": "\"Welcome! You can enjoy {bb}Is the Mochi Done?{ww} for 50 ryo.\"{KN}"
  },
  {
   "id": "GSV0206D/3/0102",
   "kind": "msg",
   "jp": "　\n「またのおこしを」\n　\n　",
-  "en": ""
+  "en": "\"Do come again.\""
  },
  {
   "id": "GSV0206D/3/016A",
   "kind": "msg",
   "jp": "「遊び方の説明を　聞きますか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Would you like to hear how to play?\"{KN}"
  },
  {
   "id": "GSV0206D/3/01E0",
   "kind": "msg",
   "jp": "　\n「桃太郎さん　\n　お金がたりませんよ！」\n　{KP}\n「またのおこしを」\n　\n　",
-  "en": ""
+  "en": "\"Momotaro-san, you don't have enough money!\"{KP}\"Do come again.\""
  },
  {
   "id": "GSV0206D/4/001E",
   "kind": "msg",
   "jp": "「いらっしゃいませ！\n　{bb}鬼たたき{ww}が\n　楽しめます」{KN}",
-  "en": ""
+  "en": "\"Welcome! Here you can enjoy {bb}Whack-an-Oni{ww}.\"{KN}"
  },
  {
   "id": "GSV0206D/4/006A",
   "kind": "msg",
   "jp": "「いらっしゃいませ！\n　{bb}鬼たたき{ww}が\n　５０両で楽しめます」{KN}",
-  "en": ""
+  "en": "\"Welcome! You can enjoy {bb}Whack-an-Oni{ww} for 50 ryo.\"{KN}"
  },
  {
   "id": "GSV0206D/4/00F2",
   "kind": "msg",
   "jp": "　\n「またのおこしを」\n　\n　",
-  "en": ""
+  "en": "\"Do come again.\""
  },
  {
   "id": "GSV0206D/4/015A",
   "kind": "msg",
   "jp": "「遊び方の説明を　聞きますか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Would you like to hear how to play?\"{KN}"
  },
  {
   "id": "GSV0206D/4/01D0",
   "kind": "msg",
   "jp": "　\n「桃太郎さん　\n　お金がたりませんよ！」\n　{KP}\n「またのおこしを」\n　\n　",
-  "en": ""
+  "en": "\"Momotaro-san, you don't have enough money!\"{KP}\"Do come again.\""
  },
  {
   "id": "GSV0206D/5/0002",
   "kind": "msg",
   "jp": "「{bb}お餅焼けたかな？{ww}は\n　ふくらみはじめた　お餅を　ねらって\n　ハシを　動かせばいいと　思うよ！」{KP}\n　\n「うっかりしていると　お餅は\n　すぐ　こげちゃうからね！」\n　",
-  "en": ""
+  "en": "\"In {bb}Is the Mochi Done?{ww}, I think you should aim for the mochi that start puffing up and move your chopsticks!\"{KP}\"If you're careless, the mochi burn in no time!\""
  },
  {
   "id": "GSV0206D/6/0002",
   "kind": "msg",
   "jp": "「ポンポコリン！　{bb}鬼たたき{ww}は\n　ポンポコ　ポンポコとね！」\n　{KP}\n「リズミカルに　たたいていくのが\n　高得点の　ひけつ　なんだよね！」\n　",
-  "en": ""
+  "en": "\"Ponpokorin! {bb}Whack-an-Oni{ww} goes ponpoko, ponpoko!\"{KP}\"Whacking away in rhythm is the secret to a high score!\""
  }
 ]

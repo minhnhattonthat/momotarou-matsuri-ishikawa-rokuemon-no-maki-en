@@ -3,30 +3,30 @@
   "id": "GSV1610D/2/000A",
   "kind": "msg",
   "jp": "「この　お寺には　人々の　善行が\n　多くなると　{bb}希望観音さま{ww}が\n　こうりん　なされます！」",
-  "en": ""
+  "en": "\"When the people do many good deeds, {bb}Kannon of Hope-sama{ww} descends upon this temple!\""
  },
  {
   "id": "GSV1610D/2/010A",
   "kind": "msg",
   "jp": "　\n「さあ！　{bb}希望観音さま{ww}が\n　あらわれます！」\n　",
-  "en": ""
+  "en": "\"Behold! {bb}Kannon of Hope-sama{ww} appears!\""
  },
  {
   "id": "GSV1610D/2/0162",
   "kind": "msg",
   "jp": "「{bb}希望観音さま{ww}を　おがめた方は\n　他の　{bb}観音さま{ww}の　声も\n　聞こえますよ！」",
-  "en": ""
+  "en": "\"Those who have worshipped {bb}Kannon of Hope-sama{ww} can hear the voices of the other {bb}Kannon-sama{ww} too!\""
  },
  {
   "id": "GSV1610D/3/0018",
   "kind": "msg",
   "jp": "「……」\n　\n　",
-  "en": ""
+  "en": "\"......\""
  },
  {
   "id": "GSV1610D/3/003A",
   "kind": "msg",
   "jp": "「桃太郎よ！\n　これからも　人助けに\n　はげむがよい！」{KP}\n　\n「今までの　善行の　ほうびは\n　福の神から　もらうがよい！」\n　",
-  "en": ""
+  "en": "\"Momotaro! Keep striving to help others!\"{KP}\"For your good deeds so far, go and receive your reward from the God of Fortune!\""
  }
 ]

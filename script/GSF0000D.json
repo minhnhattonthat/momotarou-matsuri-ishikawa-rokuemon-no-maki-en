@@ -63,7 +63,7 @@
   "id": "GSF0000D/67/01AC",
   "kind": "msg",
   "jp": "「遊び方の説明を　聞きますか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Would you like to hear how to play?\"{KN}"
  },
  {
   "id": "GSF0000D/67/021E",
@@ -93,7 +93,7 @@
   "id": "GSF0000D/67/0468",
   "kind": "msg",
   "jp": "「遊び方の説明を　聞きますか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Would you like to hear how to play?\"{KN}"
  },
  {
   "id": "GSF0000D/67/04DA",
@@ -123,7 +123,7 @@
   "id": "GSF0000D/68/01D2",
   "kind": "msg",
   "jp": "「遊び方の説明を　聞きますか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Would you like to hear how to play?\"{KN}"
  },
  {
   "id": "GSF0000D/68/0244",
@@ -303,7 +303,7 @@
   "id": "GSF0000D/83/006A",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}{MM}{ww}を　見せた！\n　",
-  "en": ""
+  "en": "Momotaro showed him the {bb}{MM}{ww}!"
  },
  {
   "id": "GSF0000D/83/00E2",
@@ -339,7 +339,7 @@
   "id": "GSF0000D/84/007C",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}{MM}{ww}を　見せた！\n　",
-  "en": ""
+  "en": "Momotaro showed him the {bb}{MM}{ww}!"
  },
  {
   "id": "GSF0000D/84/00F4",
@@ -1113,7 +1113,7 @@
   "id": "GSF0000D/114/01A0",
   "kind": "msg",
   "jp": "「遊び方の説明を　聞きますか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Would you like to hear how to play?\"{KN}"
  },
  {
   "id": "GSF0000D/114/0212",

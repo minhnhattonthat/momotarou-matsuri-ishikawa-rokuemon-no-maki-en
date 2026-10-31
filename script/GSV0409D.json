@@ -3,66 +3,66 @@
   "id": "GSV0409D/2/0030",
   "kind": "msg",
   "jp": "「あっ　桃太郎さん　さきほどは\n　ありがとうございましただ！」\n　{KP}\n「{bb}カブ{ww}が　ほしくなったら\n　えんりょなく　言ってくだせい！」\n　",
-  "en": ""
+  "en": "\"Ah, Momotaro-san! Thank ye kindly for earlier!\"{KP}\"If ya ever want a {bb}turnip{ww}, don't be shy, just say so!\""
  },
  {
   "id": "GSV0409D/2/00D0",
   "kind": "msg",
   "jp": "「あっ　桃太郎さん　さきほどは\n　ありがとうございましただ！」\n　{KP}\n「え？\n　{bb}カブ{ww}が　ほしいだか？」\n　{KN}",
-  "en": ""
+  "en": "\"Ah, Momotaro-san! Thank ye kindly for earlier!\"{KP}\"Eh? Ya want a {bb}turnip{ww}?\"{KN}"
  },
  {
   "id": "GSV0409D/2/0162",
   "kind": "msg",
   "jp": "「わかりましただ！\n　では　これを　あげるだ！」\n　",
-  "en": ""
+  "en": "\"Sure thing! Then here, have this!\""
  },
  {
   "id": "GSV0409D/2/01A6",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}カブ{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got a {bb}turnip{ww}!{KN}"
  },
  {
   "id": "GSV0409D/2/01FA",
   "kind": "msg",
   "jp": "「あっ　桃太郎さん　そのせつは\n　ありがとうございましただ！」\n　{KP}\n「{bb}カブ{ww}が　ほしくなったら\n　えんりょなく　言ってくだせい！」\n　",
-  "en": ""
+  "en": "\"Ah, Momotaro-san! Thank ye kindly for the other day!\"{KP}\"If ya ever want a {bb}turnip{ww}, don't be shy, just say so!\""
  },
  {
   "id": "GSV0409D/2/029A",
   "kind": "msg",
   "jp": "「これは　桃太郎さん！\n　え？　{bb}カブ{ww}が　ほしいだか？」\n　{KN}",
-  "en": ""
+  "en": "\"Well, if it ain't Momotaro-san! Eh? Ya want a {bb}turnip{ww}?\"{KN}"
  },
  {
   "id": "GSV0409D/2/02F8",
   "kind": "msg",
   "jp": "「わかりましただ！\n　では　これを　どうぞ！」\n　",
-  "en": ""
+  "en": "\"Sure thing! Then here ya go!\""
  },
  {
   "id": "GSV0409D/2/033A",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}カブ{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got a {bb}turnip{ww}!{KN}"
  },
  {
   "id": "GSV0409D/2/037E",
   "kind": "msg",
   "jp": "「必要な時は　言ってくだせい！」\n　\n　",
-  "en": ""
+  "en": "\"Just say so whenever ya need one!\""
  },
  {
   "id": "GSV0409D/2/03C6",
   "kind": "msg",
   "jp": "「あっ　桃太郎さん　さきほどは\n　ありがとうございましただ！」\n　{KP}\n「え？\n　{bb}カブ{ww}が　ほしいだか？」\n　{KP}\n「でも　桃太郎さん！\n　持っている物が　いっぱいに\n　なっているだ！」",
-  "en": ""
+  "en": "\"Ah, Momotaro-san! Thank ye kindly for earlier!\"{KP}\"Eh? Ya want a {bb}turnip{ww}?\"{KP}\"But Momotaro-san! Yer hands are already full of stuff!\""
  },
  {
   "id": "GSV0409D/2/0498",
   "kind": "msg",
   "jp": "「これは　桃太郎さん！\n　え？　{bb}カブ{ww}が　ほしいだか？」\n　{KP}\n「でも　桃太郎さん！\n　持っている物が　いっぱいに\n　なっているだ！」",
-  "en": ""
+  "en": "\"Well, if it ain't Momotaro-san! Eh? Ya want a {bb}turnip{ww}?\"{KP}\"But Momotaro-san! Yer hands are already full of stuff!\""
  }
 ]

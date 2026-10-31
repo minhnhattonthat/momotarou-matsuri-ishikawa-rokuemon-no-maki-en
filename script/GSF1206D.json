@@ -9,7 +9,7 @@
   "id": "GSF1206D/2/0042",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}{MM}{ww}を　使った！\n　",
-  "en": ""
+  "en": "Momotaro used {bb}{MM}{ww}!"
  },
  {
   "id": "GSF1206D/2/008E",
@@ -39,7 +39,7 @@
   "id": "GSF1206D/3/003C",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}{MM}{ww}を　使った！\n　",
-  "en": ""
+  "en": "Momotaro used {bb}{MM}{ww}!"
  },
  {
   "id": "GSF1206D/3/006C",
@@ -105,7 +105,7 @@
   "id": "GSF1206D/9/0002",
   "kind": "msg",
   "jp": "桃太郎は\n足もとを　しらべた！\n　{KP}\nしかし　気になるものは\n何もなかった！\n　",
-  "en": ""
+  "en": "Momotaro examined the ground at his feet!{KP}But there was nothing of interest!"
  },
  {
   "id": "GSF1206D/10/0100",

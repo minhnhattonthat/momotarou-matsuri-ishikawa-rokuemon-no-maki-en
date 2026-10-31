@@ -3,132 +3,132 @@
   "id": "GSV0408D/2/0032",
   "kind": "msg",
   "jp": "「初めまして　桃太郎さん！\n　おいらは　{bb}権兵衛{ww}と\n　いいますだ！」{KP}\n　\n「着物を　売り歩く　商いを\n　していたんだが　鬼面党に\n　品物をすべて　とられただ！」{KP}\n　\n「これから\n　どうしていいやら……」\n　",
-  "en": ""
+  "en": "\"Nice to meet ya, Momotaro-san! The name's {bb}Gonbe{ww}!\"{KP}\"I used to go 'round sellin' kimonos, but the Oni Mask Gang took all my wares!\"{KP}\"What am I gonna do now...\""
  },
  {
   "id": "GSV0408D/2/0124",
   "kind": "msg",
   "jp": "「えっ！？　{bb}おツルさん{ww}という\n　おなごを　知ってるかって？」\n　{KP}\n「………知らねぇだ！」\n　\n　",
-  "en": ""
+  "en": "\"What?! Do I know a gal named {bb}Otsuru-san{ww}?\"{KP}\"......Never heard of her!\""
  },
  {
   "id": "GSV0408D/2/01CC",
   "kind": "msg",
   "jp": "「いやー！　{bb}おツル{ww}は\n　よく　はたらくだ！」\n　",
-  "en": ""
+  "en": "\"Boy! {bb}Otsuru{ww} sure is a hard worker!\""
  },
  {
   "id": "GSV0408D/2/0214",
   "kind": "msg",
   "jp": "「夜になると　{bb}おツル{ww}は\n　部屋に　こもって　反物を\n　こさえているだ！」{KP}\n　\n「のぞいては　ダメというので\n　おいらは　ここで　じっと\n　しているだ！」",
-  "en": ""
+  "en": "\"At night, {bb}Otsuru{ww} shuts herself in her room and weaves cloth!\"{KP}\"She says I mustn't peek, so I'm stayin' right here, keepin' still!\""
  },
  {
   "id": "GSV0408D/2/02DC",
   "kind": "msg",
   "jp": "「おかげさまで　商売も\n　うまく　いくようになっただ」\n　{KP}\n「これも　{bb}おツル{ww}の\n　おかげだ！」\n　",
-  "en": ""
+  "en": "\"Thanks to you, business is goin' well now.\"{KP}\"And it's all thanks to {bb}Otsuru{ww}, too!\""
  },
  {
   "id": "GSV0408D/2/035C",
   "kind": "msg",
   "jp": "「おかげさまで　商売も\n　うまく　いくようになっただ」\n　{KP}\n「あいかわらず　夜になると\n　部屋に　こもって　反物を\n　こさえているだ！」",
-  "en": ""
+  "en": "\"Thanks to you, business is goin' well now.\"{KP}\"She still shuts herself in her room at night and weaves cloth, same as ever!\""
  },
  {
   "id": "GSV0408D/2/03FE",
   "kind": "msg",
   "jp": "「こげな　めんこい　娘を\n　嫁に　もらえて　おいら\n　幸せだ！」",
-  "en": ""
+  "en": "\"I'm a lucky man, gettin' a cute gal like her for my bride!\""
  },
  {
   "id": "GSV0408D/3/0018",
   "kind": "msg",
   "jp": "「あっ！　桃太郎さん……」\n　\n　{KP}\n「………そう　わたしは\n　ツルなのです！」\n　{KP}\n「森で　きずついていた時　\n　{bb}権兵衛さん{ww}に　助けてもらった\n　恩返しをしたくて」{KP}\n　\n「女の人に　すがたを\n　かえて　権兵衛さんを\n　さがしていたのです」{KP}\n　\n「桃太郎さん　このことは\n　ないしょに　しておいて\n　いただけませんか？」{KN}",
-  "en": ""
+  "en": "\"Oh! Momotaro-san...\"{KP}\"......Yes, I am a crane!\"{KP}\"When I was hurt in the forest, {bb}Gonbe-san{ww} saved me, and I wanted to repay his kindness,\"{KP}\"so I took the form of a woman and went looking for Gonbe-san.\"{KP}\"Momotaro-san, would you please keep this a secret?\"{KN}"
  },
  {
   "id": "GSV0408D/3/0196",
   "kind": "msg",
   "jp": "　\n「ありがとうございます！\n　お礼に　この{bb}方言カード{ww}を\n　さしあげます！」",
-  "en": ""
+  "en": "\"Thank you so much! As thanks, please take this {bb}Dialect Card{ww}!\""
  },
  {
   "id": "GSV0408D/3/01F8",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０２５{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 025{ww}!{KN}"
  },
  {
   "id": "GSV0408D/3/024C",
   "kind": "msg",
   "jp": "　\n「そんなこと　いわずに……\n　ないしょに　しておいて\n　いただけますよね？」{KN}",
-  "en": ""
+  "en": "\"Please don't say that... You will keep it a secret, won't you?\"{KN}"
  },
  {
   "id": "GSV0408D/3/02E0",
   "kind": "msg",
   "jp": "「こんばんは　桃太郎さん！」\n　\n　",
-  "en": ""
+  "en": "\"Good evening, Momotaro-san!\""
  },
  {
   "id": "GSV0408D/3/0316",
   "kind": "msg",
   "jp": "「こんばんは　桃太郎さん！」\n　\n　{KP}\n「えっ？\n　{bb}虹の玉{ww}のことですか…」\n　{KP}\n「わかりました！\n　では　お教えいたしましょう！」\n　{KP}\n「{bb}虹の玉{ww}は　龍の島に\n　住む　{bb}水龍さま{ww}が\n　持っておられます！」{KP}\n　\n「まずは　龍の島に　ある\n　{bb}小太郎の村{ww}に　行って」\n　{KP}\n「そこの　村長さんに\n　お会いに　なったほうが\n　よいですよ！」{KP}\n　\n「{bb}水龍さま{ww}を　呼び出す\n　ために　必要な　伝説の笛を\n　お持ちのようですから…」",
-  "en": ""
+  "en": "\"Good evening, Momotaro-san!\"{KP}\"Huh? About the {bb}Rainbow Orb{ww}...\"{KP}\"Very well! Then let me tell you!\"{KP}\"The {bb}Rainbow Orb{ww} is held by {bb}Water Dragon-sama{ww}, who lives on Dragon Island!\"{KP}\"First, go to {bb}Kotaro Village{ww} on Dragon Island,\"{KP}\"and you'd do well to meet the village chief there!\"{KP}\"He seems to have the legendary flute you need to call {bb}Water Dragon-sama{ww}...\""
  },
  {
   "id": "GSV0408D/4/002C",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　おかげさまで　この人と\n　幸せに　暮らしています！」",
-  "en": ""
+  "en": "\"Momotaro-san! Thanks to you, I'm living happily with this man!\""
  },
  {
   "id": "GSV0408D/4/0084",
   "kind": "msg",
   "jp": "「こんにちは　桃太郎さん！」\n　\n　{KP}\n「えっ？　{bb}虹の玉{ww}のことですか…\n　すみません　今　ここでは\n　お話できません！」",
-  "en": ""
+  "en": "\"Hello, Momotaro-san!\"{KP}\"Huh? About the {bb}Rainbow Orb{ww}... I'm sorry, I can't talk about it here right now!\""
  },
  {
   "id": "GSV0408D/5/004C",
   "kind": "msg",
   "jp": "「えっ！？　あなたが\n　おツル…さんで……」\n　",
-  "en": ""
+  "en": "\"Wha?! You're... Otsuru-san......\""
  },
  {
   "id": "GSV0408D/5/008C",
   "kind": "msg",
   "jp": "「はい！\n　あなたさまを\n　さがしつづけて　おりました」{KP}\n　\n「どうか　わたしを\n　あなたさまの　嫁にして\n　いただけないでしょうか？」",
-  "en": ""
+  "en": "\"Yes! I have been searching for you all this time.\"{KP}\"Would you please take me as your bride?\""
  },
  {
   "id": "GSV0408D/5/012C",
   "kind": "msg",
   "jp": "「でえっ！　あなたが\n　おいらの　嫁っこに！？」\n　",
-  "en": ""
+  "en": "\"Wha-huh! You wanna be my bride?!\""
  },
  {
   "id": "GSV0408D/5/0170",
   "kind": "msg",
   "jp": "「森で助けて……いや　森で\n　おみかけした時に　ひとめぼれを\n　してしまいました！」{KP}\n　\n「どうか！\n　あなたさまの　そばに\n　おいてくださいませ！」",
-  "en": ""
+  "en": "\"When you saved me in the forest... I mean, when I saw you in the forest, it was love at first sight!\"{KP}\"Please! Let me stay by your side!\""
  },
  {
   "id": "GSV0408D/5/021E",
   "kind": "msg",
   "jp": "「う～ん……\n　よしっ！　わかっただ！」\n　{KP}\n「こんな　おいらでよければ\n　ここで　暮らしてくれ！」\n　",
-  "en": ""
+  "en": "\"Hmmm...... All right! I got it!\"{KP}\"If a fella like me is good enough, then live here with me!\""
  },
  {
   "id": "GSV0408D/5/02AE",
   "kind": "msg",
   "jp": "{bb}おツル{ww}は　{bb}権兵衛{ww}の\n嫁に　なった！\n　",
-  "en": ""
+  "en": "{bb}Otsuru{ww} became {bb}Gonbe{ww}'s bride!"
  },
  {
   "id": "GSV0408D/5/02FC",
   "kind": "msg",
   "jp": "「桃太郎さん\n　ありがとうございました！」\n　{KP}\n「おかげで　{bb}権兵衛さん{ww}に\n　会うことができました！」\n　{KP}\n「お礼に　よいことを\n　教えてさしあげます！」\n　{KP}\n「{bb}並び洞窟{ww}の出口を　ふさいで\n　誰かを　待ちぶせしている\n　{bb}白蛇鬼{ww}は」{KP}\n　\n「カチカチの村の　近くに\n　住む　{bb}たのきゅうさん{ww}が\n　持っている」{KP}\n　\n「{bb}けむり玉{ww}が　とても\n　にがてなようです！」\n　",
-  "en": ""
+  "en": "\"Thank you so much, Momotaro-san!\"{KP}\"Thanks to you, I was able to meet {bb}Gonbe-san{ww}!\"{KP}\"As thanks, let me tell you something useful!\"{KP}\"The {bb}White Snake Oni{ww}, who's blocking the exit of {bb}Row Cave{ww} and lying in wait for someone,\"{KP}\"really can't stand the {bb}Smoke Bomb{ww}\"{KP}\"that {bb}Tanokyu-san{ww}, who lives near Kachi-Kachi Village, has!\""
  }
 ]

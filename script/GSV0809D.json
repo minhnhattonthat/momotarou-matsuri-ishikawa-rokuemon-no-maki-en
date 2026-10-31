@@ -3,132 +3,132 @@
   "id": "GSV0809D/0/0032",
   "kind": "msg",
   "jp": "「ちょっと　ちょっと　お客さん！\n　ただで　プレイしようなんて\n　かんべんしてくださいよ～～！」",
-  "en": ""
+  "en": "\"Hey, hey, hold on there! Don't go trying to play for free! Gimme a break!\""
  },
  {
   "id": "GSV0809D/0/00DC",
   "kind": "msg",
   "jp": "「ちょっと　ちょっと　お客さん！\n　ただで　プレイしようなんて\n　かんべんしてくださいよ～～！」",
-  "en": ""
+  "en": "\"Hey, hey, hold on there! Don't go trying to play for free! Gimme a break!\""
  },
  {
   "id": "GSV0809D/2/002A",
   "kind": "msg",
   "jp": "「ありゃりゃ　桃太郎さん！\n　いやはや　なんとも…」\n　{KP}\n「桃太郎さんには　かないませんや\n　今日は　これで…」\n　",
-  "en": ""
+  "en": "\"Yikes, Momotaro-san! Well, I never...\"{KP}\"There's no standing up to you, Momotaro-san. I'll call it a day...\""
  },
  {
   "id": "GSV0809D/2/011A",
   "kind": "msg",
   "jp": "「ありゃりゃ　桃太郎さん！\n　金太郎さんまで　ごいっしょで！」\n　{KP}\n「ほぉ　ほぉ…\n　へぇー　そうですかい！」\n　{KP}\n「今までの　ワルさは\n　ニセモノの　しわざだったってか！」\n　{KP}\n「そういったことでしたら\n　どうぞ　どうぞ！」\n　",
-  "en": ""
+  "en": "\"Yikes, Momotaro-san! And Kintaro-san's with you, too!\"{KP}\"Oho, oho... Huh, is that so!\"{KP}\"So all that mischief was a fake's doing, you say!\"{KP}\"If that's how it is, go right ahead!\""
  },
  {
   "id": "GSV0809D/2/023C",
   "kind": "msg",
   "jp": "「いらっしゃいませ！\n　{bb}鬼たたき{ww}が\n　５０両で楽しめます」{KN}",
-  "en": ""
+  "en": "\"Welcome! You can enjoy {bb}Whack-an-Oni{ww} for 50 ryo.\"{KN}"
  },
  {
   "id": "GSV0809D/2/02C4",
   "kind": "msg",
   "jp": "　\n「またのおこしを」\n　\n　",
-  "en": ""
+  "en": "\"Do come again.\""
  },
  {
   "id": "GSV0809D/2/031C",
   "kind": "msg",
   "jp": "「遊び方の説明を　聞きますか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Would you like to hear how to play?\"{KN}"
  },
  {
   "id": "GSV0809D/2/0396",
   "kind": "msg",
   "jp": "　\n「桃太郎さん　\n　お金がたりませんよ！」\n　{KP}\n「またのおこしを」\n　\n　",
-  "en": ""
+  "en": "\"Momotaro-san, you don't have enough money!\"{KP}\"Do come again.\""
  },
  {
   "id": "GSV0809D/3/002A",
   "kind": "msg",
   "jp": "「ちょっと！　桃太郎さん！\n　もう　かんべん　してくださいな！」\n　{KP}\n「こう　毎日　道具を\n　こわされたんじゃ…」\n　",
-  "en": ""
+  "en": "\"Hey! Momotaro-san! Please, give me a break already!\"{KP}\"If my stall items keep getting broken every single day like this...\""
  },
  {
   "id": "GSV0809D/3/011C",
   "kind": "msg",
   "jp": "「あら！　桃太郎さん！\n　今日は　金太郎さんも！」\n　{KP}\n「え！？\n　ふん　ふん…」\n　{KP}\n「そうでしたの！」\n　\n　{KP}\n「桃太郎さんの　ニセモノが\n　いるんですね！」\n　{KP}\n「そういうことでしたら\n　どうぞ　どうぞ！」\n　",
-  "en": ""
+  "en": "\"Oh! Momotaro-san! And Kintaro-san too, today!\"{KP}\"What?! Uh-huh, uh-huh...\"{KP}\"So that's how it was!\"{KP}\"So there's a fake Momotaro-san going around!\"{KP}\"Well, if that's how it is, go right ahead!\""
  },
  {
   "id": "GSV0809D/3/0236",
   "kind": "msg",
   "jp": "「いらっしゃいませ！\n　{bb}風車くるりん{ww}が\n　５０両で楽しめます」{KN}",
-  "en": ""
+  "en": "\"Welcome! You can enjoy {bb}Pinwheel Spin{ww} for 50 ryo.\"{KN}"
  },
  {
   "id": "GSV0809D/3/02C2",
   "kind": "msg",
   "jp": "　\n「またのおこしを」\n　\n　",
-  "en": ""
+  "en": "\"Do come again.\""
  },
  {
   "id": "GSV0809D/3/031A",
   "kind": "msg",
   "jp": "「遊び方の説明を　聞きますか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Would you like to hear how to play?\"{KN}"
  },
  {
   "id": "GSV0809D/3/0394",
   "kind": "msg",
   "jp": "　\n「桃太郎さん　\n　お金がたりませんよ！」\n　{KP}\n「またのおこしを」\n　\n　",
-  "en": ""
+  "en": "\"Momotaro-san, you don't have enough money!\"{KP}\"Do come again.\""
  },
  {
   "id": "GSV0809D/4/0002",
   "kind": "msg",
   "jp": "「{bb}鬼たたき{ww}では　いつも\n　天邪鬼を　のがして\n　しまうんでしゅ～！」",
-  "en": ""
+  "en": "\"In {bb}Whack-an-Oni{ww}, I alwayth let the Amanojaku ethcape!\""
  },
  {
   "id": "GSV0809D/5/0002",
   "kind": "msg",
   "jp": "「あの　{bb}鬼たたき{ww}なんじゃが\n　どういうことかのォ！」\n　{KP}\n「ここかと　思えば　またあちら！\n　あの　井戸は　どうなっとるんじゃ」\n　",
-  "en": ""
+  "en": "\"About that {bb}Whack-an-Oni{ww}, what's going on there, eh!\"{KP}\"You think it's here, then it's over there! What's the deal with those wells?\""
  },
  {
   "id": "GSV0809D/6/0002",
   "kind": "msg",
   "jp": "「ねぇ！　{bb}風車くるりん{ww}で\n　高得点を　めざすなら」\n　{KP}\n「５つ以上の　れんさを\n　何度も　やらないと　だめなのよ！」\n　",
-  "en": ""
+  "en": "\"Hey! If you're aiming for a high score in {bb}Pinwheel Spin{ww},\"{KP}\"you have to make chains of 5 or more, over and over!\""
  },
  {
   "id": "GSV0809D/8/0024",
   "kind": "msg",
   "jp": "「金太郎先生！\n　大変だー！」\n　",
-  "en": ""
+  "en": "\"Kintaro-sensei! We've got trouble!\""
  },
  {
   "id": "GSV0809D/8/0074",
   "kind": "msg",
   "jp": "「ハァ　ハァ　ハァ……」\n　\n　",
-  "en": ""
+  "en": "\"Huff, huff, huff......\""
  },
  {
   "id": "GSV0809D/8/00BC",
   "kind": "msg",
   "jp": "「どうしたんだ！　金一郎！\n　そんなに　あわてて！」\n　",
-  "en": ""
+  "en": "\"What's wrong, Kinichiro? What's got you in such a panic?\""
  },
  {
   "id": "GSV0809D/8/0104",
   "kind": "msg",
   "jp": "「桃太郎さんが　やぐらだいこに\n　イタズラしてるんだ！」\n　{KP}\n「あれぇー？\n　桃太郎さんが　ここにも！\n　だって…　やぐらだいこに！」",
-  "en": ""
+  "en": "\"Momotaro-san is messing around with the yagura drum!\"{KP}\"Huh? Momotaro-san's here too! But... he's at the yagura drum!\""
  },
  {
   "id": "GSV0809D/8/01A0",
   "kind": "msg",
   "jp": "「この桃太郎は　本物だど！\n　さては　そいつが　例の\n　ニセモノだなー！」{KP}\n　\n「ニセモノは　そこの\n　広場だな！\n　行くぞ！　桃太郎！」",
-  "en": ""
+  "en": "\"This Momotaro's the real one! So that one must be the fake we've been hearin' about!\"{KP}\"The fake's in the square over there! Let's go, Momotaro!\""
  }
 ]

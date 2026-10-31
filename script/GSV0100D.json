@@ -63,145 +63,145 @@
   "id": "GSV0100D/17/0824",
   "kind": "msg",
   "jp": "「ステータスの　右下の\n　{bb}仙人の　絵{ww}　じゃが…」\n　{KP}\n「今の　桃太郎さんの\n　育ちぐあいが　書いてあるのじゃ！」\n　{KP}\n「桃太郎さんは\n　ゆうぎの　世界では」\n　{KP}\n「仙人と　呼ばれても　よい\n　という　意味じゃ！」\n　{KP}\n「これからも　ゆうぎ道を\n　きわめるのじゃ！」\n　",
-  "en": ""
+  "en": "\"About the {bb}hermit picture{ww} at the bottom right of your Status...\"{KP}\"It shows how far you've grown, Momotaro-san!\"{KP}\"You, Momotaro-san, in the world of games...\"{KP}\"could rightly be called a hermit. That's what it means!\"{KP}\"Keep on mastering the Way of Games!\""
  },
  {
   "id": "GSV0100D/18/0002",
   "kind": "msg",
   "jp": "「旅立ちの村へ　ようこそ！」\n　\n　{KP}\n「この村の　人たちは\n　みんな　おせっかいなのよ！」\n　{KP}\n「でもね　桃太郎さん！\n　旅に　出る前に　いろいろと\n　聞いておいたほうが　いいわよ！」",
-  "en": ""
+  "en": "\"Welcome to Tabidachi Village!\"{KP}\"The folks in this village are all real busybodies!\"{KP}\"But you know, Momotaro-san, it's a good idea to hear what they have to say before you set off on your journey!\""
  },
  {
   "id": "GSV0100D/19/0002",
   "kind": "msg",
   "jp": "「×ボタンを　押しながら　歩くと\n　少しだけ　速く　歩けるんだ！」\n　{KP}\n「急いでいる時には\n　覚えておくと　便利だよ！」\n　{KP}\n「あと　{bb}コマンドメニュー{ww}の\n　{bb}はやあし{ww}で　歩くスピードを」\n　{KP}\n「さらに　速くすることが\n　できるんだ！」\n　",
-  "en": ""
+  "en": "\"If you hold the X button while you walk, you go just a little faster!\"{KP}\"That's handy to remember when you're in a hurry!\"{KP}\"And with {bb}Dash{ww} in the {bb}Command Menu{ww}, you can make your walking speed...\"{KP}\"even faster than that!\""
  },
  {
   "id": "GSV0100D/20/0002",
   "kind": "msg",
   "jp": "「ねぇ　桃太郎さん！\n　畑に　行ってみただか？」\n　{KP}\n「農家の　人が　考えた　ゆうぎ\n　{bb}種まきドンドン！{ww}が　できるだよ！」\n　{KP}\n「その　ゆうぎの　コツは\n　ほって　ほって　ほって　種をまく」\n　{KP}\n「このタイミングさえ　まもれば\n　ほるスピードが　速くなるだ！」\n　{KP}\n「この　ゆうぎは　他の　村の\n　畑でも　できるだよ！」\n　{KP}\n「がんばって　免許皆伝を\n　取るだ！」\n　",
-  "en": ""
+  "en": "\"Hey, Momotaro-san! Ya been out to the fields yet?\"{KP}\"Ya can play {bb}Sowing Don-Don!{ww}, a game the farmers came up with!\"{KP}\"The trick to that game is dig, dig, dig, then sow the seeds.\"{KP}\"Keep to that rhythm, and ya'll dig faster and faster!\"{KP}\"Ya can play that game in the fields of other villages, too!\"{KP}\"Do your best and earn your Full Mastery!\""
  },
  {
   "id": "GSV0100D/21/002E",
   "kind": "msg",
   "jp": "「桃太郎さん！　{bb}方言カード{ww}の\n　ことを　知りたいかね？」\n　{KN}",
-  "en": ""
+  "en": "\"Momotaro-san! Would you like to know about {bb}Dialect Cards{ww}?\"{KN}"
  },
  {
   "id": "GSV0100D/21/0090",
   "kind": "msg",
   "jp": "「そうか　…　がっかり」\n　\n　",
-  "en": ""
+  "en": "\"I see... What a letdown.\""
  },
  {
   "id": "GSV0100D/21/00C4",
   "kind": "msg",
   "jp": "「そうか　そうか！」\n　\n　{KP}\n「{bb}方言カード{ww}は　そこらじゅうで\n　手に入る　流行りのカードじゃ！」\n　{KP}\n「しかし　{bb}カードアルバム{ww}が　なければ\n　見ることも　人に　見せることも\n　できない　ふしぎなカードじゃ！」{KP}\n　\n「{bb}カード仙人{ww}を　さがして\n　{bb}カードアルバム{ww}を　手に入れて\n　わたしの所へ　来るがいい！」{KP}\n　\n「全部で　どのくらいの\n　枚数に　なるのかは　わからんが」\n　{KP}\n「人より　多く　集めると\n　じまんのタネに　なるぞ！」\n　{KP}\n「もう一度　話を　聞きたいかね？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"I see, I see!\"{KP}\"{bb}Dialect Cards{ww} are all the rage, and you can find them all over the place!\"{KP}\"But they're strange cards: without a {bb}Card Album{ww}, you can't look at them or show them to anyone!\"{KP}\"Find the {bb}Card Hermit{ww}, get a {bb}Card Album{ww}, and then come see me!\"{KP}\"I don't know how many cards there are in all, but...\"{KP}\"collect more than anyone else, and you'll have something to brag about!\"{KP}\"Would you like to hear that again?\"{KN}"
  },
  {
   "id": "GSV0100D/21/02F6",
   "kind": "msg",
   "jp": "「おお　それは　{bb}カードアルバム{ww}！\n　やっと　見つけたのかね！」\n　{KP}\n「おめでとう　桃太郎さん！\n　記念に　これを　あげよう！」\n　",
-  "en": ""
+  "en": "\"Oh, that's a {bb}Card Album{ww}! So you finally found one!\"{KP}\"Congratulations, Momotaro-san! Here's a little something to mark the occasion!\""
  },
  {
   "id": "GSV0100D/21/0392",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０４４{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 044{ww}!{KN}"
  },
  {
   "id": "GSV0100D/21/03E6",
   "kind": "msg",
   "jp": "「{bb}カードアルバム{ww}が　あれば\n　{bb}方言カード{ww}を見ることや　人に\n　見せることが　できるぞ！」",
-  "en": ""
+  "en": "\"With a {bb}Card Album{ww}, you can look at your {bb}Dialect Cards{ww} and show them to other people!\""
  },
  {
   "id": "GSV0100D/22/0002",
   "kind": "msg",
   "jp": "「{bb}コマンドメニュー{ww}の\n　出しかたを　聞きたいですか？」\n　{KN}",
-  "en": ""
+  "en": "\"Do you want to know how to open the {bb}Command Menu{ww}?\"{KN}"
  },
  {
   "id": "GSV0100D/22/0062",
   "kind": "msg",
   "jp": "「{bb}コマンドメニュー{ww}を　出すには\n　△ボタンを　押すのよ！」\n　",
-  "en": ""
+  "en": "\"To open the {bb}Command Menu{ww}, press the Triangle button!\""
  },
  {
   "id": "GSV0100D/22/00B2",
   "kind": "msg",
   "jp": "「そうですか\n　教えてあげたかったのに…」\n　",
-  "en": ""
+  "en": "\"Oh, I see... And I wanted to teach you, too...\""
  },
  {
   "id": "GSV0100D/23/0002",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　{bb}セーブ{ww}することを　忘れないでね！」\n　{KP}\n「場所は　どこだって！？\n　神社に　決まってるじゃないの～！\n　もう　忘れちゃったの！？」",
-  "en": ""
+  "en": "\"Momotaro-san! Don't forget to {bb}save{ww}!\"{KP}\"Where, you ask?! At a shrine, of course! Have you forgotten already?!\""
  },
  {
   "id": "GSV0100D/24/000A",
   "kind": "msg",
   "jp": "「ねえ　ねえ　桃太郎さん！\n　{bb}ゆうぎ名人{ww}のこと　聞きたい？」\n　{KN}",
-  "en": ""
+  "en": "\"Hey, hey, Momotaro-san! Wanna hear about the {bb}Game Master{ww}?\"{KN}"
  },
  {
   "id": "GSV0100D/24/006E",
   "kind": "msg",
   "jp": "「聞きたいんだ！\n　じゃあ　教えてあげるわね！」\n　{KP}\n「いま　お祭りなんかで\n　流行ってる　らしいんだけど」\n　{KP}\n「ゆうぎ場っていう　ゆうぎを\n　楽しめる　所が　あるのよ！」\n　{KP}\n「そこで　遊ぶと\n　段が　認定　されるんだって！」\n　{KP}\n「でね　でね　そうすると　いろんな\n　ゆうぎで　段を　もらえるじゃない」\n　{KP}\n「で　その段の　合計が\n　{bb}１００段{ww}に　なると！」\n　{KP}\n「なんと！\n　{bb}ゆうぎ名人{ww}に　なれるんだって！」\n　{KP}\n「すごいでしょ　すごいでしょ！\n　{bb}ゆうぎ名人{ww}よ！」\n　{KP}\n「{bb}１００段{ww}よ！　{bb}１００段{ww}で\n　{bb}ゆうぎ名人{ww}と　呼ばれるのよ！」\n　{KP}\n「桃太郎さんも　がんばって\n　{bb}ゆうぎ名人{ww}を　めざしてね！」\n　{KP}\n「ねえ　ねえ\n　もう　一度　聞きたい？」\n　{KN}",
-  "en": ""
+  "en": "\"You do! Then I'll tell you!\"{KP}\"It seems they're all the rage at festivals right now...\"{KP}\"there are these places called game stalls where you can enjoy games!\"{KP}\"They say if you play there, you get awarded levels!\"{KP}\"And, and, that way you can earn levels in all kinds of games, right?\"{KP}\"So when those levels add up to {bb}level 100{ww}...\"{KP}\"Guess what! They say you can become a {bb}Game Master{ww}!\"{KP}\"Isn't that amazing? Isn't it? A {bb}Game Master{ww}!\"{KP}\"{bb}Level 100{ww}! At {bb}level 100{ww}, they call you a {bb}Game Master{ww}!\"{KP}\"You do your best too, Momotaro-san, and aim to be a {bb}Game Master{ww}!\"{KP}\"Hey, hey, wanna hear it again?\"{KN}"
  },
  {
   "id": "GSV0100D/24/0368",
   "kind": "msg",
   "jp": "「なんだ　ざーんねん！」\n　\n　",
-  "en": ""
+  "en": "\"Aww, what a shaaame!\""
  },
  {
   "id": "GSV0100D/25/0002",
   "kind": "msg",
   "jp": "「ボクは　ウンチだよー　ぷりっ！\n　こんにちわ　桃太郎さん！」\n　{KP}\n「鬼退治も　おわって\n　今度は　お祭りですか！」\n　{KP}\n「楽しんで　きてくださいね！」\n　\n　",
-  "en": ""
+  "en": "\"I'm Poop! Plop! Hello, Momotaro-san!\"{KP}\"Your oni-slaying is over, and now it's festivals, huh?\"{KP}\"Go and have fun!\""
  },
  {
   "id": "GSV0100D/26/0002",
   "kind": "msg",
   "jp": "「ボクは　{bb}青ウンチ{ww}です　ぷりっ！\n　こんにちわ　桃太郎さん！」\n　{KP}\n「{bb}ウンチの穴{ww}に　行きたいのですが\n　ひとりでは　心細くて……」\n　{KP}\n「ボクを　{bb}ウンチの穴{ww}に\n　連れていってくれますか？」\n　{KN}",
-  "en": ""
+  "en": "\"I'm {bb}Blue Poop{ww}! Plop! Hello, Momotaro-san!\"{KP}\"I want to go to the {bb}Poop Hole{ww}, but I'm scared to go alone......\"{KP}\"Will you take me to the {bb}Poop Hole{ww}?\"{KN}"
  },
  {
   "id": "GSV0100D/26/0100",
   "kind": "msg",
   "jp": "{bb}青ウンチ{ww}が\n仲間に　くわわった！\n　{KN}",
-  "en": ""
+  "en": "{bb}Blue Poop{ww} joined the party!{KN}"
  },
  {
   "id": "GSV0100D/26/0148",
   "kind": "msg",
   "jp": "「ん～　ざーんねん！　ぷりっ！」\n　\n　",
-  "en": ""
+  "en": "\"Mmm, what a shaaame! Plop!\""
  },
  {
   "id": "GSV0100D/27/0002",
   "kind": "msg",
   "jp": "「カチカチの村は\n　この　旅立ちの村を　出て\n　北に　あるわノヨ！」{KP}\n　\n「今　お祭りやってるんでショ？\n　わたしも　行きたいわノヨ！」\n　",
-  "en": ""
+  "en": "\"Kachi-Kachi Village is north of here, once you leave Tabidachi Village, noyo!\"{KP}\"There's a festival on right now, isn't there-sho? I wanna go too, noyo!\""
  },
  {
   "id": "GSV0100D/28/0002",
   "kind": "msg",
   "jp": "「鬼たちも　すっかり\n　おとなしくなって\n　今じゃ　静かなもんです！」",
-  "en": ""
+  "en": "\"The oni have calmed right down. Things are nice and quiet now!\""
  },
  {
   "id": "GSV0100D/29/000A",
   "kind": "msg",
   "jp": "「モー！」\n　\n　",
-  "en": ""
+  "en": "\"Moo!\""
  },
  {
   "id": "GSV0100D/29/0030",
@@ -213,84 +213,84 @@
   "id": "GSV0100D/29/0076",
   "kind": "msg",
   "jp": "「モー！」\n　\n　{KP}\n牛が　おちちを　だした！\n桃太郎は　それを　飲んだ！\n　{KP}\nゴクゴクゴク……\n　\n　{KP}\nふるさとの　味がした！\n　\n　",
-  "en": ""
+  "en": "\"Moo!\"{KP}The cow gave some milk! Momotaro drank it!{KP}Glug, glug, glug......{KP}It tasted like home!"
  },
  {
   "id": "GSV0100D/29/0120",
   "kind": "msg",
   "jp": "「モー！」\n　\n　{KP}\n牛が　おちちを　だした！\n桃太郎は　それを　持っていた\n竹づつに　入れた！",
-  "en": ""
+  "en": "\"Moo!\"{KP}The cow gave some milk! Momotaro put it in the bamboo flask he was carrying!"
  },
  {
   "id": "GSV0100D/29/019E",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}牛乳の竹づつ{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Milk Flask{ww}!{KN}"
  },
  {
   "id": "GSV0100D/30/001E",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　あっしの　顔を　よ～～く\n　覚えておいて　おくんなさい」",
-  "en": ""
+  "en": "\"Momotaro-san! Take a good, long look at this face of mine and remember it, will ya?\""
  },
  {
   "id": "GSV0100D/30/007A",
   "kind": "msg",
   "jp": "「ありゃ！　こいつぁ\n　おいらに　そっくりだ！」\n　{KP}\n「桃太郎さん　そのお面を\n　よーく　見せてくんな！」\n　",
-  "en": ""
+  "en": "\"Whoa! This thing looks just like me!\"{KP}\"Momotaro-san, let me get a good look at that mask!\""
  },
  {
   "id": "GSV0100D/30/00FA",
   "kind": "msg",
   "jp": "　桃太郎は\n　お面を　見せてあげた！\n　",
-  "en": ""
+  "en": "Momotaro showed him the mask!"
  },
  {
   "id": "GSV0100D/30/012E",
   "kind": "msg",
   "jp": "「桃太郎さん　ありがとさんよ！\n　お礼といっちゃ　なんだが\n　これを　もらってくんな！」",
-  "en": ""
+  "en": "\"Much obliged, Momotaro-san! It ain't much of a thank-you, but take this!\""
  },
  {
   "id": "GSV0100D/30/0196",
   "kind": "msg",
   "jp": "　\n桃太郎は\n{bb}方言カード０６４{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 064{ww}!{KN}"
  },
  {
   "id": "GSV0100D/30/01F0",
   "kind": "msg",
   "jp": "「こんにちは　桃太郎さん！」\n　\n　",
-  "en": ""
+  "en": "\"Hello, Momotaro-san!\""
  },
  {
   "id": "GSV0100D/31/0002",
   "kind": "msg",
   "jp": "「ひさしぶりじゃな　桃太郎！\n　おぬしの　おかげで　この\n　{bb}旅立ちの村{ww}も　平和になった！」{KP}\n　\n「礼を　言うぞ！」\n　\n　",
-  "en": ""
+  "en": "\"It's been a while, Momotaro! Thanks to you, {bb}Tabidachi Village{ww} is at peace!\"{KP}\"You have my thanks!\""
  },
  {
   "id": "GSV0100D/32/0070",
   "kind": "msg",
   "jp": "「桃太郎さんよ！\n　{bb}種まきドンドン！{ww}を　やるべか？」\n　{KN}",
-  "en": ""
+  "en": "\"Momotaro-san! Ya wanna play {bb}Sowing Don-Don!{ww}?\"{KN}"
  },
  {
   "id": "GSV0100D/32/00CC",
   "kind": "msg",
   "jp": "「よーし！\n　いっちょ　もんでやるべ！」\n　",
-  "en": ""
+  "en": "\"Alrighty! Let's see what ya got!\""
  },
  {
   "id": "GSV0100D/32/0108",
   "kind": "msg",
   "jp": "「遊び方の説明を　聞きますか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Would you like to hear how to play?\"{KN}"
  },
  {
   "id": "GSV0100D/32/016C",
   "kind": "msg",
   "jp": "「おそれを　なしたか！\n　桃太郎さん！」\n　",
-  "en": ""
+  "en": "\"Lost your nerve, have ya, Momotaro-san!\""
  }
 ]

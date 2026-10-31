@@ -9,684 +9,684 @@
   "id": "GSV1200D/20/0002",
   "kind": "msg",
   "jp": "「よく来たな　桃太郎！\n　雪が　名物の　寝太郎の村じゃ！」\n　{KP}\n「この村の　夜は　長いぞ！」\n　\n　",
-  "en": ""
+  "en": "\"Welcome, Momotaro! This is Netaro Village, famous for its snow!\"{KP}\"The nights in this village are long!\""
  },
  {
   "id": "GSV1200D/21/0002",
   "kind": "msg",
   "jp": "「よくやったな　桃太郎！\n　おかげで　村人も　たいそう\n　喜んで　おるぞ！」",
-  "en": ""
+  "en": "\"Well done, Momotaro! Thanks to you, the villagers are overjoyed!\""
  },
  {
   "id": "GSV1200D/22/0016",
   "kind": "msg",
   "jp": "「ぐぅぐぅ…」\n　\n　{KP}\nキモチよさそうに　寝ているようだ\n　\n　",
-  "en": ""
+  "en": "\"Zzz... zzz...\"{KP}He seems to be sleeping very comfortably."
  },
  {
   "id": "GSV1200D/22/009C",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}氷の篠笛{ww}を　ふいた～♪\n　",
-  "en": ""
+  "en": "Momotaro played the {bb}Ice Flute{ww}..."
  },
  {
   "id": "GSV1200D/22/00D4",
   "kind": "msg",
   "jp": "どこから　ともなく\nすてきな　メロディが　流れて来た～♪\n　{KN}",
-  "en": ""
+  "en": "From out of nowhere, a lovely melody came drifting in...{KN}"
  },
  {
   "id": "GSV1200D/22/018A",
   "kind": "msg",
   "jp": "「むにゃ　むにゃ……」\n　\n　",
-  "en": ""
+  "en": "\"Mumble, mumble......\""
  },
  {
   "id": "GSV1200D/22/01C0",
   "kind": "msg",
   "jp": "「んぁー！　むにゅう～」\n　\n　",
-  "en": ""
+  "en": "\"Nnah! Mmnyuu...\""
  },
  {
   "id": "GSV1200D/22/024E",
   "kind": "msg",
   "jp": "「ふぁ～～～」\n　\n　",
-  "en": ""
+  "en": "\"Yaaawn...\""
  },
  {
   "id": "GSV1200D/22/02A4",
   "kind": "msg",
   "jp": "「むにゃ　むにゃ」\n　\n　{KP}\n寝太郎は\nまた　ねむって　しまったようだ！\n　",
-  "en": ""
+  "en": "\"Mumble, mumble...\"{KP}Netaro seems to have fallen asleep again!"
  },
  {
   "id": "GSV1200D/22/030E",
   "kind": "msg",
   "jp": "「まあ～！　寝太郎ったら\n　{bb}氷の篠笛{ww}でも　あれしか\n　目を　さまさないのね！」{KP}\n　\n「あきれた人ね！」\n　\n　{KP}\n「でも　これで\n　東に　進めるわね！」\n　{KP}\n「さぁ！　桃太郎さん！\n　早く　行かないと\n　{bb}ほほえみの村{ww}の」{KP}\n　\n「{bb}だじゃれ大会{ww}が\n　始まっちゃうわ！\n　急ぎましょ！」",
-  "en": ""
+  "en": "\"Oh my! Even the {bb}Ice Flute{ww} only wakes Netaro up that much!\"{KP}\"What a hopeless guy!\"{KP}\"But now we can head east!\"{KP}\"Come on, Momotaro-san! If we don't hurry, {bb}Hohoemi Village{ww}'s\"{KP}\"{bb}Pun Contest{ww} will start without us! Let's go!\""
  },
  {
   "id": "GSV1200D/22/047C",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}氷の篠笛{ww}を　ふいた～♪\n　",
-  "en": ""
+  "en": "Momotaro played the {bb}Ice Flute{ww}..."
  },
  {
   "id": "GSV1200D/22/04B4",
   "kind": "msg",
   "jp": "どこから　ともなく\nすてきな　メロディが　流れて来た～♪\n　{KN}",
-  "en": ""
+  "en": "From out of nowhere, a lovely melody came drifting in...{KN}"
  },
  {
   "id": "GSV1200D/22/0564",
   "kind": "msg",
   "jp": "「むにゃ　むにゃ……」\n　\n　{KP}\n「むにゅう～　んっ？」\n　\n　",
-  "en": ""
+  "en": "\"Mumble, mumble......\"{KP}\"Mmnyuu... hm?\""
  },
  {
   "id": "GSV1200D/22/05C8",
   "kind": "msg",
   "jp": "「むにゃ　むにゃ」\n　\n　{KP}\n寝太郎は\nまた　ねむって　しまったようだ！\n　",
-  "en": ""
+  "en": "\"Mumble, mumble...\"{KP}Netaro seems to have fallen asleep again!"
  },
  {
   "id": "GSV1200D/22/0634",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}氷の篠笛{ww}を　ふいた～♪\n　",
-  "en": ""
+  "en": "Momotaro played the {bb}Ice Flute{ww}..."
  },
  {
   "id": "GSV1200D/22/066C",
   "kind": "msg",
   "jp": "どこから　ともなく\nすてきな　メロディが　流れて来た～♪\n　{KN}",
-  "en": ""
+  "en": "From out of nowhere, a lovely melody came drifting in...{KN}"
  },
  {
   "id": "GSV1200D/22/071C",
   "kind": "msg",
   "jp": "「むにゃ　むにゃ……」\n　\n　",
-  "en": ""
+  "en": "\"Mumble, mumble......\""
  },
  {
   "id": "GSV1200D/22/074A",
   "kind": "msg",
   "jp": "　桃太郎たちは　寝太郎に　\n　話しかけた\n　",
-  "en": ""
+  "en": "Momotaro and friends spoke to Netaro."
  },
  {
   "id": "GSV1200D/22/0786",
   "kind": "msg",
   "jp": "「んあ？　むにゅ～　んっ？\n　………うるさいなぁ」\n　",
-  "en": ""
+  "en": "\"Nnah? Mmnyu... hm? ......Pipe down...\""
  },
  {
   "id": "GSV1200D/22/07D6",
   "kind": "msg",
   "jp": "桃太郎は　もう一度　\n{bb}氷の篠笛{ww}を　ふいた～♪\n　",
-  "en": ""
+  "en": "Momotaro played the {bb}Ice Flute{ww} once more..."
  },
  {
   "id": "GSV1200D/22/0884",
   "kind": "msg",
   "jp": "「わかった　わかっただ\n　………何の用だ？」\n　",
-  "en": ""
+  "en": "\"Okay, okay, I get it... ......Whaddya want?\""
  },
  {
   "id": "GSV1200D/22/08C4",
   "kind": "msg",
   "jp": "　桃太郎は　ことの　\n　いきさつを　話した\n　",
-  "en": ""
+  "en": "Momotaro explained what had happened."
  },
  {
   "id": "GSV1200D/22/0902",
   "kind": "msg",
   "jp": "「おらに　舟を　押せと…？\n　ん～っ　かったるいな\n　……腹へったし」",
-  "en": ""
+  "en": "\"Ya want me to push a boat...? Mmm, what a drag... ...and I'm hungry.\""
  },
  {
   "id": "GSV1200D/22/0958",
   "kind": "msg",
   "jp": "「やい！　寝太郎！\n　やれったら　やるクリ！」\n　",
-  "en": ""
+  "en": "\"Hey! Netaro! When we say do it, you do it, kuri!\""
  },
  {
   "id": "GSV1200D/22/099A",
   "kind": "msg",
   "jp": "「ん～～っ　わかっただ…\n　その　かわり　腹が\n　へっているので」{KP}\n　\n「オラの　好物　{bb}ひかり米{ww}と\n　{bb}塩{ww}で　つくった　{bb}デカおにぎり{ww}を\n　食べさせておくれ！」{KP}\n　\n「そうすれば　ちからが\n　わいてくると　思うだ！」\n　{KP}\n「ん～　それまで\n　寝ているだ　……\n　むにゃ　むにゃ～」",
-  "en": ""
+  "en": "\"Mmmm, fine... But in exchange, since I'm hungry,\"{KP}\"make me a {bb}Giant Rice Ball{ww} with my favorite {bb}Shining Rice{ww} and {bb}Salt{ww}, and let me eat it!\"{KP}\"Then I reckon my strength'll come right back!\"{KP}\"Mmm... till then, I'll be sleepin'...... Mumble, mumble...\""
  },
  {
   "id": "GSV1200D/22/0AF2",
   "kind": "msg",
   "jp": "寝太郎は\nまた　ねむって　しまったようだ！\n　",
-  "en": ""
+  "en": "Netaro seems to have fallen asleep again!"
  },
  {
   "id": "GSV1200D/22/0B58",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}{MM}{ww}を　さしだした！\n　",
-  "en": ""
+  "en": "Momotaro held out {bb}{MM}{ww}!"
  },
  {
   "id": "GSV1200D/22/0B8C",
   "kind": "msg",
   "jp": "「むにゃ　むにゃ……ん？」\n　\n　",
-  "en": ""
+  "en": "\"Mumble, mumble...... Hm?\""
  },
  {
   "id": "GSV1200D/22/0BC2",
   "kind": "msg",
   "jp": "「この　かおり……\n　んあっ！　{bb}デカおにぎり{ww}　だぁ！」\n　{KP}\n「オラに　くれるだか？\n　…………では　いただくだ！」\n　",
-  "en": ""
+  "en": "\"This smell...... Nnah! A {bb}Giant Rice Ball{ww}!\"{KP}\"Ya givin' it to me? ............Then I'll dig in!\""
  },
  {
   "id": "GSV1200D/22/0C52",
   "kind": "msg",
   "jp": "「パクッ！……ごっくん」\n　\n　",
-  "en": ""
+  "en": "\"Chomp!...... Gulp.\""
  },
  {
   "id": "GSV1200D/22/0C82",
   "kind": "msg",
   "jp": "寝太郎は　あっ！　という間に\n{bb}デカおにぎり{ww}を　たべた！\n　",
-  "en": ""
+  "en": "Netaro wolfed down the {bb}Giant Rice Ball{ww} in the blink of an eye!"
  },
  {
   "id": "GSV1200D/22/0CD0",
   "kind": "msg",
   "jp": "「ん～んまかっただ！」\n　\n　{KP}\n「さぁって　あんたたちの\n　頼みごとを　かたづけて\n　くるかなぁ～！」",
-  "en": ""
+  "en": "\"Mmm, that was tasty!\"{KP}\"Welp, guess I'll go take care of that favor ya asked!\""
  },
  {
   "id": "GSV1200D/22/0DB0",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}氷の篠笛{ww}を　ふいた～♪\n　",
-  "en": ""
+  "en": "Momotaro played the {bb}Ice Flute{ww}..."
  },
  {
   "id": "GSV1200D/22/0DE8",
   "kind": "msg",
   "jp": "どこから　ともなく\nすてきな　メロディが　流れて来た～♪\n　{KN}",
-  "en": ""
+  "en": "From out of nowhere, a lovely melody came drifting in...{KN}"
  },
  {
   "id": "GSV1200D/22/0E98",
   "kind": "msg",
   "jp": "「むにゃ　むにゃ……」\n　\n　{KP}\n「むにゅう～　んっ？\n　もう　つかれたよ～」\n　",
-  "en": ""
+  "en": "\"Mumble, mumble......\"{KP}\"Mmnyuu... hm? I'm already tired...\""
  },
  {
   "id": "GSV1200D/22/0F0E",
   "kind": "msg",
   "jp": "「むにゃ　むにゃ」\n　\n　{KP}\n寝太郎は\nまた　ねむって　しまったようだ！\n　",
-  "en": ""
+  "en": "\"Mumble, mumble...\"{KP}Netaro seems to have fallen asleep again!"
  },
  {
   "id": "GSV1200D/22/0F70",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}{MM}{ww}を　さしだした！\n　",
-  "en": ""
+  "en": "Momotaro held out {bb}{MM}{ww}!"
  },
  {
   "id": "GSV1200D/22/0FA4",
   "kind": "msg",
   "jp": "「むにゃ？　パクッ！\n　ハグ　ハグ　ハグ～」\n　",
-  "en": ""
+  "en": "\"Mumble? Chomp! Munch, munch, munch...\""
  },
  {
   "id": "GSV1200D/22/0FE4",
   "kind": "msg",
   "jp": "寝太郎は　寝ながら\n{bb}デカおにぎり{ww}を　取り\n食べてしまった！",
-  "en": ""
+  "en": "Netaro grabbed the {bb}Giant Rice Ball{ww} in his sleep and ate it!"
  },
  {
   "id": "GSV1200D/23/001E",
   "kind": "msg",
   "jp": "「外で　寝ている　男は\n　寝はじめると　おきやしないんだ！」\n　{KP}\n「今回は　橋の上で\n　寝ちまったもんだから」\n　{KP}\n「おかげで　村の　東側に\n　行けなくなってるんだ！」\n　",
-  "en": ""
+  "en": "\"Once that guy sleeping outside nods off, he never wakes up!\"{KP}\"This time he went and fell asleep on the bridge,\"{KP}\"so nobody can get to the east side of the village!\""
  },
  {
   "id": "GSV1200D/23/00E8",
   "kind": "msg",
   "jp": "「ようやく　おきたんだな\n　あの　男！」\n　{KP}\n「これで　ひさしぶりに\n　東の村に　行けるな！」\n　",
-  "en": ""
+  "en": "\"So that guy finally woke up!\"{KP}\"Now we can get to the village to the east again, after all this time!\""
  },
  {
   "id": "GSV1200D/23/0162",
   "kind": "msg",
   "jp": "「ようやく　雪祭りが\n　始まったな！」\n　{KP}\n「ん～っ！　やっぱ　雪祭りは\n　いいもんだなぁ～！」\n　",
-  "en": ""
+  "en": "\"The Snow Festival's finally started!\"{KP}\"Mmm! Nothing beats the Snow Festival!\""
  },
  {
   "id": "GSV1200D/24/001E",
   "kind": "msg",
   "jp": "「村から　出て　西に　進むと\n　{bb}氷の塔{ww}　見えてきますよ！」\n　{KP}\n「昔は　それは　それは\n　おそろしい　所でしたが…」\n　{KP}\n「今は　楽しい　ゆうぎ場に\n　なったと　聞いています」\n　{KP}\n「最上階には　{bb}氷の篠笛{ww}が\n　おさめられて　いるそうです！」\n　",
-  "en": ""
+  "en": "\"Head west out of the village and you'll see the {bb}Ice Tower{ww}!\"{KP}\"Long ago, it was a truly terrifying place...\"{KP}\"but now I hear it's become a fun game stall.\"{KP}\"They say the {bb}Ice Flute{ww} is kept on the top floor!\""
  },
  {
   "id": "GSV1200D/24/013E",
   "kind": "msg",
   "jp": "「氷の塔の　最上階に　行けた人は\n　初めて見ましたわ！」\n　",
-  "en": ""
+  "en": "\"I've never seen anyone make it to the top floor of the Ice Tower before!\""
  },
  {
   "id": "GSV1200D/24/018C",
   "kind": "msg",
   "jp": "「よかったわ！　また　雪祭りを\n　見ることが　できて！」\n　",
-  "en": ""
+  "en": "\"I'm so glad! We get to see the Snow Festival again!\""
  },
  {
   "id": "GSV1200D/25/002C",
   "kind": "msg",
   "jp": "「寝太郎が　一度　寝たら\n　３年は　おきないようじゃ」\n　{KP}\n「寝てから　１年しか　たって\n　おらんので　おきるまでは\n　あと　２年かかるじゃろう！」{KP}\n　\n「{bb}氷の塔{ww}に　ある　伝説の\n　{bb}氷の篠笛（しのぶえ）{ww}ならば\n　寝太郎を　おこせるじゃろうが…」",
-  "en": ""
+  "en": "\"Once Netaro falls asleep, they say he won't wake up for 3 years.\"{KP}\"It's only been 1 year since he nodded off, so it'll be 2 more years before he wakes!\"{KP}\"The legendary {bb}Ice Flute{ww} in the {bb}Ice Tower{ww} could wake Netaro, but...\""
  },
  {
   "id": "GSV1200D/25/0148",
   "kind": "msg",
   "jp": "「おお　寝太郎が　おきたとな！\n　さすがは　{bb}氷の篠笛{ww}の\n　いりょくじゃな！」",
-  "en": ""
+  "en": "\"Oh, Netaro woke up, you say! That's the power of the {bb}Ice Flute{ww} for you!\""
  },
  {
   "id": "GSV1200D/25/01AA",
   "kind": "msg",
   "jp": "「おお　寝太郎が　この　村の\n　外に　出るのを　見るのは\n　初めてじゃ！」",
-  "en": ""
+  "en": "\"Oh, this is the first time I've ever seen Netaro leave this village!\""
  },
  {
   "id": "GSV1200D/25/0206",
   "kind": "msg",
   "jp": "「寝太郎は　帰って来るなり\n　もう　寝てしもうた！」\n　{KP}\n「まぁ　今度は　橋の上で\n　ないので　よかったがのぅ～」\n　",
-  "en": ""
+  "en": "\"Netaro went right back to sleep the moment he got home!\"{KP}\"Well, at least it's not on the bridge this time, eh...\""
  },
  {
   "id": "GSV1200D/26/0002",
   "kind": "msg",
   "jp": "「ここは　寝太郎の　寝ている村\n　寝太郎の村と　呼ばれています！」\n　{KP}\n「そのまんまじゃな　はっはっは！」\n　\n　",
-  "en": ""
+  "en": "\"Netaro sleeps in this village, so it's called Netaro Village!\"{KP}\"Says it like it is, eh! Ha ha ha!\""
  },
  {
   "id": "GSV1200D/27/0010",
   "kind": "msg",
   "jp": "「{bb}希望の都{ww}？\n　今は　ダメダメよ！」\n　{KP}\n「…だって　村の　東からしか\n　行けないんだモン！」\n　{KP}\n「流行りに　のりおくれたら\n　寝太郎の　せいだわ！」\n　",
-  "en": ""
+  "en": "\"The {bb}Capital of Hope{ww}? No way, not right now!\"{KP}\"...'Cause you can only get there from the east side of the village!\"{KP}\"If I fall behind on the latest trends, it's all Netaro's fault!\""
  },
  {
   "id": "GSV1200D/27/00CE",
   "kind": "msg",
   "jp": "「ラッキー！\n　これで　{bb}希望の都{ww}に　行けるわ！」\n　{KP}\n「サンキューね！　桃太郎さん！」\n　\n　",
-  "en": ""
+  "en": "\"Lucky! Now I can go to the {bb}Capital of Hope{ww}!\"{KP}\"Thank-yooou, Momotaro-san!\""
  },
  {
   "id": "GSV1200D/28/0010",
   "kind": "msg",
   "jp": "「前は　よく　西の方にある\n　{bb}龍の島{ww}から　大きな船が\n　やって来ていたのに」{KP}\n　\n「最近　ぜんぜん\n　来ないんだよな～！」\n　",
-  "en": ""
+  "en": "\"Big ships used to come here all the time from {bb}Dragon Island{ww} out west,\"{KP}\"but lately they don't come at all!\""
  },
  {
   "id": "GSV1200D/28/00AC",
   "kind": "msg",
   "jp": "「やっと　舟が　来るようになったよ！\n　オラも　{bb}龍の島{ww}に　ある\n　{bb}小太郎の村{ww}に　行ってみたいなぁ～」{KP}\n　\n「あの村に　ある　滝は\n　きれいだって　うわさだからな！」\n　",
-  "en": ""
+  "en": "\"The boats are finally coming again! I wanna go to {bb}Kotaro Village{ww} on {bb}Dragon Island{ww} too!\"{KP}\"Word is, the waterfall in that village is beautiful!\""
  },
  {
   "id": "GSV1200D/29/0002",
   "kind": "msg",
   "jp": "「神社の　横の家に　住む　{bb}大工の\n{bb}　源次さん{ww}は　とても　いいうでを\n　していると　言われていて」{KP}\n　\n「いろんな　村から\n　ひっぱりだこだ　そうです！」\n　{KP}\n「だから　夜しか　家に\n　いないそうですよ！」\n　",
-  "en": ""
+  "en": "\"They say {bb}{bb}Genji-san the carpenter{ww}, who lives in the house beside the shrine, is mighty skilled,\"{KP}\"and every village is fighting over him!\"{KP}\"That's why he's only home at night!\""
  },
  {
   "id": "GSV1200D/30/0010",
   "kind": "msg",
   "jp": "「{bb}氷の塔{ww}の　最上階にある\n　宝のことは　知っとるかの？」\n　{KN}",
-  "en": ""
+  "en": "\"Do you know about the treasure on the top floor of the {bb}Ice Tower{ww}?\"{KN}"
  },
  {
   "id": "GSV1200D/30/0072",
   "kind": "msg",
   "jp": "「そうか　知っておるのか！\n　おぬし　見かけによらず　やるのぉ」\n　",
-  "en": ""
+  "en": "\"Oh, so you know! You're sharper than you look!\""
  },
  {
   "id": "GSV1200D/30/00CA",
   "kind": "msg",
   "jp": "「実は　{bb}氷の塔{ww}には\n　{bb}氷の篠笛（しのぶえ）{ww}と　呼ばれる」\n　{KP}\n「世にも　めずらしい\n　宝が　まつられているのじゃ！」\n　{KP}\n「それを　ふくと\n　ふしぎな　ちからで」\n　{KP}\n「どんなに　深い　眠りも\n　さまして　しまうそうじゃ！」\n　",
-  "en": ""
+  "en": "\"Truth is, enshrined in the {bb}Ice Tower{ww} is a treasure called the {bb}Ice Flute{ww},\"{KP}\"a rarity like no other in this world!\"{KP}\"They say when you play it, its mysterious power\"{KP}\"can wake anyone from even the deepest sleep!\""
  },
  {
   "id": "GSV1200D/30/01DC",
   "kind": "msg",
   "jp": "「よかったの！\n　また　雪祭りを\n　見ることが　できて！」",
-  "en": ""
+  "en": "\"Wonderful! We get to see the Snow Festival again!\""
  },
  {
   "id": "GSV1200D/31/0002",
   "kind": "msg",
   "jp": "「この村の　道具屋に　売っている\n　{bb}はがね包丁{ww}って　何でも\n　スパスパ　切れるんだって！」{KP}\n　\n「でも　値段は　すご～く\n　高いらしいよ！」\n　",
-  "en": ""
+  "en": "\"They say the {bb}Steel Knife{ww} sold at this village's item shop slices through anything, snip snip!\"{KP}\"But I hear it's sooo expensive!\""
  },
  {
   "id": "GSV1200D/32/0002",
   "kind": "msg",
   "jp": "「南に　くだっていくと\n　{bb}ほほえみの村{ww}が　見えてくるわ！」\n　{KP}\n「村の人たちも　みんな\n　おもしろい人たち　ばっかりなの！」\n　{KP}\n「{bb}希望の都{ww}は　そこから　まだ\n　南に　行かないと　見えないわ！」\n　{KP}\n「{bb}希望の都{ww}は　ほんに\n　でっか～い　所だわ！」\n　",
-  "en": ""
+  "en": "\"Head south and you'll see {bb}Hohoemi Village{ww}!\"{KP}\"Everyone in that village is such a funny bunch!\"{KP}\"You have to go even further south from there to see the {bb}Capital of Hope{ww}!\"{KP}\"The {bb}Capital of Hope{ww} is a really, really huge place!\""
  },
  {
   "id": "GSV1200D/33/0010",
   "kind": "msg",
   "jp": "「雪祭りは　まだかねぇ～！\n　いやだねぇ～　まったく\n　雪が　ふらないなんて！」{KP}\n　\n「温暖化現象って　やつですかねぇ！」\n　\n　",
-  "en": ""
+  "en": "\"Isn't the Snow Festival here yet? Ugh, honestly, no snow at all!\"{KP}\"Must be that global warming thing, eh!\""
  },
  {
   "id": "GSV1200D/33/00AC",
   "kind": "msg",
   "jp": "「雪女さんって\n　せすじが　こおるほど\n　きれいな人ですねぇ～！」{KP}\n　\n「お～！　ぶるぶる！」\n　\n　",
-  "en": ""
+  "en": "\"Yuki-onna-san is so beautiful, she sends a chill down your spine!\"{KP}\"Ooh! Brrr!\""
  },
  {
   "id": "GSV1200D/34/0010",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　お願いしたいことが　あります！」\n　{KP}\n「この村の　村長をしている\n　うちの　おとっちゃんの　話を\n　聞いてあげて　くださいませ！」",
-  "en": ""
+  "en": "\"Momotaro-san! There's something I'd like to ask of you!\"{KP}\"Please listen to what my pa, the village chief, has to say!\""
  },
  {
   "id": "GSV1200D/34/00BC",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　ありがとうございました！」\n　{KP}\n「おとっちゃんも　これで\n　ひと安心です！」\n　",
-  "en": ""
+  "en": "\"Momotaro-san! Thank you so much!\"{KP}\"Now Pa can rest easy!\""
  },
  {
   "id": "GSV1200D/35/0002",
   "kind": "msg",
   "jp": "「この村に　来たのは\n　初めてかい？」\n　{KP}\n「少し　前に　この村で\n　あったことが　あるような　気が…」\n　{KP}\n「あっ！　そういえば　寝太郎の\n　体の上を　無理矢理　よじのぼって」\n　{KP}\n「こちらに　やって来たのは\n　おめえで　ないかい？」\n　{KP}\n「でも　もっと　ずるがしこそうだった\n　気も　するし………」\n　{KP}\n「う～ん　わかんないなあ！」\n　\n　",
-  "en": ""
+  "en": "\"First time in this village?\"{KP}\"I feel like I saw you around here a little while back...\"{KP}\"Oh! Now I remember! Weren't you the one who forced your way up and over Netaro's body\"{KP}\"to get over here?\"{KP}\"But I feel like that one looked a lot more sly.........\"{KP}\"Hmm, I just dunno!\""
  },
  {
   "id": "GSV1200D/36/0002",
   "kind": "msg",
   "jp": "「おっ！　桃太郎さん！\n　{bb}ほほえみの村{ww}に　行くのかい？」\n　{KP}\n「あの村では　だじゃれ大会が\n　ひらかれるんだぜ！」\n　{KP}\n「オイラも　出たいな～！」\n　\n　",
-  "en": ""
+  "en": "\"Oh! Momotaro-san! Headed to {bb}Hohoemi Village{ww}?\"{KP}\"They hold a Pun Contest in that village!\"{KP}\"I wanna enter too!\""
  },
  {
   "id": "GSV1200D/37/001E",
   "kind": "msg",
   "jp": "「あっしの　顔を\n　覚えておくと　きっと\n　いいことが　ありやすぜ！」",
-  "en": ""
+  "en": "\"Remember my face, and somethin' good's bound to come your way!\""
  },
  {
   "id": "GSV1200D/37/0076",
   "kind": "msg",
   "jp": "「こりゃまた　おどろきだ！\n　あっしに　クリソツな\n　お面だよ！」{KP}\n　\n「いやあ！\n　こんな物　あるんだねぇ！」\n　{KP}\n「おどろきついでに\n　もっと　よーく\n　見せて　おくんなさい！」",
-  "en": ""
+  "en": "\"Well, if that ain't a surprise! A mask that's the spittin' image of me!\"{KP}\"Well, I'll be! Who knew there was such a thing!\"{KP}\"Since I'm surprised already, let me get a real good look at it!\""
  },
  {
   "id": "GSV1200D/37/014A",
   "kind": "msg",
   "jp": "　桃太郎は\n　お面を　見せてあげた！\n　",
-  "en": ""
+  "en": "Momotaro showed him the mask!"
  },
  {
   "id": "GSV1200D/37/0182",
   "kind": "msg",
   "jp": "「ありがてえ！　恩にきるぜ！\n　お礼と　いっちゃなんだが」\n　{KP}\n「ぜひ　これを\n　受け取ってくんねぇ！」\n　",
-  "en": ""
+  "en": "\"Much obliged! I owe ya one! It ain't much of a thank-you, but\"{KP}\"please, take this!\""
  },
  {
   "id": "GSV1200D/37/0204",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード００７{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 007{ww}!{KN}"
  },
  {
   "id": "GSV1200D/37/0258",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　お面づくりは\n　はかどっていますか？」",
-  "en": ""
+  "en": "\"Momotaro-san! How's the mask-making coming along?\""
  },
  {
   "id": "GSV1200D/38/0002",
   "kind": "msg",
   "jp": "「にぎやかな　人間の村も\n　なかなか　いいものですね！」\n　{KP}\n「もう少し\n　見ていきましょう！」\n　",
-  "en": ""
+  "en": "\"Lively human villages are rather nice too!\"{KP}\"Let's look around a little longer!\""
  },
  {
   "id": "GSV1200D/39/0002",
   "kind": "msg",
   "jp": "「雪の　桃太郎さんも\n　かっこいいですぅ～！」\n　",
-  "en": ""
+  "en": "\"Snowy Momotaro-san is sooo cool too!\""
  },
  {
   "id": "GSV1200D/40/001E",
   "kind": "msg",
   "jp": "「コンばんは　桃太郎さん！\n　あたしは　キツ子の　妹\n　コン子と　申します！」{KP}\n　\n「あたしは　これから\n　お嫁に　行きますわ！」\n　{KP}\n「記念に　{bb}方言カード{ww}を\n　さしあげますわ！　コーン！」\n　",
-  "en": ""
+  "en": "\"Good kon-evening, Momotaro-san! I'm Konko, Kitsuko's little sister!\"{KP}\"I'm off to be married now!\"{KP}\"To mark the occasion, here's a {bb}Dialect Card{ww} for you! Kooon!\""
  },
  {
   "id": "GSV1200D/40/0102",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０７０{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 070{ww}!{KN}"
  },
  {
   "id": "GSV1200D/40/0156",
   "kind": "msg",
   "jp": "「コンばんは　桃太郎さん\n　わたしは　これから\n　お嫁に　行きます！」",
-  "en": ""
+  "en": "\"Good kon-evening, Momotaro-san. I'm off to be married now!\""
  },
  {
   "id": "GSV1200D/40/01BC",
   "kind": "msg",
   "jp": "「コンばんは　桃太郎さん！\n　わたしは　キツ子と\n　申します！」{KP}\n　\n「わたしは　これから\n　お嫁に　行きます！」\n　{KP}\n「記念に　{bb}あぶらあげ{ww}を\n　さしあげます！　コーン」\n　",
-  "en": ""
+  "en": "\"Good kon-evening, Momotaro-san! My name is Kitsuko!\"{KP}\"I'm off to be married now!\"{KP}\"To mark the occasion, here's some {bb}Fried Tofu{ww} for you! Kooon.\""
  },
  {
   "id": "GSV1200D/40/028C",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}あぶらあげ{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Fried Tofu{ww}!{KN}"
  },
  {
   "id": "GSV1200D/40/02D6",
   "kind": "msg",
   "jp": "「コンばんは　桃太郎さん\n　わたしは　これから\n　お嫁に　行きます！」",
-  "en": ""
+  "en": "\"Good kon-evening, Momotaro-san. I'm off to be married now!\""
  },
  {
   "id": "GSV1200D/41/001E",
   "kind": "msg",
   "jp": "「これは　これは　桃太郎さん\n　今度は　コン子さんの　嫁入りを\n　祝って　くださるんですね！」{KP}\n　\n「ありがとうございます\n　コーン　コーン」\n　",
-  "en": ""
+  "en": "\"Well, well, Momotaro-san! This time you've come to celebrate Konko-san's wedding!\"{KP}\"Thank you so much. Kooon, kooon.\""
  },
  {
   "id": "GSV1200D/41/00CA",
   "kind": "msg",
   "jp": "「それでは　桃太郎さん\n　コンきげんよう！」\n　",
-  "en": ""
+  "en": "\"Well then, Momotaro-san, kon-tinue to fare well!\""
  },
  {
   "id": "GSV1200D/41/011A",
   "kind": "msg",
   "jp": "「これは　これは　桃太郎さん\n　キツ子さんの　嫁入りを\n　祝って　くださるんですね！」{KP}\n　\n「ありがとうございます！\n　コーン！」\n　",
-  "en": ""
+  "en": "\"Well, well, Momotaro-san! You've come to celebrate Kitsuko-san's wedding!\"{KP}\"Thank you so much! Kooon!\""
  },
  {
   "id": "GSV1200D/41/01BA",
   "kind": "msg",
   "jp": "「それでは　桃太郎さん\n　コンきげんよう！」\n　",
-  "en": ""
+  "en": "\"Well then, Momotaro-san, kon-tinue to fare well!\""
  },
  {
   "id": "GSV1200D/42/0010",
   "kind": "msg",
   "jp": "「コン子さんと　いっても\n　カゼを　ひいているのでは　なく\n　健康な　キツネです！」",
-  "en": ""
+  "en": "\"Konko-san's name may sound like a cough, but she doesn't have a cold. She's a perfectly healthy fox!\""
  },
  {
   "id": "GSV1200D/42/0076",
   "kind": "msg",
   "jp": "「キツ子さんと　いっても\n　性格が　きつく　なく\n　やさしい　キツネです！」",
-  "en": ""
+  "en": "\"Kitsuko-san's name may sound harsh, but she's not harsh at all. She's a kind, gentle fox!\""
  },
  {
   "id": "GSV1200D/43/0010",
   "kind": "msg",
   "jp": "「おいおい　雪祭りは　今年は\n　見られるのかい？」\n　{KP}\n「こっちとら\n　金太郎の村から　わざわざ\n　見に来てるっちゅうーに！」",
-  "en": ""
+  "en": "\"Hey, hey, are we gonna see the Snow Festival this year or what?\"{KP}\"I came all the way from Kintaro Village just to see it!\""
  },
  {
   "id": "GSV1200D/43/00A6",
   "kind": "msg",
   "jp": "「やっぱ！\n　寝太郎の村に　来たら\n　これを　見なきゃねぇ～！」",
-  "en": ""
+  "en": "\"Yep! When you come to Netaro Village, you gotta see this!\""
  },
  {
   "id": "GSV1200D/44/0010",
   "kind": "msg",
   "jp": "「え～　今年は　雪祭り\n　ないのかなぁ～？」\n　{KP}\n「がっくし～」\n　\n　",
-  "en": ""
+  "en": "\"Aww, no Snow Festival this year?\"{KP}\"Bummer...\""
  },
  {
   "id": "GSV1200D/44/0070",
   "kind": "msg",
   "jp": "「うわ～　桃太郎さんの\n　雪像は　でかいんだね～！」\n　",
-  "en": ""
+  "en": "\"Wow, Momotaro-san's snow statue is huge!\""
  },
  {
   "id": "GSV1200D/45/002C",
   "kind": "msg",
   "jp": "「ずうっと　橋の上で　寝ていて\n　やっと　おきたとおもったら…」\n　{KP}\n「今度は　こんな所で\n　寝てしまったのかい！」\n　{KP}\n「まったく　しょうのない…\n　次は　いつ　おきるのやら」\n　",
-  "en": ""
+  "en": "\"He slept on that bridge forever, and just when I thought he'd finally woken up...\"{KP}\"now he's gone and fallen asleep in a place like this!\"{KP}\"Honestly, he's hopeless... I wonder when he'll wake up next.\""
  },
  {
   "id": "GSV1200D/45/0100",
   "kind": "msg",
   "jp": "「おお！　寝太郎が　この　村の\n　外に　出て行くのを　見るのは\n　初めてじゃ！」",
-  "en": ""
+  "en": "\"Oh! This is the first time I've ever seen Netaro head out of this village!\""
  },
  {
   "id": "GSV1200D/45/0162",
   "kind": "msg",
   "jp": "「寝太郎は　帰って来るなり\n　もう　寝てしもうた！」\n　",
-  "en": ""
+  "en": "\"Netaro went right back to sleep the moment he got home!\""
  },
  {
   "id": "GSV1200D/45/01AC",
   "kind": "msg",
   "jp": "「よかったの　また　雪祭りを\n　見ることが　できて！\n　寝太郎も　見ればよいのに！」",
-  "en": ""
+  "en": "\"Wonderful! We get to see the Snow Festival again! Netaro ought to come and see it too!\""
  },
  {
   "id": "GSV1200D/46/0028",
   "kind": "msg",
   "jp": "「あっ　桃太郎さん！\n　あたし　今　妹の　誕生日に」{KP}\n　\n「何を　プレゼントするか\n　なやんでるの…」\n　",
-  "en": ""
+  "en": "\"Oh, Momotaro-san! Right now, I'm trying to decide\"{KP}\"what to give my little sister for her birthday...\""
  },
  {
   "id": "GSV1200D/46/00AA",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}{MM}{ww}を　見せた！\n　",
-  "en": ""
+  "en": "Momotaro showed him the {bb}{MM}{ww}!"
  },
  {
   "id": "GSV1200D/46/00DA",
   "kind": "msg",
   "jp": "「あらー！　きれいな　{bb}風車{ww}！」\n　\n　{KP}\n「ねぇ　桃太郎さん！\n　それ　妹の　プレゼントに\n　したいの！」{KP}\n　\n「あたしの　持っている\n　この　お古の　{bb}からくり人形{ww}と\n　取りかえてくれない？」{KN}",
-  "en": ""
+  "en": "\"Ooh! What a pretty {bb}Pinwheel{ww}!\"{KP}\"Hey, Momotaro-san! I want that for my sister's present!\"{KP}\"Would you trade it for this old {bb}Karakuri Doll{ww} of mine?\"{KN}"
  },
  {
   "id": "GSV1200D/46/01CE",
   "kind": "msg",
   "jp": "「キャーッ！　ありがとう！\n　桃太郎さん！」\n　{KP}\n「はい！\n　では　この　{bb}からくり人形{ww}と\n　取りかえっこね！」",
-  "en": ""
+  "en": "\"Eeek! Thank you, Momotaro-san!\"{KP}\"Here you go! I'll swap you this {bb}Karakuri Doll{ww} for it!\""
  },
  {
   "id": "GSV1200D/46/0256",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}からくり人形{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Karakuri Doll{ww}!{KN}"
  },
  {
   "id": "GSV1200D/46/02B2",
   "kind": "msg",
   "jp": "「え～　ウソーッ\n　ねぇ～　お願い～{rr}∞{ww}！」\n　{KN}",
-  "en": ""
+  "en": "\"Whaaat? No way! Come ooon, pleeease{rr}<3{ww}!\"{KN}"
  },
  {
   "id": "GSV1200D/46/031E",
   "kind": "msg",
   "jp": "「妹は　絶対！\n　この　{bb}風車{ww}を\n　気に入ってくれるわ！」",
-  "en": ""
+  "en": "\"My sister's going to love this {bb}Pinwheel{ww}, I just know it!\""
  },
  {
   "id": "GSV1200D/47/0026",
   "kind": "msg",
   "jp": "「では　はじめましょうか\n　{bb}ユキだるま{ww}も　ちからを！」\n　",
-  "en": ""
+  "en": "\"Well then, shall we begin? {bb}Snowman{ww}, lend me your strength too!\""
  },
  {
   "id": "GSV1200D/47/0074",
   "kind": "msg",
   "jp": "「ハイ　わかっていまーしゅ！」\n　\n　",
-  "en": ""
+  "en": "\"Yesh, I'm ready!\""
  },
  {
   "id": "GSV1200D/47/00DA",
   "kind": "msg",
   "jp": "「北の　天に　住む　\n　せいれいよ！」\n　{KP}\n「われに　ちからを\n　あたえたまえ！」\n　",
-  "en": ""
+  "en": "\"O spirit who dwells in the northern heavens!\"{KP}\"Grant me your power!\""
  },
  {
   "id": "GSV1200D/47/0146",
   "kind": "msg",
   "jp": "「あたえてくだしゃいませ！」\n　\n　",
-  "en": ""
+  "en": "\"Pleashe grant it to ush!\""
  },
  {
   "id": "GSV1200D/47/0192",
   "kind": "msg",
   "jp": "「はぁぁぁぁぁーーー！\n　それーーーー！」\n　",
-  "en": ""
+  "en": "\"Haaaaaaaah! Thereeeee!\""
  },
  {
   "id": "GSV1200D/47/0438",
   "kind": "msg",
   "jp": "「うわーー！\n　すごいっクリ！」\n　",
-  "en": ""
+  "en": "\"Whoaaa! Amazing, kuri!\""
  },
  {
   "id": "GSV1200D/47/046C",
   "kind": "msg",
   "jp": "「いかがですか　桃太郎さん！\n　これで」\n　",
-  "en": ""
+  "en": "\"How is that, Momotaro-san? With this...\""
  },
  {
   "id": "GSV1200D/47/04A8",
   "kind": "msg",
   "jp": "　桃太郎は　お礼を　言った\n　\n　",
-  "en": ""
+  "en": "Momotaro thanked her."
  },
  {
   "id": "GSV1200D/47/04DA",
   "kind": "msg",
   "jp": "「それでは　これで\n　失礼しますわ………」\n　{KP}\n「…でも　人間たちの\n　祭りを　見て行こうかしら」\n　",
-  "en": ""
+  "en": "\"Well then, I shall take my leave.........\"{KP}\"...But perhaps I'll stay and watch the humans' festival.\""
  },
  {
   "id": "GSV1200D/47/0556",
   "kind": "msg",
   "jp": "「そうしましょう！\n　アタシも　見たいでしゅ」\n　",
-  "en": ""
+  "en": "\"Let's do that! I wanna shee it too!\""
  },
  {
   "id": "GSV1200D/47/0598",
   "kind": "msg",
   "jp": "「こんな　気持ちに\n　なれたのも　桃太郎さんの\n　おかげですわ………」{KP}\n　\n「では　わたしは　ここで\n　失礼しますわ………」\n　",
-  "en": ""
+  "en": "\"It's thanks to you, Momotaro-san, that I could come to feel this way.........\"{KP}\"Well then, I shall take my leave here.........\""
  },
  {
   "id": "GSV1200D/47/0630",
   "kind": "msg",
   "jp": "「桃太郎しゃん　またネー！」\n　\n　",
-  "en": ""
+  "en": "\"Momotaro-shan, shee you!\""
  }
 ]

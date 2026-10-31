@@ -3,72 +3,72 @@
   "id": "GSV1621D/3/000E",
   "kind": "msg",
   "jp": "「いらっしゃいませ！\n　{bb}えらんで団子{ww}が\n　５０両で楽しめます」{KN}",
-  "en": ""
+  "en": "\"Welcome! You can play {bb}Pick-a-Dango{ww} for 50 ryo.\"{KN}"
  },
  {
   "id": "GSV1621D/3/007A",
   "kind": "msg",
   "jp": "　\n「またのおこしを」\n　\n　",
-  "en": ""
+  "en": "\"Do come again.\""
  },
  {
   "id": "GSV1621D/3/00D2",
   "kind": "msg",
   "jp": "「遊び方の説明を　聞きますか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Would you like to hear how to play?\"{KN}"
  },
  {
   "id": "GSV1621D/3/013A",
   "kind": "msg",
   "jp": "　\n「桃太郎さん　\n　お金がたりませんよ！」\n　{KP}\n「またのおこしを」\n　\n　",
-  "en": ""
+  "en": "\"Momotaro-san, you don't have enough money!\"{KP}\"Do come again.\""
  },
  {
   "id": "GSV1621D/4/000E",
   "kind": "msg",
   "jp": "「いらっしゃいませ！\n　{bb}どっちでＳＨＯＷ{ww}が\n　５０両で楽しめます」{KN}",
-  "en": ""
+  "en": "\"Welcome! You can enjoy {bb}Which One SHOW{ww} for 50 ryo.\"{KN}"
  },
  {
   "id": "GSV1621D/4/007E",
   "kind": "msg",
   "jp": "　\n「またのおこしを」\n　\n　",
-  "en": ""
+  "en": "\"Do come again.\""
  },
  {
   "id": "GSV1621D/4/00D6",
   "kind": "msg",
   "jp": "「遊び方の説明を　聞きますか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Would you like to hear how to play?\"{KN}"
  },
  {
   "id": "GSV1621D/4/013E",
   "kind": "msg",
   "jp": "　\n「桃太郎さん　\n　お金がたりませんよ！」\n　{KP}\n「またのおこしを」\n　\n　",
-  "en": ""
+  "en": "\"Momotaro-san, you don't have enough money!\"{KP}\"Do come again.\""
  },
  {
   "id": "GSV1621D/5/0002",
   "kind": "msg",
   "jp": "「{bb}えらんで団子{ww}を　遊ぶ時\n　スペシャル団子を\n　見のがさないようにね！」{KP}\n　\n「スペシャル団子は　どこに\n　さしても　注文どおりの　色に\n　変わってくれるから　便利なの！」",
-  "en": ""
+  "en": "\"When you play {bb}Pick-a-Dango{ww}, don't miss the special dango!\"{KP}\"Wherever you skewer a special dango, it turns into the color the order calls for, so it's really handy!\""
  },
  {
   "id": "GSV1621D/6/0002",
   "kind": "msg",
   "jp": "「うちの　娘は\n　まだ　花より　団子　なんじゃ」\n　{KP}\n「だから　{bb}えらんで団子{ww}ばっかり\n　遊んでおるのじゃ！」\n　{KP}\n「まだ　まだ　イロケより\n　くいけ　じゃな！」\n　{KP}\n「ところで　桃太郎さん！\n　くしの　真ん中に　そろえて\n　団子を　さしてますかな？」{KP}\n　\n「きれいな　くし団子には\n　ボーナス点が　はいるんですよ！」\n　",
-  "en": ""
+  "en": "\"My daughter still prefers dumplings to flowers, you see.\"{KP}\"That's why all she ever plays is {bb}Pick-a-Dango{ww}!\"{KP}\"She's still more into eating than romance, eh!\"{KP}\"By the way, Momotaro-san! Are you lining your dango up in the middle of the skewer?\"{KP}\"A neat skewer of dango earns you bonus points!\""
  },
  {
   "id": "GSV1621D/7/0002",
   "kind": "msg",
   "jp": "「{bb}どっちでＳＨＯＷ{ww}は\n　かなわんよ！」\n　{KP}\n「あちらと　思えば　こちら\n　こちらと　思えば　また　あちら」\n　{KP}\n「わしには　もう　わからんよ！」\n　\n　",
-  "en": ""
+  "en": "\"I just can't win at {bb}Which One SHOW{ww}!\"{KP}\"You think it's over there, and it's over here. You think it's over here, and it's over there again.\"{KP}\"I can't make heads or tails of it anymore!\""
  },
  {
   "id": "GSV1621D/8/0002",
   "kind": "msg",
   "jp": "「おばあちゃんは　もう\n　わかんない　って言うけど」\n　{KP}\n「よーく　見てれば\n　ちゃんと　わかるんだよ！」\n　{KP}\n「あせらず　さわがず\n　じっくり　見ることさ！」\n　{KP}\n「２０回　連続　正解で\n　パーフェクトを　めざすぞ！」\n　",
-  "en": ""
+  "en": "\"Grandma says she just can't tell anymore,\"{KP}\"but if you watch really closely, you can figure it out!\"{KP}\"Don't rush, don't panic, just watch carefully!\"{KP}\"I'm going for a perfect score with 20 right in a row!\""
  }
 ]

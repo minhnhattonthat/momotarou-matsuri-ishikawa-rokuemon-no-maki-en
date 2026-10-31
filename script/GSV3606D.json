@@ -3,7 +3,7 @@
   "id": "GSV3606D/0/003A",
   "kind": "msg",
   "jp": "「ちょっと　ちょっと　お客さん！\n　ただで　プレイしようなんて\n　かんべんしてくださいよ～～！」",
-  "en": ""
+  "en": "\"Hey, hey, hold on there! Don't go trying to play for free! Gimme a break!\""
  },
  {
   "id": "GSV3606D/0/00CE",
@@ -21,19 +21,19 @@
   "id": "GSV3606D/2/00A0",
   "kind": "msg",
   "jp": "　\n「またのおこしを」\n　\n　",
-  "en": ""
+  "en": "\"Do come again.\""
  },
  {
   "id": "GSV3606D/2/00F8",
   "kind": "msg",
   "jp": "「遊び方の説明を　聞きますか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Would you like to hear how to play?\"{KN}"
  },
  {
   "id": "GSV3606D/2/016E",
   "kind": "msg",
   "jp": "　\n「桃太郎さん　\n　お金がたりませんよ！」\n　{KP}\n「またのおこしを」\n　\n　",
-  "en": ""
+  "en": "\"Momotaro-san, you don't have enough money!\"{KP}\"Do come again.\""
  },
  {
   "id": "GSV3606D/3/0002",

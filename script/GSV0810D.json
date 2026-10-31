@@ -3,24 +3,24 @@
   "id": "GSV0810D/2/001E",
   "kind": "msg",
   "jp": "「こら！　おまえは　桃太郎さんの\n　ニセモノ　ですかい？」\n　{KP}\n「よーくも　お祭りを\n　メチャメチャに　してくれたな！」\n　{KP}\n「出てけーッ！」\n　\n　",
-  "en": ""
+  "en": "\"Hey! Are you the fake Momotaro-san?\"{KP}\"How dare you turn the festival upside down!\"{KP}\"Get ouuut!\""
  },
  {
   "id": "GSV0810D/2/00D2",
   "kind": "msg",
   "jp": "「いや～　申しわけない！\n　あなたが　本物の\n　桃太郎さんですよね！」{KP}\n　\n「あんな　バレバレの　へんそうも\n　見やぶれないなんて…」\n　{KP}\n「わたしも　もうろくしたの\n　ですかねぇ～」\n　{KP}\n「おわびに　この　{bb}方言カード{ww}を\n　さしあげます！」\n　",
-  "en": ""
+  "en": "\"Oh dear, I'm terribly sorry! You're the real Momotaro-san, aren't you!\"{KP}\"To think I couldn't see through such an obvious disguise...\"{KP}\"I must be getting senile in my old age...\"{KP}\"As an apology, please accept this {bb}Dialect Card{ww}!\""
  },
  {
   "id": "GSV0810D/2/01EE",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０４８{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 048{ww}!{KN}"
  },
  {
   "id": "GSV0810D/2/0242",
   "kind": "msg",
   "jp": "「金太郎の村の　お祭りを\n　ぞんぶんに　楽しんでいって\n　ください！」",
-  "en": ""
+  "en": "\"Please enjoy the Kintaro Village festival to your heart's content!\""
  }
 ]

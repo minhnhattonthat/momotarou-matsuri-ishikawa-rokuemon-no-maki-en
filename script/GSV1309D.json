@@ -3,534 +3,534 @@
   "id": "GSV1309D/2/0002",
   "kind": "msg",
   "jp": "「」\n　ばんごうは００００８",
-  "en": ""
+  "en": "\"\"{n}The number is 00008."
  },
  {
   "id": "GSV1309D/3/001E",
   "kind": "msg",
   "jp": "「だじゃれ大会が\n　楽しみで　楽しみで…」\n　{KP}\n「夜も　ねむれナイト！」\n　\n　{KP}\n「まだまだ　調子が　でんのぉ！」\n　\n　",
-  "en": ""
+  "en": "\"I'm so excited for the Pun Contest...\"{KP}\"I'm having sleepless knights!\"{KP}\"Hmm, I'm still not quite on form!\""
  },
  {
   "id": "GSV1309D/3/00B6",
   "kind": "msg",
   "jp": "「ようやく　だじゃれ大会を\n　始められますな！」\n　{KP}\n「今回の　お題は\n　ちと　むずかしいのぉ！」\n　{KP}\n「じゃが　わしも　考えたぞ！\n　聞いてくだされ」\n　{KP}\n「寒くて　手が　カジカエデしまう！」\n　\n　{KP}\n「どうですかな？　桃太郎さん！」\n　\n　",
-  "en": ""
+  "en": "\"At last, the Pun Contest can begin!\"{KP}\"This time's theme is a bit tough!\"{KP}\"But I've thought one up too! Hear me out:\"{KP}\"It's so cold, my fingers are pine-ing for warmth!\"{KP}\"How was that, Momotaro-san?\""
  },
  {
   "id": "GSV1309D/3/01D4",
   "kind": "msg",
   "jp": "「今回は　全員が　優勝　という\n　快挙じゃったな！」\n　{KP}\n「次回も　おもしろい\n　だじゃれを　考えねばな！」\n　",
-  "en": ""
+  "en": "\"This time, everyone took first place. What a feat!\"{KP}\"I'll have to think up funny puns for next time too!\""
  },
  {
   "id": "GSV1309D/4/001E",
   "kind": "msg",
   "jp": "「まだなのかしら？\n　ずぅっと　待ってるのに」\n　{KP}\n「こうして　待っている　間にも\n　ネタを　考えなくっちゃ！」\n　",
-  "en": ""
+  "en": "\"Isn't it time yet? I've been waiting forever.\"{KP}\"I've got to think up material while I wait!\""
  },
  {
   "id": "GSV1309D/4/00AA",
   "kind": "msg",
   "jp": "「ようやく　ネタが　わかったわね\n　むずかしい　お題だわ！」\n　{KP}\n「でも　ちょっとは　女性に\n　有利な　お題でも　あるので\n　がんばって　考えるわ！」",
-  "en": ""
+  "en": "\"We finally know the theme. What a hard one!\"{KP}\"But it's a theme that gives us ladies a bit of an edge, so I'll think hard!\""
  },
  {
   "id": "GSV1309D/4/0158",
   "kind": "msg",
   "jp": "「次の　だじゃれ大会の\n　お題は　何に　なるのかしら？」\n　",
-  "en": ""
+  "en": "\"I wonder what the theme of the next Pun Contest will be?\""
  },
  {
   "id": "GSV1309D/5/0048",
   "kind": "msg",
   "jp": "「ホントに　ここで　待ってれば\n　だじゃれ大会が　見られるのかな？」\n　{KP}\n「そんなことより　桃太郎さん！\n　オイラの　ひみつを\n　教えてあげるよ！」{KP}\n　\n「実は　オイラ\n　{bb}ユキだるまチャン{ww}の\n　大ファンなんだよ！」{KP}\n　\n「{bb}ユキだるまチャン{ww}に　会わせて\n　くれたら　オイラの　宝物を\n　あげちゃうよ！」",
-  "en": ""
+  "en": "\"Will we really get to see the Pun Contest if we wait here, I wonder?\"{KP}\"Never mind that, Momotaro-san! I'll tell you my secret!\"{KP}\"Truth is, I'm a huge fan of {bb}Snowman-chan{ww}!\"{KP}\"If you let me meet {bb}Snowman-chan{ww}, I'll give you my treasure!\""
  },
  {
   "id": "GSV1309D/5/01A4",
   "kind": "msg",
   "jp": "「お題が　決まったようだけど\n　ちゃんと　だじゃれ大会は\n　始まるのかな？」{KP}\n　\n「そんなことより　桃太郎さん！\n　オイラの　ひみつを\n　教えてあげるよ！」{KP}\n　\n「実は　オイラ\n　{bb}ユキだるまチャン{ww}の\n　大ファンなんだよ！」{KP}\n　\n「{bb}ユキだるまチャン{ww}に　会わせて\n　くれたら　オイラの　宝物を\n　あげちゃうよ！」",
-  "en": ""
+  "en": "\"Looks like the theme's been decided, but will the Pun Contest really start, I wonder?\"{KP}\"Never mind that, Momotaro-san! I'll tell you my secret!\"{KP}\"Truth is, I'm a huge fan of {bb}Snowman-chan{ww}!\"{KP}\"If you let me meet {bb}Snowman-chan{ww}, I'll give you my treasure!\""
  },
  {
   "id": "GSV1309D/5/030A",
   "kind": "msg",
   "jp": "「あ～！　だじゃれ大会は\n　おもしろかったなあ～」\n　{KP}\n「そんなことより　桃太郎さん！\n　オイラの　ひみつを\n　教えてあげるよ！」{KP}\n　\n「実は　オイラ\n　{bb}ユキだるまチャン{ww}の\n　大ファンなんだよ！」{KP}\n　\n「{bb}ユキだるまチャン{ww}に　会わせて\n　くれたら　オイラの　宝物を\n　あげちゃうよ！」",
-  "en": ""
+  "en": "\"Ahh! The Pun Contest was so much fun!\"{KP}\"Never mind that, Momotaro-san! I'll tell you my secret!\"{KP}\"Truth is, I'm a huge fan of {bb}Snowman-chan{ww}!\"{KP}\"If you let me meet {bb}Snowman-chan{ww}, I'll give you my treasure!\""
  },
  {
   "id": "GSV1309D/5/0462",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　ユキだるまチャンと　いっしょに\n　旅を　してみて　どうでした！？」{KP}\n　\n「いいな～　いいな～\n　いない　いない　バア～！」\n　{KP}\n「も～う　オイラは　桃太郎さんが\n　にくいよ　にくいよ　２ｘ９＝１８\n　にくいよ　にくいよ　肉くえよ！」{KP}\n　\n「うらやましい～な～」\n　\n　",
-  "en": ""
+  "en": "\"Momotaro-san! How was traveling with Snowman-chan?!\"{KP}\"Lucky you, lucky you! Lucky ducky, peekabooo!\"{KP}\"Ooh, Momotaro-san, I'm green with envy! Green, green, green beans! Green with envy, go eat your greens!\"{KP}\"I'm sooo jealous...\""
  },
  {
   "id": "GSV1309D/5/05A8",
   "kind": "msg",
   "jp": "「あ～！\n　ユキだるまチャンに\n　会いたいなぁ～！」",
-  "en": ""
+  "en": "\"Ahh! I wanna meet Snowman-chan!\""
  },
  {
   "id": "GSV1309D/5/0626",
   "kind": "msg",
   "jp": "「わぁ～い！\n　ユキだるまチャンだぁ！\n　オイラ　大ファンなんです！」{KP}\n　\n「いや～　うれしいね！\n　ハイ！　これ　プレゼントです！\n　受け取ってください！」{KP}\n　\n「お礼に　オイラの　お宝の\n　{bb}桃太郎人形{ww}を　あげちゃうよ！」\n　",
-  "en": ""
+  "en": "\"Yaaay! It's Snowman-chan! I'm your biggest fan!\"{KP}\"Wow, this makes me so happy! Here! This is a present for you! Please take it!\"{KP}\"And as thanks, I'll give you my treasure, the {bb}Momotaro Doll{ww}!\""
  },
  {
   "id": "GSV1309D/5/072E",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}桃太郎人形{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Momotaro Doll{ww}!{KN}"
  },
  {
   "id": "GSV1309D/5/0774",
   "kind": "msg",
   "jp": "「わぁ～い！\n　ユキだるまチャンだぁ！\n　オイラ　大ファンなんです！」{KP}\n　\n「いや～　うれしいね！\n　ご兄弟で　来てくれて！」\n　{KP}\n「ハイ！　これ　プレゼントです！\n　受け取ってくださ～い！」\n　",
-  "en": ""
+  "en": "\"Yaaay! It's Snowman-chan! I'm your biggest fan!\"{KP}\"Wow, this makes me so happy! And you came with your brother!\"{KP}\"Here! This is a present for you! Please take iiit!\""
  },
  {
   "id": "GSV1309D/5/0856",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}桃太郎人形{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Momotaro Doll{ww}!{KN}"
  },
  {
   "id": "GSV1309D/5/089C",
   "kind": "msg",
   "jp": "「わぁ～い！\n　ユキだるまチャンだぁ！\n　また　来てくれたんだぁ！」{KP}\n　\n「じゃあ　さっき　あげられなかった\n　{bb}桃太郎人形{ww}を　あげるね！」\n　",
-  "en": ""
+  "en": "\"Yaaay! It's Snowman-chan! You came back again!\"{KP}\"Then I'll give you the {bb}Momotaro Doll{ww} I couldn't give you before!\""
  },
  {
   "id": "GSV1309D/5/0946",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}桃太郎人形{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Momotaro Doll{ww}!{KN}"
  },
  {
   "id": "GSV1309D/5/098C",
   "kind": "msg",
   "jp": "「わぁ～い！\n　ユキだるまチャンだぁ！\n　また　来てくれたんだぁ！」{KP}\n　\n「でも　プレゼントする物が\n　ないんですよ～！\n　ゴメンなさ～い！」",
-  "en": ""
+  "en": "\"Yaaay! It's Snowman-chan! You came back again!\"{KP}\"But I don't have anything left to give you! Sorryyy!\""
  },
  {
   "id": "GSV1309D/6/001E",
   "kind": "msg",
   "jp": "「わしは　ここんところ\n　ねむれないんじゃよ！」\n　{KP}\n「だじゃれ大会の\n　お題が　知りたくて　知りたくて」\n　{KP}\n「なんとか　ならんもんかのぉ～\n　桃太郎さん！」\n　",
-  "en": ""
+  "en": "\"I haven't been able to sleep lately, I tell you!\"{KP}\"I'm just dying to know the theme of the Pun Contest!\"{KP}\"Isn't there something you can do, Momotaro-san?\""
  },
  {
   "id": "GSV1309D/6/00E0",
   "kind": "msg",
   "jp": "「みんな　だじゃれの　ネタを\n　考えるのに　必死じゃけど」\n　{KP}\n「みんな　桃太郎さんに\n　感謝してるんじゃよ」\n　{KP}\n「感謝　感激　雨　アヤメ！」\n　\n　",
-  "en": ""
+  "en": "\"Everyone's racking their brains for puns, but\"{KP}\"they're all grateful to you, Momotaro-san.\"{KP}\"Thanks a bunch! A whole bouquet of thanks!\""
  },
  {
   "id": "GSV1309D/6/0196",
   "kind": "msg",
   "jp": "「次の　だじゃれ大会は\n　いつ　なんじゃろうのぉ！」\n　{KP}\n「また　ねむれなくなって\n　しまいそうじゃわい！」\n　",
-  "en": ""
+  "en": "\"When will the next Pun Contest be, I wonder!\"{KP}\"I'll probably lose sleep all over again!\""
  },
  {
   "id": "GSV1309D/7/0048",
   "kind": "msg",
   "jp": "「ワクワクするわね！\n　桃太郎さん！」\n　{KP}\n「いよいよ　だじゃれ大会が\n　始まるわよ！」\n　",
-  "en": ""
+  "en": "\"How exciting, Momotaro-san!\"{KP}\"The Pun Contest is finally starting!\""
  },
  {
   "id": "GSV1309D/7/00C0",
   "kind": "msg",
   "jp": "「こんなの　見ている時では\n　ないのに！\n　……しょうがないクリ」",
-  "en": ""
+  "en": "\"This is no time to be watching this! ...Oh well, kuri.\""
  },
  {
   "id": "GSV1309D/7/0112",
   "kind": "msg",
   "jp": "「レディース！\n　あんど　ジェントルメン！」\n　{KP}\n「みなさま　ようこそ\n　お集まり　くださいました」\n　{KP}\n「天下一　だじゃれ大会を\n　はじめたいと　思います！」\n　{KP}\n「わたくし　司会の{bb}ましら{ww}です！\n　よろしく　お願いしマース！」\n　",
-  "en": ""
+  "en": "\"Ladies and gentlemen!\"{KP}\"Welcome, everyone, and thank you for coming.\"{KP}\"Let the World's Greatest Pun Contest begin!\"{KP}\"I'm your host, {bb}Mashira{ww}! Pleased to meet youuu!\""
  },
  {
   "id": "GSV1309D/7/0228",
   "kind": "msg",
   "jp": "「どーも　どーも！」\n　\n　{KP}\n「では　さっそく\n　はじめましょう！\n　今回の　お題は　植物！」{KP}\n　\n「花や草の　だじゃれで\n　ございまーす！」\n　{KP}\n「それでは～！\n　エントリーナンバー１番！」\n　{KP}\n「京都府の　いもおじさん！\n　はりきって　どうぞ！」\n　",
-  "en": ""
+  "en": "\"Thank you, thank you!\"{KP}\"Let's get right to it! This time, the theme is plants!\"{KP}\"Puns about flowers and grass!\"{KP}\"And now! Entry number 1!\"{KP}\"Uncle Potato from Kyoto Prefecture! Give it all you've got!\""
  },
  {
   "id": "GSV1309D/7/0372",
   "kind": "msg",
   "jp": "「危機一髪！\n　ああ…アブラナかったよー」\n　",
-  "en": ""
+  "en": "\"Phew, that was close! I almost got squashed!\""
  },
  {
   "id": "GSV1309D/7/03CA",
   "kind": "msg",
   "jp": "「京都府の　いもおじさん\n　ありがとうございました！」\n　",
-  "en": ""
+  "en": "\"Thank you, Uncle Potato from Kyoto Prefecture!\""
  },
  {
   "id": "GSV1309D/7/0410",
   "kind": "msg",
   "jp": "「おつぎは\n　エントリーナンバー２番！」\n　{KP}\n「埼玉県の　渡辺千恵サン\n　どうぞ！」\n　",
-  "en": ""
+  "en": "\"Next up, entry number 2!\"{KP}\"Chie Watanabe-san from Saitama Prefecture, go ahead!\""
  },
  {
   "id": "GSV1309D/7/04A0",
   "kind": "msg",
   "jp": "「落っポトスなよ！　大事な物だから！」\n　\n　",
-  "en": ""
+  "en": "\"Careful, don't drop it! That's my most precious peas-session!\""
  },
  {
   "id": "GSV1309D/7/04F8",
   "kind": "msg",
   "jp": "「いやはや\n　おもしろかったですね\n　渡辺千恵サン！」",
-  "en": ""
+  "en": "\"My, my, that was a funny one, Chie Watanabe-san!\""
  },
  {
   "id": "GSV1309D/7/053A",
   "kind": "msg",
   "jp": "　\n「つづきましては\n　エントリーナンバー３番」\n　{KP}\n「おなじく\n　埼玉県の　みいサン\n　どうぞ！」",
-  "en": ""
+  "en": "\"Next up, entry number 3.\"{KP}\"Also from Saitama Prefecture, Mii-san, go ahead!\""
  },
  {
   "id": "GSV1309D/7/05D8",
   "kind": "msg",
   "jp": "「新郎新婦による　ケヤキ入刀です！」\n　\n　",
-  "en": ""
+  "en": "\"Here come the bride and groom! Don't they make a lovely pear?\""
  },
  {
   "id": "GSV1309D/7/062E",
   "kind": "msg",
   "jp": "「なかなか　よかったですね！\n　埼玉県の　みいサン　でした」\n　",
-  "en": ""
+  "en": "\"Pretty good, wasn't it! That was Mii-san from Saitama Prefecture.\""
  },
  {
   "id": "GSV1309D/7/067A",
   "kind": "msg",
   "jp": "「つづきましては\n　エントリーナンバー４番」\n　{KP}\n「新潟県の　遠山有美サン！\n　がんばって　ください！」\n　",
-  "en": ""
+  "en": "\"Next up, entry number 4.\"{KP}\"Yumi Toyama-san from Niigata Prefecture! Do your best!\""
  },
  {
   "id": "GSV1309D/7/071E",
   "kind": "msg",
   "jp": "「ランだ　バカ野郎！」\n　\n　",
-  "en": ""
+  "en": "\"Are you orchid-ding me?! You fool!\""
  },
  {
   "id": "GSV1309D/7/0766",
   "kind": "msg",
   "jp": "「はははっ　そうきましたか！\n　遠山有美サンでした！」\n　",
-  "en": ""
+  "en": "\"Ha ha ha! So that's your angle! That was Yumi Toyama-san!\""
  },
  {
   "id": "GSV1309D/7/07AC",
   "kind": "msg",
   "jp": "「つづきましては\n　エントリーナンバー５番」\n　{KP}\n「神奈川県の　山田光重クン！\n　女性たちに　負けないように\n　がんばってください！」",
-  "en": ""
+  "en": "\"Next up, entry number 5.\"{KP}\"Mitsushige Yamada-kun from Kanagawa Prefecture! Don't let the ladies beat you! Do your best!\""
  },
  {
   "id": "GSV1309D/7/086A",
   "kind": "msg",
   "jp": "「東京へ　ひッコスモス！！」\n　\n　",
-  "en": ""
+  "en": "\"I'm off to Tokyo to put down roots!!\""
  },
  {
   "id": "GSV1309D/7/08B8",
   "kind": "msg",
   "jp": "「東京に　あこがれる？\n　神奈川県の　山田光重クン\n　でした！」",
-  "en": ""
+  "en": "\"Dreaming of Tokyo, are we? That was Mitsushige Yamada-kun from Kanagawa Prefecture!\""
  },
  {
   "id": "GSV1309D/7/0904",
   "kind": "msg",
   "jp": "　\n「つづきましては\n　エントリーナンバー６番」\n　{KP}\n「広島県　流美子サン！\n　元気よく　どうぞ！」\n　",
-  "en": ""
+  "en": "\"Next up, entry number 6.\"{KP}\"Rumiko-san from Hiroshima Prefecture! Nice and lively, now!\""
  },
  {
   "id": "GSV1309D/7/09A6",
   "kind": "msg",
   "jp": "「空クチナシの　福引きでーす！」\n　\n　",
-  "en": ""
+  "en": "\"Peony up for the lottery! Every ticket's a winner!\""
  },
  {
   "id": "GSV1309D/7/09F8",
   "kind": "msg",
   "jp": "「なかなか　おしゃれな\n　だじゃれでしたね！\n　流美子サン！」",
-  "en": ""
+  "en": "\"That was a rather stylish pun, Rumiko-san!\""
  },
  {
   "id": "GSV1309D/7/0A42",
   "kind": "msg",
   "jp": "　\n「つづきましては\n　エントリーナンバー７番」\n　{KP}\n「宮城県の　吉田夏子サン\n　この方も　女性の方です！」\n　",
-  "en": ""
+  "en": "\"Next up, entry number 7.\"{KP}\"Natsuko Yoshida-san from Miyagi Prefecture. Another lady!\""
  },
  {
   "id": "GSV1309D/7/0AEC",
   "kind": "msg",
   "jp": "「この花　ラベンダー？」\n　\n　",
-  "en": ""
+  "en": "\"Which flower gives the best kisses? Tulips!\""
  },
  {
   "id": "GSV1309D/7/0B36",
   "kind": "msg",
   "jp": "「王道を　つき進むような\n　だじゃれでしたね！\n　吉田夏子サン！」",
-  "en": ""
+  "en": "\"A pun that marches right down the classic road, Natsuko Yoshida-san!\""
  },
  {
   "id": "GSV1309D/7/0B84",
   "kind": "msg",
   "jp": "　\n「つづきましては\n　エントリーナンバー８番」\n　{KP}\n「広島県の　吉田拓……\n　あっ　もとい！」\n　{KP}\n「広島県の　岡田拓郎クン\n　小学生です」\n　",
-  "en": ""
+  "en": "\"Next up, entry number 8.\"{KP}\"Takuro Yoshida from Hiroshima... oops, I mean!\"{KP}\"Takuro Okada-kun from Hiroshima Prefecture. He's in elementary school.\""
  },
  {
   "id": "GSV1309D/7/0C56",
   "kind": "msg",
   "jp": "「超ムカツクって　パンジ～」\n　\n　",
-  "en": ""
+  "en": "\"Like, that's SOOO annoying! It makes me totally wilt~\""
  },
  {
   "id": "GSV1309D/7/0CA4",
   "kind": "msg",
   "jp": "「いや～　チョー！\n　おもしろかったですよ\n　岡田拓郎クン！」",
-  "en": ""
+  "en": "\"Wow, that was SOOO funny, Takuro Okada-kun!\""
  },
  {
   "id": "GSV1309D/7/0CEE",
   "kind": "msg",
   "jp": "　\n「つづきましては\n　エントリーナンバー９番」\n　{KP}\n「千葉県　若名さだ子サン！\n　元気よく　どうぞ！」\n　",
-  "en": ""
+  "en": "\"Next up, entry number 9.\"{KP}\"Sadako Wakana-san from Chiba Prefecture! Nice and lively, now!\""
  },
  {
   "id": "GSV1309D/7/0D94",
   "kind": "msg",
   "jp": "「母ちゃん　クローバーっかり\n　かけて　ごめんね」\n　",
-  "en": ""
+  "en": "\"Mom, I'm sorry for always being such a thorn in your side.\""
  },
  {
   "id": "GSV1309D/7/0DF4",
   "kind": "msg",
   "jp": "「泣かせる　だじゃれですね～！\n　若名さだ子サンでした！」\n　",
-  "en": ""
+  "en": "\"A pun to bring a tear to your eye! That was Sadako Wakana-san!\""
  },
  {
   "id": "GSV1309D/7/0E3E",
   "kind": "msg",
   "jp": "「つづきましては\n　エントリーナンバー１０番」\n　{KP}\n「またまた　埼玉県からです！\n　では　大平香奈サン\n　どうぞ！」",
-  "en": ""
+  "en": "\"Next up, entry number 10.\"{KP}\"Once again, from Saitama Prefecture! Kana Ohira-san, go ahead!\""
  },
  {
   "id": "GSV1309D/7/0EEA",
   "kind": "msg",
   "jp": "「あなたの　そばに\n　ユリそっていたい{rr}∞{ww}」\n　",
-  "en": ""
+  "en": "\"I'll always stay by your side, lily and truly{rr}~{ww}\""
  },
  {
   "id": "GSV1309D/7/0F46",
   "kind": "msg",
   "jp": "「かわいらしい\n　だじゃれですね\n　大平香奈サン！」{KP}\n　\n「さあ！　では　後半戦に\n　まいりましょう！」\n　",
-  "en": ""
+  "en": "\"What a cute pun, Kana Ohira-san!\"{KP}\"Now then! On to the second half!\""
  },
  {
   "id": "GSV1309D/7/0FC6",
   "kind": "msg",
   "jp": "「つづきましては\n　エントリーナンバー１１番」\n　{KP}\n「兵庫県の　ＨＡＰＰＹクン！\n　はりきって　どうぞ！」\n　",
-  "en": ""
+  "en": "\"Next up, entry number 11.\"{KP}\"HAPPY-kun from Hyogo Prefecture! Give it all you've got!\""
  },
  {
   "id": "GSV1309D/7/106C",
   "kind": "msg",
   "jp": "「シダてに出れば\n　つけあがりやがって！」\n　",
-  "en": ""
+  "en": "\"I go easy on you, and you get cocky?! Fern-get it!\""
  },
  {
   "id": "GSV1309D/7/10C4",
   "kind": "msg",
   "jp": "「怒りの　こもった\n　だじゃれでしたね！\n　ＨＡＰＰＹクン！」",
-  "en": ""
+  "en": "\"A pun full of fury, HAPPY-kun!\""
  },
  {
   "id": "GSV1309D/7/110E",
   "kind": "msg",
   "jp": "　\n「つづきましては\n　エントリーナンバー１２番」\n　{KP}\n「宮城県の　あおのすぐりサン！\n　すぐれた　だじゃれを\n　どうぞー！」",
-  "en": ""
+  "en": "\"Next up, entry number 12.\"{KP}\"Suguri Aono-san from Miyagi Prefecture! Give us a superb pun!\""
  },
  {
   "id": "GSV1309D/7/11C6",
   "kind": "msg",
   "jp": "「ツツジんで　新春の\n　お喜びを申し上げます」\n　",
-  "en": ""
+  "en": "\"Respectfully wishing you a Happy New Yew!\""
  },
  {
   "id": "GSV1309D/7/1222",
   "kind": "msg",
   "jp": "「来年の年賀状に\n　使ってみては　どうですか？\n　あおのすぐりサンでした！」",
-  "en": ""
+  "en": "\"Why not use it on next year's New Year's cards? That was Suguri Aono-san!\""
  },
  {
   "id": "GSV1309D/7/127A",
   "kind": "msg",
   "jp": "　\n「つづきましては\n　エントリーナンバー１３番」\n　{KP}\n「山梨県の　北井靖人クン！\n　もう　期待しちゃいますよ！」\n　",
-  "en": ""
+  "en": "\"Next up, entry number 13.\"{KP}\"Yasuto Kitai-kun from Yamanashi Prefecture! We've got high hopes!\""
  },
  {
   "id": "GSV1309D/7/132A",
   "kind": "msg",
   "jp": "「オニユリこわい先生がいる」\n　\n　",
-  "en": ""
+  "en": "\"Our teacher is scarier than a snapdragon!\""
  },
  {
   "id": "GSV1309D/7/1378",
   "kind": "msg",
   "jp": "「えんま大王のような先生\n　なのでしょうか？\n　北井靖人クン！」",
-  "en": ""
+  "en": "\"Is he a teacher like Great King Enma, Yasuto Kitai-kun?\""
  },
  {
   "id": "GSV1309D/7/13C4",
   "kind": "msg",
   "jp": "　\n「つづきましては\n　エントリーナンバー１４番」\n　{KP}\n「福島県の　宇野邦久クン\n　がんばって　いってみよう！」\n　",
-  "en": ""
+  "en": "\"Next up, entry number 14.\"{KP}\"Kunihisa Uno-kun from Fukushima Prefecture! Go for it!\""
  },
  {
   "id": "GSV1309D/7/1472",
   "kind": "msg",
   "jp": "「なかなか\n　うまくいカーネーション」\n　",
-  "en": ""
+  "en": "\"Nothing ever goes my way! It's a total dis-aster!\""
  },
  {
   "id": "GSV1309D/7/14C6",
   "kind": "msg",
   "jp": "「いや～　だじゃれは　うまく\n　決めた　宇野邦久クンでした」\n　",
-  "en": ""
+  "en": "\"Well, at least the pun went your way, Kunihisa Uno-kun!\""
  },
  {
   "id": "GSV1309D/7/1512",
   "kind": "msg",
   "jp": "「つづきましては\n　エントリーナンバー１５番」\n　{KP}\n「北海道の　ガンバマンくん\n　ドーンと　いってみよう！」\n　",
-  "en": ""
+  "en": "\"Next up, entry number 15.\"{KP}\"Ganbaman-kun from Hokkaido! Go big!\""
  },
  {
   "id": "GSV1309D/7/15BA",
   "kind": "msg",
   "jp": "「そうじ機で　そこのスィートピー！」\n　\n　",
-  "en": ""
+  "en": "\"Grab the vacuum and sweet-pea over there!\""
  },
  {
   "id": "GSV1309D/7/1610",
   "kind": "msg",
   "jp": "「この調子で　家事を\n　手伝いましょうね！\n　ガンバマンくん」",
-  "en": ""
+  "en": "\"Keep it up and help out with the housework, Ganbaman-kun!\""
  },
  {
   "id": "GSV1309D/7/165A",
   "kind": "msg",
   "jp": "　\n「つづきましては\n　エントリーナンバー１６番」\n　{KP}\n「熊本県の　前田瑞穂サン！\n　またまた　女性の登場です！」\n　",
-  "en": ""
+  "en": "\"Next up, entry number 16.\"{KP}\"Mizuho Maeda-san from Kumamoto Prefecture! Another lady takes the stage!\""
  },
  {
   "id": "GSV1309D/7/170A",
   "kind": "msg",
   "jp": "「この肉　くさっていたわよ\n　とりカエデよ！」\n　",
-  "en": ""
+  "en": "\"This meat has gone bad! I turnip my nose at it! Exchange it!\""
  },
  {
   "id": "GSV1309D/7/1766",
   "kind": "msg",
   "jp": "「あなたの　だじゃれは\n　新鮮ですよ！\n　前田瑞穂サン！」",
-  "en": ""
+  "en": "\"Your pun is nice and fresh, Mizuho Maeda-san!\""
  },
  {
   "id": "GSV1309D/7/17AC",
   "kind": "msg",
   "jp": "　\n「つづきましては\n　エントリーナンバー１７番」\n　{KP}\n「滋賀県の　池田とんこクン！\n　さあ　いってみよう！」\n　",
-  "en": ""
+  "en": "\"Next up, entry number 17.\"{KP}\"Tonko Ikeda-kun from Shiga Prefecture! Let's go!\""
  },
  {
   "id": "GSV1309D/7/1858",
   "kind": "msg",
   "jp": "「グレープで利用すると\n　割引価格になる」\n　",
-  "en": ""
+  "en": "\"Bring your whole bunch for a grape discount!\""
  },
  {
   "id": "GSV1309D/7/18B0",
   "kind": "msg",
   "jp": "「さすが　この　買い物上手！\n　池田とんこクンでした」\n　",
-  "en": ""
+  "en": "\"Spoken like a true bargain hunter! That was Tonko Ikeda-kun.\""
  },
  {
   "id": "GSV1309D/7/18F6",
   "kind": "msg",
   "jp": "「つづきましては\n　エントリーナンバー１８番」\n　{KP}\n「岡山県の　千草サン！\n　おもしろいのを\n　待ってますぞ！」",
-  "en": ""
+  "en": "\"Next up, entry number 18.\"{KP}\"Chigusa-san from Okayama Prefecture! We're waiting for a funny one!\""
  },
  {
   "id": "GSV1309D/7/199E",
   "kind": "msg",
   "jp": "「お金ない時は　\n　さみシクラーメンを食べよう」\n　",
-  "en": ""
+  "en": "\"When you're broke, slurp a sad, lonely bowl of cycla-ramen!\""
  },
  {
   "id": "GSV1309D/7/19FC",
   "kind": "msg",
   "jp": "「ハイレベルな　だじゃれを\n　ありがとう　千草サン！」\n　",
-  "en": ""
+  "en": "\"Thank you for that high-level pun, Chigusa-san!\""
  },
  {
   "id": "GSV1309D/7/1A42",
   "kind": "msg",
   "jp": "「つづきましては\n　エントリーナンバー１９番」\n　{KP}\n「東京都の　小宮山茂晃クン！\n　気合いを　入れていこう！」\n　",
-  "en": ""
+  "en": "\"Next up, entry number 19.\"{KP}\"Shigeaki Komiyama-kun from Tokyo! Get fired up!\""
  },
  {
   "id": "GSV1309D/7/1AEC",
   "kind": "msg",
   "jp": "「それは　俺への　ホウセンカ！？\n　　　　　　　（ちょうせんか！？）」\n　",
-  "en": ""
+  "en": "\"Oh, so you wanna pick a fight with me?! (Or pick a flower?!)\""
  },
  {
   "id": "GSV1309D/7/1B60",
   "kind": "msg",
   "jp": "「ん～っ！　決まったね\n　小宮山茂晃クン！」\n　",
-  "en": ""
+  "en": "\"Mmm! Nailed it, Shigeaki Komiyama-kun!\""
  },
  {
   "id": "GSV1309D/7/1B9C",
   "kind": "msg",
   "jp": "「さあ　いよいよ　最後の\n　作品に　なってしまいました」\n　{KP}\n「エントリーナンバー２０番は\n　この方！」\n　{KP}\n「福岡県の　錯乱坊主サン！\n　最後です！\n　がんばってください」",
-  "en": ""
+  "en": "\"And now, at last, we've come to the final entry.\"{KP}\"Entry number 20 is... this person!\"{KP}\"Crazed Monk-san from Fukuoka Prefecture! The very last one! Do your best!\""
  },
  {
   "id": "GSV1309D/7/1C88",
   "kind": "msg",
   "jp": "「アントニオ檜（ひのき）」\n　\n　",
-  "en": ""
+  "en": "\"Antonio Hinoki (cypress)!\""
  },
  {
   "id": "GSV1309D/7/1CD4",
   "kind": "msg",
   "jp": "「錯乱坊主サン！\n　ありがとうございましたー！」\n　{KP}\n「さあ　みなさん　お楽しみ\n　いただけたでしょうか！？」\n　{KP}\n「いよいよ　しんさ結果の\n　発表の　お時間です！」\n　{KP}\n「だじゃれを　ひろうして\n　くださった　みなさん！」\n　{KP}\n「舞台の　方に　もう一度\n　お集まりください！」\n　",
-  "en": ""
+  "en": "\"Thank you very much, Crazed Monk-san!\"{KP}\"Well, everyone, did you enjoy yourselves?!\"{KP}\"At last, it's time to announce the judges' results!\"{KP}\"Would everyone who performed a pun\"{KP}\"please gather on the stage once more!\""
  },
  {
   "id": "GSV1309D/7/2026",
   "kind": "msg",
   "jp": "「さあ！　誰の　だじゃれが\n　一番　おもしろかったのか！」\n　{KP}\n「楽しみですね\n　ワクワクしますね！」\n　{KP}\n「しんぞうが\n　ドキドキしています\n　ハーット　息を　はいて…」{KP}\n　\n「これは　これは！　およびで\n　なかったようですな！」\n　{KP}\n「では　発表しまーす！」\n　\n　",
-  "en": ""
+  "en": "\"Now! Whose pun was the funniest?!\"{KP}\"I can't wait! How exciting!\"{KP}\"My heart is pounding... Let me take a deep, heart-felt breath...\"{KP}\"Well, well! Seems nobody asked for that one!\"{KP}\"Now for the announcement!\""
  },
  {
   "id": "GSV1309D/7/21A8",
   "kind": "msg",
   "jp": "「なんと！　おどろきです！\n　お約束です！」\n　{KP}\n「今回は　みなさん\n　非常に　優秀なので」\n　{KP}\n「前代未聞の\n　全員　優勝で～～す！」\n　",
-  "en": ""
+  "en": "\"Incredible! What a surprise! Just like we always do!\"{KP}\"This time, everyone was so outstanding that\"{KP}\"for the first time in history, everyone is the winneeer!\""
  },
  {
   "id": "GSV1309D/7/227C",
   "kind": "msg",
   "jp": "「出場した　みなさんに\n　せいだいな　はくしゅを！」\n　",
-  "en": ""
+  "en": "\"A big round of applause for all our contestants!\""
  },
  {
   "id": "GSV1309D/7/22D8",
   "kind": "msg",
   "jp": "「大せいきょうの中　今回の\n　天下一だじゃれ大会を\n　終了させていただきます！」{KP}\n　\n「みなさん！\n　ごきげんよう！\n　さようなら！」",
-  "en": ""
+  "en": "\"With that roaring success, we now bring this World's Greatest Pun Contest to a close!\"{KP}\"Everyone! Take care! Goodbye!\""
  }
 ]

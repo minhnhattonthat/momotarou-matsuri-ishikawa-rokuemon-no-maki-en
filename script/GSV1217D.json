@@ -3,78 +3,78 @@
   "id": "GSV1217D/2/0010",
   "kind": "msg",
   "jp": "「あたしも　だじゃれ大会に\n　出ようと　ネタを　考えているのよ」\n　{KP}\n「でも　おとっちゃんや\n　お姉ちゃんは　雪祭りの　ことで\n　頭が　いっぱいで」{KP}\n　\n「あたしの　ネタなんて\n　聞いてくれないの！」\n　",
-  "en": ""
+  "en": "\"I'm thinking up material so I can enter the Pun Contest too,\"{KP}\"but Pa and Big Sis have their heads full of the Snow Festival,\"{KP}\"so they won't listen to my material!\""
  },
  {
   "id": "GSV1217D/2/00FC",
   "kind": "msg",
   "jp": "「あたしも　だじゃれ大会に\n　出ようと　こりずに　ネタを\n　考えているのよ」",
-  "en": ""
+  "en": "\"I'm not giving up! I'm still thinking up material so I can enter the Pun Contest too!\""
  },
  {
   "id": "GSV1217D/3/0026",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　お願いが　あるのです！」\n　{KP}\n「今年は　なぜか　雪が\n　ほとんど　ふらないので」\n　{KP}\n「みんなの　待ちのぞんでいる\n　雪祭りが　ひらけません！」\n　{KP}\n「そこで　雪を　ふらす\n　ちからを　持つ　{bb}雪女さん{ww}に\n　頼みに　行きましたが」{KP}\n　\n「ふぶきの術で　ふきとばされて\n　しまいました！」\n　{KP}\n「どうか　桃太郎さんの\n　おちからで　{bb}雪女さん{ww}に　\n　頼んで　もらえないでしょうか？」{KN}",
-  "en": ""
+  "en": "\"Momotaro-san! I have a favor to ask!\"{KP}\"For some reason, hardly any snow has fallen this year,\"{KP}\"so we can't hold the Snow Festival everyone's been looking forward to!\"{KP}\"So we went to ask {bb}Yuki-onna-san{ww}, who has the power to make it snow,\"{KP}\"but she blew us away with her Blizzard art!\"{KP}\"Won't you please use your power, Momotaro-san, and ask {bb}Yuki-onna-san{ww} for us?\"{KN}"
  },
  {
   "id": "GSV1217D/3/01F8",
   "kind": "msg",
   "jp": "　\n「ありがとうございます！\n　さすがは　桃太郎さんですね！」\n　{KP}\n「成功した　あかつきには\n　桃太郎さんの　おのぞみに\n　なる物を　用意したいと思います！」",
-  "en": ""
+  "en": "\"Thank you so much! That's Momotaro-san for you!\"{KP}\"If you succeed, I'll have something ready for you, Momotaro-san, whatever you wish!\""
  },
  {
   "id": "GSV1217D/3/02B6",
   "kind": "msg",
   "jp": "　\n「そんなこと　言わずに\n　お願いしますよ」\n　{KN}",
-  "en": ""
+  "en": "\"Please, don't say that. I'm begging you.\"{KN}"
  },
  {
   "id": "GSV1217D/3/0302",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　お願いしますよ！」\n　",
-  "en": ""
+  "en": "\"Momotaro-san! I'm counting on you!\""
  },
  {
   "id": "GSV1217D/3/0366",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　ありがとうございました！」\n　{KP}\n「おかげさまで　みな\n　大変　喜んでおります！」\n　{KP}\n「お礼を　したいのですが\n　何か　お望みの物が　あれば\n　えんりょなく　言ってください！」{KP}\n　\n「えっ！　…{bb}木材{ww}？\n　ほう　ほう　あの　{bb}龍神船{ww}が……\n　う～ん」{KP}\n　\n「わかりました！\n　宝物塔の　修理用に　用意してある\n　{bb}木材{ww}を　出しましょう！」{KP}\n　\n「では　一筆　書きましょう！」\n　\n　{KP}\nサラ　サラ　サラ～\n　\n　{KP}\n「では　この　{bb}許可証{ww}を　宝物塔の\n　管理者に　わたしてもらえば\n　{bb}木材{ww}を　手配できますよ！」",
-  "en": ""
+  "en": "\"Momotaro-san! Thank you so much!\"{KP}\"Thanks to you, everyone is overjoyed!\"{KP}\"I'd like to thank you. If there's anything you'd like, don't hold back!\"{KP}\"What! ...{bb}Lumber{ww}? I see, I see, that {bb}Dragon God Ship{ww}... Hmm.\"{KP}\"Very well! I'll hand over the {bb}Lumber{ww} we set aside for repairing the Treasure Tower!\"{KP}\"Let me write you a note!\"{KP}Scribble, scribble, scribble...{KP}\"Just hand this {bb}Permit{ww} to the keeper of the Treasure Tower, and they'll arrange the {bb}Lumber{ww}!\""
  },
  {
   "id": "GSV1217D/3/05BE",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}許可証{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Permit{ww}!{KN}"
  },
  {
   "id": "GSV1217D/3/060A",
   "kind": "msg",
   "jp": "「桃太郎さん　\n　お望みの物が　ありましたか？」\n　{KP}\n「えっ！　…{bb}木材{ww}？\n　ほう　ほう　あの　{bb}龍神船{ww}が……\n　う～ん」{KP}\n　\n「わかりました！\n　宝物塔の　修理用に　用意してある\n　{bb}木材{ww}を　出しましょう！」{KP}\n　\n「では　一筆　書きましょう！」\n　\n　{KP}\nサラ　サラ　サラ～\n　\n　{KP}\n「では　この　{bb}許可証{ww}を　宝物塔の\n　管理者に　わたしてもらえば\n　{bb}木材{ww}を　手配できますよ！」",
-  "en": ""
+  "en": "\"Momotaro-san, have you thought of something you'd like?\"{KP}\"What! ...{bb}Lumber{ww}? I see, I see, that {bb}Dragon God Ship{ww}... Hmm.\"{KP}\"Very well! I'll hand over the {bb}Lumber{ww} we set aside for repairing the Treasure Tower!\"{KP}\"Let me write you a note!\"{KP}Scribble, scribble, scribble...{KP}\"Just hand this {bb}Permit{ww} to the keeper of the Treasure Tower, and they'll arrange the {bb}Lumber{ww}!\""
  },
  {
   "id": "GSV1217D/3/07C2",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}許可証{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Permit{ww}!{KN}"
  },
  {
   "id": "GSV1217D/3/080E",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　ありがとうございました！」\n　{KP}\n「おかげさまで　みな\n　大変　喜んでおります！」\n　{KP}\n「お礼を　したいのですが\n　何か　お望みの物が　あれば\n　えんりょなく　言ってください！」{KP}\n　\n「えっ！\n　まだ　思いうかばない？」\n　{KP}\n　\n「よく深く　ありませんねぇ～\n　では　何か　思いついたら\n　いらして　ください！」",
-  "en": ""
+  "en": "\"Momotaro-san! Thank you so much!\"{KP}\"Thanks to you, everyone is overjoyed!\"{KP}\"I'd like to thank you. If there's anything you'd like, don't hold back!\"{KP}\"What! Nothing comes to mind yet?\"{KP}\"My, you're not greedy at all! Well then, come see me once you think of something!\""
  },
  {
   "id": "GSV1217D/3/0998",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　{bb}龍神船{ww}は　修理できましたか？」\n　",
-  "en": ""
+  "en": "\"Momotaro-san! Were you able to repair the {bb}Dragon God Ship{ww}?\""
  },
  {
   "id": "GSV1217D/3/09E2",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　{bb}龍神船{ww}は　修理できましたか？」\n　{KP}\n「……ほう　それは　よかった！\n　龍神船は　わが村に　とっても\n　大切な舟ですからね！」",
-  "en": ""
+  "en": "\"Momotaro-san! Were you able to repair the {bb}Dragon God Ship{ww}?\"{KP}\"......Oh, that's wonderful! The Dragon God Ship is a very important ship to our village!\""
  }
 ]

@@ -3,126 +3,126 @@
   "id": "GSV0808D/0/0032",
   "kind": "msg",
   "jp": "「ちょっと　ちょっと　お客さん！\n　ただで　プレイしようなんて\n　かんべんしてくださいよ～～！」",
-  "en": ""
+  "en": "\"Hey, hey, hold on there! Don't go trying to play for free! Gimme a break!\""
  },
  {
   "id": "GSV0808D/0/00DC",
   "kind": "msg",
   "jp": "「ちょっと　ちょっと　お客さん！\n　ただで　プレイしようなんて\n　かんべんしてくださいよ～～！」",
-  "en": ""
+  "en": "\"Hey, hey, hold on there! Don't go trying to play for free! Gimme a break!\""
  },
  {
   "id": "GSV0808D/3/002A",
   "kind": "msg",
   "jp": "「うわー　桃太郎さん！」\n　\n　{KP}\n「ウチには　あなたに　遊んでもらう\n　ゆうぎなんか　ありませんや！」\n　",
-  "en": ""
+  "en": "\"Whoa, Momotaro-san!\"{KP}\"We ain't got any games here for you to play!\""
  },
  {
   "id": "GSV0808D/3/0110",
   "kind": "msg",
   "jp": "「うわー　桃太郎さん！\n　あれ？　金太郎さんも　いっしょ…」\n　{KP}\n「ほい　ほい\n　ほーい　ほーい………ほいっ\n　そうですか！　そうですか！」{KP}\n　\n「今までの　悪さは…\n　全部　ニセモノの\n　しわざだったって　ことですかい！」{KP}\n　\n「それなら　話は別ですよ！\n　どうぞ　どうぞ！」\n　",
-  "en": ""
+  "en": "\"Whoa, Momotaro-san! Huh? Kintaro-san's with you...\"{KP}\"Uh-huh, uh-huh, uh-huuuh, uh-huuuh......uh-huh! I see! I see!\"{KP}\"So all the mischief up to now... was the work of a fake?!\"{KP}\"Well, that's a different story! Go right ahead!\""
  },
  {
   "id": "GSV0808D/3/026A",
   "kind": "msg",
   "jp": "「いらっしゃいませ！\n　{bb}はねつき地獄！{ww}が\n　５０両で楽しめます」{KN}",
-  "en": ""
+  "en": "\"Welcome! You can play {bb}Hanetsuki Hell!{ww} for 50 ryo.\"{KN}"
  },
  {
   "id": "GSV0808D/3/02F8",
   "kind": "msg",
   "jp": "　\n「またのおこしを」\n　\n　",
-  "en": ""
+  "en": "\"Do come again.\""
  },
  {
   "id": "GSV0808D/3/0350",
   "kind": "msg",
   "jp": "「遊び方の説明を　聞きますか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Would you like to hear how to play?\"{KN}"
  },
  {
   "id": "GSV0808D/3/03CA",
   "kind": "msg",
   "jp": "　\n「桃太郎さん　\n　お金がたりませんよ！」\n　{KP}\n「またのおこしを」\n　\n　",
-  "en": ""
+  "en": "\"Momotaro-san, you don't have enough money!\"{KP}\"Do come again.\""
  },
  {
   "id": "GSV0808D/4/002A",
   "kind": "msg",
   "jp": "「あ！　あなたは！　桃太郎さん！\n　もう　かんにんしてくださいな！」\n　{KP}\n「今日は\n　これで　店じまいなんです！」\n　",
-  "en": ""
+  "en": "\"Ah! It's you! Momotaro-san! Please, have mercy!\"{KP}\"We're closing up shop for the day!\""
  },
  {
   "id": "GSV0808D/4/011C",
   "kind": "msg",
   "jp": "「あ！　桃太郎さん！\n　あれま　金太郎さんも\n　ごいっしょに！」{KP}\n　\n「えー！？\n　ウッソー　ヤーダー！\n　マジー！？」{KP}\n　\n「って　いうと\n　ニセモノが　悪さしていたのね！」\n　{KP}\n「なーんだ　そういうことなら\n　どうぞ　どうぞ！」\n　",
-  "en": ""
+  "en": "\"Ah! Momotaro-san! Oh my, Kintaro-san's with you!\"{KP}\"Whaaat?! No way! Get out! Seriously?!\"{KP}\"So you mean a fake was the one making trouble!\"{KP}\"Oh, if that's all it was, go right ahead!\""
  },
  {
   "id": "GSV0808D/4/0248",
   "kind": "msg",
   "jp": "「いらっしゃいませ！\n　{bb}えらんで団子{ww}が\n　５０両で楽しめます」{KN}",
-  "en": ""
+  "en": "\"Welcome! You can play {bb}Pick-a-Dango{ww} for 50 ryo.\"{KN}"
  },
  {
   "id": "GSV0808D/4/02D4",
   "kind": "msg",
   "jp": "　\n「またのおこしを」\n　\n　",
-  "en": ""
+  "en": "\"Do come again.\""
  },
  {
   "id": "GSV0808D/4/032C",
   "kind": "msg",
   "jp": "「遊び方の説明を　聞きますか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Would you like to hear how to play?\"{KN}"
  },
  {
   "id": "GSV0808D/4/03A6",
   "kind": "msg",
   "jp": "　\n「桃太郎さん　\n　お金がたりませんよ！」\n　{KP}\n「またのおこしを」\n　\n　",
-  "en": ""
+  "en": "\"Momotaro-san, you don't have enough money!\"{KP}\"Do come again.\""
  },
  {
   "id": "GSV0808D/5/0002",
   "kind": "msg",
   "jp": "「知ってる　知ってる！\n　{bb}はねつき地獄！{ww}はさぁ！」\n　{KP}\n「ハネの　かげを　見るんだよ！\n　あとは　タイミングだけさ！」\n　",
-  "en": ""
+  "en": "\"I know, I know! The trick to {bb}Hanetsuki Hell!{ww} is...\"{KP}\"Watch the shuttlecock's shadow! After that, it's all timing!\""
  },
  {
   "id": "GSV0808D/6/0002",
   "kind": "msg",
   "jp": "「{bb}えらんで団子{ww}では\n　×ボタンダッシュも\n　ちゃ～んと　使えるんじゃ！」",
-  "en": ""
+  "en": "\"In {bb}Pick-a-Dango{ww}, you can use the X button dash too, you know!\""
  },
  {
   "id": "GSV0808D/7/0002",
   "kind": "msg",
   "jp": "「{bb}えらんで団子{ww}は\n　むずかしいな～！」\n　{KP}\n「あんこの　だんごと　思ったら\n　ドロだんご！　だまされた～！」\n　",
-  "en": ""
+  "en": "\"{bb}Pick-a-Dango{ww} sure is hard!\"{KP}\"I thought it was a sweet bean dumpling, but it was a mud dumpling! I got fooled!\""
  },
  {
   "id": "GSV0808D/9/0024",
   "kind": "msg",
   "jp": "「金太郎先生！\n　大変だー！」\n　",
-  "en": ""
+  "en": "\"Kintaro-sensei! We've got trouble!\""
  },
  {
   "id": "GSV0808D/9/008C",
   "kind": "msg",
   "jp": "「どうしたんだ！　金一郎！\n　そんなに　あわてて！」\n　",
-  "en": ""
+  "en": "\"What's wrong, Kinichiro? What's got you in such a panic?\""
  },
  {
   "id": "GSV0808D/9/00D4",
   "kind": "msg",
   "jp": "「桃太郎さんが　やぐらだいこに\n　イタズラしてるんだ！」\n　{KP}\n「あれぇー？\n　桃太郎さんが　ここにも！\n　だって…　やぐらだいこに！」",
-  "en": ""
+  "en": "\"Momotaro-san is messing around with the yagura drum!\"{KP}\"Huh? Momotaro-san's here too! But... he's at the yagura drum!\""
  },
  {
   "id": "GSV0808D/9/0170",
   "kind": "msg",
   "jp": "「この桃太郎は　本物だど！\n　さては　そいつが　例の\n　ニセモノだなー！」{KP}\n　\n「ニセモノは　そこの\n　広場だな！\n　行くぞ！　桃太郎！」",
-  "en": ""
+  "en": "\"This Momotaro's the real one! So that one must be the fake we've been hearin' about!\"{KP}\"The fake's in the square over there! Let's go, Momotaro!\""
  }
 ]

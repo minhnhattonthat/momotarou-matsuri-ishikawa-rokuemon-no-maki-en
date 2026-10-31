@@ -3,24 +3,24 @@
   "id": "GSV0407D/2/0010",
   "kind": "msg",
   "jp": "「これは　これは　桃太郎さん！\n　ごらんのとおり　この村は　鬼面党に\n　あらされて　しまいました！」{KP}\n　\n「何とか　しようと　思って\n　おるのですが……」\n　",
-  "en": ""
+  "en": "\"Well, well, Momotaro-san! As you can see, this village has been ravaged by the Oni Mask Gang!\"{KP}\"I'd like to do something about it, but...\""
  },
  {
   "id": "GSV0407D/2/00D6",
   "kind": "msg",
   "jp": "「これは　これは　桃太郎さん！\n　権兵衛の所の　商売が\n　うまくいきはじめてから」{KP}\n　\n「村全体に　活気が　もどって\n　きましたよ！」\n　{KP}\n「これも　桃太郎さんの\n　おかげですな！」\n　{KP}\n「お礼に　昔　仙人さまに\n　いただいた　{bb}元気の玉{ww}を\n　さしあげます！」{KP}\n　\n「これを　使えば　どんな人でも\n　元気に　なれるそうですよ！」\n　",
-  "en": ""
+  "en": "\"Well, well, Momotaro-san! Ever since Gonbe's business started doing well,\"{KP}\"the whole village has come back to life!\"{KP}\"And it's all thanks to you, Momotaro-san!\"{KP}\"As thanks, I'll give you the {bb}Vigor Orb{ww} a hermit gave me long ago!\"{KP}\"They say using this will perk anyone right up!\""
  },
  {
   "id": "GSV0407D/2/0250",
   "kind": "msg",
   "jp": "桃太郎は　\n{bb}元気の玉{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Vigor Orb{ww}!{KN}"
  },
  {
   "id": "GSV0407D/2/029A",
   "kind": "msg",
   "jp": "「これは　これは　桃太郎さん！\n　ゆうぎ道を　きわめる旅は\n　順調ですか？」",
-  "en": ""
+  "en": "\"Well, well, Momotaro-san! How's your journey to master the Way of Games going?\""
  }
 ]

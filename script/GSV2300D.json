@@ -87,7 +87,7 @@
   "id": "GSV2300D/27/007A",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}{MM}{ww}を　使った！\n　",
-  "en": ""
+  "en": "Momotaro used {bb}{MM}{ww}!"
  },
  {
   "id": "GSV2300D/27/022E",
@@ -105,6 +105,6 @@
   "id": "GSV2300D/27/02B6",
   "kind": "msg",
   "jp": "桃太郎は\n足もとを　しらべた！\n　{KP}\nしかし　気になるものは\n何もなかった！\n　",
-  "en": ""
+  "en": "Momotaro examined the ground at his feet!{KP}But there was nothing of interest!"
  }
 ]

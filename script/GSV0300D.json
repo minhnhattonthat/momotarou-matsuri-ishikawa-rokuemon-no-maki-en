@@ -3,13 +3,13 @@
   "id": "GSV0300D/0/001E",
   "kind": "msg",
   "jp": "桃太郎は\n外に　出ようとした！\n　{KP}\nしかし\nふとりすぎで　出られなかった！\n　",
-  "en": ""
+  "en": "Momotaro tried to go outside!{KP}But he was too fat to get out!"
  },
  {
   "id": "GSV0300D/0/00AE",
   "kind": "msg",
   "jp": "しかし\nふとりすぎで　効果がなかった！\n　",
-  "en": ""
+  "en": "But he was too fat, so it had no effect!"
  },
  {
   "id": "GSV0300D/1/0138",
@@ -21,241 +21,241 @@
   "id": "GSV0300D/10/002C",
   "kind": "msg",
   "jp": "「わたくし　ネズミの\n　じんぱちと　申します！」\n　{KP}\n「桃太郎さんの　おかげで\n　この村も　平和に\n　なったもんです！」{KP}\n　\n「あいにくと　村長は\n　{bb}カチカチの村{ww}に　お祭り\n　見物に　行ってまして」{KP}\n　\n「たいした　おかまいも\n　できませんが\n　どうぞ　ごゆっくり！」",
-  "en": ""
+  "en": "\"I am Jinpachi the mouse, at your service!\"{KP}\"Thanks to you, Momotaro-san, this village is at peace now!\"{KP}\"Unfortunately, the chief has gone off to {bb}Kachi-Kachi Village{ww} to see the festival,\"{KP}\"so we can't offer much in the way of hospitality, but please, make yourself at home!\""
  },
  {
   "id": "GSV0300D/10/016A",
   "kind": "msg",
   "jp": "「あいにくと　村長は\n　{bb}カチカチの村{ww}の　お祭りに\n　行ってるんですよ！」",
-  "en": ""
+  "en": "\"Unfortunately, the chief has gone to the festival in {bb}Kachi-Kachi Village{ww}!\""
  },
  {
   "id": "GSV0300D/10/01C8",
   "kind": "msg",
   "jp": "「この間は　楽しかったですね！\n　桃太郎さん！」\n　{KP}\n「また　かんげい会を\n　ひらきましょうか？」\n　{KN}",
-  "en": ""
+  "en": "\"That was such fun the other day, Momotaro-san!\"{KP}\"Shall we hold another welcome party?\"{KN}"
  },
  {
   "id": "GSV0300D/10/0256",
   "kind": "msg",
   "jp": "「平和に　なったのも\n　桃太郎さんの　おかげです！」\n　{KP}\n「何度でも\n　かんげいしますよ！」\n　{KP}\n「たいした　おかまいも\n　できませんが\n　どうぞ　こちらへ！」",
-  "en": ""
+  "en": "\"It's thanks to you that we have peace, Momotaro-san!\"{KP}\"You're welcome here as many times as you like!\"{KP}\"We can't offer much in the way of hospitality, but please, this way!\""
  },
  {
   "id": "GSV0300D/10/0534",
   "kind": "msg",
   "jp": "「ありゃりゃ　桃太郎さん！\n　食べすぎちゃいましたか！」\n　{KP}\n「そんなに　ふとってちゃあ\n　穴から　出られませんよ！」\n　{KP}\n「しっかり　ダイエット\n　してくださいね！」\n　",
-  "en": ""
+  "en": "\"Oh my, Momotaro-san! Did you eat too much?\"{KP}\"You'll never get out of the hole that fat!\"{KP}\"Be sure to go on a diet!\""
  },
  {
   "id": "GSV0300D/10/0620",
   "kind": "msg",
   "jp": "「何度でも　かんげいしますよ！\n　声を　かけてくださいね！」\n　",
-  "en": ""
+  "en": "\"You're welcome as many times as you like! Just say the word!\""
  },
  {
   "id": "GSV0300D/10/0674",
   "kind": "msg",
   "jp": "「ありゃりゃ　桃太郎さん！\n　食べすぎちゃいましたか！」\n　{KP}\n「そんなに　ふとってちゃあ\n　穴から　出られませんよ！」\n　{KP}\n「しっかり　ダイエット\n　してくださいね！」\n　",
-  "en": ""
+  "en": "\"Oh my, Momotaro-san! Did you eat too much?\"{KP}\"You'll never get out of the hole that fat!\"{KP}\"Be sure to go on a diet!\""
  },
  {
   "id": "GSV0300D/10/073E",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　お元気でしたか！」\n　{KP}\n「村長ですか！\n　あいにくと　また　お祭りに\n　行っちゃったんです！」{KP}\n　\n「今度は　{bb}金太郎の村{ww}の\n　お祭りですよ！」\n　{KP}\n「あの人　ぜんぜん　村に\n　いないんだから～！\n　まったく！」",
-  "en": ""
+  "en": "\"Momotaro-san! Have you been well?\"{KP}\"The chief? Unfortunately, he's gone off to a festival again!\"{KP}\"This time it's the festival in {bb}Kintaro Village{ww}!\"{KP}\"That man is never in the village! Honestly!\""
  },
  {
   "id": "GSV0300D/12/003A",
   "kind": "msg",
   "jp": "「村長は　{bb}カチカチの村{ww}に\n　お祭り見物に　行って\n　あいにくと　留守なんです！」",
-  "en": ""
+  "en": "\"The chief went to see the festival in {bb}Kachi-Kachi Village{ww}, so I'm afraid he's out!\""
  },
  {
   "id": "GSV0300D/12/00A0",
   "kind": "msg",
   "jp": "「おやまあ　桃太郎さん！\n　すっかり　たくましくなって！」\n　",
-  "en": ""
+  "en": "\"Oh my, Momotaro-san! You've grown so strong!\""
  },
  {
   "id": "GSV0300D/12/00F0",
   "kind": "msg",
   "jp": "「村長も　ようやく　カチカチの村から\n　もどって来たと　思ったら」\n　{KP}\n「今度は　{bb}金太郎の村{ww}に\n　行くつもり　みたいですよ！」\n　",
-  "en": ""
+  "en": "\"Just when I thought the chief had finally come back from Kachi-Kachi Village,\"{KP}\"now it looks like he's planning to go to {bb}Kintaro Village{ww}!\""
  },
  {
   "id": "GSV0300D/12/018E",
   "kind": "msg",
   "jp": "「村長の　お祭り好きにも\n　こまったもんです！」\n　{KP}\n「今度は　{bb}金太郎の村{ww}の\n　お祭りにも　行きたい　と言って」\n　{KP}\n「みんなの　言うことを\n　聞かないんですよ！」\n　",
-  "en": ""
+  "en": "\"The chief's love of festivals is a real headache!\"{KP}\"Now he says he wants to go to the festival in {bb}Kintaro Village{ww} too,\"{KP}\"and he won't listen to a word anyone says!\""
  },
  {
   "id": "GSV0300D/12/0258",
   "kind": "msg",
   "jp": "「村長ったら　やっぱり　{bb}金太郎の村{ww}の\n　お祭りに　行っちゃったんですね！」\n　",
-  "en": ""
+  "en": "\"So the chief went off to the festival in {bb}Kintaro Village{ww} after all!\""
  },
  {
   "id": "GSV0300D/13/002C",
   "kind": "msg",
   "jp": "「{bb}村長{ww}が　いないと　このとびらは\n　あけられないんですよ！」\n　{KP}\n「村長ったら　カギを　しめたまま\n　お祭りに　行っちゃったんで…」\n　",
-  "en": ""
+  "en": "\"This door can't be opened without the {bb}chief{ww}!\"{KP}\"The chief went off to the festival with it still locked...\""
  },
  {
   "id": "GSV0300D/13/00D6",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　そんなに　ふとっていると\n　外に　出られませんよ！」",
-  "en": ""
+  "en": "\"Momotaro-san! You'll never get outside that fat!\""
  },
  {
   "id": "GSV0300D/13/012E",
   "kind": "msg",
   "jp": "「村長から　もらってるんですよね？」\n　\n　{KP}\n「カギですよ　カギ！」\n　\n　{KP}\n「その　{bb}おむすび村のカギ{ww}で\n　とびらは　あくんですよ！」\n　",
-  "en": ""
+  "en": "\"The chief gave it to you, didn't he?\"{KP}\"The key! The key!\"{KP}\"That {bb}Omusubi Village Key{ww} will open the door!\""
  },
  {
   "id": "GSV0300D/13/01DA",
   "kind": "msg",
   "jp": "「とびらが　ひらいたので\n　{bb}金太郎の村{ww}にも　行けますわ！」\n　",
-  "en": ""
+  "en": "\"Now that the door's open, you can go to {bb}Kintaro Village{ww} too!\""
  },
  {
   "id": "GSV0300D/14/0010",
   "kind": "msg",
   "jp": "「ねぇ　桃太郎さん！\n　{bb}並び洞窟{ww}の中に　{bb}隠れ里{ww}が\n　あるのを　知っていますか？」{KP}\n　\n「あそこで　売っている　キノコ類は\n　とても　うまいですよ！」\n　{KP}\n「他の村の　人たちは\n　あまり　知らないようですが」\n　{KP}\n「おむすび村の　人たちは\n　よく　買い物に　行きますよ！」\n　",
-  "en": ""
+  "en": "\"Say, Momotaro-san! Did you know there's a {bb}Hidden Village{ww} inside {bb}Row Cave{ww}?\"{KP}\"The mushrooms they sell there are really tasty!\"{KP}\"People from other villages don't seem to know much about it,\"{KP}\"but folks from Omusubi Village often go shopping there!\""
  },
  {
   "id": "GSV0300D/14/0150",
   "kind": "msg",
   "jp": "「ふとりすぎは\n　体に　よくないですよ！」\n　{KP}\n「気をつけて　くださいよ\n　桃太郎さん！」\n　",
-  "en": ""
+  "en": "\"Getting too fat isn't good for your health!\"{KP}\"Do be careful, Momotaro-san!\""
  },
  {
   "id": "GSV0300D/15/0010",
   "kind": "msg",
   "jp": "「この　おむすび村を　ぬけると\n　すぐに　{bb}恩返しの村{ww}ですよ！」\n　{KP}\n「なんでも　最近　鬼面党に\n　あらされてしまったようです！」\n　{KP}\n「みなさん　いい人ばかりなのに…」\n　\n　",
-  "en": ""
+  "en": "\"Go through Omusubi Village and you'll come right out at {bb}Ongaeshi Village{ww}!\"{KP}\"I hear it was recently raided by the Oni Mask Gang!\"{KP}\"And everyone there is so nice, too...\""
  },
  {
   "id": "GSV0300D/15/00E2",
   "kind": "msg",
   "jp": "「この　おむすび村を　ぬけると\n　すぐに　{bb}恩返しの村{ww}ですよ！」\n　",
-  "en": ""
+  "en": "\"Go through Omusubi Village and you'll come right out at {bb}Ongaeshi Village{ww}!\""
  },
  {
   "id": "GSV0300D/16/001E",
   "kind": "msg",
   "jp": "「わたくしの　顔を　よーく\n　覚えておいてください！」\n　{KP}\n「そのうち　きっと\n　役に立ちますから！」\n　",
-  "en": ""
+  "en": "\"Please take a good, long look at my face and remember it!\"{KP}\"It's sure to come in handy someday!\""
  },
  {
   "id": "GSV0300D/16/00A0",
   "kind": "msg",
   "jp": "「おや　こりゃまた　そっくり！\n　いや～　ふしぎなことも\n　あるもんですね」{KP}\n　\n「ぜひ　そのお面を\n　よく　見せてください！」\n　",
-  "en": ""
+  "en": "\"Oh, why, it's the spitting image! Well, well, strange things do happen!\"{KP}\"Please, let me have a good look at that mask!\""
  },
  {
   "id": "GSV0300D/16/013C",
   "kind": "msg",
   "jp": "　桃太郎は\n　お面を　見せてあげた！\n　",
-  "en": ""
+  "en": "Momotaro showed him the mask!"
  },
  {
   "id": "GSV0300D/16/0174",
   "kind": "msg",
   "jp": "「ありがとうございます！\n　お礼に　これを　どうぞ！」\n　",
-  "en": ""
+  "en": "\"Thank you very much! Please take this as thanks!\""
  },
  {
   "id": "GSV0300D/16/01BE",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０２４{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 024{ww}!{KN}"
  },
  {
   "id": "GSV0300D/16/0212",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　がんばって　おもしろい\n　お面を　つくってくださいね」",
-  "en": ""
+  "en": "\"Momotaro-san! Keep at it and make some funny masks!\""
  },
  {
   "id": "GSV0300D/17/0010",
   "kind": "msg",
   "jp": "「桃太郎さん！　うちの子が\n　この　小さい穴の中に\n　まよいこんで　しまったみたい…」{KP}\n　\n「さっき　泣き声が　聞こえて…\n　どうしましょう……　チュー太ッ！」\n　{KP}\n「この穴に　入れるぐらいの方が\n　いればいいのですが……」\n　",
-  "en": ""
+  "en": "\"Momotaro-san! It looks like my little one wandered into this tiny hole...\"{KP}\"I heard crying just now... What should I do... Chuta!\"{KP}\"If only there were someone small enough to fit in this hole...\""
  },
  {
   "id": "GSV0300D/17/013E",
   "kind": "msg",
   "jp": "「あっ　桃太郎さん……」\n　\n　{KP}\n「えっ！？\n　そのタニシさんが　チュー太を\n　助けてくれるのですか…」",
-  "en": ""
+  "en": "\"Oh, Momotaro-san...\"{KP}\"What?! This snail is going to rescue Chuta for me...?\""
  },
  {
   "id": "GSV0300D/17/01BC",
   "kind": "msg",
   "jp": "「オイラ　{bb}タニシの助{ww}です！」\n　\n　",
-  "en": ""
+  "en": "\"I'm {bb}Tanishinosuke{ww}!\""
  },
  {
   "id": "GSV0300D/17/01F0",
   "kind": "msg",
   "jp": "「よ　よろしくお願いします！\n　どうか　チュー太を\n　助け出してください！」",
-  "en": ""
+  "en": "\"Th-thank you so much! Please, rescue Chuta!\""
  },
  {
   "id": "GSV0300D/17/02C8",
   "kind": "msg",
   "jp": "「かーちゃん！」\n　\n　",
-  "en": ""
+  "en": "\"Mommy!\""
  },
  {
   "id": "GSV0300D/17/02EC",
   "kind": "msg",
   "jp": "「チュー太！」\n　\n　",
-  "en": ""
+  "en": "\"Chuta!\""
  },
  {
   "id": "GSV0300D/17/0318",
   "kind": "msg",
   "jp": "「ありがとうございました！\n　タニシの助さん　桃太郎さん！」\n　{KP}\n「ほら　チュー太も\n　お礼を言って！」\n　",
-  "en": ""
+  "en": "\"Thank you so much, Tanishinosuke-san, Momotaro-san!\"{KP}\"Come on, Chuta, say thank you too!\""
  },
  {
   "id": "GSV0300D/17/039C",
   "kind": "msg",
   "jp": "「ありがとうでちゅ！\n　これを　あげまちゅ！」\n　",
-  "en": ""
+  "en": "\"Fank you! I'll give you thith!\""
  },
  {
   "id": "GSV0300D/17/03DE",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０４５{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 045{ww}!{KN}"
  },
  {
   "id": "GSV0300D/17/0430",
   "kind": "msg",
   "jp": "「ありがとうございました！\n　では　わたしたちは　これで……」\n　",
-  "en": ""
+  "en": "\"Thank you so much! Well, we'll be on our way...\""
  },
  {
   "id": "GSV0300D/17/04C8",
   "kind": "msg",
   "jp": "{bb}タニシの助{ww}は　２回目の\n人助けをした！\n　",
-  "en": ""
+  "en": "{bb}Tanishinosuke{ww} helped someone for the second time!"
  },
  {
   "id": "GSV0300D/17/073A",
   "kind": "msg",
   "jp": "「うわー！　やったー！\n　桃太郎さん　もとに\n　もどりましたよ！」{KP}\n　\n「これで　{bb}ひこぼしの村{ww}に\n　帰れます！」\n　{KP}\n「{bb}ひこぼしの村{ww}に　行った時は\n　ぜひ　おいらの　家に\n　よってくださいね！」{KP}\n　\n「では　桃太郎さん\n　長い間　ありがとう\n　ございました！」",
-  "en": ""
+  "en": "\"Wow! Hooray! Momotaro-san, I'm back to my old self!\"{KP}\"Now I can go home to {bb}Hikoboshi Village{ww}!\"{KP}\"When you go to {bb}Hikoboshi Village{ww}, be sure to drop by my house!\"{KP}\"Well, Momotaro-san, thank you for everything all this time!\""
  },
  {
   "id": "GSV0300D/17/08BA",
   "kind": "msg",
   "jp": "「さぁ！　行きましょう！\n　桃太郎さん！」\n　",
-  "en": ""
+  "en": "\"Come on! Let's go, Momotaro-san!\""
  },
  {
   "id": "GSV0300D/19/0002",
@@ -267,114 +267,114 @@
   "id": "GSV0300D/20/0002",
   "kind": "msg",
   "jp": "「たにしのすけ　にんげんじょうたい」\n　ばんごうは０００２０！",
-  "en": ""
+  "en": "\"Tanishinosuke, human form\" Number 00020!"
  },
  {
   "id": "GSV0300D/21/0056",
   "kind": "msg",
   "jp": "「さあ　桃太郎さん\n　ようやく　村に\n　つきましたぞ！」{KP}\n　\n「みんなに　かんげい会を\n　ひらかせましょう！」\n　",
-  "en": ""
+  "en": "\"Well, Momotaro-san, we've finally reached the village!\"{KP}\"I'll have everyone throw you a welcome party!\""
  },
  {
   "id": "GSV0300D/21/00E2",
   "kind": "msg",
   "jp": "「おーい！　じんぱち！」\n　\n　",
-  "en": ""
+  "en": "\"Hey there! Jinpachi!\""
  },
  {
   "id": "GSV0300D/21/0126",
   "kind": "msg",
   "jp": "「やあやあ　桃太郎さん！\n　ようこそ　おいで\n　くださいました！」{KP}\n　\n「平和に　なったのも\n　桃太郎さんの　おかげです」\n　{KP}\n「たいした　おかまいも\n　できませんが　ごゆっくり\n　お楽しみください！」",
-  "en": ""
+  "en": "\"Well, well, Momotaro-san! Welcome, welcome!\"{KP}\"It's thanks to you that we have peace, Momotaro-san.\"{KP}\"We can't offer much in the way of hospitality, but please relax and enjoy yourself!\""
  },
  {
   "id": "GSV0300D/21/043E",
   "kind": "msg",
   "jp": "「ありゃりゃ　桃太郎さん\n　食べすぎちゃいましたか！？」\n　{KP}\n「こりゃ\n　ダイエットしなくっちゃ\n　これを　どうぞ！」",
-  "en": ""
+  "en": "\"Oh my, Momotaro-san, did you eat too much?!\"{KP}\"Looks like you'll need to go on a diet. Here, take this!\""
  },
  {
   "id": "GSV0300D/21/04CA",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}歩数計{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Pedometer{ww}!{KN}"
  },
  {
   "id": "GSV0300D/21/0508",
   "kind": "msg",
   "jp": "「これで　たくさん　歩いて\n　もとの　体に\n　なってください！」",
-  "en": ""
+  "en": "\"Use this, walk lots, and get back to your old shape!\""
  },
  {
   "id": "GSV0300D/21/0558",
   "kind": "msg",
   "jp": "「いやいや　桃太郎さん！\n　楽しかったですな！」\n　{KP}\n「では　{bb}おむすび村のカギ{ww}を\n　桃太郎さんに　お預けして\n　おきましょう！」{KP}\n　\n「旅の　お役に立てて\n　くだされ！」\n　",
-  "en": ""
+  "en": "\"Well, well, Momotaro-san! That was fun, wasn't it!\"{KP}\"Now, let me leave the {bb}Omusubi Village Key{ww} in your care, Momotaro-san!\"{KP}\"May it help you on your journey!\""
  },
  {
   "id": "GSV0300D/21/0628",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}おむすび村のカギ{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Omusubi Village Key{ww}!{KN}"
  },
  {
   "id": "GSV0300D/21/0670",
   "kind": "msg",
   "jp": "「桃太郎さんになら　安心して\n　お貸しできるでのォ！」\n　{KP}\n「では　桃太郎さん！\n　がんばって　ゆうぎ道を\n　きわめてくだされ！」",
-  "en": ""
+  "en": "\"I can lend it to you, Momotaro-san, without a worry!\"{KP}\"Well then, Momotaro-san! Keep at it and master the Way of Games!\""
  },
  {
   "id": "GSV0300D/22/0016",
   "kind": "msg",
   "jp": "桃太郎は\nとびらを　しらべた！\n　{KP}\nカギが　かかっているようだ\nびくともしない！\n　",
-  "en": ""
+  "en": "Momotaro examined the door!{KP}It seems to be locked. It won't budge!"
  },
  {
   "id": "GSV0300D/22/0082",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}おむすび村のカギ{ww}を　使った！\n　",
-  "en": ""
+  "en": "Momotaro used the {bb}Omusubi Village Key{ww}!"
  },
  {
   "id": "GSV0300D/22/013A",
   "kind": "msg",
   "jp": "なんと！\nとびらが　ひらいた！\n　",
-  "en": ""
+  "en": "What's this! The door opened!"
  },
  {
   "id": "GSV0300D/23/000E",
   "kind": "msg",
   "jp": "桃太郎は\nテーブルを　しらべた！\n　{KP}\nおいしそうな　食べ物が\nならんでいる！\n　{KP}\n桃太郎は\nよだれが　でそうになった！\n　",
-  "en": ""
+  "en": "Momotaro examined the table!{KP}Delicious-looking food is laid out on it!{KP}Momotaro's mouth started to water!"
  },
  {
   "id": "GSV0300D/23/00A6",
   "kind": "msg",
   "jp": "桃太郎は\nテーブルを　しらべた！\n　{KP}\nおいしそうな　食べ物が\nならんでいる！\n　{KP}\nでも　今は\nゲップしかでない……\n　",
-  "en": ""
+  "en": "Momotaro examined the table!{KP}Delicious-looking food is laid out on it!{KP}But right now, all he can manage is a burp......"
  },
  {
   "id": "GSV0300D/24/001C",
   "kind": "msg",
   "jp": "「えーん！　おかあちゃーん！」\n　\n　",
-  "en": ""
+  "en": "\"Waaah! Mommyyy!\""
  },
  {
   "id": "GSV0300D/25/001C",
   "kind": "msg",
   "jp": "カベの向こうに　部屋が\nあるようだ！\n　",
-  "en": ""
+  "en": "There seems to be a room on the other side of the wall!"
  },
  {
   "id": "GSV0300D/25/0056",
   "kind": "msg",
   "jp": "桃太郎はカベを\nたたいてみた！\n　{KP}\n体当たりで　くずせそうだ！\n　\n　",
-  "en": ""
+  "en": "Momotaro tried knocking on the wall!{KP}Looks like he could break through with a body slam!"
  },
  {
   "id": "GSV0300D/25/019A",
   "kind": "msg",
   "jp": "なんと！\nカベがくずれて\n入口が　あらわれた！",
-  "en": ""
+  "en": "What's this! The wall crumbled and an entrance appeared!"
  }
 ]

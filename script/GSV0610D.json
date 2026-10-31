@@ -3,78 +3,78 @@
   "id": "GSV0610D/2/002C",
   "kind": "msg",
   "jp": "「はぁ～　むねが　苦しいだ！\n　{bb}カレンさん{ww}に　恋を\n　してしまっただ～！」{KP}\n　\n「でも　こんな　ボクを\n　相手して　くれるはずが\n　ないだ～！」{KP}\n　\n「でも　思いを　伝えたいだ～\n　何か　おくりものを\n　したいだ～！」{KP}\n　\n「あっ　桃太郎さん！」\n　\n　",
-  "en": ""
+  "en": "\"Haaah... my chest hurts! I've gone and fallen in love with {bb}Karen-san{ww}!\"{KP}\"But there's no way she'd ever give someone like me the time of day!\"{KP}\"But I wanna tell her how I feel... I wanna give her some kind of present!\"{KP}\"Oh, Momotaro-san!\""
  },
  {
   "id": "GSV0610D/2/0156",
   "kind": "msg",
   "jp": "　{bb}不幸太{ww}が　やっと\n　桃太郎に　気づいた！\n　",
-  "en": ""
+  "en": "{bb}Fukota{ww} finally noticed Momotaro!"
  },
  {
   "id": "GSV0610D/2/0198",
   "kind": "msg",
   "jp": "「桃太郎さん　{bb}カレンさん{ww}の\n　好きな物を　知っていますか？\n　…って　知らないですよね～」{KP}\n　\n「はぁ～　ふぅ～」\n　\n　",
-  "en": ""
+  "en": "\"Momotaro-san, do you know what {bb}Karen-san{ww} likes? ...Nah, course you don't...\"{KP}\"Haaah... phew...\""
  },
  {
   "id": "GSV0610D/2/026E",
   "kind": "msg",
   "jp": "「あっ　桃太郎さん！\n　え……　{bb}カレンさん{ww}は\n　{bb}ユリ{ww}の　花が好きなんだか？」{KP}\n　\n「ありがとう　桃太郎さん！\n　ボクは　これで………」\n　",
-  "en": ""
+  "en": "\"Oh, Momotaro-san! Wha... {bb}Karen-san{ww} likes {bb}lily{ww} flowers?\"{KP}\"Thank you, Momotaro-san! Then I'll be off.........\""
  },
  {
   "id": "GSV0610D/2/031C",
   "kind": "msg",
   "jp": "「はぁ～　むねが　苦しいだ！\n　{bb}カレンさん{ww}に　恋を\n　してしまっただ～！」{KP}\n　\n「でも　こんな　ボクを\n　相手して　くれるはずが\n　ないだ～！」{KP}\n　\n「でも　思いを　伝えたいだ～\n　何か　おくりものを\n　したいだ～！」{KP}\n　\n「あっ　桃太郎さん！」\n　\n　",
-  "en": ""
+  "en": "\"Haaah... my chest hurts! I've gone and fallen in love with {bb}Karen-san{ww}!\"{KP}\"But there's no way she'd ever give someone like me the time of day!\"{KP}\"But I wanna tell her how I feel... I wanna give her some kind of present!\"{KP}\"Oh, Momotaro-san!\""
  },
  {
   "id": "GSV0610D/2/0446",
   "kind": "msg",
   "jp": "　{bb}不幸太{ww}が　やっと\n　桃太郎に　気づいた！\n　",
-  "en": ""
+  "en": "{bb}Fukota{ww} finally noticed Momotaro!"
  },
  {
   "id": "GSV0610D/2/0488",
   "kind": "msg",
   "jp": "「えっ？　なんですって！\n　{bb}カレンさん{ww}は　{bb}ユリ{ww}の\n　花が好きなんだか？」{KP}\n　\n「ありがとう　桃太郎さん！\n　ボクは　これで………」\n　",
-  "en": ""
+  "en": "\"Huh? What's that?! {bb}Karen-san{ww} likes {bb}lily{ww} flowers?\"{KP}\"Thank you, Momotaro-san! Then I'll be off.........\""
  },
  {
   "id": "GSV0610D/2/05D0",
   "kind": "msg",
   "jp": "　桃太郎は　あぜんとした！\n　\n　",
-  "en": ""
+  "en": "Momotaro was dumbfounded!"
  },
  {
   "id": "GSV0610D/2/0698",
   "kind": "msg",
   "jp": "「ありがとう　桃太郎さん！\n　やりましただーーーーー！」\n　{KP}\n「{bb}ユリ{ww}を　あげて　思いを\n　つたえたら　{bb}カレンさん{ww}が\n　つ　つきあってくれるって！」{KP}\n　\n「ありがとう　桃太郎さん！\n　お礼に　ボ　ボクの　お宝\n　{bb}ゲンダム人形{ww}を　あげますだ！」",
-  "en": ""
+  "en": "\"Thank you, Momotaro-san! I did iiiiiit!\"{KP}\"I gave her {bb}lilies{ww} and told her how I feel, and {bb}Karen-san{ww} said she'd g-go out with me!\"{KP}\"Thank you, Momotaro-san! As thanks, I'll give you m-my treasure, the {bb}Gendam Figure{ww}!\""
  },
  {
   "id": "GSV0610D/2/07B2",
   "kind": "msg",
   "jp": "桃太郎は　\n{bb}ゲンダム人形{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Gendam Figure{ww}!{KN}"
  },
  {
   "id": "GSV0610D/2/07FC",
   "kind": "msg",
   "jp": "「ありがとう　桃太郎さん！\n　お礼に　ボ　ボクの　お宝\n　{bb}ゲンダム人形{ww}を　あげますだ！」",
-  "en": ""
+  "en": "\"Thank you, Momotaro-san! As thanks, I'll give you m-my treasure, the {bb}Gendam Figure{ww}!\""
  },
  {
   "id": "GSV0610D/2/0868",
   "kind": "msg",
   "jp": "桃太郎は　\n{bb}ゲンダム人形{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Gendam Figure{ww}!{KN}"
  },
  {
   "id": "GSV0610D/2/08B2",
   "kind": "msg",
   "jp": "「カレンさんと　どこに\n　いこうかなぁ～！」\n　{KP}\n「金太郎の村　あたりが\n　いいだかなぁ～」\n　",
-  "en": ""
+  "en": "\"Where should I go with Karen-san, I wonder...\"{KP}\"Somewhere around Kintaro Village might be nice...\""
  }
 ]

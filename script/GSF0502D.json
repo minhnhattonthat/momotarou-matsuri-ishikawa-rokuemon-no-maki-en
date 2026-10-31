@@ -45,7 +45,7 @@
   "id": "GSF0502D/2/04DC",
   "kind": "msg",
   "jp": "「遊び方の説明を　聞きますか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Would you like to hear how to play?\"{KN}"
  },
  {
   "id": "GSF0502D/2/0540",
@@ -69,7 +69,7 @@
   "id": "GSF0502D/2/0642",
   "kind": "msg",
   "jp": "「遊び方の説明を　聞きますか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Would you like to hear how to play?\"{KN}"
  },
  {
   "id": "GSF0502D/2/06A6",
@@ -87,7 +87,7 @@
   "id": "GSF0502D/2/0828",
   "kind": "msg",
   "jp": "「………」\n　\n　",
-  "en": ""
+  "en": "\".........\""
  },
  {
   "id": "GSF0502D/2/084A",

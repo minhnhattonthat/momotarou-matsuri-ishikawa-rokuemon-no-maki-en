@@ -3,13 +3,13 @@
   "id": "GSV0800D/0/001E",
   "kind": "msg",
   "jp": "「おい　桃太郎！\n　ぬれぎぬも　はらさずに\n　村を出て行くのか！」",
-  "en": ""
+  "en": "\"Hey, Momotaro! You're leaving the village without clearing your name?!\""
  },
  {
   "id": "GSV0800D/0/00A8",
   "kind": "msg",
   "jp": "「おい　桃太郎！\n　ぬれぎぬも　はらさずに\n　村を出て行くのか！」",
-  "en": ""
+  "en": "\"Hey, Momotaro! You're leaving the village without clearing your name?!\""
  },
  {
   "id": "GSV0800D/1/037E",
@@ -21,433 +21,433 @@
   "id": "GSV0800D/10/0006",
   "kind": "msg",
   "jp": "「勝手に　入らないでください！」\n　\n　",
-  "en": ""
+  "en": "\"Please don't come in without permission!\""
  },
  {
   "id": "GSV0800D/11/0044",
   "kind": "msg",
   "jp": "「おまえが　本物と　言うなら\n　オラの　考えた　ゆうぎ\n　{bb}とんとん相撲{ww}で」{KP}\n　\n「このオラを　負かしてみろ！」\n　\n　{KP}\n「どうだ　ためしてみるか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"If you say you're the real one, then beat me at {bb}Tap-Tap Sumo{ww},\"{KP}\"the game I came up with!\"{KP}\"Well, wanna give it a try?\"{KN}"
  },
  {
   "id": "GSV0800D/11/0108",
   "kind": "msg",
   "jp": "「ん！　おまえ　例の\n　ニセ桃太郎か？」\n　",
-  "en": ""
+  "en": "\"Hm! Are you that fake Momotaro?\""
  },
  {
   "id": "GSV0800D/11/0144",
   "kind": "msg",
   "jp": "「ワンワン！\n　金太郎さん！　何を\n　おっしゃるんですか？」{KP}\n　\n「この人は　桃太郎さんに\n　決まってるじゃあ\n　ありませんか！」",
-  "en": ""
+  "en": "\"Woof woof! Kintaro-san! What are you saying?\"{KP}\"Of course this is Momotaro-san!\""
  },
  {
   "id": "GSV0800D/11/01DE",
   "kind": "msg",
   "jp": "「最近　桃太郎の\n　ニセモノが　この村で\n　悪さを　している！」{KP}\n　\n「おまえが　本物と　言うなら\n　オラの　考えた　ゆうぎ\n　{bb}とんとん相撲{ww}で」{KP}\n　\n「このオラを　負かしてみろ！」\n　\n　{KP}\n「どうだ　ためしてみるか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Lately, a fake Momotaro has been making trouble in this village!\"{KP}\"If you say you're the real one, then beat me at {bb}Tap-Tap Sumo{ww},\"{KP}\"the game I came up with!\"{KP}\"Well, wanna give it a try?\"{KN}"
  },
  {
   "id": "GSV0800D/11/02FA",
   "kind": "msg",
   "jp": "「そうか　やってみろ！\n　おまえの　ちからを\n　見きわめてやるど！」",
-  "en": ""
+  "en": "\"All right, let's see it! I'll find out what you're made of!\""
  },
  {
   "id": "GSV0800D/11/034E",
   "kind": "msg",
   "jp": "「遊び方の説明を　聞きますか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Would you like to hear how to play?\"{KN}"
  },
  {
   "id": "GSV0800D/11/03B6",
   "kind": "msg",
   "jp": "「やはり　おまえは\n　ニセモノだなー！」\n　{KP}\n「早く　この村から\n　出て行け！」\n　",
-  "en": ""
+  "en": "\"Just as I thought, you're a fake!\"{KP}\"Get out of this village, now!\""
  },
  {
   "id": "GSV0800D/11/0436",
   "kind": "msg",
   "jp": "「やっぱりな…\n　ニセモノに　ようは\n　ないど！」{KP}\n　\n「早く　この村から\n　出て行け！」\n　",
-  "en": ""
+  "en": "\"Just as I figured... I got no business with fakes!\"{KP}\"Get out of this village, now!\""
  },
  {
   "id": "GSV0800D/11/04AE",
   "kind": "msg",
   "jp": "「そうか！　やっぱり\n　おまえは　本物の\n　桃太郎だったんだな！」",
-  "en": ""
+  "en": "\"I see! So you really are the real Momotaro after all!\""
  },
  {
   "id": "GSV0800D/11/0500",
   "kind": "msg",
   "jp": "「そうですよ！\n　まったく　金太郎さんたら！」\n　",
-  "en": ""
+  "en": "\"That's right! Honestly, Kintaro-san!\""
  },
  {
   "id": "GSV0800D/11/0542",
   "kind": "msg",
   "jp": "「初めから　そんな\n　気がしてたんだ！」\n　{KP}\n「ためしたりして　本当に\n　悪かったな！」\n　{KP}\n「最近　桃太郎の　名を\n　かたって　悪さしている\n　ヤツが　いてな！」{KP}\n　\n「お祭りに　来ている\n　人たちに　めいわくばかり\n　かけているらしい」{KP}\n　\n「村の人たちも\n　冷たかっただろ？」\n　{KP}\n「オラが　いっしょに　行って\n　おまえが　本物だって\n　みんなに　教えてやるよ！」",
-  "en": ""
+  "en": "\"I had a feeling it was you from the start!\"{KP}\"Sorry for testing you like that, really!\"{KP}\"Lately, there's some guy going around using Momotaro's name to cause trouble!\"{KP}\"Seems he's been making nothing but trouble for the folks coming to the festival.\"{KP}\"The villagers were cold to you too, weren't they?\"{KP}\"I'll go with you and tell everybody you're the real deal!\""
  },
  {
   "id": "GSV0800D/11/06E6",
   "kind": "msg",
   "jp": "{bb}金太郎{ww}が\n仲間に　くわわった！\n　{KN}",
-  "en": ""
+  "en": "{bb}Kintaro{ww} joined the party!{KN}"
  },
  {
   "id": "GSV0800D/11/0722",
   "kind": "msg",
   "jp": "「よかったですね　桃太郎さん！\n　あっ　そうだ　金太郎さん！」\n　{KP}\n「花咲かじいさんが　頼んだ\n　{bb}金太アメ{ww}を　いただきに\n　きました！」",
-  "en": ""
+  "en": "\"Isn't that great, Momotaro-san! Oh, that's right, Kintaro-san!\"{KP}\"I came to pick up the {bb}Kinta Candy{ww} that Old Man Hanasaka asked for!\""
  },
  {
   "id": "GSV0800D/11/07C4",
   "kind": "msg",
   "jp": "「おお　そうなのか！\n　では　これを　持って行って\n　いいど」",
-  "en": ""
+  "en": "\"Oh, is that so! Then go ahead and take this.\""
  },
  {
   "id": "GSV0800D/11/0812",
   "kind": "msg",
   "jp": "　金太郎は　イヌに\n　{bb}金太アメ{ww}を　わたした！\n　",
-  "en": ""
+  "en": "Kintaro gave the {bb}Kinta Candy{ww} to Dog!"
  },
  {
   "id": "GSV0800D/11/0856",
   "kind": "msg",
   "jp": "「では　桃太郎さん　金太郎さん\n　花咲かの村に　帰ります」\n　{KP}\n「楽しい　旅でしたよ！\n　ごきげんよう！」\n　",
-  "en": ""
+  "en": "\"Well then, Momotaro-san, Kintaro-san, I'm heading back to Hanasaka Village.\"{KP}\"It was a fun journey! Farewell!\""
  },
  {
   "id": "GSV0800D/11/0918",
   "kind": "msg",
   "jp": "イヌは\n帰って行った！\n　",
-  "en": ""
+  "en": "Dog went home!"
  },
  {
   "id": "GSV0800D/11/0948",
   "kind": "msg",
   "jp": "「さあ　出かけよう！\n　おい！　金一郎！！\n　あとは　頼んだぞ」",
-  "en": ""
+  "en": "\"All right, let's go! Hey! Kinichiro!! I'm leaving the rest to you.\""
  },
  {
   "id": "GSV0800D/11/09B4",
   "kind": "msg",
   "jp": "「ハイ！　わかりました！\n　金太郎先生！」\n　",
-  "en": ""
+  "en": "\"Yes, sir! Understood, Kintaro-sensei!\""
  },
  {
   "id": "GSV0800D/11/0A30",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}{MM}{ww}を　見せた！\n　",
-  "en": ""
+  "en": "Momotaro showed him the {bb}{MM}{ww}!"
  },
  {
   "id": "GSV0800D/11/0A60",
   "kind": "msg",
   "jp": "「おお　桃太郎！　それは\n　{bb}ゆうぎのまさかり\n　じゃないか！」{KP}\n　\n「でも　おまえ\n　本物の　桃太郎か？」\n　{KP}\n「まずは　おまえが　本物だって\n　しょうこを　見せてみろ！」\n　",
-  "en": ""
+  "en": "\"Oh, Momotaro! Isn't that the {bb}Game Axe?!\"{KP}\"But are you the real Momotaro?\"{KP}\"First, show me proof that you're the real one!\""
  },
  {
   "id": "GSV0800D/11/0B32",
   "kind": "msg",
   "jp": "「おお　桃太郎！　それは\n　{bb}ゆうぎのまさかり{ww}\n　じゃないか！」{KP}\n　\n「オラの　{bb}方言カード{ww}と\n　こうかんしてくれよ！」\n　{KN}",
-  "en": ""
+  "en": "\"Oh, Momotaro! Isn't that the {bb}Game Axe{ww}?!\"{KP}\"Trade it with me for my {bb}Dialect Card{ww}!\"{KN}"
  },
  {
   "id": "GSV0800D/11/0BDC",
   "kind": "msg",
   "jp": "「ありがとうな　桃太郎！\n　{bb}方言カード{ww}と　こうかんだど！」\n　",
-  "en": ""
+  "en": "\"Thanks, Momotaro! Here's the {bb}Dialect Card{ww} in trade!\""
  },
  {
   "id": "GSV0800D/11/0C2E",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０２７{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 027{ww}!{KN}"
  },
  {
   "id": "GSV0800D/11/0C88",
   "kind": "msg",
   "jp": "「そうか　気がかわったら\n　また　来てくれよ！」\n　{KP}\n「いつでも　こうかんするど！」\n　\n　",
-  "en": ""
+  "en": "\"All right. If you change your mind, come see me again!\"{KP}\"I'll trade with you anytime!\""
  },
  {
   "id": "GSV0800D/11/0CFE",
   "kind": "msg",
   "jp": "「桃太郎！　オラと　おまえは\n　いつまでも　友だちだど！」\n　",
-  "en": ""
+  "en": "\"Momotaro! You and me'll be friends forever!\""
  },
  {
   "id": "GSV0800D/12/0018",
   "kind": "msg",
   "jp": "「オイラ　金太郎先生の\n　一番弟子　金一郎です！」\n　{KP}\n「ん？　あなたは　本物の\n　桃太郎さんですか？」\n　",
-  "en": ""
+  "en": "\"I'm Kinichiro, Kintaro-sensei's number one pupil!\"{KP}\"Hm? Are you the real Momotaro-san?\""
  },
  {
   "id": "GSV0800D/12/009C",
   "kind": "msg",
   "jp": "「オイラ　金太郎先生の\n　一番弟子　金一郎です！」\n　{KP}\n「金太郎先生の　つくった　ゆうぎ\n　{bb}とんとん相撲{ww}を　やりますか？」\n　{KN}",
-  "en": ""
+  "en": "\"I'm Kinichiro, Kintaro-sensei's number one pupil!\"{KP}\"Want to play {bb}Tap-Tap Sumo{ww}, the game Kintaro-sensei made?\"{KN}"
  },
  {
   "id": "GSV0800D/12/0148",
   "kind": "msg",
   "jp": "「遊び方の説明を　聞きますか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Would you like to hear how to play?\"{KN}"
  },
  {
   "id": "GSV0800D/12/0188",
   "kind": "msg",
   "jp": "「それでは　がんばってください！」\n　\n　",
-  "en": ""
+  "en": "\"Well then, good luck!\""
  },
  {
   "id": "GSV0800D/12/01E6",
   "kind": "msg",
   "jp": "「また　来てくださいネ！」\n　\n　",
-  "en": ""
+  "en": "\"Please come again!\""
  },
  {
   "id": "GSV0800D/13/0002",
   "kind": "msg",
   "jp": "「」\n　ばんごうは０００２８",
-  "en": ""
+  "en": "\"\"{n}The number is 00028"
  },
  {
   "id": "GSV0800D/14/0002",
   "kind": "msg",
   "jp": "「どちらの　ゆうぎ場で\n　遊ぼうかしら…………」\n　{KP}\n「左のゆうぎ場には　{bb}金魚すくい{ww}に\n　{bb}鬼まとあて{ww}に　{bb}ふくわらい{ww}」\n　{KP}\n「それと　右のゆうぎ場には\n　{bb}えらんで団子{ww}に　{bb}鬼たたき{ww}\n　{bb}はねつき地獄！{ww}に　{bb}風車くるりん{ww}」{KP}\n　\n「もぉ～　どれも　楽しそうで\n　わたし　こまっちゃう！」\n　",
-  "en": ""
+  "en": "\"Which game stall should I play at, I wonder............\"{KP}\"The stall on the left has {bb}Goldfish Scooping{ww}, {bb}Oni Target{ww} and {bb}Fukuwarai{ww},\"{KP}\"and the stall on the right has {bb}Pick-a-Dango{ww}, {bb}Whack-an-Oni{ww}, {bb}Hanetsuki Hell!{ww} and {bb}Pinwheel Spin{ww}.\"{KP}\"Oh my, they all look like so much fun, I can't decide!\""
  },
  {
   "id": "GSV0800D/15/0048",
   "kind": "msg",
   "jp": "「おお　本物の　桃太郎さん！\n　がんばって　ゆうぎ名人に\n　なってくだされ！」",
-  "en": ""
+  "en": "\"Oh, the real Momotaro-san! Do your best and become a Game Master!\""
  },
  {
   "id": "GSV0800D/15/00A8",
   "kind": "msg",
   "jp": "「おお！　本物の　桃太郎さん！\n　ゆうぎ名人には\n　なれそうですかな！」{KP}\n　\n「がんばってくだされ！」\n　\n　{KP}\n「それは　そうと\n　本物の　桃太郎さん！」\n　{KP}\n「さぞや　トロフィーも\n　増えたことでしょう！」\n　{KP}\n「たまには　家に\n　帰って　おあげなさい！」\n　",
-  "en": ""
+  "en": "\"Oh! The real Momotaro-san! Think you'll become a Game Master?\"{KP}\"Keep at it!\"{KP}\"By the way, real Momotaro-san!\"{KP}\"I bet your trophies have piled up!\"{KP}\"Go home and visit your family once in a while!\""
  },
  {
   "id": "GSV0800D/15/01DA",
   "kind": "msg",
   "jp": "「さすがは　本物の　桃太郎さん！\n　ゆうぎ名人に　なられるとは！」\n　{KP}\n「さぞや　トロフィーも\n　増えたことでしょう！」\n　",
-  "en": ""
+  "en": "\"That's the real Momotaro-san for you! You've become a Game Master!\"{KP}\"I bet your trophies have piled up!\""
  },
  {
   "id": "GSV0800D/15/026E",
   "kind": "msg",
   "jp": "「さすがは　本物の　桃太郎さん！\n　ゆうぎ達人に　なられましたか！」\n　{KP}\n「このぶんでは　桃太郎さんの　家は\n　トロフィーで　あふれかえって\n　おるのでは……」",
-  "en": ""
+  "en": "\"That's the real Momotaro-san for you! You've become a Game Expert?\"{KP}\"At this rate, Momotaro-san's house must be overflowing with trophies......\""
  },
  {
   "id": "GSV0800D/15/0326",
   "kind": "msg",
   "jp": "「おおおおおお！　桃太郎さん！\n　ついに　ゆうぎ仙人に\n　なられましたか！」{KP}\n　\n「わしは　感動して　こしが\n　ぬけそうじゃ！」\n　",
-  "en": ""
+  "en": "\"Ohhhhhh! Momotaro-san! You've finally become the Game Hermit!\"{KP}\"I'm so moved, my back's about to give out!\""
  },
  {
   "id": "GSV0800D/15/03C4",
   "kind": "msg",
   "jp": "「桃太郎さんよ！　あなたみたいに\n　ズルして遊ぶ人は　ゆうぎ仙人には\n　絶対　なれないじゃろうな！」",
-  "en": ""
+  "en": "\"Listen here, Momotaro-san! Someone who cheats at games like you will never, ever become the Game Hermit!\""
  },
  {
   "id": "GSV0800D/16/003A",
   "kind": "msg",
   "jp": "「新しい　ゆうぎ名人は\n　最近じゃ　出ておらんのさ！」\n　{KP}\n「桃太郎さんでも　簡単には\n　なれは　せんじゃろ！」\n　",
-  "en": ""
+  "en": "\"There haven't been any new Game Masters lately!\"{KP}\"Even Momotaro-san can't become one so easily!\""
  },
  {
   "id": "GSV0800D/16/00C6",
   "kind": "msg",
   "jp": "「ゆうぎ場で　とった　段を\n　あわせて　１００段に　なると」\n　{KP}\n「りっぱな　ゆうぎ名人と\n　呼ばれるように　なるんじゃぞ！」\n　{KP}\n「最近じゃ\n　そんな人　おらんがの！」\n　{KP}\n「桃太郎さん　ねらってみるかね！」\n　\n　",
-  "en": ""
+  "en": "\"When the levels you've earned at the game stalls add up to 100 levels,\"{KP}\"you'll be called a fine Game Master!\"{KP}\"Nobody like that's come along lately, though!\"{KP}\"Want to aim for it, Momotaro-san?\""
  },
  {
   "id": "GSV0800D/16/01C4",
   "kind": "msg",
   "jp": "「ほ～　ゆうぎ名人に\n　なりましたか！」\n　{KP}\n「いやいや　さすがは\n　桃太郎さんじゃ！」\n　",
-  "en": ""
+  "en": "\"Oho! You've become a Game Master!\"{KP}\"My, my, that's Momotaro-san for you!\""
  },
  {
   "id": "GSV0800D/16/0238",
   "kind": "msg",
   "jp": "「こりゃ　また　桃太郎さん！\n　ゆうぎ達人に　なりましたか！」\n　{KP}\n「いやいや　さすがは\n　桃太郎さんじゃ！」\n　",
-  "en": ""
+  "en": "\"Well, if it isn't Momotaro-san again! So you've become a Game Expert!\"{KP}\"My, my, that's Momotaro-san for you!\""
  },
  {
   "id": "GSV0800D/16/02C2",
   "kind": "msg",
   "jp": "「こりゃ　また　桃太郎さん！\n　ついに　ゆうぎ仙人に\n　なりましたか！」{KP}\n　\n「いや～！　後光が　見えますぞ！\n　桃太郎さん！」\n　",
-  "en": ""
+  "en": "\"Well, if it isn't Momotaro-san again! So you've finally become the Game Hermit!\"{KP}\"My, oh my! I can see a halo shining behind you, Momotaro-san!\""
  },
  {
   "id": "GSV0800D/17/0010",
   "kind": "msg",
   "jp": "「あら　桃太郎さん…\n　金太郎さんに　何のよう？」\n　{KP}\n「金太郎さんなら　神社の　横の\n　土俵に　いるんじゃないかしら！」\n　{KP}\n「いつも　そこで　きびしい\n　修行に　打ちこんでいるわ」\n　{KP}\n「あなたと　ちがってね\n　フン！」\n　",
-  "en": ""
+  "en": "\"Oh, Momotaro-san... What do you want with Kintaro-san?\"{KP}\"If it's Kintaro-san you're after, I'd guess he's at the sumo ring beside the shrine!\"{KP}\"He's always there, throwing himself into hard training.\"{KP}\"Unlike you. Hmph!\""
  },
  {
   "id": "GSV0800D/17/0118",
   "kind": "msg",
   "jp": "「あなたは　本物の桃太郎さん……\n　ですよね！？」\n　{KP}\n「そうですよね！\n　やっぱり　本物の　桃太郎さんは\n　ひと味　ちがうわね！」",
-  "en": ""
+  "en": "\"You are the real Momotaro-san... aren't you?!\"{KP}\"You are, aren't you! The real Momotaro-san really is a cut above!\""
  },
  {
   "id": "GSV0800D/18/0002",
   "kind": "msg",
   "jp": "「お祭りは\n　やっぱり　たいこよね！」\n　{KP}\n「誰か　たたいて\n　くれないかしら」\n　",
-  "en": ""
+  "en": "\"A festival just isn't a festival without drums!\"{KP}\"I wish somebody would play them.\""
  },
  {
   "id": "GSV0800D/19/0002",
   "kind": "msg",
   "jp": "「ここから　北西の　方角に　ある\n　森の中に　{bb}たにしヶ池{ww}という」\n　{KP}\n「タニシが　たくさんいる　池が\n　あるんだ！」\n　{KP}\n「そして　その　近くに　\n　天女のろてん風呂が　あるという\n　うわさなんだ………へへへ！」{KP}\n　\n「あ～　天女のろてん風呂！\n　見てーべー！」\n　",
-  "en": ""
+  "en": "\"Northwest of here, in the forest, there's a place called {bb}Snail Pond{ww}.\"{KP}\"It's a pond full of mud snails!\"{KP}\"And they say that near it there's an open-air bath where celestial maidens bathe... heh heh heh!\"{KP}\"Ahh, the celestial maidens' open-air bath! I wanna see it!\""
  },
  {
   "id": "GSV0800D/20/0010",
   "kind": "msg",
   "jp": "「やや！\n　あなたは　桃太郎さん！」\n　{KP}\n「最近　あなたの　よくない\n　うわさばかり　聞きますぞ！」\n　{KP}\n「ゆうぎ場は　みんなが\n　楽しむ　ところじゃて\n　あばれてもらっては　こまるのォ！」",
-  "en": ""
+  "en": "\"Oh my! You're Momotaro-san!\"{KP}\"Lately I hear nothing but bad rumors about you!\"{KP}\"The game stalls are for everyone to enjoy. I can't have you running wild in them, eh!\""
  },
  {
   "id": "GSV0800D/20/00EC",
   "kind": "msg",
   "jp": "「なるほどのォ！\n　あやつは　ニセ桃太郎だったか！\n　気をつけなくてはな！」{KP}\n　\n「あやつのことじゃ！\n　また　どこかで　悪さを\n　するじゃろうて！」{KP}\n　\n「気をつけてな！」\n　\n　",
-  "en": ""
+  "en": "\"I see, I see! So that fellow was a fake Momotaro! We'll have to watch out!\"{KP}\"Knowing him, he'll be up to no good somewhere else, too!\"{KP}\"Take care now!\""
  },
  {
   "id": "GSV0800D/21/0010",
   "kind": "msg",
   "jp": "「桃太郎さん！？」\n　\n　{KP}\n「ついさっき　ゆうぎ場に\n　入っていくのを　見かけたのに！」\n　{KP}\n「おかしいな！？\n　見まちがいかな？」\n　",
-  "en": ""
+  "en": "\"Momotaro-san?!\"{KP}\"But I just saw you going into the game stall a minute ago!\"{KP}\"That's weird! Was I seeing things?\""
  },
  {
   "id": "GSV0800D/21/00B6",
   "kind": "msg",
   "jp": "「よかったぁ！\n　見まちがいじゃ　なかったんだ！」\n　{KP}\n「おいらは　自分が　おかしく\n　なっちまったかと　思ったよ」\n　",
-  "en": ""
+  "en": "\"Phew! I wasn't seeing things after all!\"{KP}\"I thought I'd gone off my rocker.\""
  },
  {
   "id": "GSV0800D/22/0010",
   "kind": "msg",
   "jp": "「桃太郎さん！　このごろ　いつも\n　ゆうぎ場に　いますね！」\n　{KP}\n「あれぇ～？\n　昨日　見た時より　やせたねぇ！」\n　{KP}\n「だいじょうぶ～？\n　桃太郎さん！」\n　",
-  "en": ""
+  "en": "\"Momotaro-san! You're always at the game stalls these days!\"{KP}\"Huh? You look thinner than when I saw you yesterday!\"{KP}\"Are you all right, Momotaro-san?\""
  },
  {
   "id": "GSV0800D/22/00CE",
   "kind": "msg",
   "jp": "「ふーーーーん！」\n　\n　{KP}\n「この間の　人は\n　ニセモノだったのかあ！」\n　{KP}\n「桃太郎さんにしては\n　ふとってたもんね！」\n　",
-  "en": ""
+  "en": "\"Hmmmmmm!\"{KP}\"So the guy the other day was a fake!\"{KP}\"He was pretty chubby for Momotaro-san!\""
  },
  {
   "id": "GSV0800D/23/0018",
   "kind": "msg",
   "jp": "「オイラ　金太郎先生の\n　二番弟子　金二郎です！」\n　{KP}\n「ここの　ゆうぎ\n　{bb}うなれ！金太郎拳{ww}は\n　ただ今　準備中です！」{KP}\n　\n「また　あとで　来て\n　ください！」\n　",
-  "en": ""
+  "en": "\"I'm Kinjiro, Kintaro-sensei's second disciple!\"{KP}\"The game here, {bb}Roar! Kintaro Fist{ww}, is still being set up!\"{KP}\"Please come back later!\""
  },
  {
   "id": "GSV0800D/23/00E2",
   "kind": "msg",
   "jp": "「オイラ　金太郎先生の\n　二番弟子　金二郎です！」\n　{KP}\n「金太郎先生の　つくった\n　ゆうぎ　{bb}うなれ！金太郎拳{ww}を\n　やりますか？」{KN}",
-  "en": ""
+  "en": "\"I'm Kinjiro, Kintaro-sensei's second disciple!\"{KP}\"Want to play {bb}Roar! Kintaro Fist{ww}, the game Kintaro-sensei made?\"{KN}"
  },
  {
   "id": "GSV0800D/23/0190",
   "kind": "msg",
   "jp": "「遊び方の説明を　聞きますか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Would you like to hear how to play?\"{KN}"
  },
  {
   "id": "GSV0800D/23/01D0",
   "kind": "msg",
   "jp": "「それでは　がんばってください！」\n　\n　",
-  "en": ""
+  "en": "\"Well then, good luck!\""
  },
  {
   "id": "GSV0800D/23/023C",
   "kind": "msg",
   "jp": "「また　来てくださーい！」\n　\n　",
-  "en": ""
+  "en": "\"Come again soon!\""
  },
  {
   "id": "GSV0800D/24/001E",
   "kind": "msg",
   "jp": "「夜に　なると　鬼面党が\n　あらわれるらしいよ！」\n　{KP}\n「ぶっそうな　世の中だねぇ～！」\n　\n　",
-  "en": ""
+  "en": "\"I hear the Oni Mask Gang shows up at night!\"{KP}\"Dangerous times we live in, huh!\""
  },
  {
   "id": "GSV0800D/24/0096",
   "kind": "msg",
   "jp": "「今　そこに\n　鬼面党が　いたよー！」\n　{KP}\n「でも　まぬけな　つらに\n　見えたよ～！」\n　",
-  "en": ""
+  "en": "\"The Oni Mask Gang was right over there just now!\"{KP}\"But they had real goofy-looking mugs!\""
  },
  {
   "id": "GSV0800D/24/0108",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　鬼面党の　やつらを\n　改心させたんだって！？」{KP}\n　\n「さすがは　桃太郎さんだねぇ～！」\n　\n　",
-  "en": ""
+  "en": "\"Momotaro-san! I hear you made those Oni Mask Gang guys change their ways?!\"{KP}\"That's Momotaro-san for you!\""
  },
  {
   "id": "GSV0800D/25/001E",
   "kind": "msg",
   "jp": "「どうも　桃太郎さん\n　お祭りは　楽しいですねぇ！」\n　{KP}\n「ところで　わたしの顔！\n　覚えておいて　損は\n　ないですよ！」",
-  "en": ""
+  "en": "\"Why, hello, Momotaro-san! Isn't the festival fun!\"{KP}\"By the way, my face! It wouldn't hurt you to remember it!\""
  },
  {
   "id": "GSV0800D/25/00B0",
   "kind": "msg",
   "jp": "「あらまっ！　わたしに\n　そっくりな　お面を\n　お持ちねぇ～！」{KP}\n　\n「よく　見たいねぇ～！\n　それ　よ～く\n　見せてくださいな！」",
-  "en": ""
+  "en": "\"Oh my! You've got a mask that looks just like me!\"{KP}\"I'd love a good look at it! Do let me see it up close!\""
  },
  {
   "id": "GSV0800D/25/014C",
   "kind": "msg",
   "jp": "　桃太郎は\n　お面を　見せてあげた！\n　",
-  "en": ""
+  "en": "Momotaro showed him the mask!"
  },
  {
   "id": "GSV0800D/25/0184",
   "kind": "msg",
   "jp": "「ありがとう！　桃太郎さん\n　毎日　ながめて\n　いたいですねぇ～！」{KP}\n　\n「お礼に　これを\n　受け取って　くださいな！」\n　",
-  "en": ""
+  "en": "\"Thank you, Momotaro-san! I could gaze at it every single day!\"{KP}\"Please take this as my thanks!\""
  },
  {
   "id": "GSV0800D/25/0218",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０６８{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 068{ww}!{KN}"
  },
  {
   "id": "GSV0800D/25/026C",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　お面集めは　進んで\n　いますか！？」",
-  "en": ""
+  "en": "\"Momotaro-san! How's your mask collection coming along?!\""
  },
  {
   "id": "GSV0800D/26/0002",
   "kind": "msg",
   "jp": "「やあ　桃太郎さん！\n　また　お会いしましたのォ！」\n　{KP}\n「お祭りと　聞いて\n　いてもたっても\n　おられなくなってのォ！」{KP}\n　\n「村の者たちの　つめたい目を\n　よそに　やっぱり\n　来てしまったのじゃ！」{KP}\n　\n「いや～！\n　お祭りは　楽しいのォ！」\n　",
-  "en": ""
+  "en": "\"Why, hello, Momotaro-san! We meet again, eh!\"{KP}\"When I heard there was a festival, I just couldn't sit still, eh!\"{KP}\"The villagers gave me cold looks, but I came anyway!\"{KP}\"Ahh! Festivals sure are fun, eh!\""
  },
  {
   "id": "GSV0800D/27/001C",
   "kind": "msg",
   "jp": "「やい　桃太郎！\n　鬼面党に　いどむとは　生意気や！」\n　{KP}\n「ワシの　ちからを　見せてやるで！\n　ほな　行くで！」\n　",
-  "en": ""
+  "en": "\"Hey, Momotaro! You got some nerve takin' on the Oni Mask Gang!\"{KP}\"I'll show ya what I'm made of! Here I come!\""
  },
  {
   "id": "GSV0800D/28/0002",
   "kind": "msg",
   "jp": "「ここは　金太郎の村じゃ！\n　村祭りで　おおにぎわいじゃ！」\n　{KP}\n「この村の　夜は　長いぞ！」\n　\n　",
-  "en": ""
+  "en": "\"This is Kintaro Village! It's all abuzz with the village festival!\"{KP}\"The nights in this village are long!\""
  },
  {
   "id": "GSV0800D/29/0002",
@@ -459,192 +459,192 @@
   "id": "GSV0800D/30/0018",
   "kind": "msg",
   "jp": "「ふぁ　ふぁ　ふぁっ」\n　\n　{KP}\n「あ～　もう！\n　くしゃみが　出そうで\n　出そうで……」{KP}\n　\n「ふぁ　ふぁ　ふぁっ…」\n　\n　",
-  "en": ""
+  "en": "\"Ah... ah... ahh...\"{KP}\"Argh, come on! It's right there, it's right there...\"{KP}\"Ah... ah... ahh...\""
  },
  {
   "id": "GSV0800D/30/00B6",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}{MM}{ww}を　見せた！\n　",
-  "en": ""
+  "en": "Momotaro showed him the {bb}{MM}{ww}!"
  },
  {
   "id": "GSV0800D/30/00E6",
   "kind": "msg",
   "jp": "「ふぁ　ふぁっ…　桃太郎さん\n　その　ワラを　くだせい！\n　ふぁ　ふぁっ…」",
-  "en": ""
+  "en": "\"Ah... ahh... Momotaro-san, gimme that straw! Ah... ahh...\""
  },
  {
   "id": "GSV0800D/30/0142",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}ワラ{ww}を　わたした！\n　",
-  "en": ""
+  "en": "Momotaro handed over the {bb}Straw{ww}!"
  },
  {
   "id": "GSV0800D/30/0176",
   "kind": "msg",
   "jp": "男は　{bb}ワラ{ww}を　鼻の穴に\n入れ　動かした！\n　",
-  "en": ""
+  "en": "The man stuck the {bb}Straw{ww} up his nostril and wiggled it around!"
  },
  {
   "id": "GSV0800D/30/01B6",
   "kind": "msg",
   "jp": "「ふぁ　ふぁっ…\n　ふぁっくしょーーーーーーん！！」\n　{KP}\n「……　あ～　スッキリしたぜ！」\n　\n　{KP}\n「ありがとう！　桃太郎さん\n　お礼と　言っちゃ　なんだけど」\n　{KP}\n「この　オイラの　つくった\n　{bb}風車{ww}を　あげるよ！」\n　",
-  "en": ""
+  "en": "\"Ah... ahh... AAAH-CHOOOOOOOOO!!\"{KP}\"...Ahh, that feels great!\"{KP}\"Thanks, Momotaro-san! It ain't much of a thank-you, but...\"{KP}\"Here, have this {bb}Pinwheel{ww} I made!\""
  },
  {
   "id": "GSV0800D/30/02B8",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}風車{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Pinwheel{ww}!{KN}"
  },
  {
   "id": "GSV0800D/30/030C",
   "kind": "msg",
   "jp": "「いや～！　桃太郎さん！\n　おかげで　鼻が　スー　スーして\n　気持ちいいよ～！」",
-  "en": ""
+  "en": "\"Hey there, Momotaro-san! Thanks to you, my nose feels all fresh and clear!\""
  },
  {
   "id": "GSV0800D/31/001E",
   "kind": "msg",
   "jp": "「あらよっと！\n　ドン　ドン　ドンガラガッタ\n　ドドンガ　ドン！」{KP}\n　\n「たいこは　こうやって\n　たたくもんさ！」\n　",
-  "en": ""
+  "en": "\"Hup! Don, don, don-garagatta, do-donga don!\"{KP}\"That's how you play a drum!\""
  },
  {
   "id": "GSV0800D/31/00B4",
   "kind": "msg",
   "jp": "「あんちゃん　あんちゃん！」\n　\n　",
-  "en": ""
+  "en": "\"Big bro, big bro!\""
  },
  {
   "id": "GSV0800D/31/00F0",
   "kind": "msg",
   "jp": "「あっ　しまった！\n　ほ　本物が\n　あらわれちゃったぞ！」{KP}\n　\n「にげなくっちゃ！\n　カキーッ！」\n　",
-  "en": ""
+  "en": "\"Uh-oh! Th-the real one showed up!\"{KP}\"Gotta run! Kakiii!\""
  },
  {
   "id": "GSV0800D/31/017C",
   "kind": "msg",
   "jp": "「おまえか　ニセ桃太郎は！」\n　\n　",
-  "en": ""
+  "en": "\"So you're the fake Momotaro!\""
  },
  {
   "id": "GSV0800D/31/01B0",
   "kind": "msg",
   "jp": "「ニセ桃太郎だと！\n　失礼だなぁ！」\n　{KP}\n「オイラには\n　{bb}柿太郎{ww}っていう　りっぱな\n　名前が　あるんだい！」",
-  "en": ""
+  "en": "\"Fake Momotaro?! How rude!\"{KP}\"I've got a fine name of my own: {bb}Kakitaro{ww}!\""
  },
  {
   "id": "GSV0800D/31/0236",
   "kind": "msg",
   "jp": "「クリ　クリ！\n　そうだ！　そうだ！」\n　{KP}\n「あんちゃんは　桃太郎なんかより\n　ずっと　ずっと　すごいクリ！」\n　",
-  "en": ""
+  "en": "\"Kuri, kuri! That's right! That's right!\"{KP}\"My big bro is way, way more amazing than Momotaro, kuri!\""
  },
  {
   "id": "GSV0800D/31/02BE",
   "kind": "msg",
   "jp": "「グズグズするな！　栗太郎！\n　にげるぞ！　カキーッ！」\n　",
-  "en": ""
+  "en": "\"Quit dawdling, Kuritaro! We're getting out of here! Kakiii!\""
  },
  {
   "id": "GSV0800D/31/030A",
   "kind": "msg",
   "jp": "「あっ　こら　まてぇ！」\n　\n　",
-  "en": ""
+  "en": "\"Hey, you! Wait!\""
  },
  {
   "id": "GSV0800D/31/0374",
   "kind": "msg",
   "jp": "「あっ　待ってクリー！\n　なんで　にげるクリー！\n　あんちゃ～～～ん！」",
-  "en": ""
+  "en": "\"Ah, wait for me, kuri! Why are you running, kuri? Big brooooo!\""
  },
  {
   "id": "GSV0800D/31/0414",
   "kind": "msg",
   "jp": "「イテテ…\n　手を　はなせクリ！」\n　",
-  "en": ""
+  "en": "\"Ow, ow... Let go of me, kuri!\""
  },
  {
   "id": "GSV0800D/31/0476",
   "kind": "msg",
   "jp": "「おまえの　アニキは\n　ひどい　ヤツだな」\n　{KP}\n「弟の　おまえを\n　見すてて　にげてったど！」\n　",
-  "en": ""
+  "en": "\"That big brother of yours is a rotten guy.\"{KP}\"He ran off and left you behind, his own little brother!\""
  },
  {
   "id": "GSV0800D/31/050C",
   "kind": "msg",
   "jp": "「きっと…\n　助けに　来てくれるクリ！」\n　",
-  "en": ""
+  "en": "\"He'll... he'll come save me for sure, kuri!\""
  },
  {
   "id": "GSV0800D/31/055A",
   "kind": "msg",
   "jp": "「どうする　桃太郎？\n　柿太郎を　追いかけるのか？」\n　",
-  "en": ""
+  "en": "\"What'll it be, Momotaro? Gonna go after Kakitaro?\""
  },
  {
   "id": "GSV0800D/31/05B0",
   "kind": "msg",
   "jp": "「…………　桃太郎！\n　あんちゃんと\n　勝負　するクリ！」{KP}\n　\n「あんちゃんの　すごさを\n　思い知らせてやるクリ！」\n　{KP}\n「あんちゃんが　いる所に\n　連れてってやるから\n　いっしょに　来るクリ！」",
-  "en": ""
+  "en": "\"......Momotaro! You're gonna have a contest with my big bro, kuri!\"{KP}\"I'll show you just how amazing he is, kuri!\"{KP}\"I'll take you to where big bro is, so come with me, kuri!\""
  },
  {
   "id": "GSV0800D/31/0692",
   "kind": "msg",
   "jp": "「どうする　桃太郎？\n　栗太郎を　連れていくのか？」\n　{KN}",
-  "en": ""
+  "en": "\"What'll it be, Momotaro? Gonna take Kuritaro along?\"{KN}"
  },
  {
   "id": "GSV0800D/31/06EE",
   "kind": "msg",
   "jp": "「よっしゃ！　きまった！」\n　\n　{KP}\n「柿太郎ってやつと　勝負して\n　本物の　すごさ　見せてやれ！」\n　",
-  "en": ""
+  "en": "\"All right! That settles it!\"{KP}\"Go take on this Kakitaro guy and show him what the real deal can do!\""
  },
  {
   "id": "GSV0800D/31/076A",
   "kind": "msg",
   "jp": "「あんちゃんは　オラたちの\n　家がある　{bb}兄弟の洞窟{ww}に\n　ぜったい　もどるクリ」{KP}\n　\n「オラが　案内するから\n　そこで　あんちゃんと\n　勝負するクリ！」{KP}\n　\n「ぜったいだぞ！」\n　\n　",
-  "en": ""
+  "en": "\"Big bro is sure to go back to {bb}Brothers' Cave{ww}, where our home is, kuri.\"{KP}\"I'll show you the way, so you can have your contest with big bro there, kuri!\"{KP}\"That's a promise!\""
  },
  {
   "id": "GSV0800D/31/0844",
   "kind": "msg",
   "jp": "{bb}栗太郎{ww}が\n仲間に　くわわった！\n　{KN}",
-  "en": ""
+  "en": "{bb}Kuritaro{ww} joined the party!{KN}"
  },
  {
   "id": "GSV0800D/31/08CA",
   "kind": "msg",
   "jp": "「栗太郎に　見せてやるんだな！\n　本物の　すごさを！」\n　{KP}\n「{bb}兄弟の洞窟{ww}は\n　東の　方角にあるらしい」\n　{KP}\n「オラは　ここで　弟子たちを\n　教育しなければ　ならないので\n　ここで　お別れだど！」{KP}\n　\n「また　会おうぜ！」\n　\n　",
-  "en": ""
+  "en": "\"You show Kuritaro! Show him what the real deal can do!\"{KP}\"They say {bb}Brothers' Cave{ww} is off to the east.\"{KP}\"I've gotta stay here and train my disciples, so this is where we part ways!\"{KP}\"See ya around!\""
  },
  {
   "id": "GSV0800D/31/09E4",
   "kind": "msg",
   "jp": "金太郎は\n帰って行った！\n　",
-  "en": ""
+  "en": "Kintaro went home!"
  },
  {
   "id": "GSV0800D/31/0A2A",
   "kind": "msg",
   "jp": "「なにを！」\n　\n　{KP}\n「あんちゃんと　勝負するまで\n　おまえから　はなれないクリ」\n　",
-  "en": ""
+  "en": "\"Why, you!\"{KP}\"I'm not leaving your side till you've had your contest with big bro, kuri.\""
  },
  {
   "id": "GSV0800D/32/000E",
   "kind": "msg",
   "jp": "やぐらだいこを　しらべた！\n　\n　{KP}\nやぐらだいこの　下に\n何かある！\n　{KP}\nなんと！\n{bb}方言カード{ww}を　見つけた！\n　",
-  "en": ""
+  "en": "Momotaro examined the yagura drum!{KP}There's something under the yagura drum!{KP}Well, what do you know! He found a {bb}Dialect Card{ww}!"
  },
  {
   "id": "GSV0800D/32/009E",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０９４{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 094{ww}!{KN}"
  },
  {
   "id": "GSV0800D/32/00F2",
   "kind": "msg",
   "jp": "やぐらだいこを　しらべた！\n　\n　{KP}\nドン　ドン　ドンガラッタ\nドドンガ　ドン！\n　{KP}\nたいこを　打つのは\n気持ちいいー！\n　",
-  "en": ""
+  "en": "Momotaro examined the yagura drum!{KP}Don, don, don-garatta, do-donga don!{KP}Beating a drum feels great!"
  }
 ]

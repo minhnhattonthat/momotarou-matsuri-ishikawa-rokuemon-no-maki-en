@@ -3,18 +3,18 @@
   "id": "GSV1311D/2/001E",
   "kind": "msg",
   "jp": "「今回の　だじゃれ大会を\n　仕切ってるのは　{bb}ましらサン{ww}だよ」\n　{KP}\n「でも　{bb}ましらサン{ww}に　聞いても\n　お題は　教えてもらえないんだ」\n　{KP}\n「いつもなら　{bb}ましらサン{ww}が\n　教えて　くれるのに！」\n　",
-  "en": ""
+  "en": "\"{bb}Mashira-san{ww} is the one running this Pun Contest.\"{KP}\"But even if you ask {bb}Mashira-san{ww}, he won't tell you the theme.\"{KP}\"{bb}Mashira-san{ww} usually tells us!\""
  },
  {
   "id": "GSV1311D/2/0108",
   "kind": "msg",
   "jp": "「{bb}ましらサン{ww}から　聞きましたよ！\n　お題は　植物だって！」\n　{KP}\n「むずかしいですねぇ！\n　でも…」\n　{KP}\n「お題が　決まってーまあ（テーマ）\n　よかった！」\n　",
-  "en": ""
+  "en": "\"I heard it from {bb}Mashira-san{ww}! The theme is plants!\"{KP}\"That's a tough one! But...\"{KP}\"I'm glad the theme's been settled! I'm theme-endously relieved!\""
  },
  {
   "id": "GSV1311D/2/01C8",
   "kind": "msg",
   "jp": "「なかなか　ハイレベルな\n　大会でしたね　桃太郎さん！」\n　{KP}\n「だじゃれ大会を\n　思い出したく　なったら」\n　{KP}\n「{bb}ましらサン{ww}と\n　話すと　いいですよ！」\n　",
-  "en": ""
+  "en": "\"That was quite a high-level contest, wasn't it, Momotaro-san!\"{KP}\"If you ever want to look back on the Pun Contest,\"{KP}\"you should talk to {bb}Mashira-san{ww}!\""
  }
 ]

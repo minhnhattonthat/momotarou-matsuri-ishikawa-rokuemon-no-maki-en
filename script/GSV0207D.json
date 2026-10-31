@@ -3,114 +3,114 @@
   "id": "GSV0207D/0/0032",
   "kind": "msg",
   "jp": "「ちょっと　ちょっと　お客さん！\n　勝手に　プレイしようなんて\n　かんべんしてくださいよ～～！」",
-  "en": ""
+  "en": "\"Hey, hey, hold it, customer! Please don't go playing without asking!\""
  },
  {
   "id": "GSV0207D/0/00DC",
   "kind": "msg",
   "jp": "「ちょっと　ちょっと　お客さん！\n　勝手に　プレイしようなんて\n　かんべんしてくださいよ～～！」",
-  "en": ""
+  "en": "\"Hey, hey, hold it, customer! Please don't go playing without asking!\""
  },
  {
   "id": "GSV0207D/2/001E",
   "kind": "msg",
   "jp": "「いらっしゃいませ！\n　{bb}偶数タヌキ{ww}が\n　楽しめます」{KN}",
-  "en": ""
+  "en": "\"Welcome! Here you can enjoy {bb}Even Tanuki{ww}.\"{KN}"
  },
  {
   "id": "GSV0207D/2/006C",
   "kind": "msg",
   "jp": "「いらっしゃいませ！\n　{bb}偶数タヌキ{ww}が\n　５０両で楽しめます」{KN}",
-  "en": ""
+  "en": "\"Welcome! You can enjoy {bb}Even Tanuki{ww} for 50 ryo.\"{KN}"
  },
  {
   "id": "GSV0207D/2/00F6",
   "kind": "msg",
   "jp": "　\n「またのおこしを」\n　\n　",
-  "en": ""
+  "en": "\"Do come again.\""
  },
  {
   "id": "GSV0207D/2/015E",
   "kind": "msg",
   "jp": "「遊び方の説明を　聞きますか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Would you like to hear how to play?\"{KN}"
  },
  {
   "id": "GSV0207D/2/01D4",
   "kind": "msg",
   "jp": "　\n「桃太郎さん　\n　お金がたりませんよ！」\n　{KP}\n「またのおこしを」\n　\n　",
-  "en": ""
+  "en": "\"Momotaro-san, you don't have enough money!\"{KP}\"Do come again.\""
  },
  {
   "id": "GSV0207D/3/001E",
   "kind": "msg",
   "jp": "「いらっしゃいませ！\n　{bb}タヌキスロット{ww}が\n　楽しめます」{KN}",
-  "en": ""
+  "en": "\"Welcome! Here you can enjoy {bb}Tanuki Slots{ww}.\"{KN}"
  },
  {
   "id": "GSV0207D/3/0070",
   "kind": "msg",
   "jp": "「いらっしゃいませ！\n　{bb}タヌキスロット{ww}が\n　５０両で楽しめます」{KN}",
-  "en": ""
+  "en": "\"Welcome! You can enjoy {bb}Tanuki Slots{ww} for 50 ryo.\"{KN}"
  },
  {
   "id": "GSV0207D/3/00FE",
   "kind": "msg",
   "jp": "　\n「またのおこしを」\n　\n　",
-  "en": ""
+  "en": "\"Do come again.\""
  },
  {
   "id": "GSV0207D/3/0166",
   "kind": "msg",
   "jp": "「遊び方の説明を　聞きますか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Would you like to hear how to play?\"{KN}"
  },
  {
   "id": "GSV0207D/3/01DC",
   "kind": "msg",
   "jp": "　\n「桃太郎さん　\n　お金がたりませんよ！」\n　{KP}\n「またのおこしを」\n　\n　",
-  "en": ""
+  "en": "\"Momotaro-san, you don't have enough money!\"{KP}\"Do come again.\""
  },
  {
   "id": "GSV0207D/4/001E",
   "kind": "msg",
   "jp": "「いらっしゃいませ！\n　{bb}タヌキスロット{ww}が\n　楽しめます」{KN}",
-  "en": ""
+  "en": "\"Welcome! Here you can enjoy {bb}Tanuki Slots{ww}.\"{KN}"
  },
  {
   "id": "GSV0207D/4/0070",
   "kind": "msg",
   "jp": "「いらっしゃいませ！\n　{bb}タヌキスロット{ww}が\n　５０両で楽しめます」{KN}",
-  "en": ""
+  "en": "\"Welcome! You can enjoy {bb}Tanuki Slots{ww} for 50 ryo.\"{KN}"
  },
  {
   "id": "GSV0207D/4/00FE",
   "kind": "msg",
   "jp": "　\n「またのおこしを」\n　\n　",
-  "en": ""
+  "en": "\"Do come again.\""
  },
  {
   "id": "GSV0207D/4/0166",
   "kind": "msg",
   "jp": "「遊び方の説明を　聞きますか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Would you like to hear how to play?\"{KN}"
  },
  {
   "id": "GSV0207D/4/01DC",
   "kind": "msg",
   "jp": "　\n「桃太郎さん　\n　お金がたりませんよ！」\n　{KP}\n「またのおこしを」\n　\n　",
-  "en": ""
+  "en": "\"Momotaro-san, you don't have enough money!\"{KP}\"Do come again.\""
  },
  {
   "id": "GSV0207D/6/0002",
   "kind": "msg",
   "jp": "「{bb}偶数タヌキ{ww}では　運が\n　すべてを　決めるのじゃよ！\n　世の中　なんて　そんなもんじゃ！」",
-  "en": ""
+  "en": "\"In {bb}Even Tanuki{ww}, luck decides everything! That's just how the world works!\""
  },
  {
   "id": "GSV0207D/7/0002",
   "kind": "msg",
   "jp": "「ピョピョン　ピョピョン！\n　{bb}偶数タヌキ{ww}って　くやしいの！」\n　{KP}\n「わたしって　ラッキーだけが\n　とりえだと　思ってたのにぃ…」\n　",
-  "en": ""
+  "en": "\"Hop hop, hop hop! {bb}Even Tanuki{ww} is so frustrating!\"{KP}\"And here I thought luck was my one strong point...\""
  }
 ]

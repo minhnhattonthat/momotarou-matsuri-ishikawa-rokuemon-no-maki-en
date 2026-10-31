@@ -3,108 +3,108 @@
   "id": "GSV0700D/2/000A",
   "kind": "msg",
   "jp": "「あっ！　桃太郎さんだ！」\n　\n　{KP}\n「初めまして　オイラ\n　{bb}タニシの助{ww}と　いいます！」\n　{KP}\n「もともと　お祭りめぐりを\n　していた　旅人なんだけど」\n　{KP}\n「ここで　タニシを\n　いじめて　遊んでいたら」\n　{KP}\n「いつのまにか　タニシに\n　されてしまいました！」\n　{KP}\n「その時　天から　声が\n　聞こえて来たのです！」\n　{KP}\n「おまえは　そこいらじゅうで\n　虫や　動物を　いじめてきた」\n　{KP}\n「だから　バツとして\n　おまえを　タニシに\n　変えたのぢゃ！」{KP}\n　\n「人間に　もどりたければ\n　人助けを　２回するのぢゃ\n　……と　言っていました！」{KP}\n　\n「ねぇ　桃太郎さん！\n　オイラを　旅に\n　連れていって　くださいよ」{KP}\n　\n「ひとりだと　心細くて\n　この池から　出られません！」\n　{KP}\n「ねぇ　いいでしょ？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Ah! It's Momotaro-san!\"{KP}\"Nice to meet you! My name's {bb}Tanishinosuke{ww}!\"{KP}\"I was originally a traveler going around to festivals,\"{KP}\"but while I was having fun picking on the mud snails here,\"{KP}\"before I knew it, I'd been turned into a mud snail myself!\"{KP}\"Right then, I heard a voice from the heavens!\"{KP}\"It said, 'You have tormented bugs and animals everywhere you went.'\"{KP}\"'So as punishment, I have turned you into a mud snail!'\"{KP}\"'If you wish to become human again, you must help people twice!' ...That's what it said!\"{KP}\"Hey, Momotaro-san! Please take me along on your journey!\"{KP}\"On my own I'm too scared to leave this pond!\"{KP}\"Come on, please?\"{KN}"
  },
  {
   "id": "GSV0700D/2/0336",
   "kind": "msg",
   "jp": "「ありがとう　桃太郎さん！」\n　\n　",
-  "en": ""
+  "en": "\"Thank you, Momotaro-san!\""
  },
  {
   "id": "GSV0700D/2/036A",
   "kind": "msg",
   "jp": "{bb}タニシの助{ww}が\n仲間に　くわわった！\n　{KN}",
-  "en": ""
+  "en": "{bb}Tanishinosuke{ww} joined the party!{KN}"
  },
  {
   "id": "GSV0700D/2/03BA",
   "kind": "msg",
   "jp": "「お願いだよー！\n　オイラ　人間に\n　もどりたいんだよー！」{KP}\n　\n「ねぇ　いいでしょう？\n　桃太郎さん！」\n　{KN}",
-  "en": ""
+  "en": "\"Pleeease! I wanna be human again!\"{KP}\"Come on, please? Momotaro-san!\"{KN}"
  },
  {
   "id": "GSV0700D/3/007E",
   "kind": "msg",
   "jp": "「あっ　桃太郎さん！\n　ここらあたりで　{bb}天のはごろも{ww}を\n　持った人を　見ませんでした？」",
-  "en": ""
+  "en": "\"Ah, Momotaro-san! Did you see anyone around here carrying a {bb}Heavenly Robe{ww}?\""
  },
  {
   "id": "GSV0700D/3/00EA",
   "kind": "msg",
   "jp": "　桃太郎は\n　首を　横に　ふった！\n　",
-  "en": ""
+  "en": "Momotaro shook his head!"
  },
  {
   "id": "GSV0700D/3/0120",
   "kind": "msg",
   "jp": "「……そうですか」\n　\n　{KP}\n「近くの　ろてん風呂に\n　入っていた時に　{bb}天のはごろも{ww}を\n　うばわれてしまったのです！」{KP}\n　\n「盗んだ人を　ここまで\n　追って来たのですが…\n　見失って　しまいました！」{KP}\n　\n「あれが　ないと　天に\n　もどれないのに……」\n　{KP}\n「どうしましょう……」\n　\n　",
-  "en": ""
+  "en": "\"......I see.\"{KP}\"While I was bathing in the hot spring nearby, my {bb}Heavenly Robe{ww} was stolen!\"{KP}\"I chased the thief all the way here... but I lost sight of them!\"{KP}\"Without it, I can't return to the heavens......\"{KP}\"What shall I do......\""
  },
  {
   "id": "GSV0700D/3/02A6",
   "kind": "msg",
   "jp": "「{bb}天のはごろも{ww}が　ないと\n　天に　もどれないわ……」\n　{KP}\n「どうしましょう……」\n　\n　",
-  "en": ""
+  "en": "\"Without my {bb}Heavenly Robe{ww}, I can't return to the heavens......\"{KP}\"What shall I do......\""
  },
  {
   "id": "GSV0700D/3/0322",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}{MM}{ww}を　わたした！\n　",
-  "en": ""
+  "en": "Momotaro handed over {bb}{MM}{ww}!"
  },
  {
   "id": "GSV0700D/3/036A",
   "kind": "msg",
   "jp": "「あっ！　{bb}天のはごろも{ww}……\n　ありがとうございます！\n　桃太郎さん！」{KP}\n　\n「これで　天に　もどれます！」\n　\n　{KP}\n「お礼に\n　これを　さしあげますわ！」\n　",
-  "en": ""
+  "en": "\"Oh! My {bb}Heavenly Robe{ww}...... Thank you so much, Momotaro-san!\"{KP}\"Now I can return to the heavens!\"{KP}\"Please accept this as thanks!\""
  },
  {
   "id": "GSV0700D/3/042A",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０９０{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 090{ww}!{KN}"
  },
  {
   "id": "GSV0700D/4/002A",
   "kind": "msg",
   "jp": "「おまえは　桃太郎だな！\n　鬼面党に　いどむとは　生意気だど」\n　{KP}\n「オラの　ちからを　見せてやるど！\n　さあ　勝負するど！」\n　",
-  "en": ""
+  "en": "\"You're Momotaro, ain'tcha! You got some nerve takin' on the Oni Mask Gang!\"{KP}\"I'll show ya my strength! C'mon, let's settle this!\""
  },
  {
   "id": "GSV0700D/4/010C",
   "kind": "msg",
   "jp": "鬼面党は　{bb}天のはごろも{ww}を\n落としていった！\n　",
-  "en": ""
+  "en": "The Oni Mask Gang member dropped the {bb}Heavenly Robe{ww}!"
  },
  {
   "id": "GSV0700D/4/014E",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}天のはごろも{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Heavenly Robe{ww}!{KN}"
  },
  {
   "id": "GSV0700D/4/0194",
   "kind": "msg",
   "jp": "「桃太郎はん！\n　いろいろと　めいわくを　かけて\n　ゴメンだど！」{KP}\n　\n「悪いが　この　{bb}天のはごろも{ww}を\n　{bb}天女{ww}に　返して　ほしいど！」\n　",
-  "en": ""
+  "en": "\"Mr. Momotaro! Sorry for causin' ya all that trouble!\"{KP}\"Sorry to ask, but I want ya to give this {bb}Heavenly Robe{ww} back to the {bb}celestial maiden{ww}!\""
  },
  {
   "id": "GSV0700D/4/024A",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}天のはごろも{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Heavenly Robe{ww}!{KN}"
  },
  {
   "id": "GSV0700D/4/028E",
   "kind": "msg",
   "jp": "「では　頼んだど！\n　桃太郎はん！」\n　",
-  "en": ""
+  "en": "\"I'm countin' on ya, then! Mr. Momotaro!\""
  },
  {
   "id": "GSV0700D/5/0002",
   "kind": "msg",
   "jp": "「よく来たな！\n　ここは　たにしヶ池じゃ！」\n　{KP}\n「タニシが　たくさん\n　おるのじゃ！」\n　",
-  "en": ""
+  "en": "\"Welcome! This here is Snail Pond!\"{KP}\"There are lots of mud snails here!\""
  }
 ]

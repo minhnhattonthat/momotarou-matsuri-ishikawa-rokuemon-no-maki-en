@@ -9,240 +9,240 @@
   "id": "GSV2100D/15/0010",
   "kind": "msg",
   "jp": "「ニャ～ン！」\n　\n　",
-  "en": ""
+  "en": "\"Meooow!\""
  },
  {
   "id": "GSV2100D/15/0038",
   "kind": "msg",
   "jp": "「いいことを　教えてあげるニャン」\n　\n　{KP}\n「{bb}鬼のつめあと{ww}で　子どもを\n　見たけど　なんか　人間と\n　ちがう　においが　したニャン！」",
-  "en": ""
+  "en": "\"I'll tell you something good, meow.\"{KP}\"I saw a kid at the {bb}Oni's Claw Marks{ww}, but somehow it didn't smell like a human, meow!\""
  },
  {
   "id": "GSV2100D/16/0010",
   "kind": "msg",
   "jp": "「ボクは　ネコが　大好きなんだ！」\n　\n　{KP}\n「あそこにいる　ネコちゃんと\n　話してみたいなぁ～！」\n　{KP}\n「でも　ボクは　{bb}ネコぐるみ{ww}を\n　持っていないもんなぁ～！」\n　{KP}\n「そういえば　希望の都に\n　住んでいる　男が　{bb}ネコぐるみ{ww}を\n　持っているという　話を」{KP}\n　\n「旅人から　聞いたことが\n　あったなぁ～！」\n　{KP}\n「うらやましい話だなぁ～！」\n　\n　",
-  "en": ""
+  "en": "\"I just love cats!\"{KP}\"I wish I could talk to that kitty over there!\"{KP}\"But I don't have a {bb}Cat Suit{ww}...\"{KP}\"Come to think of it, I once heard a traveler say\"{KP}\"that a man who lives in the Capital of Hope has a {bb}Cat Suit{ww}!\"{KP}\"I'm so jealous!\""
  },
  {
   "id": "GSV2100D/16/01A4",
   "kind": "msg",
   "jp": "「え～　{bb}ネコぐるみ{ww}を\n　持っているんですかぁ～！」\n　{KP}\n「うらやましいですねぇ～！\n　あそこにいる　ネコちゃんと\n　話しましたか！？」",
-  "en": ""
+  "en": "\"Whoa, you have a {bb}Cat Suit{ww}?!\"{KP}\"I'm so jealous! Did you talk to that kitty over there?!\""
  },
  {
   "id": "GSV2100D/17/0010",
   "kind": "msg",
   "jp": "「せっかく　カチカチの村から\n　{bb}ウサカメレース{ww}を　見に来たのに\n　残念だ！　ポンポコリン！」",
-  "en": ""
+  "en": "\"I came all the way from Kachi-Kachi Village to see the {bb}Rabbit-Turtle Race{ww}, too! What a shame! Ponpokorin!\""
  },
  {
   "id": "GSV2100D/17/0082",
   "kind": "msg",
   "jp": "「{bb}ウサカメレース{ww}より\n　きみを　見ている方が　いいよ\n　ポンポコリン！」{KP}\n　\n桃太郎は\nムシされた　ようだ！\n　",
-  "en": ""
+  "en": "\"I'd rather look at you than the {bb}Rabbit-Turtle Race{ww}, Ponpokorin!\"{KP}Momotaro seems to have been ignored!"
  },
  {
   "id": "GSV2100D/18/0010",
   "kind": "msg",
   "jp": "「せっかく　カチカチの村から\n　タヌキさんと　{bb}ウサカメレース{ww}を\n　見に来たのに」{KP}\n　\n「休止だなんて　残念ですわ\n　ピョピョン　ピョピョン！」\n　",
-  "en": ""
+  "en": "\"Mr. Tanuki and I came all the way from Kachi-Kachi Village to see the {bb}Rabbit-Turtle Race{ww},\"{KP}\"and it's been called off. What a shame! Hop hop, hop hop!\""
  },
  {
   "id": "GSV2100D/18/00C0",
   "kind": "msg",
   "jp": "「あら　あなた　そんな…\n　もっと　言って\n　ピョピョン　ピョピョン！」{KP}\n　\n桃太郎は\nムシされた　ようだ！\n　",
-  "en": ""
+  "en": "\"Oh my, dear, you shouldn't... Say more! Hop hop, hop hop!\"{KP}Momotaro seems to have been ignored!"
  },
  {
   "id": "GSV2100D/19/0010",
   "kind": "msg",
   "jp": "「おいおい！　{bb}ウサカメレース{ww}は\n　いつに　なったら　始まるんだい！」\n　",
-  "en": ""
+  "en": "\"Hey, hey! When's the {bb}Rabbit-Turtle Race{ww} ever gonna start?!\""
  },
  {
   "id": "GSV2100D/19/006E",
   "kind": "msg",
   "jp": "「{bb}ウサカメレース{ww}ほど\n　おもしれぇ　レースは　ないぜ！」\n　{KP}\n「なんてったって　全部　あてれば\n　１００両が　６００両だ！」\n　{KP}\n「これほど　こうふんできる\n　レースは　ないぜ！」\n　",
-  "en": ""
+  "en": "\"There's no race more fun than the {bb}Rabbit-Turtle Race{ww}!\"{KP}\"I mean, if you call it all right, 100 ryo turns into 600 ryo!\"{KP}\"No other race gets you this fired up!\""
  },
  {
   "id": "GSV2100D/20/0002",
   "kind": "msg",
   "jp": "「早く　始らないかなぁ！\n　{bb}ウサカメレース{ww}！」\n　{KP}\n「ドキドキするよね！\n　桃太郎さん！」\n　{KP}\n「きっと　いつか　大きくなったら\n　ボクも　かけてやるんだ！」\n　",
-  "en": ""
+  "en": "\"I hope it starts soon! The {bb}Rabbit-Turtle Race{ww}!\"{KP}\"It's so exciting, isn't it, Momotaro-san!\"{KP}\"Someday when I'm all grown up, I'm gonna place bets too!\""
  },
  {
   "id": "GSV2100D/21/0002",
   "kind": "msg",
   "jp": "「ワクワクするわね！\n　あのね　わたしは\n　まだまだ　かけれないけど」{KP}\n　\n「わたしの　予想は\n　はずれないのよ！」\n　{KP}\n「予想の　コツを\n　教えてあげるわ！」\n　{KP}\n「カメさんは　あんまり\n　ウソを　つかない　みたいだし」\n　{KP}\n「ウサギさんは　ウソを\n　つくことが　多いの！」\n　{KP}\n「だから　レースに　出る前に\n　出場者の　話を　よく\n　聞くと　いいわ！」",
-  "en": ""
+  "en": "\"Isn't this exciting! You know, I'm still too young to place bets,\"{KP}\"but my predictions are never wrong!\"{KP}\"I'll tell you the secret to predicting!\"{KP}\"The turtles don't seem to tell many lies,\"{KP}\"but the rabbits lie a lot!\"{KP}\"So before the race, listen carefully to what the runners have to say!\""
  },
  {
   "id": "GSV2100D/22/0002",
   "kind": "msg",
   "jp": "「桃太郎しゃん！\n　がんばって　当ててね！」\n　{KP}\n「当たったら　ごちそうしてね！」\n　\n　",
-  "en": ""
+  "en": "\"Momotaro-shan! Do your best and guess right!\"{KP}\"If you win, tweat me to something yummy!\""
  },
  {
   "id": "GSV2100D/23/0010",
   "kind": "msg",
   "jp": "「子どもたちが　さらわれないように\n　ここで　見はっています！」\n　{KP}\n「でも　{bb}夜叉・キシボ{ww}が　来たら\n　どうしよう…」\n　",
-  "en": ""
+  "en": "\"I'm keeping watch here so the children don't get kidnapped!\"{KP}\"But what do I do if {bb}Yasha Kishibo{ww} comes...\""
  },
  {
   "id": "GSV2100D/23/00A6",
   "kind": "msg",
   "jp": "「桃太郎さん　ありがとう！\n　子どもたちも　元気よく　おもてに\n　出て行きましたよ！」",
-  "en": ""
+  "en": "\"Thank you, Momotaro-san! The children have gone back out to play, full of energy!\""
  },
  {
   "id": "GSV2100D/24/0010",
   "kind": "msg",
   "jp": "「{bb}ウサカメレース{ww}に　出るんですが\n　まだ　調整が　おわらなくて」\n　{KP}\n「ちょっと　走り込まないと！\n　ワッセ　ワッセ！」\n　",
-  "en": ""
+  "en": "\"I'm running in the {bb}Rabbit-Turtle Race{ww}, but I'm not done getting in shape yet.\"{KP}\"I'd better put in some laps! Hup, hup!\""
  },
  {
   "id": "GSV2100D/24/00A8",
   "kind": "msg",
   "jp": "「{bb}ウサカメレース{ww}に　出るんですが\n　そろそろ　調整を　おえないと！」\n　{KP}\n「心が　メカメカ　もえてきたぞ！\n　ワッセ　ワッセ！」\n　",
-  "en": ""
+  "en": "\"I'm running in the {bb}Rabbit-Turtle Race{ww}, so I'd better finish getting in shape soon!\"{KP}\"My heart is whirring and burning, mecha-mecha! Hup, hup!\""
  },
  {
   "id": "GSV2100D/25/0010",
   "kind": "msg",
   "jp": "「ワッセ　ワッセ！\n　こんにちわ　桃太郎さん！」\n　{KP}\n「いつに　なったら　レースが\n　始まるのかな？」\n　",
-  "en": ""
+  "en": "\"Hup, hup! Hello, Momotaro-san!\"{KP}\"I wonder when the race is going to start?\""
  },
  {
   "id": "GSV2100D/25/0092",
   "kind": "msg",
   "jp": "「ワッセ　ワッセ！\n　こんにちわ　桃太郎さん！」\n　{KP}\n「この前　レース中に\n　気がついたんですけど…」\n　{KP}\n「トラックの　中にある\n　はたの　下に　何かが\n　落ちていましたよ！」",
-  "en": ""
+  "en": "\"Hup, hup! Hello, Momotaro-san!\"{KP}\"The other day, I noticed something during a race...\"{KP}\"There was something lying under the flag in the middle of the track!\""
  },
  {
   "id": "GSV2100D/26/0002",
   "kind": "msg",
   "jp": "「さあ　がんばるぞ！\n　ピョピョン！　ピョピョン！」\n　{KP}\n「もう　いつものように\n　レース中に　寝ないぞ！\n　ピョピョン！　ピョピョン！」",
-  "en": ""
+  "en": "\"All right, here I go! Hop hop! Hop hop!\"{KP}\"This time I won't fall asleep in the middle of the race like always! Hop hop! Hop hop!\""
  },
  {
   "id": "GSV2100D/27/0010",
   "kind": "msg",
   "jp": "「ピョピョン！\n　{bb}ウサカメレース{ww}は　まだかなぁ？」\n　{KP}\n「今日は　ゼッコーチョーなのに！」\n　\n　",
-  "en": ""
+  "en": "\"Hop hop! Isn't the {bb}Rabbit-Turtle Race{ww} on yet?\"{KP}\"I'm in tip-top shape today!\""
  },
  {
   "id": "GSV2100D/27/008E",
   "kind": "msg",
   "jp": "「ピョピョン！　ピョピョン！\n　桃太郎さん！」\n　{KP}\n「今日の　オイラは　昨日の\n　オイラとは　ひと味　ちがうぜ！」\n　{KP}\n「ゼッコーチョー！\n　って　感じだな！」\n　",
-  "en": ""
+  "en": "\"Hop hop! Hop hop! Momotaro-san!\"{KP}\"Today's me is a cut above yesterday's me!\"{KP}\"I'm feeling tip-top! Totally!\""
  },
  {
   "id": "GSV2100D/28/0000",
   "kind": "msg",
   "jp": "「{bb}貧乏神・えのん{ww}は\n　{bb}ウサカメレース{ww}で　もうかった人に\n　取りつくのねん！　なんて言って」{KP}\n　\n「ここら辺を　うろちょろ\n　していたんだけど　どこに\n　行ったのかなぁ～？」",
-  "en": ""
+  "en": "\"{bb}Enon the Poverty God{ww} was going, 'I'll latch on to whoever strikes it rich at the {bb}Rabbit-Turtle Race{ww}, nonen!'\"{KP}\"and wandering around here, but where could Enon have gone?\""
  },
  {
   "id": "GSV2100D/29/0010",
   "kind": "msg",
   "jp": "「ここは　{bb}ウサカメレース{ww}で\n　有名な　ウサカメの村じゃよ！」\n　{KP}\n「じゃが　{bb}夜叉・キシボ{ww}の\n　おかげで　{bb}ウサカメレース{ww}は\n　休止状態じゃ！」",
-  "en": ""
+  "en": "\"This is Usakame Village, famous for the {bb}Rabbit-Turtle Race{ww}!\"{KP}\"But thanks to {bb}Yasha Kishibo{ww}, the {bb}Rabbit-Turtle Race{ww} has been called off!\""
  },
  {
   "id": "GSV2100D/29/00C0",
   "kind": "msg",
   "jp": "「ここは　{bb}ウサカメレース{ww}で\n　有名な　ウサカメの村じゃよ！」\n　",
-  "en": ""
+  "en": "\"This is Usakame Village, famous for the {bb}Rabbit-Turtle Race{ww}!\""
  },
  {
   "id": "GSV2100D/30/0010",
   "kind": "msg",
   "jp": "「にゃお～ん」\n　\n　",
-  "en": ""
+  "en": "\"Meeeow...\""
  },
  {
   "id": "GSV2100D/30/004E",
   "kind": "msg",
   "jp": "「{bb}サンマ{ww}を　くれたら\n　いいことを　教えてあげるニャン！」\n　",
-  "en": ""
+  "en": "\"If you give me a {bb}saury{ww}, I'll tell you something good, meow!\""
  },
  {
   "id": "GSV2100D/30/00A2",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}{MM}{ww}を　わたした！\n　",
-  "en": ""
+  "en": "Momotaro handed over {bb}{MM}{ww}!"
  },
  {
   "id": "GSV2100D/30/00D4",
   "kind": "msg",
   "jp": "「ありがとうニャン！\n　じゃ！　いいことを　教えて\n　あげるニャン！」{KP}\n　\n「そこの　家の　裏庭に\n　光る物が　落ちているニャン！」\n　",
-  "en": ""
+  "en": "\"Thank you, meow! All right! I'll tell you something good, meow!\"{KP}\"There's something shiny lying in the backyard of that house there, meow!\""
  },
  {
   "id": "GSV2100D/30/0180",
   "kind": "msg",
   "jp": "「そこの　家の　裏庭は\n　もう　しらべたニャン！？」\n　",
-  "en": ""
+  "en": "\"Have you checked the backyard of that house yet, meow?!\""
  },
  {
   "id": "GSV2100D/31/0070",
   "kind": "msg",
   "jp": "「桃太郎さんよ！\n　{bb}種まきドンドン！{ww}を　やるべか？」\n　{KN}",
-  "en": ""
+  "en": "\"Momotaro-san! Ya wanna play {bb}Sowing Don-Don!{ww}?\"{KN}"
  },
  {
   "id": "GSV2100D/31/00CC",
   "kind": "msg",
   "jp": "「よーし！\n　オラの　ちからを　見せてやるべ！」\n　",
-  "en": ""
+  "en": "\"Righty! I'll show ya what I'm made of!\""
  },
  {
   "id": "GSV2100D/31/0110",
   "kind": "msg",
   "jp": "「遊び方の説明を　聞きますか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Would you like to hear how to play?\"{KN}"
  },
  {
   "id": "GSV2100D/31/0174",
   "kind": "msg",
   "jp": "「にげるか　桃太郎さん！」\n　\n　",
-  "en": ""
+  "en": "\"Runnin' away, Momotaro-san?!\""
  },
  {
   "id": "GSV2100D/32/0010",
   "kind": "msg",
   "jp": "桃太郎は\nはたを　しらべた！\n　{KP}\nなんと！\n{bb}ゲンの皿{ww}を　見つけた！\n　",
-  "en": ""
+  "en": "Momotaro examined the flag!{KP}What's this! He found the {bb}Gen Plate{ww}!"
  },
  {
   "id": "GSV2100D/32/0070",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}ゲンの皿{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Gen Plate{ww}!{KN}"
  },
  {
   "id": "GSV2100D/32/00B4",
   "kind": "msg",
   "jp": "桃太郎は\n足もとを　しらべた！\n　{KP}\nしかし　気になるものは\n何もなかった！\n　",
-  "en": ""
+  "en": "Momotaro examined the ground at his feet!{KP}But there was nothing of interest!"
  },
  {
   "id": "GSV2100D/33/0010",
   "kind": "msg",
   "jp": "桃太郎は\n足もとを　しらべた！\n　{KP}\nなんと！\n{bb}雷玉{ww}を　見つけた！\n　",
-  "en": ""
+  "en": "Momotaro examined the ground at his feet!{KP}What's this! He found a {bb}Thunder Ball{ww}!"
  },
  {
   "id": "GSV2100D/33/006E",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}雷玉{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got a {bb}Thunder Ball{ww}!{KN}"
  },
  {
   "id": "GSV2100D/33/00AE",
   "kind": "msg",
   "jp": "桃太郎は\n足もとを　しらべた！\n　{KP}\nしかし　気になるものは\n何もなかった！\n　",
-  "en": ""
+  "en": "Momotaro examined the ground at his feet!{KP}But there was nothing of interest!"
  }
 ]

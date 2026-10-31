@@ -3,12 +3,12 @@
   "id": "GSV1619D/2/001C",
   "kind": "msg",
   "jp": "「ムフフフ\n　また　来たか　桃太郎！」\n　{KP}\n「わざわいの　とびらを　あける\n　{bb}鐘{ww}は　これで　３つ\n　そろったぜ！」{KP}\n　\n「いよいよ　あと　１つだぜ！」\n　\n　{KP}\n「この　{bb}鐘{ww}を　取り戻したくば\n　いざ　勝負！」\n　",
-  "en": ""
+  "en": "\"Muhuhuhu! So you came back, Momotaro!\"{KP}\"With this, I've got 3 of the {bb}bells{ww} that open the door of calamity!\"{KP}\"Just 1 more to go!\"{KP}\"If you want this {bb}bell{ww} back, then let's settle this!\""
  },
  {
   "id": "GSV1619D/2/013A",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}赤の鐘{ww}を　取り戻した！\n{KN}",
-  "en": ""
+  "en": "Momotaro took back the {bb}Red Bell{ww}!{KN}"
  }
 ]

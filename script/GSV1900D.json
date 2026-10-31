@@ -3,12 +3,12 @@
   "id": "GSV1900D/2/000A",
   "kind": "msg",
   "jp": "この大岩は\n{bb}爆薬{ww}でも　使わないかぎり\n消せないようだ！",
-  "en": ""
+  "en": "It seems this boulder can't be removed without using {bb}explosives{ww}!"
  },
  {
   "id": "GSV1900D/2/0056",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}{MM}{ww}を　しかけた！\n　",
-  "en": ""
+  "en": "Momotaro set the {bb}{MM}{ww}!"
  }
 ]

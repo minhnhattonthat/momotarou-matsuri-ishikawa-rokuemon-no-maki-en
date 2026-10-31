@@ -3,42 +3,42 @@
   "id": "GSV1613D/2/0018",
   "kind": "msg",
   "jp": "「これは　桃太郎さん！\n　よく　おいでなされた！」\n　{KP}\n「また　{bb}都でＧＯ！{ww}に\n　ちょうせん　しますかな？」\n　{KN}",
-  "en": ""
+  "en": "\"Why, Momotaro-san! How good of you to come!\"{KP}\"Will you take on {bb}Capital de GO!{ww} again?\"{KN}"
  },
  {
   "id": "GSV1613D/2/00A6",
   "kind": "msg",
   "jp": "「これは　桃太郎さん！\n　よく　おいでなされた！」\n　{KP}\n「今　希望の都では　楽しい\n　ゆうぎを　やってますぞ！」\n　{KP}\n「その名も…　{bb}都でＧＯ！{ww}」\n　\n　{KP}\n「１分２０秒以内で\n　希望の都を　回ると…」\n　{KP}\n「すばらしい　記念品を\n　さしあげて　おります！」\n　{KP}\n「{bb}都でＧＯ！{ww}に\n　ちょうせん　しますかな？」\n　{KN}",
-  "en": ""
+  "en": "\"Why, Momotaro-san! How good of you to come!\"{KP}\"Right now there's a fun game on in the Capital of Hope!\"{KP}\"It goes by the name... {bb}Capital de GO!{ww}\"{KP}\"Get all the way around the Capital of Hope within 1 minute 20 seconds...\"{KP}\"and we'll present you with a splendid prize!\"{KP}\"Will you take on {bb}Capital de GO!{ww}?\"{KN}"
  },
  {
   "id": "GSV1613D/2/0224",
   "kind": "msg",
   "jp": "「遊び方の説明を　聞きますか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Would you like to hear how to play?\"{KN}"
  },
  {
   "id": "GSV1613D/2/0298",
   "kind": "msg",
   "jp": "「ちょうせん　したい時は\n　いつでも　声を　かけてくだされ！」\n　",
-  "en": ""
+  "en": "\"Whenever you want to take the challenge, just give me a shout!\""
  },
  {
   "id": "GSV1613D/2/02E8",
   "kind": "msg",
   "jp": "「気が向いたら\n　また　ちょうせん　してくだされ！」\n　",
-  "en": ""
+  "en": "\"If you feel like it, come and take the challenge again!\""
  },
  {
   "id": "GSV1613D/2/0342",
   "kind": "msg",
   "jp": "「おお！　さすがは　桃太郎さん！\n　見事な記録　ですな！」\n　",
-  "en": ""
+  "en": "\"Oh! As expected of Momotaro-san! A splendid time!\""
  },
  {
   "id": "GSV1613D/2/0398",
   "kind": "msg",
   "jp": "「さすがの　桃太郎さんでも\n　手間取ることが　あるのですな！」\n　{KP}\n「ん～！\n　期待はずれの記録　でしたな！」\n　",
-  "en": ""
+  "en": "\"So even the great Momotaro-san can get held up!\"{KP}\"Hmm! That time was a letdown!\""
  }
 ]

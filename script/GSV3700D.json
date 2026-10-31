@@ -15,7 +15,7 @@
   "id": "GSV3700D/3/0074",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}{MM}{ww}を　使った！\n　",
-  "en": ""
+  "en": "Momotaro used {bb}{MM}{ww}!"
  },
  {
   "id": "GSV3700D/3/00A4",
@@ -117,7 +117,7 @@
   "id": "GSV3700D/7/0070",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}{MM}{ww}を　使った！\n　",
-  "en": ""
+  "en": "Momotaro used {bb}{MM}{ww}!"
  },
  {
   "id": "GSV3700D/7/00A0",
@@ -243,7 +243,7 @@
   "id": "GSV3700D/12/007E",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}{MM}{ww}を　使った！\n　",
-  "en": ""
+  "en": "Momotaro used {bb}{MM}{ww}!"
  },
  {
   "id": "GSV3700D/12/00AE",

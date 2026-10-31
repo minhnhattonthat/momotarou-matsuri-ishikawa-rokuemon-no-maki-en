@@ -3,90 +3,90 @@
   "id": "GSV0208D/0/0032",
   "kind": "msg",
   "jp": "「ちょっと　ちょっと　お客さん！\n　勝手に　プレイしようなんて\n　かんべんしてくださいよ～～！」",
-  "en": ""
+  "en": "\"Hey, hey, hold it, customer! Please don't go playing without asking!\""
  },
  {
   "id": "GSV0208D/0/00DC",
   "kind": "msg",
   "jp": "「ちょっと　ちょっと　お客さん！\n　勝手に　プレイしようなんて\n　かんべんしてくださいよ～～！」",
-  "en": ""
+  "en": "\"Hey, hey, hold it, customer! Please don't go playing without asking!\""
  },
  {
   "id": "GSV0208D/3/001E",
   "kind": "msg",
   "jp": "「いらっしゃいませ！\n　{bb}金魚すくい{ww}が\n　楽しめます」{KN}",
-  "en": ""
+  "en": "\"Welcome! Here you can enjoy {bb}Goldfish Scooping{ww}.\"{KN}"
  },
  {
   "id": "GSV0208D/3/006C",
   "kind": "msg",
   "jp": "「いらっしゃいませ！\n　{bb}金魚すくい{ww}が\n　５０両で楽しめます」{KN}",
-  "en": ""
+  "en": "\"Welcome! You can enjoy {bb}Goldfish Scooping{ww} for 50 ryo.\"{KN}"
  },
  {
   "id": "GSV0208D/3/00F6",
   "kind": "msg",
   "jp": "　\n「またのおこしを」\n　\n　",
-  "en": ""
+  "en": "\"Do come again.\""
  },
  {
   "id": "GSV0208D/3/015E",
   "kind": "msg",
   "jp": "「遊び方の説明を　聞きますか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Would you like to hear how to play?\"{KN}"
  },
  {
   "id": "GSV0208D/3/01D4",
   "kind": "msg",
   "jp": "　\n「桃太郎さん　\n　お金がたりませんよ！」\n　{KP}\n「またのおこしを」\n　\n　",
-  "en": ""
+  "en": "\"Momotaro-san, you don't have enough money!\"{KP}\"Do come again.\""
  },
  {
   "id": "GSV0208D/4/001E",
   "kind": "msg",
   "jp": "「いらっしゃいませ！\n　{bb}花火色合わせ！{ww}が\n　楽しめます」{KN}",
-  "en": ""
+  "en": "\"Welcome! Here you can enjoy {bb}Firework Color Match!{ww}\"{KN}"
  },
  {
   "id": "GSV0208D/4/0070",
   "kind": "msg",
   "jp": "「いらっしゃいませ！\n　{bb}花火色合わせ！{ww}が\n　５０両で楽しめます」{KN}",
-  "en": ""
+  "en": "\"Welcome! You can enjoy {bb}Firework Color Match!{ww} for 50 ryo.\"{KN}"
  },
  {
   "id": "GSV0208D/4/00FE",
   "kind": "msg",
   "jp": "　\n「またのおこしを」\n　\n　",
-  "en": ""
+  "en": "\"Do come again.\""
  },
  {
   "id": "GSV0208D/4/0166",
   "kind": "msg",
   "jp": "「遊び方の説明を　聞きますか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Would you like to hear how to play?\"{KN}"
  },
  {
   "id": "GSV0208D/4/01DC",
   "kind": "msg",
   "jp": "　\n「桃太郎さん　\n　お金がたりませんよ！」\n　{KP}\n「またのおこしを」\n　\n　",
-  "en": ""
+  "en": "\"Momotaro-san, you don't have enough money!\"{KP}\"Do come again.\""
  },
  {
   "id": "GSV0208D/5/0002",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　わしが　{bb}金魚すくい{ww}の\n　ヒントを　教えよう！」{KP}\n　\n「大きい　金魚や　デメキンが\n　高得点らしいんじゃ！」\n　{KP}\n「でも　にげられることも\n　多いんだとさ！」\n　",
-  "en": ""
+  "en": "\"Momotaro-san! Let me give you a tip for {bb}Goldfish Scooping{ww}!\"{KP}\"Seems the big goldfish and the pop-eyed ones are worth lots of points!\"{KP}\"But they say they get away a lot, too!\""
  },
  {
   "id": "GSV0208D/6/0002",
   "kind": "msg",
   "jp": "「{bb}金魚すくい{ww}で　あわてると\n　すぐ　金魚に　にげられて\n　しまうわよ！　ピョピョン！」",
-  "en": ""
+  "en": "\"If you rush at {bb}Goldfish Scooping{ww}, the goldfish will get away in no time! Hop hop!\""
  },
  {
   "id": "GSV0208D/7/0002",
   "kind": "msg",
   "jp": "「{bb}金魚すくい{ww}で　免許皆伝を\n　ねらうなら　技を　使わなきゃ！」\n　{KP}\n「１回に　まとめて　２匹\n　すくってみると　わかるわよ！」\n　",
-  "en": ""
+  "en": "\"If you're aiming for Full Mastery in {bb}Goldfish Scooping{ww}, you've got to use technique!\"{KP}\"Try scooping up two at once and you'll see!\""
  }
 ]

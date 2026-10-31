@@ -9,378 +9,378 @@
   "id": "GSV0200D/11/00C6",
   "kind": "msg",
   "jp": "「こまった……　こまっただーっ！\n　{bb}大文字焼き{ww}を　するための　{bb}まき{ww}が\n　ほとんど　盗まれてしまっただ！」{KP}\n　\n「鬼である　おいらに\n　{bb}大文字焼き{ww}を　まかせてくれた\n　村長に　顔向けできねぇ！」",
-  "en": ""
+  "en": "\"Oh no... oh nooo! Almost all the {bb}firewood{ww} for the {bb}Daimonji Bonfire{ww} got stolen!\"{KP}\"The village chief trusted me, an oni, with the {bb}Daimonji Bonfire{ww}! I can't face him now!\""
  },
  {
   "id": "GSV0200D/11/01D4",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}{MM}{ww}を　わたした！\n　",
-  "en": ""
+  "en": "Momotaro handed over {bb}{MM}{ww}!"
  },
  {
   "id": "GSV0200D/11/0206",
   "kind": "msg",
   "jp": "「ん？　今　そんな物を\n　わたされても　こまるだ！」\n　",
-  "en": ""
+  "en": "\"Huh? Handin' me somethin' like that right now ain't gonna help!\""
  },
  {
   "id": "GSV0200D/11/0250",
   "kind": "msg",
   "jp": "「こまった……　こまっただーっ！\n　{bb}大文字焼き{ww}を　するための　{bb}まき{ww}が\n　ほとんど　盗まれてしまっただ！」{KP}\n　\n「鬼である　おいらに\n　{bb}大文字焼き{ww}を　まかせてくれた\n　村長に　顔向けできねぇ！」",
-  "en": ""
+  "en": "\"Oh no... oh nooo! Almost all the {bb}firewood{ww} for the {bb}Daimonji Bonfire{ww} got stolen!\"{KP}\"The village chief trusted me, an oni, with the {bb}Daimonji Bonfire{ww}! I can't face him now!\""
  },
  {
   "id": "GSV0200D/11/035E",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}{MM}{ww}を　わたした！\n　",
-  "en": ""
+  "en": "Momotaro handed over {bb}{MM}{ww}!"
  },
  {
   "id": "GSV0200D/11/03A8",
   "kind": "msg",
   "jp": "「えっ！\n　この地図に　{bb}まき{ww}の　隠し場所が\n　書いてあるのだか……？」{KP}\n　\n「ありがとう　桃太郎さん！\n　さっそく　仲間を　連れて\n　取り返しに　行くだーっ！」{KP}\n　\n「桃太郎さん！\n　夜になったら　{bb}大文字焼き{ww}を\n　お見せするだ………　ではっ！」",
-  "en": ""
+  "en": "\"What! This map shows where the {bb}firewood{ww} is hidden...?\"{KP}\"Thank you, Momotaro-san! I'll round up my buddies and go get it back right away!\"{KP}\"Momotaro-san! When night falls, I'll show you the {bb}Daimonji Bonfire{ww}...... See ya!\""
  },
  {
   "id": "GSV0200D/11/0500",
   "kind": "msg",
   "jp": "やがて　夜になり　{bb}大文字焼き{ww}が\n始まりました！\n　",
-  "en": ""
+  "en": "Before long, night fell, and the {bb}Daimonji Bonfire{ww} began!"
  },
  {
   "id": "GSV0200D/11/0574",
   "kind": "msg",
   "jp": "「えっ！\n　これに　{bb}まき{ww}の　隠し場所が\n　書いてあるのだか………？」{KP}\n　\n「ありがとう　桃太郎さん！\n　さっそく　仲間を　連れて\n　取り返しに　行くだーっ！」",
-  "en": ""
+  "en": "\"What! This shows where the {bb}firewood{ww} is hidden......?\"{KP}\"Thank you, Momotaro-san! I'll round up my buddies and go get it back right away!\""
  },
  {
   "id": "GSV0200D/11/0666",
   "kind": "msg",
   "jp": "しばらくして　{bb}大文字焼き{ww}が\n始まりました！\n　",
-  "en": ""
+  "en": "After a while, the {bb}Daimonji Bonfire{ww} began!"
  },
  {
   "id": "GSV0200D/11/06DE",
   "kind": "msg",
   "jp": "「打ち上げたい　花火が　あったら\n　夜に　オイラの所まで\n　持って来てくだせい！」",
-  "en": ""
+  "en": "\"If you got fireworks you wanna set off, bring 'em to me at night!\""
  },
  {
   "id": "GSV0200D/11/0792",
   "kind": "msg",
   "jp": "「打ち上げたい　花火が　あったら\n　オイラの所まで\n　持って来てくだせい！」",
-  "en": ""
+  "en": "\"If you got fireworks you wanna set off, bring 'em to me!\""
  },
  {
   "id": "GSV0200D/11/07F0",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}{MM}{ww}を　わたした！\n　",
-  "en": ""
+  "en": "Momotaro handed over {bb}{MM}{ww}!"
  },
  {
   "id": "GSV0200D/11/0822",
   "kind": "msg",
   "jp": "「この花火を　打ち上げるだね？\n　………よしきた！」\n　",
-  "en": ""
+  "en": "\"You want this firework set off? ......You got it!\""
  },
  {
   "id": "GSV0200D/11/0972",
   "kind": "msg",
   "jp": "「ありがとう　桃太郎さん！\n　おかげで　{bb}大文字焼き{ww}が\n　無事　おこなえましただ！」{KP}\n　\n「オイラは　これから\n　山の上の　花火打ち上げ会場に\n　行っているので」{KP}\n　\n「何かの花火を　打ち上げたく\n　なったら　オイラの所まで\n　持ってきてくだせい！」",
-  "en": ""
+  "en": "\"Thank you, Momotaro-san! Thanks to you, the {bb}Daimonji Bonfire{ww} went off without a hitch!\"{KP}\"I'll be headin' up to the fireworks launch site on the mountain now,\"{KP}\"so if you ever wanna set off some fireworks, bring 'em to me!\""
  },
  {
   "id": "GSV0200D/12/0002",
   "kind": "msg",
   "jp": "「桃太郎さん！　ゆうぎ場で\n　ゆうぎを　楽しんだら」\n　{KP}\n「ステータスを　ひらいて\n　{bb}巻物の絵{ww}を　選んでみな！」\n　{KP}\n「今まで　遊んだ　ゆうぎの\n　記録が　見られるからさ！」\n　",
-  "en": ""
+  "en": "\"Momotaro-san! Once you've enjoyed the games at the game stalls,\"{KP}\"open Status and try picking the {bb}scroll picture{ww}!\"{KP}\"You can see the records of every game you've played so far!\""
  },
  {
   "id": "GSV0200D/13/0010",
   "kind": "msg",
   "jp": "「最近　{bb}鬼面党{ww}と名のる\n　盗賊団が　この村にも\n　あらわているようなの！」{KP}\n　\n「こわいわ……」\n　\n　",
-  "en": ""
+  "en": "\"Lately a band of thieves calling themselves the {bb}Oni Mask Gang{ww} has been showing up in this village too!\"{KP}\"How scary...\""
  },
  {
   "id": "GSV0200D/13/0096",
   "kind": "msg",
   "jp": "「{bb}鬼面党{ww}の　盗賊たちが\n　改心したという　うわさを\n　聞いたわ！」{KP}\n　\n「あー　よかった！」\n　\n　",
-  "en": ""
+  "en": "\"I heard a rumor that the thieves of the {bb}Oni Mask Gang{ww} have turned over a new leaf!\"{KP}\"Oh, what a relief!\""
  },
  {
   "id": "GSV0200D/14/0010",
   "kind": "msg",
   "jp": "「桃太郎さん　宿屋で　休んでいれば\n　じきに　夜に　なりますよ！」\n　",
-  "en": ""
+  "en": "\"Momotaro-san, if you rest at the inn, it'll be night before you know it!\""
  },
  {
   "id": "GSV0200D/14/0068",
   "kind": "msg",
   "jp": "「桃太郎さん　宿屋で　休んでいれば\n　じきに　朝に　なりますよ！」\n　",
-  "en": ""
+  "en": "\"Momotaro-san, if you rest at the inn, it'll be morning before you know it!\""
  },
  {
   "id": "GSV0200D/15/0010",
   "kind": "msg",
   "jp": "「孫に　お祭りを\n　見せに　来たんですわ」\n　{KP}\n「孫も　楽しそうに　していて\n　よかったですじゃ！」\n　{KP}\n「桃太郎さんが　鬼を\n　こらしめてくれた　おかげじゃて！」\n　",
-  "en": ""
+  "en": "\"I came to show my grandkid the festival, you see.\"{KP}\"I'm glad my grandkid's having such fun!\"{KP}\"It's all thanks to you teaching those oni a lesson, Momotaro-san!\""
  },
  {
   "id": "GSV0200D/15/00D6",
   "kind": "msg",
   "jp": "「こんばんわ　桃太郎さん\n　やっぱり　夜は　ひえますの～」\n　",
-  "en": ""
+  "en": "\"Good evening, Momotaro-san. The nights sure do get chilly...\""
  },
  {
   "id": "GSV0200D/16/0002",
   "kind": "msg",
   "jp": "「ポンポコリン！\n　桃太郎さん　ようこそ！」\n　{KP}\n「昔　ボクたちは　ウサギさんとの\n　仲が　すごく　悪かったんですが」\n　{KP}\n「今は　ごらんの通りに\n　仲良く　なりましたよ！」\n　",
-  "en": ""
+  "en": "\"Ponpokorin! Welcome, Momotaro-san!\"{KP}\"Long ago, we got along terribly with the rabbits, but\"{KP}\"now, as you can see, we're the best of friends!\""
  },
  {
   "id": "GSV0200D/17/0002",
   "kind": "msg",
   "jp": "「ポンポコリン！\n　桃太郎さん　おひさしぶりです！」\n　{KP}\n「もう　ゆうぎ場の中に　\n　入りましたか？」\n　{KP}\n「{bb}金魚すくい{ww}に　{bb}鬼たたき{ww}\n　そして　{bb}偶数タヌキ{ww}！」\n　{KP}\n「どれも　おもしろすぎて\n　お腹が　よじれちゃいますよ！」\n　{KP}\n「さあ　さあ　ぞんぶんに\n　遊んでいって　くださいな！」\n　",
-  "en": ""
+  "en": "\"Ponpokorin! Momotaro-san, long time no see!\"{KP}\"Have you been inside the game stalls yet?\"{KP}\"{bb}Goldfish Scooping{ww}, {bb}Whack-an-Oni{ww}, and {bb}Even Tanuki{ww}!\"{KP}\"They're all so much fun, you'll split your sides laughing!\"{KP}\"Come on, come on, play to your heart's content!\""
  },
  {
   "id": "GSV0200D/18/0002",
   "kind": "msg",
   "jp": "「ピョピョン！\n　ようこそ　カチカチの村へ」\n　{KP}\n「ここは　ウサギとタヌキが\n　仲良く　暮らす　村です」\n　",
-  "en": ""
+  "en": "\"Hop hop! Welcome to Kachi-Kachi Village.\"{KP}\"This is a village where rabbits and tanuki live together as friends.\""
  },
  {
   "id": "GSV0200D/19/0002",
   "kind": "msg",
   "jp": "「ピョピョン！\n　桃太郎さん　おひさしぶりです！」\n　{KP}\n「ゆうぎ場の　ゆうぎを　遊ぶと\n　段を　もらえるんです！」\n　{KP}\n「段が　あがると　家に\n　トロフィーが　とどくんですよ！」\n　{KP}\n「たまには　おじいさんたちが　待つ\n　家に　もどってくださいね！」\n　",
-  "en": ""
+  "en": "\"Hop hop! Momotaro-san, long time no see!\"{KP}\"When you play the games at the game stalls, you can earn levels!\"{KP}\"And when your level goes up, trophies get delivered to your house!\"{KP}\"Go back home now and then, where your grandpa and grandma are waiting!\""
  },
  {
   "id": "GSV0200D/20/0002",
   "kind": "msg",
   "jp": "「ピョピョン\n　楽しいですね　桃太郎さん！」\n　{KP}\n「お祭りなら　この先の\n　神社の　前で　やってますよ」\n　",
-  "en": ""
+  "en": "\"Hop hop! Isn't this fun, Momotaro-san!\"{KP}\"The festival's being held up ahead, in front of the shrine.\""
  },
  {
   "id": "GSV0200D/21/0026",
   "kind": "msg",
   "jp": "「ピョピョン　ピョピョン！\n　桃太郎さん！」\n　{KP}\n「カチカチの村の　お祭りに\n　ようこそ！」\n　{KP}\n「{bb}おむすび村の村長{ww}も　来てますよ！\n　お祭り好きで　有名なんです！」\n　{KP}\n「{bb}大文字焼き{ww}を　見るため　今は\n　宿屋で　休まれています！」\n　",
-  "en": ""
+  "en": "\"Hop hop, hop hop! Momotaro-san!\"{KP}\"Welcome to the Kachi-Kachi Village festival!\"{KP}\"The {bb}Omusubi Village Chief{ww} is here too! He's famous for loving festivals!\"{KP}\"He's resting at the inn right now so he can see the {bb}Daimonji Bonfire{ww}!\""
  },
  {
   "id": "GSV0200D/21/013E",
   "kind": "msg",
   "jp": "「ピョピョン　ピョピョン！\n　桃太郎さん！」\n　{KP}\n「{bb}おむすび村の村長{ww}が\n　桃太郎さんを　さがして\nいましたよ！　ピョン！」",
-  "en": ""
+  "en": "\"Hop hop, hop hop! Momotaro-san!\"{KP}\"The {bb}Omusubi Village Chief{ww} was looking for you, Momotaro-san! Hop!\""
  },
  {
   "id": "GSV0200D/21/01D4",
   "kind": "msg",
   "jp": "「ピョピョン　ピョピョン！\n　桃太郎さん！」\n　{KP}\n「おや！　おむすび村の村長さんも\n　ごいっしょで　どちらに？」\n　{KP}\n「ああ　おむすび村に\n　おもどりなんですね！」\n　",
-  "en": ""
+  "en": "\"Hop hop, hop hop! Momotaro-san!\"{KP}\"Oh my! You're with the Omusubi Village Chief too. Where are you off to?\"{KP}\"Ah, you're heading back to Omusubi Village!\""
  },
  {
   "id": "GSV0200D/21/0298",
   "kind": "msg",
   "jp": "「そうじゃ！　カチカチの村を\n　出て　少し　北に　行けば\n　おむすび村じゃからのォ！」{KP}\n　\n「いや～\n　お祭りは　楽しかったぞい！」\n　",
-  "en": ""
+  "en": "\"That's right! Leave Kachi-Kachi Village and head a little north, and you'll reach Omusubi Village!\"{KP}\"Ahh, the festival was such fun!\""
  },
  {
   "id": "GSV0200D/21/033A",
   "kind": "msg",
   "jp": "「ピョピョン　ピョピョン！\n　桃太郎さん！」\n　{KP}\n「おむすび村の村長は　ホントに\n　お祭り好き　なんですね！」\n　",
-  "en": ""
+  "en": "\"Hop hop, hop hop! Momotaro-san!\"{KP}\"The Omusubi Village Chief really does love festivals, doesn't he!\""
  },
  {
   "id": "GSV0200D/22/000A",
   "kind": "msg",
   "jp": "「{bb}カチカチ大レース{ww}で\n　勝負　しますか？」\n　{KN}",
-  "en": ""
+  "en": "\"Want to compete in the {bb}Great Kachi-Kachi Race{ww}?\"{KN}"
  },
  {
   "id": "GSV0200D/22/0060",
   "kind": "msg",
   "jp": "「遊び方の説明を　聞きますか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Would you like to hear how to play?\"{KN}"
  },
  {
   "id": "GSV0200D/22/00A0",
   "kind": "msg",
   "jp": "「じゃあ　はじめますよ！」\n　\n　",
-  "en": ""
+  "en": "\"All right, let's begin!\""
  },
  {
   "id": "GSV0200D/22/00F2",
   "kind": "msg",
   "jp": "「気が向いたら\n　いつでも　言ってくださいね！」\n　",
-  "en": ""
+  "en": "\"Just say the word whenever you feel like it!\""
  },
  {
   "id": "GSV0200D/23/0012",
   "kind": "msg",
   "jp": "「よく　きたな！\n　桃太郎！　待ってたクリ！」\n　{KP}\n「オラの　名前は\n　{bb}栗太郎{ww}だ！」\n　{KP}\n「オラ　{bb}鬼面党{ww}が盗んだ\n　{bb}まき{ww}の　隠し場所を\n　知っているクリ！」{KP}\n　\n「ここに　その場所を　書いた\n　{bb}地図{ww}が　あるクリ！」\n　{KP}\n「やい！　桃太郎！\n　これが　ほしかったら　オラと\n　勝負するクリ！」{KP}\n　\n「{bb}カチカチ大レース{ww}で\n　オラに　勝てたら　\n　この　{bb}地図{ww}を　やるクリ！」{KP}\n　\n「ちょうせん　してみるクリ？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"So you came! Momotaro! I've been waitin' for you, kuri!\"{KP}\"The name's {bb}Kuritaro{ww}!\"{KP}\"I know where the {bb}Oni Mask Gang{ww} hid the {bb}firewood{ww} they stole, kuri!\"{KP}\"I've got a {bb}map{ww} right here that shows the spot, kuri!\"{KP}\"Hey! Momotaro! If you want this, you gotta take me on, kuri!\"{KP}\"If you can beat me in the {bb}Great Kachi-Kachi Race{ww}, I'll give you this {bb}map{ww}, kuri!\"{KP}\"You wanna try, kuri?\"{KN}"
  },
  {
   "id": "GSV0200D/23/0214",
   "kind": "msg",
   "jp": "「遊び方の説明を　聞きますか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Would you like to hear how to play?\"{KN}"
  },
  {
   "id": "GSV0200D/23/0254",
   "kind": "msg",
   "jp": "「桃太郎！\n　いざ！　勝負クリ！」\n　",
-  "en": ""
+  "en": "\"Momotaro! Here we go! Bring it on, kuri!\""
  },
  {
   "id": "GSV0200D/23/02AA",
   "kind": "msg",
   "jp": "「やっぱり！\n　桃太郎なんて\n　いくじなしだクリ！」",
-  "en": ""
+  "en": "\"I knew it! Momotaro's just a big scaredy-cat, kuri!\""
  },
  {
   "id": "GSV0200D/23/0330",
   "kind": "msg",
   "jp": "「なんだ　天下の　桃太郎も\n　たいしたこと　ないクリ！」\n　{KP}\n「クリ　クリ　クリ\n　もう一度　やるクリ？」\n　{KN}",
-  "en": ""
+  "en": "\"Huh, so the great Momotaro's nothin' special after all, kuri!\"{KP}\"Kuri kuri kuri! Wanna go again, kuri?\"{KN}"
  },
  {
   "id": "GSV0200D/23/03BC",
   "kind": "msg",
   "jp": "「なんだ　天下の　桃太郎も\n　たいしたこと　ないクリ！」\n　{KP}\n「もう　いいかげん\n　あきらめたら　どうクリ？」\n　{KN}",
-  "en": ""
+  "en": "\"Huh, so the great Momotaro's nothin' special after all, kuri!\"{KP}\"Why don't you just give up already, kuri?\"{KN}"
  },
  {
   "id": "GSV0200D/23/0454",
   "kind": "msg",
   "jp": "「あきらめるクリ？\n　……しようがないクリ　{bb}地図{ww}を\n　くれてやるクリ！」",
-  "en": ""
+  "en": "\"You givin' up, kuri? ...Can't be helped, kuri. I'll let you have the {bb}map{ww}, kuri!\""
  },
  {
   "id": "GSV0200D/23/04B4",
   "kind": "msg",
   "jp": "「まだまだ　やるきクリね！\n　もう一度　やるクリ？」\n　{KN}",
-  "en": ""
+  "en": "\"Still raring to go, kuri! Wanna go again, kuri?\"{KN}"
  },
  {
   "id": "GSV0200D/23/0504",
   "kind": "msg",
   "jp": "「おまえなんか…！」\n　\n　{KP}\n「おまえなんか　あんちゃんに\n　くらべれば　たいしたこと\n　ないんだからな！」{KP}\n　\n「こんな　ものー！\n　……覚えてろクリ！」\n　",
-  "en": ""
+  "en": "\"You're...!\"{KP}\"You're nothin' special compared to my big bro!\"{KP}\"Take this stupid thing! ...You'll be sorry, kuri!\""
  },
  {
   "id": "GSV0200D/23/05C6",
   "kind": "msg",
   "jp": "栗太郎は　{bb}地図{ww}を　ほうり投げた！\n　\n　",
-  "en": ""
+  "en": "Kuritaro tossed the {bb}map{ww} away!"
  },
  {
   "id": "GSV0200D/23/0630",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}地図{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}map{ww}!{KN}"
  },
  {
   "id": "GSV0200D/24/0010",
   "kind": "msg",
   "jp": "「いや～！\n　今回の　{bb}大文字焼き{ww}は\n　すばらしかったのォ～！」{KP}\n　\n「何やら　また　桃太郎さんの\n　かつやくで　{bb}大文字焼き{ww}が\n　見れるように　なったとか…」{KP}\n　\n「わしからも　礼を\n　言わせて　もらいますぞ！」\n　{KP}\n「……おお　そうじゃ！\n　桃太郎さん！」\n　{KP}\n「よろしかったら\n　{bb}おむすび村{ww}に　いっしょに\n　行かんかのォ？」{KP}\n　\n「みなも　喜ぶと思うし\n　今回の　お礼に　ごちそう\n　したいんでのォ！」",
-  "en": ""
+  "en": "\"Ahh! This year's {bb}Daimonji Bonfire{ww} was simply splendid!\"{KP}\"I hear it's thanks to you once again, Momotaro-san, that we got to see the {bb}Daimonji Bonfire{ww}...\"{KP}\"Allow me to thank you as well!\"{KP}\"...Oh, that's right! Momotaro-san!\"{KP}\"If you like, why not come with me to {bb}Omusubi Village{ww}?\"{KP}\"I'm sure everyone would be delighted, and I'd like to treat you to a feast as thanks!\""
  },
  {
   "id": "GSV0200D/24/01E4",
   "kind": "msg",
   "jp": "{bb}おむすび村の村長{ww}が\n仲間に　くわわった！\n　{KN}",
-  "en": ""
+  "en": "The {bb}Omusubi Village Chief{ww} joined the party!{KN}"
  },
  {
   "id": "GSV0200D/24/0236",
   "kind": "msg",
   "jp": "「では　桃太郎さん\n　いっしょに　{bb}おむすび村{ww}に\n　行きましょうかのォ！」",
-  "en": ""
+  "en": "\"Well then, Momotaro-san, shall we head to {bb}Omusubi Village{ww} together?\""
  },
  {
   "id": "GSV0200D/24/0294",
   "kind": "msg",
   "jp": "「いや～！\n　今回の　{bb}大文字焼き{ww}は\n　すばらしかったのォ～！」{KP}\n　\n「何やら　また　桃太郎さんの\n　かつやくで　{bb}大文字焼き{ww}が\n　見れるように　なったとか…」{KP}\n　\n「わしからも　礼を\n　言わせて　もらいますぞ！」\n　{KP}\n「んっ？　なに　なに\n　{bb}おむすび村{ww}の　出口をあける？\n　……おお　そうじゃのォ！」{KP}\n　\n「{bb}おむすび村{ww}の　出口を\n　あけておかなければ」\n　{KP}\n「桃太郎さんが　旅を\n　つづけることが\n　できないのォ！」{KP}\n　\n「では　桃太郎さん\n　いっしょに　{bb}おむすび村{ww}に\n　行きましょうかのォ！」",
-  "en": ""
+  "en": "\"Ahh! This year's {bb}Daimonji Bonfire{ww} was simply splendid!\"{KP}\"I hear it's thanks to you once again, Momotaro-san, that we got to see the {bb}Daimonji Bonfire{ww}...\"{KP}\"Allow me to thank you as well!\"{KP}\"Hm? What's that? Open the exit of {bb}Omusubi Village{ww}? ...Oh, that's right!\"{KP}\"If I don't open the exit of {bb}Omusubi Village{ww},\"{KP}\"Momotaro-san won't be able to continue his journey!\"{KP}\"Well then, Momotaro-san, shall we head to {bb}Omusubi Village{ww} together?\""
  },
  {
   "id": "GSV0200D/24/04D0",
   "kind": "msg",
   "jp": "{bb}おむすび村の村長{ww}が\n仲間に　くわわった！\n　{KN}",
-  "en": ""
+  "en": "The {bb}Omusubi Village Chief{ww} joined the party!{KN}"
  },
  {
   "id": "GSV0200D/25/0010",
   "kind": "msg",
   "jp": "「桃太郎よ！　元気にしておったか！\n　今日は　お祭りじゃ！」\n　{KP}\n「ゆっくりと\n　楽しんで　いくがいい！」\n　",
-  "en": ""
+  "en": "\"Momotaro! Have you been well? Today's the festival!\"{KP}\"Take your time and enjoy yourself!\""
  },
  {
   "id": "GSV0200D/25/0096",
   "kind": "msg",
   "jp": "「桃太郎よ！　{bb}カチカチ大レース{ww}に\n　参加するなら　気をつけるんじゃ」\n　{KP}\n「イタズラずきの　タヌキが\n　いろんなものに　化けて　おる！」\n　{KP}\n「レースの　最中に\n　ぶつからんようにな！」\n　",
-  "en": ""
+  "en": "\"Momotaro! If you're entering the {bb}Great Kachi-Kachi Race{ww}, be careful.\"{KP}\"Those prankster tanuki have disguised themselves as all sorts of things!\"{KP}\"Mind you don't bump into them during the race!\""
  },
  {
   "id": "GSV0200D/26/0010",
   "kind": "msg",
   "jp": "「おお　桃太郎！　鬼退治\n　ホントに　ごくろうじゃった！」\n　{KP}\n「カチカチの村で　お祭りが\n　できるのも　おまえの　おかげじゃ」\n　",
-  "en": ""
+  "en": "\"Oh, Momotaro! You truly did well, driving off those oni!\"{KP}\"It's thanks to you that Kachi-Kachi Village can hold a festival.\""
  },
  {
   "id": "GSV0200D/26/00AC",
   "kind": "msg",
   "jp": "「桃太郎よ！　{bb}カチカチ大レース{ww}に\n　参加するなら　気をつけるんじゃ」\n　{KP}\n「イタズラずきの　タヌキが\n　いろんなものに　化けておる！」\n　{KP}\n「とくに　おおきな　岩に\n　化けているのには　注意じゃ！」\n　{KP}\n「ドスン！　と地面を　ゆらされると\n　ダメージを　受けてしまうので\n　ジャンプして　よけるのじゃ！」",
-  "en": ""
+  "en": "\"Momotaro! If you're entering the {bb}Great Kachi-Kachi Race{ww}, be careful.\"{KP}\"Those prankster tanuki have disguised themselves as all sorts of things!\"{KP}\"Watch out especially for the ones disguised as big boulders!\"{KP}\"When they shake the ground with a THUD, you'll take damage, so jump to dodge it!\""
  },
  {
   "id": "GSV0200D/27/0010",
   "kind": "msg",
   "jp": "「桃太郎よ！\n　お祭りは　楽しいのォ！」\n　{KP}\n「わしも　ゆうぎ場とやらで\n　遊んで　みたいわい！」\n　",
-  "en": ""
+  "en": "\"Momotaro! Festivals sure are fun, eh!\"{KP}\"I'd like to try playing at one of those game stall things myself!\""
  },
  {
   "id": "GSV0200D/27/008E",
   "kind": "msg",
   "jp": "「桃太郎よ！　{bb}カチカチ大レース{ww}に\n　参加するなら　気をつけるんじゃ」\n　{KP}\n「イタズラずきの　タヌキが\n　いろんなものに　化けておる！」\n　{KP}\n「さらに　落とし穴や　強い風にも\n　要注意じゃ！」\n　{KP}\n「しかしな　桃太郎よ！\n　悪いことばかりでは　ない！」\n　{KP}\n「すずめたちが　助けてくれるぞ！\n　すずめたちを　見つけたら\n　助けてもらうがいい！」",
-  "en": ""
+  "en": "\"Momotaro! If you're entering the {bb}Great Kachi-Kachi Race{ww}, be careful.\"{KP}\"Those prankster tanuki have disguised themselves as all sorts of things!\"{KP}\"And keep a sharp eye out for pitfalls and strong winds, too!\"{KP}\"But listen, Momotaro! It's not all bad news!\"{KP}\"The sparrows will help you out! If you find the sparrows, let them lend you a hand!\""
  },
  {
   "id": "GSV0200D/28/0010",
   "kind": "msg",
   "jp": "「おお　桃太郎よ！\n　元気に　しておったか！」\n　{KP}\n「カチカチ山では\n　お祭りを　やってる間」\n　{KP}\n「{bb}カチカチ大レース{ww}　という\n　ゆうぎを　やるそうじゃ！」\n　{KP}\n「もう　しばらくしたら\n　始まるそうじゃから」\n　{KP}\n「そのころに\n　また　来てみるが　いい！」\n　",
-  "en": ""
+  "en": "\"Oh, Momotaro! Have you been well?\"{KP}\"I hear that on Mt. Kachi-Kachi, while the festival is on,\"{KP}\"they're holding a game called the {bb}Great Kachi-Kachi Race{ww}!\"{KP}\"They say it'll start in a little while,\"{KP}\"so come back around then!\""
  },
  {
   "id": "GSV0200D/28/0142",
   "kind": "msg",
   "jp": "「桃太郎よ！　{bb}カチカチ大レース{ww}に\n　参加するなら　気をつけることじゃ」\n　{KP}\n「{bb}カチカチ大レース{ww}は\n　ほかの　ゆうぎと　ちがって」\n　{KP}\n「勝たないと　ゆうぎアルバムには\n　登録されないんじゃ！」\n　{KP}\n「あきらめずに　がんばるのじゃぞ！」\n　\n　",
-  "en": ""
+  "en": "\"Momotaro! If you're entering the {bb}Great Kachi-Kachi Race{ww}, here's something to keep in mind.\"{KP}\"The {bb}Great Kachi-Kachi Race{ww} isn't like the other games.\"{KP}\"Unless you win, it won't get recorded in the Game Album!\"{KP}\"Don't give up, and give it your all!\""
  },
  {
   "id": "GSV0200D/29/0002",
   "kind": "msg",
   "jp": "「桃太郎よ！　大切な　道具を\n　人に　わたす時は　△ボタンで\n　コマンドメニューを　ひらいて」{KP}\n　\n「{bb}だいじなものコマンド{ww}を\n　使うのじゃ！」\n　",
-  "en": ""
+  "en": "\"Momotaro! When you want to hand an important item to someone, press the Triangle button to open the command menu\"{KP}\"and use the {bb}Key Items command{ww}!\""
  },
  {
   "id": "GSV0200D/30/0002",
   "kind": "msg",
   "jp": "「どっちの　ゆうぎ場に　行こうか\n　まよっちゃうよ！」\n　",
-  "en": ""
+  "en": "\"I can't decide which game stall to go to!\""
  },
  {
   "id": "GSV0200D/31/001C",
   "kind": "msg",
   "jp": "「おまえ　桃太郎やな！\n　鬼面党に　いどむとは　生意気や！」\n　{KP}\n「ワシの　ちからを　見せてやるで！\n　ほな　行くで！」\n　",
-  "en": ""
+  "en": "\"You're Momotaro, ain't ya! You got some nerve takin' on the Oni Mask Gang!\"{KP}\"I'll show ya what I'm made of! Here I come!\""
  },
  {
   "id": "GSV0200D/32/0002",
   "kind": "msg",
   "jp": "「ひさしぶりじゃな　桃太郎！\n　今　{bb}カチカチの村{ww}は　お祭りで\n　おおにぎわいじゃ！」{KP}\n　\n「この村の　夜は　長いぞ！」\n　\n　",
-  "en": ""
+  "en": "\"Long time no see, Momotaro! {bb}Kachi-Kachi Village{ww} is bustling with the festival right now!\"{KP}\"The nights in this village are long!\""
  }
 ]

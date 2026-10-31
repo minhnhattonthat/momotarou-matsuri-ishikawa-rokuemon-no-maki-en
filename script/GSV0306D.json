@@ -3,30 +3,30 @@
   "id": "GSV0306D/2/003A",
   "kind": "msg",
   "jp": "「うちの　{bb}村長{ww}は　大の　お祭り好きで\n　今も　ひとりで　{bb}カチカチの村{ww}に\n　行ってるんです！」",
-  "en": ""
+  "en": "\"Our {bb}chief{ww} is a huge festival fan. He's gone off to {bb}Kachi-Kachi Village{ww} all by himself right now!\""
  },
  {
   "id": "GSV0306D/2/00B0",
   "kind": "msg",
   "jp": "「どうしたんですか？　桃太郎さん\n　そんなに　ふとって　しまって！」\n　",
-  "en": ""
+  "en": "\"What happened, Momotaro-san? You've gotten so fat!\""
  },
  {
   "id": "GSV0306D/2/010A",
   "kind": "msg",
   "jp": "「{bb}村長{ww}なら　村の　東の\n　家に　いるはずですよ！」\n　",
-  "en": ""
+  "en": "\"If you're looking for the {bb}chief{ww}, he should be in the house on the east side of the village!\""
  },
  {
   "id": "GSV0306D/2/0156",
   "kind": "msg",
   "jp": "「これで　{bb}金太郎の村{ww}の\n　お祭りも　見に行けますね！」\n　{KP}\n「うちの　村長も\n　行きたいんでしょうね！」\n　",
-  "en": ""
+  "en": "\"Now you can go see the festival in {bb}Kintaro Village{ww} too!\"{KP}\"I bet our chief wants to go as well!\""
  },
  {
   "id": "GSV0306D/2/01DE",
   "kind": "msg",
   "jp": "「村長なら　金太郎の村に\n　行っちゃいましたよ！」\n　{KP}\n「行きたがってましたからねぇ！\n　しかたないですよ！」\n　",
-  "en": ""
+  "en": "\"The chief? He's gone off to Kintaro Village!\"{KP}\"He was dying to go, after all! Can't be helped!\""
  }
 ]

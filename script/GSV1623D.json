@@ -3,36 +3,36 @@
   "id": "GSV1623D/3/0002",
   "kind": "msg",
   "jp": "「わしは　ゆうぎ名人記念館の\n　館長じゃ！」\n　{KP}\n「ここには　今までに　名人になった\n　人たちが　かざられておる！」\n　{KP}\n「ごゆるりと　見ていきなされ！」\n　\n　",
-  "en": ""
+  "en": "\"I am the curator of the Game Master Memorial Hall!\"{KP}\"Here hang the portraits of everyone who has become a Master!\"{KP}\"Take your time and have a look around!\""
  },
  {
   "id": "GSV1623D/4/0002",
   "kind": "msg",
   "jp": "「ボクも　がんばって　ゆうぎ名人に\n　なるんだ！」\n　{KP}\n「ゆうぎ名人に　なるには　できるだけ\n　たくさんの　ゆうぎを　やったほうが\n　いいんだよね！」",
-  "en": ""
+  "en": "\"I'm gonna work hard and become a Game Master too!\"{KP}\"To become a Game Master, it's best to play as many different games as you can, right?\""
  },
  {
   "id": "GSV1623D/5/0002",
   "kind": "msg",
   "jp": "桃太郎は　カベに　かけられた\nしょうぞう画を　しらべた！\n　{KP}\n第１０代　ゆうぎ名人\n　\n　{KP}\nそれ以上\n桃太郎には　読めなかった\n　",
-  "en": ""
+  "en": "Momotaro examined the portrait hanging on the wall!{KP}The 10th Game Master{KP}Momotaro couldn't read any more than that."
  },
  {
   "id": "GSV1623D/6/0010",
   "kind": "msg",
   "jp": "桃太郎は　カベに　かけられた\nガクを　しらべた！\n　{KP}\n今に　自分の　顔が　ここに\nかざられるかと　思うと\nつい　顔が　ほころんだ！",
-  "en": ""
+  "en": "Momotaro examined the plaque hanging on the wall!{KP}The thought of his own face hanging here someday made him break into a smile!"
  },
  {
   "id": "GSV1623D/6/00AA",
   "kind": "msg",
   "jp": "桃太郎は　カベに　かけられた\nしょうぞう画を　しらべた！\n　{KP}\nゆうぎ名人\n桃太郎\n　",
-  "en": ""
+  "en": "Momotaro examined the portrait hanging on the wall!{KP}Game Master Momotaro"
  },
  {
   "id": "GSV1623D/7/0002",
   "kind": "msg",
   "jp": "桃太郎は　カベに　かけられた\nしょうぞう画を　しらべた！\n　{KP}\n第５代　ゆうぎ名人\n　\n　{KP}\nそれ以上\n桃太郎には　読めなかった\n　",
-  "en": ""
+  "en": "Momotaro examined the portrait hanging on the wall!{KP}The 5th Game Master{KP}Momotaro couldn't read any more than that."
  }
 ]

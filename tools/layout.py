@@ -51,7 +51,7 @@ def wrap(page, px):
         cur = ''
         for w in seg.split():
             trial = cur + ' ' + w if cur.strip() else cur + w
-            if cur.strip() and width(trial) > px:
+            if cur.strip() and (width(trial) > px or units(trial) > windows.LINE_UNITS):
                 lines.append(cur)
                 cur = hang + w
             else:

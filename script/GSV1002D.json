@@ -3,18 +3,18 @@
   "id": "GSV1002D/2/0010",
   "kind": "msg",
   "jp": "「ちょっとの間　留守に　していたら\n　こんなことに　なってしまったの！」\n　{KP}\n「いったい　誰が　こんなことを…\n　それも　一瞬で！」\n　{KP}\n「乙姫さまが　大切に　しまっておいた\n　{bb}首かざり{ww}や　高価な　{bb}青の鐘{ww}など」\n　{KP}\n「いったい　いくつの　宝物が\n　盗まれたのかしら？」\n　{KP}\n「でも　なぜか　{bb}真実の鏡{ww}だけは\n　手つかずだったのです……」\n　{KP}\n「あそこに　大きな　穴が\n　ありますけど　短時間で\n　あんな　穴が　ほれるなんて」{KP}\n　\n「もぐらの　化け物でも\n　いるのかしら……」\n　",
-  "en": ""
+  "en": "\"I was away for just a little while, and this happened!\"{KP}\"Who on earth could have done this... and in an instant!\"{KP}\"Otohime-sama's treasured {bb}Necklace{ww}, the priceless {bb}Blue Bell{ww}...\"{KP}\"How many treasures were stolen, I wonder?\"{KP}\"But for some reason, the {bb}Mirror of Truth{ww} alone was left untouched...\"{KP}\"There's a big hole over there, but to dig a hole like that in so little time...\"{KP}\"Could there be some kind of monster mole?\""
  },
  {
   "id": "GSV1002D/2/0230",
   "kind": "msg",
   "jp": "「乙姫さまの　{bb}首かざり{ww}を\n　取りもどして　いただいたそうで\n　ありがとうございました！」{KP}\n　\n「でも　宝物を　盗んだ者は\n　見つかっていないのですね…」\n　{KP}\n「あんな　大きな　穴を\n　短時間で　ほれるなんて」\n　{KP}\n「絶対　化け物の　しわざに\n　ちがいないと　思うのですが…」\n　",
-  "en": ""
+  "en": "\"I hear you got back Otohime-sama's {bb}Necklace{ww}. Thank you so much!\"{KP}\"But the one who stole the treasures still hasn't been found...\"{KP}\"Digging a hole that big in so little time...\"{KP}\"It has to be the work of some monster, I'm sure of it...\""
  },
  {
   "id": "GSV1002D/3/0002",
   "kind": "msg",
   "jp": "この　穴は　深くて\nおりられそうに　ない……\n　",
-  "en": ""
+  "en": "This hole is deep. There's no way to climb down......"
  }
 ]

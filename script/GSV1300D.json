@@ -9,192 +9,192 @@
   "id": "GSV1300D/18/001E",
   "kind": "msg",
   "jp": "「今度の　だじゃれ大会の\n　お題は　なんだろう？」\n　{KP}\n「お題だけに…\n　お台場　関係かな？」\n　{KP}\n「イマイチだなぁ\n　やっぱり！」\n　{KP}\n「早く　お題が\n　決まると　いいな！」\n　",
-  "en": ""
+  "en": "\"I wonder what the theme of the next Pun Contest will be?\"{KP}\"Speaking of themes... maybe a theme park?\"{KP}\"Nah, that one's not great!\"{KP}\"I hope they pick a theme soon!\""
  },
  {
   "id": "GSV1300D/18/00F6",
   "kind": "msg",
   "jp": "「お題が　決まったんだって！\n　桃太郎さん　ありがとう！」\n　{KP}\n「だじゃれ大会には\n　ぜひ　見に来てください！」\n　",
-  "en": ""
+  "en": "\"They picked the theme! Thank you, Momotaro-san!\"{KP}\"Be sure to come and watch the Pun Contest!\""
  },
  {
   "id": "GSV1300D/18/0182",
   "kind": "msg",
   "jp": "「次の　だじゃれ大会は　いつかな？\n　楽しみ　楽しみ！」\n　{KP}\n「その時には\n　また　来てくださいね！」\n　",
-  "en": ""
+  "en": "\"When's the next Pun Contest? I can't wait, I can't wait!\"{KP}\"Come back for it then, okay?\""
  },
  {
   "id": "GSV1300D/19/0002",
   "kind": "msg",
   "jp": "「この村を　くだった所に\n　小さな浜が　あるだ！」\n　{KP}\n「昔　オラが　ひょっとこの村に\n　つづく　大橋から　落ちた時に\n　流れついただ！」",
-  "en": ""
+  "en": "\"If you head down from this village, there's a little beach!\"{KP}\"Long ago, when I fell off the big bridge leadin' to Hyottoko Village, I washed up there!\""
  },
  {
   "id": "GSV1300D/20/001E",
   "kind": "msg",
   "jp": "「よってらっしゃい！\n　見てらっしゃい！」\n　{KP}\n「{bb}だじゃれ大会{ww}は\n　ここで　ひらかれるよ！」\n　{KP}\n「まだ　準備中だけどね！」\n　\n　",
-  "en": ""
+  "en": "\"Step right up! Come and see!\"{KP}\"The {bb}Pun Contest{ww} will be held right here!\"{KP}\"We're still setting up, though!\""
  },
  {
   "id": "GSV1300D/20/00C4",
   "kind": "msg",
   "jp": "「よってらっしゃい！\n　見てらっしゃい！」\n　{KP}\n「{bb}だじゃれ大会{ww}は\n　ここで　ひらかれるよ！」\n　{KP}\n「あとは\n　{bb}ましらサン{ww}を　待つだけだ！」\n　",
-  "en": ""
+  "en": "\"Step right up! Come and see!\"{KP}\"The {bb}Pun Contest{ww} will be held right here!\"{KP}\"Now we're just waiting on {bb}Mashira-san{ww}!\""
  },
  {
   "id": "GSV1300D/20/0178",
   "kind": "msg",
   "jp": "「よってらっしゃい！\n　見てらっしゃい！」\n　{KP}\n「今回は\n　もう　終わっちまったけど」\n　{KP}\n「次の　だじゃれ大会も\n　ここで　ひらかれるよ！」\n　",
-  "en": ""
+  "en": "\"Step right up! Come and see!\"{KP}\"This one's already over, but\"{KP}\"the next Pun Contest will be held right here too!\""
  },
  {
   "id": "GSV1300D/21/001E",
   "kind": "msg",
   "jp": "「いったい　いつに　なったら\n　大会を　はじめるんじゃ！」\n　{KP}\n「わしは　ずぅっと\n　ここで　待っておるというのに」\n　",
-  "en": ""
+  "en": "\"When on earth are they going to start the contest?!\"{KP}\"I've been waiting here all this time!\""
  },
  {
   "id": "GSV1300D/21/00AE",
   "kind": "msg",
   "jp": "「ようやく　だじゃれ大会が\n　始まるぞよ！」\n　{KP}\n「楽しみに　していたかいが\n　あったものじゃ！」\n　",
-  "en": ""
+  "en": "\"At last, the Pun Contest is about to begin!\"{KP}\"It was worth all the waiting!\""
  },
  {
   "id": "GSV1300D/21/012C",
   "kind": "msg",
   "jp": "「次の　だじゃれ大会は\n　いつ　なんじゃろ？」\n　",
-  "en": ""
+  "en": "\"When will the next Pun Contest be, I wonder?\""
  },
  {
   "id": "GSV1300D/22/001E",
   "kind": "msg",
   "jp": "「今回の　お題は\n　何なんでしょうか？」\n　{KP}\n「桃太郎さん！　知ってますか？\n　……知らないですよね」\n　{KP}\n「なんだか　{bb}ましらサン{ww}が\n　なくしちゃったらしいんですよね」\n　",
-  "en": ""
+  "en": "\"What's the theme going to be this time?\"{KP}\"Momotaro-san! Do you know? ......No, you wouldn't.\"{KP}\"Apparently {bb}Mashira-san{ww} went and lost it.\""
  },
  {
   "id": "GSV1300D/22/00EC",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　ようやく　お題が\n　発表されたんですよ！」{KP}\n　\n「今回の　お題は……\n　なんと！　植物！\n　花や草を　からめること！」{KP}\n　\n「こりゃまた！　むずかしい\n　お題ですよね！」\n　",
-  "en": ""
+  "en": "\"Momotaro-san! They've finally announced the theme!\"{KP}\"This time's theme is...... get this! Plants! Puns about flowers and grasses!\"{KP}\"Wow! That's a tough theme!\""
  },
  {
   "id": "GSV1300D/22/01CE",
   "kind": "msg",
   "jp": "「お題が　むずかしかったわりには\n　レベルの　高い　大会でしたね！」\n　{KP}\n「次の　だじゃれ大会も\n　楽しみですわ！」\n　",
-  "en": ""
+  "en": "\"For such a tough theme, the contest sure was high-level!\"{KP}\"I can't wait for the next Pun Contest!\""
  },
  {
   "id": "GSV1300D/23/001E",
   "kind": "msg",
   "jp": "「となりの　家に\n　かこいが　できたってねー！」\n　{KP}\n「かっこいい！」\n　\n　{KP}\n「って　お題が　決まらなきゃ\n　ネタの　作りようが　ないんじゃ」\n　{KP}\n「おばばも　今時の　若者に\n　負けては　おれんでのぉ！」\n　",
-  "en": ""
+  "en": "\"I heard the folks next door put up a fence!\"{KP}\"Fence-tastic!\"{KP}\"...But until they pick a theme, I can't come up with any material.\"{KP}\"This old granny won't lose to the young folks these days!\""
  },
  {
   "id": "GSV1300D/23/0114",
   "kind": "msg",
   "jp": "「お題が　決まったようじゃが\n　おばばには　ちと　きついかのぉ」\n　{KP}\n「じゃが　若者に　負けては　おれん！\n　聞いてくだされ　桃太郎さん！」\n　{KP}\n「あっ熊じゃ！　死んだフリージア！」\n　\n　{KP}\n「いかがですか？　桃太郎さん！\n　若者に　負けておらんかのぉ？」\n　",
-  "en": ""
+  "en": "\"Seems they picked a theme, but it might be a bit much for an old granny...\"{KP}\"Still, I won't lose to the young folks! Hear me out, Momotaro-san!\"{KP}\"Eek, a bear! Freesia and play dead!\"{KP}\"How's that, Momotaro-san? Can I keep up with the young folks?\""
  },
  {
   "id": "GSV1300D/23/023C",
   "kind": "msg",
   "jp": "「次の　だじゃれ大会でも\n　がんばる　つもりじゃ！」{KP}\n　{KP}\n「おばばも　今時の　若者に\n　負けては　おれんでのぉ！」\n　",
-  "en": ""
+  "en": "\"I mean to do my best at the next Pun Contest too!\"{KP}\"......\"{KP}\"This old granny won't lose to the young folks these days!\""
  },
  {
   "id": "GSV1300D/24/001E",
   "kind": "msg",
   "jp": "「くだらない　だじゃれを　言うのは\n　だじゃれ！」\n　{KP}\n「おもしろい？　おもしろいでしょ！」\n　\n　{KP}\n「でも　お題が　わからないことには\n　ネタが　決められないんだよね」\n　",
-  "en": ""
+  "en": "\"Who's making all these corny puns? It's pun-believable!\"{KP}\"Funny? Isn't that funny?!\"{KP}\"But until I know the theme, I can't decide on my material.\""
  },
  {
   "id": "GSV1300D/24/00EA",
   "kind": "msg",
   "jp": "「いよいよ　だじゃれ大会の\n　お題が　決まりましたね！」\n　{KP}\n「ゲームのしすぎで\n　目が　カスミそう！」\n　{KP}\n「おもしろい？　おもしろいでしょ！」\n　\n　",
-  "en": ""
+  "en": "\"The Pun Contest theme's finally been decided!\"{KP}\"I've played so many games, my iris is wilting!\"{KP}\"Funny? Isn't that funny?!\""
  },
  {
   "id": "GSV1300D/24/01A2",
   "kind": "msg",
   "jp": "「だじゃれ大会は\n　おもしろかったですね！」\n　{KP}\n「おともの　イヌは\n　尾も　しろかったですね！」\n　{KP}\n「……さりげない　会話にも\n　だじゃれを　おりこんでこそ」\n　{KP}\n「ほほえみの村の　村人というものです\n　わかりますか？　桃太郎さん！」\n　",
-  "en": ""
+  "en": "\"The Pun Contest was a real howl, wasn't it!\"{KP}\"Even your Dog was howling along!\"{KP}\"......Only those who can slip puns into casual conversation\"{KP}\"are true villagers of Hohoemi Village! Get it, Momotaro-san?\""
  },
  {
   "id": "GSV1300D/25/0070",
   "kind": "msg",
   "jp": "「桃太郎さんよ！\n　{bb}種まきドンドン！{ww}を　やるべか？」\n　{KN}",
-  "en": ""
+  "en": "\"Momotaro-san! Ya wanna play {bb}Sowing Don-Don!{ww}?\"{KN}"
  },
  {
   "id": "GSV1300D/25/00CC",
   "kind": "msg",
   "jp": "「よーし！\n　いっちょ　もんでやるべ！」\n　",
-  "en": ""
+  "en": "\"Alrighty! Let's see what ya got!\""
  },
  {
   "id": "GSV1300D/25/0108",
   "kind": "msg",
   "jp": "「遊び方の説明を　聞きますか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Would you like to hear how to play?\"{KN}"
  },
  {
   "id": "GSV1300D/25/016C",
   "kind": "msg",
   "jp": "「おそれを　なしたか！\n　桃太郎さん！」\n　",
-  "en": ""
+  "en": "\"Lost your nerve, have ya, Momotaro-san!\""
  },
  {
   "id": "GSV1300D/26/0002",
   "kind": "msg",
   "jp": "「{bb}ましらサン{ww}は　昔は\n　悪じゃったんじゃが」\n　{KP}\n「今は　この村の\n　人気者ですじゃ！」\n　",
-  "en": ""
+  "en": "\"{bb}Mashira-san{ww} used to be a real bad egg,\"{KP}\"but now he's the most popular fellow in this village!\""
  },
  {
   "id": "GSV1300D/27/0002",
   "kind": "msg",
   "jp": "「{bb}ましらサン{ww}なら\n　だじゃれ大会の会場の\n　近くに　いるわよ！」",
-  "en": ""
+  "en": "\"If you're looking for {bb}Mashira-san{ww}, he's near the Pun Contest venue!\""
  },
  {
   "id": "GSV1300D/28/001E",
   "kind": "msg",
   "jp": "「ボクも　だじゃれ大会には\n　出られるんだよ！」\n　{KP}\n「でもね　早く　お題が\n　わからないと　出られないよ！」\n　",
-  "en": ""
+  "en": "\"I can enter the Pun Contest too!\"{KP}\"But if I don't find out the theme soon, I can't enter!\""
  },
  {
   "id": "GSV1300D/28/00A8",
   "kind": "msg",
   "jp": "「お題は　植物なんだって！\n　こんなの　どうかな？」\n　{KP}\n「天邪鬼は　へそマーガレット！」\n　\n　",
-  "en": ""
+  "en": "\"The theme's plants! How about this one?\"{KP}\"Amanojaku is so cranky, he's a real crank-berry!\""
  },
  {
   "id": "GSV1300D/28/0122",
   "kind": "msg",
   "jp": "「次の　だじゃれ大会も\n　バキラめずに　がんばるぞー！」\n　",
-  "en": ""
+  "en": "\"I won't give up at the next Pun Contest either! I'm rooting for me!\""
  },
  {
   "id": "GSV1300D/29/0020",
   "kind": "msg",
   "jp": "「ひゃっほほほー！\n　あては　芸人の　見習いの\n　青石はんまで　おます！」{KP}\n　\n「あての　だじゃれを\n　聞いておくれよ！」\n　{KP}\n「カメに　手を　カメられちゃった！」\n　\n　{KP}\n「ソバなんか　食べていないで\n　ボクと　あソバない？」\n　{KP}\n「おまえ　寝太郎の村の　宿で\n　寝ていたろう！」\n　{KP}\n「えっ！　もう　ええって？\n　そんなこと　言っちゃあ　ペケペケ！」\n　",
-  "en": ""
+  "en": "\"Hyahohohoo! Me, I'm Aoishi Hanma, apprentice comedian, at your service!\"{KP}\"Lend an ear to my puns!\"{KP}\"A turtle bit my hand! What a snappy fella!\"{KP}\"Quit slurpin' noodles and come play! Let's noodle around!\"{KP}\"Ya were snoozin' at the inn in Netaro Village, weren't ya, ya little Netaro!\"{KP}\"Eh? That's enough already? Don't say that, boo-boo!\""
  },
  {
   "id": "GSV1300D/29/01E2",
   "kind": "msg",
   "jp": "「ひゃっほほほー！\n　く　くさいざんすぅ～！」\n　",
-  "en": ""
+  "en": "\"Hyahohohoo! Ph-phew, it stinks, zansu!\""
  },
  {
   "id": "GSV1300D/29/0254",
   "kind": "msg",
   "jp": "「あなたの　オナラは\n　しゃれに　ならないざんすぅ～」\n　",
-  "en": ""
+  "en": "\"Your farts are no joke, zansu!\""
  },
  {
   "id": "GSV1300D/30/0002",
   "kind": "msg",
   "jp": "「ひさしぶりじゃな\n　桃太郎よ！」\n　{KP}\n「ここは　だじゃれ大会で\n　有名な　ほほえみの村じゃ！」\n　",
-  "en": ""
+  "en": "\"Long time no see, Momotaro!\"{KP}\"This is Hohoemi Village, famous for its Pun Contest!\""
  }
 ]

@@ -3,18 +3,18 @@
   "id": "GSV1209D/2/0010",
   "kind": "msg",
   "jp": "「夜　神社の　そばに　いると\n　キツネの　嫁入りを　\n　見ることが　できましょう！」{KP}\n　\n「キツネの　嫁入りを\n　見た者には　よいことが\n　おこるでしょう！」",
-  "en": ""
+  "en": "\"If you're near the shrine at night, you may see a fox's wedding!\"{KP}\"Good things will happen to those who see a fox's wedding!\""
  },
  {
   "id": "GSV1209D/2/00CE",
   "kind": "msg",
   "jp": "「ほ～　２度も　キツネに\n　会われましたか！\n　…よかったですのォ～！」",
-  "en": ""
+  "en": "\"Oho, you've met the foxes twice! ...How lucky for you!\""
  },
  {
   "id": "GSV1209D/3/0002",
   "kind": "msg",
   "jp": "「{bb}氷の塔{ww}は　ここから出て\n　西に　進むと　見えてきますよ」\n　{KP}\n「氷の上は　すべりやすくて\n　思うように　進まないのよ！」\n　{KP}\n「コツは　進みたいと　思うのと\n　さかさまに　進むと　いいわ！」\n　",
-  "en": ""
+  "en": "\"Head west out of here and you'll see the {bb}Ice Tower{ww}.\"{KP}\"Ice is slippery, so you can't move the way you want!\"{KP}\"The trick is to push the opposite way from where you want to go!\""
  }
 ]

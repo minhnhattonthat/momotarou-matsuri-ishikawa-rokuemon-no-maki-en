@@ -3,7 +3,7 @@
   "id": "GSV3000D/8/0006",
   "kind": "msg",
   "jp": "「勝手に　入らないでください！」\n　\n　",
-  "en": ""
+  "en": "\"Please don't come in without permission!\""
  },
  {
   "id": "GSV3000D/10/01CC",
@@ -27,7 +27,7 @@
   "id": "GSV3000D/11/01D2",
   "kind": "msg",
   "jp": "「遊び方の説明を　聞きますか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Would you like to hear how to play?\"{KN}"
  },
  {
   "id": "GSV3000D/11/0212",

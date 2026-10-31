@@ -3,132 +3,132 @@
   "id": "GSV0806D/0/0032",
   "kind": "msg",
   "jp": "「ちょっと　ちょっと　お客さん！\n　ただで　プレイしようなんて\n　かんべんしてくださいよ～～！」",
-  "en": ""
+  "en": "\"Hey, hey, hold on there! Don't go trying to play for free! Gimme a break!\""
  },
  {
   "id": "GSV0806D/0/00DC",
   "kind": "msg",
   "jp": "「ちょっと　ちょっと　お客さん！\n　ただで　プレイしようなんて\n　かんべんしてくださいよ～～！」",
-  "en": ""
+  "en": "\"Hey, hey, hold on there! Don't go trying to play for free! Gimme a break!\""
  },
  {
   "id": "GSV0806D/3/002A",
   "kind": "msg",
   "jp": "「あわわわわ！？　桃太郎さん\n　もう　かんべん　してくださいよ！」\n　{KP}\n「もう　うちで　遊ぶのは\n　よしてくださいな！」\n　",
-  "en": ""
+  "en": "\"Wah-wah-wah?! Momotaro-san, please, give me a break already!\"{KP}\"Please stop coming to play at my place!\""
  },
  {
   "id": "GSV0806D/3/0122",
   "kind": "msg",
   "jp": "「あわわわわ！？　桃太郎さんに\n　金太郎さんも！」\n　{KP}\n「なに　なに……ふむ　ふむ\n　…………　なるほど！」\n　{KP}\n「今まで　悪さしていたのは\n　ニセモノって　わけですかい！」\n　{KP}\n「そういうことでしたら\n　どうぞ　どうぞ！」\n　",
-  "en": ""
+  "en": "\"Wah-wah-wah?! Momotaro-san, and Kintaro-san too!\"{KP}\"What's that... uh-huh, uh-huh... ......I see!\"{KP}\"So the one causing all that trouble was a fake?!\"{KP}\"Well, if that's how it is, go right ahead!\""
  },
  {
   "id": "GSV0806D/3/0242",
   "kind": "msg",
   "jp": "「いらっしゃいませ！\n　{bb}金魚すくい{ww}が\n　５０両で楽しめます」{KN}",
-  "en": ""
+  "en": "\"Welcome! You can enjoy {bb}Goldfish Scooping{ww} for 50 ryo.\"{KN}"
  },
  {
   "id": "GSV0806D/3/02CC",
   "kind": "msg",
   "jp": "　\n「またのおこしを」\n　\n　",
-  "en": ""
+  "en": "\"Do come again.\""
  },
  {
   "id": "GSV0806D/3/0324",
   "kind": "msg",
   "jp": "「遊び方の説明を　聞きますか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Would you like to hear how to play?\"{KN}"
  },
  {
   "id": "GSV0806D/3/039E",
   "kind": "msg",
   "jp": "　\n「桃太郎さん　\n　お金がたりませんよ！」\n　{KP}\n「またのおこしを」\n　\n　",
-  "en": ""
+  "en": "\"Momotaro-san, you don't have enough money!\"{KP}\"Do come again.\""
  },
  {
   "id": "GSV0806D/4/002A",
   "kind": "msg",
   "jp": "「あら！　桃太郎さん！\n　もう　かんべん　してくださいな！」\n　{KP}\n「こう　毎日　道具を\n　こわされたんじゃ…」\n　",
-  "en": ""
+  "en": "\"Oh! Momotaro-san! Please, give me a break already!\"{KP}\"If my stall items keep getting broken every single day like this...\""
  },
  {
   "id": "GSV0806D/4/0118",
   "kind": "msg",
   "jp": "「あら！　桃太郎さん！\n　今日は　金太郎さんも\n　ごいっしょで！」{KP}\n　\n「え！？　ふん　ふん\n　………そうでしたの！」\n　{KP}\n「桃太郎さんの　ニセモノが\n　いるんですね！」\n　{KP}\n「そういうことでしたら\n　どうぞ　どうぞ！」\n　",
-  "en": ""
+  "en": "\"Oh! Momotaro-san! And Kintaro-san is with you today!\"{KP}\"What?! Uh-huh, uh-huh... ......So that's how it was!\"{KP}\"So there's a fake Momotaro-san going around!\"{KP}\"Well, if that's how it is, go right ahead!\""
  },
  {
   "id": "GSV0806D/4/0236",
   "kind": "msg",
   "jp": "「いらっしゃいませ！\n　{bb}鬼まとあて{ww}が\n　５０両で楽しめます」{KN}",
-  "en": ""
+  "en": "\"Welcome! You can play {bb}Oni Target Toss{ww} for 50 ryo.\"{KN}"
  },
  {
   "id": "GSV0806D/4/02C0",
   "kind": "msg",
   "jp": "　\n「またのおこしを」\n　\n　",
-  "en": ""
+  "en": "\"Do come again.\""
  },
  {
   "id": "GSV0806D/4/0318",
   "kind": "msg",
   "jp": "「遊び方の説明を　聞きますか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Would you like to hear how to play?\"{KN}"
  },
  {
   "id": "GSV0806D/4/0392",
   "kind": "msg",
   "jp": "　\n「桃太郎さん　\n　お金がたりませんよ！」\n　{KP}\n「またのおこしを」\n　\n　",
-  "en": ""
+  "en": "\"Momotaro-san, you don't have enough money!\"{KP}\"Do come again.\""
  },
  {
   "id": "GSV0806D/5/0002",
   "kind": "msg",
   "jp": "「そうそう\n　{bb}金魚すくい{ww}なんじゃが…」\n　{KP}\n「水の中で　アミを　ふりまわすと\n　すぐに　やぶれちゃうんじゃな？」\n　{KP}\n「そんなことじゃあ　免許皆伝の\n　５５００点は　きびしいのォ！」\n　",
-  "en": ""
+  "en": "\"Oh, yes, about {bb}Goldfish Scooping{ww}...\"{KP}\"If you swish the net around in the water, it tears right away, doesn't it?\"{KP}\"Do that, and you'll have a hard time getting the 5500 points for Full Mastery, eh!\""
  },
  {
   "id": "GSV0806D/6/0002",
   "kind": "msg",
   "jp": "「{bb}鬼まとあて{ww}を　遊ぶ時\n　○ボタンを　押すと　得点の\n　計算が　早くなるぞ！」",
-  "en": ""
+  "en": "\"When you play {bb}Oni Target Toss{ww}, press the Circle button to make the score count go faster!\""
  },
  {
   "id": "GSV0806D/7/0002",
   "kind": "msg",
   "jp": "「{bb}鬼まとあて{ww}を　やる時は\n　最初が　かんじんね！」\n　{KP}\n「まとを　照らす時に\n　じっくり　見てちゃ　ダメよ！」\n　{KP}\n「遠くを　見るように\n　全体を　見わたすのが　コツね！」\n　",
-  "en": ""
+  "en": "\"In {bb}Oni Target Toss{ww}, the start is what counts!\"{KP}\"When you light up the targets, don't stare too hard at them!\"{KP}\"The trick is to take in the whole thing, like you're gazing far off!\""
  },
  {
   "id": "GSV0806D/8/0002",
   "kind": "msg",
   "jp": "「なんでかしらね～！」\n　\n　{KP}\n「ホント　やんなっちゃうわ～！\n　{bb}鬼まとあて{ww}　やってると～」\n　{KP}\n「いつも　お地蔵さまに\n　当てちゃうのよ～！　ダメね～！」\n　",
-  "en": ""
+  "en": "\"Why does this keep happening?!\"{KP}\"It really gets me down! Whenever I play {bb}Oni Target Toss{ww}...\"{KP}\"I always hit the Jizo statues! I'm hopeless!\""
  },
  {
   "id": "GSV0806D/10/0024",
   "kind": "msg",
   "jp": "「金太郎先生！\n　大変だー！」\n　",
-  "en": ""
+  "en": "\"Kintaro-sensei! We've got trouble!\""
  },
  {
   "id": "GSV0806D/10/008C",
   "kind": "msg",
   "jp": "「どうしたんだ！　金一郎！\n　そんなに　あわてて！」\n　",
-  "en": ""
+  "en": "\"What's wrong, Kinichiro? What's got you in such a panic?\""
  },
  {
   "id": "GSV0806D/10/00D4",
   "kind": "msg",
   "jp": "「桃太郎さんが　やぐらだいこに\n　イタズラしてるんだ！」\n　{KP}\n「あれぇー？\n　桃太郎さんが　ここにも！\n　だって…　やぐらだいこに！」",
-  "en": ""
+  "en": "\"Momotaro-san is messing around with the yagura drum!\"{KP}\"Huh? Momotaro-san's here too! But... he's at the yagura drum!\""
  },
  {
   "id": "GSV0806D/10/0170",
   "kind": "msg",
   "jp": "「この桃太郎は　本物だど！\n　さては　そいつが　例の\n　ニセモノだなー！」{KP}\n　\n「ニセモノは　そこの\n　広場だな！\n　行くぞ！　桃太郎！」",
-  "en": ""
+  "en": "\"This Momotaro's the real one! So that one must be the fake we've been hearin' about!\"{KP}\"The fake's in the square over there! Let's go, Momotaro!\""
  }
 ]

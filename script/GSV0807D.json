@@ -3,90 +3,90 @@
   "id": "GSV0807D/0/002A",
   "kind": "msg",
   "jp": "「ちょっと　ちょっと　お客さん！\n　ただで　プレイしようなんて\n　かんべんしてくださいよ～～！」",
-  "en": ""
+  "en": "\"Hey, hey, hold on there! Don't go trying to play for free! Gimme a break!\""
  },
  {
   "id": "GSV0807D/2/002A",
   "kind": "msg",
   "jp": "「おや！？　桃太郎さん？」\n　\n　{KP}\n「ここには　桃太郎さんに\n　遊んで　もらうようなモノは…\n　ありませんよ！」",
-  "en": ""
+  "en": "\"Oh?! Momotaro-san?\"{KP}\"There's nothing here... for you to play with, I'm afraid!\""
  },
  {
   "id": "GSV0807D/2/0116",
   "kind": "msg",
   "jp": "「おや！？　桃太郎さん？」\n　\n　{KP}\n「今日は　ごていねいに\n　金太郎さんも　ごいっしょで！」\n　{KP}\n「へぇー\n　ふむ　ふむ………\n　そうなんだあ！」{KP}\n　\n「ってことは　ニセモノが\n　悪さしてたってんですね！」\n　{KP}\n「そんなら　そうと\n　早く　言ってくれなくっちゃ！」\n　{KP}\n「ささっ\n　どうぞ　どうぞ！」\n　",
-  "en": ""
+  "en": "\"Oh?! Momotaro-san?\"{KP}\"And today you've been kind enough to bring Kintaro-san along!\"{KP}\"Ohh... uh-huh, uh-huh... ......Is that so!\"{KP}\"So you're saying a fake was the one making all that trouble!\"{KP}\"If that's how it was, you should've told me sooner!\"{KP}\"Come, come! Go right ahead!\""
  },
  {
   "id": "GSV0807D/2/0290",
   "kind": "msg",
   "jp": "「いらっしゃいませ！\n　{bb}ふくわらい{ww}が\n　５０両で楽しめます」{KN}",
-  "en": ""
+  "en": "\"Welcome! You can play {bb}Fukuwarai{ww} for 50 ryo.\"{KN}"
  },
  {
   "id": "GSV0807D/2/031A",
   "kind": "msg",
   "jp": "　\n「またのおこしを」\n　\n　",
-  "en": ""
+  "en": "\"Do come again.\""
  },
  {
   "id": "GSV0807D/2/0372",
   "kind": "msg",
   "jp": "「遊び方の説明を　聞きますか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Would you like to hear how to play?\"{KN}"
  },
  {
   "id": "GSV0807D/2/03EC",
   "kind": "msg",
   "jp": "　\n「桃太郎さん　\n　お金がたりませんよ！」\n　{KP}\n「またのおこしを」\n　\n　",
-  "en": ""
+  "en": "\"Momotaro-san, you don't have enough money!\"{KP}\"Do come again.\""
  },
  {
   "id": "GSV0807D/3/0002",
   "kind": "msg",
   "jp": "「さっき　{bb}ふくわらい{ww}を\n　やったんだけどね…」\n　{KP}\n「できあがった　顔ったら\n　おかしくって　アハハハハッ！」\n　{KP}\n「右の　パーツは　むかって左に\n　おかないと　ダメなのね！？」\n　",
-  "en": ""
+  "en": "\"I just played {bb}Fukuwarai{ww}...\"{KP}\"The face I made was so silly, ahahahaha!\"{KP}\"The right-side parts have to go on the left as you face it, right?!\""
  },
  {
   "id": "GSV0807D/4/0002",
   "kind": "msg",
   "jp": "「{bb}ふくわらい{ww}の　コツを\n　教えてあげますわ！」\n　{KP}\n「桃と　波の　もようが\n　よい　目印に　なりますのよ！」\n　",
-  "en": ""
+  "en": "\"Let me teach you a trick for {bb}Fukuwarai{ww}!\"{KP}\"The peach and wave patterns make good landmarks, you know!\""
  },
  {
   "id": "GSV0807D/5/0002",
   "kind": "msg",
   "jp": "「さっき　そこで　{bb}ふくわらい{ww}\n　やって来たんだけどさ！」\n　{KP}\n「おもしろい　顔には\n　芸術点とか　ないのかしら？」\n　{KP}\n「あればいいのにねぇ…」\n　\n　",
-  "en": ""
+  "en": "\"I just went and played {bb}Fukuwarai{ww} over there!\"{KP}\"I wonder if funny faces get any artistic points?\"{KP}\"It'd be nice if they did...\""
  },
  {
   "id": "GSV0807D/7/0024",
   "kind": "msg",
   "jp": "「金太郎先生！\n　大変だー！」\n　",
-  "en": ""
+  "en": "\"Kintaro-sensei! We've got trouble!\""
  },
  {
   "id": "GSV0807D/7/0074",
   "kind": "msg",
   "jp": "「ハァ　ハァ　ハァ……」\n　\n　",
-  "en": ""
+  "en": "\"Huff, huff, huff......\""
  },
  {
   "id": "GSV0807D/7/00BC",
   "kind": "msg",
   "jp": "「どうしたんだ！　金一郎！\n　そんなに　あわてて！」\n　",
-  "en": ""
+  "en": "\"What's wrong, Kinichiro? What's got you in such a panic?\""
  },
  {
   "id": "GSV0807D/7/0104",
   "kind": "msg",
   "jp": "「桃太郎さんが　やぐらだいこに\n　イタズラしてるんだ！」\n　{KP}\n「あれぇー？\n　桃太郎さんが　ここにも！\n　だって…　やぐらだいこに！」",
-  "en": ""
+  "en": "\"Momotaro-san is messing around with the yagura drum!\"{KP}\"Huh? Momotaro-san's here too! But... he's at the yagura drum!\""
  },
  {
   "id": "GSV0807D/7/01A0",
   "kind": "msg",
   "jp": "「この桃太郎は　本物だど！\n　さては　そいつが　例の\n　ニセモノだなー！」{KP}\n　\n「ニセモノは　そこの\n　広場だな！\n　行くぞ！　桃太郎！」",
-  "en": ""
+  "en": "\"This Momotaro's the real one! So that one must be the fake we've been hearin' about!\"{KP}\"The fake's in the square over there! Let's go, Momotaro!\""
  }
 ]

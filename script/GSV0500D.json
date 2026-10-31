@@ -3,79 +3,79 @@
   "id": "GSV0500D/1/013C",
   "kind": "caption",
   "jp": "ウンチの穴",
-  "en": ""
+  "en": "Poop Hole"
  },
  {
   "id": "GSV0500D/2/0034",
   "kind": "msg",
   "jp": "「おひさしぶりです　桃太郎！\n　もう一度　{bb}ほうひの術{ww}を\n　覚えたいのですか？」{KN}",
-  "en": ""
+  "en": "\"Long time no see, Momotaro! Do you wish to learn the {bb}Fart art{ww} once more?\"{KN}"
  },
  {
   "id": "GSV0500D/2/00A8",
   "kind": "msg",
   "jp": "　\n「それでは　授けましょう！\n　プー！」\n　",
-  "en": ""
+  "en": "\"Then I shall bestow it upon you! Poot!\""
  },
  {
   "id": "GSV0500D/2/00F6",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}ほうひの術{ww}を　覚えた！\n　",
-  "en": ""
+  "en": "Momotaro learned the {bb}Fart art{ww}!"
  },
  {
   "id": "GSV0500D/2/012E",
   "kind": "msg",
   "jp": "「あまり　使いすぎないように！」\n　\n　",
-  "en": ""
+  "en": "\"Try not to use it too much!\""
  },
  {
   "id": "GSV0500D/2/016A",
   "kind": "msg",
   "jp": "　\n「そうですか　必要になったら\n　いつでも　たずねてきてくださいね！\n　プ～」",
-  "en": ""
+  "en": "\"I see. If you ever need it, come and visit me anytime! Pooot...\""
  },
  {
   "id": "GSV0500D/2/01D0",
   "kind": "msg",
   "jp": "「{bb}ウンチ四天王{ww}が　そろったら\n　ウンチかんしゃ祭を\n　おこないますので」{KP}\n　\n「その時は　遊びに来て\n　ください　プ～」\n　",
-  "en": ""
+  "en": "\"When the {bb}Four Poop Kings{ww} are all here, we'll hold the Poop Thanksgiving Festival,\"{KP}\"so come and have fun when it happens. Pooot...\""
  },
  {
   "id": "GSV0500D/2/026A",
   "kind": "msg",
   "jp": "「ありがとう　桃太郎！\n　おかげさまで　ウンチかんしゃ祭を\n　ひらくことが　できました！」{KP}\n　\n「お礼に　枯れた大地を\n　よみがえらせる　{bb}こやし玉{ww}を\n　さしあげます！　プ～」",
-  "en": ""
+  "en": "\"Thank you, Momotaro! Thanks to you, we were able to hold the Poop Thanksgiving Festival!\"{KP}\"As thanks, I give you the {bb}Fertilizer Ball{ww}, which brings withered land back to life! Pooot...\""
  },
  {
   "id": "GSV0500D/2/0334",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}こやし玉{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Fertilizer Ball{ww}!{KN}"
  },
  {
   "id": "GSV0500D/2/0382",
   "kind": "msg",
   "jp": "「ありがとう　桃太郎！\n　おかげさまで　ウンチかんしゃ祭は\n　大もりあがりです！」",
-  "en": ""
+  "en": "\"Thank you, Momotaro! Thanks to you, the Poop Thanksgiving Festival is a huge hit!\""
  },
  {
   "id": "GSV0500D/3/0010",
   "kind": "msg",
   "jp": "「おら　ここから　北の\n　方向にある　{bb}花咲かの村{ww}から\n　来たものだ！」{KP}\n　\n「いつも　牛に　ここの水を\n　飲ませに　来ているのだ！」\n　",
-  "en": ""
+  "en": "\"I came from {bb}Hanasaka Village{ww}, north of here!\"{KP}\"I always come here to let my cow drink the water!\""
  },
  {
   "id": "GSV0500D/3/00B6",
   "kind": "msg",
   "jp": "「これが　うわさに　聞く\n　ウンチかんしゃ祭か～！」\n　{KP}\n「楽しいのぉ～！」\n　\n　",
-  "en": ""
+  "en": "\"So this is the Poop Thanksgiving Festival I've heard so much about!\"{KP}\"What fun, eh!\""
  },
  {
   "id": "GSV0500D/4/0012",
   "kind": "msg",
   "jp": "「モー！」\n　\n　",
-  "en": ""
+  "en": "\"Moo!\""
  },
  {
   "id": "GSV0500D/4/0038",
@@ -87,19 +87,19 @@
   "id": "GSV0500D/4/007E",
   "kind": "msg",
   "jp": "「モー！」\n　\n　{KP}\n牛が　おちちを　だした！\n桃太郎は　それを　飲んだ！\n　{KP}\nゴクゴクゴク……\n　\n　{KP}\nふるさとの　味が　した！\n　\n　",
-  "en": ""
+  "en": "\"Moo!\"{KP}The cow gave some milk! Momotaro drank it!{KP}Glug, glug, glug......{KP}It tasted like home!"
  },
  {
   "id": "GSV0500D/4/012A",
   "kind": "msg",
   "jp": "「モー！」\n　\n　{KP}\n牛が　おちちを　だした！\n桃太郎は　それを　持っていた\n竹づつにいれた！",
-  "en": ""
+  "en": "\"Moo!\"{KP}The cow gave some milk! Momotaro put it in the bamboo flask he was carrying!"
  },
  {
   "id": "GSV0500D/4/01A6",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}牛乳の竹づつ{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Milk Flask{ww}!{KN}"
  },
  {
   "id": "GSV0500D/4/01EC",
@@ -111,180 +111,180 @@
   "id": "GSV0500D/4/023E",
   "kind": "msg",
   "jp": "「ンモーーーー！」",
-  "en": ""
+  "en": "\"Mmmooooooo!\""
  },
  {
   "id": "GSV0500D/4/0282",
   "kind": "msg",
   "jp": "ポッコ\n　\n　",
-  "en": ""
+  "en": "Plop"
  },
  {
   "id": "GSV0500D/4/029C",
   "kind": "msg",
   "jp": "ウンチが　生まれた！\n　\n　",
-  "en": ""
+  "en": "A Poop was born!"
  },
  {
   "id": "GSV0500D/4/02D8",
   "kind": "msg",
   "jp": "「ンモモモモモーーー！」\n　\n　{KP}\nでも　ウンチは\n生まれなかった！\n　",
-  "en": ""
+  "en": "\"Mmmoo-oo-oo-oo-ooooo!\"{KP}But no Poop was born!"
  },
  {
   "id": "GSV0500D/5/0010",
   "kind": "msg",
   "jp": "「もうすぐ　ここで\n　ウンチかんしゃ祭が\n　おこなわれる　予定です　ぷりっ！」{KP}\n　\n「ウンチかんしゃ祭では\n　ウンチの女神さまは　枯れた大地を\n　よみがえらせるという」{KP}\n　\n「伝説の　{bb}こやし玉{ww}を\n　生み出しますよ！」\n　{KP}\n「でも　参加予定の　{bb}ウンチ四天王{ww}が\n　そろわなければ　ウンチかんしゃ祭は\n　始まらないのですが」{KP}\n　\n「いつ　そろうんでしょうかねぇ～？\n　ぷりっ！」\n　",
-  "en": ""
+  "en": "\"Soon, the Poop Thanksgiving Festival is going to be held right here, plop!\"{KP}\"They say that at the Poop Thanksgiving Festival, the Poop Goddess\"{KP}\"creates the legendary {bb}Fertilizer Ball{ww}, which brings withered land back to life!\"{KP}\"But unless the {bb}Four Poop Kings{ww} who are taking part all show up, the Poop Thanksgiving Festival can't begin...\"{KP}\"I wonder when they'll all get here? Plop!\""
  },
  {
   "id": "GSV0500D/5/01C0",
   "kind": "msg",
   "jp": "「ボクも　こうふんして\n　はっこうする　ぷりっ！」\n　",
-  "en": ""
+  "en": "\"I'm so excited I'm fermenting, plop!\""
  },
  {
   "id": "GSV0500D/6/0010",
   "kind": "msg",
   "jp": "「早く　みんな\n　来ないかなぁ～　ぷりっ！」\n　",
-  "en": ""
+  "en": "\"I wish everybody would hurry up and get here, plop!\""
  },
  {
   "id": "GSV0500D/6/0052",
   "kind": "msg",
   "jp": "「こんなに　楽しいのは\n　ひさしぷりぷりだ！」\n　",
-  "en": ""
+  "en": "\"I haven't had this much fun in a plop-long time!\""
  },
  {
   "id": "GSV0500D/7/0010",
   "kind": "msg",
   "jp": "「早く　みんな\n　来ないかしら　ぷりん！」\n　",
-  "en": ""
+  "en": "\"I wish everybody would hurry up and get here, plopsy!\""
  },
  {
   "id": "GSV0500D/7/0050",
   "kind": "msg",
   "jp": "「こんにちは　桃太郎さん！\n　どうですか？\n　ワタシの　おどりっぷりは！？」",
-  "en": ""
+  "en": "\"Hello, Momotaro-san! What do you think? Aren't my dance moves plop-tastic?!\""
  },
  {
   "id": "GSV0500D/8/0010",
   "kind": "msg",
   "jp": "「早く　みんな\n　来ないかなぁ～　ぷりっつ！」\n　",
-  "en": ""
+  "en": "\"I wish everybody would hurry up and get here, plopz!\""
  },
  {
   "id": "GSV0500D/8/0054",
   "kind": "msg",
   "jp": "「やぁ　桃太郎さん！\n　いっしょに　おどりませんか！？\n　ぷりっつ！」",
-  "en": ""
+  "en": "\"Hey, Momotaro-san! Won't you dance with me?! Plopz!\""
  },
  {
   "id": "GSV0500D/9/0010",
   "kind": "msg",
   "jp": "「さぁ　ぷりぷりダンスの\n　練習を　しましょう！\n　ぷりりん！」",
-  "en": ""
+  "en": "\"Come on, let's practice the Plop-Plop Dance! Ploppity!\""
  },
  {
   "id": "GSV0500D/9/0062",
   "kind": "msg",
   "jp": "「こんなに　楽しいのは\n　ひさしぷりぷりですわ！」\n　",
-  "en": ""
+  "en": "\"I haven't had this much fun in a plop-long time, I must say!\""
  },
  {
   "id": "GSV0500D/10/0026",
   "kind": "msg",
   "jp": "「初めまして　桃太郎さん！\n　ぷりっ！」\n　{KP}\n「ごあいさつがわりに\n　牛の　お腹の中で　見つけた\n　これを　さしあげます　ぷりっ！」",
-  "en": ""
+  "en": "\"Nice to meet you, Momotaro-san! Plop!\"{KP}\"As a greeting, I'll give you this thing I found inside the cow's tummy, plop!\""
  },
  {
   "id": "GSV0500D/10/00C0",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}ビー玉{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got a {bb}marble{ww}!{KN}"
  },
  {
   "id": "GSV0500D/10/0102",
   "kind": "msg",
   "jp": "「となりにいる　牛さんが\n　ポクの　生みの親ですね！\n　ぷりっ！」",
-  "en": ""
+  "en": "\"The cow next to me is the one who gave birth to me! Plop!\""
  },
  {
   "id": "GSV0500D/10/0156",
   "kind": "msg",
   "jp": "「ウキウキするっぷり！」\n　\n　",
-  "en": ""
+  "en": "\"I'm all plop-py and giddy!\""
  },
  {
   "id": "GSV0500D/12/0036",
   "kind": "msg",
   "jp": "「ありがとう　桃太郎さん！\n　ここで　お別れします！」\n　{KP}\n「お礼に　この　{bb}方言カード{ww}を\n　さしあげます　ぷりっ！」\n　",
-  "en": ""
+  "en": "\"Thank you, Momotaro-san! This is where we part!\"{KP}\"As thanks, I'll give you this {bb}Dialect Card{ww}, plop!\""
  },
  {
   "id": "GSV0500D/12/00C8",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０６６{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 066{ww}!{KN}"
  },
  {
   "id": "GSV0500D/12/0116",
   "kind": "msg",
   "jp": "「ゆうぎ道を　きわめる旅\n　がんばってください！」\n　",
-  "en": ""
+  "en": "\"Good luck on your journey to master the Way of Games!\""
  },
  {
   "id": "GSV0500D/13/0036",
   "kind": "msg",
   "jp": "「ありがとう　桃太郎さん！\n　ここで　お別れしますわ！」\n　{KP}\n「お礼に　２００両\n　さしあげますわ　ぷりん！」\n　",
-  "en": ""
+  "en": "\"Thank you, Momotaro-san! This is where we part!\"{KP}\"As thanks, I'll give you 200 ryo, plopsy!\""
  },
  {
   "id": "GSV0500D/13/00CE",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}２００両{ww}を　手に入れた！\n　",
-  "en": ""
+  "en": "Momotaro got {bb}200 ryo{ww}!"
  },
  {
   "id": "GSV0500D/13/010C",
   "kind": "msg",
   "jp": "「旅に　役立てて　くださいネ！\n　では　ごきげんよう！」\n　",
-  "en": ""
+  "en": "\"Do put it to good use on your journey! Well then, farewell!\""
  },
  {
   "id": "GSV0500D/14/0036",
   "kind": "msg",
   "jp": "「ありがとう　桃太郎さん！\n　ここで　お別れします！」\n　{KP}\n「お礼に　この　{bb}方言カード{ww}を\n　さしあげます　ぷりっつ！」\n　",
-  "en": ""
+  "en": "\"Thank you, Momotaro-san! This is where we part!\"{KP}\"As thanks, I'll give you this {bb}Dialect Card{ww}, plopz!\""
  },
  {
   "id": "GSV0500D/14/00D4",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０９５{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 095{ww}!{KN}"
  },
  {
   "id": "GSV0500D/14/011C",
   "kind": "msg",
   "jp": "「では　これで\n　失礼する　ぷりっつ！」\n　",
-  "en": ""
+  "en": "\"Well then, I'll be taking my leave, plopz!\""
  },
  {
   "id": "GSV0500D/15/0036",
   "kind": "msg",
   "jp": "「ありがとうございます　桃太郎さん！\n　では　ここで　お別れしますわ！」\n　{KP}\n「お礼に　４００両\n　さしあげますわ　ぷりりん！」\n　{KP}\n「これで　うんち花火でも\n　買ってみてくださいネ　ぷりりん！」\n　",
-  "en": ""
+  "en": "\"Thank you so much, Momotaro-san! This is where we part!\"{KP}\"As thanks, I'll give you 400 ryo, ploppity!\"{KP}\"Why not buy some poop fireworks with it? Ploppity!\""
  },
  {
   "id": "GSV0500D/15/012A",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}４００両{ww}を　手に入れた！\n　",
-  "en": ""
+  "en": "Momotaro got {bb}400 ryo{ww}!"
  },
  {
   "id": "GSV0500D/15/0168",
   "kind": "msg",
   "jp": "「ゆうぎ道を　きわめる旅\n　がんばってくださいね！」\n　",
-  "en": ""
+  "en": "\"Good luck on your journey to master the Way of Games!\""
  }
 ]

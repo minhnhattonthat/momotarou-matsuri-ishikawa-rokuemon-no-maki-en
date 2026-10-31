@@ -3,180 +3,180 @@
   "id": "GSV1100D/10/001E",
   "kind": "msg",
   "jp": "「ふぅ～！\n　やっと　出れたわ！」\n　{KP}\n「あっ！\n　助けてくれたのは\n　桃太郎さんだったんですね！」{KP}\n　\n「ありがとうございますぅ！\n　では　お礼に　これを\n　あげちゃいま～す！」",
-  "en": ""
+  "en": "\"Phew! I'm finally out!\"{KP}\"Oh! So it was you who saved me, Momotaro-san!\"{KP}\"Thank you sooo much! As thanks, I'm giving you thiiis!\""
  },
  {
   "id": "GSV1100D/10/00F0",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０９６{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 096{ww}!{KN}"
  },
  {
   "id": "GSV1100D/10/0142",
   "kind": "msg",
   "jp": "「では　またねー！\n　桃太郎さん！」\n　",
-  "en": ""
+  "en": "\"See you around, Momotaro-san!\""
  },
  {
   "id": "GSV1100D/10/017C",
   "kind": "msg",
   "jp": "「ふぅ～！\n　やっと　出れたわ！」\n　{KP}\n「あっ！\n　助けてくれたのは\n　桃太郎さんだったんですね！」{KP}\n　\n「ありがとうございますぅ！\n　では　お礼に　これを\n　あげちゃいま～す！」",
-  "en": ""
+  "en": "\"Phew! I'm finally out!\"{KP}\"Oh! So it was you who saved me, Momotaro-san!\"{KP}\"Thank you sooo much! As thanks, I'm giving you thiiis!\""
  },
  {
   "id": "GSV1100D/10/024E",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０９６{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 096{ww}!{KN}"
  },
  {
   "id": "GSV1100D/10/02A0",
   "kind": "msg",
   "jp": "「えっ！　なんですか？」\n　\n　",
-  "en": ""
+  "en": "\"Huh? What is it?\""
  },
  {
   "id": "GSV1100D/10/02D0",
   "kind": "msg",
   "jp": "　桃太郎は　寝太郎の村の\n　事情を　話した\n　",
-  "en": ""
+  "en": "Momotaro explained what was going on in Netaro Village."
  },
  {
   "id": "GSV1100D/10/030E",
   "kind": "msg",
   "jp": "「そうですかぁ～！\n　うん　わかりました！」\n　{KP}\n「わたしに　まかせて\n　くださぁーい！」\n　{KP}\n「ユキ鬼さん\n　じゃ　またねー！」\n　",
-  "en": ""
+  "en": "\"Is that sooo! Okay, got it!\"{KP}\"Leave it to meee!\"{KP}\"Snow Oni-san, see you later!\""
  },
  {
   "id": "GSV1100D/10/03B0",
   "kind": "msg",
   "jp": "{bb}ユキだるま{ww}が\n仲間に　くわわった！\n　{KN}",
-  "en": ""
+  "en": "{bb}Snowman{ww} joined the party!{KN}"
  },
  {
   "id": "GSV1100D/10/040C",
   "kind": "msg",
   "jp": "「まったく　誰かしら\n　お堂から　ひょうたんを\n　出したのは！？」",
-  "en": ""
+  "en": "\"Honestly, who took the gourd out of the shrine?!\""
  },
  {
   "id": "GSV1100D/10/0460",
   "kind": "msg",
   "jp": "「桃太郎さん\n　さきほどは　どうもですぅ～」\n　{KP}\n「えっ！\n　何か　ご用ですか？」\n　",
-  "en": ""
+  "en": "\"Momotaro-san, thanks sooo much for earlier!\"{KP}\"Huh? Do you need something?\""
  },
  {
   "id": "GSV1100D/10/04CC",
   "kind": "msg",
   "jp": "　桃太郎は　寝太郎の村の\n　事情を　話した！\n　",
-  "en": ""
+  "en": "Momotaro explained what was going on in Netaro Village!"
  },
  {
   "id": "GSV1100D/10/050C",
   "kind": "msg",
   "jp": "「そうですかぁ！\n　ウン！　わかりました！」\n　{KP}\n「わたしに　まかせて\n　くださぁーい！」\n　",
-  "en": ""
+  "en": "\"Is that so! Yep! Got it!\"{KP}\"Leave it to meee!\""
  },
  {
   "id": "GSV1100D/10/0580",
   "kind": "msg",
   "jp": "{bb}ユキだるま{ww}が\n仲間に　くわわった！\n　{KN}",
-  "en": ""
+  "en": "{bb}Snowman{ww} joined the party!{KN}"
  },
  {
   "id": "GSV1100D/11/001E",
   "kind": "msg",
   "jp": "「あーっ　桃太郎さん！\n　大変　大変！！」\n　{KP}\n「{bb}ユキだるまチャン{ww}が\n　この　ひょうたんの　中に\n　すいこまれちゃったんだ！」{KP}\n　\n「誰かが　お堂に　まつってあった\n　この　ひょうたんを\n　出して　しまったんだ！」{KP}\n　\n「この　ひょうたんは\n　人を　すいこむから\n　きけんだからって」{KP}\n　\n「かたづけようとした\n　{bb}ユキだるまチャン{ww}が\n　すいこまれちゃったんだよー！」{KP}\n　\n「いろんな物で\n　この　ひょうたんを　わろうと\n　したけれど　ダメだったんだ！」",
-  "en": ""
+  "en": "\"Ahh, Momotaro-san! This is bad, really bad!!\"{KP}\"{bb}Snowman-chan{ww} got sucked into this gourd!\"{KP}\"Somebody took this gourd out of the shrine where it was kept!\"{KP}\"This gourd sucks people in, so it's dangerous, and\"{KP}\"{bb}Snowman-chan{ww} got sucked in trying to put it away!\"{KP}\"I tried breaking this gourd with all sorts of things, but nothing worked!\""
  },
  {
   "id": "GSV1100D/11/0222",
   "kind": "msg",
   "jp": "「{bb}ユキだるまチャン{ww}を\n　助けてくれて　ありがとう！\n　さすがは　桃太郎さんだ！」",
-  "en": ""
+  "en": "\"Thank you for saving {bb}Snowman-chan{ww}! That's Momotaro-san for you!\""
  },
  {
   "id": "GSV1100D/11/0296",
   "kind": "msg",
   "jp": "「{bb}ユキだるまチャン{ww}を\n　助けてくれて　ありがとう！\n　さすがは　桃太郎さんだ！」{KP}\n　\n「さあ！　この　ひょうたんを\n　くっつけて　お堂の　中に\n　しまわないと！」",
-  "en": ""
+  "en": "\"Thank you for saving {bb}Snowman-chan{ww}! That's Momotaro-san for you!\"{KP}\"Right! I've got to stick this gourd back together and put it away in the shrine!\""
  },
  {
   "id": "GSV1100D/11/0356",
   "kind": "msg",
   "jp": "「ひょうたんが\n　持ち出されないように\n　見はっていよう！」",
-  "en": ""
+  "en": "\"I'll keep watch so nobody takes the gourd out again!\""
  },
  {
   "id": "GSV1100D/12/0006",
   "kind": "msg",
   "jp": "「ぐふぅ～！\n　なんだぁ？　オレの　つくった\n　うめえ　{bb}鬼の実{ww}が　ほしいとぉ？」{KP}\n　\n「んだば　５００両で\n　売ってやるだぁ～！\n　それで　いいかぁ～？」{KN}",
-  "en": ""
+  "en": "\"Gufuu! Whazzat? Ya want my tasty homegrown {bb}Oni Fruit{ww}?\"{KP}\"Then I'll sell it to ya for 500 ryo! That alright with ya?\"{KN}"
  },
  {
   "id": "GSV1100D/12/00F0",
   "kind": "msg",
   "jp": "　\n「まいどありぃ！　ぐふぅ～！」\n　\n　",
-  "en": ""
+  "en": "\"Thanks a bunch! Gufuu!\""
  },
  {
   "id": "GSV1100D/12/0138",
   "kind": "msg",
   "jp": "　\n「こら　金が　ねぇじゃねいか～！\n　おととい来やがれ～！」\n　",
-  "en": ""
+  "en": "\"Hey, ya ain't got the money! Get lost and don't come back!\""
  },
  {
   "id": "GSV1100D/12/0192",
   "kind": "msg",
   "jp": "　\n「こら　もう何も\n　持てねぇじゃねぇか！」\n　{KP}\n「よくばっちゃ　いけねぇな～！\n　ぐふぅ～！」\n　",
-  "en": ""
+  "en": "\"Hey, ya can't carry nothin' more!\"{KP}\"Don't go gettin' greedy now! Gufuu!\""
  },
  {
   "id": "GSV1100D/12/0216",
   "kind": "msg",
   "jp": "　\n「にゃろ～　ひやかしか！？\n　あっちへ　行けってんだぁ！\n　ぐふぅ～！」",
-  "en": ""
+  "en": "\"Grr, just window-shoppin'?! Go on, get outta here! Gufuu!\""
  },
  {
   "id": "GSV1100D/13/0002",
   "kind": "msg",
   "jp": "「ここは　ひょうたんの森じゃ！\n　あそこに　ある　ひえん石の\n　上に　乗って　移動するのじゃ！」{KP}\n　\n「まようでないぞ！」\n　\n　",
-  "en": ""
+  "en": "\"This is Gourd Forest! Stand on those Warp Stones there to get around!\"{KP}\"Don't get lost now!\""
  },
  {
   "id": "GSV1100D/14/0002",
   "kind": "msg",
   "jp": "「ほら　東に　見えるのは\n　{bb}のん鬼{ww}が　住む　かまくら　じゃ！」\n　{KP}\n「あやつが　つくる　{bb}鬼の実{ww}は\n　うまいらしいのぉ～」\n　",
-  "en": ""
+  "en": "\"Look, that snow hut you see to the east is where the {bb}Laid-Back Oni{ww} lives!\"{KP}\"They say the {bb}Oni Fruit{ww} he grows is mighty tasty, eh...\""
  },
  {
   "id": "GSV1100D/15/0018",
   "kind": "msg",
   "jp": "桃太郎は\n足もとを　しらべた！\n　{KP}\nしかし　気になるものは\n何もなかった！\n　",
-  "en": ""
+  "en": "Momotaro examined the ground at his feet!{KP}But there was nothing of interest!"
  },
  {
   "id": "GSV1100D/15/0086",
   "kind": "msg",
   "jp": "「きゃーあぁぁ！\n　たぁぁすぅぅけぇぇてぇぇー！」\n　",
-  "en": ""
+  "en": "\"Kyaaaah! Heeelp meeeee!\""
  },
  {
   "id": "GSV1100D/15/00F4",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}{MM}{ww}を　使った！\n　",
-  "en": ""
+  "en": "Momotaro used {bb}{MM}{ww}!"
  },
  {
   "id": "GSV1100D/15/012E",
   "kind": "msg",
   "jp": "　\nバキッ！\n　\n　",
-  "en": ""
+  "en": "Crack!"
  },
  {
   "id": "GSV1100D/15/0164",
   "kind": "msg",
   "jp": "ひょうたんが\n真っ二つに　われた！\n　",
-  "en": ""
+  "en": "The gourd split clean in two!"
  }
 ]

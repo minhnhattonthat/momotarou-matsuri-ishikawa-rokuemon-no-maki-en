@@ -3,24 +3,24 @@
   "id": "GSV1206D/2/002C",
   "kind": "msg",
   "jp": "「今年は　雪が　少ないねぇ～！\n　雪祭りは　見られるんだろうか？」\n　",
-  "en": ""
+  "en": "\"Not much snow this year! Will we get to see the Snow Festival?\""
  },
  {
   "id": "GSV1206D/2/0084",
   "kind": "msg",
   "jp": "「ほぉ～　桃太郎さん！\n　{bb}雪女{ww}に　会いに　行くのかいのぉ！」\n　{KP}\n「ならば\n　{bb}ユキだるま{ww}を　さがしなされ！」\n　{KP}\n「人を　信じない　{bb}雪女{ww}は\n　同じ　種族の　{bb}ユキだるま{ww}には\n　心を　ひらいて　話すそうじゃ！」",
-  "en": ""
+  "en": "\"Oho! Momotaro-san! Off to see {bb}Yuki-onna{ww}, are you!\"{KP}\"Then go and find the {bb}Snowman{ww}!\"{KP}\"They say {bb}Yuki-onna{ww} trusts no human, but she opens her heart to the {bb}Snowman{ww}, one of her own kind!\""
  },
  {
   "id": "GSV1206D/2/0180",
   "kind": "msg",
   "jp": "「おお！　{bb}ユキだるま{ww}を\n　さがしだされたのか！？」\n　{KP}\n「さすがは　桃太郎さんじゃ！\n　これで　{bb}雪女{ww}に　会えるじゃろう！」\n　",
-  "en": ""
+  "en": "\"Oh! You found the {bb}Snowman{ww}?!\"{KP}\"That's Momotaro-san for you! Now you'll be able to meet {bb}Yuki-onna{ww}!\""
  },
  {
   "id": "GSV1206D/2/021E",
   "kind": "msg",
   "jp": "「ほぉ～　人ぎらいな　雪女が\n　この村に　やって来たとはのぉ～」\n　{KP}\n「さすがは　桃太郎さんじゃ！」\n　\n　",
-  "en": ""
+  "en": "\"Oho, to think that people-shy Yuki-onna came to this village...\"{KP}\"That's Momotaro-san for you!\""
  }
 ]

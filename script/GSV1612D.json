@@ -3,84 +3,84 @@
   "id": "GSV1612D/0/0032",
   "kind": "msg",
   "jp": "「ちょっと　ちょっと　お客さん！\n　ただで　プレイしようなんて\n　かんべんしてくださいよ～～！」",
-  "en": ""
+  "en": "\"Hey, hey, hold on there! Don't go trying to play for free! Gimme a break!\""
  },
  {
   "id": "GSV1612D/0/00DC",
   "kind": "msg",
   "jp": "「ちょっと　ちょっと　お客さん！\n　ただで　プレイしようなんて\n　かんべんしてくださいよ～～！」",
-  "en": ""
+  "en": "\"Hey, hey, hold on there! Don't go trying to play for free! Gimme a break!\""
  },
  {
   "id": "GSV1612D/2/000E",
   "kind": "msg",
   "jp": "「いらっしゃいませ！\n　{bb}ダルマおとし{ww}が\n　５０両で楽しめます」{KN}",
-  "en": ""
+  "en": "\"Welcome! You can play {bb}Daruma Drop{ww} for 50 ryo.\"{KN}"
  },
  {
   "id": "GSV1612D/2/009A",
   "kind": "msg",
   "jp": "　\n「またのおこしを」\n　\n　",
-  "en": ""
+  "en": "\"Do come again.\""
  },
  {
   "id": "GSV1612D/2/00F2",
   "kind": "msg",
   "jp": "「遊び方の説明を　聞きますか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Would you like to hear how to play?\"{KN}"
  },
  {
   "id": "GSV1612D/2/0168",
   "kind": "msg",
   "jp": "　\n「桃太郎さん　\n　お金がたりませんよ！」\n　{KP}\n「またのおこしを」\n　\n　",
-  "en": ""
+  "en": "\"Momotaro-san, you don't have enough money!\"{KP}\"Do come again.\""
  },
  {
   "id": "GSV1612D/3/000E",
   "kind": "msg",
   "jp": "「いらっしゃいませ！\n　{bb}タコタコあがれ！{ww}が\n　５０両で楽しめます」{KN}",
-  "en": ""
+  "en": "\"Welcome! You can play {bb}Fly, Kite, Fly!{ww} for 50 ryo.\"{KN}"
  },
  {
   "id": "GSV1612D/3/009E",
   "kind": "msg",
   "jp": "　\n「またのおこしを」\n　\n　",
-  "en": ""
+  "en": "\"Do come again.\""
  },
  {
   "id": "GSV1612D/3/00F6",
   "kind": "msg",
   "jp": "「遊び方の説明を　聞きますか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Would you like to hear how to play?\"{KN}"
  },
  {
   "id": "GSV1612D/3/016C",
   "kind": "msg",
   "jp": "　\n「桃太郎さん　\n　お金がたりませんよ！」\n　{KP}\n「またのおこしを」\n　\n　",
-  "en": ""
+  "en": "\"Momotaro-san, you don't have enough money!\"{KP}\"Do come again.\""
  },
  {
   "id": "GSV1612D/4/0002",
   "kind": "msg",
   "jp": "「{bb}タコタコあがれ！{ww}の\n　お空の桃は　１００点で\n　宇宙の桃は　２００点だよ！」{KP}\n　\n「でも　無理して　ミスすると\n　５００点も　とられちゃうからね！」\n　",
-  "en": ""
+  "en": "\"In {bb}Fly, Kite, Fly!{ww}, peaches in the sky are worth 100 points, and peaches in space are worth 200!\"{KP}\"But push too hard and slip up, and they'll take a whole 500 points off you!\""
  },
  {
   "id": "GSV1612D/5/0002",
   "kind": "msg",
   "jp": "「{bb}タコタコあがれ！{ww}を　遊ぶ時は\n　これだけは　覚えといてネ！」\n　{KP}\n「桃　以外の物は\n　ふれちゃダメですぅ！」\n　",
-  "en": ""
+  "en": "\"When you play {bb}Fly, Kite, Fly!{ww}, remember this one thing!\"{KP}\"Don't touch anything but peaches!\""
  },
  {
   "id": "GSV1612D/6/0002",
   "kind": "msg",
   "jp": "「{bb}ダルマおとし{ww}の　コツは\n　ちから加減なのさ！」\n　{KP}\n「止まったところが　ダメだったら\n　弱く　たたいて」\n　{KP}\n「次に　つなげなくっちゃ！\n　急いじゃ　ダメだね！」\n　",
-  "en": ""
+  "en": "\"The trick to {bb}Daruma Drop{ww} is how hard you hit!\"{KP}\"If it stops in a bad spot, give it a soft tap\"{KP}\"so you can keep it going! Don't rush it!\""
  },
  {
   "id": "GSV1612D/7/0002",
   "kind": "msg",
   "jp": "「{bb}ダルマおとし{ww}では　ダルマを\n　いっぺんに　２つ　落とすと\n　ボーナス点が！！」{KP}\n　\n「しかも　連続で　２つ　落とすと\n　ボーナスが　増えるんです！」\n　{KP}\n「びっくりしたわ～！」\n　\n　",
-  "en": ""
+  "en": "\"In {bb}Daruma Drop{ww}, knocking out 2 darumas at once earns you bonus points!!\"{KP}\"And if you knock out 2 at once again and again, the bonus grows!\"{KP}\"It blew me away!\""
  }
 ]

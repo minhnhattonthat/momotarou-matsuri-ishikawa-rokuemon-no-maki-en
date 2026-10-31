@@ -3,24 +3,24 @@
   "id": "GSV0607D/2/0010",
   "kind": "msg",
   "jp": "「どうも　桃太郎さん！」\n　\n　{KP}\n「花咲かの村は　ごらんの\n　とおりです　トホホホ……」\n　{KP}\n「花咲かじいさんが　いてくれれば\n　なんとかなるのに　……トホホホ」\n　",
-  "en": ""
+  "en": "\"Hello there, Momotaro-san!\"{KP}\"Hanasaka Village is just as you see it. Boo hoo hoo......\"{KP}\"If only Old Man Hanasaka were here, we could do something... Boo hoo hoo.\""
  },
  {
   "id": "GSV0607D/2/00E2",
   "kind": "msg",
   "jp": "「やあ　やあ　桃太郎さん！\n　ありがとうございます！」\n　{KP}\n「おかげで　花見祭りが\n　再開できました！」\n　{KP}\n「さすがは　桃太郎さんだ！\n　お礼に　{bb}方言カード{ww}を\n　さしあげましょう！」",
-  "en": ""
+  "en": "\"Well, well, Momotaro-san! Thank you so much!\"{KP}\"Thanks to you, we could start the Blossom Festival again!\"{KP}\"That's Momotaro-san for you! As thanks, let me give you a {bb}Dialect Card{ww}!\""
  },
  {
   "id": "GSV0607D/2/01BA",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０９１{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 091{ww}!{KN}"
  },
  {
   "id": "GSV0607D/2/020E",
   "kind": "msg",
   "jp": "「やあ　やあ　桃太郎さん！\n　どうか　花見祭りを\n　楽しんで　いってください！」",
-  "en": ""
+  "en": "\"Well, well, Momotaro-san! Please enjoy the Blossom Festival!\""
  }
 ]

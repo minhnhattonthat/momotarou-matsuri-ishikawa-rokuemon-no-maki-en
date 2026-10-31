@@ -15,6 +15,7 @@ Shared names reuse `../momotarou-densetsu-en/glossary.md` (same series, same own
 - Register: light, comic, all-ages Hudson humour; keep Japanese folklore flavour (oni, ryo, hermits, shrines,
   festivals), translate everything else. Sound effects in plain English or romaji onomatopoeia that reads well.
 - Abbreviations: full names and terms everywhere; prefer engine changes over shortening.
+- Spelling: American (color, favorite, practice).
 
 ## Style rules
 - Punctuation map: 「」 -> "...", 『』 -> '...', … / ・・・ -> ..., ！？ -> ?!, ～ (drawn out) -> stretch the word or
@@ -50,7 +51,6 @@ Shared names reuse `../momotarou-densetsu-en/glossary.md` (same series, same own
 | キングボンビー | King Bombee | | | |
 | ミニボンビー | Mini Bombee | | | |
 | えんま大王 / えんま | Great King Enma / Enma | | | Emma |
-| 水龍 | Water Dragon | | | |
 | 雪女 | Yuki-onna | | snow woman | |
 | 天邪鬼 | Amanojaku | | | |
 | 鬼子母神 | Kishibojin | | | |
@@ -60,9 +60,18 @@ Shared names reuse `../momotarou-densetsu-en/glossary.md` (same series, same own
 | イヌ / サル / キジ | Dog / Monkey / Pheasant | | companions | |
 | ウンチ | Poop | | | Unchi |
 | カレン | Karen | | | |
-| 希望観音 | Kannon of Hope | | | |
 | じんぱち | Jinpachi | | | |
 | さくま | Sakuma | | | |
+| タニシの助 / たにしのすけ | Tanishinosuke | | | Snailnosuke |
+| チュー太 | Chuta | | | |
+| おツル | Otsuru | | | |
+| たのきゅう | Tanokyu | | | |
+| よしきち | Yoshikichi | | | |
+| おせん | Osen | | | |
+| ましら | Mashira | | | |
+| 海ボウズ | Umibozu | | | |
+| 金二郎 | Kinjiro | | | |
+| 源次 | Genji | | carpenter | |
 
 ## Places
 | JP | EN | max | notes | Avoid |
@@ -95,13 +104,18 @@ Shared names reuse `../momotarou-densetsu-en/glossary.md` (same series, same own
 | 氷の洞窟 | Ice Cave | | | |
 | 龍の島 | Dragon Island | | | |
 | ひょうたんの森 | Gourd Forest | | | |
+| 隠れ里 | Hidden Village | | | |
+| カチカチ山 | Mt. Kachi-Kachi | | | |
+| なぞとき洞窟 | Riddle Cave | | | |
+| あみだ洞窟 | Amida Cave | | | |
+| たにしヶ池 | Snail Pond | | | |
 
 ## Items / arts / terms
 | JP | EN | max | notes | Avoid |
 |---|---|---|---|---|
-| 鬼 | oni | | lowercase in prose, Oni in names (History Quiz Oni); plural oni | ogre, demon |
-| 仙人 | hermit / Hermit | | | sage |
-| 術 | art | | ひえんの術 -> the Warp art | spell, jutsu |
+| 鬼 | oni | | lowercase in prose, Oni in names (History Quiz Oni); plural oni | |
+| 仙人 | hermit / Hermit | | | |
+| 術 | art | | ひえんの術 -> the Warp art | jutsu |
 | ひえん | Warp | | ひえんの巻物 Warp Scroll | |
 | ぬけだし | Escape | | | |
 | はやあし | Dash | | | |
@@ -111,7 +125,8 @@ Shared names reuse `../momotarou-densetsu-en/glossary.md` (same series, same own
 | ときかね | Time Bell | | ときかねの術 the Time Bell art (rings day/night) | |
 | たこあげ | Kite | | たこあげの術 the Kite art | |
 | 段 | level | | 段がもらえる -> earn levels | dan |
-| 両 | ryo | | currency, "100 ryo" | gold, yen |
+| 両 | ryo | | currency, "100 ryo" (never gold or yen) | |
+| 小判 | koban | | gold coins: "koban coins" | |
 | お祭り / 祭り | festival | | | matsuri |
 | トロフィー | trophy | | | |
 | 鐘 | bell | | 赤/青/黄/緑の鐘 Red/Blue/Yellow/Green Bell | |
@@ -142,6 +157,47 @@ Shared names reuse `../momotarou-densetsu-en/glossary.md` (same series, same own
 | 新記録 | new record | | | |
 | 宿屋 | inn | | | |
 | 歩数 | Steps | | status field | |
+| 歩数計 | Pedometer | | | |
+| 水龍 | Water Dragon | | deity: 水龍さま -> Lord Water Dragon (no -sama) | |
+| 希望観音 | Kannon of Hope | | deity: 希望観音さま -> the Kannon of Hope (no -sama) | |
+| 鬼まとあて | Oni Target Toss | | minigame | |
+| ゆうぎ名人 | Game Master | | | |
+| 雷神 / 風神 | Raijin / Fujin | | | |
+| 真実の鏡 | Mirror of Truth | | | |
+| 乗船券 | Boat Ticket | | | |
+| 桃太郎電鉄 | Momotaro Dentetsu | | | |
+| 餅つきぺったんこ | Pound-Pound Mochi | | minigame | Mochi Pounding Pettanko |
+| はねつき地獄 | Hanetsuki Hell | | minigame | Shuttlecock Hell |
+| えらんで団子 | Pick-a-Dango | | minigame | Pick-a-Dumpling |
+| 都でＧＯ | Capital de GO | | minigame (Densha de GO parody) | Capital GO |
+| だじゃれ大会 | Pun Contest | | 天下一だじゃれ大会 World's Greatest Pun Contest | |
+| からくり人形 | Karakuri Doll | | | |
+| 首かざり | Necklace | | | |
+| 五重塔 | Five-Story Pagoda | | | |
+| はかいの鐘 | Bell of Destruction | | | |
+| はらいたの薬 | Tummy Medicine | | | Stomachache Medicine |
+| ニセ桃太郎 | fake Momotaro | | | |
+| ユキだるま | Snowman | | ユキだるまチャン Snowman-chan | |
+| 免許皆伝 | Full Mastery | | score rank | |
+| ゆうぎアルバム | Game Album | | | |
+| 虹の玉 | Rainbow Orb | | | |
+| 元気の玉 | Vigor Orb | | | Energy Orb |
+| こやし玉 | Fertilizer Ball | | | Manure Ball |
+| けむり玉 | Smoke Bomb | | | |
+| 天のはごろも | Heavenly Robe | | | |
+| 隠れみの | Hiding Cloak | | | |
+| にんそうがき | Wanted Poster | | | |
+| 貸衣装屋 | costume rental shop | | | |
+| 金魚すくい | Goldfish Scooping | | minigame | Fish Scoop |
+| 鬼たたき | Whack-an-Oni | | minigame | Oni Whack |
+| まくらなげ | Pillow Fight | | レッツ！まくらなげ -> Let's Pillow Fight! | |
+| 風車くるりん | Pinwheel Spin | | | |
+| 種まきドンドン | Sowing Don-Don | | | |
+| タヌキスロット | Tanuki Slots | | | |
+| 偶数タヌキ | Even Tanuki | | | |
+| ハリセン | paper fan | | ハリセンちょっぷ！ Paper Fan Chop! | |
+| ふくわらい / 福笑い | Fukuwarai | | | |
+| 方言 | dialect | | | |
 
 ## Decisions from earlier batches
 - (none yet)

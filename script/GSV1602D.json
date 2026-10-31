@@ -3,66 +3,66 @@
   "id": "GSV1602D/4/000A",
   "kind": "msg",
   "jp": "「う～ん……」\n　\n　",
-  "en": ""
+  "en": "\"Uuugh......\""
  },
  {
   "id": "GSV1602D/4/0036",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}希望のおかゆ{ww}を　食べさせた！\n　",
-  "en": ""
+  "en": "Momotaro fed him the {bb}Hope Porridge{ww}!"
  },
  {
   "id": "GSV1602D/4/0074",
   "kind": "msg",
   "jp": "「モグ　モグ　モグ…」\n　\n　",
-  "en": ""
+  "en": "\"Munch, munch, munch...\""
  },
  {
   "id": "GSV1602D/4/00A2",
   "kind": "msg",
   "jp": "「栗太郎は\n　おいしそうに　食べてますね～」\n　",
-  "en": ""
+  "en": "\"Kuritaro sure looks like he's enjoying it~\""
  },
  {
   "id": "GSV1602D/4/00E2",
   "kind": "msg",
   "jp": "「ふぅーっ！　おいしかった！\n　元気が　出てきたクリ！」\n　",
-  "en": ""
+  "en": "\"Phew! That was yummy! I feel my strength coming back, kuri!\""
  },
  {
   "id": "GSV1602D/4/012E",
   "kind": "msg",
   "jp": "「栗太郎！　きみのために\n　桃太郎さんは　熱いのを\n　がまんして」{KP}\n　\n「この料理を　運んで来て\n　くれたんだよ」\n　",
-  "en": ""
+  "en": "\"Kuritaro! Momotaro-san put up with the heat\"{KP}\"to carry this food all the way here for you, you know.\""
  },
  {
   "id": "GSV1602D/4/01BC",
   "kind": "msg",
   "jp": "「あ…　ありがとうクリ！」\n　\n　",
-  "en": ""
+  "en": "\"Th... thank you, kuri!\""
  },
  {
   "id": "GSV1602D/4/01EE",
   "kind": "msg",
   "jp": "「桃太郎さん　よかったですね！\n　これで　柿太郎との　対決を\n　見せてあげれますね！」{KP}\n　\n「栗太郎！\n　がんばっていけよ！」\n　",
-  "en": ""
+  "en": "\"Isn't that great, Momotaro-san! Now he can watch your showdown with Kakitaro!\"{KP}\"Kuritaro! Keep at it!\""
  },
  {
   "id": "GSV1602D/4/0288",
   "kind": "msg",
   "jp": "「あんちゃんと　桃太郎さんの\n　真剣勝負が　見たくて」\n　{KP}\n「ここまで　来たんだクリ！\n　こんな所で　寝ている場合\n　じゃないクリ！」",
-  "en": ""
+  "en": "\"I wanted to see my big bro and Momotaro-san go head to head for real,\"{KP}\"so I came all this way, kuri! This is no time to be lying around, kuri!\""
  },
  {
   "id": "GSV1602D/4/0324",
   "kind": "msg",
   "jp": "「それでは　桃太郎さん\n　オイラは　ここで\n　お別れさせて　もらいます」{KP}\n　\n「用事を　すませてから\n　ひょっとこの村に\n　もどります！」{KP}\n　\n「では　お気をつけて！」\n　\n　",
-  "en": ""
+  "en": "\"Well then, Momotaro-san, I'll be taking my leave here.\"{KP}\"Once I've taken care of some business, I'll head back to Hyottoko Village!\"{KP}\"Take care, now!\""
  },
  {
   "id": "GSV1602D/5/0028",
   "kind": "msg",
   "jp": "「きっと　旅の　つかれが\n　どっと　出たのでしょうね！」\n　{KP}\n「何か　栄養の　ある物でも\n　食べさせた方が　いいですよ！」\n　{KP}\n「あっ！　そうだ」\n　\n　{KP}\n「この都には　元スリの\n　{bb}銀次さん{ww}の　料亭が\n　あったはずですよ！」{KP}\n　\n「{bb}銀次さん{ww}に　相談しては？\n　桃太郎さんの　頼みなら\n　聞いてくれるはずですよ！」",
-  "en": ""
+  "en": "\"I bet the journey finally wore him out!\"{KP}\"You'd better feed him something nourishing!\"{KP}\"Oh! I know.\"{KP}\"There should be a restaurant here in the Capital run by {bb}Ginji-san{ww}, the former pickpocket!\"{KP}\"Why not ask {bb}Ginji-san{ww}? If it's you asking, Momotaro-san, I'm sure he'll help!\""
  }
 ]

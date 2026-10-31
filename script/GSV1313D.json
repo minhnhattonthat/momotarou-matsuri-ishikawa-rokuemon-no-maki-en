@@ -3,54 +3,54 @@
   "id": "GSV1313D/2/0026",
   "kind": "msg",
   "jp": "「ムス～　何か用！？」\n　\n　",
-  "en": ""
+  "en": "\"Hmph... What do you want?!\""
  },
  {
   "id": "GSV1313D/2/0056",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}{MM}{ww}を　わたした！\n　",
-  "en": ""
+  "en": "Momotaro handed over {bb}{MM}{ww}!"
  },
  {
   "id": "GSV1313D/2/0094",
   "kind": "msg",
   "jp": "「ムス～　何これ…　食べるの？\n　まずかったら　かみつくわよ！」\n　{KP}\n「パクッ！……………」\n　\n　{KP}\n「ムス～　………ムフッ\n　…………ムフフッ」\n　{KP}\n「アーーーーハハハハッ\n　イーーーーヒヒヒヒッ\n　ウーーーーフフフフッ！」{KP}\n　\n「アハハハッ\n　何なの　この　感覚！\n　楽しーーーーーーい！」",
-  "en": ""
+  "en": "\"Hmph... What's this... Do I eat it? If it tastes bad, I'll bite you!\"{KP}\"Chomp!...............\"{KP}\"Hmph... .........Pfft... ...........Pfft-hee!\"{KP}\"Aaaaaa-hahahaha! Eeeeee-hehehehe! Ooooooo-hohohoho!\"{KP}\"Ahahaha! What is this feeling?! This is so much fuuuuuun!\""
  },
  {
   "id": "GSV1313D/2/01EA",
   "kind": "msg",
   "jp": "「アーーーーハハハハッ\n　イーーーーヒヒヒヒッ\n　ウーーーーフフフフッ！」{KP}\n　\n「アハハッ　楽しーーーーーい！\n　アハハッ　止まらなーーーい！\n　アハハッ　ちょっと　苦しーーい！」",
-  "en": ""
+  "en": "\"Aaaaaa-hahahaha! Eeeeee-hehehehe! Ooooooo-hohohoho!\"{KP}\"Ahaha, so much fuuuun! Ahaha, I can't stooop! Ahaha, it kinda huuurts!\""
  },
  {
   "id": "GSV1313D/2/02B8",
   "kind": "msg",
   "jp": "「笑うことが　こんなに\n　気持ちいいなんて！」\n　{KP}\n「今度は　だじゃれ会場で\n　笑ってみたいわ！」\n　",
-  "en": ""
+  "en": "\"I never knew laughing could feel so good!\"{KP}\"Next time, I want to laugh at the Pun Contest!\""
  },
  {
   "id": "GSV1313D/3/001E",
   "kind": "msg",
   "jp": "「いや～　うちの娘は\n　生まれてから　笑ったことが\n　ないから」{KP}\n　\n「この　ほほえみの村に\n　引っ越して　来たんだけれど\n　いっこうに　笑わないんだよ！」{KP}\n　\n「いや～　何か　いい方法は\n　ないものかねぇ～」\n　",
-  "en": ""
+  "en": "\"Well, you see, my daughter hasn't laughed once since the day she was born,\"{KP}\"so we moved here to Hohoemi Village, but she still won't laugh at all!\"{KP}\"Well, isn't there some good way to fix that...\""
  },
  {
   "id": "GSV1313D/3/0116",
   "kind": "msg",
   "jp": "「おお～　娘が…　娘が\n　笑っておるぞ！」\n　{KP}\n「さすがは　桃太郎さん！\n　ありがとう！　ありがとう！」\n　{KP}\n「お礼に　これを　受け取って\n　ください！」\n　",
-  "en": ""
+  "en": "\"Oh! My daughter... my daughter is laughing!\"{KP}\"Just what I'd expect from Momotaro-san! Thank you! Thank you!\"{KP}\"Please take this as thanks!\""
  },
  {
   "id": "GSV1313D/3/01D0",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０８９{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 089{ww}!{KN}"
  },
  {
   "id": "GSV1313D/3/0224",
   "kind": "msg",
   "jp": "「あまり　笑いすぎると\n　ちょっと　こわいかな………」\n　",
-  "en": ""
+  "en": "\"If she laughs too much, though, it's a little scary.........\""
  }
 ]

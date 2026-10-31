@@ -3,42 +3,42 @@
   "id": "GSV2110D/2/001E",
   "kind": "msg",
   "jp": "「おお　桃太郎さん\n　うちの孫が　{bb}夜叉・キシボ{ww}に\n　さらわれてしまったのじゃ！」{KP}\n　\n「お願いです！\n　助け出してくだされ！」\n　",
-  "en": ""
+  "en": "\"Oh, Momotaro-san, my grandchild has been kidnapped by {bb}Yasha Kishibo{ww}!\"{KP}\"I beg of you! Please rescue the child!\""
  },
  {
   "id": "GSV2110D/2/00BE",
   "kind": "msg",
   "jp": "「おお　桃太郎さん！\n　うちの孫が　帰って来たのじゃ！」\n　{KP}\n「ありがとうございました！\n　お礼に　わが家　特製の\n　{bb}あぶらあげ{ww}を　さしあげます！」{KP}\n　\n「うどんの具に　してくだされ！」\n　\n　",
-  "en": ""
+  "en": "\"Oh, Momotaro-san! My grandchild has come home!\"{KP}\"Thank you so much! As thanks, please take this {bb}fried tofu{ww}, our family's specialty!\"{KP}\"Put it in your udon!\""
  },
  {
   "id": "GSV2110D/2/01A2",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}あぶらあげ{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Fried Tofu{ww}!{KN}"
  },
  {
   "id": "GSV2110D/2/01E8",
   "kind": "msg",
   "jp": "「うちの孫は　今日も　元気に\n　遊び回って　おります！」\n　",
-  "en": ""
+  "en": "\"My grandchild is out playing and running about, full of energy again today!\""
  },
  {
   "id": "GSV2110D/3/0010",
   "kind": "msg",
   "jp": "「桃太郎さんの　おかげで\n　やっと　おうちに　もどって\n　来れたよ！」{KP}\n　\n「お礼に　ボクの\n　{bb}カエルぐるみ{ww}を　あげるね！」\n　",
-  "en": ""
+  "en": "\"Thanks to you, Momotaro-san, I finally got to come home!\"{KP}\"As thanks, I'll give you my {bb}Frog Suit{ww}!\""
  },
  {
   "id": "GSV2110D/3/00AC",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}カエルぐるみ{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Frog Suit{ww}!{KN}"
  },
  {
   "id": "GSV2110D/3/00FE",
   "kind": "msg",
   "jp": "「たまに　鬼子母神さんの　所に\n　遊びに　行っているんだ！」\n　",
-  "en": ""
+  "en": "\"Sometimes I go over to play at Kishibojin-san's place!\""
  }
 ]

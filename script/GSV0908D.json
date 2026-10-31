@@ -3,36 +3,36 @@
   "id": "GSV0908D/2/0018",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　これからも　みんなに…」\n　{KP}\n「正しい　道を\n　教えて　くださいね！」\n　",
-  "en": ""
+  "en": "\"Momotaro-san! Please keep on showing everyone...\"{KP}\"the right path!\""
  },
  {
   "id": "GSV0908D/2/008C",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}{MM}{ww}を　見せた！\n　",
-  "en": ""
+  "en": "Momotaro showed him the {bb}{MM}{ww}!"
  },
  {
   "id": "GSV0908D/2/00BC",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　それは　{bb}ゆうぎのモリ{ww}！\n　……さがしていたんです」{KP}\n　\n「ぜひ　ボクの　{bb}方言カード{ww}と\n　こうかんして　ください！」\n　{KN}",
-  "en": ""
+  "en": "\"Momotaro-san! That's the {bb}Game Harpoon{ww}! ...I've been looking for it.\"{KP}\"Please, trade it for my {bb}Dialect Card{ww}!\"{KN}"
  },
  {
   "id": "GSV0908D/2/0176",
   "kind": "msg",
   "jp": "「ありがとうございます！\n　桃太郎さん！」\n　{KP}\n「{bb}方言カード{ww}を　どうぞ！」\n　\n　",
-  "en": ""
+  "en": "\"Thank you so much, Momotaro-san!\"{KP}\"Here's the {bb}Dialect Card{ww}!\""
  },
  {
   "id": "GSV0908D/2/01E2",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード００６{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 006{ww}!{KN}"
  },
  {
   "id": "GSV0908D/2/0242",
   "kind": "msg",
   "jp": "「そうですか…\n　残念です」\n　{KP}\n「でも　気がかわったら\n　いつでも　来てくださいね！」\n　",
-  "en": ""
+  "en": "\"I see... That's too bad.\"{KP}\"But if you change your mind, come by anytime!\""
  }
 ]

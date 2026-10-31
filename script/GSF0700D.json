@@ -9,7 +9,7 @@
   "id": "GSF0700D/3/0138",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}{MM}{ww}を　使った！\n　",
-  "en": ""
+  "en": "Momotaro used {bb}{MM}{ww}!"
  },
  {
   "id": "GSF0700D/3/0172",
@@ -39,7 +39,7 @@
   "id": "GSF0700D/3/05AC",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}{MM}{ww}を　わたした！\n　",
-  "en": ""
+  "en": "Momotaro handed over {bb}{MM}{ww}!"
  },
  {
   "id": "GSF0700D/3/05DE",
@@ -69,6 +69,6 @@
   "id": "GSF0700D/4/005C",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}{MM}{ww}を　しかけた！\n　",
-  "en": ""
+  "en": "Momotaro set the {bb}{MM}{ww}!"
  }
 ]

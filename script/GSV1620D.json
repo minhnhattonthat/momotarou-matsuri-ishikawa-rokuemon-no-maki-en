@@ -3,132 +3,132 @@
   "id": "GSV1620D/4/001E",
   "kind": "msg",
   "jp": "「いよぉ～　いらっしゃ～い！\n　ご用けんは\n　なんで　ございまするかぁ～？」{KN}",
-  "en": ""
+  "en": "\"Weeell, weeelcome! And what might be your business, pray tell?\"{KN}"
  },
  {
   "id": "GSV1620D/4/009A",
   "kind": "msg",
   "jp": "　\n「お面　１枚　１００両ですが\n　よろしいか？　よろし～い～か～？」\n　{KN}",
-  "en": ""
+  "en": "\"Masks are 100 ryo apiece. Is that all right? All ri-i-ight?\"{KN}"
  },
  {
   "id": "GSV1620D/4/0140",
   "kind": "msg",
   "jp": "　\n「は～て　さて　桃太郎さん？\n　お金が　たりませぬぅ～！」\n　{KP}\n「いずこにて　かせいでから\n　また　おいで　くだしゃんせ～！」\n　",
-  "en": ""
+  "en": "\"Weeell now, Momotaro-san? You're short on mooney!\"{KP}\"Pray go and earn some somewhere, then come back agaaain!\""
  },
  {
   "id": "GSV1620D/4/01E2",
   "kind": "msg",
   "jp": "　\n「あいや　桃太郎さん！　お面を\n　持ちすぎで　ございまする～～」\n　{KP}\n「お面を\n　売っては　いかが～か～な」\n　",
-  "en": ""
+  "en": "\"Oh my, Momotaro-san! You are carrying too many maaasks!\"{KP}\"Perhaps you might sell a mask or twooo?\""
  },
  {
   "id": "GSV1620D/4/0290",
   "kind": "msg",
   "jp": "　\n「されど　桃太郎さん　桃太郎さん\n　お面が　あ～り～ませぬ～！」\n　",
-  "en": ""
+  "en": "\"And yet, Momotaro-san, Momotaro-san, you have no ma-a-asks!\""
  },
  {
   "id": "GSV1620D/4/02EE",
   "kind": "msg",
   "jp": "　\n「また　おいで　くだしゃんせ～！」\n　\n　",
-  "en": ""
+  "en": "\"Pray come agaaain!\""
  },
  {
   "id": "GSV1620D/4/0346",
   "kind": "msg",
   "jp": "「やめなさるかぁ～～！\n　では　１００両を\n　お返しするでござる～～！」",
-  "en": ""
+  "en": "\"You'll not buy-y-y?! Then I return your 100 ryo-o-o!\""
  },
  {
   "id": "GSV1620D/4/03C8",
   "kind": "msg",
   "jp": "　\n「さぁ～て　さて　ほかに　なにか\n　ごようは　ござらぬかぁ～？」\n　{KN}",
-  "en": ""
+  "en": "\"Weeell now, is there aught else I might do for youuu?\"{KN}"
  },
  {
   "id": "GSV1620D/5/000A",
   "kind": "msg",
   "jp": "「ウハハハ！　おもしろい　お面が\n　できあがったで　ござるぅ～！」\n　{KP}\n「さぁ～て　さて　桃太郎さん！\n　お面で　{bb}にらめっこアップップ！{ww}\n　しませぬか～？」{KN}",
-  "en": ""
+  "en": "\"Uhahaha! What an amusing mask has been completed!\"{KP}\"Weeell now, Momotaro-san! Shall we have a round of {bb}Funny Face Face-Off!{ww} with masks?\"{KN}"
  },
  {
   "id": "GSV1620D/5/00E2",
   "kind": "msg",
   "jp": "「遊び方の説明を　聞きますか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Would you like to hear how to play?\"{KN}"
  },
  {
   "id": "GSV1620D/5/014A",
   "kind": "msg",
   "jp": "　\n「ぬぬぬぬぬ～～っ！　お面を\n　持っていないとな～～～～～！」\n　{KP}\n「あっちへ　行け！　あっちへ～！\n　お面を　買ってから　来～いっ！」\n　",
-  "en": ""
+  "en": "\"Nununununnn! You say you have no maaask?!\"{KP}\"Off with you! Away, away! Buy a mask first, then come baaack!\""
  },
  {
   "id": "GSV1620D/5/01F4",
   "kind": "msg",
   "jp": "　\n「わたしで　よかったら\n　いつでも　相手に　なりますよ～！」\n　{KP}\n「あ　なりますよぉ～！\n　いよ～っ　ちょん　ちょん！」\n　",
-  "en": ""
+  "en": "\"If you'll have me, I'll be your opponent anytiiime!\"{KP}\"Oh, anytime at aaall! Yoooh, clack clack!\""
  },
  {
   "id": "GSV1620D/6/0002",
   "kind": "msg",
   "jp": "「おんなじ　お面で\n　{bb}にらめっこアップップ！{ww}しても\n　勝負は　わかんないよ！」{KP}\n　\n「勝ち負けを　決める人が　かわると\n　逆転も　あるんだよね！」\n　",
-  "en": ""
+  "en": "\"Even if you both play {bb}Funny Face Face-Off!{ww} with the same mask, you can't tell who'll win!\"{KP}\"If the judge changes, the tables can turn!\""
  },
  {
   "id": "GSV1620D/7/001E",
   "kind": "msg",
   "jp": "「いらっしゃいませ！」\n　\n　{KP}\n「桃太郎商店の\n　おおだんな　さくまで\n　ございます！」{KP}\n　\n「今は　桃太郎電鉄の\n　次回作を　つくっていますよ」\n　{KP}\n「今　アイディア出しの\n　真っ最中なんですよ！」\n　{KP}\n「これからも\n　桃太郎シリーズを\n　よろしくね！」{KP}\n　\n「あっ　そうそう！」\n　\n　{KP}\n「{bb}方言カード{ww}が　あと１枚で\n　コンプリートと　いう時に\n　ボクの所に　来てくださいね」{KP}\n　\n「なぜかって？\n　それは　ないしょ！」\n　",
-  "en": ""
+  "en": "\"Welcome!\"{KP}\"I am Sakuma, the big boss of the Momotaro Store!\"{KP}\"Right now I'm making the next Momotaro Dentetsu game.\"{KP}\"I'm right in the middle of coming up with ideas!\"{KP}\"Please keep enjoying the Momotaro series!\"{KP}\"Oh, right!\"{KP}\"When you're just 1 {bb}Dialect Card{ww} away from completing the set, come see me.\"{KP}\"Why, you ask? That's a secret!\""
  },
  {
   "id": "GSV1620D/7/020E",
   "kind": "msg",
   "jp": "「いらっしゃいませ！」\n　\n　{KP}\n「桃太郎商店の\n　おおだんな　さくまで\n　ございます！」{KP}\n　\n「すごいですね！\n　桃太郎さん！」\n　{KP}\n「なんと！\n　{bb}方言カード{ww}９９枚！\n　よく　集めましたね！」{KP}\n　\n「では　ボクの　とっておきの\n　１枚を　さしあげましょう！」\n　",
-  "en": ""
+  "en": "\"Welcome!\"{KP}\"I am Sakuma, the big boss of the Momotaro Store!\"{KP}\"That's amazing, Momotaro-san!\"{KP}\"Why, 99 {bb}Dialect Cards{ww}! You've done well to collect them all!\"{KP}\"Then let me give you my very special card!\""
  },
  {
   "id": "GSV1620D/7/0344",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード１００{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 100{ww}!{KN}"
  },
  {
   "id": "GSV1620D/7/038C",
   "kind": "msg",
   "jp": "「これで　１００枚！\n　すべての　{bb}方言カード{ww}が\n　そろいましたね！」{KP}\n　\n「たくさん　友達に\n　じまんして　くださいね！」\n　{KP}\n「ありがとうございました！」\n　\n　",
-  "en": ""
+  "en": "\"That makes 100! You've collected every {bb}Dialect Card{ww}!\"{KP}\"Go and show off to all your friends!\"{KP}\"Thank you so much!\""
  },
  {
   "id": "GSV1620D/7/045E",
   "kind": "msg",
   "jp": "「いらっしゃいませ！」\n　\n　{KP}\n「桃太郎商店の\n　おおだんな　さくまで\n　ございます！」{KP}\n　\n「今は　桃太郎電鉄の\n　次回作を　つくっていますよ」\n　{KP}\n「今　アイディア出しの\n　真っ最中なんですよ！」\n　{KP}\n「これからも\n　桃太郎シリーズを\n　よろしくね！」",
-  "en": ""
+  "en": "\"Welcome!\"{KP}\"I am Sakuma, the big boss of the Momotaro Store!\"{KP}\"Right now I'm making the next Momotaro Dentetsu game.\"{KP}\"I'm right in the middle of coming up with ideas!\"{KP}\"Please keep enjoying the Momotaro series!\""
  },
  {
   "id": "GSV1620D/8/0010",
   "kind": "msg",
   "jp": "「ひゃ～！\n　さくまさんが　湯水のように\n　アイディアを　出すから」{KP}\n　\n「ボクも　湯水のごとく\n　絵を　書かなきゃ\n　いけないなぁ～」",
-  "en": ""
+  "en": "\"Yikes! Sakuma-san pours out ideas like water from a tap,\"{KP}\"so I've got to pour out drawings just as fast...\""
  },
  {
   "id": "GSV1620D/8/00B2",
   "kind": "msg",
   "jp": "「うひゃ～！\n　さくまさんの　湯水のように\n　アイディアを　出すから」{KP}\n　\n「ボクも　湯水のごとく\n　絵を　書かなきゃ\n　いけないなぁ～」{KP}\n　\n「また　てつ夜かなぁ～」\n　\n　",
-  "en": ""
+  "en": "\"Yiiikes! Sakuma-san pours out ideas like water from a tap,\"{KP}\"so I've got to pour out drawings just as fast...\"{KP}\"Another all-nighter, I guess...\""
  },
  {
   "id": "GSV1620D/9/0002",
   "kind": "msg",
   "jp": "「この階段は　さくまさんの　家に\n　つながっている　地下通路の\n　入口です！」{KP}\n　\n「なんでも　最近　さくまさんは\n　地下通路の　カベから　{bb}緑の鐘{ww}を\n　見つけたのよ！」{KP}\n　\n「ふつうの　鐘の音とは\n　ちがう音が　するそうよ！」\n　{KP}\n「今は　誰にも　盗られないように\n　大切に　しまってあるそうよ！」\n　",
-  "en": ""
+  "en": "\"These stairs are the entrance to an underground passage that leads to Sakuma-san's house!\"{KP}\"They say Sakuma-san recently found the {bb}Green Bell{ww} in the wall of the underground passage!\"{KP}\"Apparently it doesn't sound like an ordinary bell at all!\"{KP}\"They say he's keeping it safely tucked away so no one can steal it!\""
  },
  {
   "id": "GSV1620D/10/0002",
   "kind": "msg",
   "jp": "「お面を　かぶった人たちに\n　会いましたか？」\n　{KP}\n「お面屋さんで　ソックリな　お面を\n　つくって　持っていくと」\n　{KP}\n「ステキな　{bb}方言カード{ww}と\n　取りかえて　くれますよ！」\n　",
-  "en": ""
+  "en": "\"Have you met the people wearing masks?\"{KP}\"If you have the mask shop make a mask just like theirs and bring it to them,\"{KP}\"they'll trade you a lovely {bb}Dialect Card{ww} for it!\""
  }
 ]

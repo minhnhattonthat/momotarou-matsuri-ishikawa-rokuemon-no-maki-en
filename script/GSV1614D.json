@@ -3,12 +3,12 @@
   "id": "GSV1614D/2/0010",
   "kind": "msg",
   "jp": "「オイラは　{bb}方言カード{ww}に　ついての\n　研究を　している者です」\n　{KP}\n「桃太郎さん！\n　{bb}カード仙人{ww}を　ごぞんじですか？」\n　{KP}\n「{bb}カード仙人{ww}は　{bb}カードアルバム{ww}を\n　くれるといわれる　仙人です」\n　{KP}\n「並び洞窟から\n　少し　南東に　住んでいます」\n　{KP}\n「{bb}カードアルバム{ww}を　持っていると\n　いいことが　あるんですよ！」\n　{KP}\n「手に入れた　{bb}方言カード{ww}を\n　見られるように　なるんですよ！」\n　",
-  "en": ""
+  "en": "\"I'm a researcher who studies {bb}Dialect Cards{ww}.\"{KP}\"Momotaro-san! Have you heard of the {bb}Card Hermit{ww}?\"{KP}\"The {bb}Card Hermit{ww} is a hermit who's said to hand out {bb}Card Albums{ww}.\"{KP}\"He lives a little to the southeast of Row Cave.\"{KP}\"Good things happen when you have a {bb}Card Album{ww}!\"{KP}\"You can look at all the {bb}Dialect Cards{ww} you've collected!\""
  },
  {
   "id": "GSV1614D/2/01D6",
   "kind": "msg",
   "jp": "「オイラは　{bb}方言カード{ww}に　ついての\n　研究を　している者です」\n　{KP}\n「{bb}方言カード{ww}が　たくさん　集まったら\n　カード仙人に　会いに　行くと\n　いいですよ！」{KP}\n　\n「記念品を　くれる時が　あるようです」\n　\n　",
-  "en": ""
+  "en": "\"I'm a researcher who studies {bb}Dialect Cards{ww}.\"{KP}\"Once you've collected lots of {bb}Dialect Cards{ww}, you should go and see the Card Hermit!\"{KP}\"It seems he sometimes gives out prizes.\""
  }
 ]

@@ -3,36 +3,36 @@
   "id": "GSV0210D/2/003A",
   "kind": "msg",
   "jp": "「やぁ　桃太郎さん！\n　よく　おいでなすった！」\n　{KP}\n「桃太郎さんのおかげで　この村も\n　せいだいな　お祭りを　\n　ひらけるように　なりました！」{KP}\n　\n「そこで　桃太郎さんにも\n　お祭りを　楽しんでいただこうと\n　{bb}招待状{ww}を　お送りしたのです！」{KP}\n　\n「その　{bb}招待状{ww}を　持っていれば\n　この村の　ゆうぎは　すべて\n　無料で　遊べます！」{KP}\n　\n「どうぞ　いろんな　{bb}ゆうぎ{ww}を\n　楽しんでいって　くだされ！」\n　",
-  "en": ""
+  "en": "\"Why, Momotaro-san! So good of you to come!\"{KP}\"Thanks to you, Momotaro-san, this village can hold a grand festival again!\"{KP}\"So we sent you an {bb}Invitation{ww}, hoping you'd enjoy the festival too!\"{KP}\"As long as you have that {bb}Invitation{ww}, you can play every game in this village for free!\"{KP}\"Please, enjoy all sorts of {bb}games{ww}!\""
  },
  {
   "id": "GSV0210D/2/0216",
   "kind": "msg",
   "jp": "「その　{bb}招待状{ww}を　持っていれば\n　この村の　ゆうぎは　すべて\n　無料で　遊べます！」{KP}\n　\n「どうか　カチカチの村祭りを\n　心ゆくまで　楽しんで\n　くだされ！」",
-  "en": ""
+  "en": "\"As long as you have that {bb}Invitation{ww}, you can play every game in this village for free!\"{KP}\"Please enjoy the Kachi-Kachi Village festival to your heart's content!\""
  },
  {
   "id": "GSV0210D/2/02D2",
   "kind": "msg",
   "jp": "「あ～　こまったことに\n　なってしまった！」\n　{KP}\n「{bb}まき{ww}がなくては　カチカチの村の\n　名物の　{bb}大文字焼き{ww}が　取り止めに\n　なってしまう……」",
-  "en": ""
+  "en": "\"Ahh, now we're in a fix!\"{KP}\"Without {bb}firewood{ww}, Kachi-Kachi Village's famous {bb}Daimonji Bonfire{ww} will have to be called off...\""
  },
  {
   "id": "GSV0210D/2/037E",
   "kind": "msg",
   "jp": "「ありがとう　桃太郎さん！\n　また　あなたに　助けて\n　いただきましたな！」{KP}\n　\n「お礼に　これを　どうぞ！」\n　\n　",
-  "en": ""
+  "en": "\"Thank you, Momotaro-san! You've saved us once again!\"{KP}\"Please take this as thanks!\""
  },
  {
   "id": "GSV0210D/2/040C",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０６５{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 065{ww}!{KN}"
  },
  {
   "id": "GSV0210D/2/0460",
   "kind": "msg",
   "jp": "「ありがとう　桃太郎さん！\n　また　あなたに　助けて\n　いただきましたな！」{KP}\n　\n「では　その　招待状で\n　この村の　ゆうぎを　心ゆくまで\n　楽しんで　くだされ！」",
-  "en": ""
+  "en": "\"Thank you, Momotaro-san! You've saved us once again!\"{KP}\"Now, use that Invitation to enjoy this village's games to your heart's content!\""
  }
 ]

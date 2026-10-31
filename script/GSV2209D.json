@@ -3,18 +3,18 @@
   "id": "GSV2209D/2/0084",
   "kind": "msg",
   "jp": "「あっ　おひさしぶりです！\n　わたしですよ\n　{bb}ひこぼし{ww}ですよ！」{KP}\n　\n「桃太郎さん！\n　どうか　おちからを\n　お貸しください！」{KP}\n　\n「おりひめの村に　わたる\n　橋の上に　２つの暗雲が\n　いすわり続けて　いるため」{KP}\n　\n「雨　風が　おさまらず\n　おりひめの村に\n　行くことが　できず！」{KP}\n　\n「七夕なのに　{bb}おりひめさん{ww}に\n　会うことも　できません！」\n　{KP}\n「村人　みなで　いろんな\n　方法を　ためしましたが\n　ひどくなるばかりで…」{KP}\n　\n「{bb}ダルマてんぐ{ww}が　持っていると\n　いう　{bb}大うちわ{ww}でも　あれば\n　よいのですが…」{KP}\n　\n「どうか　桃太郎さんの\n　おちからで　あの　暗雲を\n　追いはらって　ください！」{KP}\n　\n「お願いします！」\n　\n　",
-  "en": ""
+  "en": "\"Oh, long time no see! It's me! It's {bb}Hikoboshi{ww}!\"{KP}\"Momotaro-san! Please, lend me your strength!\"{KP}\"Two dark clouds have settled over the bridge that crosses to Orihime Village,\"{KP}\"so the wind and rain won't stop, and we can't get to Orihime Village!\"{KP}\"It's Tanabata, and yet I can't even see {bb}Orihime-san{ww}!\"{KP}\"All of us villagers have tried everything, but it only gets worse...\"{KP}\"If only we had the {bb}Giant Fan{ww} that {bb}Daruma Tengu{ww} is said to have...\"{KP}\"Momotaro-san, please use your strength to drive away those dark clouds!\"{KP}\"I'm begging you!\""
  },
  {
   "id": "GSV2209D/2/036E",
   "kind": "msg",
   "jp": "「どうか　桃太郎さんの\n　おちからで　あの　暗雲を\n　追いはらって　ください！」{KP}\n　\n「お願いします！」\n　\n　",
-  "en": ""
+  "en": "\"Momotaro-san, please use your strength to drive away those dark clouds!\"{KP}\"I'm begging you!\""
  },
  {
   "id": "GSV2209D/2/0400",
   "kind": "msg",
   "jp": "「ありがとうございました\n　桃太郎さん！」\n　{KP}\n「あと　橋さえ　直れば\n　{bb}おりひめさん{ww}に\n　会えるのですが…」",
-  "en": ""
+  "en": "\"Thank you so much, Momotaro-san!\"{KP}\"If only the bridge were fixed, I could see {bb}Orihime-san{ww}...\""
  }
 ]

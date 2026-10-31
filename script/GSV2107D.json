@@ -3,30 +3,30 @@
   "id": "GSV2107D/2/001E",
   "kind": "msg",
   "jp": "「おお　桃太郎さん！\n　助けてください！」\n　{KP}\n「この村の　子どもたちが\n　{bb}夜叉・キシボ{ww}に　次々に\n　さらわれて　しまっておるのです！」{KP}\n　\n「うちの子も　昨日\n　さらわれて　しまったのじゃ！」\n　{KP}\n「こんな　状態なので\n　{bb}ウサカメレース{ww}を　やっている\n　どころではないのです！」{KP}\n　\n「桃太郎さん！\n　うちの子を　助けてください！」\n　",
-  "en": ""
+  "en": "\"Oh, Momotaro-san! Please help us!\"{KP}\"The children of this village are being kidnapped one after another by {bb}Yasha Kishibo{ww}!\"{KP}\"My own child was taken just yesterday!\"{KP}\"With things like this, we're in no state to be holding the {bb}Rabbit-Turtle Race{ww}!\"{KP}\"Momotaro-san! Please save my child!\""
  },
  {
   "id": "GSV2107D/2/01AC",
   "kind": "msg",
   "jp": "「おお　桃太郎さん！\n　ありがとうございました！」\n　{KP}\n「おかげさまで　うちの子も\n　元気に　もどって　まいりました！」\n　{KP}\n「お礼に　この　{bb}方言カード{ww}を\n　受け取って　くだされ！」\n　",
-  "en": ""
+  "en": "\"Oh, Momotaro-san! Thank you so much!\"{KP}\"Thanks to you, my child has come home safe and sound!\"{KP}\"Please accept this {bb}Dialect Card{ww} as thanks!\""
  },
  {
   "id": "GSV2107D/2/0286",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０９７{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 097{ww}!{KN}"
  },
  {
   "id": "GSV2107D/2/02DA",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　ウサカメレースで　勝ちましたか？」\n　",
-  "en": ""
+  "en": "\"Momotaro-san! Did you win at the Rabbit-Turtle Race?\""
  },
  {
   "id": "GSV2107D/3/0002",
   "kind": "msg",
   "jp": "「桃太郎さんの　おかげで\n　おうちに　もどって　来れたよ！\n　ありがとうね！」",
-  "en": ""
+  "en": "\"Thanks to you, Momotaro-san, I got to come home! Thank you!\""
  }
 ]

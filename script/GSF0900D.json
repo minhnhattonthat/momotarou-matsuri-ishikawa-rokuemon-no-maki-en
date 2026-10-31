@@ -21,7 +21,7 @@
   "id": "GSF0900D/5/02BE",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}赤の鐘{ww}を　うばわれた！\n　",
-  "en": ""
+  "en": "Momotaro had the {bb}Red Bell{ww} stolen!"
  },
  {
   "id": "GSF0900D/5/0312",
@@ -33,7 +33,7 @@
   "id": "GSF0900D/5/0354",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}赤の鐘{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Red Bell{ww}!{KN}"
  },
  {
   "id": "GSF0900D/5/039E",

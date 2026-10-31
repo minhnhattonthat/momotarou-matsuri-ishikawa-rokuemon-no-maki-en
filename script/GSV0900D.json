@@ -9,636 +9,636 @@
   "id": "GSV0900D/1/05D2",
   "kind": "msg",
   "jp": "「よかったですね　桃太郎さん\n　これから\n　どうなさるのですか？」",
-  "en": ""
+  "en": "\"I'm glad it worked out, Momotaro-san. What will you do now?\""
  },
  {
   "id": "GSV0900D/1/0624",
   "kind": "msg",
   "jp": "「オイラの　あんちゃんと\n　対決を　するんだクリ」\n　{KP}\n「あんちゃんの　前で\n　おおハジを　かかせて\n　やるクリ！」",
-  "en": ""
+  "en": "\"He's gonna have a showdown with my big bro, kuri.\"{KP}\"I'll make sure he gets totally humiliated in front of big bro, kuri!\""
  },
  {
   "id": "GSV0900D/1/06AE",
   "kind": "msg",
   "jp": "「桃太郎さん！　鬼を\n　こらしめた時の　ように\n　その子の　お兄さんを……」",
-  "en": ""
+  "en": "\"Momotaro-san! Just like when you taught the oni a lesson, that boy's big brother...\""
  },
  {
   "id": "GSV0900D/1/070A",
   "kind": "msg",
   "jp": "「柿太郎って　いうんだいっ！」\n　\n　",
-  "en": ""
+  "en": "\"His name's Kakitaro!\""
  },
  {
   "id": "GSV0900D/1/0740",
   "kind": "msg",
   "jp": "「あっ…はい！\n　その　柿太郎さんを\n　改心させてくださいね！」{KP}\n　\n「それでは　ボクは　\n　用事が　あるので　これで\n　失礼します！」{KP}\n　\n「桃太郎さん！　お気をつけて！\n　それでは！」\n　",
-  "en": ""
+  "en": "\"Ah... yes! Please make that Kakitaro-san change his ways!\"{KP}\"Well, I have some business to see to, so I'll be going now!\"{KP}\"Momotaro-san! Take care! Goodbye!\""
  },
  {
   "id": "GSV0900D/1/0832",
   "kind": "msg",
   "jp": "浦島は　家に　帰って行った！\n　\n　",
-  "en": ""
+  "en": "Urashima went home!"
  },
  {
   "id": "GSV0900D/15/0002",
   "kind": "msg",
   "jp": "「」\n　ばんごうは００００８",
-  "en": ""
+  "en": "\"\"{n}The number is 00008."
  },
  {
   "id": "GSV0900D/16/0044",
   "kind": "msg",
   "jp": "「う～ん………\n　お腹が　苦しいよぉ！」\n　{KP}\n「あ……桃太郎さん……\n　ひどいじゃないですか！」\n　{KP}\n「桃太郎さんから　もらった\n　きびだんごを　食べた後」\n　{KP}\n「いきなり　お腹が\n　苦しくなったんですよ！」\n　",
-  "en": ""
+  "en": "\"Ooh... My tummy hurts!\"{KP}\"Ah... Momotaro-san... how could you?\"{KP}\"After I ate the millet dumplings you gave me,\"{KP}\"my tummy suddenly started to hurt!\""
  },
  {
   "id": "GSV0900D/16/013A",
   "kind": "msg",
   "jp": "「あっ………！」",
-  "en": ""
+  "en": "\"Ah......!\""
  },
  {
   "id": "GSV0900D/16/0156",
   "kind": "msg",
   "jp": "「桃太郎さーん！」\n　\n　",
-  "en": ""
+  "en": "\"Momotaro-saaan!\""
  },
  {
   "id": "GSV0900D/16/01D8",
   "kind": "msg",
   "jp": "「桃太郎さん……\n　あなたは　本当に\n　桃太郎さんなのですか？」{KP}\n　\n「旅人に　聞いたのですが\n　金太郎の村で　おおあばれ\n　していたようですね？」",
-  "en": ""
+  "en": "\"Momotaro-san... are you really Momotaro-san?\"{KP}\"I heard from a traveler that you ran wild in Kintaro Village.\""
  },
  {
   "id": "GSV0900D/16/0284",
   "kind": "msg",
   "jp": "「あっ………\n　そ　それは……　クリ…」\n　",
-  "en": ""
+  "en": "\"Ah...... Th-that's... kuri...\""
  },
  {
   "id": "GSV0900D/16/02C0",
   "kind": "msg",
   "jp": "「おかしいですねー？\n　桃太郎さんは　昔と　何も\n　かわらないですよ　ケーン！」",
-  "en": ""
+  "en": "\"That's odd! Momotaro-san hasn't changed a bit from the old days, kyeen!\""
  },
  {
   "id": "GSV0900D/16/0320",
   "kind": "msg",
   "jp": "「でも　なっとく　いきません！\n　カメさんの　話を\n　聞くかぎり……」{KP}\n　\n「では　桃太郎さん！\n　ボクが　つくった　ゆうぎ\n　{bb}ドサッと一本釣り！{ww}で」{KP}\n　\n「勝負して　ください！」\n　\n　{KP}\n「本物の　桃太郎さんなら\n　この　ゆうぎで　１５００点\n　以上　取れるはずです！」{KP}\n　\n「さぁ！\n　{bb}ドサッと一本釣り！{ww}で\n　勝負して　いただけますか？」{KN}",
-  "en": ""
+  "en": "\"But I'm still not convinced! Going by what Mr. Turtle told me...\"{KP}\"Then, Momotaro-san! In the game I made, {bb}Big Haul Fishing!{ww},\"{KP}\"please take me on!\"{KP}\"If you're the real Momotaro-san, you should be able to score 1500 points or more in this game!\"{KP}\"Now! Will you take me on in {bb}Big Haul Fishing!{ww}?\"{KN}"
  },
  {
   "id": "GSV0900D/16/04C0",
   "kind": "msg",
   "jp": "「わかりました！　では\n　こちらに　来てください！」\n　",
-  "en": ""
+  "en": "\"Understood! Then please come this way!\""
  },
  {
   "id": "GSV0900D/16/056E",
   "kind": "msg",
   "jp": "「オイラ　浦島さんの\n　ともだちの　タイ吉です！」\n　{KP}\n「では\n　浦島さんの　つくった　ゆうぎ\n　{bb}ドサッと一本釣り！{ww}を　はじめます！」",
-  "en": ""
+  "en": "\"I'm Taikichi, Urashima-san's friend!\"{KP}\"Now then, let's begin Urashima-san's game, {bb}Big Haul Fishing!{ww}\""
  },
  {
   "id": "GSV0900D/16/060E",
   "kind": "msg",
   "jp": "「遊び方の説明を　聞きますか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Would you like to hear how to play?\"{KN}"
  },
  {
   "id": "GSV0900D/16/067A",
   "kind": "msg",
   "jp": "「本物であると\n　証明したいのなら\n　勝負してください」{KN}",
-  "en": ""
+  "en": "\"If you want to prove you're the real one, please take me on.\"{KN}"
  },
  {
   "id": "GSV0900D/16/06D8",
   "kind": "msg",
   "jp": "「やはり　ニセモノでしたか！\n　早く　この村から\n　出て行って　ください！」{KP}\n　\n「えっ！　……もう１回\n　やらせてくれって？」\n　{KP}\n「……わかりました\n　もう　１回だけですよ！」\n　",
-  "en": ""
+  "en": "\"So you were a fake after all! Please leave this village at once!\"{KP}\"What? ...You want another try?\"{KP}\"...All right. Just one more time!\""
  },
  {
   "id": "GSV0900D/16/07D4",
   "kind": "msg",
   "jp": "「桃太郎さん　申しわけない！\n　少しの間でも　うたがったボクが\n　はずかしいです！」",
-  "en": ""
+  "en": "\"Momotaro-san, I'm so sorry! I'm ashamed I doubted you, even for a moment!\""
  },
  {
   "id": "GSV0900D/16/0838",
   "kind": "msg",
   "jp": "「うたがいが　はれて\n　よかったです！\n　ケーン　ケーン！」",
-  "en": ""
+  "en": "\"I'm so glad your name was cleared! Kyeen, kyeen!\""
  },
  {
   "id": "GSV0900D/16/0884",
   "kind": "msg",
   "jp": "「さっそくですが　桃太郎さん\n　この　{bb}処方せん{ww}を\n　見て下さい！」",
-  "en": ""
+  "en": "\"Right to business, Momotaro-san. Please take a look at this {bb}Prescription{ww}!\""
  },
  {
   "id": "GSV0900D/16/08DA",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}処方せん{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Prescription{ww}!{KN}"
  },
  {
   "id": "GSV0900D/16/091A",
   "kind": "msg",
   "jp": "「ドク薬による　はらいたを\n　治す　薬の　つくり方が\n　書いてあるのですが……」{KP}\n　\n「ぜんぜん　材料が\n　見つからないのです！」\n　{KP}\n「えっ……　心当たりが\n　あるのですか？」\n　{KP}\n「では　ボクも\n　おともさせて　いただきます」\n　",
-  "en": ""
+  "en": "\"It tells how to make a medicine that cures a stomachache caused by poison, but...\"{KP}\"I can't find any of the ingredients!\"{KP}\"What... you know where to look?\"{KP}\"Then let me come along with you.\""
  },
  {
   "id": "GSV0900D/16/0A28",
   "kind": "msg",
   "jp": "{bb}浦島{ww}が\n仲間に　くわわった！\n　{KN}",
-  "en": ""
+  "en": "{bb}Urashima{ww} joined the party!{KN}"
  },
  {
   "id": "GSV0900D/16/0A62",
   "kind": "msg",
   "jp": "「そこに　いる\n　ちっちゃい子も\n　よろしくね！」",
-  "en": ""
+  "en": "\"And nice to meet you too, little one!\""
  },
  {
   "id": "GSV0900D/16/0AA4",
   "kind": "msg",
   "jp": "「オラの　名前は\n　栗太郎だい！」\n　",
-  "en": ""
+  "en": "\"My name's Kuritaro!\""
  },
  {
   "id": "GSV0900D/16/0ADA",
   "kind": "msg",
   "jp": "「では　桃太郎さん！\n　わたしは　{bb}カメ{ww}の\n　そばに　つきそっています！」",
-  "en": ""
+  "en": "\"Then, Momotaro-san! I'll stay here by the {bb}Turtle{ww}'s side!\""
  },
  {
   "id": "GSV0900D/16/0B36",
   "kind": "msg",
   "jp": "「ありがとう　キジさん！\n　そうしてください！」\n　",
-  "en": ""
+  "en": "\"Thank you, Pheasant-san! Please do!\""
  },
  {
   "id": "GSV0900D/16/0BC4",
   "kind": "msg",
   "jp": "「う～ん……助けて…\n　お腹が　苦しいよぉ！」\n　",
-  "en": ""
+  "en": "\"Ooh... help me... My tummy hurts!\""
  },
  {
   "id": "GSV0900D/16/0C08",
   "kind": "msg",
   "jp": "「やあ　桃太郎さん！\n　この間は　どうも\n　ありがとうございました！」{KP}\n　\n「さて　{bb}竜宮城{ww}に\n　お連れいたしましょうか？」\n　{KN}",
-  "en": ""
+  "en": "\"Hello, Momotaro-san! Thank you so much for the other day!\"{KP}\"Now, shall I take you to {bb}Ryugu Palace{ww}?\"{KN}"
  },
  {
   "id": "GSV0900D/16/0CB4",
   "kind": "msg",
   "jp": "「では　わたしの　背中に\n　乗ってください！」\n　",
-  "en": ""
+  "en": "\"Then climb up on my back!\""
  },
  {
   "id": "GSV0900D/16/0D00",
   "kind": "msg",
   "jp": "「そうですか…\n　また　いつでも　どうぞ！」\n　",
-  "en": ""
+  "en": "\"I see... Come by anytime!\""
  },
  {
   "id": "GSV0900D/16/0D44",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}{MM}{ww}を　わたした！\n　",
-  "en": ""
+  "en": "Momotaro handed over {bb}{MM}{ww}!"
  },
  {
   "id": "GSV0900D/16/0D86",
   "kind": "msg",
   "jp": "「あっ　桃太郎さん！\n　それは　{bb}はらいたの薬{ww}！」\n　{KP}\n「では　いただきます！」\n　\n　",
-  "en": ""
+  "en": "\"Ah, Momotaro-san! That's {bb}Tummy Medicine{ww}!\"{KP}\"Then I'll gladly take it!\""
  },
  {
   "id": "GSV0900D/16/0DFA",
   "kind": "msg",
   "jp": "ゴクッ　ゴクッ　ゴクッ！\n　\n　",
-  "en": ""
+  "en": "Gulp, gulp, gulp!"
  },
  {
   "id": "GSV0900D/16/0E44",
   "kind": "msg",
   "jp": "　カメは　みるみるうちに\n　ちからが　わいてきた！\n　",
-  "en": ""
+  "en": "The Turtle's strength came flooding back in no time!"
  },
  {
   "id": "GSV0900D/16/0E8A",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　ありがとうございました！」\n　{KP}\n「やっぱり　本物の\n　桃太郎さんでしたね！」\n　",
-  "en": ""
+  "en": "\"Momotaro-san! Thank you so much!\"{KP}\"You really are the real Momotaro-san!\""
  },
  {
   "id": "GSV0900D/16/0F02",
   "kind": "msg",
   "jp": "「その薬は　桃太郎さんと\n　浦島さんが　苦労して\n　手に入れた　薬ですよ！」",
-  "en": ""
+  "en": "\"Momotaro-san and Urashima-san went through a lot of trouble to get that medicine!\""
  },
  {
   "id": "GSV0900D/16/0F5E",
   "kind": "msg",
   "jp": "「オイラも　つきあったクリ！\n　いいめいわくだ　クリ！」\n　",
-  "en": ""
+  "en": "\"I tagged along too, kuri! What a pain, kuri!\""
  },
  {
   "id": "GSV0900D/16/0FAA",
   "kind": "msg",
   "jp": "「みなさん\n　ありがとうございました」\n　",
-  "en": ""
+  "en": "\"Thank you, everyone.\""
  },
  {
   "id": "GSV0900D/16/0FE4",
   "kind": "msg",
   "jp": "「よかった　ですね！\n　カメさん！」\n　{KP}\n「でも　桃太郎さん！\n　ニセモノが　いるかぎり\n　今回みたいな　ことが」{KP}\n　\n「これから　行く先々でも\n　おこるのでは\n　ないでしょうか？」",
-  "en": ""
+  "en": "\"Isn't that wonderful, Mr. Turtle!\"{KP}\"But, Momotaro-san! As long as the fake is out there, the same sort of thing\"{KP}\"might happen everywhere we go from now on, don't you think?\""
  },
  {
   "id": "GSV0900D/16/10B8",
   "kind": "msg",
   "jp": "「…………」\n　\n　",
-  "en": ""
+  "en": "\"......\""
  },
  {
   "id": "GSV0900D/16/10E4",
   "kind": "msg",
   "jp": "「それなら　竜宮城の\n　乙姫様が　持っている\n　{bb}真実の鏡{ww}を」{KP}\n　\n「お借りすれば　よいのでは\n　ないでしょうか？」\n　{KP}\n「あれが　あれば　\n　いつでも　どこでも\n　真実が　わかりますから」",
-  "en": ""
+  "en": "\"In that case, the {bb}Mirror of Truth{ww} that Otohime-sama of Ryugu Palace keeps...\"{KP}\"Why not ask to borrow it?\"{KP}\"With that, you can see the truth anytime, anywhere.\""
  },
  {
   "id": "GSV0900D/16/11C2",
   "kind": "msg",
   "jp": "「それがいい……\n　それが　いいですよ\n　桃太郎さん！」",
-  "en": ""
+  "en": "\"That's it... That's a great idea, Momotaro-san!\""
  },
  {
   "id": "GSV0900D/16/120A",
   "kind": "msg",
   "jp": "「では　みなさん！\n　ボクの　背中に\n　乗ってください」",
-  "en": ""
+  "en": "\"Then, everyone! Climb up on my back.\""
  },
  {
   "id": "GSV0900D/17/001E",
   "kind": "msg",
   "jp": "「ケン　ケン！\n　{bb}カメ{ww}が　さっきよりも\n　苦しそうです！」{KP}\n　\n「早く　{bb}はらいたの薬{ww}を\n　手に入れて　ください！」\n　{KP}\n「旅人に　聞いたのですが\n　{bb}花咲かの村{ww}に　薬づくりの\n　名人が　いるそうですよ！」",
-  "en": ""
+  "en": "\"Kyeen, kyeen! The {bb}Turtle{ww} looks worse than before!\"{KP}\"Please hurry and get the {bb}Tummy Medicine{ww}!\"{KP}\"I heard from a traveler that there's a Master medicine-maker in {bb}Hanasaka Village{ww}!\""
  },
  {
   "id": "GSV0900D/17/0114",
   "kind": "msg",
   "jp": "「{bb}はらいたの薬{ww}を\n　手に入れたのですね！」\n　{KP}\n「さぁ！　それを　{bb}カメ{ww}に\n　飲ませて　ください！」\n　",
-  "en": ""
+  "en": "\"You got the {bb}Tummy Medicine{ww}!\"{KP}\"Now! Please give it to the {bb}Turtle{ww}!\""
  },
  {
   "id": "GSV0900D/17/019A",
   "kind": "msg",
   "jp": "「ありがとうございます」\n　\n　{KP}\n「やっぱり　桃太郎さん！\n　たよりに　なりますね！」\n　",
-  "en": ""
+  "en": "\"Thank you so much.\"{KP}\"Momotaro-san, you really are someone we can count on!\""
  },
  {
   "id": "GSV0900D/18/0024",
   "kind": "msg",
   "jp": "「並び洞窟から\n　ようやく　ここへ　ぬけて\n　来たけれども」{KP}\n　\n「途中　きみょうな\n　書物を　見つけただ！」\n　{KP}\n「{bb}はかい神の復活書{ww}と\n　書いてあって　４つの鐘を\n　集めてから」{KP}\n　\n「地獄に　行き……\n　どうの　こうのと　書いて\n　あっただ　でんでん」{KP}\n　\n「それを　読んでいたら\n　{bb}石川六右衛門{ww}と　名のる\n　やつが　あらわれて」{KP}\n　\n「ちからずくで　それを\n　うばって　行ったんだ！\n　でんでん」{KP}\n　\n「オイラも　つるはしで\n　応戦したら　やつも\n　あわてて」{KP}\n　\n「何かの　{bb}処方せん{ww}を\n　落として　にげて行ったんだ」\n　{KP}\n「その　{bb}処方せん{ww}なら\n　{bb}浦島さん{ww}が　ほしいと\n　言ったんで　あげただ　でん」",
-  "en": ""
+  "en": "\"I finally tunneled through from Row Cave and came out here,\"{KP}\"but on the way I found me a strange old book!\"{KP}\"It said {bb}Revival Book of the God of Destruction{ww}, and somethin' about gatherin' four bells,\"{KP}\"then goin' to Hell... and this and that, den-den.\"{KP}\"While I was readin' it, a fella callin' himself {bb}Ishikawa Rokuemon{ww} showed up\"{KP}\"and took it from me by force! Den-den.\"{KP}\"I fought back with my pickaxe, and he got flustered too,\"{KP}\"and dropped some kind of {bb}Prescription{ww} as he ran off.\"{KP}\"{bb}Urashima-san{ww} said he wanted that {bb}Prescription{ww}, so I gave it to him, den.\""
  },
  {
   "id": "GSV0900D/18/02F2",
   "kind": "msg",
   "jp": "　\n「ああ　そうだ！\n　桃太郎さんに　お古の\n　{bb}つるはし{ww}を　あげるだ！」{KP}\n　\n「石川六右衛門に　あったら\n　これを　刀がわりに\n　戦うだ！」",
-  "en": ""
+  "en": "\"Oh, I know! I'll give you my old {bb}Pickaxe{ww}, Momotaro-san!\"{KP}\"If you run into Ishikawa Rokuemon, fight him with this instead of a sword!\""
  },
  {
   "id": "GSV0900D/18/039C",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}つるはし{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Pickaxe{ww}!{KN}"
  },
  {
   "id": "GSV0900D/18/03E4",
   "kind": "msg",
   "jp": "「石川六右衛門が　気になって\n　落ちついて　穴を　ほることが\n　できねぇだ」{KP}\n　\n「ぢくしょう～！」\n　\n　",
-  "en": ""
+  "en": "\"I'm so worried about Ishikawa Rokuemon, I can't settle down and dig my holes.\"{KP}\"Dagnabbit!\""
  },
  {
   "id": "GSV0900D/18/046A",
   "kind": "msg",
   "jp": "「オイラの　ひろった\n　処方せんで　カメが\n　助かったって？」{KP}\n　\n「穴　ほって　役に\n　立てるなんて\n　うれしいって　もんだ！」",
-  "en": ""
+  "en": "\"The prescription I picked up saved the Turtle?\"{KP}\"Makes me right happy to be useful, just diggin' holes!\""
  },
  {
   "id": "GSV0900D/19/0002",
   "kind": "msg",
   "jp": "「そういえば\n　この先で　見かけたよ！」\n　{KP}\n「いっしょうけんめいに\n　穴を　ほっている　男を！」\n　{KP}\n「いつのまにか　あの　穴から\n　この村に　やって来たんだ！」\n　{KP}\n「たしか　何年か前にも\n　あの男を　見た　覚えが\n　あるんだが」",
-  "en": ""
+  "en": "\"Come to think of it, I saw him up ahead!\"{KP}\"A man digging a hole with all his might!\"{KP}\"Before anyone knew it, he'd come out of that hole into this village!\"{KP}\"I'm pretty sure I remember seeing that man a few years back, too.\""
  },
  {
   "id": "GSV0900D/20/0002",
   "kind": "msg",
   "jp": "「{bb}希望の都{ww}に　行くには　ここから\n　北にある　{bb}寝太郎の村{ww}を　こえて\n　行かなくてはいけません！」{KP}\n　\n「あの　地方は　雪が　ふかく\n　進みづらいので　ご注意を！」\n　",
-  "en": ""
+  "en": "\"To get to the {bb}Capital of Hope{ww}, you have to go by way of {bb}Netaro Village{ww}, north of here!\"{KP}\"The snow is deep in that region and the going is hard, so be careful!\""
  },
  {
   "id": "GSV0900D/21/0002",
   "kind": "msg",
   "jp": "「この奥に　ある　泉は\n　若返りの　効能が　あると\n　伝えられておる！」{KP}\n　\n「けれど　効く人と\n　効かない人とが　いるようじゃ！」\n　",
-  "en": ""
+  "en": "\"The spring further in is said to have the power to make you young again!\"{KP}\"But it seems it works for some folks and not for others!\""
  },
  {
   "id": "GSV0900D/22/0018",
   "kind": "msg",
   "jp": "「浦島さんは　今は\n　この村には　いません！」\n　",
-  "en": ""
+  "en": "\"Urashima-san isn't in the village right now!\""
  },
  {
   "id": "GSV0900D/22/005C",
   "kind": "msg",
   "jp": "「あら　浦島さん！　桃太郎さんと\n　ごいっしょだったんですね！」\n　",
-  "en": ""
+  "en": "\"Oh, Urashima-san! So you were with Momotaro-san!\""
  },
  {
   "id": "GSV0900D/22/00B2",
   "kind": "msg",
   "jp": "「浦島さんなら　神社の\n　そばの　おうちに　いますわ！」\n　",
-  "en": ""
+  "en": "\"If you're looking for Urashima-san, he's at the house by the shrine!\""
  },
  {
   "id": "GSV0900D/23/0002",
   "kind": "msg",
   "jp": "「こんにちわ　桃太郎さん！\n　あなたの　おかげです！」\n　{KP}\n「すっかり　この　浦島の村も\n　平和な村に　なりました！」\n　{KP}\n「ありがとうございます！\n　ごゆっくり　していってください！」\n　",
-  "en": ""
+  "en": "\"Hello, Momotaro-san! It's all thanks to you!\"{KP}\"Urashima Village has become a truly peaceful village!\"{KP}\"Thank you so much! Please stay and take it easy!\""
  },
  {
   "id": "GSV0900D/24/0010",
   "kind": "msg",
   "jp": "「さっき　この先で\n　{bb}カメ{ww}が　苦しんでいたよ！」\n　",
-  "en": ""
+  "en": "\"The {bb}Turtle{ww} was suffering up ahead just now!\""
  },
  {
   "id": "GSV0900D/24/005A",
   "kind": "msg",
   "jp": "「へー　さっきのカメ\n　助かったんだ………」\n　{KP}\n「よかったですね！\n　さすがは　桃太郎さん！」\n　",
-  "en": ""
+  "en": "\"Oh, so the Turtle from before got saved......\"{KP}\"That's great! That's Momotaro-san for you!\""
  },
  {
   "id": "GSV0900D/25/0010",
   "kind": "msg",
   "jp": "「あっ　桃太郎さん！\n　{bb}カメさん{ww}が　大変なことに！\n　早く　助けてあげてくださいな」",
-  "en": ""
+  "en": "\"Ah, Momotaro-san! Something terrible has happened to {bb}Mr. Turtle{ww}! Please hurry and help him!\""
  },
  {
   "id": "GSV0900D/25/007A",
   "kind": "msg",
   "jp": "「よかったですね！\n　{bb}カメさん{ww}が　元気になって！」\n　",
-  "en": ""
+  "en": "\"Isn't it wonderful! {bb}Mr. Turtle{ww} is all better!\""
  },
  {
   "id": "GSV0900D/26/0002",
   "kind": "msg",
   "jp": "「下にある　あの　穴は\n　並び洞窟に　つながっているという\n　うわさは　本当かなぁ～？」",
-  "en": ""
+  "en": "\"They say that hole down below connects to Row Cave. I wonder if it's true?\""
  },
  {
   "id": "GSV0900D/27/003A",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　オイラたち　何も　していないよ！」\n　{KP}\n「ホントだよ！\n　オイラたちが　見つけたんだから」\n　",
-  "en": ""
+  "en": "\"Momotaro-san! We didn't do anything!\"{KP}\"It's true! We're the ones who found him!\""
  },
  {
   "id": "GSV0900D/27/00C0",
   "kind": "msg",
   "jp": "「桃太郎さん！　本当ですよ！」\n　\n　{KP}\n「{bb}カメ{ww}のことは　鬼さんたちから\n　聞いたのですよ！」\n　",
-  "en": ""
+  "en": "\"Momotaro-san! It's true!\"{KP}\"I heard about the {bb}Turtle{ww} from the oni!\""
  },
  {
   "id": "GSV0900D/27/013C",
   "kind": "msg",
   "jp": "「{bb}はらいたの薬{ww}の　つくり方を\n　書いた　紙が　あったんですね！」\n　{KP}\n「あとは　薬を　つくって\n　くれる人を　さがさないと！」\n　",
-  "en": ""
+  "en": "\"So there was a paper that tells how to make {bb}Tummy Medicine{ww}!\"{KP}\"Now we just have to find someone who can make it!\""
  },
  {
   "id": "GSV0900D/27/01DA",
   "kind": "msg",
   "jp": "「おっ！\n　{bb}はらいたの薬{ww}を\n　手に入れたんですね！」{KP}\n　\n「さすがは　桃太郎さんだ！」\n　\n　",
-  "en": ""
+  "en": "\"Oh! You got the {bb}Tummy Medicine{ww}!\"{KP}\"That's Momotaro-san for you!\""
  },
  {
   "id": "GSV0900D/27/0256",
   "kind": "msg",
   "jp": "「人間にも　こんな　ヒドイことを\n　するやつが　いるんだよね！」\n　",
-  "en": ""
+  "en": "\"Even humans have folks who'd do something this awful, huh!\""
  },
  {
   "id": "GSV0900D/27/02AC",
   "kind": "msg",
   "jp": "「桃太郎さん　こんにちわ！\n　今は　村の人たちと\n　仲良く　やっていますよ！」",
-  "en": ""
+  "en": "\"Hello, Momotaro-san! We get along great with the villagers now!\""
  },
  {
   "id": "GSV0900D/28/003A",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　オイラたちは\n　何もしてないからね！」{KP}\n　\n「{bb}カメさん{ww}が　苦しんでいたから\n　かいほう　していたんですよ！」\n　",
-  "en": ""
+  "en": "\"Momotaro-san! We didn't do anything, okay?\"{KP}\"{bb}Mr. Turtle{ww} was suffering, so we were looking after him!\""
  },
  {
   "id": "GSV0900D/28/00DA",
   "kind": "msg",
   "jp": "「あっ！\n　{bb}はらいたの薬{ww}の　つくり方を\n　書いた　紙が　あったんですね！」{KP}\n　\n「どれ　どれ　……んっ」\n　\n　{KP}\n「この　{bb}処方せん{ww}は\n　人間が　つくったものでは\n　ないみたいですね？」",
-  "en": ""
+  "en": "\"Ah! So there was a paper that tells how to make {bb}Tummy Medicine{ww}!\"{KP}\"Let's see, let's see... Hm?\"{KP}\"This {bb}Prescription{ww} doesn't look like something a human made, does it?\""
  },
  {
   "id": "GSV0900D/28/01BA",
   "kind": "msg",
   "jp": "「あっ！\n　{bb}はらいたの薬{ww}が\n　あったんですね！」{KP}\n　\n「さぁ！　それを　早く\n　{bb}カメさん{ww}に　飲ませて\n　あげましょう！」",
-  "en": ""
+  "en": "\"Ah! You found {bb}Tummy Medicine{ww}!\"{KP}\"Now! Let's hurry and give it to {bb}Mr. Turtle{ww}!\""
  },
  {
   "id": "GSV0900D/28/0254",
   "kind": "msg",
   "jp": "「あ～　よかったですね！」\n　\n　",
-  "en": ""
+  "en": "\"Ahh, what a relief!\""
  },
  {
   "id": "GSV0900D/28/0288",
   "kind": "msg",
   "jp": "「桃太郎さん　こんにちわ！\n　今は　村の人たちと\n　仲良く　やっていますよ！」",
-  "en": ""
+  "en": "\"Hello, Momotaro-san! We get along great with the villagers now!\""
  },
  {
   "id": "GSV0900D/29/0018",
   "kind": "msg",
   "jp": "「オイラ　浦島さんの\n　ともだちの　タイ吉です！」\n　{KP}\n「浦島さんの　つくった　ゆうぎ\n　{bb}ドサッと一本釣り！{ww}は　今は\n　準備中です」{KP}\n　\n「またの　おこしを！」\n　\n　",
-  "en": ""
+  "en": "\"I'm Taikichi, Urashima-san's friend!\"{KP}\"Urashima-san's game, {bb}Big Haul Fishing!{ww}, is being set up right now.\"{KP}\"Please come again!\""
  },
  {
   "id": "GSV0900D/29/00E4",
   "kind": "msg",
   "jp": "「オイラ　浦島さんの\n　ともだちの　タイ吉です！」\n　{KP}\n「浦島さんの　つくった　ゆうぎ\n　{bb}ドサッと一本釣り！{ww}を　遊びますか？」\n　{KN}",
-  "en": ""
+  "en": "\"I'm Taikichi, Urashima-san's friend!\"{KP}\"Want to play Urashima-san's game, {bb}Big Haul Fishing!{ww}?\"{KN}"
  },
  {
   "id": "GSV0900D/29/0194",
   "kind": "msg",
   "jp": "「遊び方の説明を　聞きますか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Would you like to hear how to play?\"{KN}"
  },
  {
   "id": "GSV0900D/29/01D4",
   "kind": "msg",
   "jp": "「それでは　がんばって　ください！」\n　\n　",
-  "en": ""
+  "en": "\"Then give it your best!\""
  },
  {
   "id": "GSV0900D/29/0230",
   "kind": "msg",
   "jp": "「やらないのですネ！\n　そうですか……では　また」\n　",
-  "en": ""
+  "en": "\"You won't play? I see...... Well, see you.\""
  },
  {
   "id": "GSV0900D/30/0038",
   "kind": "msg",
   "jp": "「う～　シクシク\n　こんな　すがたに\n　なってしまったよ～～」{KP}\n　\n「あ～　あなたは　うわさの\n　桃太郎さん～」\n　{KP}\n「すみませんが　わたしの\n　お願いを　聞いて～\n　いただけますか～～～」{KN}",
-  "en": ""
+  "en": "\"Ooh, sob, sob... Look what I've become...\"{KP}\"Ahh, you're the famous Momotaro-san, aren't youuu...\"{KP}\"I'm sorry, but would you... grant me a favooour?\"{KN}"
  },
  {
   "id": "GSV0900D/30/0126",
   "kind": "msg",
   "jp": "　\n「ありがたや～～\n　では　死ぬ前に　書いた～\n　この　{bb}遺書{ww}を～」{KP}\n　\n「道具屋の　近くに　住む\n　わたしの　家族に　\n　わたしてくだ～さ～～～い」",
-  "en": ""
+  "en": "\"Bless you... Then this {bb}Will{ww} I wrote before I diiied...\"{KP}\"Please take it to my family, who live near the item shop, pleeease...\""
  },
  {
   "id": "GSV0900D/30/01DA",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}遺書{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Will{ww}!{KN}"
  },
  {
   "id": "GSV0900D/30/0232",
   "kind": "msg",
   "jp": "　\n「そんな～　うらめしいや～\n　お願いしま～す～よ～」\n　{KN}",
-  "en": ""
+  "en": "\"Oh nooo, how bitter I am... I beg of yooouuu...\"{KN}"
  },
  {
   "id": "GSV0900D/30/028A",
   "kind": "msg",
   "jp": "「ありがたや～～\n　桃太郎さん　これで\n　成仏　できま～す」{KP}\n　\n「では　さ～よ～な～ら～～」\n　\n　",
-  "en": ""
+  "en": "\"Bless you... Momotaro-san, now I can rest in peeeace.\"{KP}\"Well then, farewelllll...\""
  },
  {
   "id": "GSV0900D/30/04BA",
   "kind": "msg",
   "jp": "「桃太郎さ～ん\n　{bb}遺書{ww}を　わたして\n　いただけま～し～た～？」",
-  "en": ""
+  "en": "\"Momotaro-saaan... Have you delivered the {bb}Will{ww} for meee?\""
  },
  {
   "id": "GSV0900D/31/002E",
   "kind": "msg",
   "jp": "「ギヘヘ……　おっ　おぬしは\n　うわさの　桃太郎！」\n　{KP}\n「オデは　{bb}海ボウズ{ww}だ！\n　人助けが　得意な　おぬしに\n　頼みごとがあるギャ」{KP}\n　\n「最近　魚料理が　あきて\n　きたので　何か　他の物が\n　食べたいのだギャ」{KP}\n　\n「何か　ごちそうしろギャ！」\n　\n　{KP}\n「……そう　たとえば\n　お祭りで　見かける\n　{bb}やきそば{ww}が　いいギャ！」{KP}\n　\n「ごちそう　してくれるのなら\n　海で　ひろった　この　きれいな\n　{bb}首かざり{ww}を　くれてやるギャ！」{KP}\n　\n「毎晩　ここで　待ってるから\n　頼むギャッ！」\n　",
-  "en": ""
+  "en": "\"Gihehe... Oh, you're the famous Momotaro!\"{KP}\"I'm {bb}Umibozu{ww}! You're good at helpin' folks, so I got a favor to ask, gya.\"{KP}\"Lately I've gotten sick of fish dishes, so I wanna eat somethin' different, gya.\"{KP}\"Treat me to somethin' tasty, gya!\"{KP}\"...Like, say, that {bb}Yakisoba{ww} you see at festivals would be good, gya!\"{KP}\"If you treat me, I'll give you this pretty {bb}Necklace{ww} I found in the sea, gya!\"{KP}\"I'll be waitin' here every night, so I'm countin' on ya, gya!\""
  },
  {
   "id": "GSV0900D/31/025E",
   "kind": "msg",
   "jp": "「おっ！　それは\n　{bb}やきそば{ww}だギャ！」\n　{KP}\n「オデに　ゆずってくれるか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Oh! That's {bb}Yakisoba{ww}, gya!\"{KP}\"Will you let me have it?\"{KN}"
  },
  {
   "id": "GSV0900D/31/02EA",
   "kind": "msg",
   "jp": "「やったギャ！　\n　よし　やくそくの　{bb}首かざり{ww}を\n　やるギャ！」",
-  "en": ""
+  "en": "\"Hooray, gya! All right, here's the {bb}Necklace{ww} I promised, gya!\""
  },
  {
   "id": "GSV0900D/31/033C",
   "kind": "msg",
   "jp": "「やったギャ！\n　お礼に　海で　ひろった\n　{bb}首かざり{ww}を　やるギャ！」",
-  "en": ""
+  "en": "\"Hooray, gya! As thanks, here's the {bb}Necklace{ww} I found in the sea, gya!\""
  },
  {
   "id": "GSV0900D/31/0396",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}首かざり{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Necklace{ww}!{KN}"
  },
  {
   "id": "GSV0900D/31/03E2",
   "kind": "msg",
   "jp": "「ひどいやつだギャ！……\n　頼むから　ゆずってくれ！」\n　{KN}",
-  "en": ""
+  "en": "\"You're a mean one, gya!... Come on, let me have it!\"{KN}"
  },
  {
   "id": "GSV0900D/31/0434",
   "kind": "msg",
   "jp": "「ギヘヘ……　桃太郎！\n　また　何か　あったら\n　頼むギャ！」",
-  "en": ""
+  "en": "\"Gihehe... Momotaro! If anythin' else comes up, I'm countin' on ya, gya!\""
  },
  {
   "id": "GSV0900D/32/0002",
   "kind": "msg",
   "jp": "「ひさしぶりじゃな　桃太郎！\n　ここは　漁師が　住む\n　浦島の村じゃ！」{KP}\n　\n「この村の　夜は　長いぞ！」\n　\n　",
-  "en": ""
+  "en": "\"Long time no see, Momotaro! This is Urashima Village, where the fishermen live!\"{KP}\"The nights in this village are long!\""
  },
  {
   "id": "GSV0900D/33/002C",
   "kind": "msg",
   "jp": "「{bb}カメさん{ww}！　だいじょうぶ～？」\n　\n　",
-  "en": ""
+  "en": "\"{bb}Mr. Turtle{ww}! Are you okaaay?\""
  },
  {
   "id": "GSV0900D/33/006A",
   "kind": "msg",
   "jp": "「早く　カメさんを\n　助けてください！」\n　",
-  "en": ""
+  "en": "\"Please hurry and save Mr. Turtle!\""
  },
  {
   "id": "GSV0900D/33/00A8",
   "kind": "msg",
   "jp": "「よかったね　カメさん！」\n　\n　",
-  "en": ""
+  "en": "\"I'm so glad, Mr. Turtle!\""
  },
  {
   "id": "GSV0900D/33/00DC",
   "kind": "msg",
   "jp": "「カメさんと　何して\n　遊ぼうかなぁ～」\n　",
-  "en": ""
+  "en": "\"What should I play with Mr. Turtle?\""
  },
  {
   "id": "GSV0900D/34/0002",
   "kind": "msg",
   "jp": "「アタイは\n　{bb}桃ウンチ{ww}です！　ぷりりん！\n　こんにちわ　桃太郎さん！」{KP}\n　\n「{bb}ウンチの穴{ww}に　行きたいのですが\n　ひとりでは　不安で……」\n　{KP}\n「アタイを　{bb}ウンチの穴{ww}に\n　連れていってくれますか？」\n　{KN}",
-  "en": ""
+  "en": "\"I'm {bb}Peach Poop{ww}! Puririn! Hello, Momotaro-san!\"{KP}\"I want to go to the {bb}Poop Hole{ww}, but I'm nervous going alone...\"{KP}\"Will you take me to the {bb}Poop Hole{ww}?\"{KN}"
  },
  {
   "id": "GSV0900D/34/010A",
   "kind": "msg",
   "jp": "{bb}桃ウンチ{ww}が\n仲間に　くわわった！\n　{KN}",
-  "en": ""
+  "en": "{bb}Peach Poop{ww} joined the party!{KN}"
  },
  {
   "id": "GSV0900D/34/0152",
   "kind": "msg",
   "jp": "「残念ですわ！　ぷりりん！」\n　\n　",
-  "en": ""
+  "en": "\"What a shame! Puririn!\""
  },
  {
   "id": "GSV0900D/35/000A",
   "kind": "msg",
   "jp": "手で　水を　すくって　飲んだ！\nゴクゴクゴク……\n　{KP}\nちょっと\n若返った　気分に　なった！\n　",
-  "en": ""
+  "en": "Momotaro scooped up some water in his hands and drank it! Gulp, gulp, gulp......{KP}He felt a little younger!"
  },
  {
   "id": "GSV0900D/35/0080",
   "kind": "msg",
   "jp": "竹づつに　泉の水を　入れた！\nトクトクトク……\n　",
-  "en": ""
+  "en": "Momotaro filled the bamboo flask with spring water! Glug, glug, glug......"
  },
  {
   "id": "GSV0900D/35/00CC",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}泉水入り竹づつ{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Bamboo Flask of Spring Water{ww}!{KN}"
  }
 ]

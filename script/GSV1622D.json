@@ -3,108 +3,108 @@
   "id": "GSV1622D/3/000E",
   "kind": "msg",
   "jp": "「いらっしゃいませ！\n　{bb}餅つきぺったんこ{ww}が\n　５０両で楽しめます」{KN}",
-  "en": ""
+  "en": "\"Welcome! You can enjoy {bb}Pound-Pound Mochi{ww} for 50 ryo.\"{KN}"
  },
  {
   "id": "GSV1622D/3/007E",
   "kind": "msg",
   "jp": "　\n「またのおこしを」\n　\n　",
-  "en": ""
+  "en": "\"Do come again.\""
  },
  {
   "id": "GSV1622D/3/00D6",
   "kind": "msg",
   "jp": "「遊び方の説明を　聞きますか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Would you like to hear how to play?\"{KN}"
  },
  {
   "id": "GSV1622D/3/013E",
   "kind": "msg",
   "jp": "　\n「桃太郎さん　\n　お金がたりませんよ！」\n　{KP}\n「またのおこしを」\n　\n　",
-  "en": ""
+  "en": "\"Momotaro-san, you don't have enough money!\"{KP}\"Do come again.\""
  },
  {
   "id": "GSV1622D/4/000E",
   "kind": "msg",
   "jp": "「いらっしゃいませ！\n　{bb}鬼たたき{ww}が\n　５０両で楽しめます」{KN}",
-  "en": ""
+  "en": "\"Welcome! You can enjoy {bb}Whack-an-Oni{ww} for 50 ryo.\"{KN}"
  },
  {
   "id": "GSV1622D/4/0076",
   "kind": "msg",
   "jp": "　\n「またのおこしを」\n　\n　",
-  "en": ""
+  "en": "\"Do come again.\""
  },
  {
   "id": "GSV1622D/4/00CE",
   "kind": "msg",
   "jp": "「遊び方の説明を　聞きますか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Would you like to hear how to play?\"{KN}"
  },
  {
   "id": "GSV1622D/4/0136",
   "kind": "msg",
   "jp": "　\n「桃太郎さん　\n　お金がたりませんよ！」\n　{KP}\n「またのおこしを」\n　\n　",
-  "en": ""
+  "en": "\"Momotaro-san, you don't have enough money!\"{KP}\"Do come again.\""
  },
  {
   "id": "GSV1622D/5/000E",
   "kind": "msg",
   "jp": "「いらっしゃいませ！\n　{bb}偶数タヌキ{ww}が\n　５０両で楽しめます」{KN}",
-  "en": ""
+  "en": "\"Welcome! You can enjoy {bb}Even Tanuki{ww} for 50 ryo.\"{KN}"
  },
  {
   "id": "GSV1622D/5/0078",
   "kind": "msg",
   "jp": "　\n「またのおこしを」\n　\n　",
-  "en": ""
+  "en": "\"Do come again.\""
  },
  {
   "id": "GSV1622D/5/00D0",
   "kind": "msg",
   "jp": "「遊び方の説明を　聞きますか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Would you like to hear how to play?\"{KN}"
  },
  {
   "id": "GSV1622D/5/0138",
   "kind": "msg",
   "jp": "　\n「桃太郎さん　\n　お金がたりませんよ！」\n　{KP}\n「またのおこしを」\n　\n　",
-  "en": ""
+  "en": "\"Momotaro-san, you don't have enough money!\"{KP}\"Do come again.\""
  },
  {
   "id": "GSV1622D/6/0002",
   "kind": "msg",
   "jp": "「{bb}餅つきぺったんこ{ww}を\n　遊ぶ時の　注意じゃ！」\n　{KP}\n「金太郎さんの　杵の\n　つき方は　３種類あるぞ！」\n　{KP}\n「中でも　３番目の\n　タイミングが　むずかしいぞ！」\n　",
-  "en": ""
+  "en": "\"A word of advice for playing {bb}Pound-Pound Mochi{ww}!\"{KP}\"Kintaro-san pounds with his mallet in 3 different ways!\"{KP}\"The timing of the 3rd one is the hardest of all!\""
  },
  {
   "id": "GSV1622D/7/0002",
   "kind": "msg",
   "jp": "「ねぇ　桃太郎さん！　聞いた？」\n　\n　{KP}\n「{bb}餅つきぺったんこ{ww}で\n　５段に　なるには　２５００点\n　とればいいのに」{KP}\n　\n「免許皆伝になるには　７５００点も\n　とらなきゃダメだって！」\n　{KP}\n「女のコは　特別に　４０００点で\n　免許皆伝ということに\n　ならないかしらねぇ～？」",
-  "en": ""
+  "en": "\"Hey, Momotaro-san! Did you hear?\"{KP}\"In {bb}Pound-Pound Mochi{ww}, you only need 2500 points to reach level 5,\"{KP}\"but for full mastery you have to get a whole 7500 points!\"{KP}\"Don't you think girls should get full mastery at a special 4000 points?\""
  },
  {
   "id": "GSV1622D/8/0002",
   "kind": "msg",
   "jp": "「{bb}鬼たたき{ww}で　５種類の　ボーナス点を\n　みんな　もらえば　免許皆伝だよ！」\n　",
-  "en": ""
+  "en": "\"In {bb}Whack-an-Oni{ww}, get all 5 kinds of bonus points and you'll have full mastery!\""
  },
  {
   "id": "GSV1622D/9/0002",
   "kind": "msg",
   "jp": "「{bb}鬼たたき{ww}を　夢中で\n　プレイしていたら」\n　{KP}\n「あせって　仙人さんを\n　思いっきり　たたいちゃった！」\n　{KP}\n「怒っていないかしら…」\n　\n　",
-  "en": ""
+  "en": "\"I got so into playing {bb}Whack-an-Oni{ww}\"{KP}\"that I panicked and whacked the hermit as hard as I could!\"{KP}\"I hope he's not angry...\""
  },
  {
   "id": "GSV1622D/10/0002",
   "kind": "msg",
   "jp": "「{bb}偶数タヌキ{ww}で　偶数　出すにゃ\n　気合いだね！」\n　{KP}\n「サイコロ　ふる時\n　グースーって　グースーって」\n　{KP}\n「グーグー　スースー\n　……おっと\n　寝てしまうところじゃった！」",
-  "en": ""
+  "en": "\"To roll evens in {bb}Even Tanuki{ww}, it's all about spirit!\"{KP}\"When you roll the dice, you go 'Eeeven... eeeven...'\"{KP}\"'Eeeven... zzzz... snooore...' ......Whoops! I nearly dozed off there!\""
  },
  {
   "id": "GSV1622D/11/0002",
   "kind": "msg",
   "jp": "「{bb}偶数タヌキ{ww}は　なんでも\n　２７００点で　免許皆伝に\n　なれるそうだよ！」{KP}\n　\n「回数だと　出た目にも　よるけど\n　６から１０回くらいかの？」\n　{KP}\n「ただ　いいところで　出るんだよ！\n　奇数のやつがーーー！」\n　",
-  "en": ""
+  "en": "\"They say in {bb}Even Tanuki{ww} you can get full mastery with 2700 points!\"{KP}\"How many rolls depends on what comes up, but maybe 6 to 10 or so?\"{KP}\"But right when it's going well, they show up! Those odd numbers!\""
  }
 ]

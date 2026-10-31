@@ -3,102 +3,102 @@
   "id": "GSV1306D/2/001E",
   "kind": "msg",
   "jp": "「いよぉ～　いらっしゃ～い！\n　ご用けんは\n　なんで　ございまするかぁ～？」{KN}",
-  "en": ""
+  "en": "\"Weeell, weeelcome! And what might be your business, pray tell?\"{KN}"
  },
  {
   "id": "GSV1306D/2/009A",
   "kind": "msg",
   "jp": "　\n「お面　１枚　１００両ですが\n　よろしいか？　よろし～い～か～？」\n　{KN}",
-  "en": ""
+  "en": "\"Masks are 100 ryo apiece. Is that all right? All ri-i-ight?\"{KN}"
  },
  {
   "id": "GSV1306D/2/0140",
   "kind": "msg",
   "jp": "「は～て　さて　桃太郎さん？\n　お金が　たりませぬぅ～！」\n　{KP}\n「いずこにて　かせいでから\n　また　おいで　くだしゃんせ～！」\n　",
-  "en": ""
+  "en": "\"Weeell now, Momotaro-san? Your money falls short, it doooes!\"{KP}\"Go earn some somewhere and come back again, pretty pleeease!\""
  },
  {
   "id": "GSV1306D/2/01DC",
   "kind": "msg",
   "jp": "「あいや　桃太郎さん！　お面を\n　持ちすぎで　ございまする～～」\n　{KP}\n「お面を\n　売っては　いかが～か～な」\n　",
-  "en": ""
+  "en": "\"Oh my, Momotaro-san! You carry too many masks-s-s!\"{KP}\"Why not sell a mask or twooo?\""
  },
  {
   "id": "GSV1306D/2/0284",
   "kind": "msg",
   "jp": "　\n「されど　桃太郎さん　桃太郎さん\n　お面が　あ～り～ませぬ～！」\n　",
-  "en": ""
+  "en": "\"And yet, Momotaro-san, Momotaro-san, you have no ma-a-asks!\""
  },
  {
   "id": "GSV1306D/2/02E2",
   "kind": "msg",
   "jp": "　\n「また　おいで　くだしゃんせ～！」\n　\n　",
-  "en": ""
+  "en": "\"Pray come agaaain!\""
  },
  {
   "id": "GSV1306D/2/033A",
   "kind": "msg",
   "jp": "「やめなさるかぁ～～！\n　では　１００両を\n　お返しするでござる～～！」",
-  "en": ""
+  "en": "\"You'll not buy-y-y?! Then I return your 100 ryo-o-o!\""
  },
  {
   "id": "GSV1306D/2/03BC",
   "kind": "msg",
   "jp": "「さぁ～て　さて　ほかに　なにか\n　ごようは　ござらぬかぁ～？」\n　{KN}",
-  "en": ""
+  "en": "\"Weeell now, is there any other business you might have?\"{KN}"
  },
  {
   "id": "GSV1306D/3/001E",
   "kind": "msg",
   "jp": "「すみません！\n　アイスを　食べて\n　どうも　あいすみません！」{KP}\n　\n「ついでに　だじゃれが\n　おもしろくなくて\n　あいすみません！」{KP}\n　\n「わたしの　顔を\n　覚えてくださいね！\n　あいすみません！」",
-  "en": ""
+  "en": "\"Sorry! I was eating ice cream, so I'm ice-ly sorry!\"{KP}\"And on top of that, I'm ice-ly sorry my puns aren't funny!\"{KP}\"Please remember my face! Ice-ly sorry!\""
  },
  {
   "id": "GSV1306D/3/0108",
   "kind": "msg",
   "jp": "「すみません　あいすみません\n　ちょっと　そのお面を……」\n　{KP}\n「お面を　かしてくれマスク？\n　なんちゃって！」\n　{KP}\n「ビックリですね！\n　このお面は　わたしに\n　ソックリなんですね！」{KP}\n　\n「よかったら　もっと\n　よく　見せてください！」\n　",
-  "en": ""
+  "en": "\"Sorry, so ice-ly sorry, but that mask...\"{KP}\"Can I mask you a favor? Lend me that mask! Just kidding!\"{KP}\"What a surprise! This mask looks just like me!\"{KP}\"If you don't mind, let me get a better look!\""
  },
  {
   "id": "GSV1306D/3/0220",
   "kind": "msg",
   "jp": "　桃太郎は\n　お面を　見せてあげた！\n　",
-  "en": ""
+  "en": "Momotaro showed him the mask!"
  },
  {
   "id": "GSV1306D/3/0258",
   "kind": "msg",
   "jp": "「ありがとうございます\n　お礼に　これを　どうぞ！」\n　",
-  "en": ""
+  "en": "\"Thank you very much. Please take this as thanks!\""
  },
  {
   "id": "GSV1306D/3/02A0",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード００８{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 008{ww}!{KN}"
  },
  {
   "id": "GSV1306D/3/02F4",
   "kind": "msg",
   "jp": "「また　ビックリするような\n　お面を　見せてくださいね！」\n　",
-  "en": ""
+  "en": "\"Come show me another surprising mask sometime!\""
  },
  {
   "id": "GSV1306D/4/001E",
   "kind": "msg",
   "jp": "このケースはないっす",
-  "en": ""
+  "en": "This case doesn't happen."
  },
  {
   "id": "GSV1306D/4/0040",
   "kind": "msg",
   "jp": "「お題は　植物　ざんすぅ～！\n　お題に　あわせて　あても　芸名を\n　アカシヤはんまに　変えようかな！」",
-  "en": ""
+  "en": "\"The theme is plants, zansu! To match it, maybe I'll change my stage name to Acacia Hanma!\""
  },
  {
   "id": "GSV1306D/4/00B8",
   "kind": "msg",
   "jp": "「いいかげん　次の大会には\n　出るざんすぅ～」\n　{KP}\n「じゃないと　みんなに\n　はんぱ芸人って　言われてしまう\n　ざんすよ～」",
-  "en": ""
+  "en": "\"I really ought to enter the next contest, zansu...\"{KP}\"Otherwise everyone'll call me a half-baked comedian, zansu!\""
  }
 ]

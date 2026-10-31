@@ -3,66 +3,66 @@
   "id": "GSV0910D/2/0026",
   "kind": "msg",
   "jp": "「うちの　人は　海に\n　魚をつりに　行ったきり\n　行方不明に　なってしまったんです」{KP}\n　\n「それから　生活が\n　苦しくなってしまって…………」\n　",
-  "en": ""
+  "en": "\"My husband went out to sea to fish and never came back. He's gone missing.\"{KP}\"Ever since then, life has been so hard............\""
  },
  {
   "id": "GSV0910D/2/00D2",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}{MM}{ww}を　わたした！\n　",
-  "en": ""
+  "en": "Momotaro handed over {bb}{MM}{ww}!"
  },
  {
   "id": "GSV0910D/2/0104",
   "kind": "msg",
   "jp": "「あっ　それは　あの人の　字だわ～」\n　\n　{KP}\n「えっ………　なんですって！\n　ツボの　中に　小判が\n　隠してあるって！」{KP}\n　\n「うう～っ……あの人ったら\n　ないしょで　ためて　いたのね」\n　{KP}\n「ありがとう　桃太郎さん！\n　これで　生活も　楽に\n　なります」{KP}\n　\n「最後まで　手ばなさなかった\n　この　{bb}方言カード{ww}を\n　さしあげます！」",
-  "en": ""
+  "en": "\"Oh, that's his handwriting!\"{KP}\"What......? What did it say?! There are koban coins hidden inside the pot?!\"{KP}\"Oooh... that man, saving up in secret like that...\"{KP}\"Thank you, Momotaro-san! Now life will be easier for us.\"{KP}\"Please take this {bb}Dialect Card{ww}, the one thing I held on to till the very end!\""
  },
  {
   "id": "GSV0910D/2/0280",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０４９{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 049{ww}!{KN}"
  },
  {
   "id": "GSV0910D/2/02DE",
   "kind": "msg",
   "jp": "「ありがとう　桃太郎さん！\n　これで　生活も　楽に\n　なります」",
-  "en": ""
+  "en": "\"Thank you, Momotaro-san! Now life will be easier for us.\""
  },
  {
   "id": "GSV0910D/2/033E",
   "kind": "msg",
   "jp": "「桃太郎さん！　あの人……\n　あの人が　もどって　来ました！」\n　",
-  "en": ""
+  "en": "\"Momotaro-san! He... he came back to us!\""
  },
  {
   "id": "GSV0910D/2/0392",
   "kind": "msg",
   "jp": "「ありがとう　桃太郎さん！\n　これで　昔のような\n　楽しい　生活が　おくれます」",
-  "en": ""
+  "en": "\"Thank you, Momotaro-san! Now we can live happily like we used to.\""
  },
  {
   "id": "GSV0910D/3/0010",
   "kind": "msg",
   "jp": "「おとうちゃん……\n　早く　帰って来ないかなぁ……」\n　",
-  "en": ""
+  "en": "\"Daddy...... I wish he'd hurry home......\""
  },
  {
   "id": "GSV0910D/3/005A",
   "kind": "msg",
   "jp": "「わーい　わーい\n　おとうちゃんが　帰って来たーーー！」\n　",
-  "en": ""
+  "en": "\"Yay, yay! Daddy came hooome!\""
  },
  {
   "id": "GSV0910D/4/0016",
   "kind": "msg",
   "jp": "「いや～～　桃太郎さん！\n　成仏　できなくて\n　もどって　来てしまいました～」",
-  "en": ""
+  "en": "\"Weeell, Momotaro-san! I couldn't rest in peace, so I came baaack...\""
  },
  {
   "id": "GSV0910D/4/0076",
   "kind": "msg",
   "jp": "「いや～～　家族の\n　ぬくもりは　い～い～ね～」\n　",
-  "en": ""
+  "en": "\"Ahhh... the warmth of family is so ni-i-ice...\""
  }
 ]

@@ -3,24 +3,24 @@
   "id": "GSV1210D/2/0018",
   "kind": "msg",
   "jp": "「ここは　寝太郎の村の\n　宝物が　おさめてある\n　宝物塔です！」{KP}\n　\n「でも　最近　宝物の１つ　{bb}黄の鐘{ww}が\n　誰かに　盗まれてしまったの！」\n　{KP}\n「こまったわ～」\n　\n　",
-  "en": ""
+  "en": "\"This is the Treasure Tower, where Netaro Village's treasures are kept!\"{KP}\"But lately someone stole one of the treasures, the {bb}Yellow Bell{ww}!\"{KP}\"What a fix...\""
  },
  {
   "id": "GSV1210D/2/00E4",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}{MM}{ww}を　見せた！\n　",
-  "en": ""
+  "en": "Momotaro showed him the {bb}{MM}{ww}!"
  },
  {
   "id": "GSV1210D/2/0114",
   "kind": "msg",
   "jp": "「はいっ！　村長からですね\n　……ふむふむ　では　{bb}木材{ww}を\n　手配しておきましょう！」{KP}\n　\n「あとで　村の人を　使って\n　{bb}木材{ww}を　{bb}龍神船{ww}に\n　運びこんで　おきますわ！」",
-  "en": ""
+  "en": "\"Yes! This is from the village chief... Hmm, hmm. Then I'll arrange the {bb}Lumber{ww}!\"{KP}\"Later on, I'll have the villagers carry the {bb}Lumber{ww} onto the {bb}Dragon God Ship{ww}!\""
  },
  {
   "id": "GSV1210D/2/01F0",
   "kind": "msg",
   "jp": "「桃太郎さん\n　龍神船は　修理できましたか？」\n　",
-  "en": ""
+  "en": "\"Momotaro-san, were you able to repair the Dragon God Ship?\""
  }
 ]

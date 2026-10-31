@@ -45,7 +45,7 @@
   "id": "GSF0603D/2/0440",
   "kind": "msg",
   "jp": "「遊び方の説明を　聞きますか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Would you like to hear how to play?\"{KN}"
  },
  {
   "id": "GSF0603D/2/04A4",
@@ -93,7 +93,7 @@
   "id": "GSF0603D/2/0920",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}真実の鏡{ww}を　使った！\n　",
-  "en": ""
+  "en": "Momotaro used the {bb}Mirror of Truth{ww}!"
  },
  {
   "id": "GSF0603D/2/0976",
@@ -117,7 +117,7 @@
   "id": "GSF0603D/2/0BB6",
   "kind": "msg",
   "jp": "「遊び方の説明を　聞きますか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Would you like to hear how to play?\"{KN}"
  },
  {
   "id": "GSF0603D/2/0BF6",

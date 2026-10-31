@@ -3,60 +3,60 @@
   "id": "GSV0308D/2/001E",
   "kind": "msg",
   "jp": "「赤ん坊が　泣きやまなくて\n　こまってしまうわ！」\n　{KP}\n「さっき　おチチを\n　あげたばかりなのに……」\n　",
-  "en": ""
+  "en": "\"My baby won't stop crying, and I don't know what to do!\"{KP}\"And I only just fed the little one, too...\""
  },
  {
   "id": "GSV0308D/2/00A0",
   "kind": "msg",
   "jp": "「まぁ！　この子ったら…\n　わたしの　おチチより　牛の\n　おチチのほうが　いいなんて！」{KP}\n　\n「でも　よかったわ！　泣きやんで！」\n　\n　{KP}\n「桃太郎さん！　お礼に　わが家の\n　お宝を　さしあげますわ！」\n　",
-  "en": ""
+  "en": "\"My! This child... preferring cow's milk to mine!\"{KP}\"But I'm so glad! The crying stopped!\"{KP}\"Momotaro-san! As thanks, I'll give you our family treasure!\""
  },
  {
   "id": "GSV0308D/2/0190",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}カンの皿{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Kan Plate{ww}!{KN}"
  },
  {
   "id": "GSV0308D/2/01D6",
   "kind": "msg",
   "jp": "「桃太郎さんの　おかげで　この子は\n　すっかり　泣きやみましたわ！」\n　",
-  "en": ""
+  "en": "\"Thanks to you, Momotaro-san, my child has stopped crying completely!\""
  },
  {
   "id": "GSV0308D/3/0020",
   "kind": "msg",
   "jp": "「オギャー！　オギャー！\n　オギャーーーーーーッ！」\n　",
-  "en": ""
+  "en": "\"Waaah! Waaah! WAAAAAAAAAH!\""
  },
  {
   "id": "GSV0308D/3/006A",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}{MM}{ww}を　わたした！\n　",
-  "en": ""
+  "en": "Momotaro handed over {bb}{MM}{ww}!"
  },
  {
   "id": "GSV0308D/3/009C",
   "kind": "msg",
   "jp": "「ゴクゴク………\n　………　ウマ　ウマ！」\n　",
-  "en": ""
+  "en": "\"Gulp, gulp...... ......Yum, yum!\""
  },
  {
   "id": "GSV0308D/3/00EC",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}{MM}{ww}を　わたした！\n　",
-  "en": ""
+  "en": "Momotaro handed over {bb}{MM}{ww}!"
  },
  {
   "id": "GSV0308D/3/011E",
   "kind": "msg",
   "jp": "「ゴクゴク………\n　………　ウマ　ウマ！」\n　",
-  "en": ""
+  "en": "\"Gulp, gulp...... ......Yum, yum!\""
  },
  {
   "id": "GSV0308D/3/0168",
   "kind": "msg",
   "jp": "「バブーッ！」\n　\n　",
-  "en": ""
+  "en": "\"Ba-boo!\""
  }
 ]

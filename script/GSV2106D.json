@@ -3,78 +3,78 @@
   "id": "GSV2106D/2/001E",
   "kind": "msg",
   "jp": "「いよぉ～　いらっしゃ～い！\n　ご用けんは\n　なんで　ございまするかぁ～？」{KN}",
-  "en": ""
+  "en": "\"Weeell, weeelcome! And what might be your business, pray tell?\"{KN}"
  },
  {
   "id": "GSV2106D/2/009A",
   "kind": "msg",
   "jp": "　\n「お面　１枚　１００両ですが\n　よろしいか？　よろし～い～か～？」\n　{KN}",
-  "en": ""
+  "en": "\"Masks are 100 ryo apiece. Is that all right? All ri-i-ight?\"{KN}"
  },
  {
   "id": "GSV2106D/2/0140",
   "kind": "msg",
   "jp": "「は～て　さて　桃太郎さん？\n　お金が　たりませぬぅ～！」\n　{KP}\n「いずこにて　かせいでから\n　また　おいで　くだしゃんせ～！」\n　",
-  "en": ""
+  "en": "\"Weeell now, Momotaro-san? Your money falls short, it doooes!\"{KP}\"Go earn some somewhere and come back again, pretty pleeease!\""
  },
  {
   "id": "GSV2106D/2/01DC",
   "kind": "msg",
   "jp": "「あいや　桃太郎さん！　お面を\n　持ちすぎで　ございまする～～」\n　{KP}\n「お面を\n　売っては　いかが～か～な」\n　",
-  "en": ""
+  "en": "\"Oh my, Momotaro-san! You carry too many masks-s-s!\"{KP}\"Why not sell a mask or twooo?\""
  },
  {
   "id": "GSV2106D/2/0284",
   "kind": "msg",
   "jp": "　\n「されど　桃太郎さん　桃太郎さん\n　お面が　あ～り～ませぬ～！」\n　",
-  "en": ""
+  "en": "\"And yet, Momotaro-san, Momotaro-san, you have no ma-a-asks!\""
  },
  {
   "id": "GSV2106D/2/02E2",
   "kind": "msg",
   "jp": "　\n「また　おいで　くだしゃんせ～！」\n　\n　",
-  "en": ""
+  "en": "\"Pray come agaaain!\""
  },
  {
   "id": "GSV2106D/2/033A",
   "kind": "msg",
   "jp": "「やめなさるかぁ～～！\n　では　１００両を\n　お返しするでござる～～！」",
-  "en": ""
+  "en": "\"You'll not buy-y-y?! Then I return your 100 ryo-o-o!\""
  },
  {
   "id": "GSV2106D/2/03BC",
   "kind": "msg",
   "jp": "「さぁ～て　さて　ほかに　なにか\n　ごようは　ござらぬかぁ～？」\n　{KN}",
-  "en": ""
+  "en": "\"Weeell now, is there any other business you might have?\"{KN}"
  },
  {
   "id": "GSV2106D/3/0002",
   "kind": "msg",
   "jp": "「お面屋では　いろいろな\n　お面が　つくれるらしいけどのォ！」\n　{KP}\n「ここの　お面屋が　一番\n　品ぞろえが　いいらしいんじゃ！」\n　",
-  "en": ""
+  "en": "\"They say you can have all sorts of masks made at a mask shop, eh!\"{KP}\"But the mask shop here has the best selection of all, I hear!\""
  },
  {
   "id": "GSV2106D/4/000A",
   "kind": "msg",
   "jp": "「ウハハハ！　おもしろい　お面が\n　できあがったで　ござるぅ～！」\n　{KP}\n「さぁ～て　さて　桃太郎さん！\n　お面で　{bb}にらめっこアップップ！{ww}\n　しませぬか～？」{KN}",
-  "en": ""
+  "en": "\"Uhahaha! What an amusing mask has been completed!\"{KP}\"Weeell now, Momotaro-san! Shall we have a round of {bb}Funny Face Face-Off!{ww} with masks?\"{KN}"
  },
  {
   "id": "GSV2106D/4/00E2",
   "kind": "msg",
   "jp": "「遊び方の説明を　聞きますか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Would you like to hear how to play?\"{KN}"
  },
  {
   "id": "GSV2106D/4/014A",
   "kind": "msg",
   "jp": "　\n「ぬぬぬぬぬ～～っ！　お面を\n　持っていないとな～～～～～！」\n　{KP}\n「あっちへ　行け！　あっちへ～！\n　お面を　買ってから　来～いっ！」\n　",
-  "en": ""
+  "en": "\"Nununununnn! You say you have no maaask?!\"{KP}\"Off with you! Away, away! Buy a mask first, then come baaack!\""
  },
  {
   "id": "GSV2106D/4/01F4",
   "kind": "msg",
   "jp": "　\n「わたしで　よかったら\n　いつでも　相手に　なりますよ～！」\n　{KP}\n「あ　なりますよぉ～！\n　いよ～っ　ちょん　ちょん！」\n　",
-  "en": ""
+  "en": "\"If you'll have me, I'll be your opponent anytiiime!\"{KP}\"Oh, anytime at aaall! Yoooh, clack clack!\""
  }
 ]

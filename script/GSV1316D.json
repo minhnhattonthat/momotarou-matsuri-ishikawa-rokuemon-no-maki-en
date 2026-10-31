@@ -3,48 +3,48 @@
   "id": "GSV1316D/2/0020",
   "kind": "msg",
   "jp": "「おいらは　ちょっとした\n　人形マニアなんだ！」\n　{KP}\n「今　一番　ほしい人形は\n　{bb}からくり人形{ww}なんだ！」\n　{KP}\n「桃太郎さん！　もし　持っていたら\n　おいらの　この　{bb}こだま笛{ww}と\n　取りかえっこ　してけれ！」{KP}\n　\n「この笛は　ふだん　あらわれない物を\n　呼び出す　ちからが　あると\n　言われているだ！」",
-  "en": ""
+  "en": "\"I'm a bit of a doll nut, I am!\"{KP}\"The doll I want most right now is a {bb}Karakuri Doll{ww}!\"{KP}\"Momotaro-san! If you've got one, trade it for this {bb}Echo Flute{ww} of mine!\"{KP}\"They say this flute has the power to call up things that don't normally appear!\""
  },
  {
   "id": "GSV1316D/2/0178",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}{MM}{ww}を　見せた！\n　",
-  "en": ""
+  "en": "Momotaro showed him the {bb}{MM}{ww}!"
  },
  {
   "id": "GSV1316D/2/01A8",
   "kind": "msg",
   "jp": "「おーー！　それは\n　夢にまで見た　{bb}からくり人形{ww}！」\n　{KP}\n「桃太郎さん！\n　この　{bb}こだま笛{ww}と\n　取りかえておくれよ！」{KN}",
-  "en": ""
+  "en": "\"Ooooh! That's the {bb}Karakuri Doll{ww} of my dreams!\"{KP}\"Momotaro-san! Trade me for this {bb}Echo Flute{ww}!\"{KN}"
  },
  {
   "id": "GSV1316D/2/024C",
   "kind": "msg",
   "jp": "　\n「おーー！　三と九！\n　では　取りかえっこだ！」\n　",
-  "en": ""
+  "en": "\"Ooh! Thanks a ton, a ten and a twenty! Then let's trade!\""
  },
  {
   "id": "GSV1316D/2/02AA",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}こだま笛{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Echo Flute{ww}!{KN}"
  },
  {
   "id": "GSV1316D/2/02F6",
   "kind": "msg",
   "jp": "　\n「そんな！　雪上車！……もとい\n　そんな！　せっしょうな！\n　取りかえておくれよ！」{KN}",
-  "en": ""
+  "en": "\"That's snow fair! ...I mean, that's not fair! Trade with me!\"{KN}"
  },
  {
   "id": "GSV1316D/2/0360",
   "kind": "msg",
   "jp": "　\n「そんな！　合唱な！……もとい\n　そんな！　せっしょうな！\n　取りかえておくれよ！」{KN}",
-  "en": ""
+  "en": "\"Don't be such a chorus! ...I mean, don't be so callous! Trade with me!\"{KN}"
  },
  {
   "id": "GSV1316D/2/03D4",
   "kind": "msg",
   "jp": "「あっ！　桃太郎さん！\n　いいですね～\n　この　{bb}からくり人形{ww}は！」",
-  "en": ""
+  "en": "\"Ah! Momotaro-san! That {bb}Karakuri Doll{ww} sure is nice!\""
  }
 ]

@@ -9,438 +9,438 @@
   "id": "GSV1600D/22/0002",
   "kind": "msg",
   "jp": "「おお　桃太郎！\n　ようこそ　希望の都へ！」\n　{KP}\n「希望の都は　いつでも\n　お祭りさわぎじゃ！」\n　{KP}\n「にぎやかで　楽しいぞ！」\n　\n　",
-  "en": ""
+  "en": "\"Oh, Momotaro! Welcome to the Capital of Hope!\"{KP}\"The Capital of Hope is always one big festival!\"{KP}\"It's lively and fun!\""
  },
  {
   "id": "GSV1600D/23/0002",
   "kind": "msg",
   "jp": "「おお　桃太郎よ！\n　五重塔の　中に　入ったか？」\n　{KP}\n「たくさんの　ゆうぎが\n　用意してあるそうだ！」\n　",
-  "en": ""
+  "en": "\"Oh, Momotaro! Have you been inside the Five-Story Pagoda?\"{KP}\"They say lots of games are set up in there!\""
  },
  {
   "id": "GSV1600D/24/0002",
   "kind": "msg",
   "jp": "「この先の　橋の向こう側では\n　ゆうぎの　{bb}都でＧＯ！{ww}が\n　行われている時にしか」{KP}\n　\n「通ることが　できなく\n　なっておるぞ！」\n　",
-  "en": ""
+  "en": "\"You can only cross to the far side of the bridge ahead while the game {bb}Capital de GO!{ww}\"{KP}\"is being held!\""
  },
  {
   "id": "GSV1600D/26/0002",
   "kind": "msg",
   "jp": "「そこの　家に　希望の都の\n　都長が　住んでいます！」\n　{KP}\n「最近　楽しい　ゆうぎ\n　{bb}都でＧＯ！{ww}を\n　考えられたのです！」",
-  "en": ""
+  "en": "\"The Mayor of the Capital of Hope lives in that house there!\"{KP}\"Not long ago, he came up with a fun game, {bb}Capital de GO!{ww}!\""
  },
  {
   "id": "GSV1600D/27/0002",
   "kind": "msg",
   "jp": "「この希望の都は　ひどく\n　いりくんだ　所が　あってのぉ」\n　{KP}\n「初めての人が　一回りするのは\n　ちと　大変なんじゃよ！」\n　",
-  "en": ""
+  "en": "\"The Capital of Hope has some terribly tangled spots, you see,\"{KP}\"so it's a bit tough for newcomers to make it all the way around!\""
  },
  {
   "id": "GSV1600D/28/0002",
   "kind": "msg",
   "jp": "「希望の都では　この　いりくんだ\n　町並みを　利用して」\n　{KP}\n「{bb}都でＧＯ！{ww}　という\n　ゆうぎを　するんですよ！」\n　",
-  "en": ""
+  "en": "\"Here in the Capital of Hope, we use these tangled streets\"{KP}\"to play a game called {bb}Capital de GO!{ww}!\""
  },
  {
   "id": "GSV1600D/29/0010",
   "kind": "msg",
   "jp": "「さっき　うわさの\n　石川六右衛門を　見たぜ！」\n　{KP}\n「すごいスピードで\n　走って行ったぜ！」\n　",
-  "en": ""
+  "en": "\"I just saw the infamous Ishikawa Rokuemon!\"{KP}\"He went running off at an amazing speed!\""
  },
  {
   "id": "GSV1600D/29/008A",
   "kind": "msg",
   "jp": "「オイラも　{bb}都でＧＯ！{ww}に\n　ちょうせん　しようかな！」\n　",
-  "en": ""
+  "en": "\"Maybe I'll take on {bb}Capital de GO!{ww} too!\""
  },
  {
   "id": "GSV1600D/30/0010",
   "kind": "msg",
   "jp": "「最近　桃太郎さんに　にている人が\n　ゆうぎ場で　悪さするんで」\n　{KP}\n「落ちついて\n　遊べなくなっちゃったんだ！」\n　",
-  "en": ""
+  "en": "\"Lately, someone who looks like you, Momotaro-san, has been causing trouble at the game stalls,\"{KP}\"so we can't play in peace!\""
  },
  {
   "id": "GSV1600D/30/009E",
   "kind": "msg",
   "jp": "「最近は　桃太郎さんに　にている人が\n　ゆうぎ場に　来なくなったから\n　安心して　遊べるようになったよ！」",
-  "en": ""
+  "en": "\"Lately, that person who looks like you, Momotaro-san, has stopped coming to the game stalls, so we can play in peace again!\""
  },
  {
   "id": "GSV1600D/31/0002",
   "kind": "msg",
   "jp": "「平和になった　希望の都は　\n　大きな　ゆうぎ場に　なりました」\n　",
-  "en": ""
+  "en": "\"Now that it's peaceful, the Capital of Hope has become one big game stall.\""
  },
  {
   "id": "GSV1600D/32/0010",
   "kind": "msg",
   "jp": "「あたいの　好きな動物は\n　カメさんでしゅ！」\n　{KP}\n「でも　希望の都には\n　住んでいないので　残念でしゅ！」\n　",
-  "en": ""
+  "en": "\"My favowite animal is Mister Turtle!\"{KP}\"But there awen't any in the Capital of Hope, so I'm sad!\""
  },
  {
   "id": "GSV1600D/32/00A6",
   "kind": "msg",
   "jp": "「わーい　カメさんでしゅ\n　カメさんが　遊びに\n　来てくれたっしゅ！」{KP}\n　\n「うれしいから　あたいの\n　{bb}方言カード{ww}を　あげるでしゅ！」\n　{KP}\n「ハイ！　カメさん！」\n　\n　",
-  "en": ""
+  "en": "\"Yaaay, it's Mister Turtle! Mister Turtle came to play with me!\"{KP}\"I'm so happy, I'll give you my {bb}Dialect Card{ww}!\"{KP}\"Hewe you go, Mister Turtle!\""
  },
  {
   "id": "GSV1600D/32/0172",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０３１{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 031{ww}!{KN}"
  },
  {
   "id": "GSV1600D/32/01C6",
   "kind": "msg",
   "jp": "「わーい　カメさんでしゅ\n　カメさんが　また　遊びに\n　来てくれたっしゅ！」{KP}\n　\n「でも　もう　{bb}方言カード{ww}は\n　ないでしゅ～！」\n　",
-  "en": ""
+  "en": "\"Yaaay, it's Mister Turtle! Mister Turtle came to play again!\"{KP}\"But I don't have any mowe {bb}Dialect Cards{ww}!\""
  },
  {
   "id": "GSV1600D/33/0002",
   "kind": "msg",
   "jp": "「希望の都は\n　なんだか　入り組んでいるんで」\n　{KP}\n「近いと　思った所には\n　なかなか　行けなかったりしてね」\n　{KP}\n「何が　いいのやら！」\n　\n　",
-  "en": ""
+  "en": "\"The Capital of Hope is kind of a maze,\"{KP}\"so places you think are close can be awfully hard to reach.\"{KP}\"What's so great about that, I wonder!\""
  },
  {
   "id": "GSV1600D/34/0002",
   "kind": "msg",
   "jp": "「橋の向こう側の　家に　住む\n　おじさんは　{bb}ネコぐるみ{ww}を\n　持っているんだ！」{KP}\n　\n「あれを　着ると　ネコと\n　話せるんだって！\n　うらやましいなぁ～！」",
-  "en": ""
+  "en": "\"The man who lives in the house across the bridge has a {bb}Cat Suit{ww}!\"{KP}\"They say if you wear it, you can talk to cats! I'm so jealous!\""
  },
  {
   "id": "GSV1600D/35/0002",
   "kind": "msg",
   "jp": "「あっ！　桃太郎さん！」\n　\n　{KP}\n「この間　桃太郎さんみたいな\n　かっこうを　していた人に」\n　{KP}\n「アメを　とられたんだよー！\n　くやしかったなあ！」\n　",
-  "en": ""
+  "en": "\"Ah! Momotaro-san!\"{KP}\"The other day, someone dressed just like you, Momotaro-san,\"{KP}\"took my candy! It made me so mad!\""
  },
  {
   "id": "GSV1600D/36/0002",
   "kind": "msg",
   "jp": "「実は　子どもたちしか　知らない\n　階段が　あるんでちゅー！」\n　{KP}\n「桃太郎さんは　子どもだから\n　教えてあげるでちゅー！」\n　{KP}\n「塔の　裏が\n　あやしいんでちゅー！」\n　{KP}\n「これ以上は\n　教えて　あげれないでちゅー！」\n　",
-  "en": ""
+  "en": "\"Guess what? There's a staiwcase only kids know about!\"{KP}\"You'we a kid, Momotaro-san, so I'll tell you!\"{KP}\"The back of the pagoda looks fishy!\"{KP}\"I can't tell you any mowe than that!\""
  },
  {
   "id": "GSV1600D/37/0002",
   "kind": "msg",
   "jp": "「この　希望の都は\n　一回り　できるのよ！」\n　{KP}\n「早く　希望の都を　一回り\n　できるように　練習しているの」\n　{KP}\n「そして　{bb}都でＧＯ！{ww}に　\n　出場するんだ！」\n　",
-  "en": ""
+  "en": "\"You can go all the way around the Capital of Hope!\"{KP}\"I'm practicing so I can get around the Capital of Hope fast,\"{KP}\"and then I'm entering {bb}Capital de GO!{ww}!\""
  },
  {
   "id": "GSV1600D/38/0002",
   "kind": "msg",
   "jp": "「最近　桃太郎さんの\n　かっこうは　流行ってるんですか？」\n　{KP}\n「つい　この間も　同じような\n　着物を　着ていた人が　いました！」\n　{KP}\n「初め　見た時は\n　桃太郎さんかと　思いましたよ！」\n　",
-  "en": ""
+  "en": "\"Is Momotaro-san's look in fashion these days?\"{KP}\"Just the other day, I saw someone wearing the same kind of kimono!\"{KP}\"When I first saw him, I thought it was you, Momotaro-san!\""
  },
  {
   "id": "GSV1600D/39/0002",
   "kind": "msg",
   "jp": "「あの人は　どうやって\n　あそこに　行ったんだろ？」\n　{KP}\n「大人　なのに　おかしいネ！」\n　\n　",
-  "en": ""
+  "en": "\"How did that person get over there, I wonder?\"{KP}\"He's a grown-up, so it's weird, huh!\""
  },
  {
   "id": "GSV1600D/40/0030",
   "kind": "msg",
   "jp": "「おう！　ひさしぶりだね！\n　桃太郎さん！\n　元スリの　{bb}銀次{ww}でっさ！」{KP}\n　\n「今は　心を　入れかえて\n　まっとうに　料亭で\n　働いていまっせ！」{KP}\n　\n「それはそうと\n　どうしたんだい？\n　うかない顔をして！」{KP}\n　\n「えっ！　連れの　子どもが\n　倒れたって！」\n　{KP}\n「でっ？\n　どんな具合　なんでぇ！」\n　",
-  "en": ""
+  "en": "\"Hey! Long time no see, Momotaro-san! It's me, {bb}Ginji{ww}, the former pickpocket!\"{KP}\"I've turned over a new leaf, and now I'm workin' honest at a restaurant!\"{KP}\"Anyhow, what's the matter? You look awful glum!\"{KP}\"What?! The kid with ya collapsed?!\"{KP}\"So? How's he doin'?!\""
  },
  {
   "id": "GSV1600D/40/0192",
   "kind": "msg",
   "jp": "　桃太郎は　栗太郎の\n　具合を　説明した！\n　",
-  "en": ""
+  "en": "Momotaro explained how Kuritaro was doing!"
  },
  {
   "id": "GSV1600D/40/01D0",
   "kind": "msg",
   "jp": "「ふむふむ……なるほど！」\n　\n　{KP}\n「そんな時は\n　栄養の　あるもんを\n　食べさせないと！」{KP}\n　\n「…そうだ！」\n　\n　{KP}\n「うちの　料亭に　行って\n　板前に　{bb}希望のおかゆ{ww}を\n　つくって　もらうといい！」{KP}\n　\n「あれは　あっしが　考えた\n　栄養満点の　人気メニュー\n　でっさぁ！」{KP}\n　\n「では　あっしは　もう少し\n　魚釣りを　楽しんで\n　いきますから！」",
-  "en": ""
+  "en": "\"Hmm, hmm... I see!\"{KP}\"At times like that, ya gotta feed him somethin' nourishing!\"{KP}\"...I know!\"{KP}\"Head over to my restaurant and have the chef make ya some {bb}Hope Porridge{ww}!\"{KP}\"That's a popular dish I came up with myself, packed with nutrition!\"{KP}\"Well, I'm gonna enjoy a little more fishin'!\""
  },
  {
   "id": "GSV1600D/40/0382",
   "kind": "msg",
   "jp": "「早く　うちの　料亭に\n　行って　板前に\n　{bb}希望のおかゆ{ww}を」{KP}\n　\n「つくって　もらうと\n　いいですぜ！」\n　",
-  "en": ""
+  "en": "\"Hurry on over to my restaurant and ask the chef for some {bb}Hope Porridge{ww}!\"{KP}\"Have him make it for ya, and you'll be all set!\""
  },
  {
   "id": "GSV1600D/40/041E",
   "kind": "msg",
   "jp": "「えっ！　連れの　子どもが\n　具合が　よくなったって！」\n　{KP}\n「そいつぁ　よかった！」\n　\n　",
-  "en": ""
+  "en": "\"What?! The kid with ya's feelin' better?!\"{KP}\"Well, ain't that great!\""
  },
  {
   "id": "GSV1600D/41/0002",
   "kind": "msg",
   "jp": "「希望の都には　水路に　入れる\n　階段が　あるんですよ！」\n　{KP}\n「なかなか\n　見つからない所　なんですがね！」\n　",
-  "en": ""
+  "en": "\"The Capital of Hope has stairs that lead down into the canals!\"{KP}\"They're pretty hard to find, though!\""
  },
  {
   "id": "GSV1600D/42/0002",
   "kind": "msg",
   "jp": "「水路に　おりなければ\n　行けない所も　あるんですよ！」\n　",
-  "en": ""
+  "en": "\"There are places you can only reach by going down into the canals!\""
  },
  {
   "id": "GSV1600D/43/0002",
   "kind": "msg",
   "jp": "「今から　デートなのよねぇ～{rr}∞{ww}」\n　\n　{KP}\n「お風呂に　入ってから\n　行ったほうが　いいかしら？」\n　{KP}\n「や～だぁ　Ｈねぇ～！」\n　\n　",
-  "en": ""
+  "en": "\"I've got a date now{rr}~{ww}\"{KP}\"Should I take a bath before I go?\"{KP}\"Eek, how naughty of me!\""
  },
  {
   "id": "GSV1600D/44/0002",
   "kind": "msg",
   "jp": "「この間　湯に　入っていたら\n　サクの　向こう側に　大きな\n　柿が　見えたの！」{KP}\n　\n「あれは　何だったのかしら？」\n　\n　",
-  "en": ""
+  "en": "\"The other day, while I was in the bath, I saw a big persimmon on the other side of the fence!\"{KP}\"What could that have been?\""
  },
  {
   "id": "GSV1600D/45/0002",
   "kind": "msg",
   "jp": "「橋の向こう側にある　貸衣装屋さんで\n　着物を　借りたんですよ！」\n　{KP}\n「おかしくないですか？」\n　\n　",
-  "en": ""
+  "en": "\"I rented a kimono at the costume rental shop across the bridge!\"{KP}\"It doesn't look funny, does it?\""
  },
  {
   "id": "GSV1600D/46/0010",
   "kind": "msg",
   "jp": "「何か　いやな予感が\n　するのじゃ！」\n　{KP}\n「たまに　不気味な　鐘の音が\n　聞こえてくるのじゃ」\n　{KP}\n「子どもの頃　仙人さまに\n　聞いたことが　あるのじゃ！」\n　{KP}\n「地下にねむる　４つの鐘が　鳴る時\n　はかいの　神が　よみがえる…」\n　{KP}\n「こわい話じゃ……」\n　\n　",
-  "en": ""
+  "en": "\"I've got a bad feeling about this!\"{KP}\"Now and then, I hear the eerie sound of a bell.\"{KP}\"I heard about it from Hermit-sama when I was a child!\"{KP}\"When the four bells sleeping underground ring, the God of Destruction will rise again...\"{KP}\"A scary tale...\""
  },
  {
   "id": "GSV1600D/46/0144",
   "kind": "msg",
   "jp": "「今は　幸せな　鐘の音しか\n　聞こえませんのぉ！」\n　",
-  "en": ""
+  "en": "\"These days, I only hear the sound of happy bells!\""
  },
  {
   "id": "GSV1600D/47/0010",
   "kind": "msg",
   "jp": "「ニャ～ン！」\n　\n　",
-  "en": ""
+  "en": "\"Meooow!\""
  },
  {
   "id": "GSV1600D/47/0038",
   "kind": "msg",
   "jp": "「ニャ～ン\n　いいことを　教えてあげるニャ～ン！」\n　{KP}\n「五重塔の　５階の　角に\n　５００両　隠してあるニャ～！」\n　{KP}\n「猫に　小判だニャ～！」\n　\n　",
-  "en": ""
+  "en": "\"Meooow! I'll tell you something good, meow!\"{KP}\"There's 500 ryo hidden in a corner on the 5th floor of the Five-Story Pagoda, meow!\"{KP}\"Koban coins are no use to a cat, meow!\""
  },
  {
   "id": "GSV1600D/48/0002",
   "kind": "msg",
   "jp": "「ここから先は　ゆうぎの\n　{bb}都でＧＯ！{ww}が　行われている時にしか\n　通ることが　できません！」{KP}\n　\n「{bb}都でＧＯ！{ww}に　参加する場合は\n　都長に　会ってください！」\n　",
-  "en": ""
+  "en": "\"You can only pass beyond this point while the game {bb}Capital de GO!{ww} is being held!\"{KP}\"If you want to take part in {bb}Capital de GO!{ww}, please see the Mayor of the Capital of Hope!\""
  },
  {
   "id": "GSV1600D/49/0002",
   "kind": "msg",
   "jp": "「お墓場に　おそなえ物を　置く時は\n　かならず　正面に　置いてください！」\n　",
-  "en": ""
+  "en": "\"When you leave offerings at the graveyard, be sure to place them in front of the grave!\""
  },
  {
   "id": "GSV1600D/50/0002",
   "kind": "msg",
   "jp": "「最近　墓場で　幽霊を　見た人が\n　増えております！」\n　{KP}\n「成仏して　ほしいものです！\n　ナンマイダ　ナンマイダ…」\n　",
-  "en": ""
+  "en": "\"More and more people have been seeing ghosts in the graveyard lately!\"{KP}\"I do hope they find peace! Namu Amida, Namu Amida...\""
  },
  {
   "id": "GSV1600D/51/001A",
   "kind": "msg",
   "jp": "「オオ！　桃太郎サン\n　元気デ　ヤッテルアルカ？」\n　{KP}\n「ナニハ　ナクトモ\n　希望ノ都ト　クレバ！」\n　{KP}\n「{bb}お堀で水泳大会！{ww}　ッテナモンデ\n　参加　シテイクアルヨ！」\n　{KN}",
-  "en": ""
+  "en": "\"Oh! Momotaro-san! You are doing well, yes?\"{KP}\"Whatever else, when it come to Capital of Hope...\"{KP}\"is {bb}Moat Swimming Meet!{ww}, yes! You join, yes!\"{KN}"
  },
  {
   "id": "GSV1600D/51/00E4",
   "kind": "msg",
   "jp": "「桃太郎サン！\n　コノアイダハ　スゴカッタアルネ！」\n　{KP}\n「クゥ！　オモイダシタダケデ\n　シビレルアルネ！」\n　{KP}\n「ナニハ　ナクトモ\n　希望ノ都ト　クレバ！」\n　{KP}\n「{bb}お堀で水泳大会！{ww}　ッテナモンデ\n　参加　シテイクアルヨ！」\n　{KN}",
-  "en": ""
+  "en": "\"Momotaro-san! Last time, you was amazing, yes!\"{KP}\"Ooh! Just remember it make me tingle, yes!\"{KP}\"Whatever else, when it come to Capital of Hope...\"{KP}\"is {bb}Moat Swimming Meet!{ww}, yes! You join, yes!\"{KN}"
  },
  {
   "id": "GSV1600D/51/0200",
   "kind": "msg",
   "jp": "「ソンジャ　ガンバルアルヨ！」\n　\n　",
-  "en": ""
+  "en": "\"Then you do best, yes!\""
  },
  {
   "id": "GSV1600D/51/0236",
   "kind": "msg",
   "jp": "「遊び方の説明を　聞きますか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Would you like to hear how to play?\"{KN}"
  },
  {
   "id": "GSV1600D/51/029A",
   "kind": "msg",
   "jp": "「残念　アルヨ\n　マタ　コンド　アルヨ！」\n　",
-  "en": ""
+  "en": "\"Too bad, yes! Next time, yes!\""
  },
  {
   "id": "GSV1600D/51/02F6",
   "kind": "msg",
   "jp": "「初勝利　オメデトウ！\n　桃太郎サン！」\n　{KP}\n「ヨカッタ　アルネ！\n　{bb}方言カード{ww}ガ　モラエテ！」\n　{KP}\n「マタ　来テチョーダイナ！」\n　\n　",
-  "en": ""
+  "en": "\"Congratulation on first win! Momotaro-san!\"{KP}\"Is good, yes! You get {bb}Dialect Card{ww}!\"{KP}\"You come again, okay!\""
  },
  {
   "id": "GSV1600D/51/03A8",
   "kind": "msg",
   "jp": "「サスガハ　桃太郎サン！\n　ヤルネェ　タイショウ！」\n　",
-  "en": ""
+  "en": "\"Is Momotaro-san, of course! You are great, boss!\""
  },
  {
   "id": "GSV1600D/51/03F2",
   "kind": "msg",
   "jp": "「ドウシチャッタアルカ？\n　桃太郎サン！」\n　{KP}\n「今日ハ\n　体調デモ　悪イアルカ？」\n　{KP}\n「昨日　遊ビスギデ\n　アンマリ　寝テナインジャナイノ？」\n　{KP}\n「マア　マタ　クルアルヨロシ！\n　クヨクヨ　シナイデサ！」\n　{KP}\n「マッテルアルネ！」\n　\n　",
-  "en": ""
+  "en": "\"What happen, Momotaro-san?\"{KP}\"Today you feel sick, yes?\"{KP}\"Yesterday you play too much, not sleep enough, no?\"{KP}\"Well, you come again, is okay! No feel gloomy!\"{KP}\"I wait for you, yes!\""
  },
  {
   "id": "GSV1600D/52/0002",
   "kind": "msg",
   "jp": "「五重塔の中に　隠し通路に\n　つながる　入口が　あるんだって！」\n　",
-  "en": ""
+  "en": "\"They say there's an entrance inside the Five-Story Pagoda that leads to a secret passage!\""
  },
  {
   "id": "GSV1600D/53/0002",
   "kind": "msg",
   "jp": "「東に行くと　料亭いしいが\n　ありますぅ～」\n　{KP}\n「元スリの　{bb}銀次さん{ww}が\n　経営しているんですぅ～」\n　{KP}\n「なかでも　{bb}希望のおかゆ{ww}は\n　いろんな物が　入っていて\n　人気メニューなんですぅ～」",
-  "en": ""
+  "en": "\"If you go east, there's Ishii Restaurant~\"{KP}\"It's run by {bb}Ginji-san{ww}, the former pickpocket~\"{KP}\"The most popular dish is the {bb}Hope Porridge{ww}, with all kinds of things in it~\""
  },
  {
   "id": "GSV1600D/55/0002",
   "kind": "msg",
   "jp": "「キャッ　キャッ　キャッ\n　どの　ゆうぎを　やろうかなぁ！」\n　",
-  "en": ""
+  "en": "\"Kyah kyah kyah! Which game should I play?\""
  },
  {
   "id": "GSV1600D/57/00EE",
   "kind": "msg",
   "jp": "「石川六右衛門　参上！」\n　\n　",
-  "en": ""
+  "en": "\"Ishikawa Rokuemon, at your service!\""
  },
  {
   "id": "GSV1600D/57/012E",
   "kind": "msg",
   "jp": "「やい　桃太郎！\n　{bb}赤の鐘{ww}は　いただいたぜ！」\n　",
-  "en": ""
+  "en": "\"Hey, Momotaro! The {bb}Red Bell{ww} is mine now!\""
  },
  {
   "id": "GSV1600D/57/0178",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}赤の鐘{ww}を　うばわれた！\n　",
-  "en": ""
+  "en": "Momotaro had the {bb}Red Bell{ww} stolen!"
  },
  {
   "id": "GSV1600D/57/01B0",
   "kind": "msg",
   "jp": "「やい　何をする！\n　キャッ　キャッ　キャッ！」\n　",
-  "en": ""
+  "en": "\"Hey, what are you doing?! Kyah kyah kyah!\""
  },
  {
   "id": "GSV1600D/57/01F4",
   "kind": "msg",
   "jp": "「ムフフフ\n　いいか　桃太郎！\n　よく　聞くがいい！」{KP}\n　\n「おまえの　持っていた\n　この鐘は　別名　{bb}はかいの鐘{ww}と\n　いって」{KP}\n　\n「これと　同じ鐘が　４つ\n　そろうと　この世は　俺さまの\n　ものに　なるんだぜ！」{KP}\n　\n「もう　２つの　鐘が\n　俺さまの　手の内だ！」\n　{KP}\n「今の　うちに　念仏でも\n　となえておくんだな！」\n　",
-  "en": ""
+  "en": "\"Muhuhuhu... Listen up, Momotaro! Listen well!\"{KP}\"This bell you had is also known as the {bb}Bell of Destruction{ww},\"{KP}\"and when four bells like it are gathered, this world will be mine!\"{KP}\"I already have two of the bells in my hands!\"{KP}\"You'd better start saying your prayers while you can!\""
  },
  {
   "id": "GSV1600D/57/0374",
   "kind": "msg",
   "jp": "「そ　そんな　ことは\n　聞いてなかったクリ！」\n　",
-  "en": ""
+  "en": "\"N-nobody told me about that, kuri!\""
  },
  {
   "id": "GSV1600D/57/03B6",
   "kind": "msg",
   "jp": "「おまえは　いつしかの\n　柿男の　弟だな！\n　なぜ　桃太郎の　そばに…」{KP}\n　\n「まあ　いい！\n　兄弟そろって\n　役立たずってことだ！」",
-  "en": ""
+  "en": "\"You're the little brother of that persimmon guy from before! Why are you with Momotaro...\"{KP}\"Well, whatever! It just means both brothers are useless!\""
  },
  {
   "id": "GSV1600D/57/046A",
   "kind": "msg",
   "jp": "「ちがわい！　ちがわい！\n　あんちゃんは　すごいんだぞ」\n　",
-  "en": ""
+  "en": "\"That's not true! That's not true! My big bro is awesome!\""
  },
  {
   "id": "GSV1600D/57/04B6",
   "kind": "msg",
   "jp": "「そんなことより　桃太郎！\n　これ以上　俺さまの　じゃまを\n　すると」{KP}\n　\n「ただでは　すまぬからな！」\n　\n　",
-  "en": ""
+  "en": "\"Never mind that, Momotaro! If you get in my way any more,\"{KP}\"you won't get off lightly!\""
  },
  {
   "id": "GSV1600D/57/05C0",
   "kind": "msg",
   "jp": "「やい！　待てー！\n　あんちゃんの　ことを\n　悪く　言うなー！！」{KP}\n　\n「あんちゃんは\n　あんちゃんはな………」\n　",
-  "en": ""
+  "en": "\"Hey! Wait! Don't you talk bad about my big bro!!\"{KP}\"My big bro... my big bro is.........\""
  },
  {
   "id": "GSV1600D/57/06A6",
   "kind": "msg",
   "jp": "「おっとっと\n　栗太郎！　どうした！」\n　",
-  "en": ""
+  "en": "\"Whoa there! Kuritaro! What's wrong?!\""
  },
  {
   "id": "GSV1600D/57/06DC",
   "kind": "msg",
   "jp": "「う～ん！」\n　\n　",
-  "en": ""
+  "en": "\"Uuugh!\""
  },
  {
   "id": "GSV1600D/57/0700",
   "kind": "msg",
   "jp": "「しっかりするんだ！\n　栗太郎！」\n　",
-  "en": ""
+  "en": "\"Hang in there, Kuritaro!\""
  },
  {
   "id": "GSV1600D/58/0030",
   "kind": "msg",
   "jp": "桃太郎は\nお墓を　しらべた！\n　{KP}\nこの　墓には\n何も　おそなえ物が　ない！\n　{KP}\n花の　ひとつも　おそなえして\nあげたらと　桃太郎は　思った！\n　",
-  "en": ""
+  "en": "Momotaro examined the grave!{KP}There are no offerings at all at this grave!{KP}Momotaro thought it would be nice to offer at least one flower!"
  },
  {
   "id": "GSV1600D/58/00DA",
   "kind": "msg",
   "jp": "桃太郎は\nお墓を　しらべた！\n　{KP}\nおそなえ物が　してあるだけだった\n　\n　",
-  "en": ""
+  "en": "Momotaro examined the grave!{KP}There were only some offerings."
  },
  {
   "id": "GSV1600D/58/0148",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}すみれ{ww}を　おそなえした！\n　{KP}\nドロロン！\n　\n　",
-  "en": ""
+  "en": "Momotaro offered a {bb}Violet{ww}!{KP}Poof!"
  },
  {
   "id": "GSV1600D/58/0324",
   "kind": "msg",
   "jp": "なんと！\n幽霊の男が　あらわれた！\n　{KP}\n「{bb}すみれ{ww}を　おそなえしてくれて\n　ありがとうございます！」\n　{KP}\n「桃太郎さん！　小さな幸福が\n　伝わって　来るようです！」\n　{KP}\n「お礼に　いいことを\n　教えて　さしあげましょう！」\n　{KP}\n「この前　{bb}方言カード{ww}が風に\n　飛ばされて来て　目の前の\n　お墓の　下に　落ちましたよ！」{KP}\n　\n「さがせば　{bb}方言カード{ww}が\n　見つかりますよ！」\n　",
-  "en": ""
+  "en": "Lo and behold! A ghostly man appeared!{KP}\"Thank you for offering the {bb}Violet{ww}!\"{KP}\"Momotaro-san! I can feel a little happiness coming through!\"{KP}\"As thanks, let me tell you something good!\"{KP}\"The other day, a {bb}Dialect Card{ww} blew over in the wind and fell under the grave right in front of you!\"{KP}\"If you search, you'll find the {bb}Dialect Card{ww}!\""
  },
  {
   "id": "GSV1600D/58/0650",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}{MM}{ww}を　おそなえした！\n　{KP}\nしかし\n何も　おこらなかった！\n　",
-  "en": ""
+  "en": "Momotaro offered {bb}{MM}{ww}!{KP}But nothing happened!"
  },
  {
   "id": "GSV1600D/58/06B2",
   "kind": "msg",
   "jp": "桃太郎は\nお墓を　しらべた！\n　{KP}\nドロロン！\n　\n　",
-  "en": ""
+  "en": "Momotaro examined the grave!{KP}Poof!"
  },
  {
   "id": "GSV1600D/58/0888",
   "kind": "msg",
   "jp": "「ありがとうね　桃太郎さん！」\n　\n　{KP}\n「これからも　やさしい　心を\n　忘れないで　くださいな！」\n　",
-  "en": ""
+  "en": "\"Thank you, Momotaro-san!\"{KP}\"Please never forget your kind heart!\""
  },
  {
   "id": "GSV1600D/59/001E",
   "kind": "msg",
   "jp": "桃太郎は\nお墓を　しらべた！\n　{KP}\nしかし！\n何も　なかった\n　",
-  "en": ""
+  "en": "Momotaro examined the grave!{KP}But! There was nothing there."
  },
  {
   "id": "GSV1600D/59/0074",
   "kind": "msg",
   "jp": "桃太郎は\nお墓を　しらべた！\n　{KP}\nなんと！\n{bb}方言カード{ww}を　みつけた！\n　",
-  "en": ""
+  "en": "Momotaro examined the grave!{KP}Lo and behold! He found a {bb}Dialect Card{ww}!"
  },
  {
   "id": "GSV1600D/59/00D6",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０７２{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 072{ww}!{KN}"
  }
 ]

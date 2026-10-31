@@ -3,42 +3,42 @@
   "id": "GSV0209D/0/002A",
   "kind": "msg",
   "jp": "「ちょっと　ちょっと　お客さん！\n　勝手に　プレイしようなんて\n　かんべんしてくださいよ～～！」",
-  "en": ""
+  "en": "\"Hey, hey, hold it, customer! Please don't go playing without asking!\""
  },
  {
   "id": "GSV0209D/2/001E",
   "kind": "msg",
   "jp": "「いらっしゃいませ！\n　{bb}ハリセンちょっぷ！{ww}が\n　楽しめます」{KN}",
-  "en": ""
+  "en": "\"Welcome! Here you can enjoy {bb}Paper Fan Chop!{ww}\"{KN}"
  },
  {
   "id": "GSV0209D/2/0074",
   "kind": "msg",
   "jp": "「いらっしゃいませ！\n　{bb}ハリセンちょっぷ！{ww}が\n　５０両で楽しめます」{KN}",
-  "en": ""
+  "en": "\"Welcome! You can enjoy {bb}Paper Fan Chop!{ww} for 50 ryo.\"{KN}"
  },
  {
   "id": "GSV0209D/2/0106",
   "kind": "msg",
   "jp": "　\n「またのおこしを」\n　\n　",
-  "en": ""
+  "en": "\"Do come again.\""
  },
  {
   "id": "GSV0209D/2/016E",
   "kind": "msg",
   "jp": "「遊び方の説明を　聞きますか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Would you like to hear how to play?\"{KN}"
  },
  {
   "id": "GSV0209D/2/01E4",
   "kind": "msg",
   "jp": "　\n「桃太郎さん　\n　お金がたりませんよ！」\n　{KP}\n「またのおこしを　びろ～ん」\n　\n　",
-  "en": ""
+  "en": "\"Momotaro-san, you don't have enough money!\"{KP}\"Please come again, biroon!\""
  },
  {
   "id": "GSV0209D/3/0002",
   "kind": "msg",
   "jp": "「{bb}ハリセンちょっぷ！{ww}は\n　カウントダウンが　０に\n　なった後が　勝負だびろーん」{KP}\n　\n「０より前に　たたく人は\n　あわてんぼうだびろーん！」\n　",
-  "en": ""
+  "en": "\"In {bb}Paper Fan Chop!{ww}, the real contest starts after the countdown hits 0, biroon!\"{KP}\"Anyone who whacks before 0 is a total hothead, biroon!\""
  }
 ]

@@ -3,54 +3,54 @@
   "id": "GSV1609D/0/0034",
   "kind": "msg",
   "jp": "「ちょっと　ちょっと　桃太郎さん\n　お金を　払ってくだされ！」\n　",
-  "en": ""
+  "en": "\"Hold on, hold on, Momotaro-san! Please pay first!\""
  },
  {
   "id": "GSV1609D/0/0084",
   "kind": "msg",
   "jp": "「ちょっと　ちょっと　お客さん\n　そっちは　男湯ですぞ！」\n　",
-  "en": ""
+  "en": "\"Hold on, hold on, customer! That's the men's bath!\""
  },
  {
   "id": "GSV1609D/0/00FE",
   "kind": "msg",
   "jp": "「ちょっと　ちょっと　お客さん\n　お金を　払ってくだされ！」\n　",
-  "en": ""
+  "en": "\"Hold on, hold on, customer! Please pay first!\""
  },
  {
   "id": "GSV1609D/0/014C",
   "kind": "msg",
   "jp": "「ちょっと　ちょっと　桃太郎さん\n　そっちは　女湯ですぞ！」\n　",
-  "en": ""
+  "en": "\"Hold on, hold on, Momotaro-san! That's the women's bath!\""
  },
  {
   "id": "GSV1609D/2/0016",
   "kind": "msg",
   "jp": "「いらっしゃ～い！\n　入浴料は　２０両で　ございます」\n　{KN}",
-  "en": ""
+  "en": "\"Welcooome! The bath fee is 20 ryo.\"{KN}"
  },
  {
   "id": "GSV1609D/2/0088",
   "kind": "msg",
   "jp": "「よ～く\n　あったまって　行ってくだされ！」\n　",
-  "en": ""
+  "en": "\"Get nice and warmed up!\""
  },
  {
   "id": "GSV1609D/2/0124",
   "kind": "msg",
   "jp": "「桃太郎さん\n　お金がたりませんよ！」\n　",
-  "en": ""
+  "en": "\"Momotaro-san, you don't have enough money!\""
  },
  {
   "id": "GSV1609D/2/015C",
   "kind": "msg",
   "jp": "「お客さん\n　お金がたりませんよ！」\n　",
-  "en": ""
+  "en": "\"Sorry, customer, you don't have enough money!\""
  },
  {
   "id": "GSV1609D/2/01DE",
   "kind": "msg",
   "jp": "「また　どうぞ～！」\n　\n　",
-  "en": ""
+  "en": "\"Come again~!\""
  }
 ]

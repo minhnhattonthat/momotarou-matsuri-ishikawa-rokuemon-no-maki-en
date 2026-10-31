@@ -3,78 +3,78 @@
   "id": "GSV0305D/2/002C",
   "kind": "msg",
   "jp": "「あら！？　うちの子は\n　どこに　行ったのかしら……」\n　",
-  "en": ""
+  "en": "\"Oh?! Where did my little one go...\""
  },
  {
   "id": "GSV0305D/2/0086",
   "kind": "msg",
   "jp": "「桃太郎さん　そのせつは\n　ありがとうございました！」\n　",
-  "en": ""
+  "en": "\"Momotaro-san, thank you so much for the other day!\""
  },
  {
   "id": "GSV0305D/2/00D2",
   "kind": "msg",
   "jp": "「桃太郎さん　そのせつは\n　ありがとうございました！」\n　{KP}\n「えっ！？　{bb}ひかり米{ww}を\n　さがしているのですか？」\n　{KN}",
-  "en": ""
+  "en": "\"Momotaro-san, thank you so much for the other day!\"{KP}\"What?! You're looking for {bb}Shining Rice{ww}?\"{KN}"
  },
  {
   "id": "GSV0305D/2/0170",
   "kind": "msg",
   "jp": "「それでは　うちの　{bb}ひかり米{ww}を\n　さしあげます！」\n　",
-  "en": ""
+  "en": "\"In that case, I'll give you some of our {bb}Shining Rice{ww}!\""
  },
  {
   "id": "GSV0305D/2/01BA",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}ひかり米{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Shining Rice{ww}!{KN}"
  },
  {
   "id": "GSV0305D/2/0208",
   "kind": "msg",
   "jp": "「必要な時は\n　言ってくださいね！」\n　",
-  "en": ""
+  "en": "\"Just let me know whenever you need it!\""
  },
  {
   "id": "GSV0305D/2/0244",
   "kind": "msg",
   "jp": "「おやまあ　桃太郎さん！\n　りっぱな　体になられて……」\n　",
-  "en": ""
+  "en": "\"Oh my, Momotaro-san! What a fine figure you've grown into...\""
  },
  {
   "id": "GSV0305D/2/0292",
   "kind": "msg",
   "jp": "「桃太郎さん　そのせつは\n　ありがとうございました！」\n　{KP}\n「えっ！？　また　{bb}ひかり米{ww}が\n　必要なのですか？」\n　{KN}",
-  "en": ""
+  "en": "\"Momotaro-san, thank you so much for the other day!\"{KP}\"What?! You need {bb}Shining Rice{ww} again?\"{KN}"
  },
  {
   "id": "GSV0305D/2/033E",
   "kind": "msg",
   "jp": "「それでは　うちの　{bb}ひかり米{ww}を\n　さしあげます！」\n　",
-  "en": ""
+  "en": "\"In that case, I'll give you some of our {bb}Shining Rice{ww}!\""
  },
  {
   "id": "GSV0305D/2/0388",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}ひかり米{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Shining Rice{ww}!{KN}"
  },
  {
   "id": "GSV0305D/2/03D8",
   "kind": "msg",
   "jp": "「必要な時は\n　言ってくださいね！」\n　",
-  "en": ""
+  "en": "\"Just let me know whenever you need it!\""
  },
  {
   "id": "GSV0305D/2/0412",
   "kind": "msg",
   "jp": "「あら？　桃太郎さん！\n　{bb}ひかり米{ww}を　持っているでは\n　ありませんか！」",
-  "en": ""
+  "en": "\"Oh? Momotaro-san! Why, you already have {bb}Shining Rice{ww}!\""
  },
  {
   "id": "GSV0305D/3/0002",
   "kind": "msg",
   "jp": "「あっ！　桃太郎しゃん\n　こんにちはでチュー！」\n　",
-  "en": ""
+  "en": "\"Oh! Momotaro-shan! Hewwo, squeak!\""
  }
 ]

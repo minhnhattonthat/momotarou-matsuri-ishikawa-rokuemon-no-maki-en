@@ -3,204 +3,204 @@
   "id": "GSV0609D/2/002C",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　おかあちゃんを　さがして\n　くれて　ありがとう！」",
-  "en": ""
+  "en": "\"Momotaro-san! Thanks for finding my mom!\""
  },
  {
   "id": "GSV0609D/2/009E",
   "kind": "msg",
   "jp": "「あっ！　桃太郎さんだ！」\n　\n　{KP}\n「え？　薬……\n　{bb}浦島の村{ww}の　{bb}カメさん{ww}が！」\n　{KP}\n「それなら\n　早く　おかあちゃんに\n　聞いてみなよ！」{KP}\n　\n「おかあちゃんは　薬づくりの\n　名人だからさ！」\n　",
-  "en": ""
+  "en": "\"Ah! It's Momotaro-san!\"{KP}\"Huh? Medicine... for {bb}Mr. Turtle{ww} in {bb}Urashima Village{ww}?!\"{KP}\"Then hurry and ask my mom!\"{KP}\"My mom's a master at making medicine!\""
  },
  {
   "id": "GSV0609D/2/0192",
   "kind": "msg",
   "jp": "「あっ！　桃太郎さんだ！」\n　\n　{KP}\n「え？　薬……\n　{bb}浦島の村{ww}の　{bb}カメさん{ww}が！」\n　{KP}\n「何とか　助けて　あげてよ！\n　オイラの時みたいにさ！」\n　",
-  "en": ""
+  "en": "\"Ah! It's Momotaro-san!\"{KP}\"Huh? Medicine... for {bb}Mr. Turtle{ww} in {bb}Urashima Village{ww}?!\"{KP}\"Please find some way to help him! Like you did for me!\""
  },
  {
   "id": "GSV0609D/2/0248",
   "kind": "msg",
   "jp": "「オイラの時って？\n　どういうことクリ！？」\n　",
-  "en": ""
+  "en": "\"Like he did for you? What do you mean, kuri?!\""
  },
  {
   "id": "GSV0609D/2/0288",
   "kind": "msg",
   "jp": "「どういうことって？\n　…それは　おかあちゃんと\n　はぐれてしまった　オイラを」{KP}\n　\n「おかあちゃんの　とこまで\n　連れていって　くれたのさ！」\n　",
-  "en": ""
+  "en": "\"What do I mean? ...Well, when I got separated from my mom,\"{KP}\"he took me all the way back to her!\""
  },
  {
   "id": "GSV0609D/2/0334",
   "kind": "msg",
   "jp": "「桃太郎がクリ？」\n　\n　",
-  "en": ""
+  "en": "\"Momotaro did that, kuri?\""
  },
  {
   "id": "GSV0609D/2/035E",
   "kind": "msg",
   "jp": "「そうさ！　桃太郎さんは\n　いつも　オイラたちの\n　味方さ！」{KP}\n　\n「こまっている時には　かならず\n　助けてくれるのさ！」\n　{KP}\n「オイラたちが\n　鬼に　いじめられてたら」\n　{KP}\n「鬼ヶ島まで　行って\n　鬼を　こらしめてくれる！」\n　{KP}\n「オイラみたいな\n　こまっている　子どもにも\n　手を　かしてくれるのさ！」",
-  "en": ""
+  "en": "\"That's right! Momotaro-san is always on our side!\"{KP}\"Whenever we're in trouble, he always helps us!\"{KP}\"When the oni were picking on us,\"{KP}\"he went all the way to Onigashima and taught the oni a lesson!\"{KP}\"And he lends a hand to kids in trouble, like me!\""
  },
  {
   "id": "GSV0609D/2/04BA",
   "kind": "msg",
   "jp": "「………」\n　\n　",
-  "en": ""
+  "en": "\".........\""
  },
  {
   "id": "GSV0609D/2/04D8",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　{bb}カメさん{ww}を　助けてあげて！」\n　{KP}\n「オイラ　{bb}カメさん{ww}が\n　心配だよ！」\n　",
-  "en": ""
+  "en": "\"Momotaro-san! Please help {bb}Mr. Turtle{ww}!\"{KP}\"I'm worried about {bb}Mr. Turtle{ww}!\""
  },
  {
   "id": "GSV0609D/2/05C4",
   "kind": "msg",
   "jp": "「さあ！\n　早く　おかあちゃんに\n　薬を　つくってもらって！」",
-  "en": ""
+  "en": "\"Come on! Hurry and get my mom to make the medicine!\""
  },
  {
   "id": "GSV0609D/2/0614",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　{bb}カメさん{ww}のためにも」\n　{KP}\n「薬の　材料を\n　早く　集めてあげて！」\n　",
-  "en": ""
+  "en": "\"Momotaro-san! For {bb}Mr. Turtle{ww}'s sake,\"{KP}\"hurry and gather the medicine ingredients!\""
  },
  {
   "id": "GSV0609D/2/0688",
   "kind": "msg",
   "jp": "「早く　{bb}カメさん{ww}に\n　薬を　とどけてあげて！」\n　",
-  "en": ""
+  "en": "\"Hurry and take the medicine to {bb}Mr. Turtle{ww}!\""
  },
  {
   "id": "GSV0609D/2/06D0",
   "kind": "msg",
   "jp": "「カメさん　助かったんだね！\n　よかった　よかった！」\n　{KP}\n「さすがは　桃太郎さん！\n　たよりに　なるね！」\n　",
-  "en": ""
+  "en": "\"So Mr. Turtle's been saved! That's great, just great!\"{KP}\"That's Momotaro-san for you! We can always count on you!\""
  },
  {
   "id": "GSV0609D/3/003A",
   "kind": "msg",
   "jp": "「この間は　本当に\n　ありがとうございました！」\n　",
-  "en": ""
+  "en": "\"Thank you so much for the other day!\""
  },
  {
   "id": "GSV0609D/3/0080",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　この間は　本当に\n　ありがとうございました！」{KP}\n　\n「え！？\n　浦島の村の　{bb}カメさん{ww}が……\n　では　お薬を　早くしないと」{KP}\n　\n「でも　{bb}処方せん{ww}がないと\n　はらいたを治す　お薬を\n　つくることが　できませんが」{KP}\n　\n「……えっ！\n　持っていらっしゃいますか？\n　桃太郎さん！」{KP}\n　\n「では　その{bb}処方せん{ww}を\n　見せてください！」\n　",
-  "en": ""
+  "en": "\"Momotaro-san! Thank you so much for the other day!\"{KP}\"What?! {bb}Mr. Turtle{ww} of Urashima Village... Then we must hurry with the medicine.\"{KP}\"But without a {bb}prescription{ww}, I can't make medicine to cure a tummy ache...\"{KP}\"......Oh! You have one, Momotaro-san?\"{KP}\"Then please show me that {bb}prescription{ww}!\""
  },
  {
   "id": "GSV0609D/3/0218",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}処方せん{ww}を　わたした！\n　",
-  "en": ""
+  "en": "Momotaro handed over the {bb}prescription{ww}!"
  },
  {
   "id": "GSV0609D/3/02CA",
   "kind": "msg",
   "jp": "「さすがは　桃太郎さん！\n　これで　材料が\n　そろいました！」{KP}\n　\n「少しの間\n　待っていてくださいね！」\n　{KP}\n「すぐに　{bb}はらいたの薬{ww}を\n　つくりましょう！」\n　",
-  "en": ""
+  "en": "\"That's Momotaro-san for you! Now I have all the ingredients!\"{KP}\"Please wait just a little while!\"{KP}\"I'll make the {bb}Tummy Medicine{ww} right away!\""
  },
  {
   "id": "GSV0609D/3/038E",
   "kind": "msg",
   "jp": "　よしきちの母は　材料から\n　薬を　つくりはじめた！\n　",
-  "en": ""
+  "en": "Yoshikichi's mother began making the medicine from the ingredients!"
  },
  {
   "id": "GSV0609D/3/03D6",
   "kind": "msg",
   "jp": "ゴリゴリゴリゴリ…\n　\n　",
-  "en": ""
+  "en": "Grind, grind, grind, grind..."
  },
  {
   "id": "GSV0609D/3/0404",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　{bb}はらいたの薬{ww}が\n　できましたよ！」{KP}\n　\n「早く　{bb}カメさん{ww}に\n　持って行って\n　あげてくださいな！」",
-  "en": ""
+  "en": "\"Momotaro-san! The {bb}Tummy Medicine{ww} is ready!\"{KP}\"Please hurry and take it to {bb}Mr. Turtle{ww}!\""
  },
  {
   "id": "GSV0609D/3/0498",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}はらいたの薬{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Tummy Medicine{ww}!{KN}"
  },
  {
   "id": "GSV0609D/3/0500",
   "kind": "msg",
   "jp": "「これが　{bb}はらいたの薬{ww}の\n　{bb}処方せん{ww}　ですね！」\n　{KP}\n「{bb}処方せん{ww}に　よると\n　桃太郎さんの　持ち物では…」\n　{KP}\n「残念ですけど　まだ\n　足りない物が　ありますね！」\n　{KP}\n「{bb}はらいたの薬{ww}を\n　つくるには　まだ…」\n　",
-  "en": ""
+  "en": "\"So this is the {bb}prescription{ww} for {bb}Tummy Medicine{ww}!\"{KP}\"According to the {bb}prescription{ww}, from what Momotaro-san has...\"{KP}\"I'm sorry, but there's still something missing!\"{KP}\"To make the {bb}Tummy Medicine{ww}, we still...\""
  },
  {
   "id": "GSV0609D/3/0616",
   "kind": "msg",
   "jp": "「{bb}シジミ{ww}が　必要です！」\n　\n　",
-  "en": ""
+  "en": "\"need {bb}Clams{ww}!\""
  },
  {
   "id": "GSV0609D/3/065A",
   "kind": "msg",
   "jp": "「{bb}すこんぶ{ww}が　必要です！」\n　\n　",
-  "en": ""
+  "en": "\"need {bb}Sour Kelp{ww}!\""
  },
  {
   "id": "GSV0609D/3/06A0",
   "kind": "msg",
   "jp": "「{bb}やきいも{ww}が　必要です！」\n　\n　",
-  "en": ""
+  "en": "\"need a {bb}Roast Yam{ww}!\""
  },
  {
   "id": "GSV0609D/3/06E6",
   "kind": "msg",
   "jp": "「{bb}シイタケ{ww}が　必要です！」\n　\n　",
-  "en": ""
+  "en": "\"need {bb}Shiitake{ww}!\""
  },
  {
   "id": "GSV0609D/3/072C",
   "kind": "msg",
   "jp": "「{bb}ホウレンソウ{ww}が　必要です！」\n　\n　",
-  "en": ""
+  "en": "\"need {bb}Spinach{ww}!\""
  },
  {
   "id": "GSV0609D/3/0776",
   "kind": "msg",
   "jp": "「{bb}カブ{ww}が　必要です！」\n　\n　",
-  "en": ""
+  "en": "\"need a {bb}Turnip{ww}!\""
  },
  {
   "id": "GSV0609D/3/07B8",
   "kind": "msg",
   "jp": "「{bb}にんじん{ww}が　必要です！」\n　\n　",
-  "en": ""
+  "en": "\"need a {bb}Carrot{ww}!\""
  },
  {
   "id": "GSV0609D/3/07EC",
   "kind": "msg",
   "jp": "「{bb}カメさん{ww}のためにも　早く\n　材料を　集めてくださいね！」\n　",
-  "en": ""
+  "en": "\"For {bb}Mr. Turtle{ww}'s sake, please hurry and gather the ingredients!\""
  },
  {
   "id": "GSV0609D/3/0840",
   "kind": "msg",
   "jp": "「早く　{bb}カメさん{ww}に\n　持って行って\n　あげてくださいな！」",
-  "en": ""
+  "en": "\"Please hurry and take it to {bb}Mr. Turtle{ww}!\""
  },
  {
   "id": "GSV0609D/3/0890",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　その後　カメさんは\n　どうですか？」",
-  "en": ""
+  "en": "\"Momotaro-san! How has Mr. Turtle been since then?\""
  },
  {
   "id": "GSV0609D/3/08D6",
   "kind": "msg",
   "jp": "カメさんの　ことを　話した！\n　\n　",
-  "en": ""
+  "en": "Momotaro told her about Mr. Turtle!"
  },
  {
   "id": "GSV0609D/3/090A",
   "kind": "msg",
   "jp": "「そうですか！\n　ああ　よかった！\n　お役に立てて　うれしいわ！」",
-  "en": ""
+  "en": "\"I see! Oh, thank goodness! I'm so glad I could help!\""
  }
 ]

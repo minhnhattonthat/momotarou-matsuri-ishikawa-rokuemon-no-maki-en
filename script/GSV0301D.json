@@ -3,12 +3,12 @@
   "id": "GSV0301D/2/000A",
   "kind": "msg",
   "jp": "「旅の記録を　つけますか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Would you like to record your journey?\"{KN}"
  },
  {
   "id": "GSV0301D/2/0052",
   "kind": "msg",
   "jp": "「そうですか　記録しないのですね？」\n　\n　",
-  "en": ""
+  "en": "\"I see. So you won't be recording it?\""
  }
 ]

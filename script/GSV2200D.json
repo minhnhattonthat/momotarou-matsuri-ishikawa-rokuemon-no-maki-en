@@ -9,378 +9,378 @@
   "id": "GSV2200D/26/0018",
   "kind": "msg",
   "jp": "「あ～ん！　水を　くんでいたら\n　むねに　しまっておいた　{bb}クシ{ww}を\n　井戸に　落としちゃったわ！」",
-  "en": ""
+  "en": "\"Oh no! I was drawing water and dropped the {bb}Comb{ww} I keep tucked in my kimono down the well!\""
  },
  {
   "id": "GSV2200D/26/008E",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}{MM}{ww}を　わたした！\n　",
-  "en": ""
+  "en": "Momotaro handed over {bb}{MM}{ww}!"
  },
  {
   "id": "GSV2200D/26/00C0",
   "kind": "msg",
   "jp": "「あ　ありがとう！　桃太郎さん！\n　お礼に　これを　どうぞ！」\n　",
-  "en": ""
+  "en": "\"Oh, th-thank you, Momotaro-san! Please take this as thanks!\""
  },
  {
   "id": "GSV2200D/26/0112",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０３３{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 033{ww}!{KN}"
  },
  {
   "id": "GSV2200D/26/016A",
   "kind": "msg",
   "jp": "「あら～！\n　大事な　クシが　もどって\n　よかったわ！」",
-  "en": ""
+  "en": "\"Oh my! I'm so glad I got my precious comb back!\""
  },
  {
   "id": "GSV2200D/27/0002",
   "kind": "msg",
   "jp": "「いや～\n　女の人が　いっぱいで\n　弱っちまうべ！　でへへへ～」",
-  "en": ""
+  "en": "\"Well now, so many ladies around, I don't know what to do with myself! Heh heh heh...\""
  },
  {
   "id": "GSV2200D/28/0002",
   "kind": "msg",
   "jp": "「愛しているよ～　シズちゃん{rr}∞{ww}」\n　\n　",
-  "en": ""
+  "en": "\"I love you, Shizu-chan{rr}<3{ww}\""
  },
  {
   "id": "GSV2200D/29/0010",
   "kind": "msg",
   "jp": "「ようやく　雨も　あがったかのぉ！」\n　\n　",
-  "en": ""
+  "en": "\"Looks like the rain's finally let up, eh!\""
  },
  {
   "id": "GSV2200D/29/004E",
   "kind": "msg",
   "jp": "「若い　男どもは　ほとんど\n　おりひめの村に　行ってしもうた！\n　目の色　かえてのぉ～！」",
-  "en": ""
+  "en": "\"Nearly all the young men have gone off to Orihime Village! And with that look in their eyes, eh!\""
  },
  {
   "id": "GSV2200D/30/0068",
   "kind": "msg",
   "jp": "「雨が　降ろうとも　風が　ふこうとも\n　オラは　畑仕事　がんばるダ！」\n　",
-  "en": ""
+  "en": "\"Come rain or come wind, I'll keep workin' hard in the fields!\""
  },
  {
   "id": "GSV2200D/31/0002",
   "kind": "msg",
   "jp": "「オ～イェ～！！」\n　\n　",
-  "en": ""
+  "en": "\"Oh yeaaah!!\""
  },
  {
   "id": "GSV2200D/32/0002",
   "kind": "msg",
   "jp": "「オ～ノォ～！！」\n　\n　",
-  "en": ""
+  "en": "\"Oh nooo!!\""
  },
  {
   "id": "GSV2200D/33/0068",
   "kind": "msg",
   "jp": "「おっと　じゃまでぇ！\n　もう　少しだから　待ってな！」\n　{KP}\n「宿屋に　行って　ひとねむり\n　していな！！」\n　",
-  "en": ""
+  "en": "\"Whoa, you're in the way! It's almost done, so hang on!\"{KP}\"Go to the inn and catch some shut-eye!!\""
  },
  {
   "id": "GSV2200D/34/0002",
   "kind": "msg",
   "jp": "「よく来たな　桃太郎よ！\n　ここは　男性ばかりの\n　ひこぼしの村　じゃ！」{KP}\n　\n「この村の　夜は　長いぞ！」\n　\n　",
-  "en": ""
+  "en": "\"Welcome, Momotaro! This is Hikoboshi Village, home to men only!\"{KP}\"The nights in this village are long!\""
  },
  {
   "id": "GSV2200D/35/0002",
   "kind": "msg",
   "jp": "「よく来たな　桃太郎よ！\n　ここは　女性ばかりの\n　おりひめの村　じゃ！」{KP}\n　\n「とは　言いつつも\n　男どもが　いっぱい\n　来おったわい！」",
-  "en": ""
+  "en": "\"Welcome, Momotaro! This is Orihime Village, home to women only!\"{KP}\"That said, a whole lot of men have shown up here!\""
  },
  {
   "id": "GSV2200D/36/007E",
   "kind": "msg",
   "jp": "「こんなんじゃ！\n　畑仕事が　ちゃんと　できねぇべ！」\n　",
-  "en": ""
+  "en": "\"At this rate, I can't get any proper work done in the fields!\""
  },
  {
   "id": "GSV2200D/36/00D2",
   "kind": "msg",
   "jp": "「桃太郎さんよ！\n　{bb}種まきドンドン！{ww}を　やるべか？」\n　{KN}",
-  "en": ""
+  "en": "\"Momotaro-san! Ya wanna play {bb}Sowing Don-Don!{ww}?\"{KN}"
  },
  {
   "id": "GSV2200D/36/012E",
   "kind": "msg",
   "jp": "「よーし！\n　いっちょ　もんでやるべ！」\n　",
-  "en": ""
+  "en": "\"Alrighty! Let's see what ya got!\""
  },
  {
   "id": "GSV2200D/36/016A",
   "kind": "msg",
   "jp": "「遊び方の説明を　聞きますか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Would you like to hear how to play?\"{KN}"
  },
  {
   "id": "GSV2200D/36/01CE",
   "kind": "msg",
   "jp": "「おそれを　なしたか！\n　桃太郎さん！」\n　",
-  "en": ""
+  "en": "\"Lost your nerve, have ya, Momotaro-san!\""
  },
  {
   "id": "GSV2200D/37/0002",
   "kind": "msg",
   "jp": "「いや～　きれいだなぁ\n　ん～　女の人も　きれいだなぁ！」\n　{KP}\n「はるばる　旅立ちの村から\n　来たかいが　ありますねぇ～」\n　",
-  "en": ""
+  "en": "\"My, how beautiful... Mmm, and the women are beautiful too!\"{KP}\"It was worth coming all the way from Tabidachi Village!\""
  },
  {
   "id": "GSV2200D/38/0002",
   "kind": "msg",
   "jp": "「タクさんに　会えて\n　よかったわ～{rr}∞∞∞{ww}」\n　",
-  "en": ""
+  "en": "\"I'm so glad I got to meet Taku-san{rr}<3<3<3{ww}\""
  },
  {
   "id": "GSV2200D/39/0010",
   "kind": "msg",
   "jp": "「そこの　家の　娘さんは\n　どんな　悲しい話を　聞いても\n　泣かないのよ～」{KP}\n　\n「かわいそうに　男から\n　鬼娘って　言われたことが\n　あるらしいのよ～」",
-  "en": ""
+  "en": "\"The daughter in that house there never cries, no matter how sad a story she hears...\"{KP}\"Poor thing, I hear a man once called her an oni girl...\""
  },
  {
   "id": "GSV2200D/39/00C4",
   "kind": "msg",
   "jp": "「あら　やだ！\n　あの娘　泣いているわよ！」\n　{KP}\n「でも…\n　こんなに　たまねぎの\n　においが　するのは　なぜ……？」",
-  "en": ""
+  "en": "\"Oh my! That girl is crying!\"{KP}\"But... why does it smell so much of onions......?\""
  },
  {
   "id": "GSV2200D/40/0002",
   "kind": "msg",
   "jp": "「あらあら　男の人たちが\n　いっぱい　来ちゃったわ！」\n　{KP}\n「おめかし　しなくちゃ！\n　おめかしを！」\n　",
-  "en": ""
+  "en": "\"Oh my, oh my, a whole lot of men have come!\"{KP}\"I have to get dolled up! Dolled up!\""
  },
  {
   "id": "GSV2200D/41/0002",
   "kind": "msg",
   "jp": "「無言…」",
-  "en": ""
+  "en": "\"Silence...\""
  },
  {
   "id": "GSV2200D/42/001C",
   "kind": "msg",
   "jp": "「おまえは　桃太郎だな！\n　まだ　鬼面党に　いどむとは\n　しつこいど」{KP}\n　\n「オラの　ちからを　見せてやるど！\n　さあ　勝負するど！」\n　",
-  "en": ""
+  "en": "\"You're Momotaro, ain'tcha! Still pickin' fights with the Oni Mask Gang? You don't quit, do ya!\"{KP}\"I'll show ya what I'm made of! Come on, let's settle this!\""
  },
  {
   "id": "GSV2200D/43/0028",
   "kind": "msg",
   "jp": "「あーん！　桃太郎さ～ん！\n　あんちゃんが　鬼たちに\n　連れていかれたんだ　クリ！」{KP}\n　\n「兄弟の洞窟に　帰る前に\n　七夕祭りを　見ようと\n　ここに　来る途中」{KP}\n　\n「鬼面党に　おそわれ\n　あり金　全部\n　うばわれたクリ！」{KP}\n　\n「だから　あんちゃんは\n　お腹を　すかした\n　オラの　ために」{KP}\n　\n「あちこちの　お店で\n　食べ物を　盗んで\n　くれてたんだ　クリ！」{KP}\n　\n「そしたら　鬼たちが　来て\n　あんちゃんを　連れて\n　いったんだ！　クリ！」{KP}\n　\n「やつらは　{bb}鬼ヶ島{ww}に\n　行くとか　言っていたクリ！」\n　{KP}\n「お願いだ　桃太郎さん\n　オラと　いっしょに\n　{bb}鬼ヶ島{ww}に　行って」{KP}\n　\n「あんちゃんを\n　助けておクリ！」\n　{KN}",
-  "en": ""
+  "en": "\"Waaah! Momotaro-saaan! My big bro got taken away by the oni, kuri!\"{KP}\"Before going back to Brothers' Cave, we came here to see the Tanabata Festival,\"{KP}\"but on the way the Oni Mask Gang attacked us and took every last coin we had, kuri!\"{KP}\"So my big bro, for my sake, since I was so hungry,\"{KP}\"was stealing food from shops all over for me, kuri!\"{KP}\"And then the oni came and took my big bro away! Kuri!\"{KP}\"They said something about going to {bb}Onigashima{ww}, kuri!\"{KP}\"Please, Momotaro-san! Come with me to {bb}Onigashima{ww}\"{KP}\"and help save my big bro, kuri!\"{KN}"
  },
  {
   "id": "GSV2200D/43/02FA",
   "kind": "msg",
   "jp": "「ありがとう！　やっぱり\n　桃太郎さんは　スゴイや！」\n　",
-  "en": ""
+  "en": "\"Thank you! I knew you were amazing, Momotaro-san!\""
  },
  {
   "id": "GSV2200D/43/0344",
   "kind": "msg",
   "jp": "{bb}栗太郎{ww}が　再び\n仲間に　くわわった！\n　{KN}",
-  "en": ""
+  "en": "{bb}Kuritaro{ww} joined the party again!{KN}"
  },
  {
   "id": "GSV2200D/43/039A",
   "kind": "msg",
   "jp": "「そう　言わずに\n　お願いだクリー！」\n　{KN}",
-  "en": ""
+  "en": "\"Don't say that! Pleeease, kuri!\"{KN}"
  },
  {
   "id": "GSV2200D/44/0010",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}大うちわ{ww}を　使った！\n　",
-  "en": ""
+  "en": "Momotaro used the {bb}Giant Fan{ww}!"
  },
  {
   "id": "GSV2200D/44/00CE",
   "kind": "msg",
   "jp": "暗雲が　ふきとんだ！\n　\n　",
-  "en": ""
+  "en": "The dark clouds were blown away!"
  },
  {
   "id": "GSV2200D/44/00F6",
   "kind": "msg",
   "jp": "なんと！　中には\n{bb}雷神{ww}と　{bb}風神{ww}が　いた！\n　",
-  "en": ""
+  "en": "What's this! Inside were {bb}Raijin{ww} and {bb}Fujin{ww}!"
  },
  {
   "id": "GSV2200D/44/0156",
   "kind": "msg",
   "jp": "「ゴロゴロ\n　誰だ！　おれたちの　ケンカを\n　じゃまする　やつはー？」{KP}\n　\n「あれ？　桃太郎さん\n　じゃないですか？」\n　{KP}\n「いったい　どうしたのかって\n　まあ　聞いてくださいよ！\n　ゴロゴロ」{KP}\n　\n「雪山に　ある　ワシの　家に\n　置いてあった　好物の　雷おかしが」\n　{KP}\n「全部　食いあらされて\n　いたんだ！」\n　{KP}\n「ワシの　家を　知っているのは\n　あいつ　風神だけだから\n　盗人は　あいつなんだ！」{KP}\n　\n「それなのに　知らぬふりを\n　しやがるんだ！」\n　",
-  "en": ""
+  "en": "\"Rumble rumble! Who dares interrupt our fight?!\"{KP}\"Huh? Isn't that Momotaro-san?\"{KP}\"What's going on, you ask? Well, just listen to this! Rumble rumble!\"{KP}\"My favorite thunder crackers that I kept at my house up on the snowy mountain\"{KP}\"got eaten up, every last one!\"{KP}\"The only one who knows where my house is, is that guy, Fujin, so he's the thief!\"{KP}\"And yet he's playing dumb!\""
  },
  {
   "id": "GSV2200D/44/0366",
   "kind": "msg",
   "jp": "「フー　フー！\n　何を　言ってやがる！」\n　{KP}\n「そんな　ことより　オイラの\n　家に　あった　風船まんじゅうを\n　たいらげたのは　おまえだろ～！」",
-  "en": ""
+  "en": "\"Whoosh whoosh! What are you talking about?!\"{KP}\"Never mind that, you're the one who gobbled up the balloon buns at my house!\""
  },
  {
   "id": "GSV2200D/44/040C",
   "kind": "msg",
   "jp": "「おい　デタラメ言うな～\n　ゴロゴロ」\n　",
-  "en": ""
+  "en": "\"Hey, quit making stuff up! Rumble rumble!\""
  },
  {
   "id": "GSV2200D/44/05AC",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}真実の鏡{ww}を　使った！\n　",
-  "en": ""
+  "en": "Momotaro used the {bb}Mirror of Truth{ww}!"
  },
  {
   "id": "GSV2200D/44/061A",
   "kind": "msg",
   "jp": "「何だぁ～　ゴロゴロ」\n　\n　",
-  "en": ""
+  "en": "\"Whaaat? Rumble rumble!\""
  },
  {
   "id": "GSV2200D/44/0648",
   "kind": "msg",
   "jp": "「どうした　フーフー」\n　\n　",
-  "en": ""
+  "en": "\"What's going on? Whoosh whoosh!\""
  },
  {
   "id": "GSV2200D/44/0698",
   "kind": "msg",
   "jp": "{bb}真実の鏡{ww}が　空に　雷神の家の\n中を　映し出した！\n　{KP}\nそこには　柿太郎が　雷おかしを\nほおばったシーンが　映った！\n　",
-  "en": ""
+  "en": "The {bb}Mirror of Truth{ww} projected the inside of Raijin's house onto the sky!{KP}It showed Kakitaro stuffing his face with thunder crackers!"
  },
  {
   "id": "GSV2200D/44/073E",
   "kind": "msg",
   "jp": "「何だぁー　こいつは！？\n　ゴロゴロ」\n　",
-  "en": ""
+  "en": "\"Who on earth is that?! Rumble rumble!\""
  },
  {
   "id": "GSV2200D/44/0778",
   "kind": "msg",
   "jp": "「あ　あんちゃん！」\n　\n　",
-  "en": ""
+  "en": "\"B-big bro!\""
  },
  {
   "id": "GSV2200D/44/07C6",
   "kind": "msg",
   "jp": "続いて　風神の家で　柿太郎が\n風船まんじゅうを　ほおばった\nシーンが　映った！",
-  "en": ""
+  "en": "Next, it showed Kakitaro stuffing his face with balloon buns at Fujin's house!"
  },
  {
   "id": "GSV2200D/44/083E",
   "kind": "msg",
   "jp": "「こいつが　盗人か！　フーフー」\n　\n　",
-  "en": ""
+  "en": "\"So he's the thief! Whoosh whoosh!\""
  },
  {
   "id": "GSV2200D/44/0876",
   "kind": "msg",
   "jp": "「風神よ　申しわけない　ゴロゴロ」\n　\n　",
-  "en": ""
+  "en": "\"Fujin, I'm truly sorry! Rumble rumble!\""
  },
  {
   "id": "GSV2200D/44/08B0",
   "kind": "msg",
   "jp": "「いやいや　こっちこそ　悪かった！\n　雷神よ！　フーフー」\n　",
-  "en": ""
+  "en": "\"No, no, I was in the wrong too! Raijin! Whoosh whoosh!\""
  },
  {
   "id": "GSV2200D/44/08FE",
   "kind": "msg",
   "jp": "雷神と　風神は　仲直りした！\n　\n　",
-  "en": ""
+  "en": "Raijin and Fujin made up!"
  },
  {
   "id": "GSV2200D/44/0932",
   "kind": "msg",
   "jp": "「ありがとう　桃太郎さん！\n　ゴロゴロ」\n　",
-  "en": ""
+  "en": "\"Thank you, Momotaro-san! Rumble rumble!\""
  },
  {
   "id": "GSV2200D/44/0978",
   "kind": "msg",
   "jp": "「ごめいわくを　おかけしました\n　桃太郎さん！　フーフー」\n　",
-  "en": ""
+  "en": "\"Sorry for all the trouble we caused, Momotaro-san! Whoosh whoosh!\""
  },
  {
   "id": "GSV2200D/45/0064",
   "kind": "msg",
   "jp": "「おう　桃太郎さん　できたぜ！\n　少し　大変だったけどな！」\n　{KP}\n「じゃ！　オレは　他の\n　仕事が　あるから　帰るぜ！」\n　",
-  "en": ""
+  "en": "\"Hey, Momotaro-san, it's done! Took a bit of work, though!\"{KP}\"Well! I've got other jobs to get to, so I'm heading home!\""
  },
  {
   "id": "GSV2200D/45/0152",
   "kind": "msg",
   "jp": "やがて　夜に　なって\n七夕祭りが　ひらかれた！\n　",
-  "en": ""
+  "en": "At last night fell, and the Tanabata Festival began!"
  },
  {
   "id": "GSV2200D/45/01B8",
   "kind": "msg",
   "jp": "やがて　七夕祭りが　ひらかれた！\n　\n　",
-  "en": ""
+  "en": "At last, the Tanabata Festival began!"
  },
  {
   "id": "GSV2200D/46/0010",
   "kind": "msg",
   "jp": "桃太郎は\n足もとを　しらべた！\n　{KP}\nなんと！\n１００両を　見つけた！\n　",
-  "en": ""
+  "en": "Momotaro examined the ground at his feet!{KP}What's this! He found 100 ryo!"
  },
  {
   "id": "GSV2200D/46/007E",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}１００両{ww}を　手に入れた！\n　",
-  "en": ""
+  "en": "Momotaro got {bb}100 ryo{ww}!"
  },
  {
   "id": "GSV2200D/46/00C4",
   "kind": "msg",
   "jp": "桃太郎は\n足もとを　しらべた！\n　{KP}\nしかし　気になるものは\n何もなかった！\n　",
-  "en": ""
+  "en": "Momotaro examined the ground at his feet!{KP}But there was nothing of interest!"
  },
  {
   "id": "GSV2200D/47/0010",
   "kind": "msg",
   "jp": "桃太郎は\n井戸を　しらべた！\n　{KP}\n{bb}カエルぐるみ{ww}を　着れば\n入れるような　気がした！\n　",
-  "en": ""
+  "en": "Momotaro examined the well!{KP}He had a feeling he could get in if he wore the {bb}Frog Suit{ww}!"
  },
  {
   "id": "GSV2200D/47/00A4",
   "kind": "msg",
   "jp": "　桃太郎は　井戸の中に\n　入った！\n　",
-  "en": ""
+  "en": "Momotaro went down into the well!"
  },
  {
   "id": "GSV2200D/47/00DA",
   "kind": "msg",
   "jp": "バジャーン！\n　\n　",
-  "en": ""
+  "en": "Splaaash!"
  },
  {
   "id": "GSV2200D/47/010C",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}クシ{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Comb{ww}!{KN}"
  },
  {
   "id": "GSV2200D/47/0148",
   "kind": "msg",
   "jp": "………ペタ　ペタ　ペタ\n桃太郎が　{bb}クシ{ww}を　持って\nはいあがって来た！",
-  "en": ""
+  "en": ".........Pitter, patter, pitter...{n}Momotaro came crawling back up with the {bb}Comb{ww}!"
  },
  {
   "id": "GSV2200D/47/01BA",
   "kind": "msg",
   "jp": "桃太郎は\n足もとを　しらべた！\n　{KP}\nしかし　気になるものは\n何もなかった！\n　",
-  "en": ""
+  "en": "Momotaro examined the ground at his feet!{KP}But there was nothing of interest!"
  },
  {
   "id": "GSV2200D/48/0002",
   "kind": "msg",
   "jp": "そして　桃太郎は　再び\nゆうぎ道を　きわめる　旅に\n出かけました！",
-  "en": ""
+  "en": "And so Momotaro set off once more on his journey to master the Way of Games!"
  }
 ]

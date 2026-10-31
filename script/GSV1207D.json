@@ -3,108 +3,108 @@
   "id": "GSV1207D/2/0086",
   "kind": "msg",
   "jp": "「おう　オレは\n　{bb}大工の源次{ww}だ！」\n　{KP}\n「何か　用が　あるのかい？」\n　\n　",
-  "en": ""
+  "en": "\"Yo, I'm {bb}Genji the carpenter{ww}!\"{KP}\"Need somethin'?\""
  },
  {
   "id": "GSV1207D/2/00F6",
   "kind": "msg",
   "jp": "「えっ！　舟の　修理を\n　してくれってぇ～！？」\n　{KP}\n「いくらなんでも　オレは\n　舟の　修理なんか\n　やったことは　ないぜ！」",
-  "en": ""
+  "en": "\"What! You want me to fix a boat?!\"{KP}\"Now hold on, I've never fixed a boat in my life!\""
  },
  {
   "id": "GSV1207D/2/018A",
   "kind": "msg",
   "jp": "　桃太郎は\n　もう一度　頼んだ！\n　",
-  "en": ""
+  "en": "Momotaro asked once more!"
  },
  {
   "id": "GSV1207D/2/01BE",
   "kind": "msg",
   "jp": "「おっしゃーっ！\n　あんたの　熱意は\n　わかったぜ！」{KP}\n　\n「ただし　２つの　物を\n　用意して　くんな！」\n　{KP}\n「１つは　修理に　使う\n　大きな　{bb}木材{ww}を\n　そして　もう１つは…」{KP}\n　\n「オレの　大好物で\n　ちからの　もとになる\n　{bb}鬼の実{ww}だ！」{KP}\n　\n「{bb}鬼の実{ww}は　西の方向にある\n　{bb}ひょうたんの森{ww}で」\n　{KP}\n「{bb}のん鬼{ww}という　鬼が\n　売っているぜ！」\n　{KP}\n「じゃあ　桃太郎さん！\n　頼んだぜ！」\n　",
-  "en": ""
+  "en": "\"Alright! I can see how fired up you are!\"{KP}\"But you'll have to get me 2 things!\"{KP}\"One is a big load of {bb}Lumber{ww} for the repairs, and the other...\"{KP}\"is my favorite food, the one that keeps me strong: {bb}Oni Fruit{ww}!\"{KP}\"{bb}Oni Fruit{ww} is sold over in {bb}Gourd Forest{ww}, off to the west,\"{KP}\"by an oni called the {bb}Laid-Back Oni{ww}!\"{KP}\"Alright, Momotaro-san! I'm countin' on you!\""
  },
  {
   "id": "GSV1207D/2/03A2",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}{MM}{ww}を　わたした！\n　",
-  "en": ""
+  "en": "Momotaro handed over {bb}{MM}{ww}!"
  },
  {
   "id": "GSV1207D/2/0420",
   "kind": "msg",
   "jp": "「おうっ！　よく\n　買って来て　くれたな！\n　ありがとうよっ！」{KP}\n　\n「あとは　{bb}木材{ww}だなっ！\n　がんばってくれよ！」\n　",
-  "en": ""
+  "en": "\"Oh! You bought it for me! Thanks a bunch!\"{KP}\"Now all that's left is the {bb}Lumber{ww}! Keep at it!\""
  },
  {
   "id": "GSV1207D/2/04C8",
   "kind": "msg",
   "jp": "「{bb}鬼の実{ww}は　あるから\n　あとは　{bb}木材{ww}だなっ！\n　がんばってくれよ！」",
-  "en": ""
+  "en": "\"We've got the {bb}Oni Fruit{ww}, so all that's left is the {bb}Lumber{ww}! Keep at it!\""
  },
  {
   "id": "GSV1207D/2/053C",
   "kind": "msg",
   "jp": "「おうっ！　{bb}木材{ww}が\n　手配できたらしいな！」\n　{KP}\n「あとは　{bb}鬼の実{ww}だなっ！\n　よろしく　頼むぜ！」\n　",
-  "en": ""
+  "en": "\"Oh! Looks like you got the {bb}Lumber{ww} sorted out!\"{KP}\"Now all that's left is the {bb}Oni Fruit{ww}! I'm countin' on you!\""
  },
  {
   "id": "GSV1207D/2/05CA",
   "kind": "msg",
   "jp": "「おうっ　あんた\n　なかなか　がんばるな！\n　２つとも　そろえるとは！」{KP}\n　\n「よし！　{bb}鬼の実{ww}を　食べて\n　{bb}龍神船{ww}に　行くか！」\n　",
-  "en": ""
+  "en": "\"Hey, you really do work hard! You got both of 'em!\"{KP}\"Alright! Let me eat this {bb}Oni Fruit{ww} and head to the {bb}Dragon God Ship{ww}!\""
  },
  {
   "id": "GSV1207D/2/066E",
   "kind": "msg",
   "jp": "「ガツガツ！　ぷふぁ～！」\n　\n　{KP}\n「これを　食うと\n　体が　あったまって　くるぜ！\n　さぁ！　行くぜ！」",
-  "en": ""
+  "en": "\"Chomp, chomp! Pwaah!\"{KP}\"Eatin' this warms me right up! Alright, let's go!\""
  },
  {
   "id": "GSV1207D/2/0742",
   "kind": "msg",
   "jp": "「えっ！　桃太郎さんが\n　なんで　オレの　好物を\n　知っているんだ！」{KP}\n　\n「そんな…　理由もなく\n　{bb}鬼の実{ww}を　もらうわけに\n　いかないぜ！」",
-  "en": ""
+  "en": "\"What! How do you know my favorite food, Momotaro-san?!\"{KP}\"No way... I can't take {bb}Oni Fruit{ww} from you for no reason!\""
  },
  {
   "id": "GSV1207D/2/07F6",
   "kind": "msg",
   "jp": "「いや～　今日も　つかれたぜ！」\n　\n　",
-  "en": ""
+  "en": "\"Whew, another tiring day!\""
  },
  {
   "id": "GSV1207D/2/0838",
   "kind": "msg",
   "jp": "「おう　今度は　何の用だ？」\n　\n　{KP}\n「えっ！？\n　今度は　{bb}ひこぼしの村の橋{ww}を\n　直せってか！？」{KP}\n　\n「……{bb}木材{ww}は　あるってか！\n　それなら　{bb}鬼の実{ww}を\n　頼むぜ！」",
-  "en": ""
+  "en": "\"Yo, what is it this time?\"{KP}\"What?! Now you want me to fix the {bb}bridge in Hikoboshi Village{ww}?!\"{KP}\"......You've got {bb}Lumber{ww}, you say! Then bring me some {bb}Oni Fruit{ww}!\""
  },
  {
   "id": "GSV1207D/2/094E",
   "kind": "msg",
   "jp": "「よし！　{bb}鬼の実{ww}を　食べて\n　{bb}ひこぼしの村{ww}に　行くか！」\n　",
-  "en": ""
+  "en": "\"Alright! Let me eat this {bb}Oni Fruit{ww} and head to {bb}Hikoboshi Village{ww}!\""
  },
  {
   "id": "GSV1207D/2/09A2",
   "kind": "msg",
   "jp": "「ガツガツ！　ぷふぁ～！」\n　\n　{KP}\n「いやぁ～　これを　食うと\n　体が　あったまってくるぜ！\n　さぁ！　行くぜ！」",
-  "en": ""
+  "en": "\"Chomp, chomp! Pwaah!\"{KP}\"Boy, eatin' this warms me right up! Alright, let's go!\""
  },
  {
   "id": "GSV1207D/2/0A5C",
   "kind": "msg",
   "jp": "「いや～　今日も　つかれたぜ！」\n　\n　{KP}\n「村の者に\n　買ってきて　もらった\n　{bb}鬼の実{ww}でも　食べるかぁ～」",
-  "en": ""
+  "en": "\"Whew, another tiring day!\"{KP}\"Guess I'll eat some of that {bb}Oni Fruit{ww} the villagers bought for me...\""
  },
  {
   "id": "GSV1207D/2/0AE0",
   "kind": "msg",
   "jp": "　\n「ガツガツ！　ぷふぁ～！」\n　\n　",
-  "en": ""
+  "en": "\"Chomp, chomp! Pwaah!\""
  },
  {
   "id": "GSV1207D/2/0B22",
   "kind": "msg",
   "jp": "「そんな…　理由もなく\n　{bb}鬼の実{ww}を　もらうわけに\n　いかないぜ！」",
-  "en": ""
+  "en": "\"No way... I can't take {bb}Oni Fruit{ww} from you for no reason!\""
  }
 ]

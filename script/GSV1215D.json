@@ -3,42 +3,42 @@
   "id": "GSV1215D/0/002A",
   "kind": "msg",
   "jp": "「ちょっと　ちょっと　お客さん！\n　ただで　プレイしようなんて\n　かんべんしてくださいよ～～！」",
-  "en": ""
+  "en": "\"Hey, hey, hold on there! Don't go trying to play for free! Gimme a break!\""
  },
  {
   "id": "GSV1215D/2/000E",
   "kind": "msg",
   "jp": "「いらっしゃいませ！\n　{bb}餅つきぺったんこ{ww}が\n　５０両で楽しめます」{KN}",
-  "en": ""
+  "en": "\"Welcome! You can enjoy {bb}Pound-Pound Mochi{ww} for 50 ryo.\"{KN}"
  },
  {
   "id": "GSV1215D/2/009E",
   "kind": "msg",
   "jp": "　\n「またのおこしを」\n　\n　",
-  "en": ""
+  "en": "\"Do come again.\""
  },
  {
   "id": "GSV1215D/2/00F6",
   "kind": "msg",
   "jp": "「遊び方の説明を　聞きますか？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Would you like to hear how to play?\"{KN}"
  },
  {
   "id": "GSV1215D/2/016C",
   "kind": "msg",
   "jp": "　\n「桃太郎さん　\n　お金がたりませんよ！」\n　{KP}\n「またのおこしを」\n　\n　",
-  "en": ""
+  "en": "\"Momotaro-san, you don't have enough money!\"{KP}\"Do come again.\""
  },
  {
   "id": "GSV1215D/3/0002",
   "kind": "msg",
   "jp": "「アタイ　餅つきの　リズムには\n　のれないの～！」\n　{KP}\n「くやし－－－－－－－－－！」\n　\n　",
-  "en": ""
+  "en": "\"I just can't get into the rhythm of mochi pounding!\"{KP}\"So frustratiiiiiiiing!\""
  },
  {
   "id": "GSV1215D/4/0002",
   "kind": "msg",
   "jp": "「そこで　やってる\n　{bb}餅つきぺったんこ{ww}　ですが」\n　{KP}\n「ずーっと　つづけて　やってると\n　タイミングが　ずれますよね？」\n　{KP}\n「そんな時には　一度\n　休んでみると　いいですよ！」\n　",
-  "en": ""
+  "en": "\"About the {bb}Pound-Pound Mochi{ww} going on over there,\"{KP}\"if you keep at it nonstop, your timing starts slipping, right?\"{KP}\"When that happens, try taking a break!\""
  }
 ]

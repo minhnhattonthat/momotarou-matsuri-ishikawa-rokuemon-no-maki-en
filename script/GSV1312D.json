@@ -3,84 +3,84 @@
   "id": "GSV1312D/2/002C",
   "kind": "msg",
   "jp": "「ねえ　ねえ　桃太郎さん\n　こんな{bb}手紙{ww}が　あたいの　家に\n　投げ込まれていたの！」{KP}\n　\n「どうやら　{bb}ましらサン{ww}の\n　家と　あたいの　家を\n　まちがえたようなの！」{KP}\n　\n「お題のことが　書かれているので\n　桃太郎さんに　わたしておくわ！」\n　",
-  "en": ""
+  "en": "\"Hey, hey, Momotaro-san! Somebody threw this {bb}letter{ww} into my house!\"{KP}\"Looks like they mixed up my house with {bb}Mashira-san{ww}'s!\"{KP}\"It says something about the theme, so I'll hand it over to you, Momotaro-san!\""
  },
  {
   "id": "GSV1312D/2/0144",
   "kind": "msg",
   "jp": "　桃太郎は\n　{bb}手紙{ww}を　受け取った！\n　",
-  "en": ""
+  "en": "Momotaro received the {bb}letter{ww}!"
  },
  {
   "id": "GSV1312D/2/017E",
   "kind": "msg",
   "jp": "{bb}手紙{ww}には\nこう　書かれていた\n　",
-  "en": ""
+  "en": "The {bb}letter{ww} said this:"
  },
  {
   "id": "GSV1312D/2/01B2",
   "kind": "msg",
   "jp": "　やい！　{bb}ましら{ww}！\n　くだらない　だじゃれ大会なんて\n　ぶちこわしてやる！{KP}\n　\n　{bb}だじゃれのお題{ww}は　大橋から\n　海に　すててやる！\n　　　　　　　　－柿太郎－",
-  "en": ""
+  "en": "Hey! {bb}Mashira{ww}! I'm gonna wreck your stupid Pun Contest!{KP}I'm gonna throw the {bb}pun theme{ww} into the sea off the Big Bridge!{n}-Kakitaro-"
  },
  {
   "id": "GSV1312D/2/0270",
   "kind": "msg",
   "jp": "「あっ　あんちゃんだ！\n　あんちゃんが　お題を！」\n　{KP}\n「やっぱり　あんちゃんだ！\n　かっこいいなぁ！」\n　",
-  "en": ""
+  "en": "\"Ah, it's my big bro! My big bro took the theme!\"{KP}\"I knew it was my big bro! He's so cool!\""
  },
  {
   "id": "GSV1312D/2/02F2",
   "kind": "msg",
   "jp": "「あんたは　誰！？」\n　\n　",
-  "en": ""
+  "en": "\"Who are you?!\""
  },
  {
   "id": "GSV1312D/2/031E",
   "kind": "msg",
   "jp": "「エッヘン！\n　オラの　名前は　栗太郎！」\n　{KP}\n「その　{bb}手紙{ww}を　書いた\n　柿太郎の　弟だい！」\n　",
-  "en": ""
+  "en": "\"Ahem! My name is Kuritaro!\"{KP}\"I'm the little brother of Kakitaro, who wrote that {bb}letter{ww}!\""
  },
  {
   "id": "GSV1312D/2/039A",
   "kind": "msg",
   "jp": "「なにが　かっこいいなぁ！　よ！\n　この村の人たちが　どれだけ\n　楽しみに　していることか！」{KP}\n　\n「{bb}ましらサン{ww}も　昔は　悪者\n　だったけれど」\n　{KP}\n「今は　だじゃれ大会のため\n　村人たちのために\n　働いているんじゃないの！」{KP}\n　\n「すべては　この　桃太郎さんの\n　おかげですけどね！」\n　{KP}\n「栗太郎ちゃん！\n　人を　こまらすことは\n　悪いことなのよ……」",
-  "en": ""
+  "en": "\"What do you mean, 'He's so cool'?! Do you know how much the people of this village are looking forward to it?!\"{KP}\"{bb}Mashira-san{ww} used to be a bad guy too, but\"{KP}\"now he works hard for the Pun Contest, for the villagers!\"{KP}\"All thanks to Momotaro-san here, of course!\"{KP}\"Kuritaro-chan! Making trouble for people is a bad thing, you know...\""
  },
  {
   "id": "GSV1312D/2/052E",
   "kind": "msg",
   "jp": "「うっ………」\n　\n　",
-  "en": ""
+  "en": "\"Urk.........\""
  },
  {
   "id": "GSV1312D/2/0554",
   "kind": "msg",
   "jp": "「では　桃太郎さん　その{bb}手紙{ww}と\n　{bb}お題{ww}のことは　頼みますね！」\n　",
-  "en": ""
+  "en": "\"Well then, Momotaro-san, I'm counting on you with that {bb}letter{ww} and the {bb}theme{ww}!\""
  },
  {
   "id": "GSV1312D/2/05AE",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}柿太郎の手紙{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got {bb}Kakitaro's Letter{ww}!{KN}"
  },
  {
   "id": "GSV1312D/2/0600",
   "kind": "msg",
   "jp": "「桃太郎さん\n　お題は　見つかりましたか？」\n　",
-  "en": ""
+  "en": "\"Momotaro-san, have you found the theme?\""
  },
  {
   "id": "GSV1312D/2/0642",
   "kind": "msg",
   "jp": "「えっ！　お題が　見つかったんですね\n　あ～　よかったわ！」\n　{KP}\n「さすがは　桃太郎さんねっ！」\n　\n　",
-  "en": ""
+  "en": "\"Oh! You found the theme! Oh, thank goodness!\"{KP}\"I knew I could count on you, Momotaro-san!\""
  },
  {
   "id": "GSV1312D/2/06C2",
   "kind": "msg",
   "jp": "「次の　だじゃれ大会は\n　お題を　なくさないように\n　しっかり　管理しませんとね！」",
-  "en": ""
+  "en": "\"For the next Pun Contest, we'd better keep a close eye on the theme so we don't lose it!\""
  }
 ]
