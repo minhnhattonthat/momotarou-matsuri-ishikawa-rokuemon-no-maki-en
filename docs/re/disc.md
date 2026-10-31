@@ -27,7 +27,8 @@
   gp+0x2FC), init 0x8002413C(start, size). Bounds per game mode via 0x8001ED4C / 0x8001ED7C: story/field heap A
   0x80100000 + 0xD0000 (to 0x801D0000), heap B 0x801D0000 + 0x20000. malloc returns 0 when full and the file
   loader 0x8001F3B0 does not check it (the file would load to address 0). `tools/lua/heapwatch.lua` logs use/peak:
-  map 284 (215 KB GCV0250D) peaks at 400,816 bytes in both builds, 451 KB free.
+  map 284 (215 KB GCV0250D) peaks at 400,816 bytes in both builds, 451 KB free. Whole en tour (`tools/heaplog.py`):
+  least free 156,128 bytes (minigames m25, m70-72 peak at 695,840).
 
 ## Archives (verified: `tools/arc.py` parses all 1,543 `*D.BIN` files; the 64 others are OVL code + the pad)
 - Header: u32 LE offsets; the first equals the header size, zero words pad it. Entry i runs from offs[i] to the

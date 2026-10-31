@@ -23,7 +23,10 @@ Updated at the end of every session. Keep it to what the next session needs; his
   - Map 284: not a translation bug. The dir-2 arrival (GSD0000D) is a CD-timing race in the warp (flips with
     sector shifts of the map files, docs/re/debug.md); dir 0 (GSF0000D, the game's own route) loads in both
     builds. scenes.txt now uses it.
-  - Heap A/B bounds and malloc found (docs/re/disc.md §Heap); `tools/lua/heapwatch.lua`.
+  - Heap A/B bounds and malloc found (docs/re/disc.md §Heap); `tools/lua/heapwatch.lua` + `tools/heaplog.py`.
+    All 452 scenes on the en build (`warp_all.py --probe tools/lua/heapwatch.lua --hold 300`): least heap-A free
+    156,128 bytes (game_m25/m70-72 minigames), so English growth (a few KB per file) is far from the limit.
+    15 runs of that sweep died with emulator exit -1 while other emulators ran; all 15 passed on a rerun.
 - **Next (phase 8):**
   - Text tour (`warp_all.py --hold 1500 --click 45 --probe tools/lua/textlog.lua`, then `tools/textlog.py`),
     `jp_left.py` on the build, visual-QA sheets + `qa_gate.py` verdicts (in-session `visual-qa` agents, D9),
