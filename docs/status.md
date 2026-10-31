@@ -11,7 +11,14 @@ Updated at the end of every session. Keep it to what the next session needs; his
   - Graphics pipeline: `tools/gfx.py` (gfx/en/FILE_ENTRY.png -> TIM pixels, ECD, archive; insert + verify_build
     hooked; tests/test_gfx.py), `tools/gen_gfx.py` (LABELS rect -> English, Fredoka OFL, colours from the JP
     lettering, writes every byte-identical copy; `boxes`), `tools/gfxfind.py` (same pixel rows in other images).
-    Done: title press-start prompt (CI0D:3 + TITLE0D:3), shot in game (work/qa/title8c f3030).
+    Done: title press-start prompt (CI0D:3 + TITLE0D:3), shot in game (work/qa/title8c f3030); Game Album menu
+    labels (NAME0D:0 + PREM0D:0 + YUGI0D:0: Game Album / Rank Details / Quick Match! / Name Entry), checked in the
+    image only: the screen needs a memory-card save (below).
+  - Text tour started on the en build of 5aedd55 (before any redraw): `work/qa/tour8` (warp_all --hold 1500
+    --click 45 --every 60 --probe textlog, log work/qa/tour8.log). When result.tsv is complete: `sheet.py` per
+    scene dir (--changed 0.02), `qa_gate.py init work/qa/manifest.tsv work/qa/tour8 --glob "*sheet*.png"`, the
+    same tour on rom/ into work/qa/tour_jp, `qa_gate.py todo ... --size 30`, `visual-qa` agents (<= 4 at once),
+    `textlog.py work/qa/tour8` for Japanese still drawn.
   - Gotcha: `build.py --out` needs a `.bin` name (`--out build/g8.bin`); building the default image while a tour
     runs on it fails (mkpsxiso, file locked): build QA images under another name.
 - **Done (phase 7):**
@@ -42,6 +49,12 @@ Updated at the end of every session. Keep it to what the next session needs; his
     (M010D:4, M110D:0, M140D:0, M560D/M590D, GV02000D:2, GV13000D:2...), HOUGEN0D:0 card album, credits EVT600D:2-4,
     100 dialect cards HCARD*, signs. Per image: `gfx.py export`, find each sprite's rect (in-game the sprite rect
     can be narrower than the JP atlas row: shoot it), add LABELS, `gen_gfx.py`, build `--out build/g8.bin`, shoot.
+    STATUS0D:0 (next): ステータス (0,55)-(111,77) red; grey embossed 総段位/段/巻 (y 83-105) and 免許皆伝 (y 112-130);
+    beige panel rows 総カード枚数/プレイ時間/歩数/お金 (x 0-105, y 129-215, bg='fill'); unit glyphs 枚/歩/両 at
+    x ~222-240 sit under the rank plates; 4 rank plates 桃太郎/名人/達人/仙人 (x 113-223, y 80-208) have patterned
+    backgrounds: clear only the lettering pixels, not the rect (gen_gfx needs a mode for that).
+  - Memory-card save for Status / Game Album / trial money: none yet. Make one headlessly (new game -> first save
+    point, `--state-out`, keep the card emu.py writes) and add it to tools/routes or work/saves.
   - Text tour (`warp_all.py --hold 1500 --click 45 --probe tools/lua/textlog.lua`, then `tools/textlog.py`),
     `jp_left.py` on the build, visual-QA sheets + `qa_gate.py` verdicts (in-session `visual-qa` agents, D9),
     graphics-text rows in zoomed cold-boot shots (docs/re/graphics.md).
