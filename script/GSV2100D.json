@@ -45,7 +45,7 @@
   "id": "GSV2100D/18/0010",
   "kind": "msg",
   "jp": "「せっかく　カチカチの村から\n　タヌキさんと　{bb}ウサカメレース{ww}を\n　見に来たのに」{KP}\n　\n「休止だなんて　残念ですわ\n　ピョピョン　ピョピョン！」\n　",
-  "en": "\"Mr. Tanuki and I came all the way from Kachi-Kachi Village to see the {bb}Rabbit-Turtle Race{ww},\"{KP}\"and it's been called off. What a shame! Hop hop, hop hop!\""
+  "en": "\"Tanuki-san and I came all the way from Kachi-Kachi Village to see the {bb}Rabbit-Turtle Race{ww},\"{KP}\"and it's been called off. What a shame! Hop hop, hop hop!\""
  },
  {
   "id": "GSV2100D/18/00C0",
@@ -147,7 +147,7 @@
   "id": "GSV2100D/29/0010",
   "kind": "msg",
   "jp": "「ここは　{bb}ウサカメレース{ww}で\n　有名な　ウサカメの村じゃよ！」\n　{KP}\n「じゃが　{bb}夜叉・キシボ{ww}の\n　おかげで　{bb}ウサカメレース{ww}は\n　休止状態じゃ！」",
-  "en": "\"This is Usakame Village, famous for the {bb}Rabbit-Turtle Race{ww}!\"{KP}\"But thanks to {bb}Yasha Kishibo{ww}, the {bb}Rabbit-Turtle Race{ww} has been called off!\""
+  "en": "\"This is Usakame Village, famous for the {bb}Rabbit-Turtle Race{ww}, you know!\"{KP}\"But thanks to {bb}Yasha Kishibo{ww}, the {bb}Rabbit-Turtle Race{ww} has been put on hold, I'm afraid!\""
  },
  {
   "id": "GSV2100D/29/00C0",

@@ -15,7 +15,7 @@
   "id": "GSV0900D/1/0624",
   "kind": "msg",
   "jp": "「オイラの　あんちゃんと\n　対決を　するんだクリ」\n　{KP}\n「あんちゃんの　前で\n　おおハジを　かかせて\n　やるクリ！」",
-  "en": "\"He's gonna have a showdown with my big bro, kuri.\"{KP}\"I'll make sure he gets totally humiliated in front of big bro, kuri!\""
+  "en": "\"We're gonna have a showdown with my big bro, kuri.\"{KP}\"I'll make sure he gets totally humiliated in front of big bro, kuri!\""
  },
  {
   "id": "GSV0900D/1/06AE",
@@ -87,7 +87,7 @@
   "id": "GSV0900D/16/0320",
   "kind": "msg",
   "jp": "「でも　なっとく　いきません！\n　カメさんの　話を\n　聞くかぎり……」{KP}\n　\n「では　桃太郎さん！\n　ボクが　つくった　ゆうぎ\n　{bb}ドサッと一本釣り！{ww}で」{KP}\n　\n「勝負して　ください！」\n　\n　{KP}\n「本物の　桃太郎さんなら\n　この　ゆうぎで　１５００点\n　以上　取れるはずです！」{KP}\n　\n「さぁ！\n　{bb}ドサッと一本釣り！{ww}で\n　勝負して　いただけますか？」{KN}",
-  "en": "\"But I'm still not convinced! Going by what Mr. Turtle told me...\"{KP}\"Then, Momotaro-san! In the game I made, {bb}Big Haul Fishing!{ww},\"{KP}\"please take me on!\"{KP}\"If you're the real Momotaro-san, you should be able to score 1500 points or more in this game!\"{KP}\"Now! Will you take me on in {bb}Big Haul Fishing!{ww}?\"{KN}"
+  "en": "\"But I'm still not convinced! Going by what Turtle-san told me...\"{KP}\"Then, Momotaro-san! In the game I made, {bb}Big Haul Fishing!{ww},\"{KP}\"please take me on!\"{KP}\"If you're the real Momotaro-san, you should be able to score 1500 points or more in this game!\"{KP}\"Now! Will you take me on in {bb}Big Haul Fishing!{ww}?\"{KN}"
  },
  {
   "id": "GSV0900D/16/04C0",
@@ -255,7 +255,7 @@
   "id": "GSV0900D/16/0FE4",
   "kind": "msg",
   "jp": "「よかった　ですね！\n　カメさん！」\n　{KP}\n「でも　桃太郎さん！\n　ニセモノが　いるかぎり\n　今回みたいな　ことが」{KP}\n　\n「これから　行く先々でも\n　おこるのでは\n　ないでしょうか？」",
-  "en": "\"Isn't that wonderful, Mr. Turtle!\"{KP}\"But, Momotaro-san! As long as the fake is out there, the same sort of thing\"{KP}\"might happen everywhere we go from now on, don't you think?\""
+  "en": "\"Isn't that wonderful, Turtle-san!\"{KP}\"But, Momotaro-san! As long as the fake is out there, the same sort of thing\"{KP}\"might happen everywhere we go from now on, don't you think?\""
  },
  {
   "id": "GSV0900D/16/10B8",
@@ -345,7 +345,7 @@
   "id": "GSV0900D/21/0002",
   "kind": "msg",
   "jp": "「この奥に　ある　泉は\n　若返りの　効能が　あると\n　伝えられておる！」{KP}\n　\n「けれど　効く人と\n　効かない人とが　いるようじゃ！」\n　",
-  "en": "\"The spring further in is said to have the power to make you young again!\"{KP}\"But it seems it works for some folks and not for others!\""
+  "en": "\"The spring further in is said to make folks young again, I reckon!\"{KP}\"But it seems it works on some and not on others, eh!\""
  },
  {
   "id": "GSV0900D/22/0018",
@@ -387,13 +387,13 @@
   "id": "GSV0900D/25/0010",
   "kind": "msg",
   "jp": "「あっ　桃太郎さん！\n　{bb}カメさん{ww}が　大変なことに！\n　早く　助けてあげてくださいな」",
-  "en": "\"Ah, Momotaro-san! Something terrible has happened to {bb}Mr. Turtle{ww}! Please hurry and help him!\""
+  "en": "\"Ah, Momotaro-san! Something terrible has happened to {bb}Turtle-san{ww}! Please hurry and help him!\""
  },
  {
   "id": "GSV0900D/25/007A",
   "kind": "msg",
   "jp": "「よかったですね！\n　{bb}カメさん{ww}が　元気になって！」\n　",
-  "en": "\"Isn't it wonderful! {bb}Mr. Turtle{ww} is all better!\""
+  "en": "\"Isn't it wonderful! {bb}Turtle-san{ww} is all better!\""
  },
  {
   "id": "GSV0900D/26/0002",
@@ -441,7 +441,7 @@
   "id": "GSV0900D/28/003A",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　オイラたちは\n　何もしてないからね！」{KP}\n　\n「{bb}カメさん{ww}が　苦しんでいたから\n　かいほう　していたんですよ！」\n　",
-  "en": "\"Momotaro-san! We didn't do anything, okay?\"{KP}\"{bb}Mr. Turtle{ww} was suffering, so we were looking after him!\""
+  "en": "\"Momotaro-san! We didn't do anything, okay?\"{KP}\"{bb}Turtle-san{ww} was suffering, so we were looking after him!\""
  },
  {
   "id": "GSV0900D/28/00DA",
@@ -453,7 +453,7 @@
   "id": "GSV0900D/28/01BA",
   "kind": "msg",
   "jp": "「あっ！\n　{bb}はらいたの薬{ww}が\n　あったんですね！」{KP}\n　\n「さぁ！　それを　早く\n　{bb}カメさん{ww}に　飲ませて\n　あげましょう！」",
-  "en": "\"Ah! You found {bb}Tummy Medicine{ww}!\"{KP}\"Now! Let's hurry and give it to {bb}Mr. Turtle{ww}!\""
+  "en": "\"Ah! You found {bb}Tummy Medicine{ww}!\"{KP}\"Now! Let's hurry and give it to {bb}Turtle-san{ww}!\""
  },
  {
   "id": "GSV0900D/28/0254",
@@ -579,31 +579,31 @@
   "id": "GSV0900D/32/0002",
   "kind": "msg",
   "jp": "「ひさしぶりじゃな　桃太郎！\n　ここは　漁師が　住む\n　浦島の村じゃ！」{KP}\n　\n「この村の　夜は　長いぞ！」\n　\n　",
-  "en": "\"Long time no see, Momotaro! This is Urashima Village, where the fishermen live!\"{KP}\"The nights in this village are long!\""
+  "en": "\"Well, it's been a while, Momotaro! This is Urashima Village, where the fishermen live, eh!\"{KP}\"The nights in this village are long, I tell you!\""
  },
  {
   "id": "GSV0900D/33/002C",
   "kind": "msg",
   "jp": "「{bb}カメさん{ww}！　だいじょうぶ～？」\n　\n　",
-  "en": "\"{bb}Mr. Turtle{ww}! Are you okaaay?\""
+  "en": "\"{bb}Turtle-san{ww}! Are you okaaay?\""
  },
  {
   "id": "GSV0900D/33/006A",
   "kind": "msg",
   "jp": "「早く　カメさんを\n　助けてください！」\n　",
-  "en": "\"Please hurry and save Mr. Turtle!\""
+  "en": "\"Please hurry and save Turtle-san!\""
  },
  {
   "id": "GSV0900D/33/00A8",
   "kind": "msg",
   "jp": "「よかったね　カメさん！」\n　\n　",
-  "en": "\"I'm so glad, Mr. Turtle!\""
+  "en": "\"I'm so glad, Turtle-san!\""
  },
  {
   "id": "GSV0900D/33/00DC",
   "kind": "msg",
   "jp": "「カメさんと　何して\n　遊ぼうかなぁ～」\n　",
-  "en": "\"What should I play with Mr. Turtle?\""
+  "en": "\"What should I play with Turtle-san?\""
  },
  {
   "id": "GSV0900D/34/0002",

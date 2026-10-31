@@ -3,19 +3,19 @@
   "id": "GSV0909D/2/002C",
   "kind": "msg",
   "jp": "「おひさしぶりです！\n　桃太郎さん」\n　{KP}\n「{bb}カメさん{ww}の　具合を\n　ごらんに　なりましたか？」\n　{KP}\n「{bb}カメさん{ww}は　何かを　食べた後\n　苦しみだしたそうです！」\n　{KP}\n「{bb}カメさん{ww}に　もしもの　ことが\n　あったら　{bb}竜宮城{ww}との　交通が\n　とだえてしまいます！」{KP}\n　\n「今　{bb}浦島さん{ww}が　薬を\n　さがしに　行っているようです！」\n　",
-  "en": "\"Long time no see, Momotaro-san!\"{KP}\"Have you seen how {bb}Mr. Turtle{ww} is doing?\"{KP}\"They say {bb}Mr. Turtle{ww} started suffering after eating something!\"{KP}\"If anything happens to {bb}Mr. Turtle{ww}, the way to {bb}Ryugu Palace{ww} will be cut off!\"{KP}\"It seems {bb}Urashima-san{ww} has gone off to look for medicine!\""
+  "en": "\"Long time no see, Momotaro-san!\"{KP}\"Have you seen how {bb}Turtle-san{ww} is doing?\"{KP}\"They say {bb}Turtle-san{ww} started suffering after eating something!\"{KP}\"If anything happens to {bb}Turtle-san{ww}, the way to {bb}Ryugu Palace{ww} will be cut off!\"{KP}\"It seems {bb}Urashima-san{ww} has gone off to look for medicine!\""
  },
  {
   "id": "GSV0909D/2/01AA",
   "kind": "msg",
   "jp": "「桃太郎さん！　浦島さん！\n　ここは　ひとつ　{bb}カメさん{ww}の　ために\n　がんばってください！」",
-  "en": "\"Momotaro-san! Urashima-san! Please do your best for {bb}Mr. Turtle{ww}'s sake!\""
+  "en": "\"Momotaro-san! Urashima-san! Please do your best for {bb}Turtle-san{ww}'s sake!\""
  },
  {
   "id": "GSV0909D/2/021A",
   "kind": "msg",
   "jp": "「ありがとうございます\n　桃太郎さん！」\n　{KP}\n「カメさんの　元気な顔を　見て\n　ほっとしましたよ！」\n　{KP}\n「お礼に　この　{bb}ヤマトのツボ{ww}を\n　さしあげます………　どうぞ」\n　",
-  "en": "\"Thank you so much, Momotaro-san!\"{KP}\"Seeing Mr. Turtle looking so lively is such a relief!\"{KP}\"As thanks, please accept this {bb}Yamato Pot{ww}...... Here you are.\""
+  "en": "\"Thank you so much, Momotaro-san!\"{KP}\"Seeing Turtle-san looking so lively is such a relief!\"{KP}\"As thanks, please accept this {bb}Yamato Pot{ww}...... Here you are.\""
  },
  {
   "id": "GSV0909D/2/02E6",
@@ -27,6 +27,6 @@
   "id": "GSV0909D/2/032E",
   "kind": "msg",
   "jp": "「カメさんの　元気な顔を　見て\n　ほっとしましたよ！」\n　",
-  "en": "\"Seeing Mr. Turtle looking so lively is such a relief!\""
+  "en": "\"Seeing Turtle-san looking so lively is such a relief!\""
  }
 ]

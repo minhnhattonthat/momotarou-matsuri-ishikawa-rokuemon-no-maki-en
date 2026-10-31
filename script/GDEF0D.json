@@ -441,7 +441,7 @@
   "id": "GDEF0D/54/01AC",
   "kind": "msg",
   "jp": "「桃太郎さん　{bb}レッツ！まくらなげ{ww}を\n　しませんか？」\n　{KN}",
-  "en": "\"Momotaro-san, how about a game of {bb}Let's! Pillow Fight{ww}?\"{KN}"
+  "en": "\"Momotaro-san, care to play {bb}Let's Pillow Fight!{ww}?\"{KN}"
  },
  {
   "id": "GDEF0D/54/0208",
@@ -483,7 +483,7 @@
   "id": "GDEF0D/55/035E",
   "kind": "msg",
   "jp": "「桃太郎さん　{bb}レッツ！まくらなげ{ww}を\n　しませんか？」\n　{KN}",
-  "en": "\"Momotaro-san, how about a game of {bb}Let's! Pillow Fight{ww}?\"{KN}"
+  "en": "\"Momotaro-san, care to play {bb}Let's Pillow Fight!{ww}?\"{KN}"
  },
  {
   "id": "GDEF0D/55/03BA",
@@ -1059,7 +1059,7 @@
   "id": "GDEF0D/99/0338",
   "kind": "msg",
   "jp": "「やめなさるかぁ～～！\n　では　１００両を\n　お返しするでござる～～！」",
-  "en": "\"You'll not buy-y-y?! Then I return your 100 ryo-o-o!\""
+  "en": "\"You'll not buy-y-y?! Then I shall return your 100 ryo, good si-i-ir!\""
  },
  {
   "id": "GDEF0D/99/03CC",

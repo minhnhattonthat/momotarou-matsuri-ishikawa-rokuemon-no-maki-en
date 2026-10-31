@@ -9,13 +9,13 @@
   "id": "GSV1314D/2/003C",
   "kind": "msg",
   "jp": "「おお　桃太郎さん！\n　おひさしぶりじゃ！」\n　{KP}\n「わしじゃ　{bb}ましら{ww}　じゃ！\n　いいところに　来てくれた！」\n　{KP}\n「この村　こう例の\n　{bb}だじゃれ大会{ww}が\n　あるじゃろ！」{KP}\n　\n「実は　その　{bb}お題{ww}が\n　書かれた　紙を\n　なくしてしまったのじゃ！」{KP}\n　\n「{bb}だじゃれのお題{ww}が\n　ないと　だじゃれ大会が\n　かいさい　できなくなる！」{KP}\n　\n「桃太郎さん！\n　あんたの　ちからを\n　貸してくれまいか？」{KN}",
-  "en": "\"Oh, Momotaro-san! Long time no see!\"{KP}\"It's me, {bb}Mashira{ww}! You've come at just the right time!\"{KP}\"This village holds its yearly {bb}Pun Contest{ww}, you know!\"{KP}\"Truth is, I've lost the paper with the {bb}theme{ww} written on it!\"{KP}\"Without the {bb}pun theme{ww}, we can't hold the Pun Contest!\"{KP}\"Momotaro-san! Won't you lend me your strength?\"{KN}"
+  "en": "\"Oh ho, Momotaro-san! It's been ages!\"{KP}\"It's me, {bb}Mashira{ww}, you know! You've come at just the right time!\"{KP}\"This village holds its yearly {bb}Pun Contest{ww}, you see!\"{KP}\"Truth is, I've gone and lost the paper with the {bb}theme{ww} written on it!\"{KP}\"Without the {bb}pun theme{ww}, we can't hold the Pun Contest!\"{KP}\"Momotaro-san! Won't you lend me your strength, eh?\"{KN}"
  },
  {
   "id": "GSV1314D/2/0216",
   "kind": "msg",
   "jp": "　\n「ありがたい！\n　さすがは　桃太郎さんじゃ！」\n　{KP}\n「わしらは　だじゃれ大会の\n　準備を　進めておくでな！」\n　",
-  "en": "\"Thank goodness! Just what I'd expect from Momotaro-san!\"{KP}\"We'll keep getting the Pun Contest ready!\""
+  "en": "\"How grateful I am! Just what I'd expect from Momotaro-san!\"{KP}\"We'll keep getting the Pun Contest ready, you see!\""
  },
  {
   "id": "GSV1314D/2/02AC",
@@ -39,7 +39,7 @@
   "id": "GSV1314D/2/03F6",
   "kind": "msg",
   "jp": "「ありがとう　桃太郎さん！」\n　\n　{KP}\n「これで　ようやく\n　{bb}だじゃれ大会{ww}を　ひらける\n　というもんじゃ！」{KP}\n　\n「お礼に　わしの　宝物の\n　{bb}赤の鐘{ww}を　さしあげよう！」\n　",
-  "en": "\"Thank you, Momotaro-san!\"{KP}\"At long last, we can hold the {bb}Pun Contest{ww}!\"{KP}\"As thanks, let me give you my treasure, the {bb}Red Bell{ww}!\""
+  "en": "\"Thank you, Momotaro-san!\"{KP}\"At long last, we can hold the {bb}Pun Contest{ww}, you see!\"{KP}\"As thanks, let me give you my treasure, the {bb}Red Bell{ww}!\""
  },
  {
   "id": "GSV1314D/2/04C6",
@@ -69,13 +69,13 @@
   "id": "GSV1314D/2/0656",
   "kind": "msg",
   "jp": "「前回の　だじゃれ大会は\n　おもしろかったのぉ！」\n　{KP}\n「なかなか\n　もりあがったからのぉ！」\n　{KP}\n「だじゃれ大会の\n　思いで話を　もう一度\n　しようじゃないか！」{KN}",
-  "en": "\"The last Pun Contest sure was fun!\"{KP}\"Things really got lively!\"{KP}\"Shall we reminisce about the Pun Contest once more?\"{KN}"
+  "en": "\"The last Pun Contest sure was fun, eh!\"{KP}\"Things really got lively, you see!\"{KP}\"Shall we reminisce about the Pun Contest once more?\"{KN}"
  },
  {
   "id": "GSV1314D/2/0728",
   "kind": "msg",
   "jp": "　\n「そうか　そうか！\n　桃太郎さんも　けっこう\n　だじゃれ好きじゃのぉ！」{KP}\n　\n「そうじゃな　あれは……」\n　\n　",
-  "en": "\"Well, well! You're quite the pun lover yourself, Momotaro-san!\"{KP}\"Let's see, that one was...\""
+  "en": "\"Well, well! You're quite the pun lover yourself, eh, Momotaro-san!\"{KP}\"Let's see, that one was...\""
  },
  {
   "id": "GSV1314D/2/07B6",
@@ -93,7 +93,7 @@
   "id": "GSV1314D/2/08C4",
   "kind": "msg",
   "jp": "　桃太郎と　ましらは\n　だじゃれ大会の　思い出話に\n　花を　咲かせた！{KP}\n　\n「やれやれ　だじゃれ大会の\n　はなしは　おもしろいのぉ！」\n　{KP}\n「旅の　途中で\n　長話に　つきあってくれて\n　ありがとう！」",
-  "en": "Momotaro and Mashira's memories of the Pun Contest burst into full bloom!{KP}\"Well, well, talking about the Pun Contest sure is fun!\"{KP}\"Thanks for keeping me company for such a long chat in the middle of your journey!\""
+  "en": "Momotaro and Mashira happily swapped memories of the Pun Contest!{KP}\"Well, well, talking about the Pun Contest sure is fun!\"{KP}\"Thanks for keeping me company for such a long chat in the middle of your journey!\""
  },
  {
   "id": "GSV1314D/3/001E",

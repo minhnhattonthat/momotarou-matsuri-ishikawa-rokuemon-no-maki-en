@@ -2,13 +2,13 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 6 (translate) — all 78 batches merged, 0 untranslated, check + lint clean. Review pass running:
-  `tools/pairs.py work/qa/review/pairs --group 3` (26 files) -> `codex exec -s read-only` per file with
-  `docs/reviewer-brief.md` -> `work/qa/review/reports/gNN.md` (the run brief forbids nested reviewer agents).
-  Fix Critical/Important, Minors to `docs/polish.md`. Then phase 7/8 (text tour `work/qa/tour`).
-  The first run produced no reports: codex hit its usage limit (resets 2026-11-05 21:57). Re-run
-  `scratchpad`-style loop: for each `work/qa/review/pairs/gNN.txt`, `codex exec -s read-only -C . -o
-  work/qa/review/reports/gNN.md "<follow docs/reviewer-brief.md; pairs file ...>"`, 5 in parallel.
+- **Phase:** 6 done (2026-11-01) -> next is **phase 7** (insert, fit, check; romdiff ranges), then 8 (QA).
+  Reviewer pass: 26 in-session read-only `reviewer` agents (D9), one per `work/qa/review/pairs/gNN.txt`.
+  0 Critical; all Important fixed (list in `work/qa/review/important.md`: glossary -sama slips on Kannon of
+  Hope / Lord Water Dragon, "Let's Pillow Fight!", Grandpa "dear" -> "my boy", elder じゃ voice on signposts and
+  Mashira, Pun Contest plant puns, "Mr. Turtle/Rabbit/Tanuki" -> "-san" sweep, OVLXTTL glossary entries, quiz
+  decoy U-D-L-R). Cap-forced keeps ticked in `docs/polish.md`. All Minors are in `docs/polish.md` (one pass
+  before release). All batches check 0 errors; check.py green; build smoke ok.
 - **Text tour (en build, 2026-11-01):** 451/452 scenes ok, 0 Japanese lines drawn (`tools/textlog.py
   work/qa/tour`). Fails: `map_gv2500_284` (see Open bugs).
 - **Done (phase 6):**
@@ -42,10 +42,8 @@ Updated at the end of every session. Keep it to what the next session needs; his
   another way in for phase 8. Story flags not mapped (warped maps show default state). `tools/deadcode.py` output
   is not safe hook space without an exec watch (`tools/lua/deadwatch.lua`, `warp_all.py --debugger`).
 - **Waiting on the user:**
-  - BLOCKING: the phase 6 reviewer pass (and later the phase 8 visual-QA and phase 9 story-pass verdicts the
-    release gate needs) has no reviewer available: the run brief forbids nested reviewer agents, and `codex exec`
-    is out of quota until 2026-11-05 21:57. 3.5 MB of pairs is too much for an in-context self-review. Options:
-    (a) allow the repo's read-only `reviewer`/`visual-qa` agents for this run; (b) wait for the codex reset and
-    re-run the loop above; (c) add codex credits.
+  - (resolved, D9) reviews: the run brief allows a fresh read-only pass, so the repo's in-session `reviewer` /
+    `visual-qa` agents do the phase 6/8/9 verdicts.
+  - Quiz keys M510D/227, 229, 238 look factually off in the JP (kept; game scores .0). Non-blocking.
   - GUI keyboard input in `tools/pcsx/` not proven by hand (headless-only runs).
   Non-blocking; check when playtesting.

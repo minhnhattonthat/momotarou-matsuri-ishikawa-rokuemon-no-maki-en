@@ -14,3 +14,4 @@ decision replaces one, mark the old one "replaced by D<n>" instead of deleting i
 | D6 | 2026-10-31 | Specs and plans | need approval, pre-approved | Pre-approved: keep going through checkpoints, report at the end. Never `gh release create`, never change repo visibility; the run ends at a built and verified release zip. |
 | D7 | 2026-10-31 | Existing saves / memory cards / savestates | user's files, none | None provided; build the debug tool (phase 2) as usual. |
 | D8 | 2026-10-31 | Git identity | ask, preset | Already set by new-game.ps1; do not change it. |
+| D9 | 2026-11-01 | Who does the independent reviews (phase 6 reviewer, phase 8 visual QA, phase 9 story pass) in one-shot runs | repo's read-only `reviewer`/`visual-qa` agents in-session, `codex exec`, wait | Run brief: no Orca worker will start a reviewer; do it in a fresh read-only pass. In-session `.claude/agents` read-only agents count as that pass (codex is out of quota until 2026-11-05). |

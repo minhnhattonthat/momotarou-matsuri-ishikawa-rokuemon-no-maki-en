@@ -51,13 +51,13 @@
   "id": "GSV1300D/21/001E",
   "kind": "msg",
   "jp": "「いったい　いつに　なったら\n　大会を　はじめるんじゃ！」\n　{KP}\n「わしは　ずぅっと\n　ここで　待っておるというのに」\n　",
-  "en": "\"When on earth are they going to start the contest?!\"{KP}\"I've been waiting here all this time!\""
+  "en": "\"When on earth are they going to start the contest?!\"{KP}\"I've been waiting here all this time, you see!\""
  },
  {
   "id": "GSV1300D/21/00AE",
   "kind": "msg",
   "jp": "「ようやく　だじゃれ大会が\n　始まるぞよ！」\n　{KP}\n「楽しみに　していたかいが\n　あったものじゃ！」\n　",
-  "en": "\"At last, the Pun Contest is about to begin!\"{KP}\"It was worth all the waiting!\""
+  "en": "\"At last, the Pun Contest is about to begin!\"{KP}\"It was worth all the waiting, eh!\""
  },
  {
   "id": "GSV1300D/21/012C",
@@ -93,7 +93,7 @@
   "id": "GSV1300D/23/0114",
   "kind": "msg",
   "jp": "「お題が　決まったようじゃが\n　おばばには　ちと　きついかのぉ」\n　{KP}\n「じゃが　若者に　負けては　おれん！\n　聞いてくだされ　桃太郎さん！」\n　{KP}\n「あっ熊じゃ！　死んだフリージア！」\n　\n　{KP}\n「いかがですか？　桃太郎さん！\n　若者に　負けておらんかのぉ？」\n　",
-  "en": "\"Seems they picked a theme, but it might be a bit much for an old granny...\"{KP}\"Still, I won't lose to the young folks! Hear me out, Momotaro-san!\"{KP}\"Eek, a bear! Freesia and play dead!\"{KP}\"How's that, Momotaro-san? Can I keep up with the young folks?\""
+  "en": "\"Seems they picked a theme, but it might be a bit much for an old granny...\"{KP}\"Still, I won't lose to the young folks! Hear me out, Momotaro-san!\"{KP}\"Eek, a bear! Play dead and freesia stiff!\"{KP}\"How's that, Momotaro-san? Can I keep up with the young folks?\""
  },
  {
   "id": "GSV1300D/23/023C",
@@ -195,6 +195,6 @@
   "id": "GSV1300D/30/0002",
   "kind": "msg",
   "jp": "「ひさしぶりじゃな\n　桃太郎よ！」\n　{KP}\n「ここは　だじゃれ大会で\n　有名な　ほほえみの村じゃ！」\n　",
-  "en": "\"Long time no see, Momotaro!\"{KP}\"This is Hohoemi Village, famous for its Pun Contest!\""
+  "en": "\"Long time no see, Momotaro!\"{KP}\"This is Hohoemi Village, famous for its Pun Contest, you see!\""
  }
 ]

@@ -117,13 +117,13 @@
   "id": "GSV1309D/6/001E",
   "kind": "msg",
   "jp": "「わしは　ここんところ\n　ねむれないんじゃよ！」\n　{KP}\n「だじゃれ大会の\n　お題が　知りたくて　知りたくて」\n　{KP}\n「なんとか　ならんもんかのぉ～\n　桃太郎さん！」\n　",
-  "en": "\"I haven't been able to sleep lately, I tell you!\"{KP}\"I'm just dying to know the theme of the Pun Contest!\"{KP}\"Isn't there something you can do, Momotaro-san?\""
+  "en": "\"I haven't been able to sleep lately, I tell you!\"{KP}\"I'm just dying to know the theme of the Pun Contest!\"{KP}\"Isn't there something you can do, eh, Momotaro-san?\""
  },
  {
   "id": "GSV1309D/6/00E0",
   "kind": "msg",
   "jp": "「みんな　だじゃれの　ネタを\n　考えるのに　必死じゃけど」\n　{KP}\n「みんな　桃太郎さんに\n　感謝してるんじゃよ」\n　{KP}\n「感謝　感激　雨　アヤメ！」\n　\n　",
-  "en": "\"Everyone's racking their brains for puns, but\"{KP}\"they're all grateful to you, Momotaro-san.\"{KP}\"Thanks a bunch! A whole bouquet of thanks!\""
+  "en": "\"Everyone's racking their brains for puns, but\"{KP}\"they're all grateful to you, Momotaro-san, you see.\"{KP}\"Thanks a bunch! A whole bouquet of thanks!\""
  },
  {
   "id": "GSV1309D/6/0196",
@@ -159,7 +159,7 @@
   "id": "GSV1309D/7/0372",
   "kind": "msg",
   "jp": "「危機一髪！\n　ああ…アブラナかったよー」\n　",
-  "en": "\"Phew, that was close! I almost got squashed!\""
+  "en": "\"Whew, a close call! That was nearly a canola-mity!\""
  },
  {
   "id": "GSV1309D/7/03CA",
@@ -231,7 +231,7 @@
   "id": "GSV1309D/7/086A",
   "kind": "msg",
   "jp": "「東京へ　ひッコスモス！！」\n　\n　",
-  "en": "\"I'm off to Tokyo to put down roots!!\""
+  "en": "\"I'm moving to Tokyo! Cosmos-politan, here I come!!\""
  },
  {
   "id": "GSV1309D/7/08B8",
@@ -285,7 +285,7 @@
   "id": "GSV1309D/7/0C56",
   "kind": "msg",
   "jp": "「超ムカツクって　パンジ～」\n　\n　",
-  "en": "\"Like, that's SOOO annoying! It makes me totally wilt~\""
+  "en": "\"Like, that's SOOO annoying, pansy-riously~\""
  },
  {
   "id": "GSV1309D/7/0CA4",
@@ -303,7 +303,7 @@
   "id": "GSV1309D/7/0D94",
   "kind": "msg",
   "jp": "「母ちゃん　クローバーっかり\n　かけて　ごめんね」\n　",
-  "en": "\"Mom, I'm sorry for always being such a thorn in your side.\""
+  "en": "\"Mom, sorry for all the trouble, clover and clover again.\""
  },
  {
   "id": "GSV1309D/7/0DF4",
@@ -375,7 +375,7 @@
   "id": "GSV1309D/7/132A",
   "kind": "msg",
   "jp": "「オニユリこわい先生がいる」\n　\n　",
-  "en": "\"Our teacher is scarier than a snapdragon!\""
+  "en": "\"We've got a teacher scarier than an oni... a real tiger lily!\""
  },
  {
   "id": "GSV1309D/7/1378",

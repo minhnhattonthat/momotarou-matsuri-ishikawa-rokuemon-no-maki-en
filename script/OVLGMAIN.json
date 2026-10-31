@@ -437,7 +437,7 @@
   "id": "OVLGMAIN@800CB790",
   "kind": "code",
   "jp": "ウサギさんと　カメさんの",
-  "en": "Mr. Rabbit & Mr. Turtle's",
+  "en": "Rabbit-san & Turtle-san's",
   "max": 27
  },
  {
@@ -619,14 +619,14 @@
   "id": "OVLGMAIN@800CB99C",
   "kind": "code",
   "jp": "タヌキさんが",
-  "en": "Mr. Tanuki",
+  "en": "Tanuki-san",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CB9AC",
   "kind": "code",
   "jp": "ウサギさんと",
-  "en": "Mr. Rabbit &",
+  "en": "Rabbit-san &",
   "max": 15
  },
  {
@@ -3167,7 +3167,7 @@
   "id": "OVLGMAIN@800CD494",
   "kind": "code",
   "jp": "ウサギさんも　大好き",
-  "en": "Mr. Rabbit loves it",
+  "en": "Rabbit-san loves it",
   "max": 23
  },
  {
@@ -3202,21 +3202,21 @@
   "id": "OVLGMAIN@800CD504",
   "kind": "code",
   "jp": "入っています",
-  "en": "a bamboo tube",
+  "en": "inside!",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CD514",
   "kind": "code",
   "jp": "くんだ　泉水が",
-  "en": "springwater in",
+  "en": "spring water's",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CD524",
   "kind": "code",
   "jp": "浦島の村の　泉で",
-  "en": "Urashima Village",
+  "en": "Urashima Village's",
   "max": 19
  },
  {

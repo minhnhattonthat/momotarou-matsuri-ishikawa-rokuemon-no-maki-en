@@ -9,7 +9,7 @@
   "id": "GSF0000D/61/0002",
   "kind": "msg",
   "jp": "「北に　見えるのは\n　{bb}カード仙人のいおり{ww}　じゃぞ！」\n　",
-  "en": "\"What you see to the north is the {bb}Card Hermit's Hut{ww}!\""
+  "en": "\"What you see to the north is the {bb}Card Hermit's Hut{ww}, mind you!\""
  },
  {
   "id": "GSF0000D/62/0002",
@@ -21,25 +21,25 @@
   "id": "GSF0000D/63/0002",
   "kind": "msg",
   "jp": "「{bb}竜宮城{ww}に　行くには　{bb}カメ{ww}の\n　ちからが　必要じゃぞ！」\n　",
-  "en": "\"To get to {bb}Ryugu Palace{ww}, you'll need the help of the {bb}Turtle{ww}!\""
+  "en": "\"To get to {bb}Ryugu Palace{ww}, you'll need the help of the {bb}Turtle{ww}, you see!\""
  },
  {
   "id": "GSF0000D/64/0002",
   "kind": "msg",
   "jp": "「{bb}なぞとき洞窟{ww}の\n　{bb}なぞ鬼ブラザーズ{ww}の　出す\n　なぞなぞは」{KP}\n　\n「メモを　とれば　簡単じゃぞ！」\n　\n　",
-  "en": "\"The riddles the {bb}Riddle Oni Brothers{ww} give in {bb}Riddle Cave{ww}\"{KP}\"are easy if you take notes!\""
+  "en": "\"The riddles the {bb}Riddle Oni Brothers{ww} give in {bb}Riddle Cave{ww}\"{KP}\"are easy if you take notes, mind you!\""
  },
  {
   "id": "GSF0000D/65/0002",
   "kind": "msg",
   "jp": "「アホの木の下に　鬼面党が\n　何かを　隠しておったぞ！」\n　",
-  "en": "\"The Oni Mask Gang hid something under the Fool's Tree!\""
+  "en": "\"I saw the Oni Mask Gang hide something under the Fool's Tree, I did!\""
  },
  {
   "id": "GSF0000D/66/0002",
   "kind": "msg",
   "jp": "「よく来たな　桃太郎！」\n　\n　",
-  "en": "\"Welcome, Momotaro!\""
+  "en": "\"Ah, good of you to come, Momotaro!\""
  },
  {
   "id": "GSF0000D/67/0018",
@@ -195,13 +195,13 @@
   "id": "GSF0000D/72/0002",
   "kind": "msg",
   "jp": "「桃太郎よ！　外には\n　ギャンブル好きな　タヌキや\n　クイズ好きな鬼が　おるぞ！」{KP}\n　\n「油断は　禁物じゃ！\n　負けるでないぞ！！」\n　",
-  "en": "\"Momotaro! Out there are tanuki who love gambling and oni who love quizzes!\"{KP}\"Don't let your guard down! Don't you lose!!\""
+  "en": "\"Momotaro! Out there you'll find tanuki who love gambling and oni who love quizzes!\"{KP}\"Never let your guard down! Don't you lose, now!!\""
  },
  {
   "id": "GSF0000D/73/0002",
   "kind": "msg",
   "jp": "「桃太郎よ！\n　{bb}ひえんの術{ww}を　覚えたか？」\n　{KP}\n「{bb}ひえんの術{ww}は　\n　一度　行ったことの　ある村に」\n　{KP}\n「素早く\n　移動することが　できるのじゃ！」\n　",
-  "en": "\"Momotaro! Have you learned the {bb}Warp art{ww}?\"{KP}\"The {bb}Warp art{ww} lets you travel to any village you've been to before\"{KP}\"in no time at all!\""
+  "en": "\"Momotaro! Have you learned the {bb}Warp art{ww} yet?\"{KP}\"The {bb}Warp art{ww} lets you travel to any village you've been to before\"{KP}\"in no time at all, you see!\""
  },
  {
   "id": "GSF0000D/74/0002",
@@ -213,19 +213,19 @@
   "id": "GSF0000D/75/0002",
   "kind": "msg",
   "jp": "「北西に　のぼれば　金太郎の村\n　南に　くだればすぐ　浦島の村」\n　{KP}\n「北東に　のぼれば　なぞとき洞窟\n　寝太郎の村が　あるぞ！」\n　",
-  "en": "\"Climb northwest for Kintaro Village; head south and Urashima Village is right there.\"{KP}\"Climb northeast for Riddle Cave and Netaro Village!\""
+  "en": "\"Climb northwest for Kintaro Village; head south and Urashima Village is right there.\"{KP}\"Climb northeast and you'll find Riddle Cave and Netaro Village, mind you!\""
  },
  {
   "id": "GSF0000D/76/0000",
   "kind": "msg",
   "jp": "「よく来たな　桃太郎！」\n　\n　",
-  "en": "\"Welcome, Momotaro!\""
+  "en": "\"Ah, good of you to come, Momotaro!\""
  },
  {
   "id": "GSF0000D/77/0000",
   "kind": "msg",
   "jp": "「晴れた日は　海の向こうに\n　{bb}龍の島{ww}が　見えるぞ！」\n　",
-  "en": "\"On clear days you can see {bb}Dragon Island{ww} across the sea!\""
+  "en": "\"On clear days you can see {bb}Dragon Island{ww} across the sea, mind you!\""
  },
  {
   "id": "GSF0000D/78/0000",
