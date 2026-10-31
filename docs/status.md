@@ -2,9 +2,18 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 7 done (2026-11-01) -> next is **phase 8** (QA in the emulator), then 9 (release).
-  Phase 7 done-when met: lint 0 errors (widths, pages, control codes, glossary); `tools/verify_build.py` on the
-  en build: 342 files changed, 0 errors; check.py green (31 tests).
+- **Phase:** **8 in progress** (QA in the emulator), then 9 (release).
+- **Done (phase 8 so far, 2026-11-01):**
+  - Phase 6 review (`.harness/reviews/...-phase6.md`) fixed, commit 5aedd55: Momotaro/Kintaro full names where the
+    slot fits (by_id), 花 = Flower in Q301/Q345, M580D/19 Poverty God / Fortune God. Lint now (a) needs every row
+    of a glossary-waived unit listed in glossary_ok.txt by id, (b) rejects identical English for different JP in
+    one choice menu. Quiz choice layouts 5/6 widened to 88 px (engine.CHOICE_EXE + CURSOR; windows.md).
+  - Graphics pipeline: `tools/gfx.py` (gfx/en/FILE_ENTRY.png -> TIM pixels, ECD, archive; insert + verify_build
+    hooked; tests/test_gfx.py), `tools/gen_gfx.py` (LABELS rect -> English, Fredoka OFL, colours from the JP
+    lettering, writes every byte-identical copy; `boxes`), `tools/gfxfind.py` (same pixel rows in other images).
+    Done: title press-start prompt (CI0D:3 + TITLE0D:3), shot in game (work/qa/title8c f3030).
+  - Gotcha: `build.py --out` needs a `.bin` name (`--out build/g8.bin`); building the default image while a tour
+    runs on it fails (mkpsxiso, file locked): build QA images under another name.
 - **Done (phase 7):**
   - `tools/verify_build.py [CUE]` (AGENTS.md "Verify"): reads every file from both disc images; unchanged files
     identical; changed files == insert.files(); code files (EXE, OVL*) pass `romdiff.check` with allowed = string
@@ -28,6 +37,11 @@ Updated at the end of every session. Keep it to what the next session needs; his
     156,128 bytes (game_m25/m70-72 minigames), so English growth (a few KB per file) is far from the limit.
     15 runs of that sweep died with emulator exit -1 while other emulators ran; all 15 passed on a rerun.
 - **Next (phase 8):**
+  - Graphics text (D5: all of it; docs/re/gfx_survey.tsv, 200 rows): title logo pieces (CI0D:3/TITLE0D:3,
+    YUGI0D:1, HOUGEN0D:2, FILESL0D:1), NAME0D:0 mode menu, STATUS0D:0, M990D:0/1 HUD + result words, banners
+    (M010D:4, M110D:0, M140D:0, M560D/M590D, GV02000D:2, GV13000D:2...), HOUGEN0D:0 card album, credits EVT600D:2-4,
+    100 dialect cards HCARD*, signs. Per image: `gfx.py export`, find each sprite's rect (in-game the sprite rect
+    can be narrower than the JP atlas row: shoot it), add LABELS, `gen_gfx.py`, build `--out build/g8.bin`, shoot.
   - Text tour (`warp_all.py --hold 1500 --click 45 --probe tools/lua/textlog.lua`, then `tools/textlog.py`),
     `jp_left.py` on the build, visual-QA sheets + `qa_gate.py` verdicts (in-session `visual-qa` agents, D9),
     graphics-text rows in zoomed cold-boot shots (docs/re/graphics.md).

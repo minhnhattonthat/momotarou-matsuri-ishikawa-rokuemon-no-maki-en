@@ -26,6 +26,7 @@ sys.path.insert(0, str(ROOT / 'tools'))
 import arc  # noqa: E402
 import codestr  # noqa: E402
 import engine  # noqa: E402
+import gfx  # noqa: E402
 import text  # noqa: E402
 
 TREE = ROOT / 'work' / 'disc' / 'tree'
@@ -226,6 +227,9 @@ def files(mode='en', overrides=None):
         key = f'OUTBIN/{name}'
         data = out.get(key) or (TREE / 'OUTBIN' / name).read_bytes()
         out[key] = engine.patch_money(data, sites, codestr.OVL_BASE)
+    for name in gfx.redraws():
+        key = f'OUTBIN/{name}'
+        out[key] = gfx.apply(name, out.get(key) or (TREE / 'OUTBIN' / name).read_bytes())
     return out
 
 

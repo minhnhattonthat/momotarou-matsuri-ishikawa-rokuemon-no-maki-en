@@ -7,6 +7,7 @@ Per disc file (read straight from both images through the ISO9660 records):
   - changed files equal what insert.files() made (the EXE apart from its LBA/size tables, which follow the layout);
   - code files (EXE, OVL*): romdiff against the original, allowed = string slots (+ refs in layout.RELOC files),
     engine hook sites + hook area, money sites, the EXE LBA/size tables;
+  - archives: redrawn images (gfx/en) differ only in their pixel block;
   - script archives: same entry count, non-script entries identical, and every script entry rebuilt with its
     original Japanese gives the original bytes (only text changed; jumps consistent);
   - FONT0D: only the English glyph page entry changed;
@@ -22,6 +23,7 @@ import arc  # noqa: E402
 import build  # noqa: E402
 import codestr  # noqa: E402
 import engine  # noqa: E402
+import gfx  # noqa: E402
 import insert  # noqa: E402
 import iso  # noqa: E402
 import layout  # noqa: E402
@@ -70,10 +72,14 @@ def check_archive(name, orig, new):
     if len(oe) != len(ne):
         return [f'{name}: {len(ne)} entries, original has {len(oe)}']
     scripts = {i: its for i, _, its in text.script_entries(orig)}
+    redrawn = {i for i, _, _ in gfx.redraws().get(Path(name).name, [])}
     for i, ((_, a), (_, b)) in enumerate(zip(oe, ne)):
         # arc.pack pads entries to 16 bytes: compare without trailing zeros
         if i not in scripts:
-            if a.rstrip(b'\0') != b.rstrip(b'\0'):
+            if i in redrawn:
+                if not gfx.same_but_pixels(a, b):
+                    errs.append(f'{name}/{i}: redrawn image changed outside its pixel block')
+            elif a.rstrip(b'\0') != b.rstrip(b'\0'):
                 errs.append(f'{name}/{i}: non-script entry changed')
             continue
         try:
