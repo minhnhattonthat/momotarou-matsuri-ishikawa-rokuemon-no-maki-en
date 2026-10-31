@@ -3,7 +3,10 @@
 Skill: translate-retro-game (Claude Code: plugin, enabled in .claude/settings.json; other agents: its SKILL.md). `python tools/skill.py` prints its folder; `"$(python tools/skill.py)"` works in bash and PowerShell; never paste a `plugins/cache/<hash>` path. Read SKILL.md before ROM, text or QA work.
 
 ## Commands (run from repo root)
-- Build:    `python -X utf8 tools/build.py` -> `build/momotarou-matsuri_en.cue/.bin` (phase 3+; checks the dump against `rom.sha1` first)
+- Build:    `python -X utf8 tools/build.py` -> `build/momotarou-matsuri_en.cue/.bin` (phase 3+; checks the dump against `rom.sha1` first;
+  `--marker` = every item as `<n>` (map: work/markers.tsv), `--qa ID=TEXT` / `--qa-file tools/debug/widthgate.json` = stress lines)
+- Text tour: `python -X utf8 tools/debug/warp_all.py CUE --out DIR --hold 1500 --click 45 --probe tools/lua/textlog.lua`, then
+  `python -X utf8 tools/textlog.py DIR` (Japanese still drawn, markers seen). Engine/boxes: `docs/re/engine.md`, `docs/re/windows.md`
 - Check:    `python -X utf8 tools/check.py` (tests + lint; the pre-commit hook runs it; `git config core.hooksPath tools/hooks` once per clone)
 - Smoke:    `python -X utf8 "$(python tools/skill.py)/scripts/emu.py" build/momotarou-matsuri_en.cue --out work/qa/smoke --route tools/routes/boot.txt --smoke` (boot.txt ends on the New/Continue menu)
 - Warp:     `python -X utf8 "$(python tools/skill.py)/scripts/emu.py" build/momotarou-matsuri_en.cue --out work/qa/warp --script tools/debug/warp.lua --var "SCENE='<name>'" --frames 900 --sheet` (scenes: `tools/debug/scenes.txt`, RE in `docs/re/debug.md`; all scenes: `python -X utf8 tools/debug/warp_all.py [CUE]`; never ask the user to play to a scene)

@@ -63,6 +63,25 @@ def test_font_cells_hold_the_glyphs_and_other_pages_are_untouched():
 
 
 @disc
+def test_insert_rebuilds_an_archive_with_english_and_code_strings_in_place():
+    import insert
+    path = TREE / "OUTBIN" / "GDEF0D.BIN"
+    new = insert.build_archive(path, {"GDEF0D/0/00DE": "Momotaro looked down.\nNothing there.{KN}"})
+    e = arc.entries(new)[0][1]
+    o, op, n = next(x for x in __import__("script").ops(e) if x[0] == 0xDE)
+    lines = [engine.decode_units(x) for x in text.split_lines(e[o + text.TEXT_START[op]:o + n])]
+    assert lines == ["Momotaro looked down.{KG}", "Nothing there.{KN}"]
+    assert [x for _, x in arc.entries(new)[1:]] == [x for _, x in arc.entries(path.read_bytes())[1:]]
+    rows = [{"id": "SLPM_868@8008C2D4", "max": 7}]
+    exe = (TREE / "SLPM_868.88").read_bytes()
+    out = insert.patch_code(exe, TREE / "SLPM_868.88", {"SLPM_868@8008C2D4": "Yes"}, rows)
+    o = 0x8008C2D4 - engine.EXE_BASE
+    assert out[o:o + 8] == b"Yes\x7f\0\0\0\0" and out[o + 8:] == exe[o + 8:] and out[:o] == exe[:o]
+    with pytest.raises(ValueError):
+        insert.patch_code(exe, TREE / "SLPM_868.88", {"SLPM_868@8008C2D4": "Too long"}, rows)
+
+
+@disc
 def test_exe_hooks_assemble_inside_the_free_area():
     exe = (TREE / "SLPM_868.88").read_bytes()
     new = engine.patch_exe(exe)

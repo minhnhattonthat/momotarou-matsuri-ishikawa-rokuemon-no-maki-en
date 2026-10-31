@@ -35,6 +35,14 @@ Code: `tools/engine.py` (codec, font, hooks), `tools/insert.py` (script/ -> disc
   0x80086A38 the GTE matrix stack.
 - Font: `fonts/en12.txt` (from the sibling repo, MIT), rows 2-11 of the cell.
 
+## Other text paths found (verified statically)
+- **Memory-card messages** (EXE strings 0x80018314-0x80018634, pointer table 0x8007E934): 0x80025884 copies the
+  string byte by byte into three 64-byte line buffers at 0x800A1CC8, splitting on the **bytes** `K` `K` (next
+  line) and `K` `E` (end), then build_line draws each at (72,168)+16/line. So English there: <= 64 bytes per
+  line, at most 3 lines, and no `KK`/`KE` byte pair inside the text (byte-level scan, not unit-aligned).
+- **Save titles** `ももたろうまつり　その１..３` (0x80018664/80/9C): 0x80028048 copies 25 bytes into the
+  memory-card save header; the BIOS shows them, so they stay full-width Shift-JIS (insert.SJIS_ONLY).
+
 ## Disc: the second file table (verified: GDEF0D grown by the marker build hung at boot until fixed)
 - The loader 0x8001F3B0 allocates `(size[d] - offset)` rounded up to 2 KB from a **u32 byte-size table per data
   id** at EXE RAM 0x8007C1D8 (file offset 0x6C9D8, 1,543 entries = files 63..1605 of the LBA table, all equal

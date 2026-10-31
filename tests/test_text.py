@@ -95,7 +95,7 @@ def test_code_strings_cover_and_roundtrip():
         miss |= {(os.path.basename(p).split(".")[0], a) for a, _ in unref}
         for r in rows:
             jp = text.table().decode(r["raw"], 0, len(r["raw"]))[0]
-            assert "[" not in jp, (p, hex(r["addr"]), jp)
+            assert "[" not in jp.replace("[20]", ""), (p, hex(r["addr"]), jp)  # [20] = money-template digit slots
             assert text.table().encode(jp) == r["raw"]
             assert r["refs"] and r["cap"] > len(r["raw"])
             n += 1

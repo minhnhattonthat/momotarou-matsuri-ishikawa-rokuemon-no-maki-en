@@ -32,6 +32,9 @@ MARKERS = ROOT / 'work' / 'markers.tsv'
 LINE_UNITS = 32          # glyph records per line object (0x10C bytes: 8 + 32 x 8 + 4), text + codes
 FILL = 'The quick brown fox jumps over the lazy dog. Pack my box with five dozen liquor jugs. '
 CODE = re.compile(r'\{\w+\}')
+# Not drawn by build_line: the memory-card save titles, copied (25 bytes, 0x80028048) into the save header that
+# the BIOS card manager shows. English must be full-width Shift-JIS (no ASCII), <= 24 bytes. Marker mode skips them.
+SJIS_ONLY = {'SLPM_868@80018664': 24, 'SLPM_868@80018680': 24, 'SLPM_868@8001869C': 24}
 
 
 def rows_by_file():
@@ -64,7 +67,8 @@ def marker_line(n, jp_line, first):
 
 def marker(n, row):
     if row['kind'] == 'code':
-        s = f'<{n}>' + filler(12 * len(row['jp']), n)
+        slots = re.match(r'(?:\[20\])*', row['jp']).group()   # money template: keep put_number's digit slots
+        s = slots + 'ryo' if slots else f'<{n}>' + filler(12 * len(row['jp']), n)
         while s and len(text.encode_text(s)) > row['max']:
             s = s[:-1]
         return s
@@ -85,13 +89,16 @@ def texts(mode, overrides=None):
         for r in rows:
             n += 1
             t = None
-            if mode == 'marker':
+            if mode == 'marker' and r['id'] not in SJIS_ONLY:
                 t = marker(n, r)
                 mk.append(f"{n}\t{r['id']}\t{r['jp']!r}")
-            elif r.get('en'):
+            elif mode != 'marker' and r.get('en'):
                 t = r['en']
             if r['id'] in overrides:
                 t = overrides[r['id']]
+            if t is not None and r['id'] in SJIS_ONLY:
+                if re.search(r'[\x20-\x7e]', CODE.sub('', t)) or len(text.encode_text(t)) > SJIS_ONLY[r['id']]:
+                    raise ValueError(f"{r['id']}: save title must be full-width, <= {SJIS_ONLY[r['id']]} bytes")
             if t is not None:
                 out[stem][r['id']] = t
     if mode == 'marker':

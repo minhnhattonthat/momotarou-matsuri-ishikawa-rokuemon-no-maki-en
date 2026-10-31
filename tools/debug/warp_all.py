@@ -26,11 +26,11 @@ def scenes():
     return out
 
 
-def run(cue, out, name, hold=None, click=None, every=None):
+def run(cue, out, name, hold=None, click=None, every=None, probes=()):
     d = os.path.join(out, name)
     shutil.rmtree(d, ignore_errors=True)
     extra = (['--var', f'HOLD={hold}'] if hold else []) + (['--var', f'CLICK={click}'] if click else []) + \
-        (['--shot-every', str(every)] if every else [])
+        (['--shot-every', str(every)] if every else []) + [x for p in probes for x in ('--script', os.path.abspath(p))]
     p = subprocess.run([sys.executable, '-X', 'utf8', os.path.join(SKILL, 'scripts', 'emu.py'), cue, '--out', d,
                         '--script', os.path.join(HERE, 'warp.lua'), '--var', f"SCENE='{name}'",
                         '--var', f"SCENES=[[{os.path.abspath(os.path.join(HERE, 'scenes.txt'))}]]",
@@ -58,11 +58,12 @@ def main():
     ap.add_argument('--hold', type=int, help='frames to keep running after arrival (warp.lua HOLD)')
     ap.add_argument('--click', type=int, help='press circle every N frames after arrival (warp.lua CLICK)')
     ap.add_argument('--every', type=int, help='also shoot every N frames (OUT/<scene>/f*.png)')
+    ap.add_argument('--probe', action='append', default=[], help='extra Lua script, e.g. tools/lua/textlog.lua')
     a = ap.parse_args()
     os.makedirs(os.path.join(a.out, 'shots'), exist_ok=True)
     todo = [s for s in scenes() if re.search(a.only, s)]
     with cf.ThreadPoolExecutor(a.jobs) as ex:
-        res = list(ex.map(lambda s: run(a.cue, a.out, s, a.hold, a.click, a.every), todo))
+        res = list(ex.map(lambda s: run(a.cue, a.out, s, a.hold, a.click, a.every, a.probe), todo))
     with open(os.path.join(a.out, 'result.tsv'), 'w', encoding='utf-8', newline='\n') as f:
         for r in res:
             f.write('\t'.join(r) + '\n')

@@ -129,9 +129,13 @@ if __name__ == "__main__":
     ap.add_argument("--out", type=Path, default=None)
     ap.add_argument("--marker", action="store_true", help="every text item as [n] marker (work/markers.tsv)")
     ap.add_argument("--qa", action="append", default=[], metavar="ID=TEXT", help="override one item (stress lines)")
+    ap.add_argument("--qa-file", type=Path, help="JSON {id: text} of overrides (keys starting with _ ignored)")
     a = ap.parse_args()
     out = a.out or ROOT / "build" / ("momotarou-matsuri_marker.bin" if a.marker else "momotarou-matsuri_en.bin")
     out.parent.mkdir(parents=True, exist_ok=True)
     ov = dict(q.split("=", 1) for q in a.qa)
     ov = {k: v.replace("\\n", "\n") for k, v in ov.items()}
+    if a.qa_file:
+        import json
+        ov.update({k: v for k, v in json.loads(a.qa_file.read_text(encoding="utf-8")).items() if not k.startswith("_")})
     print(build(out.resolve(), patched_files("marker" if a.marker else "en", ov)))

@@ -41,6 +41,8 @@ def is_jp(raw):
         s = raw.decode('cp932')
     except UnicodeDecodeError:
         return False
+    if s.rstrip('両').strip(' －') == '' and s.endswith('両'):
+        return True  # money templates: digit slots (two-space units or －) + 両, filled by put_number 0x8002A004
     wide = sum(ord(c) >= 0x3000 for c in s)
     return (wide - s.count('　') >= 2 and wide * 2 >= len(s)
             and not any(0xFF61 <= ord(c) <= 0xFF9F or 0xE000 <= ord(c) <= 0xF8FF for c in s))

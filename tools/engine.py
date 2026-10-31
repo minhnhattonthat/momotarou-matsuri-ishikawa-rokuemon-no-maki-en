@@ -91,6 +91,22 @@ def encode_ascii(run):
     return bytes(out)
 
 
+def decode_units(b):
+    """Built line bytes -> text form, unit by unit (the Japanese table decoder is byte-based and would misread
+    digraphs after a PAD): digraphs -> ASCII (PAD dropped), control units -> {XX}, the rest via the JP table."""
+    import text
+    out = []
+    for i in range(0, len(b) - 1, 2):
+        u = b[i] | b[i + 1] << 8
+        if u in CONTROL and u not in (0x2020, 0x4081):
+            out.append('{' + b[i:i + 2].decode('ascii') + '}')
+        elif all(FIRST <= c <= LAST for c in b[i:i + 2]):
+            out.append(b[i:i + 2].replace(bytes([PAD]), b'').decode('ascii'))
+        else:
+            out.append(text.table().decode(b[i:i + 2], 0, 2)[0])
+    return ''.join(out)
+
+
 def width_px(s, w=None):
     """Drawn width of a decoded-form line (codes and Japanese count as 12 px, the drawer's cell)."""
     import re

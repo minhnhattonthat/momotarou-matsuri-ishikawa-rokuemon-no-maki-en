@@ -16,6 +16,8 @@ Addresses are for the dump in `rom.sha1` unless a note says otherwise.
 | [text.md](text.md) | Shift-JIS, control codes, message block, where the text is | verified |
 | [script.md](script.md) | script VM ops, lengths, jumps, text lines, what phase 4 extracts, code strings | verified (static + every entry parses; roundtrip/coverage tests) |
 | [debug.md](debug.md) | game mode/map/event RAM, script interpreter, warp tool, unreachable maps | verified by warp_all (452 scenes) |
+| [engine.md](engine.md) | build_line/drawer, digraph VWF hooks, English font cells, hook space, data-id size table, memory-card text path | verified (marker build, tests/test_engine.py) |
+| [windows.md](windows.md) | box variants, measured px budgets (width gate), guessed ones | measured: message, portrait, memory card, main/choice menus |
 | [graphics.md](graphics.md) | font, TIM images, graphics-text survey | survey from the static sweep; runtime checks in phase 8 |
 
 Tools: `tools/iso.py` (LBAs), `tools/arc.py` (archives), `tools/ecd.py` (ECD codec), `tools/tim.py` (TIM decode),
