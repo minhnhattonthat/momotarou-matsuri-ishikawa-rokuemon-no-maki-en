@@ -1,6 +1,7 @@
 """Warp to every scene of tools/debug/scenes.txt from a cold boot, in parallel; one proof shot per scene.
 
 usage: python -X utf8 tools/debug/warp_all.py [CUE] [--out work/qa/warp_all] [--jobs 8] [--only REGEX]
+                                              [--hold FRAMES --click N --every N]   (text tour: click through)
 Writes OUT/<scene>/ (emu.py run), OUT/shots/<scene>.png (the arrival shot) and OUT/result.tsv
 (scene, status, arrival frame); status is ok, flat (single-colour shot) or the emu.py failure. Exit 1 if any scene
 is not ok. Then: sheet.py OUT/shots for a contact sheet.
@@ -25,13 +26,16 @@ def scenes():
     return out
 
 
-def run(cue, out, name):
+def run(cue, out, name, hold=None, click=None, every=None):
     d = os.path.join(out, name)
     shutil.rmtree(d, ignore_errors=True)
+    extra = (['--var', f'HOLD={hold}'] if hold else []) + (['--var', f'CLICK={click}'] if click else []) + \
+        (['--shot-every', str(every)] if every else [])
     p = subprocess.run([sys.executable, '-X', 'utf8', os.path.join(SKILL, 'scripts', 'emu.py'), cue, '--out', d,
                         '--script', os.path.join(HERE, 'warp.lua'), '--var', f"SCENE='{name}'",
                         '--var', f"SCENES=[[{os.path.abspath(os.path.join(HERE, 'scenes.txt'))}]]",
-                        '--frames', '1', '--timeout', '240'], capture_output=True, text=True)
+                        '--frames', '1', '--timeout', str(240 + (hold or 0) // 20)] + extra,
+                       capture_output=True, text=True)
     log = open(os.path.join(d, 'log.txt'), encoding='utf-8', errors='replace').read() if os.path.exists(
         os.path.join(d, 'log.txt')) else ''
     m = re.search(r'ARRIVED \S+ f(\d+)', log)
@@ -51,11 +55,14 @@ def main():
     ap.add_argument('--out', default=os.path.join(ROOT, 'work', 'qa', 'warp_all'))
     ap.add_argument('--jobs', type=int, default=8)
     ap.add_argument('--only', default='')
+    ap.add_argument('--hold', type=int, help='frames to keep running after arrival (warp.lua HOLD)')
+    ap.add_argument('--click', type=int, help='press circle every N frames after arrival (warp.lua CLICK)')
+    ap.add_argument('--every', type=int, help='also shoot every N frames (OUT/<scene>/f*.png)')
     a = ap.parse_args()
     os.makedirs(os.path.join(a.out, 'shots'), exist_ok=True)
     todo = [s for s in scenes() if re.search(a.only, s)]
     with cf.ThreadPoolExecutor(a.jobs) as ex:
-        res = list(ex.map(lambda s: run(a.cue, a.out, s), todo))
+        res = list(ex.map(lambda s: run(a.cue, a.out, s, a.hold, a.click, a.every), todo))
     with open(os.path.join(a.out, 'result.tsv'), 'w', encoding='utf-8', newline='\n') as f:
         for r in res:
             f.write('\t'.join(r) + '\n')

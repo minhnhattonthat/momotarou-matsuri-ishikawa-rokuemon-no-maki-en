@@ -26,6 +26,19 @@ def offsets(d):
     return offs
 
 
+def pack(ents, header_size):
+    """Archive bytes from entry bytes: header of header_size bytes (offsets, zero padded), each entry padded
+    with zeros to 16 bytes, so the last entry (usually end\\x1a) keeps its alignment."""
+    if 4 * len(ents) > header_size:
+        raise ValueError('header too small')
+    out, offs = bytearray(header_size), []
+    for e in ents:
+        offs.append(len(out))
+        out += e + bytes(-len(e) % 16)
+    struct.pack_into(f'<{len(offs)}I', out, 0, *offs)
+    return bytes(out)
+
+
 def entries(d):
     offs = offsets(d)
     if offs is None:

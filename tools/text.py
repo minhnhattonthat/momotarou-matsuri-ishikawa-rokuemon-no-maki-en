@@ -86,8 +86,22 @@ def msg_text(lines):
     return '\n'.join(s)
 
 
+PIECE = re.compile(r'(\{\w+\}|\[[0-9A-Fa-f]{2}\]|[^\x20-\x7e])')
+
+
+def encode_text(text):
+    """Codes, [XX] bytes and Japanese through the table; runs of printable ASCII as digraphs (tools/engine.py)."""
+    import engine
+    out = bytearray()
+    for i, part in enumerate(PIECE.split(text)):
+        if not part:
+            continue
+        out += table().encode(part) if i % 2 else engine.encode_ascii(part)
+    return bytes(out)
+
+
 def encode_line(text):
-    b = table().encode(text)
+    b = encode_text(text)
     if len(b) % 2:
         raise ValueError(f'odd byte length: {text!r}')
     return b + b'\0\0'

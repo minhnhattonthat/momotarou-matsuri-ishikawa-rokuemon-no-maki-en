@@ -49,6 +49,9 @@ L.on_frame(function(n)
   if st.arrived then
     local hold = HOLD or 60
     if hold >= 0 and n - st.arrived >= hold then L.shot("final.png"); L.finish(0) end
+    -- CLICK=N: press circle every N frames after arrival, to click through the scene's text (emu.py's --mash
+    -- starts at frame 0 and breaks the menu presses above; MASH is the driver's own global)
+    if CLICK and (n - st.arrived) % CLICK == CLICK - 1 then L.press("circle", 6) end
     return
   end
 

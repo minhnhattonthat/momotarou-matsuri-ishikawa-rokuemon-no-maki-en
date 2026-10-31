@@ -39,3 +39,7 @@ def test_grown_file_moves_and_lba_table_follows(tmp_path):
     table = {struct.unpack_from("<II", exe, build.TABLE + 8 * i) for i in range(build.COUNT)}
     assert len(table) == build.COUNT and table <= spans
     assert disc[grown][1] == len(data)
+    sizes = {struct.unpack_from("<I", exe, build.SIZES + 4 * (i - build.DATA))[0]
+             for i in range(build.DATA, build.COUNT)
+             if struct.unpack_from("<I", exe, build.TABLE + 8 * i)[0] == disc[grown][0]}
+    assert sizes == {len(data)}  # the loader allocates from this table
