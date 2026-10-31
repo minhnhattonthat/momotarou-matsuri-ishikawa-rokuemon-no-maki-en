@@ -3,48 +3,48 @@
   "id": "M560D/5/0002",
   "kind": "msg",
   "jp": "グッスリンが　あらわれた！\n　{KP}\n「桃太郎さ～～ん！\n　ボクと　サイコロ勝負しよ～！」{KP}\n「サイコロふって　高い数を\n　出したほうが　勝ちだよ～！」{KP}\n「じゃあ\n　サイコロを　ふってね～！」",
-  "en": ""
+  "en": "Gussurin appeared!{KP}\"Momotaro-saaan! Let's have a dice match!\"{KP}\"We each roll the dice, and whoever rolls higher wiiins!\"{KP}\"Okay, go ahead and roll the dice!\""
  },
  {
   "id": "M560D/6/0002",
   "kind": "msg",
   "jp": "「{R2}　だね～！」\n　{KP}\n「じゃあ　次は\n　ボクが　サイコロを　ふるよ～！」",
-  "en": ""
+  "en": "\"It's a {R2}!\"{KP}\"Okay, next it's my turn to roll the dice!\""
  },
  {
   "id": "M560D/7/0002",
   "kind": "msg",
   "jp": "「おや～～？　ボクも　{R2}　だ～！\n　同じ数は　引き分け　だね～！」{KP}\n「それでは　しかたがないので\n　もう　１回　勝負だ～！」",
-  "en": ""
+  "en": "\"Huh? I got a {R2} too! The same number means it's a draw!\"{KP}\"Well, nothing we can do about it, so let's have one more match!\""
  },
  {
   "id": "M560D/8/001A",
   "kind": "msg",
   "jp": "「いや～～～～！\n　グッスリン　負けちゃったあ！」{KP}\n「桃太郎さんに　ごほうびあげるよ！\n　グッスリン！　ぷりりんぱっ！」",
-  "en": ""
+  "en": "\"Nooooo! Gussurin lost!\"{KP}\"Here's a reward for you, Momotaro-san! Gussurin! Puririnpa!\""
  },
  {
   "id": "M560D/8/00BC",
   "kind": "msg",
   "jp": "グッスリンは\n{R0}両　置いていった！",
-  "en": ""
+  "en": "Gussurin left {R0} ryo behind!"
  },
  {
   "id": "M560D/8/00F0",
   "kind": "msg",
   "jp": "「残念だな～～！\n　勝ってほしかったな～！」{KP}\n「でも　がっかりしないでね！\n　きっと　また　くるからね！」{KP}\nグッスリンは\nどこかに　いってしまった！",
-  "en": ""
+  "en": "\"Aww, too bad! I really wanted you to win!\"{KP}\"But don't feel down! I'll be back for sure!\"{KP}Gussurin went off somewhere!"
  },
  {
   "id": "M560D/9/001A",
   "kind": "msg",
   "jp": "グッスリンは\nお金を　置いていった！",
-  "en": ""
+  "en": "Gussurin left some money behind!"
  },
  {
   "id": "M560D/9/0050",
   "kind": "msg",
   "jp": "グッスリンは\nどこかに　いってしまった！",
-  "en": ""
+  "en": "Gussurin went off somewhere!"
  }
 ]

@@ -3,24 +3,24 @@
   "id": "M520D/3/0002",
   "kind": "msg",
   "jp": "ゾロ目タヌキが　あらわれた！\n　{KP}\n「ゾロゾロ～～～！\n　ゾロ目を　見せてくれ～～～！」",
-  "en": ""
+  "en": "The Doubles Tanuki appeared!{KP}\"Zoro zoro zorooo! Show me some doubles, pleeease!\""
  },
  {
   "id": "M520D/4/001A",
   "kind": "msg",
   "jp": "「ゾロ～～～！　す！　すごいだなあ！\n　見事な　ゾロ目だ！」{KP}\n「それじゃ　お約束の\n　賞金{R0}両　ゾロ～～～！」",
-  "en": ""
+  "en": "\"Zorooo! Wh-wow! That's amazing! Perfect doubles!\"{KP}\"Then here's the prize I promised: {R0} ryo, zorooo!\""
  },
  {
   "id": "M520D/4/00AA",
   "kind": "msg",
   "jp": "ゾロ目タヌキは\n{R0}両　置いていった！",
-  "en": ""
+  "en": "The Doubles Tanuki left {R0} ryo behind!"
  },
  {
   "id": "M520D/4/00E0",
   "kind": "msg",
   "jp": "「ゾゾゾゾゾッ！　悲しい！\n　ゾロ目じゃな～～～い！」{KP}\n「今度　会うときは　絶対\n　ゾロ目を　見せてくれ～～～い！」",
-  "en": ""
+  "en": "\"Zozozozozo! How sad! Those aren't doubles at aaall!\"{KP}\"Next time we meet, you'd better show me doubles, pleeease!\""
  }
 ]

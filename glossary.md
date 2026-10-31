@@ -214,6 +214,11 @@ Shared names reuse `../momotarou-densetsu-en/glossary.md` (same series, same own
 | ハリセン | paper fan | | ハリセンちょっぷ！ Paper Fan Chop! | |
 | ふくわらい / 福笑い | Fukuwarai | | | |
 | 方言 | dialect | | | |
+| ゾロ目タヌキ | Doubles Tanuki | | tic ゾロ "Zorooo!" | |
+| ギャンブルタヌキ | Gambling Tanuki | | tic "Gamble-ble-bleee!" | |
+| 算数の鬼 | Math Oni | | tic ですぞい ", zoi!" | |
+| 記念仙人 | Milestone Hermit | | | |
+| グッスリン | Gussurin | | tic "Puririnpa!" | |
 
 ## Decisions from earlier batches
 - (none yet)

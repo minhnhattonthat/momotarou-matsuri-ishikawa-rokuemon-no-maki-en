@@ -1,0 +1,16 @@
+# Rows whose English differs from their same-JP twin (batches.py merge applies these last): id<TAB>en<TAB>reason
+M510D/257/0000.0	Thailand	タイ is "Sea bream" in quiz 97; here the country (correct answer)
+M510D/92/0000.1	Shijimi	quiz decoy; the SLPM item string is capped at 7 bytes
+M510D/97/0000.1	Mackerel	quiz decoy; shared with an SLPM item string
+M510D/113/0000.3	Money	quiz decoy; shared with an OVLGMAIN code string
+M510D/128/0000.0	Dog	quiz answer; shared with an OVLM03 code string
+M510D/128/0000.2	Pheasant	quiz decoy; shared with an OVLM03 code string
+M510D/128/0000.3	Monkey	quiz decoy; shared with an OVLM03 code string
+M510D/131/0000.1	Hell	quiz decoy; shared with an OVLXTTL code string
+M510D/136/0000.3	Child	quiz decoy; shared with an SLPM code string
+M510D/195/0000.0	Onion	quiz answer; shared with an SLPM item string
+M510D/196/0000.3	Onion	quiz decoy; shared with an SLPM item string
+M510D/195/0000.2	Carrot	quiz decoy; shared with an SLPM item string
+M510D/196/0000.1	Carrot	quiz decoy; shared with an SLPM item string
+M510D/195/0000.3	Cucumber	quiz decoy; shared with an SLPM item string
+M510D/196/0000.0	Cucumber	quiz answer; shared with an SLPM item string

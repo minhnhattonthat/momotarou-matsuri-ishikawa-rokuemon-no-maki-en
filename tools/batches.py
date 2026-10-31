@@ -8,7 +8,8 @@ translator's work/tl/bNNN.out.tsv, merge checked batches into script/ `en`.
     python -X utf8 tools/batches.py todo                                    untranslated units / chars left
 
 Each unique JP text is translated once (id = its first row); merge writes the English to every row with the same
-JP and check lays it out (tools/layout.py) in every box any of them is drawn in. Batch TSV: id, speaker (blank:
+JP and check lays it out (tools/layout.py) in every box any of them is drawn in; script/by_id.tsv overrides one row
+whose context needs other English (quiz answers). Batch TSV: id, speaker (blank:
 the script has no speaker field), form (box variant), limit, JP with in-page line breaks as ' / ', pages {KP}.
 Not batched (set by hand): money templates ([20] digit slots + 両) and insert.SJIS_ONLY save titles.
 """
@@ -43,12 +44,12 @@ def skip(r):
 def units():
     """{jp: {'id', 'jp', 'rows', 'stem', 'en'}} for every unique JP needing English, in batch order."""
     files = sorted(insert.rows_by_file().items(), key=lambda kv: (ORDER.index(group(kv[0])), kv[0]))
-    out = {}
+    out, fixed = {}, by_id()
     for stem, rows in files:
         for r in rows:
             if skip(r):
                 continue
-            u = out.setdefault(r['jp'], {'id': r['id'], 'jp': r['jp'], 'rows': [], 'stem': stem, 'en': r.get('en', '')})
+            u = out.setdefault(r['id'] if r['id'] in fixed else r['jp'], {'id': r['id'], 'jp': r['jp'], 'rows': [], 'stem': stem, 'en': r.get('en', '')})
             u['rows'].append(r)
     return out
 
@@ -184,6 +185,21 @@ def glossary_ok():
     return ok
 
 
+BY_ID = ROOT / 'script' / 'by_id.tsv'
+
+
+def by_id():
+    """{id: en}: rows whose English must differ from their same-JP twin (id<TAB>en<TAB>reason); merge applies last."""
+    out = {}
+    if BY_ID.exists():
+        for ln in BY_ID.read_text(encoding='utf-8').splitlines():
+            if ln.strip() and not ln.startswith('#'):
+                i, en, reason = ln.split('\t')
+                assert reason.strip(), ln
+                out[i] = en
+    return out
+
+
 def problems(u, en, var, gl, ok=()):
     if not en.strip():
         return ['empty English']
@@ -204,7 +220,7 @@ def problems(u, en, var, gl, ok=()):
     plain = TOKEN.sub('', u['jp'])
     for j, e, avoid, person in gl:
         for a_ in avoid:
-            if re.search(rf'\b{re.escape(a_)}\b', en):
+            if j not in ok and re.search(rf'\b{re.escape(a_)}\b', en):
                 errs.append(f'glossary: "{a_}" is an avoided spelling of {j} -> {e}')
         if not has_term(plain, j):
             continue
@@ -262,12 +278,13 @@ def merge(names):
             sys.exit(f'{name} failed its check; nothing merged')
         trans.update(got)
     by_jp = {us[i]['jp']: en for i, en in trans.items() if i in us}
+    fixed = by_id()
     nfiles = 0
     for p in sorted((ROOT / 'script').glob('*.json')):
         rows = json.loads(p.read_text(encoding='utf-8'))
         changed = False
         for r in rows:
-            en = by_jp.get(r['jp'])
+            en = fixed.get(r['id'], by_jp.get(r['jp']))
             if en is not None and not skip(r) and r.get('en') != en:
                 r['en'] = en
                 changed = True

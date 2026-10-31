@@ -3,42 +3,42 @@
   "id": "M550D/2/0002",
   "kind": "msg",
   "jp": "天邪鬼が　あらわれた！\n　{KP}\n「ヘイ！　ヘイ！　桃太郎！\n　のぞみを　かなえてやるぞ！」{KP}\n「どれでも\n　すきなほうを　選ぶんだ！」",
-  "en": ""
+  "en": "Amanojaku appeared!{KP}\"Hey! Hey! Momotaro! I'll grant you a wish!\"{KP}\"Go on, pick whichever one you like!\""
  },
  {
   "id": "M550D/4/001A",
   "kind": "msg",
   "jp": "「フッ…\n　しぶいぜ　桃太郎！」",
-  "en": ""
+  "en": "\"Heh... Classy pick, Momotaro!\""
  },
  {
   "id": "M550D/4/0056",
   "kind": "msg",
   "jp": "「ヘイ！　ヘイ！　今でも\n　十分　みがるだぞ！」{KP}\n「他の　のぞみを\n　選びなおしな　桃太郎！」",
-  "en": ""
+  "en": "\"Hey! Hey! You're already traveling plenty light!\"{KP}\"Pick another wish, Momotaro!\""
  },
  {
   "id": "M550D/4/00D4",
   "kind": "msg",
   "jp": "桃太郎は　どうぐぶくろから\n{MM}を　盗まれた！{KP}\nちょっとだけ\nみがるに　なったようだ…{KP}\n「フッ…\n　いかすぜ　桃太郎！」",
-  "en": ""
+  "en": "Momotaro had {MM} stolen from his item bag!{KP}He seems to feel just a little lighter...{KP}\"Heh... Lookin' sharp, Momotaro!\""
  },
  {
   "id": "M550D/4/016E",
   "kind": "msg",
   "jp": "「ヘイ！　ヘイ！　桃太郎！\n　ホントに　それで　いいのか？」{KP}\n「よーく　かんがえて\n　選びなおすんだ！」",
-  "en": ""
+  "en": "\"Hey! Hey! Momotaro! You really sure about that?\"{KP}\"Think it over real good and pick again!\""
  },
  {
   "id": "M550D/4/01F6",
   "kind": "msg",
   "jp": "「あつい？　そんなに　あついなら\n　ふところを　さむくしてやろう！」",
-  "en": ""
+  "en": "\"Hot? If you're that hot, I'll make your wallet nice and chilly!\""
  },
  {
   "id": "M550D/4/0258",
   "kind": "msg",
   "jp": "桃太郎は　お金を\n{R2}両　とられてしまった！{KP}\n「フッ…\n　クールに　きめたな　桃太郎！」",
-  "en": ""
+  "en": "Momotaro had {R2} ryo taken from him!{KP}\"Heh... Now that was cool, Momotaro!\""
  }
 ]

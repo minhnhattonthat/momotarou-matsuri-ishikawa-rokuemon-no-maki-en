@@ -1,3 +1,7 @@
 # Reviewed exceptions to the glossary/honorific check: id<TAB>JP term<TAB>reason
 GSV3410D/2/03EE	サル	inside the names サル次郎 Sarujiro, not the companion Monkey
 GSV3410D/3/0050	サル	inside the names サル次郎/サル太郎 Sarujiro/Sarutaro
+M510D/283/0000.1	祭り	quiz answer fills "___ Festival" in the question; 72 px box
+M510D/182/002A	キジ	quiz asks for "kiji" in English; Pheasant would give the answer away
+M510D/191/002A	祭り	quiz asks what "matsuri" means; Festival is the answer
+M510D/191/002A	お祭り	quiz asks what "matsuri" means; Festival is the answer

@@ -3,48 +3,48 @@
   "id": "M570D/4/0002",
   "kind": "msg",
   "jp": "ギャンブルタヌキが　あらわれた！\n　{KP}\n「ギャンブルブル～！\n　サイコロの目を　予想してくれい！」{KP}\n「賞金は　かけ金の\n　な　な　なんと！　１０倍～～～！」",
-  "en": ""
+  "en": "The Gambling Tanuki appeared!{KP}\"Gamble-ble-bleee! Guess what the dice will roll!\"{KP}\"The prize is a wh-wh-whopping ten times your bet!\""
  },
  {
   "id": "M570D/4/00B6",
   "kind": "msg",
   "jp": "「かけ金は　{R2}両です！」\n　",
-  "en": ""
+  "en": "\"The bet is {R2} ryo!\""
  },
  {
   "id": "M570D/4/00F0",
   "kind": "msg",
   "jp": "「それでは\n　出目を　当ててください！」{KN}",
-  "en": ""
+  "en": "\"All right then, guess the roll!\"{KN}"
  },
  {
   "id": "M570D/4/0146",
   "kind": "msg",
   "jp": "「あれれれ？　お金まったく\n　ないんですか？　桃太郎さん！」{KP}\n見るに見かねた　ギャンブルタヌキが\n１両くれた！",
-  "en": ""
+  "en": "\"Huh-huh-huh? You've got no money at all, Momotaro-san?!\"{KP}The Gambling Tanuki couldn't bear the sight, and gave Momotaro 1 ryo!"
  },
  {
   "id": "M570D/4/01D6",
   "kind": "msg",
   "jp": "桃太郎は　ちょっと\nみじめな　気分になった！",
-  "en": ""
+  "en": "Momotaro felt a little pathetic!"
  },
  {
   "id": "M570D/5/0012",
   "kind": "msg",
   "jp": "「おめでででででと～！」\n",
-  "en": ""
+  "en": "\"Congrat-rat-rat-rat-ulations!\""
  },
  {
   "id": "M570D/5/004A",
   "kind": "msg",
   "jp": "ギャンブルタヌキは\nお金を　置いていった！",
-  "en": ""
+  "en": "The Gambling Tanuki left some money behind!"
  },
  {
   "id": "M570D/5/0086",
   "kind": "msg",
   "jp": "「ブルブル～！　大金が入る\n　絶好の　チャンスだったのに～！」",
-  "en": ""
+  "en": "\"Ble-bleee! That was your perfect chance to rake in the big bucks!\""
  }
 ]
