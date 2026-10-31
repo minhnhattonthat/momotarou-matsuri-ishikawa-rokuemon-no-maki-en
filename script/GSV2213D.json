@@ -3,24 +3,24 @@
   "id": "GSV2213D/2/001E",
   "kind": "msg",
   "jp": "「あっ　桃太郎さん！\n　おひさしぶりです\n　タニシの助です」{KP}\n　\n「村に　帰って来たら\n　こんな状態でした！\n　ひどいもんです…」",
-  "en": ""
+  "en": "\"Oh, Momotaro-san! Long time no see! It's me, Tanishinosuke!\"{KP}\"I came back to the village and found it like this! It's terrible...\""
  },
  {
   "id": "GSV2213D/2/00BA",
   "kind": "msg",
   "jp": "「桃太郎さん\n　ありがとうございます！」\n　{KP}\n「もう　見ることを\n　あきらめていた　七夕祭りを\n　見ることが　できました！」{KP}\n　\n「お礼に　家宝の\n　{bb}徳の茶わん{ww}を　さしあげます！」\n　",
-  "en": ""
+  "en": "\"Momotaro-san, thank you!\"{KP}\"I'd given up on ever seeing the Tanabata Festival again, but I got to see it!\"{KP}\"As thanks, I'll give you our family heirloom, the {bb}Virtue Bowl{ww}!\""
  },
  {
   "id": "GSV2213D/2/0194",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}徳の茶わん{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Virtue Bowl{ww}!{KN}"
  },
  {
   "id": "GSV2213D/2/01DA",
   "kind": "msg",
   "jp": "「桃太郎さん\n　ありがとうございます！」\n　{KP}\n「もう　見ることを\n　あきらめていた　七夕祭りを\n　見ることが　できました！」",
-  "en": ""
+  "en": "\"Momotaro-san, thank you!\"{KP}\"I'd given up on ever seeing the Tanabata Festival again, but I got to see it!\""
  }
 ]

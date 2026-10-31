@@ -3,162 +3,162 @@
   "id": "M270D/12/0002",
   "kind": "msg",
   "jp": "ゲームを　続けますか？\n　{KN}",
-  "en": ""
+  "en": "Continue the game?{KN}"
  },
  {
   "id": "M270D/13/000A",
   "kind": "msg",
   "jp": "えんやとっとレースの　遊び方\n　{KP}\n○ボタン　×ボタンを　連打して\n船を　こいでください！{KP}\n方向キーの　上下で\nコースを　変えられます！{KP}\nおじゃまキャラを　よけて\nゴールめざしましょう！",
-  "en": ""
+  "en": "How to Play Heave-Ho Race{KP}Mash the Circle and X buttons to row the boat!{KP}Change lanes with up and down on the directional buttons!{KP}Dodge the pesky obstacles and head for the goal!"
  },
  {
   "id": "M270D/13/00E0",
   "kind": "msg",
   "jp": "ではゲームスタートです！\n　",
-  "en": ""
+  "en": "Now, game start!"
  },
  {
   "id": "M270D/13/0116",
   "kind": "msg",
   "jp": "ではゲームを　プレイしますか？\n　{KN}",
-  "en": ""
+  "en": "Would you like to play the game?{KN}"
  },
  {
   "id": "M270D/14/000A",
   "kind": "msg",
   "jp": "えんやとっとレース！\n対戦ゲームの　説明です！{KP}\n○ボタン　×ボタンを　連打して\n舟を　こいでください！{KP}\n方向キーの　上下で\nコースを　変えられます！{KP}\n風神コインを　取ると\n対戦相手に　風神が　とりつきます！{KP}\n風神の　強い風に　当たると\n舟の　速度が　遅くなります！{KP}\nもちろん！　相手より　早く\nゴールしたら　勝ちです！{KP}\nがんばって　舟を　こいでください！\n　{KP}\n１Ｐは　桃太郎さん\n２Ｐは　金太郎さんです！",
-  "en": ""
+  "en": "Heave-Ho Race! Here's how the versus game works!{KP}Mash the Circle and X buttons to row the boat!{KP}Change lanes with up and down on the directional buttons!{KP}Grab a Fujin coin, and Fujin will haunt your opponent!{KP}Get hit by Fujin's strong wind, and your boat slows down!{KP}And of course, whoever reaches the goal first wins!{KP}Do your best and row that boat!{KP}1P is Momotaro-san, and 2P is Kintaro-san!"
  },
  {
   "id": "M270D/14/01CC",
   "kind": "msg",
   "jp": "ではゲームスタートです！\n　",
-  "en": ""
+  "en": "Now, game start!"
  },
  {
   "id": "M270D/14/0202",
   "kind": "msg",
   "jp": "ではゲームを　プレイしますか？\n　{KN}",
-  "en": ""
+  "en": "Would you like to play the game?{KN}"
  },
  {
   "id": "M270D/15/000A",
   "kind": "msg",
   "jp": "えんやとっとレース！\n４人対戦の　説明です！{KP}\n桃太郎＋浦島チーム！\n金太郎＋夜叉姫チームで　勝負します！{KP}\n桃太郎さんと　金太郎さんは\n○×ボタンで　舟を　こいでください！{KP}\n浦島さんと　夜叉姫さんは\nじゃま者を　上下に　よけてください！{KP}\n早く　ゴールしたチームが　勝ちです！\n　{KP}\n息をあわせて　テンポよく\n舟を　こいでくださいね！{KP}\n１Ｐは　桃太郎さん\n２Ｐは　金太郎さん{KP}\n３Ｐは　浦島さん\n４Ｐは　夜叉姫さんです！",
-  "en": ""
+  "en": "Heave-Ho Race! Here's how the 4-player game works!{KP}It's Team Momotaro and Urashima versus Team Kintaro and Yashahime!{KP}Momotaro-san and Kintaro-san, row the boat with the Circle and X buttons!{KP}Urashima-san and Yashahime-san, move up and down to dodge the obstacles!{KP}The team that reaches the goal first wins!{KP}Work together and row with a good rhythm!{KP}1P is Momotaro-san, and 2P is Kintaro-san,{KP}3P is Urashima-san, and 4P is Yashahime-san!"
  },
  {
   "id": "M270D/15/01D4",
   "kind": "msg",
   "jp": "ではゲームスタートです！\n　",
-  "en": ""
+  "en": "Now, game start!"
  },
  {
   "id": "M270D/15/020A",
   "kind": "msg",
   "jp": "ではゲームを　プレイしますか？\n　{KN}",
-  "en": ""
+  "en": "Would you like to play the game?{KN}"
  },
  {
   "id": "M270D/16/0046",
   "kind": "msg",
   "jp": "今回は{R2}段でした\n　",
-  "en": ""
+  "en": "This time you got level {R2}."
  },
  {
   "id": "M270D/16/006C",
   "kind": "msg",
   "jp": "今回は初段でした\n　",
-  "en": ""
+  "en": "This time you got level 1."
  },
  {
   "id": "M270D/16/0092",
   "kind": "msg",
   "jp": "今回は免許皆伝でした\n　",
-  "en": ""
+  "en": "This time you got Full Mastery."
  },
  {
   "id": "M270D/16/00BC",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n新記録ですよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! It's a new record!!{KP}Keep up the good work!"
  },
  {
   "id": "M270D/16/0134",
   "kind": "msg",
   "jp": "今回は{R2}段でした\n　",
-  "en": ""
+  "en": "This time you got level {R2}."
  },
  {
   "id": "M270D/16/015A",
   "kind": "msg",
   "jp": "今回は初段でした\n　",
-  "en": ""
+  "en": "This time you got level 1."
  },
  {
   "id": "M270D/16/0180",
   "kind": "msg",
   "jp": "今回は免許皆伝でした\n　",
-  "en": ""
+  "en": "This time you got Full Mastery."
  },
  {
   "id": "M270D/16/01BA",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n段位更新ですよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! Your level went up!!{KP}Keep up the good work!"
  },
  {
   "id": "M270D/16/0224",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n初段に　なりましたよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! You reached level 1!!{KP}Keep up the good work!"
  },
  {
   "id": "M270D/16/0294",
   "kind": "msg",
   "jp": "桃太郎さん　おめでとうございます！\n免許皆伝に　なりましたよ！！{KP}\nごほうびとして\n{bb}方言カード{ww}が　１枚　もらえます！",
-  "en": ""
+  "en": "Congratulations, Momotaro-san! You've reached Full Mastery!!{KP}As a reward, you get one {bb}Dialect Card{ww}!"
  },
  {
   "id": "M270D/16/0320",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０４１{ww}を　手に入れた！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 041{ww}!{KP}Keep up the good work!"
  },
  {
   "id": "M270D/17/0002",
   "kind": "msg",
   "jp": "このゲームを\nもう一度　遊びますか？{KN}",
-  "en": ""
+  "en": "Play this game again?{KN}"
  },
  {
   "id": "M270D/18/000A",
   "kind": "msg",
   "jp": "「桃太郎さん！　風神　雷神に\n　勝てるように　がんばるのだぞ！」",
-  "en": ""
+  "en": "\"Momotaro-san! Do your best so you can beat Fujin and Raijin!\""
  },
  {
   "id": "M270D/18/005C",
   "kind": "msg",
   "jp": "「風神　雷神に　勝って\n　記録を　のばすのだ！」",
-  "en": ""
+  "en": "\"Beat Fujin and Raijin and improve your record!\""
  },
  {
   "id": "M270D/19/0012",
   "kind": "msg",
   "jp": "やりましたね！\n桃太郎さんの　勝ちです！",
-  "en": ""
+  "en": "You did it! Momotaro-san wins!"
  },
  {
   "id": "M270D/19/004C",
   "kind": "msg",
   "jp": "おしかったですね！\n勝負は　引き分けです！",
-  "en": ""
+  "en": "So close! The match is a draw!"
  },
  {
   "id": "M270D/19/0088",
   "kind": "msg",
   "jp": "残念ですが\n桃太郎さんの　負けです…",
-  "en": ""
+  "en": "Too bad... Momotaro-san loses..."
  }
 ]

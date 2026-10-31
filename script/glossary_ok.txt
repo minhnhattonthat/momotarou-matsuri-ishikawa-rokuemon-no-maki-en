@@ -1,0 +1,3 @@
+# Reviewed exceptions to the glossary/honorific check: id<TAB>JP term<TAB>reason
+GSV3410D/2/03EE	サル	inside the names サル次郎 Sarujiro, not the companion Monkey
+GSV3410D/3/0050	サル	inside the names サル次郎/サル太郎 Sarujiro/Sarutaro

@@ -3,132 +3,132 @@
   "id": "M400D/14/0002",
   "kind": "msg",
   "jp": "ゲームを　続けますか？\n　{KN}",
-  "en": ""
+  "en": "Continue the game?{KN}"
  },
  {
   "id": "M400D/15/000A",
   "kind": "msg",
   "jp": "カキ氷きーーーん！の　遊び方\n　{KP}\n○ボタン　×ボタンを　押して\nカキ氷を　たくさん作ってください！{KP}\nひたすら　○ボタンと　×ボタンを\n押しまくりです！{KP}\nがんばりすぎて　指を　痛めないように\n注意してくださいね！",
-  "en": ""
+  "en": "How to Play Brain Freeze Ice Freeeeze!{KP}Press the Circle and X buttons to make lots of shaved ice!{KP}Just keep pounding the Circle and X buttons!{KP}Don't overdo it and hurt your fingers, okay?"
  },
  {
   "id": "M400D/15/00FA",
   "kind": "msg",
   "jp": "ではゲームスタートです！\n　",
-  "en": ""
+  "en": "Now, game start!"
  },
  {
   "id": "M400D/15/0130",
   "kind": "msg",
   "jp": "ではゲームを　プレイしますか？\n　{KN}",
-  "en": ""
+  "en": "Would you like to play the game?{KN}"
  },
  {
   "id": "M400D/16/000A",
   "kind": "msg",
   "jp": "カキ氷きーーーん！{KP}\n対戦ゲームの　説明です！\n○ボタン　×ボタンを　押して\nカキ氷を　たくさん作ってください！{KP}\nひたすら　○ボタンと　×ボタンを\n押しまくりです！{KP}\nがんばりすぎて　指を　痛めないように\n注意してくださいね！{KP}\n１Ｐは　桃太郎さん\n２Ｐは　金太郎さんです！",
-  "en": ""
+  "en": "Brain Freeze Ice Freeeeze!{KP}Here's how the versus game works! Press the Circle and X buttons to make lots of shaved ice!{KP}Just keep pounding the Circle and X buttons!{KP}Don't overdo it and hurt your fingers, okay?{KP}1P is Momotaro-san, and 2P is Kintaro-san!"
  },
  {
   "id": "M400D/16/0138",
   "kind": "msg",
   "jp": "ではゲームスタートです！\n　",
-  "en": ""
+  "en": "Now, game start!"
  },
  {
   "id": "M400D/16/016E",
   "kind": "msg",
   "jp": "ではゲームを　プレイしますか？\n　{KN}",
-  "en": ""
+  "en": "Would you like to play the game?{KN}"
  },
  {
   "id": "M400D/17/000A",
   "kind": "msg",
   "jp": "カキ氷きーーーん！\n４人対戦ゲームの　説明です！{KP}\n○ボタン　×ボタンを　押して\nカキ氷を　作りましょう！{KP}\n作る人も　食べる人も\n○ボタン　×ボタンを　連打です！{KP}\n頭が　キーーーン！となるような\nカキ氷を　作ってくださいね！{KP}\n１Ｐは　桃太郎さん\n２Ｐは　金太郎さん{KP}\n３Ｐは　浦島さん\n４Ｐは　夜叉姫さんです！",
-  "en": ""
+  "en": "Brain Freeze Ice Freeeeze! Here's how the 4-player game works!{KP}Press the Circle and X buttons to make shaved ice!{KP}Makers and eaters alike, mash the Circle and X buttons!{KP}Make shaved ice that gives everyone a brain freeeeze!{KP}1P is Momotaro-san, and 2P is Kintaro-san,{KP}3P is Urashima-san, and 4P is Yashahime-san!"
  },
  {
   "id": "M400D/17/0162",
   "kind": "msg",
   "jp": "ではゲームスタートです！\n　",
-  "en": ""
+  "en": "Now, game start!"
  },
  {
   "id": "M400D/17/0198",
   "kind": "msg",
   "jp": "ではゲームを　プレイしますか？\n　{KN}",
-  "en": ""
+  "en": "Would you like to play the game?{KN}"
  },
  {
   "id": "M400D/18/0046",
   "kind": "msg",
   "jp": "今回は{R2}段でした\n　",
-  "en": ""
+  "en": "This time you got level {R2}."
  },
  {
   "id": "M400D/18/006C",
   "kind": "msg",
   "jp": "今回は初段でした\n　",
-  "en": ""
+  "en": "This time you got level 1."
  },
  {
   "id": "M400D/18/0092",
   "kind": "msg",
   "jp": "今回は免許皆伝でした\n　",
-  "en": ""
+  "en": "This time you got Full Mastery."
  },
  {
   "id": "M400D/18/00BC",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n新記録ですよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! It's a new record!!{KP}Keep up the good work!"
  },
  {
   "id": "M400D/18/0134",
   "kind": "msg",
   "jp": "今回は{R2}段でした\n　",
-  "en": ""
+  "en": "This time you got level {R2}."
  },
  {
   "id": "M400D/18/015A",
   "kind": "msg",
   "jp": "今回は初段でした\n　",
-  "en": ""
+  "en": "This time you got level 1."
  },
  {
   "id": "M400D/18/0180",
   "kind": "msg",
   "jp": "今回は免許皆伝でした\n　",
-  "en": ""
+  "en": "This time you got Full Mastery."
  },
  {
   "id": "M400D/18/01BA",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n段位更新ですよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! Your level went up!!{KP}Keep up the good work!"
  },
  {
   "id": "M400D/18/0224",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n初段に　なりましたよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! You reached level 1!!{KP}Keep up the good work!"
  },
  {
   "id": "M400D/18/0294",
   "kind": "msg",
   "jp": "桃太郎さん　おめでとうございます！\n免許皆伝に　なりましたよ！！{KP}\nごほうびとして\n{bb}方言カード{ww}が　１枚　もらえます！",
-  "en": ""
+  "en": "Congratulations, Momotaro-san! You've reached Full Mastery!!{KP}As a reward, you get one {bb}Dialect Card{ww}!"
  },
  {
   "id": "M400D/18/0320",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０８２{ww}を　手に入れた！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 082{ww}!{KP}Keep up the good work!"
  },
  {
   "id": "M400D/19/0002",
   "kind": "msg",
   "jp": "このゲームを\nもう一度　遊びますか？{KN}",
-  "en": ""
+  "en": "Play this game again?{KN}"
  }
 ]

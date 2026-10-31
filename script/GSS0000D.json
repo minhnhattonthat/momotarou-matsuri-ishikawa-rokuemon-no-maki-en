@@ -3,36 +3,36 @@
   "id": "GSS0000D/2/001E",
   "kind": "msg",
   "jp": "「こんにちわ　桃太郎さん！\n　わしは　{bb}たのきゅう{ww}と\n　申します！」{KP}\n　\n「いえいえ　たぬきではなく\n　{bb}たのきゅう{ww}です！」\n　{KP}\n「{bb}おむすび村{ww}なら\n　北東の方向ですよ！」\n　",
-  "en": ""
+  "en": "\"Hello, Momotaro-san! My name is {bb}Tanokyu{ww}!\"{KP}\"No, no, not tanuki! {bb}Tanokyu{ww}!\"{KP}\"If you're looking for {bb}Omusubi Village{ww}, it's off to the northeast!\""
  },
  {
   "id": "GSS0000D/2/0102",
   "kind": "msg",
   "jp": "「えっ！？\n　また　あの　{bb}白蛇鬼{ww}が\n　悪さを　しているのかねぇ！」{KP}\n　\n「それなら　桃太郎さん\n　この　{bb}けむり玉{ww}を\n　使いなせぇ！」{KP}\n　\n「あやつは　けむりが\n　きらいだから！」\n　",
-  "en": ""
+  "en": "\"What?! That {bb}White Snake Oni{ww} is up to no good again?!\"{KP}\"In that case, Momotaro-san, use this {bb}Smoke Bomb{ww}!\"{KP}\"That fella can't stand smoke!\""
  },
  {
   "id": "GSS0000D/2/01E0",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}けむり玉{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Smoke Bomb{ww}!{KN}"
  },
  {
   "id": "GSS0000D/2/0236",
   "kind": "msg",
   "jp": "「桃太郎さん！　がんばるだ！」\n　\n　",
-  "en": ""
+  "en": "\"Momotaro-san! Give it your best!\""
  },
  {
   "id": "GSS0000D/2/026E",
   "kind": "msg",
   "jp": "「{bb}けむり玉{ww}があれば　きっと\n　{bb}白蛇鬼{ww}は　にげ出すはずだ！」\n　",
-  "en": ""
+  "en": "\"With the {bb}Smoke Bomb{ww}, the {bb}White Snake Oni{ww} is sure to run off!\""
  },
  {
   "id": "GSS0000D/2/02C6",
   "kind": "msg",
   "jp": "「うまくいきましたか？\n　桃太郎さん！」\n　{KP}\n「これで　もう　白蛇鬼は\n　こりたでしょうねぇ！」\n　",
-  "en": ""
+  "en": "\"Did it go well, Momotaro-san?\"{KP}\"That White Snake Oni must have learned his lesson by now!\""
  }
 ]

@@ -3,43 +3,43 @@
   "id": "GSF0501D/3/0034",
   "kind": "msg",
   "jp": "「この下の　フロアに　{bb}雪女さま{ww}が\n　おられます」\n　{KP}\n「しかし　これより　先には\n　お通しできません！」\n　",
-  "en": ""
+  "en": "\"{bb}Yuki-onna-sama{ww} is on the floor below.\"{KP}\"But I can't let you go any further!\""
  },
  {
   "id": "GSF0501D/3/00BC",
   "kind": "msg",
   "jp": "「この下の　フロアに　{bb}雪女さま{ww}が\n　おられます！」\n　{KP}\n「あっ！　ユキだるまさん\n　どこに　行っていたのですか？」\n　{KP}\n「{bb}雪女さま{ww}が　さがして\n　いましたよ！」\n　",
-  "en": ""
+  "en": "\"{bb}Yuki-onna-sama{ww} is on the floor below!\"{KP}\"Oh! Snowman-san, where have you been?\"{KP}\"{bb}Yuki-onna-sama{ww} has been looking for you!\""
  },
  {
   "id": "GSF0501D/3/0184",
   "kind": "msg",
   "jp": "「えへっ！　ちょっとね！」\n　\n　{KP}\n「それより　桃太郎さんたちを\n　{bb}雪女さま{ww}の　ところに\n　お連れするの！」",
-  "en": ""
+  "en": "\"Hehe! Just around!\"{KP}\"More importantly, I'm taking Momotaro-san and the others to {bb}Yuki-onna-sama{ww}!\""
  },
  {
   "id": "GSF0501D/3/020A",
   "kind": "msg",
   "jp": "「ハイ　かしこまりました！」\n　\n　",
-  "en": ""
+  "en": "\"Yes, understood!\""
  },
  {
   "id": "GSF0501D/3/0284",
   "kind": "msg",
   "jp": "「この下の　フロアが\n　雪女さまの　住まい　です！」\n　",
-  "en": ""
+  "en": "\"The floor below is Yuki-onna-sama's home!\""
  },
  {
   "id": "GSF0501D/3/02CE",
   "kind": "msg",
   "jp": "「雪女さまが　お考えになった\n　ゆうぎ　{bb}ＧＯ！ＧＯ！茶釜リング{ww}は\n　こちらで　遊べます！」{KP}\n　\n「{bb}ＧＯ！ＧＯ！茶釜リング{ww}に\n　ちょうせん　しますか？」\n　{KN}",
-  "en": ""
+  "en": "\"You can play the game Yuki-onna-sama thought up, {bb}GO! GO! Kettle Ring{ww}, right here!\"{KP}\"Will you take on {bb}GO! GO! Kettle Ring{ww}?\"{KN}"
  },
  {
   "id": "GSF0501D/3/0398",
   "kind": "msg",
   "jp": "「ハイ　それでは\n　がんばってください！」\n　",
-  "en": ""
+  "en": "\"All right then, do your best!\""
  },
  {
   "id": "GSF0501D/3/03D6",
@@ -51,6 +51,6 @@
   "id": "GSF0501D/3/043A",
   "kind": "msg",
   "jp": "「そうですか\n　では　またの機会に　どうぞ！」\n　",
-  "en": ""
+  "en": "\"I see. Well, another time, then!\""
  }
 ]

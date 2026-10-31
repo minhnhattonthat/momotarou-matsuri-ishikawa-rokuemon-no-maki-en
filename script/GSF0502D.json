@@ -3,43 +3,43 @@
   "id": "GSF0502D/2/001E",
   "kind": "msg",
   "jp": "「なんですか！　あなたたちは\n　かってに　わたしの　部屋に\n　入ってきて」{KP}\n　\n「早く　出ていかないと\n　ふぶきの術で　ふきとばして\n　しまいますよ！」",
-  "en": ""
+  "en": "\"What is this?! You, barging into my room without permission...\"{KP}\"Leave at once, or I'll blow you away with my Blizzard art!\""
  },
  {
   "id": "GSF0502D/2/00CE",
   "kind": "msg",
   "jp": "「待ってください！\n　雪女さま！！」\n　",
-  "en": ""
+  "en": "\"Please wait! Yuki-onna-sama!!\""
  },
  {
   "id": "GSF0502D/2/0106",
   "kind": "msg",
   "jp": "「ユキだるま！\n　どこに　行っていたの？」\n　{KP}\n「あなたを\n　さがしていたのですよ！」\n　",
-  "en": ""
+  "en": "\"Snowman! Where have you been?\"{KP}\"I've been looking for you!\""
  },
  {
   "id": "GSF0502D/2/0176",
   "kind": "msg",
   "jp": "「ごめんなしゃい！\n　さっきまで\n　ひょうたんの森で」{KP}\n　\n「ひょうたんに\n　とじこめられて　いたの！」\n　{KP}\n「そこで　桃太郎さんたちに\n　助けて　もらいましたの！」\n　{KP}\n「雪女さま………\n　桃太郎さんたちが　\n　お願いが　あるそうです！」",
-  "en": ""
+  "en": "\"I'm sowwy! Until just now, in Gourd Forest,\"{KP}\"I was trapped inside a gourd!\"{KP}\"Momotaro-san and the others rescued me there!\"{KP}\"Yuki-onna-sama......... Momotaro-san and the others have a favor to ask!\""
  },
  {
   "id": "GSF0502D/2/028A",
   "kind": "msg",
   "jp": "　桃太郎は\n　寝太郎の村の話をした！\n　",
-  "en": ""
+  "en": "Momotaro told her about Netaro Village!"
  },
  {
   "id": "GSF0502D/2/02C2",
   "kind": "msg",
   "jp": "「………わかりました！」\n　\n　{KP}\n「わたしは　人を　信じずに\n　生きてきた女……」\n　{KP}\n「桃太郎さん！\n　あなたの　ちからを\n　ためさせて　もらいます！」{KP}\n　\n　\n「わたしの　考えた　ゆうぎ\n　{bb}ＧＯ！ＧＯ！茶釜リング{ww}で\n　１５００点以上　取ったら」{KP}\n　\n「あなたの　願いを\n　聞いてあげましょう！」\n　{KP}\n「さあ！　わたしの　ゆうぎ\n　{bb}ＧＯ！ＧＯ！茶釜リング{ww}に\n　ちょうせん　しますか？」{KN}",
-  "en": ""
+  "en": "\".........I understand!\"{KP}\"I am a woman who has lived her life trusting no one......\"{KP}\"Momotaro-san! Allow me to test your strength!\"{KP}\"If you score 1500 points or more in my game, {bb}GO! GO! Kettle Ring{ww},\"{KP}\"I will grant your wish!\"{KP}\"Now! Will you take on my game, {bb}GO! GO! Kettle Ring{ww}?\"{KN}"
  },
  {
   "id": "GSF0502D/2/0490",
   "kind": "msg",
   "jp": "　\n「わかりました！\n　それでは\n　がんばってください！」",
-  "en": ""
+  "en": "\"Very well! Then do your best!\""
  },
  {
   "id": "GSF0502D/2/04DC",
@@ -51,19 +51,19 @@
   "id": "GSF0502D/2/0540",
   "kind": "msg",
   "jp": "　\n「そうですか……\n　やはり　人間は\n　信じられませんね！」",
-  "en": ""
+  "en": "\"I see...... Humans truly can't be trusted, after all!\""
  },
  {
   "id": "GSF0502D/2/0592",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　{bb}ＧＯ！ＧＯ！茶釜リング{ww}に\n　ちょうせん　しますか？」{KN}",
-  "en": ""
+  "en": "\"Momotaro-san! Will you take on {bb}GO! GO! Kettle Ring{ww}?\"{KN}"
  },
  {
   "id": "GSF0502D/2/05FC",
   "kind": "msg",
   "jp": "「わかりました！\n　それでは\n　がんばってください！」",
-  "en": ""
+  "en": "\"Very well! Then do your best!\""
  },
  {
   "id": "GSF0502D/2/0642",
@@ -75,13 +75,13 @@
   "id": "GSF0502D/2/06A6",
   "kind": "msg",
   "jp": "「そうですか……\n　やはり　人間は\n　信じられませんね！」",
-  "en": ""
+  "en": "\"I see...... Humans truly can't be trusted, after all!\""
  },
  {
   "id": "GSF0502D/2/0700",
   "kind": "msg",
   "jp": "「よく　がんばりましたね\n　桃太郎さん！」\n　{KP}\n「わたしは　人を　信じずに\n　生きてきた女………」\n　{KP}\n「でも　桃太郎さん！\n　あなたの　愛と　勇気を\n　信じてみたくなりました！」{KP}\n　\n「ユキだるまを　助け\n　さらに　多くの　人を\n　助けようとする　愛に……」",
-  "en": ""
+  "en": "\"You did very well, Momotaro-san!\"{KP}\"I am a woman who has lived her life trusting no one.........\"{KP}\"But, Momotaro-san! I find I want to believe in your love and courage!\"{KP}\"In the love that saved Snowman, and that seeks to save even more people......\""
  },
  {
   "id": "GSF0502D/2/0828",
@@ -93,12 +93,12 @@
   "id": "GSF0502D/2/084A",
   "kind": "msg",
   "jp": "「では　桃太郎さん！\n　寝太郎の村に　行きましょう」\n　",
-  "en": ""
+  "en": "\"Now, Momotaro-san! Let us go to Netaro Village.\""
  },
  {
   "id": "GSF0502D/2/0892",
   "kind": "msg",
   "jp": "{bb}雪女{ww}が\n仲間に　くわわった！\n　{KN}",
-  "en": ""
+  "en": "{bb}Yuki-onna{ww} joined the party!{KN}"
  }
 ]

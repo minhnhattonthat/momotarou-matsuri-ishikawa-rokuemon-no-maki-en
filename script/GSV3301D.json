@@ -3,66 +3,66 @@
   "id": "GSV3301D/2/0018",
   "kind": "msg",
   "jp": "「船員以外の方は\n　この　はしごを　のぼれません！\n　ふん！」",
-  "en": ""
+  "en": "\"Only crew members may climb this ladder! Hmph!\""
  },
  {
   "id": "GSV3301D/2/0070",
   "kind": "msg",
   "jp": "「あんたの　オナラは\n　最悪だーーーっ！」\n　",
-  "en": ""
+  "en": "\"Your farts are the worst!\""
  },
  {
   "id": "GSV3301D/2/00B8",
   "kind": "msg",
   "jp": "「く　くっさー！\n　これは　たまらん！」\n　",
-  "en": ""
+  "en": "\"P-phew, the stink! I can't take it!\""
  },
  {
   "id": "GSV3301D/3/0010",
   "kind": "msg",
   "jp": "「この舟は　{bb}龍の島{ww}の　{bb}小太郎の村{ww}と\n　{bb}寝太郎の村{ww}を　むすぶ　荷役船です」\n　{KP}\n「たまに　遠くまで　行くことも\n　ありますよ！」\n　{KP}\n「でも　今は　こんな状態で\n　情けないっすよ！」\n　",
-  "en": ""
+  "en": "\"This boat is a cargo ship running between {bb}Kotaro Village{ww} on {bb}Dragon Island{ww} and {bb}Netaro Village{ww}.\"{KP}\"Sometimes we go far away, too!\"{KP}\"But look at it now. It's pathetic!\""
  },
  {
   "id": "GSV3301D/3/00F2",
   "kind": "msg",
   "jp": "「やったぜ！　いよいよ　出航か！\n　いそがしくなるぜ！」\n　",
-  "en": ""
+  "en": "\"All right! We're finally setting sail! Things are gonna get busy!\""
  },
  {
   "id": "GSV3301D/4/0010",
   "kind": "msg",
   "jp": "「ん～　こうなったら\n　歩いて　寝太郎の村に\n　行ってみるかな！」{KP}\n　\n「でも　あっしは　雪が\n　初めてだからなぁ！」\n　{KP}\n「それにしても　あの　はしごの\n　所にいる　船員は　オレが\n　ちょっと　オナラしただけで」{KP}\n　\n「すげ～～　いやな顔\n　するんだぜ！」\n　",
-  "en": ""
+  "en": "\"Hmm, at this rate, maybe I'll just walk to Netaro Village!\"{KP}\"But this'll be my first time seeing snow!\"{KP}\"Anyway, that sailor by the ladder, just because I farted a little,\"{KP}\"he makes the nastiest face at me!\""
  },
  {
   "id": "GSV3301D/4/013E",
   "kind": "msg",
   "jp": "「やっと　動くのかい！\n　文句を　言ってやりたいけど」\n　{KP}\n「あの　{bb}かしら{ww}\n　こわいんだよなぁ～」\n　",
-  "en": ""
+  "en": "\"Finally moving, huh! I'd like to give 'em a piece of my mind, but\"{KP}\"that {bb}Boss{ww} is scary...\""
  },
  {
   "id": "GSV3301D/5/0010",
   "kind": "msg",
   "jp": "「もう　寝太郎の村の　雪祭りを\n　見に行くために　この舟に\n　乗ったのよ！」{KP}\n　\n「そうしたら　ごらんの\n　ありさまよ！　まったく！！」\n　",
-  "en": ""
+  "en": "\"Honestly! I got on this boat to go see the Snow Festival in Netaro Village!\"{KP}\"And look what happened! Really!!\""
  },
  {
   "id": "GSV3301D/5/00B6",
   "kind": "msg",
   "jp": "「やっと　動くの？\n　待ちくたびれちゃったわよ\n　もう！」",
-  "en": ""
+  "en": "\"Is it finally moving? I'm sick of waiting, honestly!\""
  },
  {
   "id": "GSV3301D/6/0076",
   "kind": "msg",
   "jp": "「おうっ！　じゃまでぇ！\n　もう少し　待ってなって！」\n　",
-  "en": ""
+  "en": "\"Hey! You're in the way! Just wait a little longer!\""
  },
  {
   "id": "GSV3301D/6/00CA",
   "kind": "msg",
   "jp": "「おう　桃太郎さん！\n　もう少しで　おわるぜ！」\n　",
-  "en": ""
+  "en": "\"Hey, Momotaro-san! I'm almost done!\""
  }
 ]

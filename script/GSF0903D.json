@@ -3,7 +3,7 @@
   "id": "GSF0903D/2/0032",
   "kind": "msg",
   "jp": "「なんだ　おまえはー！\n　アタイの　家に　勝手に\n　入ってくるなー！」{KP}\n　\n「子どもたちは　返さないぞー！」\n　\n　",
-  "en": ""
+  "en": "\"Who are you?! Don't come barging into my house!\"{KP}\"I'm not giving the children back!\""
  },
  {
   "id": "GSF0903D/2/00DA",
@@ -15,102 +15,102 @@
   "id": "GSF0903D/2/014C",
   "kind": "msg",
   "jp": "「ぐわー！　何をするー！」\n　\n　{KP}\n「お　おまえは　桃太郎！\n　えっ！　何で　子どもたちを\n　さらうだと？」{KP}\n　\n「そ　それは　アタイの\n　子どもが　どこかに　行って\n　帰って来なく　なって…」{KP}\n　\n「さがしているうちに\n　さびしさに　負けて　人間の\n　子どもを　さらうように…」{KP}\n　\n「……桃太郎よ！\n　わが子を　さがしてくれ！」\n　{KP}\n「それまで　この\n　子どもたちは　返さぬぞ！」\n　",
-  "en": ""
+  "en": "\"Gwaah! What are you doing?!\"{KP}\"Y-you're Momotaro! Wh-what? Why am I kidnapping children, you ask?\"{KP}\"W-well... my child went off somewhere and never came back...\"{KP}\"While I was searching, I gave in to loneliness and started kidnapping human children...\"{KP}\"......Momotaro! Find my child!\"{KP}\"Until then, I will not return these children!\""
  },
  {
   "id": "GSF0903D/2/0334",
   "kind": "msg",
   "jp": "「……桃太郎よ！\n　わが子を　さがしてくれ！」\n　{KP}\n「それまで　この\n　子どもたちは　返さぬぞ！」\n　",
-  "en": ""
+  "en": "\"......Momotaro! Find my child!\"{KP}\"Until then, I will not return these children!\""
  },
  {
   "id": "GSF0903D/3/0002",
   "kind": "msg",
   "jp": "「かあちゃんに　あやまったら\n　ゆるしてくれたよ！」\n　",
-  "en": ""
+  "en": "\"I said sorry to my mom, and she forgave me!\""
  },
  {
   "id": "GSF0903D/4/0010",
   "kind": "msg",
   "jp": "「あ～ん　こわいよー！」\n　\n　",
-  "en": ""
+  "en": "\"Waaah, I'm scared!\""
  },
  {
   "id": "GSF0903D/4/0050",
   "kind": "msg",
   "jp": "「およ？　おばちゃんの　顔が\n　こわくなくなったよ！」\n　",
-  "en": ""
+  "en": "\"Huh? The lady's face isn't scary anymore!\""
  },
  {
   "id": "GSF0903D/4/009C",
   "kind": "msg",
   "jp": "「わーい！\n　鬼ごっこ　しているんだ！」\n　",
-  "en": ""
+  "en": "\"Yaaay! We're playing oni tag!\""
  },
  {
   "id": "GSF0903D/5/0010",
   "kind": "msg",
   "jp": "「えーん　えーん！\n　体が　いうこと　きかないよ～！」",
-  "en": ""
+  "en": "\"Waah, waah! My body won't do what I tell it!\""
  },
  {
   "id": "GSF0903D/5/0056",
   "kind": "msg",
   "jp": "「あららら？\n　体が　自由に　動くわ！」\n　",
-  "en": ""
+  "en": "\"Oh my? I can move freely again!\""
  },
  {
   "id": "GSF0903D/6/0010",
   "kind": "msg",
   "jp": "「いや～ん　こわいよー！」\n　\n　",
-  "en": ""
+  "en": "\"Nooo, I'm scared!\""
  },
  {
   "id": "GSF0903D/6/0052",
   "kind": "msg",
   "jp": "「あれ～？　おばちゃんの　顔が\n　こわくなくなったよ！」\n　",
-  "en": ""
+  "en": "\"Huh? The lady's face isn't scary anymore!\""
  },
  {
   "id": "GSF0903D/6/00A0",
   "kind": "msg",
   "jp": "「わ～い！\n　鬼ごっこ　しているのよ！」\n　",
-  "en": ""
+  "en": "\"Yaaay! We're playing oni tag!\""
  },
  {
   "id": "GSF0903D/7/0010",
   "kind": "msg",
   "jp": "「あ～ん　体が　動かないよ～！」\n　\n　",
-  "en": ""
+  "en": "\"Waah, my body won't move!\""
  },
  {
   "id": "GSF0903D/7/0058",
   "kind": "msg",
   "jp": "「あれれ？\n　体が　自由に　動くように\n　なったよ！」",
-  "en": ""
+  "en": "\"Huh? I can move my body freely now!\""
  },
  {
   "id": "GSF0903D/7/00A0",
   "kind": "msg",
   "jp": "「わーい！　鬼さん　こちら！」\n　\n　",
-  "en": ""
+  "en": "\"Yaaay! Oni-san, over here!\""
  },
  {
   "id": "GSF0903D/8/000E",
   "kind": "msg",
   "jp": "「わが子が\n　帰ってまいりました！」\n　{KP}\n「これからは　名を\n　{bb}鬼子母神{ww}と　改め」\n　{KP}\n「心を　入れかえて\n　子どもたちの　役に立つことを\n　していきます！」{KP}\n　\n「いろいろと　ごめいわくを\n　おかけして　ゴメンなさい！」\n　{KP}\n「おわびの　しるしに　この\n　{bb}方言カード{ww}を　さしあげます」\n　",
-  "en": ""
+  "en": "\"My child has come home!\"{KP}\"From now on, I will change my name to {bb}Kishibojin{ww},\"{KP}\"turn over a new leaf, and do things that help children!\"{KP}\"I'm so sorry for all the trouble I caused you!\"{KP}\"As a token of my apology, please take this {bb}Dialect Card{ww}.\""
  },
  {
   "id": "GSF0903D/8/0162",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０５２{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 052{ww}!{KN}"
  },
  {
   "id": "GSF0903D/8/01B6",
   "kind": "msg",
   "jp": "「これからは　心を　入れかえて\n　子どもたちの　役に立つことを\n　していきます！」",
-  "en": ""
+  "en": "\"From now on, I will turn over a new leaf and do things that help children!\""
  }
 ]

@@ -3,25 +3,25 @@
   "id": "GSS0600D/2/0026",
   "kind": "msg",
   "jp": "「おお　桃太郎か！」\n　\n　{KP}\n「フォフォフォ…！\n　わしは　{bb}ときかね仙人{ww}ぢゃ！」\n　{KP}\n「わしの　{bb}ときかねの術{ww}は\n　昼と　夜を　逆転させる術ぢゃ！」\n　{KP}\n「ただし\n　夜が長い村でしか　使えぬぞ！」\n　{KP}\n「この　{bb}ときかねの術{ww}を\n　覚えたいのか？\n　ただし　条件が　あるがのォ…」{KN}",
-  "en": ""
+  "en": "\"Oh, Momotaro, is it?\"{KP}\"Fohohoho...! I am the {bb}Time Bell Hermit{ww}!\"{KP}\"My {bb}Time Bell art{ww} is an art that swaps day and night!\"{KP}\"However, it can only be used in villages with long nights!\"{KP}\"Do you wish to learn this {bb}Time Bell art{ww}? There is a condition, though...\"{KN}"
  },
  {
   "id": "GSS0600D/2/017C",
   "kind": "msg",
   "jp": "　\n「では　この術を　授ける\n　かわりに　わしの　頼みを\n　聞いてもらおうかのぉ」{KP}\n　\n「最近　わしは　体が　おとろえて\n　きてしまったので　{bb}若返りの泉水{ww}を\n　飲みたくなったんぢゃ！」{KP}\n　\n「その　{bb}若返りの泉水{ww}を\n　持って来て　ほしいのぢゃ！」\n　{KP}\n「{bb}若返りの泉水{ww}が　どこに　あるかは\n　もう　知っているはずぢゃ！」\n　{KP}\n「頼んだぞ！　桃太郎！」\n　\n　",
-  "en": ""
+  "en": "\"Then, in exchange for granting you this art, I'll have you do me a favor.\"{KP}\"Lately my body has grown weak, so I've a hankering to drink the {bb}Water of Youth{ww}!\"{KP}\"I want you to bring me that {bb}Water of Youth{ww}!\"{KP}\"You should already know where the {bb}Water of Youth{ww} is!\"{KP}\"I'm counting on you, Momotaro!\""
  },
  {
   "id": "GSS0600D/2/0320",
   "kind": "msg",
   "jp": "　\n「ん！　必要に　なったら\n　いつでも　来るがよい！」\n　",
-  "en": ""
+  "en": "\"Mm! Come whenever you need it!\""
  },
  {
   "id": "GSS0600D/2/0370",
   "kind": "msg",
   "jp": "「おお　桃太郎よ！\n　{bb}若返りの泉水{ww}を　飲んだら\n　元気が　出てきたわい！」{KP}\n　\n「礼を　言うぞ！」\n　\n　{KP}\n「それと　{bb}ときかねの術{ww}は\n　夜が長い村でしか　使えぬから\n　気をつけるのぢゃぞ！」",
-  "en": ""
+  "en": "\"Oh, Momotaro! I drank the {bb}Water of Youth{ww}, and now I'm full of pep!\"{KP}\"You have my thanks!\"{KP}\"And remember, the {bb}Time Bell art{ww} only works in villages with long nights, so be careful!\""
  },
  {
   "id": "GSS0600D/2/0456",
@@ -33,30 +33,30 @@
   "id": "GSS0600D/2/0496",
   "kind": "msg",
   "jp": "「おお　桃太郎！\n　よくぞ　持ってきてくれたのォ！」\n　{KP}\n「フォフォフォ…！　では\n　{bb}ときかねの術{ww}を　授けよう！」\n　",
-  "en": ""
+  "en": "\"Oh, Momotaro! You've done well to bring it!\"{KP}\"Fohohoho...! Now, I shall grant you the {bb}Time Bell art{ww}!\""
  },
  {
   "id": "GSS0600D/2/052A",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}ときかねの術{ww}を　覚えた！\n　",
-  "en": ""
+  "en": "Momotaro learned the {bb}Time Bell art{ww}!"
  },
  {
   "id": "GSS0600D/2/056E",
   "kind": "msg",
   "jp": "「では　がんばるがいい\n　桃太郎よ！」\n　",
-  "en": ""
+  "en": "\"Now, do your best, Momotaro!\""
  },
  {
   "id": "GSS0600D/2/05BA",
   "kind": "msg",
   "jp": "「おお　桃太郎よ！\n　ん！？　これは　何かな？」\n　",
-  "en": ""
+  "en": "\"Oh, Momotaro! Hm?! What's this?\""
  },
  {
   "id": "GSS0600D/2/0600",
   "kind": "msg",
   "jp": "「{bb}若返りの泉水{ww}を\n　頼んだぞ！　桃太郎！！」\n　",
-  "en": ""
+  "en": "\"I'm counting on you for the {bb}Water of Youth{ww}, Momotaro!!\""
  }
 ]

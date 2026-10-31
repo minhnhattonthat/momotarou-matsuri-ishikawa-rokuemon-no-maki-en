@@ -3,7 +3,7 @@
   "id": "GSV3900D/1/0098",
   "kind": "caption",
   "jp": "サルカニの村",
-  "en": ""
+  "en": "Sarukani Village"
  },
  {
   "id": "GSV3900D/8/0002",
@@ -21,67 +21,67 @@
   "id": "GSV3900D/10/0010",
   "kind": "msg",
   "jp": "「キャッ　キャッ」\n　\n　",
-  "en": ""
+  "en": "\"Eek, eek!\""
  },
  {
   "id": "GSV3900D/10/003C",
   "kind": "msg",
   "jp": "「今では　カニさんと　仲良く\n　暮らしています！　キャッ　キャッ」\n　",
-  "en": ""
+  "en": "\"Now we live happily alongside the crabs! Eek, eek!\""
  },
  {
   "id": "GSV3900D/11/001E",
   "kind": "msg",
   "jp": "「カニ　カニ！」\n　\n　",
-  "en": ""
+  "en": "\"Crab, crab!\""
  },
  {
   "id": "GSV3900D/11/0048",
   "kind": "msg",
   "jp": "「ア」\n　\n　",
-  "en": ""
+  "en": "\"AP\""
  },
  {
   "id": "GSV3900D/11/0068",
   "kind": "msg",
   "jp": "「カニ　カーニ！」\n　\n　",
-  "en": ""
+  "en": "\"Crab, craaab!\""
  },
  {
   "id": "GSV3900D/12/001E",
   "kind": "msg",
   "jp": "「カニ　カニ！」\n　\n　",
-  "en": ""
+  "en": "\"Crab, crab!\""
  },
  {
   "id": "GSV3900D/12/0048",
   "kind": "msg",
   "jp": "「キ」\n　\n　",
-  "en": ""
+  "en": "\"MIL\""
  },
  {
   "id": "GSV3900D/12/0068",
   "kind": "msg",
   "jp": "「カニ　カーニ！」\n　\n　",
-  "en": ""
+  "en": "\"Crab, craaab!\""
  },
  {
   "id": "GSV3900D/13/002E",
   "kind": "msg",
   "jp": "「ウスッ　ウスッ！\n　ようこそ　桃太郎さん！」\n　{KP}\n「サルカニ村　名物の\n　{bb}カニさんのパネルゲーム{ww}を\n　遊びますか？」{KN}",
-  "en": ""
+  "en": "\"Oss, oss! Welcome, Momotaro-san!\"{KP}\"Would you like to play Sarukani Village's famous {bb}Crab Panel Game{ww}?\"{KN}"
  },
  {
   "id": "GSV3900D/13/00CE",
   "kind": "msg",
   "jp": "「ウスッ！　では　ゲームの\n　説明を　します」\n　{KP}\n「この村にいる　１０匹のカニさんに\n　話しかけると　持っているパネルを\n　見せてくれます」{KP}\n　\n「そのパネルに　書かれている\n　言葉で　２つの　食べ物の\n　名前がつくれます　ウスッ」{KP}\n　\n「その　２つの　食べ物を\n　ワシの　所まで　持ってきて\n　くだされ！」{KP}\n　\n「賞品は　{bb}方言カード{ww}です\n　ウスッ　ウスッ！」\n　{KP}\n「では　スタート！」\n　\n　",
-  "en": ""
+  "en": "\"Oss! Then let me explain the game.\"{KP}\"If you talk to the 10 crabs in this village, they'll show you the panels they're holding.\"{KP}\"With what's written on those panels, you can make the names of two foods, oss.\"{KP}\"Bring those two foods to me!\"{KP}\"The prize is a {bb}Dialect Card{ww}! Oss, oss!\"{KP}\"Ready... start!\""
  },
  {
   "id": "GSV3900D/13/029A",
   "kind": "msg",
   "jp": "「気が向いたら\n　遊んでくだされ　ウスッ！」\n　",
-  "en": ""
+  "en": "\"Come play whenever you feel like it, oss!\""
  },
  {
   "id": "GSV3900D/13/02DC",
@@ -93,19 +93,19 @@
   "id": "GSV3900D/13/0334",
   "kind": "msg",
   "jp": "「きびだんご　ですね\n　正解です！　ウスッ！」\n　{KP}\n「おめでとうございまウスッ！\n　では　賞品の　{bb}方言カード{ww}です\n　ウスッ　ウスッ　ウッス！」",
-  "en": ""
+  "en": "\"Millet dumplings, is it? Correct! Oss!\"{KP}\"Congratul-osss-ions! Here's your prize, a {bb}Dialect Card{ww}! Oss, oss, osss!\""
  },
  {
   "id": "GSV3900D/13/03DC",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０３４{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 034{ww}!{KN}"
  },
  {
   "id": "GSV3900D/13/0430",
   "kind": "msg",
   "jp": "「{bb}きびだんご{ww}　ですね\n　正解です！　ウスッ！」\n　{KP}\n「さあ！　あと　ひとつです！」\n　\n　",
-  "en": ""
+  "en": "\"{bb}Millet dumplings{ww}, is it? Correct! Oss!\"{KP}\"Now! Just one more to go!\""
  },
  {
   "id": "GSV3900D/13/04A6",
@@ -117,79 +117,79 @@
   "id": "GSV3900D/13/04FE",
   "kind": "msg",
   "jp": "「{bb}アンズアメ{ww}　ですね\n　正解です！　ウスッ！」\n　{KP}\n「おめでとうございまウスッ！\n　では　賞品の　{bb}方言カード{ww}です\n　ウスッ　ウスッ　ウッス！」",
-  "en": ""
+  "en": "\"{bb}Apricot Pop{ww}, is it? Correct! Oss!\"{KP}\"Congratul-osss-ions! Here's your prize, a {bb}Dialect Card{ww}! Oss, oss, osss!\""
  },
  {
   "id": "GSV3900D/13/05AA",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０３４{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 034{ww}!{KN}"
  },
  {
   "id": "GSV3900D/13/05FE",
   "kind": "msg",
   "jp": "「{bb}アンズアメ{ww}　ですね\n　正解です！　ウスッ！」\n　{KP}\n「さあ！　あと　ひとつです！」\n　\n　",
-  "en": ""
+  "en": "\"{bb}Apricot Pop{ww}, is it? Correct! Oss!\"{KP}\"Now! Just one more to go!\""
  },
  {
   "id": "GSV3900D/13/0674",
   "kind": "msg",
   "jp": "「サルカニ村　名物の\n　{bb}カニさんのパネルゲーム{ww}は\n　終了しました」",
-  "en": ""
+  "en": "\"Sarukani Village's famous {bb}Crab Panel Game{ww} is now over.\""
  },
  {
   "id": "GSV3900D/13/0740",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　正解の食べ物を　持っているウスッ！\n　さあ　それを　わたしてくだされ！」",
-  "en": ""
+  "en": "\"Momotaro-san! You've got one of the right foods, oss! Now, hand it over!\""
  },
  {
   "id": "GSV3900D/13/07AC",
   "kind": "msg",
   "jp": "「あきらめないで\n　がんばるウス！　ウッス！」\n　",
-  "en": ""
+  "en": "\"Don't give up, keep at it, oss! Osss!\""
  },
  {
   "id": "GSV3900D/13/07F0",
   "kind": "msg",
   "jp": "「まだ　この　ゲームの説明を\n　していないでウスッ！」\n　",
-  "en": ""
+  "en": "\"I haven't explained this game to you yet, oss!\""
  },
  {
   "id": "GSV3900D/14/001E",
   "kind": "msg",
   "jp": "「カニ　カニ！」\n　\n　",
-  "en": ""
+  "en": "\"Crab, crab!\""
  },
  {
   "id": "GSV3900D/14/0048",
   "kind": "msg",
   "jp": "「ビ」\n　\n　",
-  "en": ""
+  "en": "\"LET\""
  },
  {
   "id": "GSV3900D/14/0068",
   "kind": "msg",
   "jp": "「カニ　カーニ！」\n　\n　",
-  "en": ""
+  "en": "\"Crab, craaab!\""
  },
  {
   "id": "GSV3900D/15/001E",
   "kind": "msg",
   "jp": "「カニ　カニ！」\n　\n　",
-  "en": ""
+  "en": "\"Crab, crab!\""
  },
  {
   "id": "GSV3900D/15/0048",
   "kind": "msg",
   "jp": "「ン」\n　\n　",
-  "en": ""
+  "en": "\"RI\""
  },
  {
   "id": "GSV3900D/15/0068",
   "kind": "msg",
   "jp": "「カニ　カーニ！」\n　\n　",
-  "en": ""
+  "en": "\"Crab, craaab!\""
  },
  {
   "id": "GSV3900D/16/0002",
@@ -207,18 +207,18 @@
   "id": "GSV3900D/18/001E",
   "kind": "msg",
   "jp": "「カニ　カニ！」\n　\n　",
-  "en": ""
+  "en": "\"Crab, crab!\""
  },
  {
   "id": "GSV3900D/18/0048",
   "kind": "msg",
   "jp": "「ゴ」\n　\n　",
-  "en": ""
+  "en": "\"LING\""
  },
  {
   "id": "GSV3900D/18/0068",
   "kind": "msg",
   "jp": "「カニ　カーニ！」\n　\n　",
-  "en": ""
+  "en": "\"Crab, craaab!\""
  }
 ]

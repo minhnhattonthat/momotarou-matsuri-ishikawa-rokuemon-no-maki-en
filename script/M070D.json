@@ -3,36 +3,36 @@
   "id": "M070D/19/000A",
   "kind": "msg",
   "jp": "「なかまをおとしてこらしめるゲームです\n　すばやくおとすと　かいしんします」{KP}\n　もちろんウソです\n　",
-  "en": ""
+  "en": "\"This is a game where you drop your friends to teach them a lesson. Drop them fast and they will repent.\"{KP}Of course, that is a lie."
  },
  {
   "id": "M070D/19/0084",
   "kind": "msg",
   "jp": "「ではゲームをかいしします」\n　",
-  "en": ""
+  "en": "\"Now commencing the game.\""
  },
  {
   "id": "M070D/19/00BE",
   "kind": "msg",
   "jp": "「ではゲームをかいししますか？」\n　{KN}",
-  "en": ""
+  "en": "\"Commence the game?\"{KN}"
  },
  {
   "id": "M070D/20/001A",
   "kind": "msg",
   "jp": "「おめでとうございます！\n　きろくこうしんです！！」{KP}\n　…それだけ」\n　",
-  "en": ""
+  "en": "\"Congratulations! New record!!\"{KP}...That's all."
  },
  {
   "id": "M070D/20/0078",
   "kind": "msg",
   "jp": "「おめでとうございます！\n　だんいこうしんです！！」{KP}\n　…それだけ\n　",
-  "en": ""
+  "en": "\"Congratulations! New level!!\"{KP}...That's all."
  },
  {
   "id": "M070D/21/0002",
   "kind": "msg",
   "jp": "「ゲームをつづけますか？」\n　{KN}",
-  "en": ""
+  "en": "\"Continue the game?\"{KN}"
  }
 ]

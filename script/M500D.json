@@ -3,72 +3,72 @@
   "id": "M500D/3/0002",
   "kind": "msg",
   "jp": "「ボンビ～！」\n　{KP}\n「時は　金なりなのねん！\n　だから　時間を　当てるのねん！」{KP}\n「今回は　{R3}秒！」\n　{KP}\n「ピーッと　なって　{R3}秒したら\n　○ボタンを　押すのねん！」",
-  "en": ""
+  "en": "\"Bombeee!\"{KP}\"Time is money, nonen! So you have to guess the time, nonen!\"{KP}\"This time it's {R3} seconds!\"{KP}\"When it beeps, wait {R3} seconds and press the Circle button, nonen!\""
  },
  {
   "id": "M500D/4/0032",
   "kind": "msg",
   "jp": "「すごいのねん！\n　時は　金なりなのねん！」{KP}\n「賞金　{R0}両\n　もらえちゃうのね～ん！」",
-  "en": ""
+  "en": "\"Amazing, nonen! Time is money, nonen!\"{KP}\"You get {R0} ryo in prize money, noneeen!\""
  },
  {
   "id": "M500D/4/00AA",
   "kind": "msg",
   "jp": "桃太郎は\n{R0}両　手に入れた！",
-  "en": ""
+  "en": "Momotaro got {R0} ryo!"
  },
  {
   "id": "M500D/4/00D8",
   "kind": "msg",
   "jp": "「ブッブー！！\n　押すのが　早すぎたのねん！！」",
-  "en": ""
+  "en": "\"Bzzzt!! You pressed it too early, nonen!!\""
  },
  {
   "id": "M500D/4/011A",
   "kind": "msg",
   "jp": "「あ～っ　もう！！\n　ちょっとだけ　早かったのねん！」",
-  "en": ""
+  "en": "\"Aww, come on!! Just a little too early, nonen!\""
  },
  {
   "id": "M500D/4/0162",
   "kind": "msg",
   "jp": "「ぜ～んぜん　ちがうのねん！\n　ものすご～く　遅かったのねん！」",
-  "en": ""
+  "en": "\"Not even close, nonen! Waaay too late, nonen!\""
  },
  {
   "id": "M500D/4/01B4",
   "kind": "msg",
   "jp": "「う～っ　もう！！\n　ちょっとだけ　遅かったのねん！」",
-  "en": ""
+  "en": "\"Ugh, come on!! Just a little too late, nonen!\""
  },
  {
   "id": "M500D/4/01FC",
   "kind": "msg",
   "jp": "「時は　金なりって\n　いったでしょ！　プンプン！」{KP}\n「もう　バッキンよ！」\n　",
-  "en": ""
+  "en": "\"I told you time is money! Hmph!\"{KP}\"Now you pay a fine!\""
  },
  {
   "id": "M500D/4/0260",
   "kind": "msg",
   "jp": "なぜ　バッキンなのだ\n貧乏神よ！",
-  "en": ""
+  "en": "Why a fine, Poverty God?!"
  },
  {
   "id": "M500D/4/02B2",
   "kind": "msg",
   "jp": "貧乏神は\n{R2}両　うばって行った！",
-  "en": ""
+  "en": "The Poverty God took {R2} ryo!"
  },
  {
   "id": "M500D/4/02E4",
   "kind": "msg",
   "jp": "「…って　お金が\n　１両も　ないにょろ～！」{KP}\n「ボンビ～も　ほどほどに\n　してほしいにょろ～～～！」{KP}\n桃太郎は\nお金を　とられずに　すんだ！{KP}\nでも　ちょっと　かなしい！\n　",
-  "en": ""
+  "en": "\"...Wait, you don't have a single ryo, nyoro!\"{KP}\"Even a Bombee has his limits, nyorooo!\"{KP}Momotaro got away without losing any money!{KP}But it's a little sad!"
  },
  {
   "id": "M500D/5/0002",
   "kind": "msg",
   "jp": "「今の　プゥ～は\n　ボクの　オナラの音　なのねん！」{KP}\n「ピーッと　なって　{R3}秒したら\n　○ボタンを　押すのねん！」",
-  "en": ""
+  "en": "\"That 'pfffft' just now was the sound of my fart, nonen!\"{KP}\"When it beeps, wait {R3} seconds and press the Circle button, nonen!\""
  }
 ]

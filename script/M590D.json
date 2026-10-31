@@ -3,312 +3,312 @@
   "id": "M590D/18/0002",
   "kind": "msg",
   "jp": "鬼面党が　あらわれた！\n　{KP}\n「桃太郎！\n　ワシと　サイコロで　勝負や！」{KP}\n「サイコロ　ふって　高い数を\n　出した方が　勝ちや！」{KP}\n「ほな！\n　サイコロを　ふってくれ！」",
-  "en": ""
+  "en": "The Oni Mask Gang appeared!{KP}\"Momotaro! You an' me, let's have us a dice match!\"{KP}\"We roll the dice, and whoever rolls higher wins!\"{KP}\"Alrighty! Go on, roll the dice!\""
  },
  {
   "id": "M590D/19/0002",
   "kind": "msg",
   "jp": "「{R2}　だな」\n　{KP}\n「ほな　次は\n　ワシの番や！」",
-  "en": ""
+  "en": "\"{R2}, huh.\"{KP}\"Alrighty, now it's my turn!\""
  },
  {
   "id": "M590D/20/0002",
   "kind": "msg",
   "jp": "「ワシも　{R2}　や！\n　同じ数は　引き分け　やな！」{KP}\n「なんや　仕方がないで\n　もう　１回　勝負やな！」",
-  "en": ""
+  "en": "\"I got {R2} too! Same number's a draw!\"{KP}\"Well, can't be helped! We'll go one more round!\""
  },
  {
   "id": "M590D/21/001A",
   "kind": "msg",
   "jp": "「ちっ！\n　負けちまった！」{KP}\n「あんたに　ほうびだ！\n　持って行けや！」",
-  "en": ""
+  "en": "\"Tch! I lost!\"{KP}\"Here's yer reward! Take it!\""
  },
  {
   "id": "M590D/21/008C",
   "kind": "msg",
   "jp": "桃太郎は\n{R0}両　手に入れた！",
-  "en": ""
+  "en": "Momotaro got {R0} ryo!"
  },
  {
   "id": "M590D/21/00BA",
   "kind": "msg",
   "jp": "「やっぱり\n　ワシの　勝ちやな！」{KP}\n「また\n　勝負してやるからな！」",
-  "en": ""
+  "en": "\"Just like I figured, I win!\"{KP}\"I'll play ya again sometime!\""
  },
  {
   "id": "M590D/21/0144",
   "kind": "msg",
   "jp": "桃太郎は\n{R2}両　うばわれた！",
-  "en": ""
+  "en": "Momotaro was robbed of {R2} ryo!"
  },
  {
   "id": "M590D/21/0172",
   "kind": "msg",
   "jp": "「…って　おい！\n　１両も　持ってないやんけ～！」{KP}\n「一文無しの　桃太郎なんて！\n　いみないやん！」{KP}\n桃太郎は\nお金を　盗られずに　すんだ！",
-  "en": ""
+  "en": "\"...Hey, wait! You ain't got a single ryo!\"{KP}\"A broke Momotaro! What's the point?!\"{KP}Momotaro got to keep his money!"
  },
  {
   "id": "M590D/22/001A",
   "kind": "msg",
   "jp": "鬼面党は\nどこかに　行ってしまった！",
-  "en": ""
+  "en": "The Oni Mask Gang went off somewhere!"
  },
  {
   "id": "M590D/22/0050",
   "kind": "msg",
   "jp": "鬼面党は\nどこかに　行ってしまった！",
-  "en": ""
+  "en": "The Oni Mask Gang went off somewhere!"
  },
  {
   "id": "M590D/23/0002",
   "kind": "msg",
   "jp": "鬼面党が　あらわれた！\n　{KP}\n「桃太郎！\n　オイラと　サイコロ勝負っち！」{KP}\n「サイコロ　ふって　高い数を\n　出した方が　勝ちだっち！」{KP}\n「じゃ\n　サイコロを　ふるっち！」",
-  "en": ""
+  "en": "The Oni Mask Gang appeared!{KP}\"Momotaro! Dice match with me, chi!\"{KP}\"We roll the dice, and whoever rolls higher wins, chi!\"{KP}\"Okay, go on and roll the dice, chi!\""
  },
  {
   "id": "M590D/24/0002",
   "kind": "msg",
   "jp": "「{R2}　だなっち！」\n　{KP}\n「じゃあ　次は\n　オイラが　サイコロを　ふるっち！」",
-  "en": ""
+  "en": "\"{R2}, chi!\"{KP}\"Now it's my turn to roll the dice, chi!\""
  },
  {
   "id": "M590D/25/0002",
   "kind": "msg",
   "jp": "「けっ！　オイラも　{R2}　だっち！\n　同じ数は　引き分け　だっち！」{KP}\n「それでは　仕方ないから\n　もう　１回　勝負だっち！」",
-  "en": ""
+  "en": "\"Heh! I got {R2} too, chi! Same number's a draw, chi!\"{KP}\"Can't be helped, so one more round, chi!\""
  },
  {
   "id": "M590D/26/001A",
   "kind": "msg",
   "jp": "「ちっくしょ～！\n　くやしいっち！」{KP}\n「くやしいけど…\n　桃太郎に　これやるっち！」",
-  "en": ""
+  "en": "\"Dang it! That stinks, chi!\"{KP}\"I hate this, but... here, Momotaro, take this, chi!\""
  },
  {
   "id": "M590D/26/0098",
   "kind": "msg",
   "jp": "桃太郎は\n{R0}両　手に入れた！",
-  "en": ""
+  "en": "Momotaro got {R0} ryo!"
  },
  {
   "id": "M590D/26/00C6",
   "kind": "msg",
   "jp": "「ヘッ　桃太郎も\n　くちほどでも　ないなっち！」{KP}\n「そんなに　落ち込むな！\n　また　勝負してやるっち！」",
-  "en": ""
+  "en": "\"Heh, Momotaro, you're all talk, chi!\"{KP}\"Don't look so down! I'll play you again, chi!\""
  },
  {
   "id": "M590D/26/0174",
   "kind": "msg",
   "jp": "桃太郎は\n{R2}両　うばわれた！",
-  "en": ""
+  "en": "Momotaro was robbed of {R2} ryo!"
  },
  {
   "id": "M590D/26/01A2",
   "kind": "msg",
   "jp": "「…って　桃太郎！\n　お金が　１両も　ないっち！」{KP}\n「今回は\n　見のがしてやるっち！」{KP}\n桃太郎は\nお金を　盗られずに　すんだ！",
-  "en": ""
+  "en": "\"...Wait, Momotaro! You don't have a single ryo, chi!\"{KP}\"I'll let you off this time, chi!\"{KP}Momotaro got to keep his money!"
  },
  {
   "id": "M590D/27/0002",
   "kind": "msg",
   "jp": "鬼面党が　あらわれた！\n　{KP}\n「桃太郎！\n　オラと　サイコロ勝負だど！」{KP}\n「サイコロ　ふって　高い数を\n　出した方が　勝ちだど！」{KP}\n「それじゃ\n　サイコロを　ふるど！」",
-  "en": ""
+  "en": "The Oni Mask Gang appeared!{KP}\"Momotaro! You're havin' a dice match with me!\"{KP}\"We roll the dice, and whoever rolls higher wins!\"{KP}\"Alright, roll them dice!\""
  },
  {
   "id": "M590D/28/0002",
   "kind": "msg",
   "jp": "「{R2}　だど！」\n　{KP}\n「じゃあ　次は\n　オラが　サイコロを　ふるど！」",
-  "en": ""
+  "en": "\"{R2}, huh!\"{KP}\"Now it's my turn to roll them dice!\""
  },
  {
   "id": "M590D/29/0002",
   "kind": "msg",
   "jp": "「おっ？　オラも　{R2}　だど！\n　同じ数は　引き分け　だど！」{KP}\n「それでは　仕方がないど\n　もう　１回　勝負だど！」",
-  "en": ""
+  "en": "\"Huh? I got {R2} too! Same number's a draw!\"{KP}\"Can't be helped, so one more round!\""
  },
  {
   "id": "M590D/30/001A",
   "kind": "msg",
   "jp": "「けっ！　なんでオラが\n　負けなきゃ　いけないんだど！」{KP}\n「仕方ねぇ！　これやるど！\n　持って行くど！」",
-  "en": ""
+  "en": "\"Tch! Why do I gotta lose?!\"{KP}\"Fine! Take this! Go on, take it!\""
  },
  {
   "id": "M590D/30/00AC",
   "kind": "msg",
   "jp": "桃太郎は\n{R0}両　手に入れた！",
-  "en": ""
+  "en": "Momotaro got {R0} ryo!"
  },
  {
   "id": "M590D/30/00DA",
   "kind": "msg",
   "jp": "「ははははは！\n　ざまぁねぇど！」{KP}\n「だが　がっかりすんなよ！\n　また　いただきに　来てやるど！」",
-  "en": ""
+  "en": "\"Ha ha ha ha ha! Serves ya right!\"{KP}\"But don't get all down! I'll be back to rob ya again!\""
  },
  {
   "id": "M590D/30/0182",
   "kind": "msg",
   "jp": "桃太郎は\n{R2}両　うばわれた！",
-  "en": ""
+  "en": "Momotaro was robbed of {R2} ryo!"
  },
  {
   "id": "M590D/30/01B0",
   "kind": "msg",
   "jp": "「…って　なあ　桃太郎！\n　お金が　１両すら　ないど！」{KP}\n「今回は\n　見のがしてやるど！」{KP}\n桃太郎は\nお金を　盗られずに　すんだ！",
-  "en": ""
+  "en": "\"...Hey, Momotaro! You ain't even got one ryo!\"{KP}\"I'll let ya off this time!\"{KP}Momotaro got to keep his money!"
  },
  {
   "id": "M590D/31/0002",
   "kind": "msg",
   "jp": "鬼面党が　あらわれた！\n　{KP}\n「もっ　桃太郎さん…\n　サイコロ勝負しましょう…」{KP}\n「サイコロを　ふって　高い数を\n　出した方が　勝ちです…」{KP}\n「それでは\n　サイコロを　ふってください…」",
-  "en": ""
+  "en": "The Oni Mask Gang appeared!{KP}\"M-Momotaro-san... Shall we have a dice match...\"{KP}\"We roll the dice, and whoever rolls higher wins...\"{KP}\"Well then, please roll the dice...\""
  },
  {
   "id": "M590D/32/0002",
   "kind": "msg",
   "jp": "「{R2}　ですね…」\n　{KP}\n「次は\n　ボクが　サイコロを　ふります…」",
-  "en": ""
+  "en": "\"{R2}, I see...\"{KP}\"Next, I'll roll the dice...\""
  },
  {
   "id": "M590D/33/0002",
   "kind": "msg",
   "jp": "「あっ？　ボクも　{R2}　です…\n　同じ数は　引き分け　ですね…」{KP}\n「それでは　仕方がないので\n　もう　１回　勝負です…」",
-  "en": ""
+  "en": "\"Oh? I got {R2} too... Same number is a draw...\"{KP}\"Well, it can't be helped, so one more round...\""
  },
  {
   "id": "M590D/34/001A",
   "kind": "msg",
   "jp": "「えっ！\n　負けてしまった？」{KP}\n「仕方ないです…\n　桃太郎さんに　これをあげます…」",
-  "en": ""
+  "en": "\"Huh?! I lost?\"{KP}\"Oh well... Momotaro-san, I'll give you this...\""
  },
  {
   "id": "M590D/34/0098",
   "kind": "msg",
   "jp": "桃太郎は\n{R0}両　手に入れた！",
-  "en": ""
+  "en": "Momotaro got {R0} ryo!"
  },
  {
   "id": "M590D/34/00C6",
   "kind": "msg",
   "jp": "「やったー！\n　勝ったよ！」{KP}\n「桃太郎さん！　また　ボクと\n　勝負してくださいね！」",
-  "en": ""
+  "en": "\"Yay! I won!\"{KP}\"Momotaro-san! Please play with me again!\""
  },
  {
   "id": "M590D/34/0160",
   "kind": "msg",
   "jp": "桃太郎は\n{R2}両　うばわれた！",
-  "en": ""
+  "en": "Momotaro was robbed of {R2} ryo!"
  },
  {
   "id": "M590D/34/018E",
   "kind": "msg",
   "jp": "「とおもいきや！　桃太郎さん！\n　１両も　ないじゃないですか…」{KP}\n「今回は　見のがしますが\n　今度は　ようしゃしないですよ…」{KP}\n桃太郎は\nお金を　盗られずに　すんだ！",
-  "en": ""
+  "en": "\"Or so I thought! Momotaro-san! You don't have a single ryo...\"{KP}\"I'll let it slide this time, but next time I won't go easy on you...\"{KP}Momotaro got to keep his money!"
  },
  {
   "id": "M590D/35/0002",
   "kind": "msg",
   "jp": "鬼面党が　あらわれた！\n　{KP}\n「ホイ！　桃太郎！\n　オレと　サイコロ勝負ポン！」{KP}\n「サイコロ　ふって　高い数を\n　出した方が　勝ちだポン！」{KP}\n「じゃ\n　サイコロを　ふれポン！」",
-  "en": ""
+  "en": "The Oni Mask Gang appeared!{KP}\"Hoi! Momotaro! Dice match with me, pon!\"{KP}\"We roll the dice, and whoever rolls higher wins, pon!\"{KP}\"Go on, roll the dice, pon!\""
  },
  {
   "id": "M590D/36/0002",
   "kind": "msg",
   "jp": "「{R2}　だポン！」\n　{KP}\n「じゃあ　次は\n　オレが　サイコロを　ふるポン！」",
-  "en": ""
+  "en": "\"{R2}, pon!\"{KP}\"Now it's my turn to roll the dice, pon!\""
  },
  {
   "id": "M590D/37/0002",
   "kind": "msg",
   "jp": "「おっ？　オレも　{R2}　だポン！\n　同じ数は　引き分け　だポン！」{KP}\n「それでは　仕方がない\n　もう　１回　勝負だポン！」",
-  "en": ""
+  "en": "\"Oh? I got {R2} too, pon! Same number's a draw, pon!\"{KP}\"Can't be helped, so one more round, pon!\""
  },
  {
   "id": "M590D/38/001A",
   "kind": "msg",
   "jp": "「どあ～～～～！\n　負けたあ！」{KP}\n「桃太郎には　かなわねぇポン！\n　これ　持ってけポン！」",
-  "en": ""
+  "en": "\"Waaaaah! I lost!\"{KP}\"I'm no match for Momotaro, pon! Take this, pon!\""
  },
  {
   "id": "M590D/38/009E",
   "kind": "msg",
   "jp": "桃太郎は\n{R0}両　手に入れた！",
-  "en": ""
+  "en": "Momotaro got {R0} ryo!"
  },
  {
   "id": "M590D/38/00CC",
   "kind": "msg",
   "jp": "「へへへ！\n　勝っちゃったもんね～！」{KP}\n「がっかりするなよ！\n　また　勝負だポン！」",
-  "en": ""
+  "en": "\"Hee hee hee! I went and won!\"{KP}\"Don't look so glum! Let's play again, pon!\""
  },
  {
   "id": "M590D/38/0166",
   "kind": "msg",
   "jp": "桃太郎は\n{R2}両　うばわれた！",
-  "en": ""
+  "en": "Momotaro was robbed of {R2} ryo!"
  },
  {
   "id": "M590D/38/0194",
   "kind": "msg",
   "jp": "「…って　桃太郎！\n　お金が　全然ないポン！」{KP}\n「お金を　ためてから\n　もう一度　勝負ポン！」{KP}\n桃太郎は\nお金を　盗られずに　すんだ！",
-  "en": ""
+  "en": "\"...Hey, Momotaro! You've got no money at all, pon!\"{KP}\"Save up some money and we'll play again, pon!\"{KP}Momotaro got to keep his money!"
  },
  {
   "id": "M590D/39/0002",
   "kind": "msg",
   "jp": "石川六右衛門が　あらわれた！\n　{KP}\n「さあ！　さあ！　桃太郎！」\n　{KP}\n「サイコロ　ふって　高い数を\n　出した方が　勝ちだぜ！」{KP}\n「さあ！\n　サイコロを　ふれ！」",
-  "en": ""
+  "en": "Ishikawa Rokuemon appeared!{KP}\"Come on! Come on! Momotaro!\"{KP}\"We roll the dice, and whoever rolls higher wins!\"{KP}\"Go on! Roll the dice!\""
  },
  {
   "id": "M590D/40/0002",
   "kind": "msg",
   "jp": "「{R2}　だ！」\n　{KP}\n「じゃあ　次は\n　俺さまが　サイコロを　ふるぞ！」",
-  "en": ""
+  "en": "\"{R2}!\"{KP}\"Now yours truly will roll the dice!\""
  },
  {
   "id": "M590D/41/0002",
   "kind": "msg",
   "jp": "「おっ？　俺さまも　{R2}　だぜ！\n　同じ数は　引き分け　だぜ！」{KP}\n「それでは　仕方がない\n　もう　１回　勝負だ！」",
-  "en": ""
+  "en": "\"Oh? Yours truly got {R2} too! Same number's a draw!\"{KP}\"Can't be helped. One more round!\""
  },
  {
   "id": "M590D/42/001A",
   "kind": "msg",
   "jp": "「うわ～～～～！\n　負けたあー！」{KP}\n「桃太郎に　負けるとは！\n　これでも　くれてやる！」",
-  "en": ""
+  "en": "\"Waaaaah! I lost!\"{KP}\"To think I'd lose to Momotaro! Here, take this!\""
  },
  {
   "id": "M590D/42/009C",
   "kind": "msg",
   "jp": "桃太郎は\n{R0}両　手に入れた！",
-  "en": ""
+  "en": "Momotaro got {R0} ryo!"
  },
  {
   "id": "M590D/42/00CA",
   "kind": "msg",
   "jp": "「ムフフ\n　俺さまの　勝ちだぜ！」{KP}\n「おまえの　ちからは　その程度よ！」\n",
-  "en": ""
+  "en": "\"Muhuhu... Yours truly wins!\"{KP}\"That's all the strength you've got!\""
  },
  {
   "id": "M590D/42/015A",
   "kind": "msg",
   "jp": "桃太郎は\n{R2}両　うばわれた！",
-  "en": ""
+  "en": "Momotaro was robbed of {R2} ryo!"
  },
  {
   "id": "M590D/42/0188",
   "kind": "msg",
   "jp": "「ガハハ！　桃太郎が！\n　一文無しだとはな！」{KP}\n「もう　俺さまを\n　じゃまするなよな！」{KP}\n桃太郎は\nお金を　盗られずに　すんだ！",
-  "en": ""
+  "en": "\"Gahaha! Momotaro! Flat broke, are ya!\"{KP}\"Now quit getting in my way!\"{KP}Momotaro got to keep his money!"
  },
  {
   "id": "M590D/43/001A",
   "kind": "msg",
   "jp": "石川六右衛門は\nどこかに　行ってしまった！",
-  "en": ""
+  "en": "Ishikawa Rokuemon went off somewhere!"
  },
  {
   "id": "M590D/43/0056",
   "kind": "msg",
   "jp": "石川六右衛門は\nどこかに　行ってしまった！",
-  "en": ""
+  "en": "Ishikawa Rokuemon went off somewhere!"
  }
 ]

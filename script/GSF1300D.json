@@ -3,84 +3,84 @@
   "id": "GSF1300D/2/0018",
   "kind": "msg",
   "jp": "「ここは　水龍が　住む\n　龍神の沼　じゃ！」\n　",
-  "en": ""
+  "en": "\"This is the Dragon God Marsh, where the Water Dragon lives!\""
  },
  {
   "id": "GSF1300D/2/005A",
   "kind": "msg",
   "jp": "「桃太郎よ\n　ここで　旅の記録を　つけるかね？」\n　{KN}",
-  "en": ""
+  "en": "\"Momotaro, shall I record your journey here?\"{KN}"
  },
  {
   "id": "GSF1300D/2/00B2",
   "kind": "msg",
   "jp": "「そうか！\n　では　記録しないぞ！」\n　",
-  "en": ""
+  "en": "\"I see! Then I won't record it!\""
  },
  {
   "id": "GSF1300D/3/001E",
   "kind": "msg",
   "jp": "「{bb}水龍{ww}に　会うには\n　{bb}鳴きの笛{ww}が　必要じゃ！」\n　",
-  "en": ""
+  "en": "\"To meet the {bb}Water Dragon{ww}, you need the {bb}Call Flute{ww}!\""
  },
  {
   "id": "GSF1300D/3/006A",
   "kind": "msg",
   "jp": "「よいか　桃太郎！\n　水龍と戦う時は　ため撃ちを\n　うまく　使うのじゃ！」{KP}\n　\n「○ボタンを　押しつづけ\n　敵が　たくさん　来た所で\n　はなすのじゃ！」{KP}\n　\n「連続で　敵を倒すと\n　高得点が　得られるじゃ！」\n　",
-  "en": ""
+  "en": "\"Listen, Momotaro! When you fight the Water Dragon, make good use of charged shots!\"{KP}\"Hold down the Circle button, and let go once lots of enemies have come!\"{KP}\"Defeat enemies in a row and you'll get a high score!\""
  },
  {
   "id": "GSF1300D/4/0034",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}鳴きの笛{ww}を　ふいた～♪\n　",
-  "en": ""
+  "en": "Momotaro played the {bb}Call Flute{ww}... Toot-toot!"
  },
  {
   "id": "GSF1300D/4/009A",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}鳴きの笛{ww}を　ふいた～♪\n　",
-  "en": ""
+  "en": "Momotaro played the {bb}Call Flute{ww}... Toot-toot!"
  },
  {
   "id": "GSF1300D/4/00EE",
   "kind": "msg",
   "jp": "「桃太郎よ！\n　何用です？　この　水龍に！」\n　{KP}\n「そなたの　願いは\n　聞きとどけました！\n　{KP}\n「もう　会わなくても\n　よろしいでしょう！」\n　",
-  "en": ""
+  "en": "\"Momotaro! What business have you with me, the Water Dragon?\"{KP}\"Your wish has been granted!\"{KP}\"There should be no need for us to meet again!\""
  },
  {
   "id": "GSF1300D/4/01A6",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}鳴きの笛{ww}を　ふいた～♪\n　",
-  "en": ""
+  "en": "Momotaro played the {bb}Call Flute{ww}... Toot-toot!"
  },
  {
   "id": "GSF1300D/4/01FA",
   "kind": "msg",
   "jp": "「桃太郎よ！\n　何用です？　この　水龍に！」\n　{KP}\n「そなたの　心に　願いは\n　見えません！」\n　{KP}\n「願いの　ない者に\n　会うことはでしょう！」\n　",
-  "en": ""
+  "en": "\"Momotaro! What business have you with me, the Water Dragon?\"{KP}\"I see no wish in your heart!\"{KP}\"I shall not meet with one who has no wish!\""
  },
  {
   "id": "GSF1300D/5/0036",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}鳴きの笛{ww}を　ふいた～♪\n　",
-  "en": ""
+  "en": "Momotaro played the {bb}Call Flute{ww}... Toot-toot!"
  },
  {
   "id": "GSF1300D/5/00B4",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}鳴きの笛{ww}を　ふいた～♪\n　",
-  "en": ""
+  "en": "Momotaro played the {bb}Call Flute{ww}... Toot-toot!"
  },
  {
   "id": "GSF1300D/5/0108",
   "kind": "msg",
   "jp": "「桃太郎よ！\n　何用です？　この　水龍に！」\n　{KP}\n「そなたの　願いは\n　聞きとどけました！\n　{KP}\n「もう　会うことは\n　ないでしょう！」\n　{KP}\n「さようなら　桃太郎…」\n　\n　",
-  "en": ""
+  "en": "\"Momotaro! What business have you with me, the Water Dragon?\"{KP}\"Your wish has been granted!\"{KP}\"We shall never meet again!\"{KP}\"Farewell, Momotaro...\""
  },
  {
   "id": "GSF1300D/6/0002",
   "kind": "msg",
   "jp": "「桃太郎よ　にげては　いかんぞ！」\n　\n　",
-  "en": ""
+  "en": "\"Momotaro, you mustn't run away!\""
  }
 ]

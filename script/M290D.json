@@ -3,114 +3,114 @@
   "id": "M290D/10/0002",
   "kind": "msg",
   "jp": "ゲームを　続けますか？\n　{KN}",
-  "en": ""
+  "en": "Continue the game?{KN}"
  },
  {
   "id": "M290D/11/000A",
   "kind": "msg",
   "jp": "お餅焼けたかな？の　遊び方\n　{KP}\n網の上の　お餅が\nこげないうちに　取ってください！{KP}\n早すぎても　遅すぎても　いけません！\nこげる手前が　高得点！{KP}\n方向キーで　お餅を　選んで\n○ボタンで　お餅を　取ってください！{KP}\nそれでは　たくさん　お餅を\n食べましょう！",
-  "en": ""
+  "en": "How to Play Is the Mochi Done?{KP}Take the mochi off the grill before they burn!{KP}Not too early, not too late! Just before they burn scores the most!{KP}Choose a mochi with the directional buttons and take it with the Circle button!{KP}Now, let's eat lots of mochi!"
  },
  {
   "id": "M290D/11/012A",
   "kind": "msg",
   "jp": "ではゲームスタートです！\n　",
-  "en": ""
+  "en": "Now, game start!"
  },
  {
   "id": "M290D/11/0160",
   "kind": "msg",
   "jp": "ではゲームを　プレイしますか？\n　{KN}",
-  "en": ""
+  "en": "Would you like to play the game?{KN}"
  },
  {
   "id": "M290D/12/000A",
   "kind": "msg",
   "jp": "お餅焼けたかな？！\n対戦ゲームの　説明です！{KP}\n方向キーで　お餅を　選んで\n○ボタンで　お餅を　取ってください！{KP}\nお餅を　こがさずに　たくさん焼いて\n高得点を　あげたほうが　勝ちです！{KP}\n１００点以上の　お餅をすべて取ると\n相手の　網が　チェンジになります！{KP}\n網が　かわると　お餅を\n最初から　焼くはめに　なります！{KP}\n相手に　お餅を　焼かせないのが\n勝負の　コツです！{KP}\nいそがず　あわてず\nはしを　動かしましょう！{KP}\n１Ｐは　桃太郎さん\n２Ｐは　金太郎さんです！",
-  "en": ""
+  "en": "Is the Mochi Done?! Here's how the versus game works!{KP}Choose a mochi with the directional buttons and take it with the Circle button!{KP}Whoever grills lots of mochi without burning them and scores higher wins!{KP}Take every mochi worth 100 points or more, and your opponent's grill gets swapped!{KP}When the grill changes, they have to grill their mochi all over again!{KP}The trick to winning is keeping your opponent from grilling their mochi!{KP}Don't hurry, don't panic, just work those chopsticks!{KP}1P is Momotaro-san, and 2P is Kintaro-san!"
  },
  {
   "id": "M290D/12/0200",
   "kind": "msg",
   "jp": "ではゲームスタートです！\n　",
-  "en": ""
+  "en": "Now, game start!"
  },
  {
   "id": "M290D/12/0236",
   "kind": "msg",
   "jp": "ではゲームを　プレイしますか？\n　{KN}",
-  "en": ""
+  "en": "Would you like to play the game?{KN}"
  },
  {
   "id": "M290D/13/0046",
   "kind": "msg",
   "jp": "今回は{R2}段でした\n　",
-  "en": ""
+  "en": "This time you got level {R2}."
  },
  {
   "id": "M290D/13/006C",
   "kind": "msg",
   "jp": "今回は初段でした\n　",
-  "en": ""
+  "en": "This time you got level 1."
  },
  {
   "id": "M290D/13/0092",
   "kind": "msg",
   "jp": "今回は免許皆伝でした\n　",
-  "en": ""
+  "en": "This time you got Full Mastery."
  },
  {
   "id": "M290D/13/00BC",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n新記録ですよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! It's a new record!!{KP}Keep up the good work!"
  },
  {
   "id": "M290D/13/0134",
   "kind": "msg",
   "jp": "今回は{R2}段でした\n　",
-  "en": ""
+  "en": "This time you got level {R2}."
  },
  {
   "id": "M290D/13/015A",
   "kind": "msg",
   "jp": "今回は初段でした\n　",
-  "en": ""
+  "en": "This time you got level 1."
  },
  {
   "id": "M290D/13/0180",
   "kind": "msg",
   "jp": "今回は免許皆伝でした\n　",
-  "en": ""
+  "en": "This time you got Full Mastery."
  },
  {
   "id": "M290D/13/01BA",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n段位更新ですよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! Your level went up!!{KP}Keep up the good work!"
  },
  {
   "id": "M290D/13/0224",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n初段に　なりましたよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! You reached level 1!!{KP}Keep up the good work!"
  },
  {
   "id": "M290D/13/0294",
   "kind": "msg",
   "jp": "桃太郎さん　おめでとうございます！\n免許皆伝に　なりましたよ！！{KP}\nごほうびとして\n{bb}方言カード{ww}が　１枚　もらえます！",
-  "en": ""
+  "en": "Congratulations, Momotaro-san! You've reached Full Mastery!!{KP}As a reward, you get one {bb}Dialect Card{ww}!"
  },
  {
   "id": "M290D/13/0320",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０５０{ww}を　手に入れた！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 050{ww}!{KP}Keep up the good work!"
  },
  {
   "id": "M290D/14/0002",
   "kind": "msg",
   "jp": "このゲームを\nもう一度　遊びますか？{KN}",
-  "en": ""
+  "en": "Play this game again?{KN}"
  }
 ]

@@ -3,348 +3,348 @@
   "id": "M170D/27/0002",
   "kind": "msg",
   "jp": "ゲームを　続けますか？\n　{KN}",
-  "en": ""
+  "en": "Continue the game?{KN}"
  },
  {
   "id": "M170D/28/000A",
   "kind": "msg",
   "jp": "お堀で水泳大会！の　遊び方\n　{KP}\n誰が１番　早く\n泳ぐかを　競います！{KP}\nサイコロの　数だけ　進み\nお堀を　１周で　ゴールです！{KP}\n貧乏神や　黒ガッパの\nイタズラは　注意してください！{KP}\nそれでは　優勝めざして\nがんばってくださいね！",
-  "en": ""
+  "en": "How to Play Moat Swimming Meet!{KP}Compete to see who swims the fastest!{KP}Move as many spaces as your dice roll, and one lap of the moat takes you to the goal!{KP}Watch out for pranks from the Poverty God and Black Kappa!{KP}Now, aim for the win and do your best!"
  },
  {
   "id": "M170D/28/010E",
   "kind": "msg",
   "jp": "ではゲームスタートです！\n　",
-  "en": ""
+  "en": "Now, game start!"
  },
  {
   "id": "M170D/28/0144",
   "kind": "msg",
   "jp": "ではゲームを　プレイしますか？\n　{KN}",
-  "en": ""
+  "en": "Would you like to play the game?{KN}"
  },
  {
   "id": "M170D/29/000A",
   "kind": "msg",
   "jp": "お堀で水泳大会！\n対戦ゲームの　説明です！{KP}\nお堀を　泳ぐ　すごろくゲームです！\n　{KP}\nサイコロの　出目が　ゾロ目だと\n誰かに　いたずらできます！{KP}\nゾロ目の数に　よって\nいたずらは　変化します！{KP}\nいちばん早く　ゴールした人が\n優勝です！　がんばってくださいね！{KP}\n１Ｐは　桃太郎さん\n２Ｐは　金太郎さんです！",
-  "en": ""
+  "en": "Moat Swimming Meet! Here's how the versus game works!{KP}It's a board game where you swim around the moat!{KP}Roll doubles on the dice and you can pull a prank on someone!{KP}The prank changes depending on the number you doubled!{KP}Whoever reaches the goal first is the winner! Do your best!{KP}1P is Momotaro-san, and 2P is Kintaro-san!"
  },
  {
   "id": "M170D/29/015E",
   "kind": "msg",
   "jp": "ではゲームスタートです！\n　",
-  "en": ""
+  "en": "Now, game start!"
  },
  {
   "id": "M170D/29/0194",
   "kind": "msg",
   "jp": "ではゲームを　プレイしますか？\n　{KN}",
-  "en": ""
+  "en": "Would you like to play the game?{KN}"
  },
  {
   "id": "M170D/30/000A",
   "kind": "msg",
   "jp": "お堀で水泳大会！\n対戦ゲームの　説明です！{KP}\nお堀を　泳ぐ　すごろくゲームです！\n　{KP}\nサイコロの　出目が　ゾロ目だと\n誰かに　いたずらできます！{KP}\nゾロ目の数に　よって\nいたずらは　変化します！{KP}\nいちばん早く　ゴールした人が\n優勝です！　がんばってくださいね！{KP}\n１Ｐは　桃太郎さん\n２Ｐは　金太郎さん{KP}\n３Ｐは　浦島さんです！\n",
-  "en": ""
+  "en": "Moat Swimming Meet! Here's how the versus game works!{KP}It's a board game where you swim around the moat!{KP}Roll doubles on the dice and you can pull a prank on someone!{KP}The prank changes depending on the number you doubled!{KP}Whoever reaches the goal first is the winner! Do your best!{KP}1P is Momotaro-san, 2P is Kintaro-san,{KP}and 3P is Urashima-san!"
  },
  {
   "id": "M170D/30/0176",
   "kind": "msg",
   "jp": "ではゲームスタートです！\n　",
-  "en": ""
+  "en": "Now, game start!"
  },
  {
   "id": "M170D/30/01AC",
   "kind": "msg",
   "jp": "ではゲームを　プレイしますか？\n　{KN}",
-  "en": ""
+  "en": "Would you like to play the game?{KN}"
  },
  {
   "id": "M170D/31/000A",
   "kind": "msg",
   "jp": "お堀で水泳大会！\n対戦ゲームの　説明です！{KP}\nお堀を　泳ぐ　すごろくゲームです！\n　{KP}\nサイコロの　出目が　ゾロ目だと\n誰かに　いたずらできます！{KP}\nゾロ目の数に　よって\nいたずらは　変化します！{KP}\nいちばん早く　ゴールした人が\n優勝です！　がんばってくださいね！{KP}\n１Ｐは　桃太郎さん\n２Ｐは　金太郎さん{KP}\n３Ｐは　浦島さん\n４Ｐは　夜叉姫さんです！",
-  "en": ""
+  "en": "Moat Swimming Meet! Here's how the versus game works!{KP}It's a board game where you swim around the moat!{KP}Roll doubles on the dice and you can pull a prank on someone!{KP}The prank changes depending on the number you doubled!{KP}Whoever reaches the goal first is the winner! Do your best!{KP}1P is Momotaro-san, 2P is Kintaro-san,{KP}3P is Urashima-san, and 4P is Yashahime-san!"
  },
  {
   "id": "M170D/31/0188",
   "kind": "msg",
   "jp": "ではゲームスタートです！\n　",
-  "en": ""
+  "en": "Now, game start!"
  },
  {
   "id": "M170D/31/01BE",
   "kind": "msg",
   "jp": "ではゲームを　プレイしますか？\n　{KN}",
-  "en": ""
+  "en": "Would you like to play the game?{KN}"
  },
  {
   "id": "M170D/32/0002",
   "kind": "msg",
   "jp": "このゲームを\nもう一度　遊びますか？{KN}",
-  "en": ""
+  "en": "Play this game again?{KN}"
  },
  {
   "id": "M170D/33/000A",
   "kind": "msg",
   "jp": "「お堀で水泳大会！　イマカラ\n　ハジマル　アルヨ～！」{KP}\n「ジッキョウハ　ナゾノ\n　チュウゴクジン…」{KP}\n「しょっかーオーノ（芸名）\n　アルネ～！」{KP}\n「ジブンデ　ナゾノ　チュウゴクジン\n　イッテタラ　セワナイネ！」{KP}\n「デハ　サンカ　スルヒト\n　ショーカイ　スルアルヨ！」{KP}\n「１コース　桃太郎サン！\n　２コース　貧乏神サン！」{KP}\n「３コース　夜叉姫サン！\n　４コース　黒ガッパサン！」{KP}\n「オボレナイ　ヨウニ\n　キヲツケル　アルヨ～！」{KP}\n「ソレジャ　ヨーーーーーイ\n　すたーと　アルネ～～～～～！」",
-  "en": ""
+  "en": "\"Moat Swimming Meet! It begin now, yes!\"{KP}\"Commentary by mysterious Chinese man...\"{KP}\"Shocker Ono (stage name), yes!\"{KP}\"If I call myself mysterious Chinese man, is no mystery at all, yes!\"{KP}\"Now I introduce the swimmers, yes!\"{KP}\"Lane 1, Momotaro-san! Lane 2, Poverty God-san!\"{KP}\"Lane 3, Yashahime-san! Lane 4, Black Kappa-san!\"{KP}\"Be careful, no drowning, yes!\"{KP}\"So then, reeeeeady... go, yes!\""
  },
  {
   "id": "M170D/33/0224",
   "kind": "msg",
   "jp": "「お堀で水泳大会！ノ　タイセンガ\n　ハジマル　アルヨ～！」{KP}\n「ジッキョウハ　ナゾノ\n　チュウゴクジン…」{KP}\n「しょっかーオーノ（芸名）\n　アルネ～！」{KP}\n「ジブンデ　ナゾノ　チュウゴクジン\n　イッテタラ　セワナイネ！」{KP}\n「デハ　サンカ　スルヒト\n　ショーカイ　スルアルヨ！」{KP}\n「１コース　桃太郎サン！\n　２コース　金太郎サン！」{KP}\n「３コース　浦島サン！\n　４コース　夜叉姫サン！」{KP}\n「オボレナイ　ヨウニ\n　キヲツケル　アルヨ～！」{KP}\n「ソレジャ　ヨーーーーーイ\n　すたーと　アルネ～～～～～！」",
-  "en": ""
+  "en": "\"Moat Swimming Meet versus match, it begin now, yes!\"{KP}\"Commentary by mysterious Chinese man...\"{KP}\"Shocker Ono (stage name), yes!\"{KP}\"If I call myself mysterious Chinese man, is no mystery at all, yes!\"{KP}\"Now I introduce the swimmers, yes!\"{KP}\"Lane 1, Momotaro-san! Lane 2, Kintaro-san!\"{KP}\"Lane 3, Urashima-san! Lane 4, Yashahime-san!\"{KP}\"Be careful, no drowning, yes!\"{KP}\"So then, reeeeeady... go, yes!\""
  },
  {
   "id": "M170D/34/0002",
   "kind": "msg",
   "jp": "「{MM}サン！\n　さいころ　フルアルネ！」",
-  "en": ""
+  "en": "\"{MM}-san! You roll dice, yes!\""
  },
  {
   "id": "M170D/35/0002",
   "kind": "msg",
   "jp": "「貧乏神サンノ　ヨウス\n　ヘンアルヨ？」{KP}\n「マサカ　キングボンビーニ\n　へんしん　スルアルカ～！」",
-  "en": ""
+  "en": "\"Poverty God-san look strange, yes?\"{KP}\"No way! He transform into King Bombee?!\""
  },
  {
   "id": "M170D/36/0002",
   "kind": "msg",
   "jp": "「ミンナ　タイヘンアル！\n　キングボンビー　デタアルネ！」{KP}\n「コレカラ　スゴイコト\n　スルアルヨ！　コワイネ！」{KP}\n「コンカイノ　アクギョウハ\n　コレアルヨ～～～～～！」",
-  "en": ""
+  "en": "\"Everybody, big trouble! King Bombee come out, yes!\"{KP}\"Now he do terrible thing, yes! So scary!\"{KP}\"This time, his evil deed is thiiiiis, yes!\""
  },
  {
   "id": "M170D/36/00E4",
   "kind": "msg",
   "jp": "「ゴウケイ　８ヨリ　オオキイ数\n　ダサナイト　ススメナイアルヨ！」",
-  "en": ""
+  "en": "\"If you no roll total bigger than 8, you no can move, yes!\""
  },
  {
   "id": "M170D/36/0168",
   "kind": "msg",
   "jp": "「桃太郎サン　貧乏神サン\n　イチ　ちぇ～んじ　アルネ！」",
-  "en": ""
+  "en": "\"Momotaro-san, Poverty God-san, place chaaange, yes!\""
  },
  {
   "id": "M170D/36/01B2",
   "kind": "msg",
   "jp": "「桃太郎サン　夜叉姫サン\n　イチ　ちぇ～んじ　アルネ！」",
-  "en": ""
+  "en": "\"Momotaro-san, Yashahime-san, place chaaange, yes!\""
  },
  {
   "id": "M170D/36/01FC",
   "kind": "msg",
   "jp": "「桃太郎サン　黒ガッパサン\n　イチ　ちぇ～んじ　アルネ！」",
-  "en": ""
+  "en": "\"Momotaro-san, Black Kappa-san, place chaaange, yes!\""
  },
  {
   "id": "M170D/36/0248",
   "kind": "msg",
   "jp": "「貧乏神サン　夜叉姫サン\n　イチ　ちぇ～んじ　アルネ！」",
-  "en": ""
+  "en": "\"Poverty God-san, Yashahime-san, place chaaange, yes!\""
  },
  {
   "id": "M170D/36/0292",
   "kind": "msg",
   "jp": "「貧乏神サン　黒ガッパサン\n　イチ　ちぇ～んじ　アルネ！」",
-  "en": ""
+  "en": "\"Poverty God-san, Black Kappa-san, place chaaange, yes!\""
  },
  {
   "id": "M170D/36/02DE",
   "kind": "msg",
   "jp": "「夜叉姫サン　黒ガッパサン\n　イチ　ちぇ～んじ　アルネ！」",
-  "en": ""
+  "en": "\"Yashahime-san, Black Kappa-san, place chaaange, yes!\""
  },
  {
   "id": "M170D/36/032A",
   "kind": "msg",
   "jp": "「ミナサンガ　イルバショ\n　ゴチャマゼ　アルヨ～！」",
-  "en": ""
+  "en": "\"Everybody place all mixed up, yes!\""
  },
  {
   "id": "M170D/36/0370",
   "kind": "msg",
   "jp": "「ヒ～！　トンデモナイ　アル！\n　ダレカ　１０ます　モドルアル～！」",
-  "en": ""
+  "en": "\"Eeek! Is terrible, yes! Somebody go back 10 spaces!\""
  },
  {
   "id": "M170D/36/03C6",
   "kind": "msg",
   "jp": "「スゴイコト　ナッタヨ！」\n　　{KP}\n「ミナサン　ゼンイン\n　１０ます　モドルアル～～～～～！」",
-  "en": ""
+  "en": "\"Something amazing happen!\"{KP}\"Everybody, all of you, go back 10 spaaaaces!\""
  },
  {
   "id": "M170D/37/0002",
   "kind": "msg",
   "jp": "「黒ガッパサンガ　ウゴイタアル！\n　ダレノトコロ　イクアルカ～？」{KP}\n「黒ガッパサン　コワイアルヨー！」\n　",
-  "en": ""
+  "en": "\"Black Kappa-san move, yes! Where he go?\"{KP}\"Black Kappa-san so scary, yes!\""
  },
  {
   "id": "M170D/38/001A",
   "kind": "msg",
   "jp": "「桃太郎サンノ\n　トコロヘ　イッタアル！」{KP}\n「黒ガッパサンガ　桃太郎サンノ\n　さいころ　１コ　ヌスンダヨ！」",
-  "en": ""
+  "en": "\"He go to Momotaro-san, yes!\"{KP}\"Black Kappa-san steal one of Momotaro-san's dice!\""
  },
  {
   "id": "M170D/38/009C",
   "kind": "msg",
   "jp": "「貧乏神サンノ\n　トコロヘ　イッタアル！」{KP}\n「黒ガッパサンガ　貧乏神サンノ\n　さいころ　１コ　ヌスンダヨ！」",
-  "en": ""
+  "en": "\"He go to Poverty God-san, yes!\"{KP}\"Black Kappa-san steal one of Poverty God-san's dice!\""
  },
  {
   "id": "M170D/38/011E",
   "kind": "msg",
   "jp": "「夜叉姫サンノ\n　トコロヘ　イッタアル！」{KP}\n「黒ガッパサンガ　夜叉姫サンノ\n　さいころ　１コ　ヌスンダヨ！」",
-  "en": ""
+  "en": "\"He go to Yashahime-san, yes!\"{KP}\"Black Kappa-san steal one of Yashahime-san's dice!\""
  },
  {
   "id": "M170D/39/0002",
   "kind": "msg",
   "jp": "「オット！　ゾロ目ガ　デタアルヨ！\n　ゾロ目タヌキガ　デルアルネ！」",
-  "en": ""
+  "en": "\"Oh! Is doubles, yes! Doubles Tanuki come out, yes!\""
  },
  {
   "id": "M170D/40/0002",
   "kind": "msg",
   "jp": "「ヤッター！　{MM}さん\n　見事な　ゾロ目です！」",
-  "en": ""
+  "en": "\"Hooray! {MM}-san, those are splendid doubles!\""
  },
  {
   "id": "M170D/41/0002",
   "kind": "msg",
   "jp": "「{MM}さん！\n　{R0}のゾロ目が　でたお礼に」",
-  "en": ""
+  "en": "\"{MM}-san! As thanks for rolling doubles of {R0},\""
  },
  {
   "id": "M170D/41/0064",
   "kind": "msg",
   "jp": "「トップの人と\n　位置チェンジです！」",
-  "en": ""
+  "en": "\"you get to swap places with whoever is in the lead!\""
  },
  {
   "id": "M170D/41/00A4",
   "kind": "msg",
   "jp": "「…あれ？\n　{MM}さんが　トップですね」{KP}\n「そのまま　ゴールまで\n　がんばって　くださいね！」",
-  "en": ""
+  "en": "\"...Huh? {MM}-san, you're already in the lead.\"{KP}\"Keep it up all the way to the goal!\""
  },
  {
   "id": "M170D/41/0136",
   "kind": "msg",
   "jp": "「桃太郎さんが\n　１０マス　もどります！」",
-  "en": ""
+  "en": "\"Momotaro-san goes back 10 spaces!\""
  },
  {
   "id": "M170D/41/0172",
   "kind": "msg",
   "jp": "「金太郎さんが\n　１０マス　もどります！」",
-  "en": ""
+  "en": "\"Kintaro-san goes back 10 spaces!\""
  },
  {
   "id": "M170D/41/01AE",
   "kind": "msg",
   "jp": "「浦島さんが\n　１０マス　もどります！」",
-  "en": ""
+  "en": "\"Urashima-san goes back 10 spaces!\""
  },
  {
   "id": "M170D/41/01E8",
   "kind": "msg",
   "jp": "「夜叉姫さんが\n　１０マス　もどります！」",
-  "en": ""
+  "en": "\"Yashahime-san goes back 10 spaces!\""
  },
  {
   "id": "M170D/41/0224",
   "kind": "msg",
   "jp": "「サイコロを　１コ　あげます！」\n　",
-  "en": ""
+  "en": "\"You get one more of the dice!\""
  },
  {
   "id": "M170D/41/027A",
   "kind": "msg",
   "jp": "「桃太郎さんの\n　サイコロが　１コ　へります！」",
-  "en": ""
+  "en": "\"Momotaro-san loses one of the dice!\""
  },
  {
   "id": "M170D/41/02BC",
   "kind": "msg",
   "jp": "「金太郎さんの\n　サイコロが　１コ　へります！」",
-  "en": ""
+  "en": "\"Kintaro-san loses one of the dice!\""
  },
  {
   "id": "M170D/41/02FE",
   "kind": "msg",
   "jp": "「浦島さんの\n　サイコロが　１コ　へります！」",
-  "en": ""
+  "en": "\"Urashima-san loses one of the dice!\""
  },
  {
   "id": "M170D/41/033E",
   "kind": "msg",
   "jp": "「夜叉姫さんの\n　サイコロが　１コ　へります！」",
-  "en": ""
+  "en": "\"Yashahime-san loses one of the dice!\""
  },
  {
   "id": "M170D/41/03A0",
   "kind": "msg",
   "jp": "「桃太郎さんが\n　１回　お休みになります！」",
-  "en": ""
+  "en": "\"Momotaro-san loses a turn!\""
  },
  {
   "id": "M170D/41/03DE",
   "kind": "msg",
   "jp": "「金太郎さんが\n　１回　お休みになります！」",
-  "en": ""
+  "en": "\"Kintaro-san loses a turn!\""
  },
  {
   "id": "M170D/41/041C",
   "kind": "msg",
   "jp": "「浦島さんが\n　１回　お休みになります！」",
-  "en": ""
+  "en": "\"Urashima-san loses a turn!\""
  },
  {
   "id": "M170D/41/0458",
   "kind": "msg",
   "jp": "「夜叉姫さんが\n　１回　お休みになります！」",
-  "en": ""
+  "en": "\"Yashahime-san loses a turn!\""
  },
  {
   "id": "M170D/41/0496",
   "kind": "msg",
   "jp": "「{MM}さん　以外の　人は」\n　{KP}\n「合計　８より　大きい数が\n　でないと　進めません！」",
-  "en": ""
+  "en": "\"Everyone except {MM}-san...\"{KP}\"can't move unless they roll a total bigger than 8!\""
  },
  {
   "id": "M170D/42/0002",
   "kind": "msg",
   "jp": "「桃太郎サン！　ヤッタアルネ！\n　スゴイキロクデ　１バン　アルネ！」{KP}\n「オメデト！　オメデト！\n　シェーシェー！　オメデト！」{KP}\n「ミゴタエ　タップリ\n　スバラシイ　バトル　ダッタヨ！」{KP}\n「しょっかーオーノ（芸名）モ\n　カンドー　シタアルヨ！」{KP}\n「ゼッタイ　マタキテ！\n　マッテル　アルヨ！」{KP}\n「ソレジャ　ミナサン\n　マタアルネ～！」",
-  "en": ""
+  "en": "\"Momotaro-san! You did it, yes! Number 1 with amazing record, yes!\"{KP}\"Congratulation! Congratulation! Xie xie! Congratulation!\"{KP}\"Was wonderful battle, so much to see, yes!\"{KP}\"Shocker Ono (stage name) also very moved, yes!\"{KP}\"You come again for sure! I wait for you, yes!\"{KP}\"So then, everybody, see you again, yes!\""
  },
  {
   "id": "M170D/42/0176",
   "kind": "msg",
   "jp": "初めて勝った　記念として\n{bb}方言カード{ww}が　１枚　もらえます！",
-  "en": ""
+  "en": "As a memento of your first win, you get one {bb}Dialect Card{ww}!"
  },
  {
   "id": "M170D/42/01C6",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０３９{ww}を　手に入れた！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 039{ww}!{KP}Keep up the good work!"
  },
  {
   "id": "M170D/43/0002",
   "kind": "msg",
   "jp": "「アイヤ～！　桃太郎サン！\n　ゼンゼン　ダメ　アルネ！」{KP}\n「ツギコソ　１バン\n　メザス　アルネ～！」{KP}\n「しょっかーオーノ（芸名）モ\n　オーエン　スルアルヨ！」{KP}\n「マタ　クル　ヨロシ！\n　ツァイツェン！」{KP}\n「ツァイツェン　ハ　チュウゴクゴデ\n　マタアオーネ　アルヨ！」{KP}\n「ソレデハ　ツァイツェン！」\n",
-  "en": ""
+  "en": "\"Aiyaa! Momotaro-san! You no good at all, yes!\"{KP}\"Next time, aim for number 1, yes!\"{KP}\"Shocker Ono (stage name) cheer for you too, yes!\"{KP}\"You come again, okay! Zaijian!\"{KP}\"Zaijian mean 'see you again' in Chinese, yes!\"{KP}\"So then, zaijian!\""
  },
  {
   "id": "M170D/44/0002",
   "kind": "msg",
   "jp": "「{MM}サン！　ヤッタアルネ！\n　スゴイキロクデ　１バン　アルネ！」{KP}\n「オメデト！　オメデト！\n　シェーシェー！　オメデト！」{KP}\n「ミゴタエ　タップリ\n　スバラシイ　バトル　ダッタヨ！」{KP}\n「しょっかーオーノ（芸名）モ\n　カンドー　シタアルヨ！」{KP}\n「ゼッタイ　マタキテ！\n　マッテル　アルヨ！」{KP}\n「ソレジャ　ミナサン\n　マタアルネ～！」",
-  "en": ""
+  "en": "\"{MM}-san! You did it, yes! Number 1 with amazing record, yes!\"{KP}\"Congratulation! Congratulation! Xie xie! Congratulation!\"{KP}\"Was wonderful battle, so much to see, yes!\"{KP}\"Shocker Ono (stage name) also very moved, yes!\"{KP}\"You come again for sure! I wait for you, yes!\"{KP}\"So then, everybody, see you again, yes!\""
  },
  {
   "id": "M170D/45/0002",
   "kind": "msg",
   "jp": "「アイヤ～！　ヒキワケ！\n　アルネ！」{KP}\n「ミナサン　ツギコソ　１バン\n　メザス　アルネ～！」{KP}\n「しょっかーオーノ（芸名）モ\n　オーエン　スルアルヨ！」{KP}\n「マタ　クル　ヨロシ！\n　ツァイツェン！」{KP}\n「ツァイツェン　ハ　チュウゴクゴデ\n　マタアオーネ　アルヨ！」{KP}\n「ソレデハ　ツァイツェン！」\n",
-  "en": ""
+  "en": "\"Aiyaa! Is a tie, yes!\"{KP}\"Everybody, next time aim for number 1, yes!\"{KP}\"Shocker Ono (stage name) cheer for you too, yes!\"{KP}\"You come again, okay! Zaijian!\"{KP}\"Zaijian mean 'see you again' in Chinese, yes!\"{KP}\"So then, zaijian!\""
  }
 ]

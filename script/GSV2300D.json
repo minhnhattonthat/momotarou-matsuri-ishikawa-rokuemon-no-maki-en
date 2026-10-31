@@ -9,79 +9,79 @@
   "id": "GSV2300D/17/0002",
   "kind": "msg",
   "jp": "「大変じゃ！\n　わが家の　家宝の　{bb}青の鐘{ww}が」\n　{KP}\n「石川六右衛門に\n　うばわれてしもうた！」\n　{KP}\n「くぅ～　わが家　ゆいつの\n　お宝だったのに～！」\n　",
-  "en": ""
+  "en": "\"Disaster! Our family heirloom, the {bb}Blue Bell{ww},\"{KP}\"has been stolen by Ishikawa Rokuemon!\"{KP}\"Ugh! It was the only treasure our family had!\""
  },
  {
   "id": "GSV2300D/18/0002",
   "kind": "msg",
   "jp": "「たまーに　いるのよ！\n　お面屋さんで　つくった\n　お面に　ソックリな人」{KP}\n　\n「あの人たちに　ソックリな\n　お面を　見せてあげたら\n　どうなんでしょう？」{KP}\n　\n「ビックリするのかしら？\n　それとも　喜ぶのかしら？」\n　{KP}\n「やってみる　価値は\n　十分に　あると　思うわ！」\n　{KP}\n「最近　そのような　人が\n　この村に　こして来たわよ」\n　",
-  "en": ""
+  "en": "\"Every now and then, you meet them! People who look just like masks made at the mask shop.\"{KP}\"What do you suppose would happen if you showed them masks that look just like them?\"{KP}\"Would they be surprised? Or would they be happy?\"{KP}\"I think it's well worth a try!\"{KP}\"Someone like that moved to this village just recently.\""
  },
  {
   "id": "GSV2300D/19/001E",
   "kind": "msg",
   "jp": "「{bb}えんま大王{ww}も　ゆうぎに\n　こっているらしいぜ！」\n　{KP}\n「さっき　鬼に\n　聞いたんだけどな！」\n　",
-  "en": ""
+  "en": "\"I hear {bb}Great King Enma{ww} is really into games too!\"{KP}\"An oni told me so just a minute ago!\""
  },
  {
   "id": "GSV2300D/19/009C",
   "kind": "msg",
   "jp": "「わ～　ホタルが　きれいだぜ！」\n　\n　",
-  "en": ""
+  "en": "\"Wow, the fireflies are so pretty!\""
  },
  {
   "id": "GSV2300D/20/0002",
   "kind": "msg",
   "jp": "「桃太郎さんや　{bb}カード仙人{ww}には\n　会いに行って　いなさるかね？」\n　{KP}\n「カードアルバムを　くれた　仙人を\n　ないがしろにしては　いかん！」\n　{KP}\n「{bb}方言カード{ww}を　集めたら　\n　会いに行くと　いい！」\n　",
-  "en": ""
+  "en": "\"Momotaro-san, have you gone to see the {bb}Card Hermit{ww}?\"{KP}\"You mustn't neglect the hermit who gave you your Card Album!\"{KP}\"Once you've collected some {bb}Dialect Cards{ww}, go and see him!\""
  },
  {
   "id": "GSV2300D/21/0002",
   "kind": "msg",
   "jp": "「{bb}鬼ヶ島{ww}の　地下には　いろいろな\n　{bb}地獄{ww}が　あるようじゃ！」\n　{KP}\n「中には　普通に　歩けない所も\n　あるそうじゃ！」\n　{KP}\n「その　地下奥深くに\n　{bb}えんま大王{ww}が　おるようじゃ！」\n　{KP}\n「って　桃太郎さんなら\n　ごぞんじでしたかのぉ！」\n　",
-  "en": ""
+  "en": "\"It seems there are all sorts of {bb}Hells{ww} beneath {bb}Onigashima{ww}!\"{KP}\"They say some of them are places where you can't walk normally!\"{KP}\"And deep, deep down below, it seems, is {bb}Great King Enma{ww}!\"{KP}\"But then, Momotaro-san, you'd know all that already, eh!\""
  },
  {
   "id": "GSV2300D/22/0002",
   "kind": "msg",
   "jp": "「{bb}地獄{ww}の　{bb}えんま大王さま{ww}も\n　すっかり　おとなしくなりました！」\n　{KP}\n「昔は　それは　それは\n　おそろしかったんですがね！」\n　{KP}\n「でも　今でも　悪いことを\n　くり返している人には　おしおきを\n　しているそうよ！」",
-  "en": ""
+  "en": "\"{bb}Great King Enma-sama{ww} of {bb}Hell{ww} has become quite mild!\"{KP}\"Long ago, he was terrifying, I tell you!\"{KP}\"But I hear he still punishes people who keep doing bad things!\""
  },
  {
   "id": "GSV2300D/23/0010",
   "kind": "msg",
   "jp": "「大変　大変\n　桃太郎さん！」\n　{KP}\n「{bb}かぐや姫さま{ww}が\n　さらわれてしまったの！」\n　{KP}\n「どうしましょう…！」\n　\n　",
-  "en": ""
+  "en": "\"Oh no, oh no, Momotaro-san!\"{KP}\"{bb}Princess Kaguya-sama{ww} has been kidnapped!\"{KP}\"What shall we do...!\""
  },
  {
   "id": "GSV2300D/23/00A6",
   "kind": "msg",
   "jp": "「よかったわ！　かぐや姫さまが\n　無事で……」\n　",
-  "en": ""
+  "en": "\"Thank goodness! Princess Kaguya-sama is safe...\""
  },
  {
   "id": "GSV2300D/24/0002",
   "kind": "msg",
   "jp": "「ここは　美しい　{bb}かぐや姫{ww}が\n　住む　竹取りの村じゃ！」\n　{KP}\n「この村の　夜は　長いぞ！」\n　\n　",
-  "en": ""
+  "en": "\"This is Taketori Village, where the beautiful {bb}Princess Kaguya{ww} lives!\"{KP}\"The nights in this village are long!\""
  },
  {
   "id": "GSV2300D/25/001C",
   "kind": "msg",
   "jp": "「あ～！　桃太郎だポン！」\n　\n　{KP}\n「これ以上！\n　六右衛門さまの　じゃまは\n　させないポン！」",
-  "en": ""
+  "en": "\"Ah! It's Momotaro, pon!\"{KP}\"We won't let you get in Rokuemon-sama's way any more, pon!\""
  },
  {
   "id": "GSV2300D/26/0002",
   "kind": "msg",
   "jp": "「ケン　ケン\n　びっくりしましたよ！\n　桃太郎さん！」{KP}\n　\n「まさか　竹取りの村まで\n　来ていらっしゃるとは…」\n　{KP}\n「さすがは\n　桃太郎さんですね！」\n　",
-  "en": ""
+  "en": "\"Kyeen, kyeen! What a surprise, Momotaro-san!\"{KP}\"I never dreamed you'd come all the way to Taketori Village...\"{KP}\"That's Momotaro-san for you!\""
  },
  {
   "id": "GSV2300D/27/0018",
   "kind": "msg",
   "jp": "桃太郎は\n竹を　しらべた！\n　{KP}\n竹は　まぶしく\n光り　かがやいている！\n　",
-  "en": ""
+  "en": "Momotaro examined the bamboo!{KP}The bamboo is shining dazzlingly bright!"
  },
  {
   "id": "GSV2300D/27/007A",
@@ -93,13 +93,13 @@
   "id": "GSV2300D/27/022E",
   "kind": "msg",
   "jp": "なんと　{bb}勇気の印{ww}を\n見つけた！\n　",
-  "en": ""
+  "en": "Why, Momotaro found the {bb}Mark of Courage{ww}!"
  },
  {
   "id": "GSV2300D/27/0268",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}勇気の印{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Mark of Courage{ww}!{KN}"
  },
  {
   "id": "GSV2300D/27/02B6",

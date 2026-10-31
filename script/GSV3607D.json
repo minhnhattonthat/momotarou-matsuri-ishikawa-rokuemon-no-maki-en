@@ -3,30 +3,30 @@
   "id": "GSV3607D/2/002C",
   "kind": "msg",
   "jp": "「こまった　こまった……\n　あっ！　桃太郎さん」\n　{KP}\n「見ていただけましたか\n　この村の　現状を！」\n　{KP}\n「つい　昨日のことでした……\n　この村の　温泉の　かまど的な\n　役割を　している」{KP}\n　\n「ひょっとこ山の　マグマの　勢いが\n　おとろえてきたので　村人全員で」\n　{KP}\n「ひょっとこ山の　穴の部分に\n　フーフーと　息を　ふきこんで\n　おった時に」{KP}\n　\n「誰かが　火口に　爆薬を\n　投げこんだんですよ！」\n　{KP}\n「そうしたら　このありさまで\n　村人は　ほとんど　にげ出して\n　しまいました！」{KP}\n　\n「旅人から　聞いたことがある\n　大災を　しずめるという　伝説の\n　{bb}虹の玉{ww}でも　あればいいのですが…」",
-  "en": ""
+  "en": "\"What a mess, what a mess... Oh! Momotaro-san!\"{KP}\"Have you seen the state this village is in?\"{KP}\"It was only yesterday...... Mt. Hyottoko, which serves as a kind of furnace\"{KP}\"for this village's hot springs, was losing its magma power, so all the villagers\"{KP}\"were blowing into the hole at the top of Mt. Hyottoko, whoo, whoo, when\"{KP}\"someone threw explosives into the crater!\"{KP}\"Then this happened, and nearly all the villagers ran away!\"{KP}\"If only we had the legendary {bb}Rainbow Orb{ww} a traveler told me about, said to quell great disasters...\""
  },
  {
   "id": "GSV3607D/2/02CA",
   "kind": "msg",
   "jp": "「これから　どうすれば　いいのやら…\n　伝説の　{bb}虹の玉{ww}が　あればなぁ…」\n　",
-  "en": ""
+  "en": "\"What on earth do we do now... If only we had the legendary {bb}Rainbow Orb{ww}...\""
  },
  {
   "id": "GSV3607D/2/032C",
   "kind": "msg",
   "jp": "「ご苦労様でした　桃太郎さん！\n　お礼に　わが家の　宝物\n　{bb}火の皿{ww}を　さしあげます！」",
-  "en": ""
+  "en": "\"Thank you for all your trouble, Momotaro-san! As thanks, I'll give you our family treasure, the {bb}Fire Plate{ww}!\""
  },
  {
   "id": "GSV3607D/2/039A",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}火の皿{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Fire Plate{ww}!{KN}"
  },
  {
   "id": "GSV3607D/2/03E0",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　この村の　温泉に\n　もう　入りましたか？」",
-  "en": ""
+  "en": "\"Momotaro-san! Have you tried this village's hot springs yet?\""
  }
 ]

@@ -3,114 +3,114 @@
   "id": "M330D/11/0002",
   "kind": "msg",
   "jp": "ゲームを　続けますか？\n　{KN}",
-  "en": ""
+  "en": "Continue the game?{KN}"
  },
  {
   "id": "M330D/12/000A",
   "kind": "msg",
   "jp": "花火色合わせ！の　遊び方\n　{KP}\n夜空に　ふわふわ　ただよう\n３色のお化けは　花火が　苦手！{KP}\n同じ色の　花火を　お化けに\nぶつければ　退治することができます！{KP}\n×ボタンで　花火の色を　変えて\n○ボタンで　花火を　打ち上げます！{KP}\n方向キーで　花火の台車を\n右に　左に　動かしましょう！{KP}\n連鎖（れんさ）！　連鎖（れんさ）！で\nまとめて　退治しちゃってください！",
-  "en": ""
+  "en": "How to Play Firework Color Match!{KP}The ghosts of 3 colors drifting through the night sky can't stand fireworks!{KP}Hit a ghost with a firework of the same color to get rid of it!{KP}Change the firework color with the X button, and launch fireworks with the Circle button!{KP}Move the firework cart left and right with the directional buttons!{KP}Chain! Chain! Wipe them out all at once!"
  },
  {
   "id": "M330D/12/0190",
   "kind": "msg",
   "jp": "ではゲームスタートです！\n　",
-  "en": ""
+  "en": "Now, game start!"
  },
  {
   "id": "M330D/12/01C6",
   "kind": "msg",
   "jp": "ではゲームを　プレイしますか？\n　{KN}",
-  "en": ""
+  "en": "Would you like to play the game?{KN}"
  },
  {
   "id": "M330D/13/000A",
   "kind": "msg",
   "jp": "花火色合わせ！\n対戦ゲームの　説明です！{KP}\n×ボタンで　花火の色を　変えて\n○ボタンで　花火を　打ち上げます！{KP}\n方向キーで　花火の台車を\n右に　左に　動かしましょう！{KP}\n６０秒間　おばけを　消した\n合計点で　勝負が　決まります！{KP}\nそれでは　高得点　めざして\nがんばりましょう！{KP}\n１Ｐは　桃太郎さん\n２Ｐは　金太郎さんです！",
-  "en": ""
+  "en": "Firework Color Match! Here's how the versus game works!{KP}Change the firework color with the X button, and launch fireworks with the Circle button!{KP}Move the firework cart left and right with the directional buttons!{KP}Whoever scores more points getting rid of ghosts in 60 seconds wins!{KP}Now, aim for a high score and do your best!{KP}1P is Momotaro-san, and 2P is Kintaro-san!"
  },
  {
   "id": "M330D/13/016E",
   "kind": "msg",
   "jp": "ではゲームスタートです！\n　",
-  "en": ""
+  "en": "Now, game start!"
  },
  {
   "id": "M330D/13/01A4",
   "kind": "msg",
   "jp": "ではゲームを　プレイしますか？\n　{KN}",
-  "en": ""
+  "en": "Would you like to play the game?{KN}"
  },
  {
   "id": "M330D/14/004A",
   "kind": "msg",
   "jp": "今回は{R2}段でした\n　",
-  "en": ""
+  "en": "This time you got level {R2}."
  },
  {
   "id": "M330D/14/0070",
   "kind": "msg",
   "jp": "今回は初段でした\n　",
-  "en": ""
+  "en": "This time you got level 1."
  },
  {
   "id": "M330D/14/0096",
   "kind": "msg",
   "jp": "今回は免許皆伝でした\n　",
-  "en": ""
+  "en": "This time you got Full Mastery."
  },
  {
   "id": "M330D/14/00C0",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n新記録ですよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! It's a new record!!{KP}Keep up the good work!"
  },
  {
   "id": "M330D/14/0138",
   "kind": "msg",
   "jp": "今回は{R2}段でした\n　",
-  "en": ""
+  "en": "This time you got level {R2}."
  },
  {
   "id": "M330D/14/015E",
   "kind": "msg",
   "jp": "今回は初段でした\n　",
-  "en": ""
+  "en": "This time you got level 1."
  },
  {
   "id": "M330D/14/0184",
   "kind": "msg",
   "jp": "今回は免許皆伝でした\n　",
-  "en": ""
+  "en": "This time you got Full Mastery."
  },
  {
   "id": "M330D/14/01BE",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n段位更新ですよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! Your level went up!!{KP}Keep up the good work!"
  },
  {
   "id": "M330D/14/0228",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n初段に　なりましたよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! You reached level 1!!{KP}Keep up the good work!"
  },
  {
   "id": "M330D/14/0298",
   "kind": "msg",
   "jp": "桃太郎さん　おめでとうございます！\n免許皆伝に　なりましたよ！！{KP}\nごほうびとして\n{bb}方言カード{ww}が　１枚　もらえます！",
-  "en": ""
+  "en": "Congratulations, Momotaro-san! You've reached Full Mastery!!{KP}As a reward, you get one {bb}Dialect Card{ww}!"
  },
  {
   "id": "M330D/14/0324",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０１９{ww}を　手に入れた！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 019{ww}!{KP}Keep up the good work!"
  },
  {
   "id": "M330D/15/0002",
   "kind": "msg",
   "jp": "このゲームを\nもう一度　遊びますか？{KN}",
-  "en": ""
+  "en": "Play this game again?{KN}"
  }
 ]

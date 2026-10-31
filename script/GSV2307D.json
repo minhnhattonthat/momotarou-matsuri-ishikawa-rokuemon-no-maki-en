@@ -9,7 +9,7 @@
   "id": "GSV2307D/2/000E",
   "kind": "msg",
   "jp": "「いらっしゃいませ！\n　{bb}宝さがしゲームその２{ww}が\n　５０両で楽しめます」{KN}",
-  "en": ""
+  "en": "\"Welcome! You can play {bb}Treasure Hunt Game 2{ww} for 50 ryo.\"{KN}"
  },
  {
   "id": "GSV2307D/2/00A2",
@@ -33,12 +33,12 @@
   "id": "GSV2307D/3/0002",
   "kind": "msg",
   "jp": "「ここの　{bb}宝さがしゲームその２{ww}は\n　ひこぼしの村の　{bb}宝さがしゲーム{ww}とは\n　ちがいましゅ！」{KP}\n　\n「なんと　地下ステージも\n　あるのよ！」\n　",
-  "en": ""
+  "en": "\"{bb}Treasure Hunt Game 2{ww} here is diffewent fwom the {bb}Treasure Hunt Game{ww} in Hikoboshi Village!\"{KP}\"Get this: it even has an underground stage!\""
  },
  {
   "id": "GSV2307D/4/0002",
   "kind": "msg",
   "jp": "「孫は　なんでか　わからんけど\n　このゆうぎが　得意なんじゃよ」\n　{KP}\n「おババには　わからん\n　コツがあるんじゃろうな！」\n　{KP}\n「みなが　気づかん所を\n　よく　しらべてみることじゃよ！」\n　",
-  "en": ""
+  "en": "\"I don't know why, but my grandson is good at this game.\"{KP}\"I reckon there's a trick to it that this old granny can't figure out!\"{KP}\"Take a good look in the places no one else notices!\""
  }
 ]

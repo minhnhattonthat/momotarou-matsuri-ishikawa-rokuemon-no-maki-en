@@ -3,150 +3,150 @@
   "id": "M390D/13/0002",
   "kind": "msg",
   "jp": "ゲームを　続けますか？\n　{KN}",
-  "en": ""
+  "en": "Continue the game?{KN}"
  },
  {
   "id": "M390D/14/000A",
   "kind": "msg",
   "jp": "種まきドンドン！の　遊び方\n　{KP}\n○○○×の　かけ声にあわせて\nリズムよく　畑を　耕してください！{KP}\n○ボタンで　耕し\n×ボタンで　タネを　まきます！{KP}\nかけ声と　ちがうボタンを　押すと\n作業が　しばらく　止まります！{KP}\nあわてず　あせらず\n畑を　耕してください！",
-  "en": ""
+  "en": "How to Play Sowing Don-Don!{KP}Till the field in rhythm with the Circle, Circle, Circle, X chant!{KP}Till with the Circle button, and sow seeds with the X button!{KP}Press a button that doesn't match the chant, and your work stops for a while!{KP}Don't hurry, don't panic, just till the field!"
  },
  {
   "id": "M390D/14/012C",
   "kind": "msg",
   "jp": "ではゲームスタートです！\n　",
-  "en": ""
+  "en": "Now, game start!"
  },
  {
   "id": "M390D/14/0162",
   "kind": "msg",
   "jp": "ではゲームを　プレイしますか？\n　{KN}",
-  "en": ""
+  "en": "Would you like to play the game?{KN}"
  },
  {
   "id": "M390D/15/000A",
   "kind": "msg",
   "jp": "種まきドンドン！\n対戦ゲームの　説明です！{KP}\n○○○×の　かけ声にあわせて\nリズムよく　畑を　耕してください！{KP}\n○ボタンで　耕し\n×ボタンで　タネを　まきます！{KP}\nかけ声と　ちがうボタンを　押すと\n作業が　しばらく　止まります！{KP}\n誰よりも　早く\n畑を　耕してください！{KP}\n１Ｐは　桃太郎さん\n２Ｐは　金太郎さんです！",
-  "en": ""
+  "en": "Sowing Don-Don! Here's how the versus game works!{KP}Till the field in rhythm with the Circle, Circle, Circle, X chant!{KP}Till with the Circle button, and sow seeds with the X button!{KP}Press a button that doesn't match the chant, and your work stops for a while!{KP}Till your field faster than anyone else!{KP}1P is Momotaro-san, and 2P is Kintaro-san!"
  },
  {
   "id": "M390D/15/0166",
   "kind": "msg",
   "jp": "ではゲームスタートです！\n　",
-  "en": ""
+  "en": "Now, game start!"
  },
  {
   "id": "M390D/15/019C",
   "kind": "msg",
   "jp": "ではゲームを　プレイしますか？\n　{KN}",
-  "en": ""
+  "en": "Would you like to play the game?{KN}"
  },
  {
   "id": "M390D/16/000A",
   "kind": "msg",
   "jp": "種まきドンドン！\n対戦ゲームの　説明です！{KP}\n○○○×の　かけ声にあわせて\nリズムよく　畑を　耕してください！{KP}\n○ボタンで　耕し\n×ボタンで　タネを　まきます！{KP}\nかけ声と　ちがうボタンを　押すと\n作業が　しばらく　止まります！{KP}\n誰よりも　早く\n畑を　耕してください！{KP}\n１Ｐは　桃太郎さん\n２Ｐは　金太郎さん{KP}\n３Ｐは　浦島さんです！\n　",
-  "en": ""
+  "en": "Sowing Don-Don! Here's how the versus game works!{KP}Till the field in rhythm with the Circle, Circle, Circle, X chant!{KP}Till with the Circle button, and sow seeds with the X button!{KP}Press a button that doesn't match the chant, and your work stops for a while!{KP}Till your field faster than anyone else!{KP}1P is Momotaro-san, and 2P is Kintaro-san,{KP}and 3P is Urashima-san!"
  },
  {
   "id": "M390D/16/0180",
   "kind": "msg",
   "jp": "ではゲームスタートです！\n　",
-  "en": ""
+  "en": "Now, game start!"
  },
  {
   "id": "M390D/16/01B6",
   "kind": "msg",
   "jp": "ではゲームを　プレイしますか？\n　{KN}",
-  "en": ""
+  "en": "Would you like to play the game?{KN}"
  },
  {
   "id": "M390D/17/000A",
   "kind": "msg",
   "jp": "種まきドンドン！\n対戦ゲームの　説明です！{KP}\n○○○×の　かけ声にあわせて\nリズムよく　畑を　耕してください！{KP}\n○ボタンで　耕し\n×ボタンで　タネを　まきます！{KP}\nかけ声と　ちがうボタンを　押すと\n作業が　しばらく　止まります！{KP}\n誰よりも　早く\n畑を　耕してください！{KP}\n１Ｐは　桃太郎さん\n２Ｐは　金太郎さん{KP}\n３Ｐは　浦島さん\n４Ｐは　夜叉姫さんです！",
-  "en": ""
+  "en": "Sowing Don-Don! Here's how the versus game works!{KP}Till the field in rhythm with the Circle, Circle, Circle, X chant!{KP}Till with the Circle button, and sow seeds with the X button!{KP}Press a button that doesn't match the chant, and your work stops for a while!{KP}Till your field faster than anyone else!{KP}1P is Momotaro-san, and 2P is Kintaro-san,{KP}3P is Urashima-san, and 4P is Yashahime-san!"
  },
  {
   "id": "M390D/17/0190",
   "kind": "msg",
   "jp": "ではゲームスタートです！\n　",
-  "en": ""
+  "en": "Now, game start!"
  },
  {
   "id": "M390D/17/01C6",
   "kind": "msg",
   "jp": "ではゲームを　プレイしますか？\n　{KN}",
-  "en": ""
+  "en": "Would you like to play the game?{KN}"
  },
  {
   "id": "M390D/18/0046",
   "kind": "msg",
   "jp": "今回は{R2}段でした\n　",
-  "en": ""
+  "en": "This time you got level {R2}."
  },
  {
   "id": "M390D/18/006C",
   "kind": "msg",
   "jp": "今回は初段でした\n　",
-  "en": ""
+  "en": "This time you got level 1."
  },
  {
   "id": "M390D/18/0092",
   "kind": "msg",
   "jp": "今回は免許皆伝でした\n　",
-  "en": ""
+  "en": "This time you got Full Mastery."
  },
  {
   "id": "M390D/18/00BC",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n新記録ですよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! It's a new record!!{KP}Keep up the good work!"
  },
  {
   "id": "M390D/18/0134",
   "kind": "msg",
   "jp": "今回は{R2}段でした\n　",
-  "en": ""
+  "en": "This time you got level {R2}."
  },
  {
   "id": "M390D/18/015A",
   "kind": "msg",
   "jp": "今回は初段でした\n　",
-  "en": ""
+  "en": "This time you got level 1."
  },
  {
   "id": "M390D/18/0180",
   "kind": "msg",
   "jp": "今回は免許皆伝でした\n　",
-  "en": ""
+  "en": "This time you got Full Mastery."
  },
  {
   "id": "M390D/18/01BA",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n段位更新ですよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! Your level went up!!{KP}Keep up the good work!"
  },
  {
   "id": "M390D/18/0224",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n初段に　なりましたよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! You reached level 1!!{KP}Keep up the good work!"
  },
  {
   "id": "M390D/18/0294",
   "kind": "msg",
   "jp": "桃太郎さん　おめでとうございます！\n免許皆伝に　なりましたよ！！{KP}\nごほうびとして\n{bb}方言カード{ww}が　１枚　もらえます！",
-  "en": ""
+  "en": "Congratulations, Momotaro-san! You've reached Full Mastery!!{KP}As a reward, you get one {bb}Dialect Card{ww}!"
  },
  {
   "id": "M390D/18/0320",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０４２{ww}を　手に入れた！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 042{ww}!{KP}Keep up the good work!"
  },
  {
   "id": "M390D/19/0002",
   "kind": "msg",
   "jp": "このゲームを\nもう一度　遊びますか？{KN}",
-  "en": ""
+  "en": "Play this game again?{KN}"
  }
 ]

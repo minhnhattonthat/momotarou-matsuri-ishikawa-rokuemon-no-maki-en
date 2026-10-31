@@ -3,30 +3,30 @@
   "id": "GSV2214D/2/0010",
   "kind": "msg",
   "jp": "「あっ桃太郎さんだ！\n　また　旅を　しているんですか？」\n　",
-  "en": ""
+  "en": "\"Oh, it's Momotaro-san! Are you traveling again?\""
  },
  {
   "id": "GSV2214D/2/007A",
   "kind": "msg",
   "jp": "「桃太郎さん！　{bb}乗船券{ww}を\n　さがしているんですか？」\n　{KP}\n「じゃじゃ－ん！　何を　かくそう\n　アタイ　{bb}乗船券{ww}を　持っているのよ」\n　{KP}\n「うちでは　もう　使わないからって\n　もらったの！」\n　{KP}\n「アタイの　大切な　宝物\n　なんですよ！」\n　{KP}\n「でも　アタイは　一度で\n　いいから　たくさんの\n　{bb}方言カード{ww}を　見てみたいの！」{KP}\n　\n「だから　桃太郎さんの　持っている\n　{bb}方言カード{ww}を　見せてくれたら\n　{bb}乗船券{ww}を　あげても　いいですよ」{KP}\n　\n「でもね　５～６枚くらいじゃ\n　ダメですよ！」\n　{KP}\n「やっぱ　２０枚以上　見せて\n　くれないとね！」\n　",
-  "en": ""
+  "en": "\"Momotaro-san! Are you looking for a {bb}Boat Ticket{ww}?\"{KP}\"Ta-daaa! Believe it or not, I've got a {bb}Boat Ticket{ww}!\"{KP}\"My family said they didn't need it anymore, so they gave it to me!\"{KP}\"It's my precious treasure!\"{KP}\"But just once, I'd love to see lots and lots of {bb}Dialect Cards{ww}!\"{KP}\"So if you show me the {bb}Dialect Cards{ww} you've got, Momotaro-san, I might just give you the {bb}Boat Ticket{ww}.\"{KP}\"But five or six won't cut it!\"{KP}\"You've gotta show me at least 20!\""
  },
  {
   "id": "GSV2214D/2/0306",
   "kind": "msg",
   "jp": "「あっ！\n　いっぱい　持っていますね！\n　桃太郎さんは！」{KP}\n　\n「ちょっと　見せてくださ～い！」\n　\n　{KP}\n「ふ～ん\n　こんな　カードが　あるの！」\n　{KP}\n「あっ！\n　この　カード　おもしろ～い！」\n　{KP}\n「ありがとう　桃太郎さん！\n　おもしろかったわ！\n　お礼に　{bb}乗船券{ww}を　あげるね！」",
-  "en": ""
+  "en": "\"Oh! You've got loads of them, Momotaro-san!\"{KP}\"Let me have a looook!\"{KP}\"Hmmm, so there are cards like this!\"{KP}\"Oh! This card is so fuuunny!\"{KP}\"Thank you, Momotaro-san! That was fun! As thanks, here's the {bb}Boat Ticket{ww}!\""
  },
  {
   "id": "GSV2214D/2/044E",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}乗船券{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Boat Ticket{ww}!{KN}"
  },
  {
   "id": "GSV2214D/2/049A",
   "kind": "msg",
   "jp": "「アタイも　がんばって\n　{bb}方言カード{ww}を　集めようかしら！」\n　",
-  "en": ""
+  "en": "\"Maybe I'll try my best to collect {bb}Dialect Cards{ww} too!\""
  }
 ]

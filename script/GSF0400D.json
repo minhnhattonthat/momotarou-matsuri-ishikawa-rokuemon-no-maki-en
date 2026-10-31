@@ -3,13 +3,13 @@
   "id": "GSF0400D/2/001A",
   "kind": "msg",
   "jp": "「ちょっと　ちょっと　桃太郎さん！\n　勝手に　入らないで　くださいよ！」\n　",
-  "en": ""
+  "en": "\"Hey, hey, Momotaro-san! Please don't just barge in here!\""
  },
  {
   "id": "GSF0400D/4/000A",
   "kind": "msg",
   "jp": "「こんにちわ　桃太郎さん！」\n　\n　{KP}\n「わたしは　ユキ鬼兄弟の\n　長男　ユキイチローです！」\n　{KP}\n「ここでは\n　ゆうぎ　{bb}つるつるつるりん{ww}が\n　楽しめます！」{KP}\n　\n「{bb}つるつるつるりん{ww}を\n　プレイしますか？」\n　{KN}",
-  "en": ""
+  "en": "\"Hello, Momotaro-san!\"{KP}\"I'm Yukiichiro, the eldest of the Snow Oni Brothers!\"{KP}\"Here you can enjoy the game {bb}Slippity Slide{ww}!\"{KP}\"Would you like to play {bb}Slippity Slide{ww}?\"{KN}"
  },
  {
   "id": "GSF0400D/4/011A",
@@ -21,60 +21,60 @@
   "id": "GSF0400D/4/0162",
   "kind": "msg",
   "jp": "つるつるつるりんの　遊び方\n　\n　{KP}\n「氷の塔を　最上階まで\n　かけ登るゲームです！」\n　{KP}\n「最上階までの　最高タイムで\n　競い合います！」\n　{KP}\n「コースは　２つあり　左の階段を\n　のぼると　せまいフロアが\n　３０階ある　{bb}ちっちゃいコース{ww}で」{KP}\n　\n「右の階段を　のぼると　広い\n　フロアが　１０階ある\n　{bb}でっかいコース{ww}です！」{KP}\n　\n「途中　キー操作が\n　逆になる　床とか…」\n　{KP}\n「すべる床！　矢印通りにしか\n　進めないような　床…」\n　{KP}\n「ひとつ下の階まで\n　落ちてしまうような　床…」\n　{KP}\n「乗ると　上下左右に\n　方向キーがでる　床…」\n　{KP}\n「この床は　行きたい　方向にある\n　方向キーの　黄色い所を押します」\n　{KP}\n「いろんな　氷の床が\n　待ちかまえています！」\n　{KP}\n「○ボタンで　現在　立っている\n　床の種類が　わかります！」\n　{KP}\n「×ボタンで\n　早く　走れます！」\n　{KP}\n「根気よく　氷の床を　見きわめて\n　ゴールを　めざしてくださいね！」\n　{KP}\n「では　お好きな　モードに\n　チャレンジして　ください！」\n　",
-  "en": ""
+  "en": "How to Play Slippity Slide{KP}\"It's a game where you race up the Ice Tower to the top floor!\"{KP}\"You compete for the best time to the top floor!\"{KP}\"There are 2 courses. The stairs on the left lead to the {bb}Teeny Course{ww}, with 30 narrow floors,\"{KP}\"and the stairs on the right lead to the {bb}Huge Course{ww}, with 10 wide floors!\"{KP}\"Along the way, there are floors that reverse your controls...\"{KP}\"Slippery floors! Floors where you can only move the way the arrows point...\"{KP}\"Floors that drop you down to the floor below...\"{KP}\"Floors that show directional buttons for up, down, left and right when you step on them...\"{KP}\"On those floors, press the yellow part of the directional button pointing where you want to go.\"{KP}\"All kinds of ice floors are waiting for you!\"{KP}\"Press the Circle button to see what kind of floor you're standing on!\"{KP}\"Press the X button to run faster!\"{KP}\"Be patient, figure out the ice floors, and aim for the goal!\"{KP}\"Now, take on whichever mode you like!\""
  },
  {
   "id": "GSF0400D/4/058C",
   "kind": "msg",
   "jp": "「そうですか…\n　やる気が　わいたら\n　遊びに　来てくださいね！」",
-  "en": ""
+  "en": "\"I see... Come and play whenever you feel up to it!\""
  },
  {
   "id": "GSF0400D/4/05E0",
   "kind": "msg",
   "jp": "「では　お好きな　モードに\n　チャレンジして　ください！」\n　",
-  "en": ""
+  "en": "\"Now, take on whichever mode you like!\""
  },
  {
   "id": "GSF0400D/4/067E",
   "kind": "msg",
   "jp": "「ウヒャヒャ…！　わしは\n　おたすけ仙人ぢゃ！」\n　{KP}\n「だいぶ　こまっとるようぢゃな！」\n　\n　{KP}\n「これまでの　努力に　めんじて\n　助けてあげるが　どうぢゃ？」\n　{KN}",
-  "en": ""
+  "en": "\"Uhyahya...! I am the Helper Hermit!\"{KP}\"You seem to be in quite a fix!\"{KP}\"In light of all your hard work so far, I could help you out. What do you say?\"{KN}"
  },
  {
   "id": "GSF0400D/4/0750",
   "kind": "msg",
   "jp": "「ならば　夜叉姫から\n　大切な物を　もらうがよい！」\n　",
-  "en": ""
+  "en": "\"Then go and receive something precious from Yashahime!\""
  },
  {
   "id": "GSF0400D/4/07D8",
   "kind": "msg",
   "jp": "「もう　桃太郎さん！\n　ずっと上で　待ってたのに！」\n　{KP}\n「仕方ないわね！\n　はい　これが\n　{bb}氷の篠笛（しのぶえ）{ww}よ！」",
-  "en": ""
+  "en": "\"Honestly, Momotaro-san! I was waiting way up there the whole time!\"{KP}\"Oh well! Here, this is the {bb}Ice Flute{ww}!\""
  },
  {
   "id": "GSF0400D/4/086A",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}氷の篠笛{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Ice Flute{ww}!{KN}"
  },
  {
   "id": "GSF0400D/4/08AA",
   "kind": "msg",
   "jp": "「せっかくだから\n　また　いっしょに\n　旅が　したいわ！」{KP}\n　\n「{bb}ほほえみの村{ww}で\n　そろそろ　{bb}だじゃれ大会{ww}が\n　始まるころよね！」{KP}\n　\n「{bb}ほほえみの村{ww}まで\n　いっしょに\n　行きましょう！」",
-  "en": ""
+  "en": "\"Since we're together again, I'd love to travel with you some more!\"{KP}\"The {bb}Pun Contest{ww} in {bb}Hohoemi Village{ww} should be starting about now!\"{KP}\"Let's go to {bb}Hohoemi Village{ww} together!\""
  },
  {
   "id": "GSF0400D/4/0992",
   "kind": "msg",
   "jp": "{bb}夜叉姫{ww}が\n仲間に　くわわった！\n　{KN}",
-  "en": ""
+  "en": "{bb}Yashahime{ww} joined the party!{KN}"
  },
  {
   "id": "GSF0400D/4/09E4",
   "kind": "msg",
   "jp": "「よしよし！　負けん気の　強い\n　男ぢゃの！　ウヒャヒャ…！」\n　{KP}\n「無理せずに　がんばることぢゃ！\n　ウヒャヒャ…！」\n　{KP}\n「もう一度　チャレンジぢゃな！」\n　\n　",
-  "en": ""
+  "en": "\"Good, good! You're a lad who hates to lose! Uhyahya...!\"{KP}\"Do your best, but don't push yourself! Uhyahya...!\"{KP}\"Time for another try, eh!\""
  }
 ]

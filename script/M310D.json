@@ -3,96 +3,96 @@
   "id": "M310D/24/0002",
   "kind": "msg",
   "jp": "ゲームを　続けますか？\n　{KN}",
-  "en": ""
+  "en": "Continue the game?{KN}"
  },
  {
   "id": "M310D/25/000A",
   "kind": "msg",
   "jp": "飛べ！水龍の　遊び方\n　{KP}\n龍に乗った　桃太郎を動かす\nシューティングゲームです！{KP}\n方向キーで　水龍を　動かし\n○ボタンで　火炎を　はき{KP}\n△ボタンで　電気を　放ちます！\n　{KP}\n○ボタンを　押し続けると\nため撃ちが　できます！{KP}\n４回　ダメージを　受けると\nゲーム・オーバーに　なります！{KP}\nせまる　敵を　倒して\n美しいボス・キャラに　会いましょう！",
-  "en": ""
+  "en": "How to Play Fly! Water Dragon{KP}It's a shooting game where you control Momotaro riding a dragon!{KP}Move the Water Dragon with the directional buttons and breathe fire with the Circle button,{KP}and release electricity with the Triangle button!{KP}Hold down the Circle button to fire a charged shot!{KP}Take damage 4 times, and it's game over!{KP}Defeat the oncoming enemies and go meet the beautiful boss character!"
  },
  {
   "id": "M310D/25/0188",
   "kind": "msg",
   "jp": "ではゲームスタートです！\n　",
-  "en": ""
+  "en": "Now, game start!"
  },
  {
   "id": "M310D/25/01BE",
   "kind": "msg",
   "jp": "ではゲームを　プレイしますか？\n　{KN}",
-  "en": ""
+  "en": "Would you like to play the game?{KN}"
  },
  {
   "id": "M310D/26/0046",
   "kind": "msg",
   "jp": "今回は{R2}段でした\n　",
-  "en": ""
+  "en": "This time you got level {R2}."
  },
  {
   "id": "M310D/26/006C",
   "kind": "msg",
   "jp": "今回は初段でした\n　",
-  "en": ""
+  "en": "This time you got level 1."
  },
  {
   "id": "M310D/26/0092",
   "kind": "msg",
   "jp": "今回は免許皆伝でした\n　",
-  "en": ""
+  "en": "This time you got Full Mastery."
  },
  {
   "id": "M310D/26/00BC",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n新記録ですよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! It's a new record!!{KP}Keep up the good work!"
  },
  {
   "id": "M310D/26/0134",
   "kind": "msg",
   "jp": "今回は{R2}段でした\n　",
-  "en": ""
+  "en": "This time you got level {R2}."
  },
  {
   "id": "M310D/26/015A",
   "kind": "msg",
   "jp": "今回は初段でした\n　",
-  "en": ""
+  "en": "This time you got level 1."
  },
  {
   "id": "M310D/26/0180",
   "kind": "msg",
   "jp": "今回は免許皆伝でした\n　",
-  "en": ""
+  "en": "This time you got Full Mastery."
  },
  {
   "id": "M310D/26/01BA",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n段位更新ですよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! Your level went up!!{KP}Keep up the good work!"
  },
  {
   "id": "M310D/26/0224",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n初段に　なりましたよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! You reached level 1!!{KP}Keep up the good work!"
  },
  {
   "id": "M310D/26/0294",
   "kind": "msg",
   "jp": "桃太郎さん　おめでとうございます！\n免許皆伝に　なりましたよ！！{KP}\nごほうびとして\n{bb}方言カード{ww}が　１枚　もらえます！",
-  "en": ""
+  "en": "Congratulations, Momotaro-san! You've reached Full Mastery!!{KP}As a reward, you get one {bb}Dialect Card{ww}!"
  },
  {
   "id": "M310D/26/0320",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０９９{ww}を　手に入れた！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 099{ww}!{KP}Keep up the good work!"
  },
  {
   "id": "M310D/27/0002",
   "kind": "msg",
   "jp": "このゲームを\nもう一度　遊びますか？{KN}",
-  "en": ""
+  "en": "Play this game again?{KN}"
  }
 ]

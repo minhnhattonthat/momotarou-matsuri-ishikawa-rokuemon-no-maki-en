@@ -3,43 +3,43 @@
   "id": "GSF1201D/3/001C",
   "kind": "msg",
   "jp": "「桃太郎！\n　ここまで　来るとは……」\n　{KP}\n「俺さまの　嫁に　なる予定の\n　かぐや姫に　ちょっかい\n　出そうと　いうのかい？」{KP}\n　\n「これ以上　追って来られぬよう\n　痛めつけてやるぜ！」\n　{KP}\n「いざ　勝負！」\n　\n　",
-  "en": ""
+  "en": "\"Momotaro! To think you'd come this far......\"{KP}\"You trying to make a move on Princess Kaguya, my bride-to-be?\"{KP}\"I'll rough you up so you can't follow me any further!\"{KP}\"Let's settle this!\""
  },
  {
   "id": "GSF1201D/3/0132",
   "kind": "msg",
   "jp": "石川六右衛門が　{bb}青の鐘{ww}を\n落とした！\n　{KP}\n桃太郎は　すかさず\n{bb}青の鐘{ww}を　ひろい上げた！\n　",
-  "en": ""
+  "en": "Ishikawa Rokuemon dropped the {bb}Blue Bell{ww}!{KP}Momotaro quickly picked up the {bb}Blue Bell{ww}!"
  },
  {
   "id": "GSF1201D/3/01AA",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}青の鐘{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Blue Bell{ww}!{KN}"
  },
  {
   "id": "GSF1201D/3/01EE",
   "kind": "msg",
   "jp": "「ちょこざいな　桃太郎！」\n　\n　",
-  "en": ""
+  "en": "\"Why, you cheeky little Momotaro!\""
  },
  {
   "id": "GSF1201D/3/0254",
   "kind": "msg",
   "jp": "桃太郎は　{bb}赤の鐘{ww}を　うばわれた！\n　\n　",
-  "en": ""
+  "en": "Momotaro's {bb}Red Bell{ww} was snatched away!"
  },
  {
   "id": "GSF1201D/3/029C",
   "kind": "msg",
   "jp": "桃太郎は　{bb}緑の鐘{ww}を　うばわれた！\n　\n　",
-  "en": ""
+  "en": "Momotaro's {bb}Green Bell{ww} was snatched away!"
  },
  {
   "id": "GSF1201D/3/02E0",
   "kind": "msg",
   "jp": "「ムフフフ\n　しょせん　俺さまの\n　敵では　ないな！」",
-  "en": ""
+  "en": "\"Muhuhuhu, you're no match for yours truly after all!\""
  },
  {
   "id": "GSF1201D/3/0346",
@@ -51,13 +51,13 @@
   "id": "GSF1201D/3/0396",
   "kind": "msg",
   "jp": "鬼たちが　集まって来た！\n　\n　",
-  "en": ""
+  "en": "The oni gathered around!"
  },
  {
   "id": "GSF1201D/3/03C6",
   "kind": "msg",
   "jp": "「仲間を　呼ぶとは\n　ひきょうな　やつ！」\n　",
-  "en": ""
+  "en": "\"Calling in your friends, eh? You coward!\""
  },
  {
   "id": "GSF1201D/3/0428",
@@ -69,18 +69,18 @@
   "id": "GSF1201D/3/0470",
   "kind": "msg",
   "jp": "「桃太郎さん　どうしたんですか？」\n　\n　{KP}\n「……ふむふむ\n　これから　{bb}えんま大王さま{ww}の所に\n　行くのですか？」{KP}\n　\n「では　ボクらが　かぐや姫さまを\n　竹取りの村に　お連れしますよ！」\n　",
-  "en": ""
+  "en": "\"Momotaro-san, what's wrong?\"{KP}\"......Mm-hm, mm-hm. So you're on your way to see {bb}Great King Enma-sama{ww}?\"{KP}\"Then we'll take Princess Kaguya-sama back to Taketori Village!\""
  },
  {
   "id": "GSF1201D/3/0556",
   "kind": "msg",
   "jp": "「桃太郎さん　気をつけてね！\n　石川六右衛門は　何かを\n　たくらんで　いるようだから」",
-  "en": ""
+  "en": "\"Be careful, Momotaro-san! Ishikawa Rokuemon seems to be plotting something.\""
  },
  {
   "id": "GSF1201D/4/0002",
   "kind": "msg",
   "jp": "「あっ　桃太郎さん！\n　助けてください！」\n　{KP}\n「あたし　この人の　お嫁に\n　なんて　なりたくないわ！」\n　",
-  "en": ""
+  "en": "\"Ah, Momotaro-san! Please help me!\"{KP}\"I don't want to become this man's bride!\""
  }
 ]

@@ -3,13 +3,13 @@
   "id": "GSS0700D/2/002E",
   "kind": "msg",
   "jp": "「プンプン！\n　わしゃ　{bb}ダルマてんぐ{ww}ぞな！」\n　{KP}\n「用のない者は　勝手に\n　入っては　いけないぞな！\n　プンプン！」",
-  "en": ""
+  "en": "\"Hmph, hmph! I'm the {bb}Daruma Tengu{ww}, zona!\"{KP}\"Folks with no business here mustn't come barging in, zona! Hmph, hmph!\""
  },
  {
   "id": "GSS0700D/2/00BE",
   "kind": "msg",
   "jp": "「プンプン！　なにー？\n　わしの　{bb}大うちわ{ww}を\n　くれとな？」{KP}\n　\n「ほ～　人助けのためか…」\n　\n　{KP}\n「ならば　{bb}大うちわ{ww}を\n　使う者として　ふさわしいか\n　どうかを」{KP}\n　\n「わしの　考えた　ゆうぎ\n　{bb}忍者だホイ！{ww}で\n　ためさせてもらうぞな！」{KP}\n　\n「２０００点以上　取らねば\n　{bb}大うちわ{ww}は　あげられぬぞ！\n　プンプン！」{KP}\n　\n「ゆうぎの　{bb}忍者だホイ！{ww}を\n　やるぞな？」\n　{KN}",
-  "en": ""
+  "en": "\"Hmph, hmph! Whaaat? You want my {bb}Giant Fan{ww}?\"{KP}\"Hoh... It's to help someone, is it...\"{KP}\"Then I'll test whether you're worthy to wield the {bb}Giant Fan{ww}\"{KP}\"with a game I came up with, {bb}Ninja Hoi!{ww}, zona!\"{KP}\"Unless you score 2000 points or more, I can't give you the {bb}Giant Fan{ww}! Hmph, hmph!\"{KP}\"Will you play the game {bb}Ninja Hoi!{ww}, zona?\"{KN}"
  },
  {
   "id": "GSS0700D/2/0290",
@@ -21,36 +21,36 @@
   "id": "GSS0700D/2/02D4",
   "kind": "msg",
   "jp": "「気合い　入れて　がんばるぞな\n　プンプン！」\n　",
-  "en": ""
+  "en": "\"Put your spirit into it and do your best, zona! Hmph, hmph!\""
  },
  {
   "id": "GSS0700D/2/0336",
   "kind": "msg",
   "jp": "「用のない者は　勝手に\n　入っては　いけないぞな！\n　プンプン！」",
-  "en": ""
+  "en": "\"Folks with no business here mustn't come barging in, zona! Hmph, hmph!\""
  },
  {
   "id": "GSS0700D/2/03AC",
   "kind": "msg",
   "jp": "「よくやったな！\n　では　{bb}大うちわ{ww}を\n　あげるぞな！」",
-  "en": ""
+  "en": "\"Well done! Now I'll give you the {bb}Giant Fan{ww}, zona!\""
  },
  {
   "id": "GSS0700D/2/03F6",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}大うちわ{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Giant Fan{ww}!{KN}"
  },
  {
   "id": "GSS0700D/2/043E",
   "kind": "msg",
   "jp": "「もう一度　やるぞな？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Will you play again, zona?\"{KN}"
  },
  {
   "id": "GSS0700D/2/0476",
   "kind": "msg",
   "jp": "「プンプン！\n　わしゃ　{bb}ダルマてんぐ{ww}ぞな！」\n　{KP}\n「もう一度　{bb}忍者だホイ！{ww}を\n　遊ぶぞな？」\n　{KN}",
-  "en": ""
+  "en": "\"Hmph, hmph! I'm the {bb}Daruma Tengu{ww}, zona!\"{KP}\"Will you play {bb}Ninja Hoi!{ww} again, zona?\"{KN}"
  }
 ]

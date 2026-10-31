@@ -3,78 +3,78 @@
   "id": "GSF1203D/4/0006",
   "kind": "msg",
   "jp": "「炎の海を　わたるには\n　{bb}鬼のわらじ{ww}が　必要ですよ！」\n　{KP}\n「今なら　５００両で\n　おゆずりしています！\n　お買いに　なりますか？」{KN}",
-  "en": ""
+  "en": "\"To cross the sea of flames, you need {bb}Oni Sandals{ww}!\"{KP}\"Right now, I'm selling them for 500 ryo! Would you like to buy them?\"{KN}"
  },
  {
   "id": "GSF1203D/4/00D8",
   "kind": "msg",
   "jp": "　\n「ありがとうございます！\n　では　これを！」\n　",
-  "en": ""
+  "en": "\"Thank you very much! Here you are!\""
  },
  {
   "id": "GSF1203D/4/012A",
   "kind": "msg",
   "jp": "　\n「あれ　桃太郎さん\n　お金が　足りませんよ！」\n　",
-  "en": ""
+  "en": "\"Oh, Momotaro-san, you don't have enough money!\""
  },
  {
   "id": "GSF1203D/4/0178",
   "kind": "msg",
   "jp": "　\n「あれ？\n　持ち物が　いっぱいですね！」\n　",
-  "en": ""
+  "en": "\"Oh? You can't carry any more!\""
  },
  {
   "id": "GSF1203D/4/01C0",
   "kind": "msg",
   "jp": "　\n「では　引き返した方が\n　いいですよ！」\n　",
-  "en": ""
+  "en": "\"Then you'd better turn back!\""
  },
  {
   "id": "GSF1203D/5/001E",
   "kind": "msg",
   "jp": "「ここから　先は　{bb}えんま大王さま{ww}の\n　命に　より　お通しできません！」\n　",
-  "en": ""
+  "en": "\"By order of {bb}Great King Enma-sama{ww}, I can't let you past this point!\""
  },
  {
   "id": "GSF1203D/5/007E",
   "kind": "msg",
   "jp": "「この下は　私たちも　入ったことの\n　ない　{bb}ハルマの場{ww}です！」\n　{KP}\n「術とかは　効かないようなので\n　気をつけて　くださいね！」\n　",
-  "en": ""
+  "en": "\"Below here is {bb}Haruma Field{ww}, where even we have never set foot!\"{KP}\"Arts and such don't seem to work there, so please be careful!\""
  },
  {
   "id": "GSF1203D/5/011E",
   "kind": "msg",
   "jp": "「この下は　{bb}ハルマの場{ww}です！\n　術とかは　効かない場所ですよ！」\n　",
-  "en": ""
+  "en": "\"Below here is {bb}Haruma Field{ww}! Arts and such don't work there!\""
  },
  {
   "id": "GSF1203D/6/0006",
   "kind": "msg",
   "jp": "「炎の海を　わたるには\n　{bb}鬼のわらじ{ww}が　必要ですよ！」\n　{KP}\n「今なら　５００両で\n　おゆずりしています！\n　お買いに　なりますか？」{KN}",
-  "en": ""
+  "en": "\"To cross the sea of flames, you need {bb}Oni Sandals{ww}!\"{KP}\"Right now, I'm selling them for 500 ryo! Would you like to buy them?\"{KN}"
  },
  {
   "id": "GSF1203D/6/00D8",
   "kind": "msg",
   "jp": "　\n「ありがとうございます！\n　では　これを！」\n　",
-  "en": ""
+  "en": "\"Thank you very much! Here you are!\""
  },
  {
   "id": "GSF1203D/6/012A",
   "kind": "msg",
   "jp": "　\n「あれ　桃太郎さん\n　お金が　足りませんよ！」\n　",
-  "en": ""
+  "en": "\"Oh, Momotaro-san, you don't have enough money!\""
  },
  {
   "id": "GSF1203D/6/0178",
   "kind": "msg",
   "jp": "　\n「あれ？\n　持ち物が　いっぱいですね！」\n　",
-  "en": ""
+  "en": "\"Oh? You can't carry any more!\""
  },
  {
   "id": "GSF1203D/6/01C0",
   "kind": "msg",
   "jp": "　\n「では　引き返した方が\n　いいですよ！」\n　",
-  "en": ""
+  "en": "\"Then you'd better turn back!\""
  }
 ]

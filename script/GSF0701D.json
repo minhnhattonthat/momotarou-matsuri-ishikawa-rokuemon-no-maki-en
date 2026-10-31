@@ -3,36 +3,36 @@
   "id": "GSF0701D/2/002A",
   "kind": "msg",
   "jp": "「もっ　桃太郎さんだ…\n　ボ　ボクの持っている物を\n　うばうつもりですか…！？」{KP}\n　\n「そ　そんな　こと　させませんよ…」\n　\n　",
-  "en": ""
+  "en": "\"M-Momotaro-san... Y-you're going to take what I have...?!\"{KP}\"I-I won't let you do that...\""
  },
  {
   "id": "GSF0701D/2/00FA",
   "kind": "msg",
   "jp": "鬼面党は　{bb}小さな鐘{ww}を\n落としていった！\n　",
-  "en": ""
+  "en": "The Oni Mask Gang member dropped the {bb}Little Bell{ww}!"
  },
  {
   "id": "GSF0701D/2/0138",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}小さな鐘{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Little Bell{ww}!{KN}"
  },
  {
   "id": "GSF0701D/2/0180",
   "kind": "msg",
   "jp": "「もっ　桃太郎さんだ…\n　お　お願いが　あるのです…」\n　{KP}\n「この　{bb}小さな鐘{ww}を\n　上の階にいる　男の人に\n　返して　もらえませんか…？」{KP}\n　\n「ボ　ボクが　はかいの鐘と\n　まちがえて　盗んだ物です…」\n　{KP}\n「男の人は　とても\n　怒っているようなので\n　返しづらいです…」{KP}\n　\n「では　お　お願いします…」\n　\n　",
-  "en": ""
+  "en": "\"M-Momotaro-san... I-I have a favor to ask...\"{KP}\"Could you return this {bb}Little Bell{ww} to the man on the floor above...?\"{KP}\"I-I stole it by mistake, thinking it was a Bell of Destruction...\"{KP}\"The man seems really angry, so it's hard for me to give it back...\"{KP}\"W-well, p-please...\""
  },
  {
   "id": "GSF0701D/2/02E8",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}小さな鐘{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Little Bell{ww}!{KN}"
  },
  {
   "id": "GSF0701D/2/0334",
   "kind": "msg",
   "jp": "「で　では　桃太郎さん！\n　失礼します…」\n　",
-  "en": ""
+  "en": "\"W-well then, Momotaro-san! I'll be going...\""
  }
 ]

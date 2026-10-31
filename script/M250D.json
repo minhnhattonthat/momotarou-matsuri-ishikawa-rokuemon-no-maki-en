@@ -3,175 +3,175 @@
   "id": "M250D/28/0002",
   "kind": "msg",
   "jp": "ゲームを　続けますか？\n　{KN}",
-  "en": ""
+  "en": "Continue the game?{KN}"
  },
  {
   "id": "M250D/29/000A",
   "kind": "msg",
   "jp": "にらめっこアップップ！の　遊び方\n　{KP}\nお面屋さんで　お好みの\nお面を　作ってきてください！{KP}\nできた　お面で　対戦相手と\nにらめっこを　します！{KP}\n勝ち負けは\n審査員が　決定します！{KP}\nお面は　ふたつまで　用意できるので\nひとつ　選び　かぶりましょう！{KP}\n審査員が　お面の　組み合わせで\n得点を　出します！{KP}\nにらめっこするやつ　よっといで！\nおもしろいお面で　笑わせましょうね！",
-  "en": ""
+  "en": "How to Play Funny Face Face-Off!{KP}Have a mask of your choice made at the mask shop!{KP}Wear the finished mask and have a staring contest with your opponent!{KP}The judges decide who wins and who loses!{KP}You can prepare up to two masks, so choose one and put it on!{KP}The judges give points based on how the masks match up!{KP}Who's up for a face-off? Gather 'round! Make them laugh with a funny mask!"
  },
  {
   "id": "M250D/29/01A6",
   "kind": "msg",
   "jp": "ではゲームスタートです！\n　",
-  "en": ""
+  "en": "Now, game start!"
  },
  {
   "id": "M250D/29/01DC",
   "kind": "msg",
   "jp": "ではゲームを　プレイしますか？\n　{KN}",
-  "en": ""
+  "en": "Would you like to play the game?{KN}"
  },
  {
   "id": "M250D/30/0046",
   "kind": "msg",
   "jp": "今回は{R2}段でした\n　",
-  "en": ""
+  "en": "This time you got level {R2}."
  },
  {
   "id": "M250D/30/006C",
   "kind": "msg",
   "jp": "今回は初段でした\n　",
-  "en": ""
+  "en": "This time you got level 1."
  },
  {
   "id": "M250D/30/0092",
   "kind": "msg",
   "jp": "今回は免許皆伝でした\n　",
-  "en": ""
+  "en": "This time you got Full Mastery."
  },
  {
   "id": "M250D/30/00BC",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n新記録ですよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! It's a new record!!{KP}Keep up the good work!"
  },
  {
   "id": "M250D/30/0134",
   "kind": "msg",
   "jp": "今回は{R2}段でした\n　",
-  "en": ""
+  "en": "This time you got level {R2}."
  },
  {
   "id": "M250D/30/015A",
   "kind": "msg",
   "jp": "今回は初段でした\n　",
-  "en": ""
+  "en": "This time you got level 1."
  },
  {
   "id": "M250D/30/0180",
   "kind": "msg",
   "jp": "今回は免許皆伝でした\n　",
-  "en": ""
+  "en": "This time you got Full Mastery."
  },
  {
   "id": "M250D/30/01BA",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n段位更新ですよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! Your level went up!!{KP}Keep up the good work!"
  },
  {
   "id": "M250D/30/0224",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n初段に　なりましたよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! You reached level 1!!{KP}Keep up the good work!"
  },
  {
   "id": "M250D/30/0294",
   "kind": "msg",
   "jp": "桃太郎さん　おめでとうございます！\n免許皆伝に　なりましたよ！！{KP}\nごほうびとして\n{bb}方言カード{ww}が　１枚　もらえます！",
-  "en": ""
+  "en": "Congratulations, Momotaro-san! You've reached Full Mastery!!{KP}As a reward, you get one {bb}Dialect Card{ww}!"
  },
  {
   "id": "M250D/30/0320",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０７７{ww}を　手に入れた！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 077{ww}!{KP}Keep up the good work!"
  },
  {
   "id": "M250D/31/0002",
   "kind": "msg",
   "jp": "このゲームを\nもう一度　遊びますか？{KN}",
-  "en": ""
+  "en": "Play this game again?{KN}"
  },
  {
   "id": "M250D/32/0002",
   "kind": "msg",
   "jp": "その　お面で　いいですか？{KN}",
-  "en": ""
+  "en": "Is that mask okay?{KN}"
  },
  {
   "id": "M250D/33/001A",
   "kind": "msg",
   "jp": "{R2}　対　{R3}　です！\nやりました！　勝ちましたよ！{KP}\nさて　なん点　はいるでしょうか？\n　",
-  "en": ""
+  "en": "It's {R2} to {R3}! You did it! You won!{KP}Now, how many points will you get?"
  },
  {
   "id": "M250D/33/0086",
   "kind": "msg",
   "jp": "{R2}　対　{R3}　です！\n…残念ながら　負けちゃいました！{KP}\n勝たないと　得点が　もらえません！\nもっと　変な顔を　作ってくださいね！",
-  "en": ""
+  "en": "It's {R2} to {R3}! ...Sadly, you lost!{KP}You can't get points unless you win! Make an even weirder face next time!"
  },
  {
   "id": "M250D/33/011A",
   "kind": "msg",
   "jp": "{R2}　対　{R3}　です！\nどうやら　引き分けですね！{KP}\n勝たないと　得点は　もらえません！\n今度は　がんばってくださいね！",
-  "en": ""
+  "en": "It's {R2} to {R3}! Looks like a draw!{KP}You can't get points unless you win! Better luck next time!"
  },
  {
   "id": "M250D/34/0002",
   "kind": "msg",
   "jp": "　　　　お面づくりを\n　　　　続けますか？\n　{KN}",
-  "en": ""
+  "en": "Keep making masks?{KN}"
  },
  {
   "id": "M250D/35/001A",
   "kind": "msg",
   "jp": "　　　　この　お面で\n　　　　よろしいですか？\n　{KN}",
-  "en": ""
+  "en": "Is this mask all right?{KN}"
  },
  {
   "id": "M250D/35/006C",
   "kind": "msg",
   "jp": "　　　　まだ　お面が　できていません！\n　\n　",
-  "en": ""
+  "en": "The mask isn't finished yet!"
  },
  {
   "id": "M250D/35/00AE",
   "kind": "msg",
   "jp": "　　　　まだ　お面が　できていません！\n　　　　{MM}を　選んでください！\n　",
-  "en": ""
+  "en": "The mask isn't finished yet! Please choose {MM}!"
  },
  {
   "id": "M250D/36/0002",
   "kind": "msg",
   "jp": "ゲームを　続けますか？\n　{KN}",
-  "en": ""
+  "en": "Continue the game?{KN}"
  },
  {
   "id": "M250D/37/0012",
   "kind": "msg",
   "jp": "その　お面は　{R2}両ですが\nよろしいですか？{KN}",
-  "en": ""
+  "en": "That mask is {R2} ryo. Is that all right?{KN}"
  },
  {
   "id": "M250D/37/0050",
   "kind": "msg",
   "jp": "桃太郎さん　その　お面は\n大変　よい　できですね！{KP}\n今回に　かぎって　{R2}両で\n売れます！　よろしいですか？{KN}",
-  "en": ""
+  "en": "Momotaro-san, that mask is very well made!{KP}Just this once, it can go for {R2} ryo! Is that all right?{KN}"
  },
  {
   "id": "M250D/38/0002",
   "kind": "msg",
   "jp": "他に　ご用は？\n　",
-  "en": ""
+  "en": "Anything else I can do for you?"
  },
  {
   "id": "M250D/39/0002",
   "kind": "msg",
   "jp": "また　きてくださいね！\n　",
-  "en": ""
+  "en": "Please come again!"
  },
  {
   "id": "M250D/40/0002",

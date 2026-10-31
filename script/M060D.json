@@ -3,138 +3,138 @@
   "id": "M060D/17/0002",
   "kind": "msg",
   "jp": "ゲームを　続けますか？\n　{KN}",
-  "en": ""
+  "en": "Continue the game?{KN}"
  },
  {
   "id": "M060D/18/000A",
   "kind": "msg",
   "jp": "餅つきぺったんこの　遊び方\n　{KP}\n金太郎さんが　杵（きね）で\nウスの餅を　つきます！{KP}\nタイミングを見て　はさまれないように\n○ボタンで　餅をこねましょう！{KP}\n金太郎さんが　休まず\n餅を　つきます！{KP}\n得点が　高くなると　金太郎さんの\nスピードも速くなります！{KP}\n３回　手をはさまれると\nゲーム・オーバーです！{KP}\n６０秒間　たっぷり\nお餅を　ついてくださいね！",
-  "en": ""
+  "en": "How to Play Pound-Pound Mochi{KP}Kintaro-san pounds the mochi in the mortar with a wooden mallet!{KP}Watch the timing so you don't get squished, and knead the mochi with the Circle button!{KP}Kintaro-san pounds the mochi without a break!{KP}As your score goes up, Kintaro-san speeds up too!{KP}Get your hand squished 3 times and it's game over!{KP}Make plenty of mochi for a full 60 seconds!"
  },
  {
   "id": "M060D/18/0190",
   "kind": "msg",
   "jp": "ではゲームスタートです！\n　",
-  "en": ""
+  "en": "Now, game start!"
  },
  {
   "id": "M060D/18/01C6",
   "kind": "msg",
   "jp": "ではゲームを　プレイしますか？\n　{KN}",
-  "en": ""
+  "en": "Would you like to play the game?{KN}"
  },
  {
   "id": "M060D/19/000A",
   "kind": "msg",
   "jp": "餅つきぺったんこ！\n対戦ゲームの　説明です！{KP}\nタイミングを見て　はさまれないように\n○ボタンで　餅をこねましょう！{KP}\nお餅をつく間に\n３回こねます！{KP}\nミスなしで　５回　くり返すと\n対戦相手に　鏡餅が　落ちます！{KP}\n鏡餅に　当たると\nしばらく　動けなくなります！{KP}\n神業の早さで　得点を\nたくさん　取りましょうね！{KP}\n１Ｐは　桃太郎さん\n２Ｐは　金太郎さんです！",
-  "en": ""
+  "en": "Pound-Pound Mochi! Here's how the versus game works!{KP}Watch the timing so you don't get squished, and knead the mochi with the Circle button!{KP}You knead 3 times between each pound!{KP}Do it 5 times in a row without a mistake, and a kagami mochi drops on your opponent!{KP}Get hit by a kagami mochi and you can't move for a while!{KP}Score lots of points with godlike speed!{KP}1P is Momotaro-san, and 2P is Kintaro-san!"
  },
  {
   "id": "M060D/19/0194",
   "kind": "msg",
   "jp": "ではゲームスタートです！\n　",
-  "en": ""
+  "en": "Now, game start!"
  },
  {
   "id": "M060D/19/01CA",
   "kind": "msg",
   "jp": "ではゲームを　プレイしますか？\n　{KN}",
-  "en": ""
+  "en": "Would you like to play the game?{KN}"
  },
  {
   "id": "M060D/20/000A",
   "kind": "msg",
   "jp": "餅つきぺったんこ！\n４人対戦ゲームの　説明です！{KP}\nお餅を　つく人と　こねる人に\n分かれて　戦います！{KP}\n桃太郎＋赤鬼チーム！\n金太郎＋青鬼チームで　勝負します！{KP}\n桃太郎さんと　金太郎さんは\n○ボタンで　餅をこねます！{KP}\n赤鬼さんと　青鬼さんは\n○ボタンで　餅をつきます！{KP}\n６０秒以内で　どれだけたくさん\n得点を　取れるかを　競います！{KP}\n手を　たたかれると\nタイムロスになります！{KP}\n息を合わせて　高得点を\n取ってくださいね！{KP}\n１Ｐは　桃太郎さん\n２Ｐは　金太郎さん{KP}\n３Ｐは　赤鬼さん\n４Ｐは　青鬼さんです！",
-  "en": ""
+  "en": "Pound-Pound Mochi! Here's how the 4-player versus game works!{KP}You'll split up into pounders and kneaders!{KP}It's Team Momotaro + Red Oni against Team Kintaro + Blue Oni!{KP}Momotaro-san and Kintaro-san knead the mochi with the Circle button!{KP}Red Oni-san and Blue Oni-san pound the mochi with the Circle button!{KP}Compete to see how many points you can score in 60 seconds!{KP}Get your hand smacked and you'll lose time!{KP}Work in sync and get a high score!{KP}1P is Momotaro-san, 2P is Kintaro-san,{KP}3P is Red Oni-san, and 4P is Blue Oni-san!"
  },
  {
   "id": "M060D/20/0234",
   "kind": "msg",
   "jp": "ではゲームスタートです！\n　",
-  "en": ""
+  "en": "Now, game start!"
  },
  {
   "id": "M060D/20/026A",
   "kind": "msg",
   "jp": "ではゲームを　プレイしますか？\n　{KN}",
-  "en": ""
+  "en": "Would you like to play the game?{KN}"
  },
  {
   "id": "M060D/21/0046",
   "kind": "msg",
   "jp": "今回は{R2}段でした\n　",
-  "en": ""
+  "en": "This time you got level {R2}."
  },
  {
   "id": "M060D/21/006C",
   "kind": "msg",
   "jp": "今回は初段でした\n　",
-  "en": ""
+  "en": "This time you got level 1."
  },
  {
   "id": "M060D/21/0092",
   "kind": "msg",
   "jp": "今回は免許皆伝でした\n　",
-  "en": ""
+  "en": "This time you got Full Mastery."
  },
  {
   "id": "M060D/21/00BC",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n新記録ですよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! It's a new record!!{KP}Keep up the good work!"
  },
  {
   "id": "M060D/21/0134",
   "kind": "msg",
   "jp": "今回は{R2}段でした\n　",
-  "en": ""
+  "en": "This time you got level {R2}."
  },
  {
   "id": "M060D/21/015A",
   "kind": "msg",
   "jp": "今回は初段でした\n　",
-  "en": ""
+  "en": "This time you got level 1."
  },
  {
   "id": "M060D/21/0180",
   "kind": "msg",
   "jp": "今回は免許皆伝でした\n　",
-  "en": ""
+  "en": "This time you got Full Mastery."
  },
  {
   "id": "M060D/21/01BA",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n段位更新ですよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! Your level went up!!{KP}Keep up the good work!"
  },
  {
   "id": "M060D/21/0224",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n初段に　なりましたよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! You reached level 1!!{KP}Keep up the good work!"
  },
  {
   "id": "M060D/21/029C",
   "kind": "msg",
   "jp": "桃太郎さん　おめでとうございます！\n免許皆伝に　なりましたよ！！{KP}\nごほうびとして\n{bb}方言カード{ww}が　１枚　もらえます！",
-  "en": ""
+  "en": "Congratulations, Momotaro-san! You've reached Full Mastery!!{KP}As a reward, you get one {bb}Dialect Card{ww}!"
  },
  {
   "id": "M060D/21/0328",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０１４{ww}を　手に入れた！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 014{ww}!{KP}Keep up the good work!"
  },
  {
   "id": "M060D/21/0396",
   "kind": "msg",
   "jp": "桃太郎さん　おめでとうございます！\n免許皆伝に　なりましたよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Congratulations, Momotaro-san! You've reached Full Mastery!!{KP}Keep up the good work!"
  },
  {
   "id": "M060D/22/0002",
   "kind": "msg",
   "jp": "このゲームを\nもう一度　遊びますか？{KN}",
-  "en": ""
+  "en": "Play this game again?{KN}"
  }
 ]

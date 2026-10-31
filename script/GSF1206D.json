@@ -3,7 +3,7 @@
   "id": "GSF1206D/2/000A",
   "kind": "msg",
   "jp": "「近づくな！　桃太郎！」\n　\n　",
-  "en": ""
+  "en": "\"Stay back, Momotaro!\""
  },
  {
   "id": "GSF1206D/2/0042",
@@ -15,25 +15,25 @@
   "id": "GSF1206D/2/008E",
   "kind": "msg",
   "jp": "「うわー　やめろ！\n　目が　目が　つぶれるー！」\n　",
-  "en": ""
+  "en": "\"Aaagh, stop! My eyes, my eyes! I'm going blind!\""
  },
  {
   "id": "GSF1206D/2/02A0",
   "kind": "msg",
   "jp": "石川六右衛門は　元の　すがたである\nもぐらの化け物に　なった！\n　",
-  "en": ""
+  "en": "Ishikawa Rokuemon turned back into his true form, a mole monster!"
  },
  {
   "id": "GSF1206D/2/02F2",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　あんちゃんを\n　改心させたように」{KP}\n　\n「そいつも　{bb}真実の鏡{ww}で\n　改心させるクリー！」\n　",
-  "en": ""
+  "en": "\"Momotaro-san! Just like you made big bro change his ways,\"{KP}\"make that guy change his ways with the {bb}Mirror of Truth{ww} too, kuri!\""
  },
  {
   "id": "GSF1206D/3/000A",
   "kind": "msg",
   "jp": "「う～　目が　目が……」\n　\n　",
-  "en": ""
+  "en": "\"Ugh... My eyes, my eyes......\""
  },
  {
   "id": "GSF1206D/3/003C",
@@ -45,61 +45,61 @@
   "id": "GSF1206D/3/006C",
   "kind": "msg",
   "jp": "「うっ　うわー　何をする！」\n　\n　",
-  "en": ""
+  "en": "\"Wh-whoa! What are you doing?!\""
  },
  {
   "id": "GSF1206D/3/00B4",
   "kind": "msg",
   "jp": "「そ　そうだ\n　俺さまは　地中で　変な\n　ツボを　見つけたんだ！」{KP}\n　\n「ふたを　取ると　何やら\n　白い煙が　出てきて」\n　{KP}\n「盗賊の　おんねんの\n　ような　ものが…」\n　",
-  "en": ""
+  "en": "\"Th-that's right... I found a weird jar underground!\"{KP}\"When I took off the lid, some white smoke came out,\"{KP}\"like the grudge of some thief...\""
  },
  {
   "id": "GSF1206D/3/0192",
   "kind": "msg",
   "jp": "「桃太郎さん　ごめんよ！\n　俺さまは　どうか\n　していたんだ！」{KP}\n　\n「もう　悪さは　せずに\n　地中で　おとなしく\n　暮らしていくよ！」",
-  "en": ""
+  "en": "\"I'm sorry, Momotaro-san! I wasn't myself!\"{KP}\"I won't do anything bad anymore. I'll just live quietly underground!\""
  },
  {
   "id": "GSF1206D/3/0250",
   "kind": "msg",
   "jp": "「わー！　六右衛門さまが\n　もぐらの化け物に　なったー！」\n　",
-  "en": ""
+  "en": "\"Waaah! Rokuemon-sama turned into a mole monster!\""
  },
  {
   "id": "GSF1206D/3/02BE",
   "kind": "msg",
   "jp": "鬼面党も　にげ去った！\nしかし　はかいの鐘は　動き続けた！\n　",
-  "en": ""
+  "en": "The Oni Mask Gang fled too! But the Bell of Destruction kept on ringing!"
  },
  {
   "id": "GSF1206D/3/030C",
   "kind": "msg",
   "jp": "「桃太郎さん\n　助けてねんのねん！」\n　{KP}\n「体の中に　変な物が\n　入ってきたの　ねんのねん！」\n　{KP}\n「うわーの　ねんのねん！」\n　\n　",
-  "en": ""
+  "en": "\"Momotaro-san, help me, nen-nonen!\"{KP}\"Something weird got inside my body, nen-nonen!\"{KP}\"Waaah, nen-nonen!\""
  },
  {
   "id": "GSF1206D/3/03CA",
   "kind": "msg",
   "jp": "貧乏神の　体が　ふくらみ\nはじめた！\n　",
-  "en": ""
+  "en": "The Poverty God's body began to swell up!"
  },
  {
   "id": "GSF1206D/6/0002",
   "kind": "msg",
   "jp": "「桃太郎さん\n　助けてねんのねん！」\n　",
-  "en": ""
+  "en": "\"Momotaro-san, help me, nen-nonen!\""
  },
  {
   "id": "GSF1206D/7/0002",
   "kind": "msg",
   "jp": "「桃太郎　じゃまするなポン！」\n　\n　",
-  "en": ""
+  "en": "\"Don't get in our way, Momotaro, pon!\""
  },
  {
   "id": "GSF1206D/8/0002",
   "kind": "msg",
   "jp": "「も　桃太郎さん…\n　じゃ　じゃましないで　ください…」\n　",
-  "en": ""
+  "en": "\"M-Momotaro-san... P-please don't get in our way...\""
  },
  {
   "id": "GSF1206D/9/0002",
@@ -111,72 +111,72 @@
   "id": "GSF1206D/10/0100",
   "kind": "msg",
   "jp": "桃太郎は　鐘を　盗まれてしまった！\n　\n　",
-  "en": ""
+  "en": "Momotaro's bell was stolen!"
  },
  {
   "id": "GSF1206D/10/01A4",
   "kind": "msg",
   "jp": "「桃太郎よ　さらば！」\n　\n　",
-  "en": ""
+  "en": "\"Farewell, Momotaro!\""
  },
  {
   "id": "GSF1206D/10/027C",
   "kind": "msg",
   "jp": "「桃太郎さん　あぶなーい！」\n　\n　",
-  "en": ""
+  "en": "\"Momotaro-san, look ouuut!\""
  },
  {
   "id": "GSF1206D/10/037C",
   "kind": "msg",
   "jp": "「あんちゃーん」\n　\n　",
-  "en": ""
+  "en": "\"Big brooo!\""
  },
  {
   "id": "GSF1206D/10/03A4",
   "kind": "msg",
   "jp": "「最後に　かっこよく\n　桃太郎さんを　助けられて\n　よかったぜ…」{KP}\n　\n「栗太郎　これからは\n　人の　役にたつことを\n　していけよ！」{KP}\n　\n「こんな　あんちゃんで\n　ごめ…ん…な　カ…キ～」\n　",
-  "en": ""
+  "en": "\"I'm glad... I got to look cool at the end... and save Momotaro-san...\"{KP}\"Kuritaro, from now on, do things that help people!\"{KP}\"Sorry you got... a big bro... like me... Ka...kiii...\""
  },
  {
   "id": "GSF1206D/10/0486",
   "kind": "msg",
   "jp": "「あ　あんちゃーん\n　いやだー　おきてクリー！」\n　",
-  "en": ""
+  "en": "\"B-big brooo! No! Wake up, kuri!\""
  },
  {
   "id": "GSF1206D/10/04CA",
   "kind": "msg",
   "jp": "柿太郎は　絶命した！\n　\n　",
-  "en": ""
+  "en": "Kakitaro breathed his last!"
  },
  {
   "id": "GSF1206D/10/052E",
   "kind": "msg",
   "jp": "「桃太郎さん\n　助けてねんのねん！」\n　",
-  "en": ""
+  "en": "\"Momotaro-san, help me, nen-nonen!\""
  },
  {
   "id": "GSF1206D/10/0566",
   "kind": "msg",
   "jp": "貧乏神が　とらえられていた！\n　\n　",
-  "en": ""
+  "en": "The Poverty God had been captured!"
  },
  {
   "id": "GSF1206D/10/059A",
   "kind": "msg",
   "jp": "「ムフフ　桃太郎！\n　よくぞ　ここまで　来た！」\n　{KP}\n「その目で　この世のもの\n　すべてが　俺さまの　ものに\n　なる　瞬間を　見るがいい！」{KP}\n　\n「さあ　{bb}はかいの鐘{ww}たちよ！\n　はめつの曲を　かなでるが\n　いい！」",
-  "en": ""
+  "en": "\"Muhuhu, Momotaro! You've done well to make it this far!\"{KP}\"Now watch with your own eyes the moment everything in this world becomes mine!\"{KP}\"Now, ring out, every {bb}Bell of Destruction{ww}! Play the melody of ruin!\""
  },
  {
   "id": "GSF1206D/10/0708",
   "kind": "msg",
   "jp": "「はかい神よ\n　この　人を　うたがう　心に\n　やどるがいい！」",
-  "en": ""
+  "en": "\"God of Destruction! Dwell within this heart that doubts others!\""
  },
  {
   "id": "GSF1206D/10/0756",
   "kind": "msg",
   "jp": "「桃太郎さん　早く！\n　{bb}月光の鏡{ww}を　使うクリー！」\n　",
-  "en": ""
+  "en": "\"Momotaro-san, hurry! Use the {bb}Moonlight Mirror{ww}, kuri!\""
  }
 ]

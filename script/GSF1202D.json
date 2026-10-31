@@ -3,12 +3,12 @@
   "id": "GSF1202D/3/0002",
   "kind": "msg",
   "jp": "「ようこそ　桃太郎さん！\n　この階は　氷地獄です！」\n　{KP}\n「歩きづらいでしょうが\n　気をつけて　進んでください！」\n　",
-  "en": ""
+  "en": "\"Welcome, Momotaro-san! This floor is Ice Hell!\"{KP}\"It's hard to walk on, but please be careful as you go!\""
  },
  {
   "id": "GSF1202D/4/0002",
   "kind": "msg",
   "jp": "「氷の床は　すべりやすくて\n　思うようには　いかないのです！」\n　{KP}\n「でも　思うのと　反対の方向キーを\n　押すと　進みやすいんですよ！」\n　",
-  "en": ""
+  "en": "\"The ice floor is slippery, so you can't move the way you want!\"{KP}\"But if you press the directional button opposite to the way you mean to go, it's easier to get around!\""
  }
 ]

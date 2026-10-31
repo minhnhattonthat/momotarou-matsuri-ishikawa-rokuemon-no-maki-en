@@ -3,72 +3,72 @@
   "id": "GSF0200D/23/0002",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　オイラの　おかあちゃんは？」\n　{KP}\n「さがして　くれるんでしょ？\n　このあたりに　いると\n　思うんだ！」{KP}\n　\n「ねぇ！\n　あきらめないで　いっしょに\n　さがしておくれよ！」",
-  "en": ""
+  "en": "\"Momotaro-san! Where's my mom?\"{KP}\"You're gonna look for her, right? I think she's somewhere around here!\"{KP}\"Hey! Don't give up, help me look!\""
  },
  {
   "id": "GSF0200D/24/0056",
   "kind": "msg",
   "jp": "「あらっ？　よしきち！\n　どこに　行ってたの？」\n　",
-  "en": ""
+  "en": "\"Oh? Yoshikichi! Where have you been?\""
  },
  {
   "id": "GSF0200D/24/00BE",
   "kind": "msg",
   "jp": "「うえーん\n　おかあちゃーん！」\n　",
-  "en": ""
+  "en": "\"Waaah! Mommaaa!\""
  },
  {
   "id": "GSF0200D/24/00F2",
   "kind": "msg",
   "jp": "「まあ　桃太郎さんにも\n　ごめいわくを\n　おかけした　みたいね」",
-  "en": ""
+  "en": "\"My, it seems we've caused Momotaro-san some trouble too.\""
  },
  {
   "id": "GSF0200D/24/0142",
   "kind": "msg",
   "jp": "　桃太郎は　少し　てれながら\n　おじぎした\n　",
-  "en": ""
+  "en": "Momotaro bowed, a little embarrassed."
  },
  {
   "id": "GSF0200D/24/0186",
   "kind": "msg",
   "jp": "「昨日　この子と　金太郎の\n　村からの　帰り　この\n　洞窟を　歩いていたら」{KP}\n　\n「誰かに　つき落とされて\n　わたしは　下の階まで\n　落ちてしまったの……」{KP}\n　\n「気がついて　上の階に\n　もどった時には　もう\n　この子が　いなくて……」",
-  "en": ""
+  "en": "\"Yesterday, on our way back from Kintaro Village, this child and I were walking through this cave,\"{KP}\"when someone pushed me, and I fell all the way down to the floor below......\"{KP}\"When I came to and went back upstairs, this child was already gone......\""
  },
  {
   "id": "GSF0200D/24/0298",
   "kind": "msg",
   "jp": "「おかあちゃんを\n　つき落としたのは\n　柿の　おばけだよ！」{KP}\n　\n「親子の　愛なんて\n　くだらないカキーって\n　言ってたんだ！」",
-  "en": ""
+  "en": "\"The one who pushed Mommy was a persimmon ghost!\"{KP}\"He said, 'Parents and kids loving each other is dumb, kakiii!'\""
  },
  {
   "id": "GSF0200D/24/0330",
   "kind": "msg",
   "jp": "「まあ…　その子は\n　なんて　悲しいことを\n　言うのかしら……」{KP}\n　\n「さぁ　よしきち！\n　おうちに　帰りますよ」\n　{KP}\n「桃太郎さん　どうも\n　ありがとうございました」\n　{KP}\n「お礼に　これを\n　さしあげます」\n　",
-  "en": ""
+  "en": "\"My... what a sad thing for a child to say......\"{KP}\"Come now, Yoshikichi! We're going home.\"{KP}\"Momotaro-san, thank you so much.\"{KP}\"Please take this as thanks.\""
  },
  {
   "id": "GSF0200D/24/0428",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード００５{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 005{ww}!{KN}"
  },
  {
   "id": "GSF0200D/24/047A",
   "kind": "msg",
   "jp": "「では　これで　失礼します！\n　……さぁ　よしきちも\n　お礼を　言って！」",
-  "en": ""
+  "en": "\"Well then, we'll be on our way! ......Come, Yoshikichi, say thank you too!\""
  },
  {
   "id": "GSF0200D/24/04D4",
   "kind": "msg",
   "jp": "「ありがとう　桃太郎さん！\n　花咲かの村に　来た時は\n　ボクんちに　よってよね！」",
-  "en": ""
+  "en": "\"Thank you, Momotaro-san! When you come to Hanasaka Village, stop by my house, okay!\""
  },
  {
   "id": "GSF0200D/25/00A8",
   "kind": "msg",
   "jp": "「ムフフ…\n　また　会ったな　桃太郎！」\n　{KP}\n「おまえの　心に　ある\n　愛と　勇気とやらで　この\n　俺さまに　勝てるかな？」{KP}\n　\n「いざ！　勝負！！」\n　\n　",
-  "en": ""
+  "en": "\"Muhuhu... We meet again, Momotaro!\"{KP}\"Think you can beat yours truly with that love and courage in your heart?\"{KP}\"Now! Let's settle this!!\""
  }
 ]

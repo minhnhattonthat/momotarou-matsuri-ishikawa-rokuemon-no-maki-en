@@ -9,25 +9,25 @@
   "id": "GSV2500D/2/0048",
   "kind": "msg",
   "jp": "「何か　紙きれが　流れついたワン！\n　流木の　そばに　ある　草の中に\n　あるワン！」",
-  "en": ""
+  "en": "\"Some scrap of paper washed up, woof! It's in the grass by the driftwood, woof!\""
  },
  {
   "id": "GSV2500D/2/00AE",
   "kind": "msg",
   "jp": "「対岸に　見える都は\n　{bb}希望の都{ww}です！」\n　",
-  "en": ""
+  "en": "\"The city you see across the water is the {bb}Capital of Hope{ww}!\""
  },
  {
   "id": "GSV2500D/3/000E",
   "kind": "msg",
   "jp": "桃太郎は\n足もとを　しらべた！\n　{KP}\nなんと！\n{bb}だじゃれのお題{ww}を　見つけた！\n　",
-  "en": ""
+  "en": "Momotaro examined the ground at his feet!{KP}Why, Momotaro found the {bb}pun theme{ww}!"
  },
  {
   "id": "GSV2500D/3/0076",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}だじゃれのお題{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}pun theme{ww}!{KN}"
  },
  {
   "id": "GSV2500D/3/00CA",

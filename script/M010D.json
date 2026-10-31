@@ -3,114 +3,114 @@
   "id": "M010D/19/0002",
   "kind": "msg",
   "jp": "ゲームを　続けますか？\n　{KN}",
-  "en": ""
+  "en": "Continue the game?{KN}"
  },
  {
   "id": "M010D/20/000A",
   "kind": "msg",
   "jp": "鬼たたきの　遊び方\n　{KP}\n井戸から　鬼が\n顔を　出します！{KP}\n方向キーで　方向を　選んで\n鬼を　たたきましょう！{KP}\nキングボンビーは　石頭！\n２回　たたきましょう！{KP}\n鬼のほうから　たたかれると\nミスと　なります！{KP}\nミスが　３回で\nゲーム・オーバーです！{KP}\n福の神　仙人や　娘さんを\nたたくと　マイナスになります！{KP}\n鬼だけ　上手に　たたけば\nボーナス・ポイントが　入ります！{KP}\n６０秒間　鬼を　たたいて\n何点　取れるか　競いましょう！",
-  "en": ""
+  "en": "How to Play Whack-an-Oni{KP}Oni poke their faces out of the wells!{KP}Pick a direction with the directional buttons and whack the oni!{KP}King Bombee is hardheaded! Whack him twice!{KP}If an oni whacks you first, that's a miss!{KP}Three misses and it's game over!{KP}Whacking the God of Fortune, the hermit or the young lady costs you points!{KP}Whack only the oni, nice and clean, and you'll earn bonus points!{KP}See how many points you can score whacking oni for 60 seconds!"
  },
  {
   "id": "M010D/20/01E2",
   "kind": "msg",
   "jp": "ではゲームスタートです！\n　",
-  "en": ""
+  "en": "Now, game start!"
  },
  {
   "id": "M010D/20/0218",
   "kind": "msg",
   "jp": "ではゲームを　プレイしますか？\n　{KN}",
-  "en": ""
+  "en": "Would you like to play the game?{KN}"
  },
  {
   "id": "M010D/21/000A",
   "kind": "msg",
   "jp": "鬼たたき！\n対戦ゲームの　説明です！{KP}\n井戸から　鬼が\n顔を　出します！{KP}\n方向キーで　方向を　選んで\n鬼を　たたきましょう！{KP}\n相手より　多く　得点を\n取ったほうが　勝ちです！{KP}\n鬼をたたいたり　福の神を\nたたかずに　ノーミスで　進むと{KP}\n対戦相手に　ガコ～ン！と\nたらいが　落ちます！{KP}\nたらいを　たくさん　落として\n相手の　じゃまをしよう！{KP}\n１Ｐは　桃太郎さん\n２Ｐは　金太郎さんです！",
-  "en": ""
+  "en": "Whack-an-Oni! Here's how the versus game works!{KP}Oni poke their faces out of the wells!{KP}Pick a direction with the directional buttons and whack the oni!{KP}Whoever scores more points than the other player wins!{KP}Whack oni, leave the God of Fortune alone and keep going with no misses,{KP}and a washtub comes down on your opponent! Ga-klonk!{KP}Drop lots of washtubs to get in your opponent's way!{KP}1P is Momotaro-san, 2P is Kintaro-san!"
  },
  {
   "id": "M010D/21/01B4",
   "kind": "msg",
   "jp": "ではゲームスタートです！\n　",
-  "en": ""
+  "en": "Now, game start!"
  },
  {
   "id": "M010D/21/01EA",
   "kind": "msg",
   "jp": "ではゲームを　プレイしますか？\n　{KN}",
-  "en": ""
+  "en": "Would you like to play the game?{KN}"
  },
  {
   "id": "M010D/22/0046",
   "kind": "msg",
   "jp": "今回は{R2}段でした\n　",
-  "en": ""
+  "en": "This time you got level {R2}."
  },
  {
   "id": "M010D/22/006C",
   "kind": "msg",
   "jp": "今回は初段でした\n　",
-  "en": ""
+  "en": "This time you got level 1."
  },
  {
   "id": "M010D/22/0092",
   "kind": "msg",
   "jp": "今回は免許皆伝でした\n　",
-  "en": ""
+  "en": "This time you got Full Mastery."
  },
  {
   "id": "M010D/22/00BC",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n新記録ですよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! It's a new record!!{KP}Keep up the good work!"
  },
  {
   "id": "M010D/22/0134",
   "kind": "msg",
   "jp": "今回は{R2}段でした\n　",
-  "en": ""
+  "en": "This time you got level {R2}."
  },
  {
   "id": "M010D/22/015A",
   "kind": "msg",
   "jp": "今回は初段でした\n　",
-  "en": ""
+  "en": "This time you got level 1."
  },
  {
   "id": "M010D/22/0180",
   "kind": "msg",
   "jp": "今回は免許皆伝でした\n　",
-  "en": ""
+  "en": "This time you got Full Mastery."
  },
  {
   "id": "M010D/22/01BA",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n段位更新ですよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! Your level went up!!{KP}Keep up the good work!"
  },
  {
   "id": "M010D/22/0224",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n初段に　なりましたよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! You reached level 1!!{KP}Keep up the good work!"
  },
  {
   "id": "M010D/22/0294",
   "kind": "msg",
   "jp": "桃太郎さん　おめでとうございます！\n免許皆伝に　なりましたよ！！{KP}\nごほうびとして\n{bb}方言カード{ww}が　１枚　もらえます！",
-  "en": ""
+  "en": "Congratulations, Momotaro-san! You've reached Full Mastery!!{KP}As a reward, you get one {bb}Dialect Card{ww}!"
  },
  {
   "id": "M010D/22/0320",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０１３{ww}を　手に入れた！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 013{ww}!{KP}Keep up the good work!"
  },
  {
   "id": "M010D/23/0002",
   "kind": "msg",
   "jp": "このゲームを\nもう一度　遊びますか？{KN}",
-  "en": ""
+  "en": "Play this game again?{KN}"
  }
 ]

@@ -3,114 +3,114 @@
   "id": "M120D/25/0002",
   "kind": "msg",
   "jp": "ゲームを　続けますか？\n　{KN}",
-  "en": ""
+  "en": "Continue the game?{KN}"
  },
  {
   "id": "M120D/26/000A",
   "kind": "msg",
   "jp": "タコタコあがれ！の　遊び方\n　{KP}\n凧（たこ）を　方向キーで\n上へ　上へと　あげましょう！{KP}\n桃マークを　取ると\n得点が　もらえます！{KP}\nおじゃまキャラに　ぶつかると\nミスと　判定されてしまいます！{KP}\nペペペマンも　おじゃまキャラなので\nご注意ください！{KP}\n３回ミスすると　ゲーム・オーバーに\nなってしまいます！{KP}\nウサギさんが　待っている\n月をめざして　がんばってください！",
-  "en": ""
+  "en": "How to Play Fly, Kite, Fly!{KP}Fly your kite higher and higher with the directional buttons!{KP}Grab peach marks to earn points!{KP}Bump into a pest and it counts as a miss!{KP}Pepepeman is a pest too, so watch out!{KP}Miss 3 times and it's game over!{KP}Aim for the moon, where Rabbit-san is waiting!"
  },
  {
   "id": "M120D/26/019E",
   "kind": "msg",
   "jp": "ではゲームスタートです！\n　",
-  "en": ""
+  "en": "Now, game start!"
  },
  {
   "id": "M120D/26/01D4",
   "kind": "msg",
   "jp": "ではゲームを　プレイしますか？\n　{KN}",
-  "en": ""
+  "en": "Would you like to play the game?{KN}"
  },
  {
   "id": "M120D/27/000A",
   "kind": "msg",
   "jp": "タコタコあがれ！\n対戦ゲームの　説明です！{KP}\n凧（たこ）を　方向キーで\n上へ　上へと　あげましょう！{KP}\n桃マークを　たくさん取って\n得点が　多いほうが　勝ちです！{KP}\n貧乏神マークを　取ると…\n　{KP}\n貧乏神が　対戦相手を\n追いかけ始めます！{KP}\nもちろん　貧乏神は\n対戦相手を　こうげきしてくれます！{KP}\n貧乏神を　味方につけて\nゴールを　めざしてください！{KP}\n１Ｐは　桃太郎さん\n２Ｐは　金太郎さんです！",
-  "en": ""
+  "en": "Fly, Kite, Fly! Here's how the versus game works!{KP}Fly your kite higher and higher with the directional buttons!{KP}Grab lots of peach marks, and whoever scores more wins!{KP}If you grab a Poverty God mark...{KP}the Poverty God starts chasing your opponent!{KP}And of course, the Poverty God attacks your opponent for you!{KP}Get the Poverty God on your side and head for the goal!{KP}1P is Momotaro-san, and 2P is Kintaro-san!"
  },
  {
   "id": "M120D/27/01BA",
   "kind": "msg",
   "jp": "ではゲームスタートです！\n　",
-  "en": ""
+  "en": "Now, game start!"
  },
  {
   "id": "M120D/27/01F0",
   "kind": "msg",
   "jp": "ではゲームを　プレイしますか？\n　{KN}",
-  "en": ""
+  "en": "Would you like to play the game?{KN}"
  },
  {
   "id": "M120D/28/0046",
   "kind": "msg",
   "jp": "今回は{R2}段でした\n　",
-  "en": ""
+  "en": "This time you got level {R2}."
  },
  {
   "id": "M120D/28/006C",
   "kind": "msg",
   "jp": "今回は初段でした\n　",
-  "en": ""
+  "en": "This time you got level 1."
  },
  {
   "id": "M120D/28/0092",
   "kind": "msg",
   "jp": "今回は免許皆伝でした\n　",
-  "en": ""
+  "en": "This time you got Full Mastery."
  },
  {
   "id": "M120D/28/00BC",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n新記録ですよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! It's a new record!!{KP}Keep up the good work!"
  },
  {
   "id": "M120D/28/0134",
   "kind": "msg",
   "jp": "今回は{R2}段でした\n　",
-  "en": ""
+  "en": "This time you got level {R2}."
  },
  {
   "id": "M120D/28/015A",
   "kind": "msg",
   "jp": "今回は初段でした\n　",
-  "en": ""
+  "en": "This time you got level 1."
  },
  {
   "id": "M120D/28/0180",
   "kind": "msg",
   "jp": "今回は免許皆伝でした\n　",
-  "en": ""
+  "en": "This time you got Full Mastery."
  },
  {
   "id": "M120D/28/01BA",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n段位更新ですよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! Your level went up!!{KP}Keep up the good work!"
  },
  {
   "id": "M120D/28/0224",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n初段に　なりましたよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! You reached level 1!!{KP}Keep up the good work!"
  },
  {
   "id": "M120D/28/0294",
   "kind": "msg",
   "jp": "桃太郎さん　おめでとうございます！\n免許皆伝に　なりましたよ！！{KP}\nごほうびとして\n{bb}方言カード{ww}が　１枚　もらえます！",
-  "en": ""
+  "en": "Congratulations, Momotaro-san! You've reached Full Mastery!!{KP}As a reward, you get one {bb}Dialect Card{ww}!"
  },
  {
   "id": "M120D/28/0320",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０１５{ww}を　手に入れた！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 015{ww}!{KP}Keep up the good work!"
  },
  {
   "id": "M120D/29/0002",
   "kind": "msg",
   "jp": "このゲームを\nもう一度　遊びますか？{KN}",
-  "en": ""
+  "en": "Play this game again?{KN}"
  }
 ]

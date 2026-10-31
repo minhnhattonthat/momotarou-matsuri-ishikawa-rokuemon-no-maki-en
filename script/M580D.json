@@ -3,73 +3,73 @@
   "id": "M580D/2/0002",
   "kind": "msg",
   "jp": "天邪鬼が　あらわれた！\n　{KP}\n「ヘイ！　ヘイ！　桃太郎！\n　簡単すぎる問題に　答えてみろよ！」",
-  "en": ""
+  "en": "Amanojaku appeared!{KP}\"Hey! Hey! Momotaro! Let's see you answer some way-too-easy questions!\""
  },
  {
   "id": "M580D/3/000A",
   "kind": "msg",
   "jp": "「ヘイ！　ヘイ！\n　こんな　問題も　解けないのか！」{KP}\n「常識が　ないやつが\n　大金うばわれても　仕方ないな！」",
-  "en": ""
+  "en": "\"Hey! Hey! You can't even solve this one?!\"{KP}\"Anyone with no common sense deserves to get robbed blind!\""
  },
  {
   "id": "M580D/3/0090",
   "kind": "msg",
   "jp": "「ヘイ！　ヘイ！\n　１両も　持っていないのか！」{KP}\n「あの桃太郎が\n　一文無しだとはな！」{KP}\n桃太郎は\nお金を　とられずに　すんだ！{KP}\nでも　ちょっと　くやしい！\n　",
-  "en": ""
+  "en": "\"Hey! Hey! You don't have a single ryo?!\"{KP}\"The great Momotaro, flat broke!\"{KP}Momotaro got to keep his money!{KP}But it still stings a little!"
  },
  {
   "id": "M580D/3/0164",
   "kind": "msg",
   "jp": "天邪鬼は\n{R1}両　うばって行った！",
-  "en": ""
+  "en": "Amanojaku took {R1} ryo!"
  },
  {
   "id": "M580D/3/0196",
   "kind": "msg",
   "jp": "「ヘイ！　ヘイ！　これで\n　勇気の剣でも　買いな！」",
-  "en": ""
+  "en": "\"Hey! Hey! Go buy yourself a Sword of Courage with this!\""
  },
  {
   "id": "M580D/3/01E8",
   "kind": "msg",
   "jp": "天邪鬼は　わずか　{R0}両\nおいていった！　なんだ　あいつは！",
-  "en": ""
+  "en": "Amanojaku left a measly {R0} ryo! What's with that guy?!"
  },
  {
   "id": "M580D/4/0000.0",
   "kind": "menu",
   "jp": "ちいさい",
-  "en": ""
+  "en": "Small"
  },
  {
   "id": "M580D/4/0000.1",
   "kind": "menu",
   "jp": "すくない",
-  "en": ""
+  "en": "Few"
  },
  {
   "id": "M580D/4/0000.2",
   "kind": "menu",
   "jp": "ひろい",
-  "en": ""
+  "en": "Wide"
  },
  {
   "id": "M580D/4/0000.3",
   "kind": "menu",
   "jp": "せまい",
-  "en": ""
+  "en": "Narrow"
  },
  {
   "id": "M580D/4/0028",
   "kind": "msg",
   "jp": "大きいの反対語はどれだ？\n　{KN}",
-  "en": ""
+  "en": "What's the opposite of \"big\"?{KN}"
  },
  {
   "id": "M580D/5/0000.0",
   "kind": "menu",
   "jp": "裏",
-  "en": ""
+  "en": "Tails"
  },
  {
   "id": "M580D/5/0000.1",
@@ -81,19 +81,19 @@
   "id": "M580D/5/0000.2",
   "kind": "menu",
   "jp": "面",
-  "en": ""
+  "en": "Face"
  },
  {
   "id": "M580D/5/0000.3",
   "kind": "menu",
   "jp": "現",
-  "en": ""
+  "en": "Show"
  },
  {
   "id": "M580D/5/0014",
   "kind": "msg",
   "jp": "表の反対語はどれだ？\n　{KN}",
-  "en": ""
+  "en": "What's the opposite of \"heads\" on a coin?{KN}"
  },
  {
   "id": "M580D/6/0000.0",
@@ -117,13 +117,13 @@
   "id": "M580D/6/0000.3",
   "kind": "menu",
   "jp": "面白くない",
-  "en": ""
+  "en": "Not cool"
  },
  {
   "id": "M580D/6/0022",
   "kind": "msg",
   "jp": "寒いの反対語はどれだ？\n　{KN}",
-  "en": ""
+  "en": "What's the opposite of \"cold\" weather?{KN}"
  },
  {
   "id": "M580D/7/0000.0",
@@ -147,13 +147,13 @@
   "id": "M580D/7/0000.3",
   "kind": "menu",
   "jp": "不親切",
-  "en": ""
+  "en": "Unkind"
  },
  {
   "id": "M580D/7/001E",
   "kind": "msg",
   "jp": "冷たいの反対語はどれだ？\n　{KN}",
-  "en": ""
+  "en": "What's the opposite of \"cold\" to the touch?{KN}"
  },
  {
   "id": "M580D/8/0000.0",
@@ -177,199 +177,199 @@
   "id": "M580D/8/0000.3",
   "kind": "menu",
   "jp": "淡い",
-  "en": ""
+  "en": "Faint"
  },
  {
   "id": "M580D/8/001C",
   "kind": "msg",
   "jp": "薄いの反対語はどれだ？\n　{KN}",
-  "en": ""
+  "en": "What's the opposite of \"thin\" (like a book)?{KN}"
  },
  {
   "id": "M580D/9/0000.0",
   "kind": "menu",
   "jp": "さまたげる",
-  "en": ""
+  "en": "Hinder"
  },
  {
   "id": "M580D/9/0000.1",
   "kind": "menu",
   "jp": "ほご",
-  "en": ""
+  "en": "Protect"
  },
  {
   "id": "M580D/9/0000.2",
   "kind": "menu",
   "jp": "助かる",
-  "en": ""
+  "en": "Helped"
  },
  {
   "id": "M580D/9/0000.3",
   "kind": "menu",
   "jp": "さるしばい",
-  "en": ""
+  "en": "Kelp"
  },
  {
   "id": "M580D/9/002A",
   "kind": "msg",
   "jp": "助けるの反対語はどれだ？\n　{KN}",
-  "en": ""
+  "en": "What's the opposite of \"help\"?{KN}"
  },
  {
   "id": "M580D/10/0000.0",
   "kind": "menu",
   "jp": "鈍",
-  "en": ""
+  "en": "Dull"
  },
  {
   "id": "M580D/10/0000.1",
   "kind": "menu",
   "jp": "純",
-  "en": ""
+  "en": "Doll"
  },
  {
   "id": "M580D/10/0000.2",
   "kind": "menu",
   "jp": "鉄",
-  "en": ""
+  "en": "Dill"
  },
  {
   "id": "M580D/10/0000.3",
   "kind": "menu",
   "jp": "悦",
-  "en": ""
+  "en": "Dual"
  },
  {
   "id": "M580D/10/0014",
   "kind": "msg",
   "jp": "鋭の反対語はどれだ？\n　{KN}",
-  "en": ""
+  "en": "What's the opposite of \"sharp\"?{KN}"
  },
  {
   "id": "M580D/11/0000.0",
   "kind": "menu",
   "jp": "玄人",
-  "en": ""
+  "en": "Expert"
  },
  {
   "id": "M580D/11/0000.1",
   "kind": "menu",
   "jp": "蔵人",
-  "en": ""
+  "en": "Export"
  },
  {
   "id": "M580D/11/0000.2",
   "kind": "menu",
   "jp": "海人",
-  "en": ""
+  "en": "Ama diver"
  },
  {
   "id": "M580D/11/0000.3",
   "kind": "menu",
   "jp": "アマチュア",
-  "en": ""
+  "en": "Amateur"
  },
  {
   "id": "M580D/11/0022",
   "kind": "msg",
   "jp": "素人の反対語はどれだ？\n　{KN}",
-  "en": ""
+  "en": "What's the opposite of \"amateur\"?{KN}"
  },
  {
   "id": "M580D/12/0000.0",
   "kind": "menu",
   "jp": "敗者",
-  "en": ""
+  "en": "Loser"
  },
  {
   "id": "M580D/12/0000.1",
   "kind": "menu",
   "jp": "歯医者",
-  "en": ""
+  "en": "Looser"
  },
  {
   "id": "M580D/12/0000.2",
   "kind": "menu",
   "jp": "配車",
-  "en": ""
+  "en": "Laser"
  },
  {
   "id": "M580D/12/0000.3",
   "kind": "menu",
   "jp": "廃車",
-  "en": ""
+  "en": "Loafer"
  },
  {
   "id": "M580D/12/001E",
   "kind": "msg",
   "jp": "勝者の反対語はどれだ？\n　{KN}",
-  "en": ""
+  "en": "What's the opposite of \"winner\"?{KN}"
  },
  {
   "id": "M580D/13/0000.0",
   "kind": "menu",
   "jp": "こくひょう",
-  "en": ""
+  "en": "Panning"
  },
  {
   "id": "M580D/13/0000.1",
   "kind": "menu",
   "jp": "くろひょう",
-  "en": ""
+  "en": "Panther"
  },
  {
   "id": "M580D/13/0000.2",
   "kind": "menu",
   "jp": "しろひょう",
-  "en": ""
+  "en": "Snow panther"
  },
  {
   "id": "M580D/13/0000.3",
   "kind": "menu",
   "jp": "こくびゃく",
-  "en": ""
+  "en": "Black & white"
  },
  {
   "id": "M580D/13/0034",
   "kind": "msg",
   "jp": "ぜっさんの反対語はどれだ？\n　{KN}",
-  "en": ""
+  "en": "What's the opposite of \"rave reviews\"?{KN}"
  },
  {
   "id": "M580D/14/0000.0",
   "kind": "menu",
   "jp": "暗い",
-  "en": ""
+  "en": "Dark"
  },
  {
   "id": "M580D/14/0000.1",
   "kind": "menu",
   "jp": "食らい",
-  "en": ""
+  "en": "Dork"
  },
  {
   "id": "M580D/14/0000.2",
   "kind": "menu",
   "jp": "位",
-  "en": ""
+  "en": "Bark"
  },
  {
   "id": "M580D/14/0000.3",
   "kind": "menu",
   "jp": "さらい",
-  "en": ""
+  "en": "Park"
  },
  {
   "id": "M580D/14/001E",
   "kind": "msg",
   "jp": "明るいの反対語はどれだ？\n　{KN}",
-  "en": ""
+  "en": "What's the opposite of \"bright\"?{KN}"
  },
  {
   "id": "M580D/15/0000.0",
   "kind": "menu",
   "jp": "かたい",
-  "en": ""
+  "en": "Hard"
  },
  {
   "id": "M580D/15/0000.1",
@@ -381,25 +381,25 @@
   "id": "M580D/15/0000.2",
   "kind": "menu",
   "jp": "いたい",
-  "en": ""
+  "en": "Lard"
  },
  {
   "id": "M580D/15/0000.3",
   "kind": "menu",
   "jp": "きたい",
-  "en": ""
+  "en": "Yard"
  },
  {
   "id": "M580D/15/0024",
   "kind": "msg",
   "jp": "やわらかいの反対語はどれだ？\n　{KN}",
-  "en": ""
+  "en": "What's the opposite of \"soft\"?{KN}"
  },
  {
   "id": "M580D/16/0000.0",
   "kind": "menu",
   "jp": "うち",
-  "en": ""
+  "en": "Inside"
  },
  {
   "id": "M580D/16/0000.1",
@@ -411,19 +411,19 @@
   "id": "M580D/16/0000.2",
   "kind": "menu",
   "jp": "さち",
-  "en": ""
+  "en": "Insight"
  },
  {
   "id": "M580D/16/0000.3",
   "kind": "menu",
   "jp": "うさぎ",
-  "en": ""
+  "en": "Bunny"
  },
  {
   "id": "M580D/16/001E",
   "kind": "msg",
   "jp": "そとの反対語はどれだ？\n　{KN}",
-  "en": ""
+  "en": "What's the opposite of \"outside\"?{KN}"
  },
  {
   "id": "M580D/17/0000.0",
@@ -435,67 +435,67 @@
   "id": "M580D/17/0000.1",
   "kind": "menu",
   "jp": "現す",
-  "en": ""
+  "en": "Appear"
  },
  {
   "id": "M580D/17/0000.2",
   "kind": "menu",
   "jp": "起こる",
-  "en": ""
+  "en": "Happen"
  },
  {
   "id": "M580D/17/0000.3",
   "kind": "menu",
   "jp": "離れる",
-  "en": ""
+  "en": "Part"
  },
  {
   "id": "M580D/17/0020",
   "kind": "msg",
   "jp": "入るの反対語はどれだ？\n　{KN}",
-  "en": ""
+  "en": "What's the opposite of \"go in\"?{KN}"
  },
  {
   "id": "M580D/18/0000.0",
   "kind": "menu",
   "jp": "高い",
-  "en": ""
+  "en": "High"
  },
  {
   "id": "M580D/18/0000.1",
   "kind": "menu",
   "jp": "安い",
-  "en": ""
+  "en": "Cheap"
  },
  {
   "id": "M580D/18/0000.2",
   "kind": "menu",
   "jp": "大きい",
-  "en": ""
+  "en": "Big"
  },
  {
   "id": "M580D/18/0000.3",
   "kind": "menu",
   "jp": "下",
-  "en": ""
+  "en": "Below"
  },
  {
   "id": "M580D/18/001C",
   "kind": "msg",
   "jp": "低いの反対語はどれだ？\n　{KN}",
-  "en": ""
+  "en": "What's the opposite of \"low\"?{KN}"
  },
  {
   "id": "M580D/19/0000.0",
   "kind": "menu",
   "jp": "福相",
-  "en": ""
+  "en": "Prosperous"
  },
  {
   "id": "M580D/19/0000.1",
   "kind": "menu",
   "jp": "ボンビー",
-  "en": ""
+  "en": "Bombee"
  },
  {
   "id": "M580D/19/0000.2",
@@ -513,49 +513,49 @@
   "id": "M580D/19/0024",
   "kind": "msg",
   "jp": "貧相の反対語はどれだ？\n　{KN}",
-  "en": ""
+  "en": "What's the opposite of \"shabby-looking\"?{KN}"
  },
  {
   "id": "M580D/20/0000.0",
   "kind": "menu",
   "jp": "好機",
-  "en": ""
+  "en": "Chance"
  },
  {
   "id": "M580D/20/0000.1",
   "kind": "menu",
   "jp": "機器",
-  "en": ""
+  "en": "Gadget"
  },
  {
   "id": "M580D/20/0000.2",
   "kind": "menu",
   "jp": "後期",
-  "en": ""
+  "en": "Later"
  },
  {
   "id": "M580D/20/0000.3",
   "kind": "menu",
   "jp": "鬼気",
-  "en": ""
+  "en": "Eerie"
  },
  {
   "id": "M580D/20/001C",
   "kind": "msg",
   "jp": "危機の反対語はどれだ？\n　{KN}",
-  "en": ""
+  "en": "What's the opposite of \"crisis\"?{KN}"
  },
  {
   "id": "M580D/21/0000.0",
   "kind": "menu",
   "jp": "広い",
-  "en": ""
+  "en": "Wide"
  },
  {
   "id": "M580D/21/0000.1",
   "kind": "menu",
   "jp": "太い",
-  "en": ""
+  "en": "Fat"
  },
  {
   "id": "M580D/21/0000.2",
@@ -567,163 +567,163 @@
   "id": "M580D/21/0000.3",
   "kind": "menu",
   "jp": "きつい",
-  "en": ""
+  "en": "Tight"
  },
  {
   "id": "M580D/21/001E",
   "kind": "msg",
   "jp": "狭いの反対語はどれだ？\n　{KN}",
-  "en": ""
+  "en": "What's the opposite of \"narrow\"?{KN}"
  },
  {
   "id": "M580D/22/0000.0",
   "kind": "menu",
   "jp": "めざめる",
-  "en": ""
+  "en": "Awaken"
  },
  {
   "id": "M580D/22/0000.1",
   "kind": "menu",
   "jp": "めぢめる",
-  "en": ""
+  "en": "Awakem"
  },
  {
   "id": "M580D/22/0000.2",
   "kind": "menu",
   "jp": "めぎめる",
-  "en": ""
+  "en": "Awaker"
  },
  {
   "id": "M580D/22/0000.3",
   "kind": "menu",
   "jp": "めさめろ",
-  "en": ""
+  "en": "Awakon"
  },
  {
   "id": "M580D/22/002C",
   "kind": "msg",
   "jp": "ねむるの反対語はどれだ？\n　{KN}",
-  "en": ""
+  "en": "What's the opposite of \"sleep\"?{KN}"
  },
  {
   "id": "M580D/23/0000.0",
   "kind": "menu",
   "jp": "良い",
-  "en": ""
+  "en": "Good"
  },
  {
   "id": "M580D/23/0000.1",
   "kind": "menu",
   "jp": "普通",
-  "en": ""
+  "en": "Average"
  },
  {
   "id": "M580D/23/0000.2",
   "kind": "menu",
   "jp": "高い",
-  "en": ""
+  "en": "High"
  },
  {
   "id": "M580D/23/0000.3",
   "kind": "menu",
   "jp": "良くない",
-  "en": ""
+  "en": "Not good"
  },
  {
   "id": "M580D/23/0020",
   "kind": "msg",
   "jp": "悪いの反対語はどれだ？\n　{KN}",
-  "en": ""
+  "en": "What's the opposite of \"bad\"?{KN}"
  },
  {
   "id": "M580D/24/0000.0",
   "kind": "menu",
   "jp": "減る",
-  "en": ""
+  "en": "Decrease"
  },
  {
   "id": "M580D/24/0000.1",
   "kind": "menu",
   "jp": "経る",
-  "en": ""
+  "en": "Decrees"
  },
  {
   "id": "M580D/24/0000.2",
   "kind": "menu",
   "jp": "加える",
-  "en": ""
+  "en": "Add"
  },
  {
   "id": "M580D/24/0000.3",
   "kind": "menu",
   "jp": "ビル",
-  "en": ""
+  "en": "Ice cream"
  },
  {
   "id": "M580D/24/001E",
   "kind": "msg",
   "jp": "増えるの反対語はどれだ？\n　{KN}",
-  "en": ""
+  "en": "What's the opposite of \"increase\"?{KN}"
  },
  {
   "id": "M580D/25/0000.0",
   "kind": "menu",
   "jp": "反対",
-  "en": ""
+  "en": "Con"
  },
  {
   "id": "M580D/25/0000.1",
   "kind": "menu",
   "jp": "同じ",
-  "en": ""
+  "en": "Same"
  },
  {
   "id": "M580D/25/0000.2",
   "kind": "menu",
   "jp": "ちゅうせい",
-  "en": ""
+  "en": "Neutral"
  },
  {
   "id": "M580D/25/0000.3",
   "kind": "menu",
   "jp": "アルカリ性",
-  "en": ""
+  "en": "Amateur"
  },
  {
   "id": "M580D/25/0028",
   "kind": "msg",
   "jp": "賛成の反対語はどれだ？\n　{KN}",
-  "en": ""
+  "en": "What's the opposite of \"pro\" (in favor)?{KN}"
  },
  {
   "id": "M580D/26/0000.0",
   "kind": "menu",
   "jp": "他力",
-  "en": ""
+  "en": "With help"
  },
  {
   "id": "M580D/26/0000.1",
   "kind": "menu",
   "jp": "イカ",
-  "en": ""
+  "en": "With squid"
  },
  {
   "id": "M580D/26/0000.2",
   "kind": "menu",
   "jp": "馬力",
-  "en": ""
+  "en": "Horsepower"
  },
  {
   "id": "M580D/26/0000.3",
   "kind": "menu",
   "jp": "怪力",
-  "en": ""
+  "en": "Superpower"
  },
  {
   "id": "M580D/26/001C",
   "kind": "msg",
   "jp": "自力の反対語はどれだ？\n　{KN}",
-  "en": ""
+  "en": "What's the opposite of \"by yourself\"?{KN}"
  },
  {
   "id": "M580D/27/0000.0",
@@ -735,804 +735,804 @@
   "id": "M580D/27/0000.1",
   "kind": "menu",
   "jp": "右",
-  "en": ""
+  "en": "Right"
  },
  {
   "id": "M580D/27/0000.2",
   "kind": "menu",
   "jp": "左",
-  "en": ""
+  "en": "Left"
  },
  {
   "id": "M580D/27/0000.3",
   "kind": "menu",
   "jp": "下",
-  "en": ""
+  "en": "Below"
  },
  {
   "id": "M580D/27/0014",
   "kind": "msg",
   "jp": "前の反対語はどれだ？\n　{KN}",
-  "en": ""
+  "en": "What's the opposite of \"front\"?{KN}"
  },
  {
   "id": "M580D/28/0000.0",
   "kind": "menu",
   "jp": "少ない",
-  "en": ""
+  "en": "Few"
  },
  {
   "id": "M580D/28/0000.1",
   "kind": "menu",
   "jp": "小さい",
-  "en": ""
+  "en": "Small"
  },
  {
   "id": "M580D/28/0000.2",
   "kind": "menu",
   "jp": "細かい",
-  "en": ""
+  "en": "Fine"
  },
  {
   "id": "M580D/28/0000.3",
   "kind": "menu",
   "jp": "豊か",
-  "en": ""
+  "en": "Plenty"
  },
  {
   "id": "M580D/28/0022",
   "kind": "msg",
   "jp": "多いの反対語はどれだ？\n　{KN}",
-  "en": ""
+  "en": "What's the opposite of \"many\"?{KN}"
  },
  {
   "id": "M580D/29/0000.0",
   "kind": "menu",
   "jp": "達する",
-  "en": ""
+  "en": "Attain"
  },
  {
   "id": "M580D/29/0000.1",
   "kind": "menu",
   "jp": "脱する",
-  "en": ""
+  "en": "Detain"
  },
  {
   "id": "M580D/29/0000.2",
   "kind": "menu",
   "jp": "逸する",
-  "en": ""
+  "en": "Abstain"
  },
  {
   "id": "M580D/29/0000.3",
   "kind": "menu",
   "jp": "マッスル",
-  "en": ""
+  "en": "Mountain"
  },
  {
   "id": "M580D/29/0026",
   "kind": "msg",
   "jp": "届くの類語はどれだ？\n　{KN}",
-  "en": ""
+  "en": "Which word means the same as \"reach\"?{KN}"
  },
  {
   "id": "M580D/30/0000.0",
   "kind": "menu",
   "jp": "とらえる",
-  "en": ""
+  "en": "Capture"
  },
  {
   "id": "M580D/30/0000.1",
   "kind": "menu",
   "jp": "どらやき",
-  "en": ""
+  "en": "Captain"
  },
  {
   "id": "M580D/30/0000.2",
   "kind": "menu",
   "jp": "とらがり",
-  "en": ""
+  "en": "Rupture"
  },
  {
   "id": "M580D/30/0000.3",
   "kind": "menu",
   "jp": "いすらえる",
-  "en": ""
+  "en": "Cupcake"
  },
  {
   "id": "M580D/30/002E",
   "kind": "msg",
   "jp": "つかまえるの類語はどれだ？\n　{KN}",
-  "en": ""
+  "en": "Which word means the same as \"catch\"?{KN}"
  },
  {
   "id": "M580D/31/0000.0",
   "kind": "menu",
   "jp": "つや",
-  "en": ""
+  "en": "Gloss"
  },
  {
   "id": "M580D/31/0000.1",
   "kind": "menu",
   "jp": "つめ",
-  "en": ""
+  "en": "Glass"
  },
  {
   "id": "M580D/31/0000.2",
   "kind": "menu",
   "jp": "かや",
-  "en": ""
+  "en": "Floss"
  },
  {
   "id": "M580D/31/0000.3",
   "kind": "menu",
   "jp": "しや",
-  "en": ""
+  "en": "Moss"
  },
  {
   "id": "M580D/31/001C",
   "kind": "msg",
   "jp": "照りの類語はどれだ？\n　{KN}",
-  "en": ""
+  "en": "Which word means the same as \"shine\"?{KN}"
  },
  {
   "id": "M580D/32/0000.0",
   "kind": "menu",
   "jp": "目がさめる",
-  "en": ""
+  "en": "Eyes open"
  },
  {
   "id": "M580D/32/0000.1",
   "kind": "menu",
   "jp": "口がくさい",
-  "en": ""
+  "en": "Bad breath"
  },
  {
   "id": "M580D/32/0000.2",
   "kind": "menu",
   "jp": "耳がこえる",
-  "en": ""
+  "en": "Sharp ears"
  },
  {
   "id": "M580D/32/0000.3",
   "kind": "menu",
   "jp": "鼻がきく",
-  "en": ""
+  "en": "Keen nose"
  },
  {
   "id": "M580D/32/0032",
   "kind": "msg",
   "jp": "起きるの類語はどれだ？\n　{KN}",
-  "en": ""
+  "en": "Which means the same as \"get up\"?{KN}"
  },
  {
   "id": "M580D/33/0000.0",
   "kind": "menu",
   "jp": "きどる",
-  "en": ""
+  "en": "Pose"
  },
  {
   "id": "M580D/33/0000.1",
   "kind": "menu",
   "jp": "おどる",
-  "en": ""
+  "en": "Dance"
  },
  {
   "id": "M580D/33/0000.2",
   "kind": "menu",
   "jp": "さどる",
-  "en": ""
+  "en": "Hose"
  },
  {
   "id": "M580D/33/0000.3",
   "kind": "menu",
   "jp": "みどる",
-  "en": ""
+  "en": "Rose"
  },
  {
   "id": "M580D/33/0024",
   "kind": "msg",
   "jp": "よそおうの類語はどれだ？\n　{KN}",
-  "en": ""
+  "en": "Which word means the same as \"pretend\"?{KN}"
  },
  {
   "id": "M580D/34/0000.0",
   "kind": "menu",
   "jp": "蒸気",
-  "en": ""
+  "en": "Vapor"
  },
  {
   "id": "M580D/34/0000.1",
   "kind": "menu",
   "jp": "冷気",
-  "en": ""
+  "en": "Chill"
  },
  {
   "id": "M580D/34/0000.2",
   "kind": "menu",
   "jp": "熱湯",
-  "en": ""
+  "en": "Hot water"
  },
  {
   "id": "M580D/34/0000.3",
   "kind": "menu",
   "jp": "けむり",
-  "en": ""
+  "en": "Smoke"
  },
  {
   "id": "M580D/34/001E",
   "kind": "msg",
   "jp": "湯気の類語はどれだ？\n　{KN}",
-  "en": ""
+  "en": "Which word means the same as \"steam\"?{KN}"
  },
  {
   "id": "M580D/35/0000.0",
   "kind": "menu",
   "jp": "同情する",
-  "en": ""
+  "en": "Sympathize"
  },
  {
   "id": "M580D/35/0000.1",
   "kind": "menu",
   "jp": "同居する",
-  "en": ""
+  "en": "Live together"
  },
  {
   "id": "M580D/35/0000.2",
   "kind": "menu",
   "jp": "同感する",
-  "en": ""
+  "en": "Agree"
  },
  {
   "id": "M580D/35/0000.3",
   "kind": "menu",
   "jp": "同行する",
-  "en": ""
+  "en": "Go along"
  },
  {
   "id": "M580D/35/002C",
   "kind": "msg",
   "jp": "察するの類語はどれだ？\n　{KN}",
-  "en": ""
+  "en": "Which word means the same as \"feel for\"?{KN}"
  },
  {
   "id": "M580D/36/0000.0",
   "kind": "menu",
   "jp": "旅人",
-  "en": ""
+  "en": "Traveler"
  },
  {
   "id": "M580D/36/0000.1",
   "kind": "menu",
   "jp": "勇姿",
-  "en": ""
+  "en": "Wonderer"
  },
  {
   "id": "M580D/36/0000.2",
   "kind": "menu",
   "jp": "勇士",
-  "en": ""
+  "en": "Warrior"
  },
  {
   "id": "M580D/36/0000.3",
   "kind": "menu",
   "jp": "遊芸",
-  "en": ""
+  "en": "Wonderland"
  },
  {
   "id": "M580D/36/001C",
   "kind": "msg",
   "jp": "遊子の類語はどれだ？\n　{KN}",
-  "en": ""
+  "en": "Which word means the same as \"wanderer\"?{KN}"
  },
  {
   "id": "M580D/37/0000.0",
   "kind": "menu",
   "jp": "金持ち",
-  "en": ""
+  "en": "Rich man"
  },
  {
   "id": "M580D/37/0000.1",
   "kind": "menu",
   "jp": "ボンビー",
-  "en": ""
+  "en": "Bombee"
  },
  {
   "id": "M580D/37/0000.2",
   "kind": "menu",
   "jp": "長男",
-  "en": ""
+  "en": "Eldest son"
  },
  {
   "id": "M580D/37/0000.3",
   "kind": "menu",
   "jp": "長老",
-  "en": ""
+  "en": "Elder"
  },
  {
   "id": "M580D/37/0022",
   "kind": "msg",
   "jp": "長者の類語はどれだ？\n　{KN}",
-  "en": ""
+  "en": "Which word means the same as \"tycoon\"?{KN}"
  },
  {
   "id": "M580D/38/0000.0",
   "kind": "menu",
   "jp": "やけに",
-  "en": ""
+  "en": "Awfully"
  },
  {
   "id": "M580D/38/0000.1",
   "kind": "menu",
   "jp": "やけど",
-  "en": ""
+  "en": "Offal"
  },
  {
   "id": "M580D/38/0000.2",
   "kind": "menu",
   "jp": "やける",
-  "en": ""
+  "en": "Waffle"
  },
  {
   "id": "M580D/38/0000.3",
   "kind": "menu",
   "jp": "やきにく",
-  "en": ""
+  "en": "Barbecue"
  },
  {
   "id": "M580D/38/0026",
   "kind": "msg",
   "jp": "ひどくの類語はどれだ？\n　{KN}",
-  "en": ""
+  "en": "Which word means the same as \"terribly\"?{KN}"
  },
  {
   "id": "M580D/39/0000.0",
   "kind": "menu",
   "jp": "しゃべる",
-  "en": ""
+  "en": "Speak"
  },
  {
   "id": "M580D/39/0000.1",
   "kind": "menu",
   "jp": "すこっぷ",
-  "en": ""
+  "en": "Spade"
  },
  {
   "id": "M580D/39/0000.2",
   "kind": "menu",
   "jp": "だまる",
-  "en": ""
+  "en": "Keep quiet"
  },
  {
   "id": "M580D/39/0000.3",
   "kind": "menu",
   "jp": "しぶる",
-  "en": ""
+  "en": "Hesitate"
  },
  {
   "id": "M580D/39/0028",
   "kind": "msg",
   "jp": "口にするの類語はどれだ？\n　{KN}",
-  "en": ""
+  "en": "Which means the same as \"put into words\"?{KN}"
  },
  {
   "id": "M580D/40/0000.0",
   "kind": "menu",
   "jp": "気づく",
-  "en": ""
+  "en": "Notice"
  },
  {
   "id": "M580D/40/0000.1",
   "kind": "menu",
   "jp": "もずく",
-  "en": ""
+  "en": "Novice"
  },
  {
   "id": "M580D/40/0000.2",
   "kind": "menu",
   "jp": "うづく",
-  "en": ""
+  "en": "Throb"
  },
  {
   "id": "M580D/40/0000.3",
   "kind": "menu",
   "jp": "つづく",
-  "en": ""
+  "en": "Continue"
  },
  {
   "id": "M580D/40/0024",
   "kind": "msg",
   "jp": "感づくの類語はどれだ？\n　{KN}",
-  "en": ""
+  "en": "Which word means the same as \"sense\"?{KN}"
  },
  {
   "id": "M580D/41/0000.0",
   "kind": "menu",
   "jp": "予習",
-  "en": ""
+  "en": "Preview"
  },
  {
   "id": "M580D/41/0000.1",
   "kind": "menu",
   "jp": "復習",
-  "en": ""
+  "en": "Review"
  },
  {
   "id": "M580D/41/0000.2",
   "kind": "menu",
   "jp": "おさらい",
-  "en": ""
+  "en": "Recap"
  },
  {
   "id": "M580D/41/0000.3",
   "kind": "menu",
   "jp": "楽曲",
-  "en": ""
+  "en": "Song"
  },
  {
   "id": "M580D/41/0020",
   "kind": "msg",
   "jp": "下調べの類語はどれだ？\n　{KN}",
-  "en": ""
+  "en": "Which word means the same as \"check ahead\"?{KN}"
  },
  {
   "id": "M580D/42/0000.0",
   "kind": "menu",
   "jp": "けいこ",
-  "en": ""
+  "en": "Practice"
  },
  {
   "id": "M580D/42/0000.1",
   "kind": "menu",
   "jp": "かいこ",
-  "en": ""
+  "en": "Prance"
  },
  {
   "id": "M580D/42/0000.2",
   "kind": "menu",
   "jp": "けいと",
-  "en": ""
+  "en": "Pumice"
  },
  {
   "id": "M580D/42/0000.3",
   "kind": "menu",
   "jp": "かいと",
-  "en": ""
+  "en": "Justice"
  },
  {
   "id": "M580D/42/0024",
   "kind": "msg",
   "jp": "修行の類語はどれだ？\n　{KN}",
-  "en": ""
+  "en": "Which word means the same as \"training\"?{KN}"
  },
  {
   "id": "M580D/43/0000.0",
   "kind": "menu",
   "jp": "やっかい",
-  "en": ""
+  "en": "Hassle"
  },
  {
   "id": "M580D/43/0000.1",
   "kind": "menu",
   "jp": "やくどし",
-  "en": ""
+  "en": "Castle"
  },
  {
   "id": "M580D/43/0000.2",
   "kind": "menu",
   "jp": "こっかい",
-  "en": ""
+  "en": "Tassel"
  },
  {
   "id": "M580D/43/0000.3",
   "kind": "menu",
   "jp": "せっかい",
-  "en": ""
+  "en": "Vessel"
  },
  {
   "id": "M580D/43/002C",
   "kind": "msg",
   "jp": "面倒の類語はどれだ？\n　{KN}",
-  "en": ""
+  "en": "Which word means the same as \"bother\"?{KN}"
  },
  {
   "id": "M580D/44/0000.0",
   "kind": "menu",
   "jp": "手伝い",
-  "en": ""
+  "en": "Lend a hand"
  },
  {
   "id": "M580D/44/0000.1",
   "kind": "menu",
   "jp": "手洗い",
-  "en": ""
+  "en": "Wash hands"
  },
  {
   "id": "M580D/44/0000.2",
   "kind": "menu",
   "jp": "手触り",
-  "en": ""
+  "en": "Hand cream"
  },
  {
   "id": "M580D/44/0000.3",
   "kind": "menu",
   "jp": "手盛り",
-  "en": ""
+  "en": "Handful"
  },
  {
   "id": "M580D/44/0024",
   "kind": "msg",
   "jp": "手助けの類語はどれだ？\n　{KN}",
-  "en": ""
+  "en": "Which word means the same as \"assist\"?{KN}"
  },
  {
   "id": "M580D/45/0000.0",
   "kind": "menu",
   "jp": "おおよそ",
-  "en": ""
+  "en": "Roughly"
  },
  {
   "id": "M580D/45/0000.1",
   "kind": "menu",
   "jp": "おおあじ",
-  "en": ""
+  "en": "Toughly"
  },
  {
   "id": "M580D/45/0000.2",
   "kind": "menu",
   "jp": "おおよう",
-  "en": ""
+  "en": "Gruffly"
  },
  {
   "id": "M580D/45/0000.3",
   "kind": "menu",
   "jp": "おおとろ",
-  "en": ""
+  "en": "Fatty tuna"
  },
  {
   "id": "M580D/45/002C",
   "kind": "msg",
   "jp": "あらましの類語はどれだ？\n　{KN}",
-  "en": ""
+  "en": "Which means the same as \"more or less\"?{KN}"
  },
  {
   "id": "M580D/46/0000.0",
   "kind": "menu",
   "jp": "しゅうかく",
-  "en": ""
+  "en": "Harvest"
  },
  {
   "id": "M580D/46/0000.1",
   "kind": "menu",
   "jp": "きゅうかく",
-  "en": ""
+  "en": "Hard vest"
  },
  {
   "id": "M580D/46/0000.2",
   "kind": "menu",
   "jp": "しょっかく",
-  "en": ""
+  "en": "Smell"
  },
  {
   "id": "M580D/46/0000.3",
   "kind": "menu",
   "jp": "しかく",
-  "en": ""
+  "en": "Feelers"
  },
  {
   "id": "M580D/46/0030",
   "kind": "msg",
   "jp": "取り込みの類語はどれだ？\n　{KN}",
-  "en": ""
+  "en": "Which means the same as \"bringing in\" crops?{KN}"
  },
  {
   "id": "M580D/47/0000.0",
   "kind": "menu",
   "jp": "ひときわ",
-  "en": ""
+  "en": "Even more"
  },
  {
   "id": "M580D/47/0000.1",
   "kind": "menu",
   "jp": "ふたきわ",
-  "en": ""
+  "en": "Odd more"
  },
  {
   "id": "M580D/47/0000.2",
   "kind": "menu",
   "jp": "みきわ",
-  "en": ""
+  "en": "Evenly"
  },
  {
   "id": "M580D/47/0000.3",
   "kind": "menu",
   "jp": "せとぎわ",
-  "en": ""
+  "en": "On the brink"
  },
  {
   "id": "M580D/47/002A",
   "kind": "msg",
   "jp": "いちだんとの類語はどれだ？\n　{KN}",
-  "en": ""
+  "en": "Which means the same as \"all the more\"?{KN}"
  },
  {
   "id": "M580D/48/0000.0",
   "kind": "menu",
   "jp": "でかい",
-  "en": ""
+  "en": "Huge"
  },
  {
   "id": "M580D/48/0000.1",
   "kind": "menu",
   "jp": "でかた",
-  "en": ""
+  "en": "Hug"
  },
  {
   "id": "M580D/48/0000.2",
   "kind": "menu",
   "jp": "てがる",
-  "en": ""
+  "en": "Hue"
  },
  {
   "id": "M580D/48/0000.3",
   "kind": "menu",
   "jp": "てがら",
-  "en": ""
+  "en": "Hugo"
  },
  {
   "id": "M580D/48/0024",
   "kind": "msg",
   "jp": "大きいの類語はどれだ？\n　{KN}",
-  "en": ""
+  "en": "Which word means the same as \"big\"?{KN}"
  },
  {
   "id": "M580D/49/0000.0",
   "kind": "menu",
   "jp": "新前",
-  "en": ""
+  "en": "Novice"
  },
  {
   "id": "M580D/49/0000.1",
   "kind": "menu",
   "jp": "目前",
-  "en": ""
+  "en": "Notice"
  },
  {
   "id": "M580D/49/0000.2",
   "kind": "menu",
   "jp": "一人前",
-  "en": ""
+  "en": "Grown-up"
  },
  {
   "id": "M580D/49/0000.3",
   "kind": "menu",
   "jp": "お手前",
-  "en": ""
+  "en": "Novel"
  },
  {
   "id": "M580D/49/0020",
   "kind": "msg",
   "jp": "素人の類語はどれだ？\n　{KN}",
-  "en": ""
+  "en": "Which word means the same as \"amateur\"?{KN}"
  },
  {
   "id": "M580D/50/0000.0",
   "kind": "menu",
   "jp": "陽気",
-  "en": ""
+  "en": "Cheerful"
  },
  {
   "id": "M580D/50/0000.1",
   "kind": "menu",
   "jp": "天気",
-  "en": ""
+  "en": "Tearful"
  },
  {
   "id": "M580D/50/0000.2",
   "kind": "menu",
   "jp": "平気",
-  "en": ""
+  "en": "Earful"
  },
  {
   "id": "M580D/50/0000.3",
   "kind": "menu",
   "jp": "男気",
-  "en": ""
+  "en": "Manful"
  },
  {
   "id": "M580D/50/001C",
   "kind": "msg",
   "jp": "明るいの類語はどれだ？\n　{KN}",
-  "en": ""
+  "en": "Which means the same as \"bright\" (in mood)?{KN}"
  },
  {
   "id": "M580D/51/0000.0",
   "kind": "menu",
   "jp": "さわやか",
-  "en": ""
+  "en": "Bracing"
  },
  {
   "id": "M580D/51/0000.1",
   "kind": "menu",
   "jp": "きわやか",
-  "en": ""
+  "en": "Racing"
  },
  {
   "id": "M580D/51/0000.2",
   "kind": "menu",
   "jp": "こまやか",
-  "en": ""
+  "en": "Lacing"
  },
  {
   "id": "M580D/51/0000.3",
   "kind": "menu",
   "jp": "おだやか",
-  "en": ""
+  "en": "Calm"
  },
  {
   "id": "M580D/51/002C",
   "kind": "msg",
   "jp": "すがすがしいの類語はどれだ？\n　{KN}",
-  "en": ""
+  "en": "Which word means the same as \"refreshing\"?{KN}"
  },
  {
   "id": "M580D/52/0000.0",
   "kind": "menu",
   "jp": "こうか",
-  "en": ""
+  "en": "Coins"
  },
  {
   "id": "M580D/52/0000.1",
   "kind": "menu",
   "jp": "そうか",
-  "en": ""
+  "en": "Coils"
  },
  {
   "id": "M580D/52/0000.2",
   "kind": "menu",
   "jp": "こうま",
-  "en": ""
+  "en": "Corns"
  },
  {
   "id": "M580D/52/0000.3",
   "kind": "menu",
   "jp": "こうさ",
-  "en": ""
+  "en": "Cones"
  },
  {
   "id": "M580D/52/0024",
   "kind": "msg",
   "jp": "銭の類語はどれだ？\n　{KN}",
-  "en": ""
+  "en": "Which word means the same as \"cash\"?{KN}"
  },
  {
   "id": "M580D/53/0000.0",
   "kind": "menu",
   "jp": "もめごと",
-  "en": ""
+  "en": "Quarrel"
  },
  {
   "id": "M580D/53/0000.1",
   "kind": "menu",
   "jp": "どさくさ",
-  "en": ""
+  "en": "Squirrel"
  },
  {
   "id": "M580D/53/0000.2",
   "kind": "menu",
   "jp": "もさくさ",
-  "en": ""
+  "en": "Coral"
  },
  {
   "id": "M580D/53/0000.3",
   "kind": "menu",
   "jp": "ままごと",
-  "en": ""
+  "en": "Playing house"
  },
  {
   "id": "M580D/53/002C",
   "kind": "msg",
   "jp": "いざこざの類語はどれだ？\n　{KN}",
-  "en": ""
+  "en": "Which word means the same as \"squabble\"?{KN}"
  }
 ]

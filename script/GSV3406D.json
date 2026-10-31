@@ -9,7 +9,7 @@
   "id": "GSV3406D/2/000E",
   "kind": "msg",
   "jp": "「いらっしゃいませ！\n　{bb}余計にまわしましょう！{ww}が\n　５０両で楽しめます」{KN}",
-  "en": ""
+  "en": "\"Welcome! You can play {bb}Spin 'Em Extra!{ww} for 50 ryo.\"{KN}"
  },
  {
   "id": "GSV3406D/2/00A4",
@@ -33,6 +33,6 @@
   "id": "GSV3406D/3/0002",
   "kind": "msg",
   "jp": "「なんか　やってるうちに\n　目が　回ってきちゃうんだよね！」\n　",
-  "en": ""
+  "en": "\"Somehow, while I'm playing, I start getting dizzy!\""
  }
 ]

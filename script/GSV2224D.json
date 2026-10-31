@@ -9,25 +9,25 @@
   "id": "GSV2224D/2/0010",
   "kind": "msg",
   "jp": "「さっき　柿の頭した男が\n　鬼たちに　はがいじめに　されて\n　連れていかれたぞ！」{KP}\n　\n「いったい　どうしたんだ！」\n　\n　",
-  "en": ""
+  "en": "\"Just now, a man with a persimmon for a head got grabbed in a full nelson by some oni and dragged away!\"{KP}\"What on earth is going on?!\""
  },
  {
   "id": "GSV2224D/2/00A6",
   "kind": "msg",
   "jp": "「いや～　今日も　平和だねぇ～！\n　ゆうぎでも　やりに　行こうかね！」\n　",
-  "en": ""
+  "en": "\"Ahh, another peaceful day! Think I'll go play some games!\""
  },
  {
   "id": "GSV2224D/3/0002",
   "kind": "msg",
   "jp": "「{bb}宝さがしゲーム{ww}の　コツを\n　よく　聞いてね！」\n　{KP}\n「つづらだけ　じゃなくって\n　岩も　きっちり　しらべるの！」\n　{KP}\n「オケも　花も　なんでも　かんでも\n　あやしいものは　ぜ～んぶ！」\n　",
-  "en": ""
+  "en": "\"Listen up, here's the trick to the {bb}Treasure Hunt Game{ww}!\"{KP}\"Don't just check the wicker chests, check the rocks properly too!\"{KP}\"Buckets, flowers, anything and everything! Anything suspicious, check it aaall!\""
  },
  {
   "id": "GSV2224D/4/000E",
   "kind": "msg",
   "jp": "「いらっしゃいませ！\n　{bb}宝さがしゲーム{ww}が\n　５０両で楽しめます」{KN}",
-  "en": ""
+  "en": "\"Welcome! You can play the {bb}Treasure Hunt Game{ww} for 50 ryo.\"{KN}"
  },
  {
   "id": "GSV2224D/4/009C",

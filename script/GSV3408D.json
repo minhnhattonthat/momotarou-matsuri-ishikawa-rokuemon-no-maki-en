@@ -3,66 +3,66 @@
   "id": "GSV3408D/2/0042",
   "kind": "msg",
   "jp": "「こんにちは\n　わたしは　村長の\n　{bb}小太郎{ww}です！」{KP}\n　\n「あなたは　鬼退治で\n　有名な　桃太郎さん\n　ですね！」{KP}\n　\n「どうぞ　この村で\n　ゆっくりしていって\n　ください！」",
-  "en": ""
+  "en": "\"Hello. I am {bb}Kotaro{ww}, the village chief!\"{KP}\"You must be Momotaro-san, famous for defeating the oni!\"{KP}\"Please, make yourself at home in this village!\""
  },
  {
   "id": "GSV3408D/2/011C",
   "kind": "msg",
   "jp": "「こんにちわ　桃太郎さん！\n　何か　ご用ですか？」\n　{KP}\n「えっ！？　{bb}鳴きの笛{ww}を\n　貸してほしいと………」\n　{KP}\n「う～ん\n　いくら　桃太郎さんの\n　頼みでも　それは……」",
-  "en": ""
+  "en": "\"Hello, Momotaro-san! Is there something I can do for you?\"{KP}\"What?! You'd like to borrow the {bb}Call Flute{ww}......\"{KP}\"Hmm... Even if it's a request from Momotaro-san, that's...\""
  },
  {
   "id": "GSV3408D/2/01E4",
   "kind": "msg",
   "jp": "　桃太郎は　ひょっとこの村の\n　実情を　話した！\n　",
-  "en": ""
+  "en": "Momotaro told him what was really happening in Hyottoko Village!"
  },
  {
   "id": "GSV3408D/2/0228",
   "kind": "msg",
   "jp": "「………わかりました！\n　{bb}鳴きの笛{ww}を　お貸し\n　いたしましょう！」{KP}\n　\n「ただ　そのかわりに\n　わたしの　願いを」\n　{KP}\n「聞いていただくという\n　条件で　よろしいですか？」\n　{KN}",
-  "en": ""
+  "en": "\".........Very well! I shall lend you the {bb}Call Flute{ww}!\"{KP}\"However, in return,\"{KP}\"would you agree to the condition that you grant a wish of mine?\"{KN}"
  },
  {
   "id": "GSV3408D/2/0322",
   "kind": "msg",
   "jp": "「では　条件を\n　お話ししましょう！」\n　{KP}\n「わたしの　家の　向かい側に\n　ある　村の　倉庫を　{bb}野生の\n　{bb}サルたち{ww}が　あらすので」{KP}\n　\n「村の人たちは　ほとほと\n　こまりはてています！」\n　{KP}\n「どうか　あなたの\n　おちからで　{bb}サルたち{ww}を\n　追いはらって　ください！」{KP}\n　\n「{bb}サルたち{ww}を　追いはらって\n　いただいた　あかつきには」\n　{KP}\n「{bb}鳴きの笛{ww}を　お貸し\n　いたしますよ！」\n　",
-  "en": ""
+  "en": "\"Then let me tell you my condition!\"{KP}\"The {bb}wild {bb}monkeys{ww} keep raiding the village storehouse across from my house,\"{KP}\"and the villagers are at their wits' end!\"{KP}\"Please, use your strength to drive the {bb}monkeys{ww} away!\"{KP}\"Once you've driven the {bb}monkeys{ww} away for us,\"{KP}\"I will lend you the {bb}Call Flute{ww}!\""
  },
  {
   "id": "GSV3408D/2/04E8",
   "kind": "msg",
   "jp": "「{bb}鳴きの笛{ww}を　手に入れなくて\n　よろしいのですか？」\n　{KN}",
-  "en": ""
+  "en": "\"Are you sure you don't want the {bb}Call Flute{ww}?\"{KN}"
  },
  {
   "id": "GSV3408D/2/053C",
   "kind": "msg",
   "jp": "「桃太郎さん　どうでしたか？\n　サルたちを　追いはらうことが\n　できましたか？」",
-  "en": ""
+  "en": "\"How did it go, Momotaro-san? Were you able to drive the monkeys away?\""
  },
  {
   "id": "GSV3408D/2/059E",
   "kind": "msg",
   "jp": "「さすがですね　桃太郎さん！\n　こんなに　早く　サルたちを\n　追いはらえるなんて……」{KP}\n　\n「どうも　ご苦労さまです！」\n　\n　{KP}\n「では　{bb}鳴きの笛{ww}を\n　お貸しいたします！」\n　",
-  "en": ""
+  "en": "\"Just as I'd expect, Momotaro-san! To drive the monkeys off so quickly...\"{KP}\"Thank you for all your trouble!\"{KP}\"Now, I will lend you the {bb}Call Flute{ww}!\""
  },
  {
   "id": "GSV3408D/2/0670",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}鳴きの笛{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Call Flute{ww}!{KN}"
  },
  {
   "id": "GSV3408D/2/06B6",
   "kind": "msg",
   "jp": "「この笛を　使う時に\n　願いごとが　心に　なければ\n　{bb}水龍{ww}は　あらわれません！」",
-  "en": ""
+  "en": "\"If there is no wish in your heart when you use this flute, the {bb}Water Dragon{ww} will not appear!\""
  },
  {
   "id": "GSV3408D/2/071C",
   "kind": "msg",
   "jp": "「{bb}鳴きの笛{ww}を　使う時に\n　願いごとが　心に　なければ\n　{bb}水龍{ww}は　あらわれません！」",
-  "en": ""
+  "en": "\"If there is no wish in your heart when you use the {bb}Call Flute{ww}, the {bb}Water Dragon{ww} will not appear!\""
  }
 ]

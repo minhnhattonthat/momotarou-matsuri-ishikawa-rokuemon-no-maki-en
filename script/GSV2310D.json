@@ -3,13 +3,13 @@
   "id": "GSV2310D/2/0034",
   "kind": "msg",
   "jp": "「何ですか？\n　用がないのに　入って来ないで\n　くださいよ！」",
-  "en": ""
+  "en": "\"What is it? Don't come barging in if you've got no business here!\""
  },
  {
   "id": "GSV2310D/2/0084",
   "kind": "msg",
   "jp": "「何ですか？\n　この　ぬけ穴を　通りたいって？」\n　{KP}\n「ちょっと　ちょっと\n　この　ぬけ穴を　ほるのに」\n　{KP}\n「いくら　かかっていると\n　思ってんの？」\n　{KP}\n「ど～しても　通りたかったら\n　オラの　好物　{bb}塩ジャケ{ww}を\n　ごちそうして　おくれ！」",
-  "en": ""
+  "en": "\"What is it? You wanna go through this tunnel?\"{KP}\"Hold on, hold on! Just how much\"{KP}\"do you think it cost me to dig this tunnel?\"{KP}\"If you're dead set on goin' through, treat me to my favorite food, {bb}Salted Salmon{ww}!\""
  },
  {
   "id": "GSV2310D/2/01A8",
@@ -21,12 +21,12 @@
   "id": "GSV2310D/2/01DA",
   "kind": "msg",
   "jp": "「お～　オラの　好物\n　{bb}塩ジャケ{ww}だぁ～！」\n　{KP}\n「いや～！　本当に　持ってきて\n　くれたんだね！」\n　{KP}\n「さあ　さあ！\n　ぬけ穴　なんて　いくらでも\n　使って　おくれ！」",
-  "en": ""
+  "en": "\"Ooh, my favorite! {bb}Salted Salmon{ww}!\"{KP}\"Well, whaddya know! You really brought it!\"{KP}\"Go on, go on! Use the tunnel as much as you like!\""
  },
  {
   "id": "GSV2310D/2/02BE",
   "kind": "msg",
   "jp": "「なんで　ぬけ穴なんかを\n　ほったかって？」\n　{KP}\n「いや～　ここは　鬼ヶ島に\n　近いだろ」\n　{KP}\n「いつ　鬼が　あばれ出しても\n　すぐ　隠れられるように\n　ほったんだ！」",
-  "en": ""
+  "en": "\"Why'd I dig a tunnel, you ask?\"{KP}\"Well, this place is close to Onigashima, right?\"{KP}\"I dug it so I can hide right away if the oni ever go on a rampage!\""
  }
 ]

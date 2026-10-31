@@ -45,7 +45,7 @@
   "id": "GSV3204D/2/03BC",
   "kind": "msg",
   "jp": "「さぁ～て　さて　ほかに　何か\n　ご用は　ござらぬかぁ～？」\n　{KN}",
-  "en": ""
+  "en": "\"Weeell now, is there anything else I can do for you?\"{KN}"
  },
  {
   "id": "GSV3204D/3/000A",
@@ -75,6 +75,6 @@
   "id": "GSV3204D/4/0002",
   "kind": "msg",
   "jp": "「へー！\n　いろんな　お面が　あるんだね！」\n　",
-  "en": ""
+  "en": "\"Wow! There are all kinds of masks!\""
  }
 ]

@@ -3,150 +3,150 @@
   "id": "M420D/7/0002",
   "kind": "msg",
   "jp": "ゲームを　続けますか？\n　{KN}",
-  "en": ""
+  "en": "Continue the game?{KN}"
  },
  {
   "id": "M420D/8/000A",
   "kind": "msg",
   "jp": "忍者だホイ！の　遊び方\n　{KP}\n空に　舞ってる　凧を\n手裏剣で　落としてください！{KP}\n照準（しょうじゅん）は　方向キーで\n動かして　○ボタンで　投げましょう！{KP}\n×ボタンを　押しながら　動かすと\n速く　動けます！{KP}\n天邪鬼凧に　当てると\n高得点に　なります！",
-  "en": ""
+  "en": "How to Play Ninja Hoi!{KP}Knock down the kites dancing in the sky with shuriken!{KP}Move the crosshair with the directional buttons and throw with the Circle button!{KP}Hold the X button while moving to move faster!{KP}Hit an Amanojaku kite for a high score!"
  },
  {
   "id": "M420D/8/0124",
   "kind": "msg",
   "jp": "ではゲームスタートです！\n　",
-  "en": ""
+  "en": "Now, game start!"
  },
  {
   "id": "M420D/8/015A",
   "kind": "msg",
   "jp": "ではゲームを　プレイしますか？\n　{KN}",
-  "en": ""
+  "en": "Would you like to play the game?{KN}"
  },
  {
   "id": "M420D/9/000A",
   "kind": "msg",
   "jp": "忍者だホイ！\n対戦ゲームの　説明です！{KP}\n照準（しょうじゅん）は　方向キーで\n動かして　○ボタンで　投げます！{KP}\n対戦相手より　たくさん　凧を\n落としましょう！{KP}\n×ボタンを　押しながら　動かすと\n速く　動けます！{KP}\n３回連続で　凧を落とすと\n仙人凧が　登場します！{KP}\n仙人凧は　対戦相手の\n照準めざして　動きます！{KP}\nもちろん　仙人凧を　落とすと\nマイナス・ポイントになります！{KP}\n照準を　相手の　照準に　近づけて\nじゃまして　あげましょう！{KP}\n１Ｐは　桃太郎さん\n２Ｐは　金太郎さんです！",
-  "en": ""
+  "en": "Ninja Hoi! Here's how the versus game works!{KP}Move the crosshair with the directional buttons and throw with the Circle button!{KP}Knock down more kites than your opponent!{KP}Hold the X button while moving to move faster!{KP}Knock down 3 kites in a row, and a Hermit kite appears!{KP}The Hermit kite heads for your opponent's crosshair!{KP}And of course, knocking down a Hermit kite costs you points!{KP}Move your crosshair close to your opponent's and get in their way!{KP}1P is Momotaro-san, and 2P is Kintaro-san!"
  },
  {
   "id": "M420D/9/0218",
   "kind": "msg",
   "jp": "ではゲームスタートです！\n　",
-  "en": ""
+  "en": "Now, game start!"
  },
  {
   "id": "M420D/9/024E",
   "kind": "msg",
   "jp": "ではゲームを　プレイしますか？\n　{KN}",
-  "en": ""
+  "en": "Would you like to play the game?{KN}"
  },
  {
   "id": "M420D/10/000A",
   "kind": "msg",
   "jp": "忍者だホイ！\n対戦ゲームの　説明です！{KP}\n照準（しょうじゅん）は　方向キーで\n動かして　○ボタンで　投げます！{KP}\n対戦相手より　たくさん　凧を\n落としましょう！{KP}\n×ボタンを　押しながら　動かすと\n速く　動けます！{KP}\n３回連続で　凧を落とすと\n仙人凧が　登場します！{KP}\n仙人凧は　対戦相手の\n照準めざして　動きます！{KP}\nもちろん　仙人凧を　落とすと\nマイナス・ポイントになります！{KP}\n照準を　相手の　照準に　近づけて\nじゃまして　あげましょう！{KP}\n１Ｐは　桃太郎さん\n２Ｐは　金太郎さん{KP}\n３Ｐは　浦島さんです！\n",
-  "en": ""
+  "en": "Ninja Hoi! Here's how the versus game works!{KP}Move the crosshair with the directional buttons and throw with the Circle button!{KP}Knock down more kites than your opponents!{KP}Hold the X button while moving to move faster!{KP}Knock down 3 kites in a row, and a Hermit kite appears!{KP}The Hermit kite heads for an opponent's crosshair!{KP}And of course, knocking down a Hermit kite costs you points!{KP}Move your crosshair close to an opponent's and get in their way!{KP}1P is Momotaro-san, and 2P is Kintaro-san,{KP}and 3P is Urashima-san!"
  },
  {
   "id": "M420D/10/0230",
   "kind": "msg",
   "jp": "ではゲームスタートです！\n　",
-  "en": ""
+  "en": "Now, game start!"
  },
  {
   "id": "M420D/10/0266",
   "kind": "msg",
   "jp": "ではゲームを　プレイしますか？\n　{KN}",
-  "en": ""
+  "en": "Would you like to play the game?{KN}"
  },
  {
   "id": "M420D/11/000A",
   "kind": "msg",
   "jp": "忍者だホイ！\n対戦ゲームの　説明です！{KP}\n照準（しょうじゅん）は　方向キーで\n動かして　○ボタンで　投げます！{KP}\n対戦相手より　たくさん　凧を\n落としましょう！{KP}\n×ボタンを　押しながら　動かすと\n速く　動けます！{KP}\n３回連続で　凧を落とすと\n仙人凧が　登場します！{KP}\n仙人凧は　対戦相手の\n照準めざして　動きます！{KP}\nもちろん　仙人凧を　落とすと\nマイナス・ポイントになります！{KP}\n照準を　相手の　照準に　近づけて\nじゃまして　あげましょう！{KP}\n１Ｐは　桃太郎さん\n２Ｐは　金太郎さん{KP}\n３Ｐは　浦島さん\n４Ｐは　夜叉姫さんです！",
-  "en": ""
+  "en": "Ninja Hoi! Here's how the versus game works!{KP}Move the crosshair with the directional buttons and throw with the Circle button!{KP}Knock down more kites than your opponents!{KP}Hold the X button while moving to move faster!{KP}Knock down 3 kites in a row, and a Hermit kite appears!{KP}The Hermit kite heads for an opponent's crosshair!{KP}And of course, knocking down a Hermit kite costs you points!{KP}Move your crosshair close to an opponent's and get in their way!{KP}1P is Momotaro-san, and 2P is Kintaro-san,{KP}3P is Urashima-san, and 4P is Yashahime-san!"
  },
  {
   "id": "M420D/11/0242",
   "kind": "msg",
   "jp": "ではゲームスタートです！\n　",
-  "en": ""
+  "en": "Now, game start!"
  },
  {
   "id": "M420D/11/0278",
   "kind": "msg",
   "jp": "ではゲームを　プレイしますか？\n　{KN}",
-  "en": ""
+  "en": "Would you like to play the game?{KN}"
  },
  {
   "id": "M420D/12/0046",
   "kind": "msg",
   "jp": "今回は{R2}段でした\n　",
-  "en": ""
+  "en": "This time you got level {R2}."
  },
  {
   "id": "M420D/12/006C",
   "kind": "msg",
   "jp": "今回は初段でした\n　",
-  "en": ""
+  "en": "This time you got level 1."
  },
  {
   "id": "M420D/12/0092",
   "kind": "msg",
   "jp": "今回は免許皆伝でした\n　",
-  "en": ""
+  "en": "This time you got Full Mastery."
  },
  {
   "id": "M420D/12/00BC",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n新記録ですよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! It's a new record!!{KP}Keep up the good work!"
  },
  {
   "id": "M420D/12/0134",
   "kind": "msg",
   "jp": "今回は{R2}段でした\n　",
-  "en": ""
+  "en": "This time you got level {R2}."
  },
  {
   "id": "M420D/12/015A",
   "kind": "msg",
   "jp": "今回は初段でした\n　",
-  "en": ""
+  "en": "This time you got level 1."
  },
  {
   "id": "M420D/12/0180",
   "kind": "msg",
   "jp": "今回は免許皆伝でした\n　",
-  "en": ""
+  "en": "This time you got Full Mastery."
  },
  {
   "id": "M420D/12/01BA",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n段位更新ですよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! Your level went up!!{KP}Keep up the good work!"
  },
  {
   "id": "M420D/12/0224",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n初段に　なりましたよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! You reached level 1!!{KP}Keep up the good work!"
  },
  {
   "id": "M420D/12/0294",
   "kind": "msg",
   "jp": "桃太郎さん　おめでとうございます！\n免許皆伝に　なりましたよ！！{KP}\nごほうびとして\n{bb}方言カード{ww}が　１枚　もらえます！",
-  "en": ""
+  "en": "Congratulations, Momotaro-san! You've reached Full Mastery!!{KP}As a reward, you get one {bb}Dialect Card{ww}!"
  },
  {
   "id": "M420D/12/0320",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０２１{ww}を　手に入れた！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 021{ww}!{KP}Keep up the good work!"
  },
  {
   "id": "M420D/13/0002",
   "kind": "msg",
   "jp": "このゲームを\nもう一度　遊びますか？{KN}",
-  "en": ""
+  "en": "Play this game again?{KN}"
  }
 ]

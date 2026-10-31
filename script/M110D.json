@@ -3,126 +3,126 @@
   "id": "M110D/13/0002",
   "kind": "msg",
   "jp": "ゲームを　続けますか？\n　{KN}",
-  "en": ""
+  "en": "Continue the game?{KN}"
  },
  {
   "id": "M110D/14/000A",
   "kind": "msg",
   "jp": "ジャンケン７の　遊び方\n　{KP}\nあしゅらと　ジャンケン勝負する\nゲームです！{KP}\n７回分の　グー　チョキ　パーを\n決めてください！{KP}\nパネルの上の　数字は\nジャンケンを出す　順番に　なります！{KP}\n方向キーの　左右で　順番を\n上下で　パネルを　選びます！{KP}\n準備が　できたら　ＯＫパネルで\n○ボタンを　押しましょう！{KP}\n７回の　ジャンケン勝負で\nたくさん勝つと　高得点です！{KP}\n全勝めざして　がんばってください！\n　",
-  "en": ""
+  "en": "How to Play Janken 7{KP}It's a game of rock-paper-scissors against Ashura!{KP}Pick rock, scissors or paper for 7 rounds!{KP}The number above each panel is the order you'll throw them in!{KP}Use left and right on the directional buttons to pick the round, and up and down to pick the panel!{KP}When you're ready, press the Circle button on the OK panel!{KP}Win lots of the 7 rounds of rock-paper-scissors for a high score!{KP}Aim for a clean sweep!"
  },
  {
   "id": "M110D/14/01C4",
   "kind": "msg",
   "jp": "ではゲームスタートです！\n　",
-  "en": ""
+  "en": "Now, game start!"
  },
  {
   "id": "M110D/14/01FA",
   "kind": "msg",
   "jp": "ではゲームを　プレイしますか？\n　{KN}",
-  "en": ""
+  "en": "Would you like to play the game?{KN}"
  },
  {
   "id": "M110D/15/000A",
   "kind": "msg",
   "jp": "ジャンケン７！\n対戦ゲームの　説明です！{KP}\nふたりで　あしゅらと\nジャンケン７回勝負です！{KP}\n方向キーの　左右で　順番を\n上下で　パネルを　選びます！{KP}\n準備が　できたら　ＯＫパネルで\n○ボタンを　押しましょう！{KP}\nあしゅらに　たくさん勝って\n得点の　多いほうが　勝ちです！{KP}\nあしゅらの　くせを\n読み取りましょう！{KP}\n１Ｐは　桃太郎さん\n２Ｐは　金太郎さんです！",
-  "en": ""
+  "en": "Janken 7! Here's how the versus game works!{KP}Two players take on Ashura in 7 rounds of rock-paper-scissors!{KP}Use left and right on the directional buttons to pick the round, and up and down to pick the panel!{KP}When you're ready, press the Circle button on the OK panel!{KP}Beat Ashura lots, and whoever scores more wins!{KP}Try to read Ashura's habits!{KP}1P is Momotaro-san, and 2P is Kintaro-san!"
  },
  {
   "id": "M110D/15/0194",
   "kind": "msg",
   "jp": "ではゲームスタートです！\n　",
-  "en": ""
+  "en": "Now, game start!"
  },
  {
   "id": "M110D/15/01CA",
   "kind": "msg",
   "jp": "ではゲームを　プレイしますか？\n　{KN}",
-  "en": ""
+  "en": "Would you like to play the game?{KN}"
  },
  {
   "id": "M110D/16/0046",
   "kind": "msg",
   "jp": "今回は{R2}段でした\n　",
-  "en": ""
+  "en": "This time you got level {R2}."
  },
  {
   "id": "M110D/16/006C",
   "kind": "msg",
   "jp": "今回は初段でした\n　",
-  "en": ""
+  "en": "This time you got level 1."
  },
  {
   "id": "M110D/16/0092",
   "kind": "msg",
   "jp": "今回は免許皆伝でした\n　",
-  "en": ""
+  "en": "This time you got Full Mastery."
  },
  {
   "id": "M110D/16/00BC",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n新記録ですよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! It's a new record!!{KP}Keep up the good work!"
  },
  {
   "id": "M110D/16/0134",
   "kind": "msg",
   "jp": "今回は{R2}段でした\n　",
-  "en": ""
+  "en": "This time you got level {R2}."
  },
  {
   "id": "M110D/16/015A",
   "kind": "msg",
   "jp": "今回は初段でした\n　",
-  "en": ""
+  "en": "This time you got level 1."
  },
  {
   "id": "M110D/16/0180",
   "kind": "msg",
   "jp": "今回は免許皆伝でした\n　",
-  "en": ""
+  "en": "This time you got Full Mastery."
  },
  {
   "id": "M110D/16/01BA",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n段位更新ですよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! Your level went up!!{KP}Keep up the good work!"
  },
  {
   "id": "M110D/16/0224",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n初段に　なりましたよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! You reached level 1!!{KP}Keep up the good work!"
  },
  {
   "id": "M110D/16/0294",
   "kind": "msg",
   "jp": "桃太郎さん　おめでとうございます！\n免許皆伝に　なりましたよ！！{KP}\nごほうびとして\n{bb}方言カード{ww}が　１枚　もらえます！",
-  "en": ""
+  "en": "Congratulations, Momotaro-san! You've reached Full Mastery!!{KP}As a reward, you get one {bb}Dialect Card{ww}!"
  },
  {
   "id": "M110D/16/0320",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０３８{ww}を　手に入れた！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 038{ww}!{KP}Keep up the good work!"
  },
  {
   "id": "M110D/17/0002",
   "kind": "msg",
   "jp": "このゲームを\nもう一度　遊びますか？{KN}",
-  "en": ""
+  "en": "Play this game again?{KN}"
  },
  {
   "id": "M110D/18/0002",
   "kind": "msg",
   "jp": "桃太郎さん！　まだ\n決定していない　パネルがあります！{KP}\nもう一度　見直してください！\n　",
-  "en": ""
+  "en": "Momotaro-san! There's a panel you haven't decided yet!{KP}Take another look!"
  },
  {
   "id": "M110D/19/0002",
   "kind": "msg",
   "jp": "さあ！　それでは　勝負！\n　",
-  "en": ""
+  "en": "All right! Now, let's play!"
  }
 ]

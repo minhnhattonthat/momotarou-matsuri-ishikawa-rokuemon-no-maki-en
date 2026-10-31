@@ -3,48 +3,48 @@
   "id": "GSV3413D/2/0026",
   "kind": "msg",
   "jp": "「ほげ～\n　ほあ～　かったるいなぁ～」\n　{KP}\n「あんた　だ～れ\n　まぁ　そんなこったぁ\n　どうでもいいか～あ～」{KP}\n　\n「ほげ～\n　何もしたくないなぁ～あ～」\n　",
-  "en": ""
+  "en": "\"Hoooge... Hwaaah... what a draaag...\"{KP}\"Who're yooou... Eh, whatever, doesn't matter anywaaay...\"{KP}\"Hoooge... I don't wanna do anythiiing...\""
  },
  {
   "id": "GSV3413D/2/0110",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}やる木棒{ww}で\n物ぐさ太郎の　背中を　たたいた！",
-  "en": ""
+  "en": "Momotaro whacked Lazy Taro on the back with the {bb}Pep Stick{ww}!"
  },
  {
   "id": "GSV3413D/2/015A",
   "kind": "msg",
   "jp": "ビシッ！　バシッ！\n　\n　",
-  "en": ""
+  "en": "Whack! Smack!"
  },
  {
   "id": "GSV3413D/2/0194",
   "kind": "msg",
   "jp": "「いたたたたっ！\n　ん～　じんじん　きく～！」\n　{KP}\n「なんか　なんか\n　やる気が　出てくるだやー！」\n　{KP}\n「何かやらなくちゃ！\n　やる気が　あふれるだやー！」\n　{KP}\n「そうだ！　とう芸だやー！\n　作品づくりだやー！」\n　",
-  "en": ""
+  "en": "\"Owowowow! Mmm, that stings right through me!\"{KP}\"Somethin', somethin'... I'm gettin' all fired up, yah!\"{KP}\"Gotta do somethin'! I'm burstin' with drive, yah!\"{KP}\"That's it! Pottery, yah! Time to make a piece, yah!\""
  },
  {
   "id": "GSV3413D/2/02A4",
   "kind": "msg",
   "jp": "「ありがとう！\n　そこの　お兄さん\n　また　あとで　来てくれやー！」{KP}\n　\n「さぁて　土さがしだやー！\n　いい作品を　つくるだや！」\n　",
-  "en": ""
+  "en": "\"Thanks! You there, young man! Come back again later, yah!\"{KP}\"Right, time to go find some clay, yah! I'll make a fine piece, yah!\""
  },
  {
   "id": "GSV3413D/2/0382",
   "kind": "msg",
   "jp": "「やあ！　お兄さん！\n　この前の　お礼に　オラの\n　つくった作品を　あげるがや」",
-  "en": ""
+  "en": "\"Hey there, young man! As thanks for the other day, I'll give you a piece I made, yah!\""
  },
  {
   "id": "GSV3413D/2/03E2",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}リュウの皿{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Ryu Plate{ww}!{KN}"
  },
  {
   "id": "GSV3413D/2/0428",
   "kind": "msg",
   "jp": "「いい作品を　つくれるように\n　がんばるだやー！」\n　",
-  "en": ""
+  "en": "\"I'll work hard so I can make fine pieces, yah!\""
  }
 ]

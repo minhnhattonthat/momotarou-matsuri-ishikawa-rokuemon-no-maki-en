@@ -3,114 +3,114 @@
   "id": "M090D/14/0002",
   "kind": "msg",
   "jp": "ゲームを　続けますか？\n　{KN}",
-  "en": ""
+  "en": "Continue the game?{KN}"
  },
  {
   "id": "M090D/15/000A",
   "kind": "msg",
   "jp": "はねつき地獄！の　遊び方\n　{KP}\nはねつきの　猛特訓です！\n　{KP}\n鬼たちが　打ち出す　ハネを\n○ボタンで　打ち返してください！{KP}\n打ち返した　ハネの色で\n得点が　変わります！{KP}\n○ボタンを　長く　押し続けて\nパッと　はなすと　スマッシュ！{KP}\nスマッシュは　高等技術なので\n夢中になっちゃいます！{KP}\n得点の　高さも　けたハズレ！\nスマッシュができれば　上級者！{KP}\nまた　ハネに　ぶつかると\nしばらく　動けなくなります！{KP}\n弱音を　はかずに\n特訓！　また特訓に　耐えてください！",
-  "en": ""
+  "en": "How to Play Hanetsuki Hell!{KP}It's intense hanetsuki training!{KP}Hit back the shuttlecocks the oni launch with the Circle button!{KP}Your score depends on the color of the shuttlecock you hit back!{KP}Hold the Circle button down, then let go quickly to smash!{KP}Smashing is an advanced technique, and you'll get hooked on it!{KP}The points are off the charts too! If you can smash, you're a pro!{KP}And if a shuttlecock hits you, you can't move for a while!{KP}No whining! Endure the training, and then more training!"
  },
  {
   "id": "M090D/15/0204",
   "kind": "msg",
   "jp": "ではゲームスタートです！\n　",
-  "en": ""
+  "en": "Now, game start!"
  },
  {
   "id": "M090D/15/023A",
   "kind": "msg",
   "jp": "ではゲームを　プレイしますか？\n　{KN}",
-  "en": ""
+  "en": "Would you like to play the game?{KN}"
  },
  {
   "id": "M090D/16/000A",
   "kind": "msg",
   "jp": "はねつき地獄！\n対戦ゲームの　説明です！{KP}\n桃太郎さんと　金太郎さんが\n同じコートで　戦う　過酷なゲーム！{KP}\n鬼たちが　打ち出す　ハネを\n○ボタンで　打ち返してください！{KP}\n○ボタンを　長く　押し続けて\nパッと　はなすと　スマッシュ！{KP}\nスマッシュを　決めると\n対戦相手に　たらいが　落ちます！{KP}\n相手の　じゃまをしながら\n得点を　多く　取ってください！{KP}\n１Ｐは　桃太郎さん\n２Ｐは　金太郎さんです！",
-  "en": ""
+  "en": "Hanetsuki Hell! Here's how the versus game works!{KP}A grueling game where Momotaro-san and Kintaro-san battle on the same court!{KP}Hit back the shuttlecocks the oni launch with the Circle button!{KP}Hold the Circle button down, then let go quickly to smash!{KP}Land a smash and a washtub drops on your opponent!{KP}Get in your opponent's way and score as many points as you can!{KP}1P is Momotaro-san, and 2P is Kintaro-san!"
  },
  {
   "id": "M090D/16/01BA",
   "kind": "msg",
   "jp": "ではゲームスタートです！\n　",
-  "en": ""
+  "en": "Now, game start!"
  },
  {
   "id": "M090D/16/01F0",
   "kind": "msg",
   "jp": "ではゲームを　プレイしますか？\n　{KN}",
-  "en": ""
+  "en": "Would you like to play the game?{KN}"
  },
  {
   "id": "M090D/17/0046",
   "kind": "msg",
   "jp": "今回は{R2}段でした\n　",
-  "en": ""
+  "en": "This time you got level {R2}."
  },
  {
   "id": "M090D/17/006C",
   "kind": "msg",
   "jp": "今回は初段でした\n　",
-  "en": ""
+  "en": "This time you got level 1."
  },
  {
   "id": "M090D/17/0092",
   "kind": "msg",
   "jp": "今回は免許皆伝でした\n　",
-  "en": ""
+  "en": "This time you got Full Mastery."
  },
  {
   "id": "M090D/17/00BC",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n新記録ですよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! It's a new record!!{KP}Keep up the good work!"
  },
  {
   "id": "M090D/17/0134",
   "kind": "msg",
   "jp": "今回は{R2}段でした\n　",
-  "en": ""
+  "en": "This time you got level {R2}."
  },
  {
   "id": "M090D/17/015A",
   "kind": "msg",
   "jp": "今回は初段でした\n　",
-  "en": ""
+  "en": "This time you got level 1."
  },
  {
   "id": "M090D/17/0180",
   "kind": "msg",
   "jp": "今回は免許皆伝でした\n　",
-  "en": ""
+  "en": "This time you got Full Mastery."
  },
  {
   "id": "M090D/17/01BA",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n段位更新ですよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! Your level went up!!{KP}Keep up the good work!"
  },
  {
   "id": "M090D/17/0224",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n初段に　なりましたよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! You reached level 1!!{KP}Keep up the good work!"
  },
  {
   "id": "M090D/17/0294",
   "kind": "msg",
   "jp": "桃太郎さん　おめでとうございます！\n免許皆伝に　なりましたよ！！{KP}\nごほうびとして\n{bb}方言カード{ww}が　１枚　もらえます！",
-  "en": ""
+  "en": "Congratulations, Momotaro-san! You've reached Full Mastery!!{KP}As a reward, you get one {bb}Dialect Card{ww}!"
  },
  {
   "id": "M090D/17/0320",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０９８{ww}を　手に入れた！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 098{ww}!{KP}Keep up the good work!"
  },
  {
   "id": "M090D/18/0002",
   "kind": "msg",
   "jp": "このゲームを\nもう一度　遊びますか？{KN}",
-  "en": ""
+  "en": "Play this game again?{KN}"
  }
 ]

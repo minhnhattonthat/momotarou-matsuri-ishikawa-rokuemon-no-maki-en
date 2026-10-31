@@ -21,19 +21,19 @@
   "id": "GSV3612D/0/015C",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　そっちは　女湯じゃ！\n　男湯は　こっちですぞ！」",
-  "en": ""
+  "en": "\"Momotaro-san! That's the women's bath! The men's bath is over here!\""
  },
  {
   "id": "GSV3612D/0/01C8",
   "kind": "msg",
   "jp": "「桃太郎さん！　そんな所に\n　入っても　誰もいませんよ！」\n　",
-  "en": ""
+  "en": "\"Momotaro-san! There's nobody in there, even if you go in!\""
  },
  {
   "id": "GSV3612D/2/0016",
   "kind": "msg",
   "jp": "「いらっしゃませ～！\n　入浴料は　２０両で　ございますよ！」\n　{KN}",
-  "en": ""
+  "en": "\"Welcome, welcooome! The bath fee is 20 ryo!\"{KN}"
  },
  {
   "id": "GSV3612D/2/008E",
@@ -57,6 +57,6 @@
   "id": "GSV3612D/2/01E4",
   "kind": "msg",
   "jp": "「また　気が向いたら\n　いらしてくだされ」\n　",
-  "en": ""
+  "en": "\"Do come again whenever you feel like it.\""
  }
 ]

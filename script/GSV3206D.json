@@ -3,36 +3,36 @@
   "id": "GSV3206D/2/001E",
   "kind": "msg",
   "jp": "「やあ　やあ　桃太郎さん！\n　わたしは　ここの　村長の\n　{bb}わらしべ長者{ww}と　申します！」{KP}\n　\n「いや～\n　１本の　ワラが　もとで\n　大金を　手にしたので」{KP}\n　\n「自分の村を　つくることが\n　できました！」\n　{KP}\n「だから　この村を　おとずれた\n　人に　１本の　{bb}ワラ{ww}を\n　さしあげています！」{KP}\n　\n「桃太郎さん！\n　この{bb}ワラ{ww}を　もらって\n　いただけますか？」{KN}",
-  "en": ""
+  "en": "\"Well, well, Momotaro-san! I am the chief of this village, and I'm called the {bb}Straw Millionaire{ww}!\"{KP}\"Ah, it all started with a single straw, and I made a fortune,\"{KP}\"so I was able to build a village of my own!\"{KP}\"That's why I give a single {bb}Straw{ww} to everyone who visits this village!\"{KP}\"Momotaro-san! Will you accept this {bb}Straw{ww}?\"{KN}"
  },
  {
   "id": "GSV3206D/2/01CA",
   "kind": "msg",
   "jp": "　\n「では　では　この{bb}ワラ{ww}を\n　さしあげましょう！」\n　",
-  "en": ""
+  "en": "\"Well then, here is your {bb}Straw{ww}!\""
  },
  {
   "id": "GSV3206D/2/0218",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}ワラ{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Straw{ww}!{KN}"
  },
  {
   "id": "GSV3206D/2/025E",
   "kind": "msg",
   "jp": "　\n「そうですか～\n　では　では\n　またの　機会に！」",
-  "en": ""
+  "en": "\"I see... Well then, some other time!\""
  },
  {
   "id": "GSV3206D/2/02AA",
   "kind": "msg",
   "jp": "「やあ　やあ　桃太郎さん！\n　{bb}ワラ{ww}は　何か　いい物に\n　なりましたか？」",
-  "en": ""
+  "en": "\"Well, well, Momotaro-san! Has the {bb}Straw{ww} turned into anything good?\""
  },
  {
   "id": "GSV3206D/2/0308",
   "kind": "msg",
   "jp": "「やあ　やあ　桃太郎さん\n　ほ～　{bb}ワラ{ww}が　りっぱな\n　{bb}こだま笛{ww}に　なりましたね！」",
-  "en": ""
+  "en": "\"Well, well, Momotaro-san! Oho, the {bb}Straw{ww} has become a fine {bb}Echo Flute{ww}!\""
  }
 ]

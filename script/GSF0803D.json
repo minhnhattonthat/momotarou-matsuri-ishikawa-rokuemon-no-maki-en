@@ -3,37 +3,37 @@
   "id": "GSF0803D/2/0034",
   "kind": "msg",
   "jp": "「やあ　桃太郎さん\n　今　みんなで　ナベを　つついて\n　楽しんで　いたんですよ！」{KP}\n　\n「もう　ボクは　満腹なんですが\n　青鬼と　黄鬼が　まだ\n　もの足りないって　言うんですよ！」{KP}\n　\n「桃太郎さん\n　青鬼と　黄鬼に　こいつらの　好物を\n　ごちそうして　くれませんか？」{KP}\n　\n「ごちそうしてくれたら　ボクの\n　とっておきの　{bb}方言カード{ww}を\n　さしあげますから！」",
-  "en": ""
+  "en": "\"Hi, Momotaro-san. We've all been enjoying a hot pot together!\"{KP}\"I'm already full, but Blue Oni and Yellow Oni say they still haven't had enough!\"{KP}\"Momotaro-san, would you treat Blue Oni and Yellow Oni to their favorite foods?\"{KP}\"If you treat them, I'll give you my prized {bb}Dialect Card{ww}!\""
  },
  {
   "id": "GSF0803D/2/01D0",
   "kind": "msg",
   "jp": "「桃太郎さん　ありがとう！」\n　こいつらも　満足しています！」\n　{KP}\n「はい　約束の　{bb}方言カード{ww}を\n　さしあげます！」\n　",
-  "en": ""
+  "en": "\"Thank you, Momotaro-san! These guys are satisfied too!\"{KP}\"Here's the {bb}Dialect Card{ww} I promised!\""
  },
  {
   "id": "GSF0803D/2/0262",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード００９{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 009{ww}!{KN}"
  },
  {
   "id": "GSF0803D/2/02B6",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　また　何かありましたら\n　よろしくお願いしますよ！」",
-  "en": ""
+  "en": "\"Momotaro-san! If anything comes up again, I'm counting on you!\""
  },
  {
   "id": "GSF0803D/3/0026",
   "kind": "msg",
   "jp": "「ふ～　食った　食った！\n　でも　食い足りないなぁ～！」\n　",
-  "en": ""
+  "en": "\"Phew, I ate and ate! But I'm still not full!\""
  },
  {
   "id": "GSF0803D/3/0074",
   "kind": "msg",
   "jp": "「えっ？　桃太郎さんが\n　オラたちに　ごちそうして\n　くれるんですか？」{KP}\n　\n「そうだなあ\n　オラは　{bb}野菜イタメ{ww}が\n　食べたいなぁ～！」{KP}\n　\n「野菜が　ぜ～んぶ\n　入っている　{bb}野菜イタメ{ww}が！」\n　{KP}\n「とは　言いつつ　オラは\n　{bb}カブ　にんじん　ごぼう　たまねぎ{ww}が\n　キライなんだなぁ～！」",
-  "en": ""
+  "en": "\"Huh? Momotaro-san, you're gonna treat us?\"{KP}\"Let's see... I wanna eat {bb}Stir-Fry{ww}!\"{KP}\"A {bb}Stir-Fry{ww} with every single vegetable in it!\"{KP}\"That said, I hate {bb}turnips, carrots, burdock and onions{ww}!\""
  },
  {
   "id": "GSF0803D/3/01CA",
@@ -45,25 +45,25 @@
   "id": "GSF0803D/3/01FC",
   "kind": "msg",
   "jp": "「やったぁ！　この　かおり\n　ん～　たまんないね！」\n　{KP}\n「桃太郎さん　ありがとう！」\n　\n　",
-  "en": ""
+  "en": "\"Yay! That smell... Mmm, I can't resist!\"{KP}\"Thank you, Momotaro-san!\""
  },
  {
   "id": "GSF0803D/3/0282",
   "kind": "msg",
   "jp": "「桃太郎さん　ごちそうさまでした！\n　もう　満腹です！」\n　",
-  "en": ""
+  "en": "\"Thanks for the meal, Momotaro-san! I'm stuffed!\""
  },
  {
   "id": "GSF0803D/4/0026",
   "kind": "msg",
   "jp": "「ん～！　食った　食った！\n　でも　食い足りないなぁ～！」\n　",
-  "en": ""
+  "en": "\"Mmm! I ate and ate! But I'm still not full!\""
  },
  {
   "id": "GSF0803D/4/0076",
   "kind": "msg",
   "jp": "「えっ？　桃太郎さんが\n　ワシたちに　ごちそうして\n　くれるんですか？」{KP}\n　\n「それじゃ！\n　ワシは　{bb}きつねうどん{ww}が\n　食べたいなぁ！」{KP}\n　\n「{bb}あぶらあげ{ww}を　手に入れるのは\n　大変だけどね！」\n　",
-  "en": ""
+  "en": "\"Huh? Momotaro-san, you're gonna treat us?\"{KP}\"Well then! I wanna eat {bb}Kitsune Udon{ww}!\"{KP}\"Getting hold of {bb}Fried Tofu{ww} is tough, though!\""
  },
  {
   "id": "GSF0803D/4/0168",
@@ -75,12 +75,12 @@
   "id": "GSF0803D/4/019A",
   "kind": "msg",
   "jp": "「おお　これ　これ！\n　何年ぶりかなぁ\n　きつねうどん　なんて！」{KP}\n　\n「桃太郎さん　ありがとう！」\n　\n　",
-  "en": ""
+  "en": "\"Ohh, this is it! How many years has it been since I had kitsune udon!\"{KP}\"Thank you, Momotaro-san!\""
  },
  {
   "id": "GSF0803D/4/0230",
   "kind": "msg",
   "jp": "「桃太郎さん　ごちそうさまでした！\n　とても　うまかったです！」\n　",
-  "en": ""
+  "en": "\"Thanks for the meal, Momotaro-san! That was really tasty!\""
  }
 ]

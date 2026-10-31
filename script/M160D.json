@@ -3,120 +3,120 @@
   "id": "M160D/14/0002",
   "kind": "msg",
   "jp": "ゲームを　続けますか？\n　{KN}",
-  "en": ""
+  "en": "Continue the game?{KN}"
  },
  {
   "id": "M160D/15/000A",
   "kind": "msg",
   "jp": "ハリセンちょっぷ！の　遊び方\n　{KP}\n和風「西部劇の決闘」ゲームです！\n　{KP}\n５つ　数えて　「勝負」の　マークが\n出たら　○ボタンを　押しましょう！{KP}\n相手より　早く　たたけば\n得点が　入ります！{KP}\n「勝負」マークが　出る前に　たたくと\n得点に　なりません！{KP}\n相手に　先に　たたかれても\n得点が　もらえません！{KP}\n３本勝負の　合計点で\n段位が　決まります！{KP}\n早撃ちガンマンの　気分で\n０秒　めざしてください！",
-  "en": ""
+  "en": "How to Play Paper Fan Chop!{KP}It's a Japanese-style \"Wild West duel\" game!{KP}Count to 5, and when the \"Duel\" mark appears, press the Circle button!{KP}Smack your opponent first to score points!{KP}Smack before the \"Duel\" mark appears and you won't score!{KP}If your opponent smacks you first, you get no points either!{KP}Your level is decided by your total over 3 rounds!{KP}Feel like a quick-draw gunslinger and aim for 0 seconds!"
  },
  {
   "id": "M160D/15/01C4",
   "kind": "msg",
   "jp": "ではゲームスタートです！\n　",
-  "en": ""
+  "en": "Now, game start!"
  },
  {
   "id": "M160D/15/01FA",
   "kind": "msg",
   "jp": "ではゲームを　プレイしますか？\n　{KN}",
-  "en": ""
+  "en": "Would you like to play the game?{KN}"
  },
  {
   "id": "M160D/16/000A",
   "kind": "msg",
   "jp": "ハリセンちょっぷ！\n対戦ゲームの　説明です！{KP}\n３本　勝負で　得点が\n高いほうが　勝ちです！{KP}\n５つ　数えて　「勝負」の　マークが\n出たら　○ボタンを　押しましょう！{KP}\n「勝負」より　早く　たたくと\n現在の得点　すべて　マイナスです！{KP}\nマイナスされた　得点は　相手の\n得点になりますよ！{KP}\n相手より　早く　たたけるように\nがんばってくださいね！{KP}\n１Ｐは　桃太郎さん\n２Ｐは　金太郎さんです！",
-  "en": ""
+  "en": "Paper Fan Chop! Here's how the versus game works!{KP}It's 3 rounds, and whoever scores higher wins!{KP}Count to 5, and when the \"Duel\" mark appears, press the Circle button!{KP}Smack before \"Duel\" and your whole current score turns negative!{KP}The points you lose go to your opponent!{KP}Try your best to smack faster than your opponent!{KP}1P is Momotaro-san, and 2P is Kintaro-san!"
  },
  {
   "id": "M160D/16/01B2",
   "kind": "msg",
   "jp": "ではゲームスタートです！\n　",
-  "en": ""
+  "en": "Now, game start!"
  },
  {
   "id": "M160D/16/01E8",
   "kind": "msg",
   "jp": "ではゲームを　プレイしますか？\n　{KN}",
-  "en": ""
+  "en": "Would you like to play the game?{KN}"
  },
  {
   "id": "M160D/17/0046",
   "kind": "msg",
   "jp": "今回は{R2}段でした\n　",
-  "en": ""
+  "en": "This time you got level {R2}."
  },
  {
   "id": "M160D/17/006C",
   "kind": "msg",
   "jp": "今回は初段でした\n　",
-  "en": ""
+  "en": "This time you got level 1."
  },
  {
   "id": "M160D/17/0092",
   "kind": "msg",
   "jp": "今回は免許皆伝でした\n　",
-  "en": ""
+  "en": "This time you got Full Mastery."
  },
  {
   "id": "M160D/17/00BC",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n新記録ですよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! It's a new record!!{KP}Keep up the good work!"
  },
  {
   "id": "M160D/17/0134",
   "kind": "msg",
   "jp": "今回は{R2}段でした\n　",
-  "en": ""
+  "en": "This time you got level {R2}."
  },
  {
   "id": "M160D/17/015A",
   "kind": "msg",
   "jp": "今回は初段でした\n　",
-  "en": ""
+  "en": "This time you got level 1."
  },
  {
   "id": "M160D/17/0180",
   "kind": "msg",
   "jp": "今回は免許皆伝でした\n　",
-  "en": ""
+  "en": "This time you got Full Mastery."
  },
  {
   "id": "M160D/17/01BA",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n段位更新ですよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! Your level went up!!{KP}Keep up the good work!"
  },
  {
   "id": "M160D/17/0224",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n初段に　なりましたよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! You reached level 1!!{KP}Keep up the good work!"
  },
  {
   "id": "M160D/17/029C",
   "kind": "msg",
   "jp": "桃太郎さん　おめでとうございます！\n免許皆伝に　なりましたよ！！{KP}\nごほうびとして\n{bb}方言カード{ww}が　１枚　もらえます！",
-  "en": ""
+  "en": "Congratulations, Momotaro-san! You've reached Full Mastery!!{KP}As a reward, you get one {bb}Dialect Card{ww}!"
  },
  {
   "id": "M160D/17/0328",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０１６{ww}を　手に入れた！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 016{ww}!{KP}Keep up the good work!"
  },
  {
   "id": "M160D/17/0396",
   "kind": "msg",
   "jp": "桃太郎さん　おめでとうございます！\n免許皆伝に　なりましたよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Congratulations, Momotaro-san! You've reached Full Mastery!!{KP}Keep up the good work!"
  },
  {
   "id": "M160D/18/0002",
   "kind": "msg",
   "jp": "このゲームを\nもう一度　遊びますか？{KN}",
-  "en": ""
+  "en": "Play this game again?{KN}"
  }
 ]

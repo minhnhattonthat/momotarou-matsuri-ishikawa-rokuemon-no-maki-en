@@ -3,156 +3,156 @@
   "id": "M040D/139/0002",
   "kind": "msg",
   "jp": "ゲームを　続けますか？\n　{KN}",
-  "en": ""
+  "en": "Continue the game?{KN}"
  },
  {
   "id": "M040D/140/000A",
   "kind": "msg",
   "jp": "金魚すくいの　遊び方\n　{KP}\nアミを　方向キーで　動かして\n○ボタンで　しずめます！{KP}\n○ボタンは　押したままにして\nパッとはなすと　金魚が　すくえます！{KP}\n大きな金魚や\n黒デメキンは　高得点に！{KP}\nでも！　これだけは\n要注意！{KP}\nキタナイ色した　貧面魚だけは\n見まちがえないように！{KP}\nうっかり　貧面魚を　すくうと\n５００点　うばわれてしまいます！{KP}\n一度に　たくさん　すくうと\nボーナス点が　入ります！{KP}\nアミを　動かしながら　×ボタンで\nスピードアップ！{KP}\nがんばって　金魚を　全部\nすくっちゃって　くださいね！{KP}\n時間が　０になるか　アミが\nやぶれると　ゲーム・オーバー！",
-  "en": ""
+  "en": "How to Play Goldfish Scooping{KP}Move the net with the directional buttons and dip it with the Circle button!{KP}Hold the Circle button down, then let go quickly to scoop up goldfish!{KP}Big goldfish and black pop-eyes are worth lots of points!{KP}But! Watch out for this one thing!{KP}Don't mistake the dirty-colored Pauperfish for anything else!{KP}Scoop up a Pauperfish by accident and you'll lose 500 points!{KP}Scoop lots at once for bonus points!{KP}Press the X button while moving the net to speed up!{KP}Try your best to scoop up every last goldfish!{KP}When the time hits 0 or your net tears, it's game over!"
  },
  {
   "id": "M040D/140/0272",
   "kind": "msg",
   "jp": "ではゲームスタートです！\n　",
-  "en": ""
+  "en": "Now, game start!"
  },
  {
   "id": "M040D/140/02A8",
   "kind": "msg",
   "jp": "ではゲームを　プレイしますか？\n　{KN}",
-  "en": ""
+  "en": "Would you like to play the game?{KN}"
  },
  {
   "id": "M040D/141/000A",
   "kind": "msg",
   "jp": "金魚すくい！\n対戦ゲームの　説明です！{KP}\nアミを　方向キーで　動かして\n○ボタンで　しずめます！{KP}\n○ボタンは　押したままにして\nパッとはなすと　金魚が　すくえます！{KP}\nもちろん！　たくさん　金魚を\nすくって　高得点の人が　勝ちです！{KP}\nアミを　動かしながら　×ボタンで\nスピードアップ！{KP}\nアミの　しずめすぎに　注意して\n高得点を　めざしてください！{KP}\n１Ｐ桃太郎さんは　赤色の　アミ\n２Ｐ金太郎さんは　黄色の　アミです！",
-  "en": ""
+  "en": "Goldfish Scooping! Here's how the versus game works!{KP}Move the net with the directional buttons and dip it with the Circle button!{KP}Hold the Circle button down, then let go quickly to scoop up goldfish!{KP}Of course! Whoever scoops the most goldfish for the highest score wins!{KP}Press the X button while moving the net to speed up!{KP}Be careful not to dip your net too much, and aim for a high score!{KP}1P Momotaro-san has the red net, and 2P Kintaro-san has the yellow net!"
  },
  {
   "id": "M040D/141/01D0",
   "kind": "msg",
   "jp": "ではゲームスタートです！\n　",
-  "en": ""
+  "en": "Now, game start!"
  },
  {
   "id": "M040D/141/0206",
   "kind": "msg",
   "jp": "ではゲームを　プレイしますか？\n　{KN}",
-  "en": ""
+  "en": "Would you like to play the game?{KN}"
  },
  {
   "id": "M040D/142/000A",
   "kind": "msg",
   "jp": "金魚すくい！\n対戦ゲームの　説明です！{KP}\nアミを　方向キーで　動かして\n○ボタンで　しずめます！{KP}\n○ボタンは　押したままにして\nパッとはなすと　金魚が　すくえます！{KP}\nもちろん！　たくさん　金魚を\nすくって　高得点の人が　勝ちです！{KP}\nアミを　動かしながら　×ボタンで\nスピードアップ！{KP}\nアミの　しずめすぎに　注意して\n高得点を　めざしてください！{KP}\n１Ｐ桃太郎さんは　赤色の　アミ\n２Ｐ金太郎さんは　黄色の　アミ{KP}\n３Ｐ浦島さんは　緑色の　アミです！\n",
-  "en": ""
+  "en": "Goldfish Scooping! Here's how the versus game works!{KP}Move the net with the directional buttons and dip it with the Circle button!{KP}Hold the Circle button down, then let go quickly to scoop up goldfish!{KP}Of course! Whoever scoops the most goldfish for the highest score wins!{KP}Press the X button while moving the net to speed up!{KP}Be careful not to dip your net too much, and aim for a high score!{KP}1P Momotaro-san has the red net, 2P Kintaro-san has the yellow net,{KP}and 3P Urashima-san has the green net!"
  },
  {
   "id": "M040D/142/01F4",
   "kind": "msg",
   "jp": "ではゲームスタートです！\n　",
-  "en": ""
+  "en": "Now, game start!"
  },
  {
   "id": "M040D/142/022A",
   "kind": "msg",
   "jp": "ではゲームを　プレイしますか？\n　{KN}",
-  "en": ""
+  "en": "Would you like to play the game?{KN}"
  },
  {
   "id": "M040D/143/000A",
   "kind": "msg",
   "jp": "金魚すくい！\n対戦ゲームの　説明です！{KP}\nアミを　方向キーで　動かして\n○ボタンで　しずめます！{KP}\n○ボタンは　押したままにして\nパッとはなすと　金魚が　すくえます！{KP}\nもちろん！　たくさん　金魚を\nすくって　高得点の人が　勝ちです！{KP}\nアミを　動かしながら　×ボタンで\nスピードアップ！{KP}\nアミの　しずめすぎに　注意して\n高得点を　めざしてください！{KP}\n１Ｐ桃太郎さんは　赤色の　アミ\n２Ｐ金太郎さんは　黄色の　アミ{KP}\n３Ｐ浦島さんは　緑色の　アミ\n４Ｐ夜叉姫さんは　青色の　アミです！",
-  "en": ""
+  "en": "Goldfish Scooping! Here's how the versus game works!{KP}Move the net with the directional buttons and dip it with the Circle button!{KP}Hold the Circle button down, then let go quickly to scoop up goldfish!{KP}Of course! Whoever scoops the most goldfish for the highest score wins!{KP}Press the X button while moving the net to speed up!{KP}Be careful not to dip your net too much, and aim for a high score!{KP}1P Momotaro-san has the red net, 2P Kintaro-san has the yellow net,{KP}3P Urashima-san has the green net, and 4P Yashahime-san has the blue net!"
  },
  {
   "id": "M040D/143/0212",
   "kind": "msg",
   "jp": "ではゲームスタートです！\n　",
-  "en": ""
+  "en": "Now, game start!"
  },
  {
   "id": "M040D/143/0248",
   "kind": "msg",
   "jp": "ではゲームを　プレイしますか？\n　{KN}",
-  "en": ""
+  "en": "Would you like to play the game?{KN}"
  },
  {
   "id": "M040D/144/0046",
   "kind": "msg",
   "jp": "今回は{R2}段でした\n　",
-  "en": ""
+  "en": "This time you got level {R2}."
  },
  {
   "id": "M040D/144/006C",
   "kind": "msg",
   "jp": "今回は初段でした\n　",
-  "en": ""
+  "en": "This time you got level 1."
  },
  {
   "id": "M040D/144/0092",
   "kind": "msg",
   "jp": "今回は免許皆伝でした\n　",
-  "en": ""
+  "en": "This time you got Full Mastery."
  },
  {
   "id": "M040D/144/00BC",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n新記録ですよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! It's a new record!!{KP}Keep up the good work!"
  },
  {
   "id": "M040D/144/0134",
   "kind": "msg",
   "jp": "今回は{R2}段でした\n　",
-  "en": ""
+  "en": "This time you got level {R2}."
  },
  {
   "id": "M040D/144/015A",
   "kind": "msg",
   "jp": "今回は初段でした\n　",
-  "en": ""
+  "en": "This time you got level 1."
  },
  {
   "id": "M040D/144/0180",
   "kind": "msg",
   "jp": "今回は免許皆伝でした\n　",
-  "en": ""
+  "en": "This time you got Full Mastery."
  },
  {
   "id": "M040D/144/01BA",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n段位更新ですよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! Your level went up!!{KP}Keep up the good work!"
  },
  {
   "id": "M040D/144/0224",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n初段に　なりましたよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! You reached level 1!!{KP}Keep up the good work!"
  },
  {
   "id": "M040D/144/029C",
   "kind": "msg",
   "jp": "桃太郎さん　おめでとうございます！\n免許皆伝に　なりましたよ！！{KP}\nごほうびとして\n{bb}方言カード{ww}が　１枚　もらえます！",
-  "en": ""
+  "en": "Congratulations, Momotaro-san! You've reached Full Mastery!!{KP}As a reward, you get one {bb}Dialect Card{ww}!"
  },
  {
   "id": "M040D/144/0328",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０７５{ww}を　手に入れた！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 075{ww}!{KP}Keep up the good work!"
  },
  {
   "id": "M040D/144/0396",
   "kind": "msg",
   "jp": "桃太郎さん　おめでとうございます！\n免許皆伝に　なりましたよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Congratulations, Momotaro-san! You've reached Full Mastery!!{KP}Keep up the good work!"
  },
  {
   "id": "M040D/145/0002",
   "kind": "msg",
   "jp": "このゲームを\nもう一度　遊びますか？{KN}",
-  "en": ""
+  "en": "Play this game again?{KN}"
  }
 ]

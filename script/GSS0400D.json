@@ -3,13 +3,13 @@
   "id": "GSS0400D/2/0018",
   "kind": "msg",
   "jp": "「おお　桃太郎！\n　ひさしぶりぢゃのォ！」\n　{KP}\n「ウヒャヒャ…！　わしは\n　{bb}りょうり仙人{ww}ぢゃ！」\n　{KP}\n「なになに？\n　{bb}りょうりの術{ww}を\n　もう一度　教えてほしいとな！」{KP}\n　\n「よしよし！　では\n　わしの　好物を　持ってきてくれたら\n　この術を　授けるぞ！」{KP}\n　\n「ヒントは　海には　おらぬ\n　あま～い　魚ぢゃ！」\n　{KP}\n「ウヒャヒャ…！　待っておるぞ！」\n　\n　",
-  "en": ""
+  "en": "\"Oh, Momotaro! It's been a long time!\"{KP}\"Uhyahya...! I am the {bb}Cooking Hermit{ww}!\"{KP}\"What's that? You want me to teach you the {bb}Cooking art{ww} once more?\"{KP}\"Very well! Bring me my favorite food, and I'll grant you this art!\"{KP}\"Here's a hint: it's a fish that's swee~eet, and it doesn't live in the sea!\"{KP}\"Uhyahya...! I'll be waiting!\""
  },
  {
   "id": "GSS0400D/2/01C0",
   "kind": "msg",
   "jp": "「ウヒャヒャ…！\n　料理の　コツは\n　材料を　うまく　使うことじゃ！」",
-  "en": ""
+  "en": "\"Uhyahya...! The secret to cooking is making good use of your ingredients!\""
  },
  {
   "id": "GSS0400D/2/0218",
@@ -21,24 +21,24 @@
   "id": "GSS0400D/2/025C",
   "kind": "msg",
   "jp": "「おお　桃太郎！\n　よくぞ　持ってきてくれたのォ！」\n　{KP}\n「ウヒャヒャ…！　では\n　{bb}りょうりの術{ww}を　授けよう！」\n　",
-  "en": ""
+  "en": "\"Oh, Momotaro! You've done well to bring it!\"{KP}\"Uhyahya...! Now, I shall grant you the {bb}Cooking art{ww}!\""
  },
  {
   "id": "GSS0400D/2/02FE",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}りょうりの術{ww}を　覚えた！\n　",
-  "en": ""
+  "en": "Momotaro learned the {bb}Cooking art{ww}!"
  },
  {
   "id": "GSS0400D/2/0338",
   "kind": "msg",
   "jp": "「うまく　使いこなすのぢゃぞ！\n　桃太郎よ！」\n　",
-  "en": ""
+  "en": "\"Make sure you master it, Momotaro!\""
  },
  {
   "id": "GSS0400D/2/0380",
   "kind": "msg",
   "jp": "「これは　何かな…？\n　わしは　まだ　何も\n　言っておらんぞ！」",
-  "en": ""
+  "en": "\"What's this...? I haven't said anything yet!\""
  }
 ]

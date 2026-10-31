@@ -109,6 +109,10 @@ Shared names reuse `../momotarou-densetsu-en/glossary.md` (same series, same own
 | なぞとき洞窟 | Riddle Cave | | | |
 | あみだ洞窟 | Amida Cave | | | |
 | たにしヶ池 | Snail Pond | | | |
+| わらしべの村 | Warashibe Village | | | |
+| 月の都 | Capital of the Moon | | | |
+| 龍神の沼 | Dragon God Marsh | | | |
+| 龍の滝 | Dragon Falls | | | |
 
 ## Items / arts / terms
 | JP | EN | max | notes | Avoid |
@@ -138,7 +142,6 @@ Shared names reuse `../momotarou-densetsu-en/glossary.md` (same series, same own
 | 茶屋 | teahouse | | | tea house |
 | 道具屋 | item shop | | | |
 | ウサカメレース | Rabbit-Turtle Race | | betting race in Usakame Village | |
-| サイコロ | dice | | "roll the dice" | |
 | 鬼兄弟 | Oni Brothers | | | |
 | ウヒャヒャ | Uhyahya | | hermits' laugh | |
 | メモリーカード | Memory Card | | | |
@@ -178,6 +181,19 @@ Shared names reuse `../momotarou-densetsu-en/glossary.md` (same series, same own
 | はらいたの薬 | Tummy Medicine | | | Stomachache Medicine |
 | ニセ桃太郎 | fake Momotaro | | | |
 | ユキだるま | Snowman | | ユキだるまチャン Snowman-chan | |
+| ろっかく | Hexagon | | ろっかく仙人 Hexagon Hermit, ろっかくの玉 Hexagon Orb | Rokkaku |
+| ハルマの場 | Haruma Field | | | Haruma Grounds |
+| 水泳大会 | Swimming Meet | | お堀で水泳大会！ Moat Swimming Meet! | Swimming Contest |
+| カキ氷 | Brain Freeze Ice | | カキ氷きーーーん！ Brain Freeze Ice! (minigame) | Shaved Ice Brain |
+| えんやとっとレース | Heave-Ho Race | | | |
+| 忍者だホイ | Ninja Hoi | | | |
+| わらしべ長者 | Straw Millionaire | | | |
+| やる木棒 | Pep Stick | | | |
+| 物ぐさ太郎 | Lazy Taro | | | |
+| ゆらゆらローソク | Wobbly Candle | | minigame | |
+| ほこら | shrine | | | |
+| 宝さがしゲーム | Treasure Hunt Game | | | |
+| 月光の鏡 | Moonlight Mirror | | | |
 | 免許皆伝 | Full Mastery | | score rank | |
 | ゆうぎアルバム | Game Album | | | |
 | 虹の玉 | Rainbow Orb | | | |

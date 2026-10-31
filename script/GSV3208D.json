@@ -3,36 +3,36 @@
   "id": "GSV3208D/2/0028",
   "kind": "msg",
   "jp": "「わしゃ　お宝の　品を\n　集めておるでのぉ～」\n　{KP}\n「今　一番　ほしいは\n　{bb}ズイカクのかびん{ww}じゃのぉ～」\n　",
-  "en": ""
+  "en": "\"I collect treasures, I do...\"{KP}\"And what I want most right now is the {bb}Zuikaku Vase{ww}...\""
  },
  {
   "id": "GSV3208D/2/00B0",
   "kind": "msg",
   "jp": "「いやぁ～！　{bb}ズイカクのかびん{ww}を\n　見ていると　天にのぼる\n　気分じゃのぉ～」",
-  "en": ""
+  "en": "\"Ahh! Just looking at the {bb}Zuikaku Vase{ww}, I feel like I'm rising up to heaven...\""
  },
  {
   "id": "GSV3208D/2/0114",
   "kind": "msg",
   "jp": "「はやぁ～！　桃太郎さん！\n　{bb}ズイカクのかびん{ww}を\n　お持ちでは　ないかのぉ～」{KP}\n　\n「ゆずって　いただけないかのぉ～」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Oh my! Momotaro-san! You wouldn't happen to have the {bb}Zuikaku Vase{ww}, would you...\"{KP}\"Won't you let me have it...\"{KN}"
  },
  {
   "id": "GSV3208D/2/01CC",
   "kind": "msg",
   "jp": "「ありがたいのぉ～！\n　お礼に　この　お金を\n　受け取って　くだされ！」{KP}\n　\n「旅のたしにでも　してくだされ！」\n　\n　",
-  "en": ""
+  "en": "\"How wonderful! Please accept this money as thanks!\"{KP}\"Put it toward your travels!\""
  },
  {
   "id": "GSV3208D/2/026C",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}２０００両{ww}を　手に入れた！\n　",
-  "en": ""
+  "en": "Momotaro got {bb}2000 ryo{ww}!"
  },
  {
   "id": "GSV3208D/2/02B4",
   "kind": "msg",
   "jp": "「お願いじゃて～！\n　ゆずってくだされ～！」\n　{KN}",
-  "en": ""
+  "en": "\"I beg of you! Please let me have it!\"{KN}"
  }
 ]

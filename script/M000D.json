@@ -3,120 +3,120 @@
   "id": "M000D/55/0002",
   "kind": "msg",
   "jp": "ゲームを　続けますか？\n　{KN}",
-  "en": ""
+  "en": "Continue the game?{KN}"
  },
  {
   "id": "M000D/56/000A",
   "kind": "msg",
   "jp": "ダルマおとしの　遊び方\n　{KP}\nキジが　桃太郎さんを　持ちあげて\n上へ　下へと　はこびます！{KP}\nたたきたい所で\n○ボタンを　押しましょう！{KP}\n赤い　バーで\nちからを　調節できます！{KP}\n赤い　バーが　長くなるほど\n強くたたけます！{KP}\n時間が　０に　なるまえに\nブロックを　すべて　落としましょう！",
-  "en": ""
+  "en": "How to Play Daruma Drop{KP}The Pheasant lifts Momotaro-san and carries him up and down!{KP}Press the Circle button where you want to strike!{KP}The red bar sets your power!{KP}The longer the red bar, the harder you strike!{KP}Knock out all the blocks before the timer hits 0!"
  },
  {
   "id": "M000D/56/014A",
   "kind": "msg",
   "jp": "ではゲームスタートです！\n　",
-  "en": ""
+  "en": "Now, game start!"
  },
  {
   "id": "M000D/56/0180",
   "kind": "msg",
   "jp": "ではゲームを　プレイしますか？\n　{KN}",
-  "en": ""
+  "en": "Would you like to play the game?{KN}"
  },
  {
   "id": "M000D/57/000A",
   "kind": "msg",
   "jp": "ダルマおとし！\n対戦ゲームの　説明です！{KP}\nキジが　桃太郎さんを\nスズメが　金太郎さんを　持ちあげて{KP}\n上へ　下へと　はこびます！\n{KP}\nたたきたい所で\n○ボタンを　押しましょう！{KP}\n赤い　バーで\nちからを　調節できます！{KP}\n赤い　バーが　長くなるほど\n強くたたけます！{KP}\n勝敗は　すべての　ブロックを\n先に落としたほうが　勝ち！{KP}\nまたは　時間が　０に　なったときには\nブロックが　少ないほうが　勝ちです！{KP}\nなお！\n　{KP}\nブロックを　ふたつ同時に　落とすと\n相手の　ブロックが　増えます！{KP}\n早く　ブロックを　落として\nじゃまして　あげましょう！{KP}\n１Ｐは　桃太郎さん\n２Ｐは　金太郎さんです！",
-  "en": ""
+  "en": "Daruma Drop! Here's how the versus game works!{KP}The Pheasant lifts Momotaro-san, and the Sparrow lifts Kintaro-san,{KP}and they carry them up and down!{KP}Press the Circle button where you want to strike!{KP}The red bar sets your power!{KP}The longer the red bar, the harder you strike!{KP}Whoever knocks out all their blocks first wins!{KP}Or, if the timer hits 0, whoever has fewer blocks left wins!{KP}And what's more!{KP}Knock out two blocks at once, and your opponent gets more blocks!{KP}Knock out your blocks fast and get in their way!{KP}1P is Momotaro-san, 2P is Kintaro-san!"
  },
  {
   "id": "M000D/57/0286",
   "kind": "msg",
   "jp": "ではゲームスタートです！\n　",
-  "en": ""
+  "en": "Now, game start!"
  },
  {
   "id": "M000D/57/02BC",
   "kind": "msg",
   "jp": "ではゲームを　プレイしますか？\n　{KN}",
-  "en": ""
+  "en": "Would you like to play the game?{KN}"
  },
  {
   "id": "M000D/58/0046",
   "kind": "msg",
   "jp": "今回は{R2}段でした\n　",
-  "en": ""
+  "en": "This time you got level {R2}."
  },
  {
   "id": "M000D/58/006C",
   "kind": "msg",
   "jp": "今回は初段でした\n　",
-  "en": ""
+  "en": "This time you got level 1."
  },
  {
   "id": "M000D/58/0092",
   "kind": "msg",
   "jp": "今回は免許皆伝でした\n　",
-  "en": ""
+  "en": "This time you got Full Mastery."
  },
  {
   "id": "M000D/58/00BC",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n新記録ですよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! It's a new record!!{KP}Keep up the good work!"
  },
  {
   "id": "M000D/58/0134",
   "kind": "msg",
   "jp": "今回は{R2}段でした\n　",
-  "en": ""
+  "en": "This time you got level {R2}."
  },
  {
   "id": "M000D/58/015A",
   "kind": "msg",
   "jp": "今回は初段でした\n　",
-  "en": ""
+  "en": "This time you got level 1."
  },
  {
   "id": "M000D/58/0180",
   "kind": "msg",
   "jp": "今回は免許皆伝でした\n　",
-  "en": ""
+  "en": "This time you got Full Mastery."
  },
  {
   "id": "M000D/58/01BA",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n段位更新ですよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! Your level went up!!{KP}Keep up the good work!"
  },
  {
   "id": "M000D/58/0224",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n初段に　なりましたよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! You reached level 1!!{KP}Keep up the good work!"
  },
  {
   "id": "M000D/58/029C",
   "kind": "msg",
   "jp": "桃太郎さん　おめでとうございます！\n免許皆伝に　なりましたよ！！{KP}\nごほうびとして\n{bb}方言カード{ww}が　１枚　もらえます！",
-  "en": ""
+  "en": "Congratulations, Momotaro-san! You've reached Full Mastery!!{KP}As a reward, you get one {bb}Dialect Card{ww}!"
  },
  {
   "id": "M000D/58/0328",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０５５{ww}を　手に入れた！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 055{ww}!{KP}Keep up the good work!"
  },
  {
   "id": "M000D/58/0396",
   "kind": "msg",
   "jp": "桃太郎さん　おめでとうございます！\n免許皆伝に　なりましたよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Congratulations, Momotaro-san! You've reached Full Mastery!!{KP}Keep up the good work!"
  },
  {
   "id": "M000D/59/0002",
   "kind": "msg",
   "jp": "このゲームを\nもう一度　遊びますか？{KN}",
-  "en": ""
+  "en": "Play this game again?{KN}"
  }
 ]

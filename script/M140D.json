@@ -3,180 +3,180 @@
   "id": "M140D/12/0002",
   "kind": "msg",
   "jp": "ゲームを　続けますか？\n　{KN}",
-  "en": ""
+  "en": "Continue the game?{KN}"
  },
  {
   "id": "M140D/13/000A",
   "kind": "msg",
   "jp": "偶数タヌキの　遊び方\n　{KP}\n○ボタンで　サイコロをふって\n偶数を　出し続けましょう！{KP}\n大きい数の　偶数が出れば\n高い得点が　もらえます！{KP}\n奇数が　出た　時点で\nゲーム・オーバーです！{KP}\n根気よく　何度もやって\n偶数を　続けてくださいね！",
-  "en": ""
+  "en": "How to Play Even Tanuki{KP}Roll the dice with the Circle button and keep rolling even numbers!{KP}The bigger the even number, the more points you get!{KP}The moment you roll an odd number, it's game over!{KP}Keep at it patiently and keep those even numbers coming!"
  },
  {
   "id": "M140D/13/0114",
   "kind": "msg",
   "jp": "ではゲームスタートです！\n　",
-  "en": ""
+  "en": "Now, game start!"
  },
  {
   "id": "M140D/13/014A",
   "kind": "msg",
   "jp": "ではゲームを　プレイしますか？\n　{KN}",
-  "en": ""
+  "en": "Would you like to play the game?{KN}"
  },
  {
   "id": "M140D/14/000A",
   "kind": "msg",
   "jp": "偶数タヌキ！\n対戦ゲームの　説明です！{KP}\n３回勝負で　合計点の\n多いほうが　勝ちです！{KP}\n○ボタンで\nサイコロをふります！{KP}\n交代で　サイコロを\nふってくださいね！{KP}\n相手より　大きい数の　偶数を出すと\nサイコロが　ひとつ増えます！{KP}\nサイコロを　増やして\n得点を　高くしてくださいね！{KP}\n１Ｐは　桃太郎さん\n２Ｐは　金太郎さんです！",
-  "en": ""
+  "en": "Even Tanuki! Here's how the versus game works!{KP}It's 3 rounds, and whoever has the higher total wins!{KP}Press the Circle button to roll the dice!{KP}Take turns rolling the dice!{KP}Roll a bigger even number than your opponent, and you get one more of the dice!{KP}Add more dice and raise your score!{KP}1P is Momotaro-san, and 2P is Kintaro-san!"
  },
  {
   "id": "M140D/14/0176",
   "kind": "msg",
   "jp": "ではゲームスタートです！\n　",
-  "en": ""
+  "en": "Now, game start!"
  },
  {
   "id": "M140D/14/01AC",
   "kind": "msg",
   "jp": "ではゲームを　プレイしますか？\n　{KN}",
-  "en": ""
+  "en": "Would you like to play the game?{KN}"
  },
  {
   "id": "M140D/15/0046",
   "kind": "msg",
   "jp": "今回は{R2}段でした\n　",
-  "en": ""
+  "en": "This time you got level {R2}."
  },
  {
   "id": "M140D/15/006C",
   "kind": "msg",
   "jp": "今回は初段でした\n　",
-  "en": ""
+  "en": "This time you got level 1."
  },
  {
   "id": "M140D/15/0092",
   "kind": "msg",
   "jp": "今回は免許皆伝でした\n　",
-  "en": ""
+  "en": "This time you got Full Mastery."
  },
  {
   "id": "M140D/15/00BC",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n新記録ですよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! It's a new record!!{KP}Keep up the good work!"
  },
  {
   "id": "M140D/15/0134",
   "kind": "msg",
   "jp": "今回は{R2}段でした\n　",
-  "en": ""
+  "en": "This time you got level {R2}."
  },
  {
   "id": "M140D/15/015A",
   "kind": "msg",
   "jp": "今回は初段でした\n　",
-  "en": ""
+  "en": "This time you got level 1."
  },
  {
   "id": "M140D/15/0180",
   "kind": "msg",
   "jp": "今回は免許皆伝でした\n　",
-  "en": ""
+  "en": "This time you got Full Mastery."
  },
  {
   "id": "M140D/15/01BA",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n段位更新ですよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! Your level went up!!{KP}Keep up the good work!"
  },
  {
   "id": "M140D/15/0224",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n初段に　なりましたよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! You reached level 1!!{KP}Keep up the good work!"
  },
  {
   "id": "M140D/15/0294",
   "kind": "msg",
   "jp": "桃太郎さん　おめでとうございます！\n免許皆伝に　なりましたよ！！{KP}\nごほうびとして\n{bb}方言カード{ww}が　１枚　もらえます！",
-  "en": ""
+  "en": "Congratulations, Momotaro-san! You've reached Full Mastery!!{KP}As a reward, you get one {bb}Dialect Card{ww}!"
  },
  {
   "id": "M140D/15/0320",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０７６{ww}を　手に入れた！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 076{ww}!{KP}Keep up the good work!"
  },
  {
   "id": "M140D/16/0002",
   "kind": "msg",
   "jp": "このゲームを\nもう一度　遊びますか？{KN}",
-  "en": ""
+  "en": "Play this game again?{KN}"
  },
  {
   "id": "M140D/17/001A",
   "kind": "msg",
   "jp": "「オラは　割り切れないことが\n　大っキライな　偶数タヌキだ！」{KP}\n「桃太郎さん！　がんばって\n　偶数を　出し続けてくれ！」",
-  "en": ""
+  "en": "\"I'm Even Tanuki, and I can't stand things that don't divide evenly!\"{KP}\"Momotaro-san! Do your best and keep rolling even numbers!\""
  },
  {
   "id": "M140D/17/00A8",
   "kind": "msg",
   "jp": "「さあ！　桃太郎さん！\n　サイコロふってくれ！」",
-  "en": ""
+  "en": "\"Come on, Momotaro-san! Roll the dice!\""
  },
  {
   "id": "M140D/18/0022",
   "kind": "msg",
   "jp": "「うれしい！　偶数を\n　出してくれて　ありがとう！」",
-  "en": ""
+  "en": "\"Yay! Thanks for rolling an even number!\""
  },
  {
   "id": "M140D/18/0068",
   "kind": "msg",
   "jp": "「桃太郎さん！　うまいだなあ！」\n　",
-  "en": ""
+  "en": "\"Momotaro-san! You're real good at this!\""
  },
  {
   "id": "M140D/18/009E",
   "kind": "msg",
   "jp": "「やっぱり　偶数は\n　気持ちいいよなあ！」",
-  "en": ""
+  "en": "\"Even numbers sure do feel good!\""
  },
  {
   "id": "M140D/18/00DA",
   "kind": "msg",
   "jp": "「偶数は　はんぶんこ\n　できるから　いんだなあ！」",
-  "en": ""
+  "en": "\"Even numbers are great 'cause you can split 'em half and half!\""
  },
  {
   "id": "M140D/19/002A",
   "kind": "msg",
   "jp": "「あれれれれれ～！　とっても\n　とっても　期待してたのに～！」",
-  "en": ""
+  "en": "\"Whaaaaat?! I had such high, high hopes!\""
  },
  {
   "id": "M140D/19/007A",
   "kind": "msg",
   "jp": "「う～ん！　次こそ\n　連続記録を　作ってくれ！」",
-  "en": ""
+  "en": "\"Hmmm! Next time, set a streak record for sure!\""
  },
  {
   "id": "M140D/19/00BC",
   "kind": "msg",
   "jp": "「ここまで　偶数が　続いたのに～！\n　次も　この調子で　がんばってくれ！」",
-  "en": ""
+  "en": "\"After all those even numbers in a row! Keep it up like this next time!\""
  },
  {
   "id": "M140D/19/0118",
   "kind": "msg",
   "jp": "「このまま　ずっと　一生\n　偶数が　出続けるかと　思っただ！」{KP}\n「すごい　記録だよ！\n　桃太郎さん！　お見事！」",
-  "en": ""
+  "en": "\"I thought you'd keep rolling even numbers forever, your whole life long!\"{KP}\"What an amazing record! Momotaro-san! Well done!\""
  },
  {
   "id": "M140D/19/019E",
   "kind": "msg",
   "jp": "「すごいや！　すごいや！\n　えらいや！　えらいや！」{KP}\n「桃太郎さんに　たのんで\n　よかっただ！　ありがとう！」{KP}\n「ほんとに　ほんとに\n　ありがとうございました！」",
-  "en": ""
+  "en": "\"Amazing! Amazing! Great job! Great job!\"{KP}\"I'm so glad I asked you, Momotaro-san! Thank you!\"{KP}\"Really, truly, thank you so much!\""
  }
 ]

@@ -3,54 +3,54 @@
   "id": "GSV3005D/2/002C",
   "kind": "msg",
   "jp": "「おお！　あなたが　うわさの\n　桃太郎さん　ですかね！」\n　{KP}\n「ならば　１つ　頼みごとを\n　聞いて　もらえませんかのォ？」\n　{KN}",
-  "en": ""
+  "en": "\"Oh! Are you the famous Momotaro-san?\"{KP}\"Then would you hear one request of mine?\"{KN}"
  },
  {
   "id": "GSV3005D/2/00D0",
   "kind": "msg",
   "jp": "　\n「……やはり　そうじゃのォ！\n　初めて　会った方に\n　わしも　失礼なことを　したわい！」",
-  "en": ""
+  "en": "\"......I thought as much! It was rude of me to ask someone I've only just met!\""
  },
  {
   "id": "GSV3005D/2/0140",
   "kind": "msg",
   "jp": "「おお　そうですか？\n　聞いてくれるのですな！」\n　{KP}\n「実は　今は暗い　この里も\n　{bb}大としの火{ww}という　まきが\n　なくても　燃え続ける」{KP}\n　\n「神聖な火に\n　照らされておった！」\n　{KP}\n「じゃが　誰かが　火に\n　水を　かけて　消して\n　しまったのじゃ！」{KP}\n　\n「もう一度　{bb}大としの火{ww}を\n　手に　入れるには」\n　{KP}\n「北に　ある　{bb}ほこら{ww}で\n　ゆうぎ　{bb}ゆらゆらローソク！{ww}を\n　せねば　ならぬのじゃが」{KP}\n　\n「なにぶん　里の者は　みな\n　年寄り　じゃて　昔のように\n　ゆうぎを　クリアできんのじゃ！」{KP}\n　\n「そこで　桃太郎さん！\n　わしらの　代わりに　その\n　ゆうぎを　やってもらえんかのォ？」{KN}",
-  "en": ""
+  "en": "\"Oh, really? You'll hear me out!\"{KP}\"You see, this village, so dark now, was once lit by a sacred fire called the {bb}Year's End Fire{ww},\"{KP}\"which burns on and on without any firewood!\"{KP}\"But someone poured water on the fire and put it out!\"{KP}\"To get the {bb}Year's End Fire{ww} again,\"{KP}\"one must play the game {bb}Wobbly Candle!{ww} at the {bb}shrine{ww} to the north, but\"{KP}\"everyone in the village is old, you see, and we can't clear games like we used to!\"{KP}\"So, Momotaro-san! Would you play that game in our place?\"{KN}"
  },
  {
   "id": "GSV3005D/2/03EA",
   "kind": "msg",
   "jp": "　\n「おお　ありがたい！\n　では　よろしく　頼みますぞ！」\n　",
-  "en": ""
+  "en": "\"Oh, how kind! Then I'm counting on you!\""
  },
  {
   "id": "GSV3005D/2/044A",
   "kind": "msg",
   "jp": "　\n「……やはり　そうじゃのう\n　はじめて　あった方に　\n　わしも　失礼なことを　したわい」",
-  "en": ""
+  "en": "\"......I thought as much. It was rude of me to ask someone I've only just met.\""
  },
  {
   "id": "GSV3005D/2/04BC",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　よろしく　頼みましたぞ！」\n　",
-  "en": ""
+  "en": "\"Momotaro-san! I'm counting on you!\""
  },
  {
   "id": "GSV3005D/2/04FE",
   "kind": "msg",
   "jp": "「おお　桃太郎さん！\n　{bb}大としの火{ww}を　ありがとう！」\n　{KP}\n「お礼に　{bb}方言カード{ww}を\n　さしあげましょう！」\n　",
-  "en": ""
+  "en": "\"Oh, Momotaro-san! Thank you for the {bb}Year's End Fire{ww}!\"{KP}\"As thanks, let me give you a {bb}Dialect Card{ww}!\""
  },
  {
   "id": "GSV3005D/2/0588",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０２３{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 023{ww}!{KN}"
  },
  {
   "id": "GSV3005D/2/05DC",
   "kind": "msg",
   "jp": "「桃太郎さんの　おかげで！\n　みな　喜んで　おります！」\n　",
-  "en": ""
+  "en": "\"Thanks to you, Momotaro-san, everyone is overjoyed!\""
  }
 ]

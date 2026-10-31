@@ -3,61 +3,61 @@
   "id": "GSF0000D/32/000A",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}こだま笛{ww}を　ふいた～♪\n　",
-  "en": ""
+  "en": "Momotaro played the {bb}Echo Flute{ww}!"
  },
  {
   "id": "GSF0000D/61/0002",
   "kind": "msg",
   "jp": "「北に　見えるのは\n　{bb}カード仙人のいおり{ww}　じゃぞ！」\n　",
-  "en": ""
+  "en": "\"What you see to the north is the {bb}Card Hermit's Hut{ww}!\""
  },
  {
   "id": "GSF0000D/62/0002",
   "kind": "msg",
   "jp": "「桃太郎！　{bb}たにしヶ池{ww}は\n　ほれ　すぐ　そこじゃ！」\n　",
-  "en": ""
+  "en": "\"Momotaro! {bb}Snail Pond{ww} is right over there, see!\""
  },
  {
   "id": "GSF0000D/63/0002",
   "kind": "msg",
   "jp": "「{bb}竜宮城{ww}に　行くには　{bb}カメ{ww}の\n　ちからが　必要じゃぞ！」\n　",
-  "en": ""
+  "en": "\"To get to {bb}Ryugu Palace{ww}, you'll need the help of the {bb}Turtle{ww}!\""
  },
  {
   "id": "GSF0000D/64/0002",
   "kind": "msg",
   "jp": "「{bb}なぞとき洞窟{ww}の\n　{bb}なぞ鬼ブラザーズ{ww}の　出す\n　なぞなぞは」{KP}\n　\n「メモを　とれば　簡単じゃぞ！」\n　\n　",
-  "en": ""
+  "en": "\"The riddles the {bb}Riddle Oni Brothers{ww} give in {bb}Riddle Cave{ww}\"{KP}\"are easy if you take notes!\""
  },
  {
   "id": "GSF0000D/65/0002",
   "kind": "msg",
   "jp": "「アホの木の下に　鬼面党が\n　何かを　隠しておったぞ！」\n　",
-  "en": ""
+  "en": "\"The Oni Mask Gang hid something under the Fool's Tree!\""
  },
  {
   "id": "GSF0000D/66/0002",
   "kind": "msg",
   "jp": "「よく来たな　桃太郎！」\n　\n　",
-  "en": ""
+  "en": "\"Welcome, Momotaro!\""
  },
  {
   "id": "GSF0000D/67/0018",
   "kind": "msg",
   "jp": "「桃太郎か！\n　よい　ところに　来た！」\n　{KP}\n「おそなえ物を　もらいすぎたので\n　南の　地蔵に　分けてあげたい！」\n　{KP}\n「でも　見てのとおり\n　わしは　動けん！」\n　{KP}\n「桃太郎よ！　南の　地蔵に\n　{bb}桃まん{ww}を　とどけてくれんか？」\n　{KN}",
-  "en": ""
+  "en": "\"Momotaro! You've come at just the right time!\"{KP}\"I received too many offerings, so I'd like to share some with the Jizo to the south!\"{KP}\"But as you can see, I can't move!\"{KP}\"Momotaro! Would you deliver these {bb}Peach Buns{ww} to the Jizo to the south?\"{KN}"
  },
  {
   "id": "GSF0000D/67/0136",
   "kind": "msg",
   "jp": "桃太郎は　地蔵から\n{bb}桃まん{ww}を　受け取った！\n　",
-  "en": ""
+  "en": "Momotaro received the {bb}Peach Buns{ww} from the Jizo!"
  },
  {
   "id": "GSF0000D/67/0178",
   "kind": "msg",
   "jp": "「では　頼んだぞ　桃太郎！」\n　\n　",
-  "en": ""
+  "en": "\"I'm counting on you, Momotaro!\""
  },
  {
   "id": "GSF0000D/67/01AC",
@@ -69,25 +69,25 @@
   "id": "GSF0000D/67/021E",
   "kind": "msg",
   "jp": "「急ぎの　用事が　あるのか？\n　それなら　仕方あるまい！」\n　{KP}\n「また　今度\n　お願いするとしよう！」\n　",
-  "en": ""
+  "en": "\"You have urgent business? Then it can't be helped!\"{KP}\"I'll ask you another time!\""
  },
  {
   "id": "GSF0000D/67/02A4",
   "kind": "msg",
   "jp": "「おお　桃太郎！」\n　\n　{KP}\n「いつも　お使いを　させてばかりで\n　本当に　すまないのォ！」\n　{KP}\n「実は　さきほど　おそなえ物を\n　たくさん　もらってな！」\n　{KP}\n「南の　地蔵に\n　おすそ分けを　したいのだが…」\n　{KP}\n「もし　急いで　おらんなら\n　とどけに行って　くれまいか？」\n　{KN}",
-  "en": ""
+  "en": "\"Oh, Momotaro!\"{KP}\"I'm always sending you on errands. I'm truly sorry!\"{KP}\"The thing is, I just received a great many offerings!\"{KP}\"I'd like to share some with the Jizo to the south...\"{KP}\"If you're not in a hurry, would you deliver them for me?\"{KN}"
  },
  {
   "id": "GSF0000D/67/03F2",
   "kind": "msg",
   "jp": "桃太郎は　地蔵から\n{bb}桃まん{ww}を　受け取った！\n　",
-  "en": ""
+  "en": "Momotaro received the {bb}Peach Buns{ww} from the Jizo!"
  },
  {
   "id": "GSF0000D/67/0434",
   "kind": "msg",
   "jp": "「では　頼んだぞ　桃太郎！」\n　\n　",
-  "en": ""
+  "en": "\"I'm counting on you, Momotaro!\""
  },
  {
   "id": "GSF0000D/67/0468",
@@ -99,25 +99,25 @@
   "id": "GSF0000D/67/04DA",
   "kind": "msg",
   "jp": "「急ぎの　用事が　あるのか？\n　それなら　仕方あるまい！」\n　{KP}\n「また　今度\n　お願いするとしよう！」\n　",
-  "en": ""
+  "en": "\"You have urgent business? Then it can't be helped!\"{KP}\"I'll ask you another time!\""
  },
  {
   "id": "GSF0000D/68/000A",
   "kind": "msg",
   "jp": "「おお　桃太郎！」\n　\n　{KP}\n「いつも　お使いを　させてばかりで\n　本当に　すまないのォ！」\n　{KP}\n「実は　さきほど　おそなえ物を\n　たくさん　もらってな」\n　{KP}\n「北の　地蔵に\n　おすそ分けを　したいのだが…」\n　{KP}\n「もし　急いで　おらんなら\n　とどけに行って　くれまいか？」\n　{KN}",
-  "en": ""
+  "en": "\"Oh, Momotaro!\"{KP}\"I'm always sending you on errands. I'm truly sorry!\"{KP}\"The thing is, I just received a great many offerings,\"{KP}\"and I'd like to share some with the Jizo to the north...\"{KP}\"If you're not in a hurry, would you deliver them for me?\"{KN}"
  },
  {
   "id": "GSF0000D/68/015C",
   "kind": "msg",
   "jp": "桃太郎は　地蔵から\n{bb}桃まん{ww}を　受け取った！\n　",
-  "en": ""
+  "en": "Momotaro received the {bb}Peach Buns{ww} from the Jizo!"
  },
  {
   "id": "GSF0000D/68/019E",
   "kind": "msg",
   "jp": "「では　頼んだぞ　桃太郎！」\n　\n　",
-  "en": ""
+  "en": "\"I'm counting on you, Momotaro!\""
  },
  {
   "id": "GSF0000D/68/01D2",
@@ -129,175 +129,175 @@
   "id": "GSF0000D/68/0244",
   "kind": "msg",
   "jp": "「急ぎの　用事が　あるのか？\n　それなら　仕方あるまい！」\n　{KP}\n「また　今度\n　お願いするとしよう！」\n　",
-  "en": ""
+  "en": "\"You have urgent business? Then it can't be helped!\"{KP}\"I'll ask you another time!\""
  },
  {
   "id": "GSF0000D/69/0002",
   "kind": "msg",
   "jp": "「北の　{bb}ほこら{ww}で　{bb}勇気の印{ww}を\n　使えば　{bb}鬼ヶ島{ww}に　行けるぞ！」\n　",
-  "en": ""
+  "en": "\"Use the {bb}Mark of Courage{ww} at the {bb}shrine{ww} to the north and you can go to {bb}Onigashima{ww}!\""
  },
  {
   "id": "GSF0000D/70/0018",
   "kind": "msg",
   "jp": "「もしや　あなたさまは\n　桃太郎さんでは？」\n　{KP}\n「初めまして　わたくしは\n　おツルと　申します！」\n　{KP}\n「わたくしは　今\n　{bb}権兵衛さん{ww}という　お方を\n　さがしているのですが」{KP}\n　\n「桃太郎さんは　{bb}権兵衛さん{ww}を\n　ごぞんじですか……？」\n　",
-  "en": ""
+  "en": "\"Could you be... Momotaro-san?\"{KP}\"Pleased to meet you. My name is Otsuru!\"{KP}\"I am looking for a gentleman by the name of {bb}Gonbe-san{ww}.\"{KP}\"Momotaro-san, do you know {bb}Gonbe-san{ww}......?\""
  },
  {
   "id": "GSF0000D/70/0132",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　{bb}権兵衛さん{ww}に　お会いに\n　なりましたか？」",
-  "en": ""
+  "en": "\"Momotaro-san! Have you met {bb}Gonbe-san{ww}?\""
  },
  {
   "id": "GSF0000D/70/0192",
   "kind": "msg",
   "jp": "　桃太郎は　首を　軽く\n　横に　ふった！\n　",
-  "en": ""
+  "en": "Momotaro shook his head slightly!"
  },
  {
   "id": "GSF0000D/70/01CE",
   "kind": "msg",
   "jp": "「そうですか……\n　お引きとめして\n　申しわけありませんでした！」",
-  "en": ""
+  "en": "\"I see...... I'm sorry for keeping you!\""
  },
  {
   "id": "GSF0000D/70/0226",
   "kind": "msg",
   "jp": "　桃太郎は　軽く\n　うなずいた！\n　",
-  "en": ""
+  "en": "Momotaro nodded slightly!"
  },
  {
   "id": "GSF0000D/70/025A",
   "kind": "msg",
   "jp": "「えっ？　ごぞんじですか！\n　では　申しわけありませんが」\n　{KP}\n「わたくしを　{bb}権兵衛さん{ww}の\n　所まで　連れていって\n　いただけませんか？」{KN}",
-  "en": ""
+  "en": "\"Oh? You know him! Then I'm sorry to ask, but\"{KP}\"would you take me to where {bb}Gonbe-san{ww} is?\"{KN}"
  },
  {
   "id": "GSF0000D/70/030E",
   "kind": "msg",
   "jp": "　\n「そうですか……\n　桃太郎さんも\n　おいそがしいですものね！」{KP}\n　\n「お引きとめして\n　申しわけありませんでした！」\n　",
-  "en": ""
+  "en": "\"I see...... You must be busy too, Momotaro-san!\"{KP}\"I'm sorry for keeping you!\""
  },
  {
   "id": "GSF0000D/70/03A6",
   "kind": "msg",
   "jp": "　\n「ありがとうございます！\n　桃太郎さん！」\n　",
-  "en": ""
+  "en": "\"Thank you so much, Momotaro-san!\""
  },
  {
   "id": "GSF0000D/70/03EA",
   "kind": "msg",
   "jp": "{bb}おツル{ww}が\n仲間に　くわわった！\n　{KN}",
-  "en": ""
+  "en": "{bb}Otsuru{ww} joined the party!{KN}"
  },
  {
   "id": "GSF0000D/72/0002",
   "kind": "msg",
   "jp": "「桃太郎よ！　外には\n　ギャンブル好きな　タヌキや\n　クイズ好きな鬼が　おるぞ！」{KP}\n　\n「油断は　禁物じゃ！\n　負けるでないぞ！！」\n　",
-  "en": ""
+  "en": "\"Momotaro! Out there are tanuki who love gambling and oni who love quizzes!\"{KP}\"Don't let your guard down! Don't you lose!!\""
  },
  {
   "id": "GSF0000D/73/0002",
   "kind": "msg",
   "jp": "「桃太郎よ！\n　{bb}ひえんの術{ww}を　覚えたか？」\n　{KP}\n「{bb}ひえんの術{ww}は　\n　一度　行ったことの　ある村に」\n　{KP}\n「素早く\n　移動することが　できるのじゃ！」\n　",
-  "en": ""
+  "en": "\"Momotaro! Have you learned the {bb}Warp art{ww}?\"{KP}\"The {bb}Warp art{ww} lets you travel to any village you've been to before\"{KP}\"in no time at all!\""
  },
  {
   "id": "GSF0000D/74/0002",
   "kind": "msg",
   "jp": "「桃太郎！\n　{bb}ひょうたんの森{ww}は\n　すぐ　そこじゃ！」",
-  "en": ""
+  "en": "\"Momotaro! {bb}Gourd Forest{ww} is right over there!\""
  },
  {
   "id": "GSF0000D/75/0002",
   "kind": "msg",
   "jp": "「北西に　のぼれば　金太郎の村\n　南に　くだればすぐ　浦島の村」\n　{KP}\n「北東に　のぼれば　なぞとき洞窟\n　寝太郎の村が　あるぞ！」\n　",
-  "en": ""
+  "en": "\"Climb northwest for Kintaro Village; head south and Urashima Village is right there.\"{KP}\"Climb northeast for Riddle Cave and Netaro Village!\""
  },
  {
   "id": "GSF0000D/76/0000",
   "kind": "msg",
   "jp": "「よく来たな　桃太郎！」\n　\n　",
-  "en": ""
+  "en": "\"Welcome, Momotaro!\""
  },
  {
   "id": "GSF0000D/77/0000",
   "kind": "msg",
   "jp": "「晴れた日は　海の向こうに\n　{bb}龍の島{ww}が　見えるぞ！」\n　",
-  "en": ""
+  "en": "\"On clear days you can see {bb}Dragon Island{ww} across the sea!\""
  },
  {
   "id": "GSF0000D/78/0000",
   "kind": "msg",
   "jp": "「{bb}こだま笛{ww}の音が　聞こえれば\n　東の海に　小さな島が\n　浮上してくるぞ！」",
-  "en": ""
+  "en": "\"When the sound of the {bb}Echo Flute{ww} is heard, a small island rises up in the eastern sea!\""
  },
  {
   "id": "GSF0000D/80/0022",
   "kind": "msg",
   "jp": "「ふ～　ふ～\n　こんなに　歩くのは\n　何年ぶりかなぁ～」",
-  "en": ""
+  "en": "\"Phew, phew... How many years has it been since I walked this much...\""
  },
  {
   "id": "GSF0000D/80/006C",
   "kind": "msg",
   "jp": "「なんか　歩きにくいど～」\n　\n　",
-  "en": ""
+  "en": "\"Walkin' sure is hard, dooo...\""
  },
  {
   "id": "GSF0000D/80/00A0",
   "kind": "msg",
   "jp": "「つかれたど～　ねむいど～」\n　\n　",
-  "en": ""
+  "en": "\"I'm tired, dooo... I'm sleepy, dooo...\""
  },
  {
   "id": "GSF0000D/81/002A",
   "kind": "msg",
   "jp": "「あっ　桃太郎だっち！\n　この　{bb}ひえんの巻物{ww}を\n　取り返しに　来たっちか！」{KP}\n　\n「オイラを　なめるなっち！\n　さあ　勝負しろっち！」\n　",
-  "en": ""
+  "en": "\"Ah, it's Momotaro, chi! Did you come to take back this {bb}Warp Scroll{ww}, chi?!\"{KP}\"Don't underestimate me, chi! Now, fight me, chi!\""
  },
  {
   "id": "GSF0000D/81/0100",
   "kind": "msg",
   "jp": "鬼面党は　{bb}ひえんの巻物{ww}を\n落としていった！\n　",
-  "en": ""
+  "en": "The Oni Mask Gang thug dropped the {bb}Warp Scroll{ww}!"
  },
  {
   "id": "GSF0000D/81/0142",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}ひえんの巻物{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Warp Scroll{ww}!{KN}"
  },
  {
   "id": "GSF0000D/81/0194",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　お願いがあるっち！」\n　{KP}\n「この　{bb}ひえんの巻物{ww}を\n　{bb}ひえん仙人{ww}に　返して\n　ほしいっち！」",
-  "en": ""
+  "en": "\"Momotaro-san! I have a favor to ask, chi!\"{KP}\"Please return this {bb}Warp Scroll{ww} to the {bb}Warp Hermit{ww}, chi!\""
  },
  {
   "id": "GSF0000D/81/021E",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}ひえんの巻物{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Warp Scroll{ww}!{KN}"
  },
  {
   "id": "GSF0000D/81/026E",
   "kind": "msg",
   "jp": "「いろいろと　めいわくかけて\n　ゴメンナサイだっち！」\n　{KP}\n「では　桃太郎さん！\n　さよならだっち！」\n　",
-  "en": ""
+  "en": "\"Sorry for all the trouble I caused, chi!\"{KP}\"Well then, Momotaro-san! Goodbye, chi!\""
  },
  {
   "id": "GSF0000D/82/0002",
   "kind": "msg",
   "jp": "「えっ！　かあちゃんが\n　ボクを　さがしているって！」\n　{KP}\n「へへへ…　初めて　地上に\n　出たから　うれしくて\n　家に　帰るのを　わすれちゃった！」{KP}\n　\n「早く　家に　帰らないと！\n　かあちゃん　おこると\n　こわいからなぁ！」",
-  "en": ""
+  "en": "\"What?! My mom's looking for me?!\"{KP}\"Heh heh heh... It was my first time up above ground, and I was so happy I forgot to go home!\"{KP}\"I gotta hurry home! Mom's scary when she's mad!\""
  },
  {
   "id": "GSF0000D/83/000A",
   "kind": "msg",
   "jp": "「定期船に　乗るには　{bb}乗船券{ww}が\n　必要ですよ！」\n　",
-  "en": ""
+  "en": "\"You need a {bb}Boat Ticket{ww} to ride the ferry!\""
  },
  {
   "id": "GSF0000D/83/006A",
@@ -309,31 +309,31 @@
   "id": "GSF0000D/83/00E2",
   "kind": "msg",
   "jp": "「おめでとうございます！\n　３回　乗った　記念に　方言カードを\n　さしあげます！」",
-  "en": ""
+  "en": "\"Congratulations! To mark your third ride, we'd like to give you a Dialect Card!\""
  },
  {
   "id": "GSF0000D/83/0144",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０１０{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 010{ww}!{KN}"
  },
  {
   "id": "GSF0000D/83/01A4",
   "kind": "msg",
   "jp": "「それでは　乗船してください！」\n　\n　",
-  "en": ""
+  "en": "\"Well then, please come aboard!\""
  },
  {
   "id": "GSF0000D/83/024C",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}{MM}{ww}を　使った！\n　{KP}\nしかし\nなにも　おこらなかった！\n　",
-  "en": ""
+  "en": "Momotaro used the {bb}{MM}{ww}!{KP}But nothing happened!"
  },
  {
   "id": "GSF0000D/84/0018",
   "kind": "msg",
   "jp": "「何回か　定期船に　乗ると\n　{bb}方言カード{ww}が　もらえますよ」\n　",
-  "en": ""
+  "en": "\"Ride the ferry a few times and you'll get a {bb}Dialect Card{ww}!\""
  },
  {
   "id": "GSF0000D/84/007C",
@@ -345,769 +345,769 @@
   "id": "GSF0000D/84/00F4",
   "kind": "msg",
   "jp": "「おめでとうございます！\n　３回　乗った　記念に　{bb}方言カード{ww}を\n　さしあげます！」",
-  "en": ""
+  "en": "\"Congratulations! To mark your third ride, we'd like to give you a {bb}Dialect Card{ww}!\""
  },
  {
   "id": "GSF0000D/84/015A",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０１０{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 010{ww}!{KN}"
  },
  {
   "id": "GSF0000D/84/01BA",
   "kind": "msg",
   "jp": "「それでは　乗船してください！」\n　\n　",
-  "en": ""
+  "en": "\"Well then, please come aboard!\""
  },
  {
   "id": "GSF0000D/84/0266",
   "kind": "msg",
   "jp": "「定期船に　乗るには　{bb}乗船券{ww}が\n　必要ですよ！」\n　",
-  "en": ""
+  "en": "\"You need a {bb}Boat Ticket{ww} to ride the ferry!\""
  },
  {
   "id": "GSF0000D/84/02B0",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}{MM}{ww}を　使った！\n　{KP}\nしかし\nなにも　おこらなかった！\n　",
-  "en": ""
+  "en": "Momotaro used the {bb}{MM}{ww}!{KP}But nothing happened!"
  },
  {
   "id": "GSF0000D/85/000A",
   "kind": "msg",
   "jp": "「エーン　エーン！\n　おかあちゃーん！！」\n　",
-  "en": ""
+  "en": "\"Waaah, waaah! Mommyyy!!\""
  },
  {
   "id": "GSF0000D/85/0060",
   "kind": "msg",
   "jp": "　子どもが　泣いている",
-  "en": ""
+  "en": "A child is crying."
  },
  {
   "id": "GSF0000D/85/0082",
   "kind": "msg",
   "jp": "「あっ！　桃太郎さんだ！」\n　\n　{KP}\n「ねぇ　桃太郎さん！\n　{bb}おかあちゃん{ww}を　いっしょに\n　さがしておくれよ！」{KN}",
-  "en": ""
+  "en": "\"Ah! It's Momotaro-san!\"{KP}\"Hey, Momotaro-san! Help me look for my {bb}mom{ww}!\"{KN}"
  },
  {
   "id": "GSF0000D/85/0120",
   "kind": "msg",
   "jp": "「やったー！　ありがとう\n　さすが　桃太郎さん！」\n　{KP}\n「オイラは\n　花咲かの村の　{bb}よしきち{ww}！」\n　{KP}\n「{bb}おかあちゃん{ww}と　金太郎の村に\n　お祭り見物に行った　帰り」\n　{KP}\n「あみだ洞窟で\n　{bb}おかあちゃん{ww}と\n　はぐれちゃって……」{KP}\n　\n「先に　おうちに　帰って\n　{bb}おかあちゃん{ww}を　待って\n　いたんだけど」{KP}\n　\n「ぜんぜん　帰って\n　来ないんだよ～！」\n　{KP}\n「さあ　桃太郎さん！\n　{bb}おかあちゃん{ww}を　さがしに\n　行こうよ！」",
-  "en": ""
+  "en": "\"Yaaay! Thank you! That's Momotaro-san for you!\"{KP}\"I'm {bb}Yoshikichi{ww} from Hanasaka Village!\"{KP}\"On the way back from seeing the festival in Kintaro Village with my {bb}mom{ww},\"{KP}\"I got separated from my {bb}mom{ww} in Amida Cave......\"{KP}\"I went home first and waited for my {bb}mom{ww},\"{KP}\"but she never came back!\"{KP}\"Come on, Momotaro-san! Let's go look for my {bb}mom{ww}!\""
  },
  {
   "id": "GSF0000D/85/030A",
   "kind": "msg",
   "jp": "　桃太郎は　よしきちの\n　母親さがしを　引き受けた！\n　",
-  "en": ""
+  "en": "Momotaro agreed to help Yoshikichi look for his mother!"
  },
  {
   "id": "GSF0000D/85/0352",
   "kind": "msg",
   "jp": "{bb}よしきち{ww}が\n仲間に　くわわった！\n　{KN}",
-  "en": ""
+  "en": "{bb}Yoshikichi{ww} joined the party!{KN}"
  },
  {
   "id": "GSF0000D/85/03A0",
   "kind": "msg",
   "jp": "「エーン　エーン！\n　そんなぁ　お願いだよ！」\n　{KN}",
-  "en": ""
+  "en": "\"Waaah, waaah! No way, pleeease!\"{KN}"
  },
  {
   "id": "GSF0000D/86/0002",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　オイラの　おかあちゃんは？」\n　{KP}\n「さがして　くれるんでしょ？\n　このあたりに　いると\n　思うんだ！」{KP}\n　\n「ねぇ！\n　あきらめないで　いっしょに\n　さがしておくれよ！」",
-  "en": ""
+  "en": "\"Momotaro-san! Where's my mom?\"{KP}\"You're gonna look for her, right? I think she's somewhere around here!\"{KP}\"Hey! Don't give up, help me look!\""
  },
  {
   "id": "GSF0000D/87/000A",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}ほこら{ww}を　しらべた！\n　{KP}\nなんと！\n何やら　文字が　書かれている！\n　{KP}\n{bb}鬼ヶ島への道{ww}は\n{bb}ほこら{ww}に　よって　閉ざされている！\n　{KP}\n{bb}鬼ヶ島{ww}へ　行きたい者は　ここにて\n大いなる　勇気を　しめさん！\n　",
-  "en": ""
+  "en": "Momotaro examined the {bb}shrine{ww}!{KP}Well, what do you know! Something is written on it!{KP}The {bb}Road to Onigashima{ww} is sealed by this {bb}shrine{ww}!{KP}Those who wish to go to {bb}Onigashima{ww} shall show great courage here!"
  },
  {
   "id": "GSF0000D/87/0110",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}勇気の印{ww}を　使った！\n　",
-  "en": ""
+  "en": "Momotaro used the {bb}Mark of Courage{ww}!"
  },
  {
   "id": "GSF0000D/87/0264",
   "kind": "msg",
   "jp": "海の中から\n{bb}鬼ヶ島への道{ww}が　浮上してきた！\n　",
-  "en": ""
+  "en": "The {bb}Road to Onigashima{ww} rose up out of the sea!"
  },
  {
   "id": "GSF0000D/87/0466",
   "kind": "msg",
   "jp": "{bb}ほこら{ww}は\nこなごなに　くだけちった！\n　",
-  "en": ""
+  "en": "The {bb}shrine{ww} shattered into pieces!"
  },
  {
   "id": "GSF0000D/88/0002",
   "kind": "msg",
   "jp": "「桃太郎さん！　さがす方向が\n　ちがうのでは　ありませんか？\n　もどりましょうよ！」",
-  "en": ""
+  "en": "\"Momotaro-san! Aren't we searching in the wrong direction? Let's go back!\""
  },
  {
   "id": "GSF0000D/89/0002",
   "kind": "msg",
   "jp": "「桃太郎さん！　{bb}真実の鏡{ww}を\n　{bb}乙姫さま{ww}に　お借りしなくて\n　よろしいのですか？」",
-  "en": ""
+  "en": "\"Momotaro-san! Are you sure you don't want to borrow the {bb}Mirror of Truth{ww} from {bb}Otohime-sama{ww}?\""
  },
  {
   "id": "GSF0000D/91/0002",
   "kind": "msg",
   "jp": "「桃太郎さん！　{bb}浦島の村{ww}は\n　そっちじゃ　ありませんよ！」\n　{KP}\n「{bb}カメ{ww}が　苦しんでいるのです\n　急いでください！　ケン」\n　",
-  "en": ""
+  "en": "\"Momotaro-san! {bb}Urashima Village{ww} isn't that way!\"{KP}\"The {bb}Turtle{ww} is suffering! Please hurry! Ken!\""
  },
  {
   "id": "GSF0000D/92/0002",
   "kind": "msg",
   "jp": "「桃太郎さん！　オイラ\n　雪のある所は　ダメなんです！\n　ちゃんと　動けないんです！」",
-  "en": ""
+  "en": "\"Momotaro-san! I'm no good in places with snow! I can't move properly!\""
  },
  {
   "id": "GSF0000D/93/0002",
   "kind": "msg",
   "jp": "「桃太郎さん！　こっちの\n　方向には　{bb}ウンチの穴{ww}は\n　ありませんわ　ぷりりん！」",
-  "en": ""
+  "en": "\"Momotaro-san! There's no {bb}Poop Hole{ww} in this direction, ploppity!\""
  },
  {
   "id": "GSF0000D/94/0002",
   "kind": "msg",
   "jp": "「桃太郎さん　{bb}金太郎の村{ww}は\n　こっちじゃないですよ！」\n　",
-  "en": ""
+  "en": "\"Momotaro-san, {bb}Kintaro Village{ww} isn't this way!\""
  },
  {
   "id": "GSF0000D/95/0002",
   "kind": "msg",
   "jp": "「桃太郎さん！　こっちの\n　方向には　{bb}ウンチの穴{ww}は\n　ありませんよ　ぷりっつ！」",
-  "en": ""
+  "en": "\"Momotaro-san! There's no {bb}Poop Hole{ww} in this direction, plopz!\""
  },
  {
   "id": "GSF0000D/96/0002",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　どこに　行くの？」\n　{KP}\n「まだ　{bb}ほほえみの村{ww}で\n　{bb}だじゃれ大会{ww}を\n　見てないじゃない！」",
-  "en": ""
+  "en": "\"Momotaro-san! Where are you going?\"{KP}\"We haven't seen the {bb}Pun Contest{ww} in {bb}Hohoemi Village{ww} yet!\""
  },
  {
   "id": "GSF0000D/97/0010",
   "kind": "msg",
   "jp": "「桃太郎！　仲間のいる村に\n　行くんじゃないのか　クリ？」\n　",
-  "en": ""
+  "en": "\"Momotaro! Aren't we going to the village where your friends are, kuri?\""
  },
  {
   "id": "GSF0000D/97/0062",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　{bb}ひょっとこの村{ww}を\n　見すてるのですか？」",
-  "en": ""
+  "en": "\"Momotaro-san! Are you going to abandon {bb}Hyottoko Village{ww}?\""
  },
  {
   "id": "GSF0000D/98/0002",
   "kind": "msg",
   "jp": "「キャッ　キャッ　桃太郎さん！\n　{bb}希望の都{ww}は　反対側ですよ」\n　",
-  "en": ""
+  "en": "\"Eek, eek, Momotaro-san! The {bb}Capital of Hope{ww} is the other way!\""
  },
  {
   "id": "GSF0000D/99/0002",
   "kind": "msg",
   "jp": "「やい　桃太郎さん！\n　あんちゃんとの　勝負を\n　にげるつもりか？」",
-  "en": ""
+  "en": "\"Hey, Momotaro-san! You plannin' to run away from your match with my big bro?\""
  },
  {
   "id": "GSF0000D/100/0002",
   "kind": "msg",
   "jp": "「カキーッ！　桃太郎さん！\n　{bb}ウサカメの村{ww}は　反対側ですよ」\n　",
-  "en": ""
+  "en": "\"Kakiii! Momotaro-san! {bb}Usakame Village{ww} is the other way!\""
  },
  {
   "id": "GSF0000D/101/002C",
   "kind": "msg",
   "jp": "「ケーン！　ケーン！\n　桃太郎さん！\n　おひさしぶりです！」",
-  "en": ""
+  "en": "\"Keeen! Keeen! Momotaro-san! It's been so long!\""
  },
  {
   "id": "GSF0000D/101/0078",
   "kind": "msg",
   "jp": "「なんだ　この鳥は！\n　うるさいクリ！」\n　",
-  "en": ""
+  "en": "\"What's with this bird?! It's so noisy, kuri!\""
  },
  {
   "id": "GSF0000D/101/00B4",
   "kind": "msg",
   "jp": "「わたしは　桃太郎さんの\n　おともを　したことが　ある\n　{bb}キジ{ww}と　申します」{KP}\n　\n「って　あいさつしている\n　場合じゃないです　ケーン！」\n　{KP}\n「{bb}浦島の村{ww}で\n　{bb}カメ{ww}が　苦しんでるんです！」\n　{KP}\n「わたしが　{bb}カメ{ww}の所に\n　ご案内しますので　いっしょに\n　{bb}浦島の村{ww}に　行きましょう！」{KP}\n　\n「{bb}浦島の村{ww}は　ここから　南に\n　くだった所に　あります！」\n　{KP}\n「急ぎましょう！」\n　\n　",
-  "en": ""
+  "en": "\"I am {bb}Pheasant{ww}, who once traveled with Momotaro-san as a companion.\"{KP}\"...But this is no time for greetings, ken!\"{KP}\"The {bb}Turtle{ww} in {bb}Urashima Village{ww} is suffering!\"{KP}\"I'll guide you to the {bb}Turtle{ww}, so let's go to {bb}Urashima Village{ww} together!\"{KP}\"{bb}Urashima Village{ww} is south of here!\"{KP}\"Let's hurry!\""
  },
  {
   "id": "GSF0000D/101/0276",
   "kind": "msg",
   "jp": "{bb}キジ{ww}が\n仲間に　くわわった！\n　{KN}",
-  "en": ""
+  "en": "{bb}Pheasant{ww} joined the party!{KN}"
  },
  {
   "id": "GSF0000D/102/0032",
   "kind": "msg",
   "jp": "「ケンケンケーン！\n　桃太郎さーん！！」\n　{KP}\n「サルさんが　いる村が\n　大変な　ことに\n　なっていますよ！」",
-  "en": ""
+  "en": "\"Ken-ken-keeen! Momotaro-saaan!!\"{KP}\"The village where Monkey-san lives is in big trouble!\""
  },
  {
   "id": "GSF0000D/105/0002",
   "kind": "msg",
   "jp": "龍神船から　{bb}かしら{ww}の\nどなり声が　聞こえた！\n　",
-  "en": ""
+  "en": "The {bb}captain{ww}'s angry shouts rang out from the Dragon God Ship!"
  },
  {
   "id": "GSF0000D/105/0058",
   "kind": "msg",
   "jp": "「桃太郎さん！　その柿頭の\n　やろうを　乗せるのは\n　ゴメンだぜ！」",
-  "en": ""
+  "en": "\"Momotaro-san! I ain't lettin' that persimmon-headed punk on board!\""
  },
  {
   "id": "GSF0000D/105/00AC",
   "kind": "msg",
   "jp": "　桃太郎は　柿太郎が\n　改心したことを　つげた\n　",
-  "en": ""
+  "en": "Momotaro told him that Kakitaro had turned over a new leaf."
  },
  {
   "id": "GSF0000D/105/00EE",
   "kind": "msg",
   "jp": "「改心だか　怪人だか　わからんが\n　そいつの　せいで　ワシの舟が\n　あんな状態に　なったんだぜ！」",
-  "en": ""
+  "en": "\"Reformed or deformed, I don't care!\"{KP}\"It's his fault my ship ended up in that state!\""
  },
  {
   "id": "GSF0000D/105/0160",
   "kind": "msg",
   "jp": "「{bb}かしら{ww}　ゴメンよー！」\n　\n　{KP}\n「何でも　するから\n　オイラたちを\n　乗せておくれよ～！」",
-  "en": ""
+  "en": "\"{bb}Boss{ww}, I'm sorry!\"{KP}\"I'll do anything, so please let us on board!\""
  },
  {
   "id": "GSF0000D/105/01D6",
   "kind": "msg",
   "jp": "「あんちゃんを\n　ゆるしてクリー！」\n　",
-  "en": ""
+  "en": "\"Please forgive my big bro, kuriii!\""
  },
  {
   "id": "GSF0000D/105/020E",
   "kind": "msg",
   "jp": "　桃太郎も\n　必死に　お願いした！\n　",
-  "en": ""
+  "en": "Momotaro pleaded desperately too!"
  },
  {
   "id": "GSF0000D/105/0244",
   "kind": "msg",
   "jp": "「ねぇ！　{bb}かしら{ww}～\n　もう　ゆるしてあげて！」\n　",
-  "en": ""
+  "en": "\"Come on, {bb}Boss{ww}! Please forgive him already!\""
  },
  {
   "id": "GSF0000D/105/028A",
   "kind": "msg",
   "jp": "「あ～　わかった　わかったよ！\n　桃太郎さんに　めんじて\n　許してやるよ！」{KP}\n　\n「さあ　乗りやがれ！」\n　\n　",
-  "en": ""
+  "en": "\"Ahh, all right, all right!\"{KP}\"For Momotaro-san's sake, I'll forgive ya!\"{KP}\"Now get aboard, the lot of ya!\""
  },
  {
   "id": "GSF0000D/105/0312",
   "kind": "msg",
   "jp": "「あ…　ありがとう！」\n　\n　",
-  "en": ""
+  "en": "\"Th... thank you!\""
  },
  {
   "id": "GSF0000D/106/0002",
   "kind": "msg",
   "jp": "龍神船から　{bb}かしら{ww}の\nどなり声が　聞こえた！\n　",
-  "en": ""
+  "en": "The {bb}captain{ww}'s angry shouts rang out from the Dragon God Ship!"
  },
  {
   "id": "GSF0000D/106/0058",
   "kind": "msg",
   "jp": "「桃太郎さん！　その柿頭の\n　やろうを　乗せるのは\n　ゴメンだぜ！」",
-  "en": ""
+  "en": "\"Momotaro-san! I ain't lettin' that persimmon-headed punk on board!\""
  },
  {
   "id": "GSF0000D/106/00AC",
   "kind": "msg",
   "jp": "　桃太郎は　柿太郎が\n　改心したことを　つげた\n　",
-  "en": ""
+  "en": "Momotaro told him that Kakitaro had turned over a new leaf."
  },
  {
   "id": "GSF0000D/106/00EE",
   "kind": "msg",
   "jp": "「改心だか　怪人だか　わからんが\n　そいつの　せいで　ワシの舟が\n　あんな状態に　なったんだぜ！」",
-  "en": ""
+  "en": "\"Reformed or deformed, I don't care!\"{KP}\"It's his fault my ship ended up in that state!\""
  },
  {
   "id": "GSF0000D/106/0160",
   "kind": "msg",
   "jp": "「{bb}かしら{ww}　ゴメンよー！」\n　\n　{KP}\n「何でも　するから\n　オイラたちを\n　乗せておくれよ～！」",
-  "en": ""
+  "en": "\"{bb}Boss{ww}, I'm sorry!\"{KP}\"I'll do anything, so please let us on board!\""
  },
  {
   "id": "GSF0000D/106/01D6",
   "kind": "msg",
   "jp": "「あんちゃんを\n　ゆるしてクリー！」\n　",
-  "en": ""
+  "en": "\"Please forgive my big bro, kuriii!\""
  },
  {
   "id": "GSF0000D/106/020E",
   "kind": "msg",
   "jp": "　桃太郎も\n　必死に　お願いした！\n　",
-  "en": ""
+  "en": "Momotaro pleaded desperately too!"
  },
  {
   "id": "GSF0000D/106/0244",
   "kind": "msg",
   "jp": "「ねぇ！　{bb}かしら{ww}～\n　もう　ゆるしてあげて！」\n　",
-  "en": ""
+  "en": "\"Come on, {bb}Boss{ww}! Please forgive him already!\""
  },
  {
   "id": "GSF0000D/106/028A",
   "kind": "msg",
   "jp": "「あ～　わかった　わかったよ！\n　桃太郎さんに　めんじて\n　許してやるよ！」{KP}\n　\n「さあ　乗りやがれ！」\n　\n　",
-  "en": ""
+  "en": "\"Ahh, all right, all right!\"{KP}\"For Momotaro-san's sake, I'll forgive ya!\"{KP}\"Now get aboard, the lot of ya!\""
  },
  {
   "id": "GSF0000D/106/0312",
   "kind": "msg",
   "jp": "「あ…　ありがとう！」\n　\n　",
-  "en": ""
+  "en": "\"Th... thank you!\""
  },
  {
   "id": "GSF0000D/107/0002",
   "kind": "msg",
   "jp": "龍神船から　{bb}かしら{ww}の\nどなり声が　聞こえた！\n　",
-  "en": ""
+  "en": "The {bb}captain{ww}'s angry shouts rang out from the Dragon God Ship!"
  },
  {
   "id": "GSF0000D/107/0058",
   "kind": "msg",
   "jp": "「桃太郎さん！　その柿頭の\n　やろうを　乗せるのは\n　ゴメンだぜ！」",
-  "en": ""
+  "en": "\"Momotaro-san! I ain't lettin' that persimmon-headed punk on board!\""
  },
  {
   "id": "GSF0000D/107/00AC",
   "kind": "msg",
   "jp": "　桃太郎は　柿太郎が\n　改心したことを　つげた\n　",
-  "en": ""
+  "en": "Momotaro told him that Kakitaro had turned over a new leaf."
  },
  {
   "id": "GSF0000D/107/00EE",
   "kind": "msg",
   "jp": "「改心だか　怪人だか　わからんが\n　そいつの　せいで　ワシの舟が\n　あんな状態に　なったんだぜ！」",
-  "en": ""
+  "en": "\"Reformed or deformed, I don't care!\"{KP}\"It's his fault my ship ended up in that state!\""
  },
  {
   "id": "GSF0000D/107/0160",
   "kind": "msg",
   "jp": "「{bb}かしら{ww}　ゴメンよー！」\n　\n　{KP}\n「何でも　するから\n　オイラたちを\n　乗せておくれよ～！」",
-  "en": ""
+  "en": "\"{bb}Boss{ww}, I'm sorry!\"{KP}\"I'll do anything, so please let us on board!\""
  },
  {
   "id": "GSF0000D/107/01D6",
   "kind": "msg",
   "jp": "「あんちゃんを\n　ゆるしてクリー！」\n　",
-  "en": ""
+  "en": "\"Please forgive my big bro, kuriii!\""
  },
  {
   "id": "GSF0000D/107/020E",
   "kind": "msg",
   "jp": "　桃太郎も\n　必死に　お願いした！\n　",
-  "en": ""
+  "en": "Momotaro pleaded desperately too!"
  },
  {
   "id": "GSF0000D/107/0244",
   "kind": "msg",
   "jp": "「ねぇ！　{bb}かしら{ww}～\n　もう　ゆるしてあげて！」\n　",
-  "en": ""
+  "en": "\"Come on, {bb}Boss{ww}! Please forgive him already!\""
  },
  {
   "id": "GSF0000D/107/028A",
   "kind": "msg",
   "jp": "「あ～　わかった　わかったよ！\n　桃太郎さんに　めんじて\n　許してやるよ！」{KP}\n　\n「さあ　乗りやがれ！」\n　\n　",
-  "en": ""
+  "en": "\"Ahh, all right, all right!\"{KP}\"For Momotaro-san's sake, I'll forgive ya!\"{KP}\"Now get aboard, the lot of ya!\""
  },
  {
   "id": "GSF0000D/107/0312",
   "kind": "msg",
   "jp": "「あ…　ありがとう！」\n　\n　",
-  "en": ""
+  "en": "\"Th... thank you!\""
  },
  {
   "id": "GSF0000D/108/0002",
   "kind": "msg",
   "jp": "龍神船から　{bb}かしら{ww}の\nどなり声が　聞こえた！\n　",
-  "en": ""
+  "en": "The {bb}captain{ww}'s angry shouts rang out from the Dragon God Ship!"
  },
  {
   "id": "GSF0000D/108/0058",
   "kind": "msg",
   "jp": "「桃太郎さん！　その柿頭の\n　やろうを　乗せるのは\n　ゴメンだぜ！」",
-  "en": ""
+  "en": "\"Momotaro-san! I ain't lettin' that persimmon-headed punk on board!\""
  },
  {
   "id": "GSF0000D/108/00AC",
   "kind": "msg",
   "jp": "　桃太郎は　柿太郎が\n　改心したことを　つげた\n　",
-  "en": ""
+  "en": "Momotaro told him that Kakitaro had turned over a new leaf."
  },
  {
   "id": "GSF0000D/108/00EE",
   "kind": "msg",
   "jp": "「改心だか　怪人だか　わからんが\n　そいつの　せいで　ワシの舟が\n　あんな状態に　なったんだぜ！」",
-  "en": ""
+  "en": "\"Reformed or deformed, I don't care!\"{KP}\"It's his fault my ship ended up in that state!\""
  },
  {
   "id": "GSF0000D/108/0160",
   "kind": "msg",
   "jp": "「{bb}かしら{ww}　ゴメンよー！」\n　\n　{KP}\n「何でも　するから\n　オイラたちを\n　乗せておくれよ～！」",
-  "en": ""
+  "en": "\"{bb}Boss{ww}, I'm sorry!\"{KP}\"I'll do anything, so please let us on board!\""
  },
  {
   "id": "GSF0000D/108/01D6",
   "kind": "msg",
   "jp": "「あんちゃんを\n　ゆるしてクリー！」\n　",
-  "en": ""
+  "en": "\"Please forgive my big bro, kuriii!\""
  },
  {
   "id": "GSF0000D/108/020E",
   "kind": "msg",
   "jp": "　桃太郎も\n　必死に　お願いした！\n　",
-  "en": ""
+  "en": "Momotaro pleaded desperately too!"
  },
  {
   "id": "GSF0000D/108/0244",
   "kind": "msg",
   "jp": "「ねぇ！　{bb}かしら{ww}～\n　もう　ゆるしてあげて！」\n　",
-  "en": ""
+  "en": "\"Come on, {bb}Boss{ww}! Please forgive him already!\""
  },
  {
   "id": "GSF0000D/108/028A",
   "kind": "msg",
   "jp": "「あ～　わかった　わかったよ！\n　桃太郎さんに　めんじて\n　許してやるよ！」{KP}\n　\n「さあ　乗りやがれ！」\n　\n　",
-  "en": ""
+  "en": "\"Ahh, all right, all right!\"{KP}\"For Momotaro-san's sake, I'll forgive ya!\"{KP}\"Now get aboard, the lot of ya!\""
  },
  {
   "id": "GSF0000D/108/0312",
   "kind": "msg",
   "jp": "「あ…　ありがとう！」\n　\n　",
-  "en": ""
+  "en": "\"Th... thank you!\""
  },
  {
   "id": "GSF0000D/109/0002",
   "kind": "msg",
   "jp": "龍神船から　{bb}かしら{ww}の\nどなり声が　聞こえた！\n　",
-  "en": ""
+  "en": "The {bb}captain{ww}'s angry shouts rang out from the Dragon God Ship!"
  },
  {
   "id": "GSF0000D/109/0058",
   "kind": "msg",
   "jp": "「桃太郎さん！　その柿頭の\n　やろうを　乗せるのは\n　ゴメンだぜ！」",
-  "en": ""
+  "en": "\"Momotaro-san! I ain't lettin' that persimmon-headed punk on board!\""
  },
  {
   "id": "GSF0000D/109/00AC",
   "kind": "msg",
   "jp": "　桃太郎は　柿太郎が\n　改心したことを　つげた\n　",
-  "en": ""
+  "en": "Momotaro told him that Kakitaro had turned over a new leaf."
  },
  {
   "id": "GSF0000D/109/00EE",
   "kind": "msg",
   "jp": "「改心だか　怪人だか　わからんが\n　そいつの　せいで　ワシの舟が\n　あんな状態に　なったんだぜ！」",
-  "en": ""
+  "en": "\"Reformed or deformed, I don't care!\"{KP}\"It's his fault my ship ended up in that state!\""
  },
  {
   "id": "GSF0000D/109/0160",
   "kind": "msg",
   "jp": "「{bb}かしら{ww}　ゴメンよー！」\n　\n　{KP}\n「何でも　するから\n　オイラたちを\n　乗せておくれよ～！」",
-  "en": ""
+  "en": "\"{bb}Boss{ww}, I'm sorry!\"{KP}\"I'll do anything, so please let us on board!\""
  },
  {
   "id": "GSF0000D/109/01D6",
   "kind": "msg",
   "jp": "「あんちゃんを\n　ゆるしてクリー！」\n　",
-  "en": ""
+  "en": "\"Please forgive my big bro, kuriii!\""
  },
  {
   "id": "GSF0000D/109/020E",
   "kind": "msg",
   "jp": "　桃太郎も\n　必死に　お願いした！\n　",
-  "en": ""
+  "en": "Momotaro pleaded desperately too!"
  },
  {
   "id": "GSF0000D/109/0244",
   "kind": "msg",
   "jp": "「ねぇ！　{bb}かしら{ww}～\n　もう　ゆるしてあげて！」\n　",
-  "en": ""
+  "en": "\"Come on, {bb}Boss{ww}! Please forgive him already!\""
  },
  {
   "id": "GSF0000D/109/028A",
   "kind": "msg",
   "jp": "「あ～　わかった　わかったよ！\n　桃太郎さんに　めんじて\n　許してやるよ！」{KP}\n　\n「さあ　乗りやがれ！」\n　\n　",
-  "en": ""
+  "en": "\"Ahh, all right, all right!\"{KP}\"For Momotaro-san's sake, I'll forgive ya!\"{KP}\"Now get aboard, the lot of ya!\""
  },
  {
   "id": "GSF0000D/109/0312",
   "kind": "msg",
   "jp": "「あ…　ありがとう！」\n　\n　",
-  "en": ""
+  "en": "\"Th... thank you!\""
  },
  {
   "id": "GSF0000D/110/0002",
   "kind": "msg",
   "jp": "龍神船から　{bb}かしら{ww}の\nどなり声が　聞こえた！\n　",
-  "en": ""
+  "en": "The {bb}captain{ww}'s angry shouts rang out from the Dragon God Ship!"
  },
  {
   "id": "GSF0000D/110/0058",
   "kind": "msg",
   "jp": "「桃太郎さん！　その柿頭の\n　やろうを　乗せるのは\n　ゴメンだぜ！」",
-  "en": ""
+  "en": "\"Momotaro-san! I ain't lettin' that persimmon-headed punk on board!\""
  },
  {
   "id": "GSF0000D/110/00AC",
   "kind": "msg",
   "jp": "　桃太郎は　柿太郎が\n　改心したことを　つげた\n　",
-  "en": ""
+  "en": "Momotaro told him that Kakitaro had turned over a new leaf."
  },
  {
   "id": "GSF0000D/110/00EE",
   "kind": "msg",
   "jp": "「改心だか　怪人だか　わからんが\n　そいつの　せいで　ワシの舟が\n　あんな状態に　なったんだぜ！」",
-  "en": ""
+  "en": "\"Reformed or deformed, I don't care!\"{KP}\"It's his fault my ship ended up in that state!\""
  },
  {
   "id": "GSF0000D/110/0160",
   "kind": "msg",
   "jp": "「{bb}かしら{ww}　ゴメンよー！」\n　\n　{KP}\n「何でも　するから\n　オイラたちを\n　乗せておくれよ～！」",
-  "en": ""
+  "en": "\"{bb}Boss{ww}, I'm sorry!\"{KP}\"I'll do anything, so please let us on board!\""
  },
  {
   "id": "GSF0000D/110/01D6",
   "kind": "msg",
   "jp": "「あんちゃんを\n　ゆるしてクリー！」\n　",
-  "en": ""
+  "en": "\"Please forgive my big bro, kuriii!\""
  },
  {
   "id": "GSF0000D/110/020E",
   "kind": "msg",
   "jp": "　桃太郎も\n　必死に　お願いした！\n　",
-  "en": ""
+  "en": "Momotaro pleaded desperately too!"
  },
  {
   "id": "GSF0000D/110/0244",
   "kind": "msg",
   "jp": "「ねぇ！　{bb}かしら{ww}～\n　もう　ゆるしてあげて！」\n　",
-  "en": ""
+  "en": "\"Come on, {bb}Boss{ww}! Please forgive him already!\""
  },
  {
   "id": "GSF0000D/110/028A",
   "kind": "msg",
   "jp": "「あ～　わかった　わかったよ！\n　桃太郎さんに　めんじて\n　許してやるよ！」{KP}\n　\n「さあ　乗りやがれ！」\n　\n　",
-  "en": ""
+  "en": "\"Ahh, all right, all right!\"{KP}\"For Momotaro-san's sake, I'll forgive ya!\"{KP}\"Now get aboard, the lot of ya!\""
  },
  {
   "id": "GSF0000D/110/0312",
   "kind": "msg",
   "jp": "「あ…　ありがとう！」\n　\n　",
-  "en": ""
+  "en": "\"Th... thank you!\""
  },
  {
   "id": "GSF0000D/111/0002",
   "kind": "msg",
   "jp": "龍神船から　{bb}かしら{ww}の\nどなり声が　聞こえた！\n　",
-  "en": ""
+  "en": "The {bb}captain{ww}'s angry shouts rang out from the Dragon God Ship!"
  },
  {
   "id": "GSF0000D/111/0058",
   "kind": "msg",
   "jp": "「桃太郎さん！　その柿頭の\n　やろうを　乗せるのは\n　ゴメンだぜ！」",
-  "en": ""
+  "en": "\"Momotaro-san! I ain't lettin' that persimmon-headed punk on board!\""
  },
  {
   "id": "GSF0000D/111/00AC",
   "kind": "msg",
   "jp": "　桃太郎は　柿太郎が\n　改心したことを　つげた\n　",
-  "en": ""
+  "en": "Momotaro told him that Kakitaro had turned over a new leaf."
  },
  {
   "id": "GSF0000D/111/00EE",
   "kind": "msg",
   "jp": "「改心だか　怪人だか　わからんが\n　そいつの　せいで　ワシの舟が\n　あんな状態に　なったんだぜ！」",
-  "en": ""
+  "en": "\"Reformed or deformed, I don't care!\"{KP}\"It's his fault my ship ended up in that state!\""
  },
  {
   "id": "GSF0000D/111/0160",
   "kind": "msg",
   "jp": "「{bb}かしら{ww}　ゴメンよー！」\n　\n　{KP}\n「何でも　するから\n　オイラたちを\n　乗せておくれよ～！」",
-  "en": ""
+  "en": "\"{bb}Boss{ww}, I'm sorry!\"{KP}\"I'll do anything, so please let us on board!\""
  },
  {
   "id": "GSF0000D/111/01D6",
   "kind": "msg",
   "jp": "「あんちゃんを\n　ゆるしてクリー！」\n　",
-  "en": ""
+  "en": "\"Please forgive my big bro, kuriii!\""
  },
  {
   "id": "GSF0000D/111/020E",
   "kind": "msg",
   "jp": "　桃太郎も\n　必死に　お願いした！\n　",
-  "en": ""
+  "en": "Momotaro pleaded desperately too!"
  },
  {
   "id": "GSF0000D/111/0244",
   "kind": "msg",
   "jp": "「ねぇ！　{bb}かしら{ww}～\n　もう　ゆるしてあげて！」\n　",
-  "en": ""
+  "en": "\"Come on, {bb}Boss{ww}! Please forgive him already!\""
  },
  {
   "id": "GSF0000D/111/028A",
   "kind": "msg",
   "jp": "「あ～　わかった　わかったよ！\n　桃太郎さんに　めんじて\n　許してやるよ！」{KP}\n　\n「さあ　乗りやがれ！」\n　\n　",
-  "en": ""
+  "en": "\"Ahh, all right, all right!\"{KP}\"For Momotaro-san's sake, I'll forgive ya!\"{KP}\"Now get aboard, the lot of ya!\""
  },
  {
   "id": "GSF0000D/111/0312",
   "kind": "msg",
   "jp": "「あ…　ありがとう！」\n　\n　",
-  "en": ""
+  "en": "\"Th... thank you!\""
  },
  {
   "id": "GSF0000D/112/0002",
   "kind": "msg",
   "jp": "龍神船から　{bb}かしら{ww}の\nどなり声が　聞こえた！\n　",
-  "en": ""
+  "en": "The {bb}captain{ww}'s angry shouts rang out from the Dragon God Ship!"
  },
  {
   "id": "GSF0000D/112/0058",
   "kind": "msg",
   "jp": "「桃太郎さん！　その柿頭の\n　やろうを　乗せるのは\n　ゴメンだぜ！」",
-  "en": ""
+  "en": "\"Momotaro-san! I ain't lettin' that persimmon-headed punk on board!\""
  },
  {
   "id": "GSF0000D/112/00AC",
   "kind": "msg",
   "jp": "　桃太郎は　柿太郎が\n　改心したことを　つげた\n　",
-  "en": ""
+  "en": "Momotaro told him that Kakitaro had turned over a new leaf."
  },
  {
   "id": "GSF0000D/112/00EE",
   "kind": "msg",
   "jp": "「改心だか　怪人だか　わからんが\n　そいつの　せいで　ワシの舟が\n　あんな状態に　なったんだぜ！」",
-  "en": ""
+  "en": "\"Reformed or deformed, I don't care!\"{KP}\"It's his fault my ship ended up in that state!\""
  },
  {
   "id": "GSF0000D/112/0160",
   "kind": "msg",
   "jp": "「{bb}かしら{ww}　ゴメンよー！」\n　\n　{KP}\n「何でも　するから\n　オイラたちを\n　乗せておくれよ～！」",
-  "en": ""
+  "en": "\"{bb}Boss{ww}, I'm sorry!\"{KP}\"I'll do anything, so please let us on board!\""
  },
  {
   "id": "GSF0000D/112/01D6",
   "kind": "msg",
   "jp": "「あんちゃんを\n　ゆるしてクリー！」\n　",
-  "en": ""
+  "en": "\"Please forgive my big bro, kuriii!\""
  },
  {
   "id": "GSF0000D/112/020E",
   "kind": "msg",
   "jp": "　桃太郎も\n　必死に　お願いした！\n　",
-  "en": ""
+  "en": "Momotaro pleaded desperately too!"
  },
  {
   "id": "GSF0000D/112/0244",
   "kind": "msg",
   "jp": "「ねぇ！　{bb}かしら{ww}～\n　もう　ゆるしてあげて！」\n　",
-  "en": ""
+  "en": "\"Come on, {bb}Boss{ww}! Please forgive him already!\""
  },
  {
   "id": "GSF0000D/112/028A",
   "kind": "msg",
   "jp": "「あ～　わかった　わかったよ！\n　桃太郎さんに　めんじて\n　許してやるよ！」{KP}\n　\n「さあ　乗りやがれ！」\n　\n　",
-  "en": ""
+  "en": "\"Ahh, all right, all right!\"{KP}\"For Momotaro-san's sake, I'll forgive ya!\"{KP}\"Now get aboard, the lot of ya!\""
  },
  {
   "id": "GSF0000D/112/0312",
   "kind": "msg",
   "jp": "「あ…　ありがとう！」\n　\n　",
-  "en": ""
+  "en": "\"Th... thank you!\""
  },
  {
   "id": "GSF0000D/113/0002",
   "kind": "msg",
   "jp": "龍神船から　{bb}かしら{ww}の\nどなり声が　聞こえた！\n　",
-  "en": ""
+  "en": "The {bb}captain{ww}'s angry shouts rang out from the Dragon God Ship!"
  },
  {
   "id": "GSF0000D/113/0058",
   "kind": "msg",
   "jp": "「桃太郎さん！　その柿頭の\n　やろうを　乗せるのは\n　ゴメンだぜ！」",
-  "en": ""
+  "en": "\"Momotaro-san! I ain't lettin' that persimmon-headed punk on board!\""
  },
  {
   "id": "GSF0000D/113/00AC",
   "kind": "msg",
   "jp": "　桃太郎は　柿太郎が\n　改心したことを　つげた\n　",
-  "en": ""
+  "en": "Momotaro told him that Kakitaro had turned over a new leaf."
  },
  {
   "id": "GSF0000D/113/00EE",
   "kind": "msg",
   "jp": "「改心だか　怪人だか　わからんが\n　そいつの　せいで　ワシの舟が\n　あんな状態に　なったんだぜ！」",
-  "en": ""
+  "en": "\"Reformed or deformed, I don't care!\"{KP}\"It's his fault my ship ended up in that state!\""
  },
  {
   "id": "GSF0000D/113/0160",
   "kind": "msg",
   "jp": "「{bb}かしら{ww}　ゴメンよー！」\n　\n　{KP}\n「何でも　するから\n　オイラたちを\n　乗せておくれよ～！」",
-  "en": ""
+  "en": "\"{bb}Boss{ww}, I'm sorry!\"{KP}\"I'll do anything, so please let us on board!\""
  },
  {
   "id": "GSF0000D/113/01D6",
   "kind": "msg",
   "jp": "「あんちゃんを\n　ゆるしてクリー！」\n　",
-  "en": ""
+  "en": "\"Please forgive my big bro, kuriii!\""
  },
  {
   "id": "GSF0000D/113/020E",
   "kind": "msg",
   "jp": "　桃太郎も\n　必死に　お願いした！\n　",
-  "en": ""
+  "en": "Momotaro pleaded desperately too!"
  },
  {
   "id": "GSF0000D/113/0244",
   "kind": "msg",
   "jp": "「ねぇ！　{bb}かしら{ww}～\n　もう　ゆるしてあげて！」\n　",
-  "en": ""
+  "en": "\"Come on, {bb}Boss{ww}! Please forgive him already!\""
  },
  {
   "id": "GSF0000D/113/028A",
   "kind": "msg",
   "jp": "「あ～　わかった　わかったよ！\n　桃太郎さんに　めんじて\n　許してやるよ！」{KP}\n　\n「さあ　乗りやがれ！」\n　\n　",
-  "en": ""
+  "en": "\"Ahh, all right, all right!\"{KP}\"For Momotaro-san's sake, I'll forgive ya!\"{KP}\"Now get aboard, the lot of ya!\""
  },
  {
   "id": "GSF0000D/113/0312",
   "kind": "msg",
   "jp": "「あ…　ありがとう！」\n　\n　",
-  "en": ""
+  "en": "\"Th... thank you!\""
  },
  {
   "id": "GSF0000D/114/0010",
   "kind": "msg",
   "jp": "「桃太郎か！\n　よい　ところに　来た！」\n　{KP}\n「お供え物を　もらいすぎたので\n　みんなに　分けてあげたい！」\n　{KP}\n「でも　見てのとおり\n　わしは　動けん！」\n　{KP}\n「桃太郎よ！　南の　地蔵に\n　桃まんを　とどけてくれんか？」\n　{KN}",
-  "en": ""
+  "en": "\"Momotaro! You've come at a good time!\"{KP}\"I received too many offerings, so I'd like to share them with everyone!\"{KP}\"But as you can see, I can't move!\"{KP}\"Momotaro! Would you deliver these peach buns to the Jizo in the south?\"{KN}"
  },
  {
   "id": "GSF0000D/114/012A",
   "kind": "msg",
   "jp": "桃太郎は　地蔵から\n{bb}桃まん{ww}を　受け取った！\n　",
-  "en": ""
+  "en": "Momotaro received the {bb}Peach Buns{ww} from the Jizo!"
  },
  {
   "id": "GSF0000D/114/016C",
   "kind": "msg",
   "jp": "「では　頼んだぞ　桃太郎！」\n　\n　",
-  "en": ""
+  "en": "\"I'm counting on you, Momotaro!\""
  },
  {
   "id": "GSF0000D/114/01A0",
@@ -1119,252 +1119,252 @@
   "id": "GSF0000D/114/0212",
   "kind": "msg",
   "jp": "「急ぎの　用事が　あるのか？\n　それなら　仕方あるまい！」\n　{KP}\n「また　今度\n　お願いするとしよう！」\n　",
-  "en": ""
+  "en": "\"You have urgent business? Then it can't be helped!\"{KP}\"I'll ask you another time!\""
  },
  {
   "id": "GSF0000D/115/00B6",
   "kind": "msg",
   "jp": "七夕祭りを　見終えた\n柿太郎と　栗太郎は\n兄弟の洞窟に　帰って行きました！",
-  "en": ""
+  "en": "After watching the Tanabata Festival, Kakitaro and Kuritaro went home to Brothers' Cave!"
  },
  {
   "id": "GSF0000D/116/0002",
   "kind": "msg",
   "jp": "龍神船から　{bb}かしら{ww}の\nどなり声が　聞こえた！\n　",
-  "en": ""
+  "en": "The {bb}captain{ww}'s angry shouts rang out from the Dragon God Ship!"
  },
  {
   "id": "GSF0000D/116/0058",
   "kind": "msg",
   "jp": "「桃太郎さん！　その柿頭の\n　やろうを　乗せるのは\n　ゴメンだぜ！」",
-  "en": ""
+  "en": "\"Momotaro-san! I ain't lettin' that persimmon-headed punk on board!\""
  },
  {
   "id": "GSF0000D/116/00AC",
   "kind": "msg",
   "jp": "　桃太郎は　柿太郎が\n　改心したことを　つげた\n　",
-  "en": ""
+  "en": "Momotaro told him that Kakitaro had turned over a new leaf."
  },
  {
   "id": "GSF0000D/116/00EE",
   "kind": "msg",
   "jp": "「改心だか　怪人だか　わからんが\n　そいつの　せいで　ワシの舟が\n　あんな状態に　なったんだぜ！」",
-  "en": ""
+  "en": "\"Reformed or deformed, I don't care!\"{KP}\"It's his fault my ship ended up in that state!\""
  },
  {
   "id": "GSF0000D/116/0160",
   "kind": "msg",
   "jp": "「{bb}かしら{ww}　ゴメンよー！」\n　\n　{KP}\n「何でも　するから\n　オイラたちを\n　乗せておくれよ～！」",
-  "en": ""
+  "en": "\"{bb}Boss{ww}, I'm sorry!\"{KP}\"I'll do anything, so please let us on board!\""
  },
  {
   "id": "GSF0000D/116/01D6",
   "kind": "msg",
   "jp": "「あんちゃんを\n　ゆるしてクリー！」\n　",
-  "en": ""
+  "en": "\"Please forgive my big bro, kuriii!\""
  },
  {
   "id": "GSF0000D/116/020E",
   "kind": "msg",
   "jp": "　桃太郎も\n　必死に　お願いした！\n　",
-  "en": ""
+  "en": "Momotaro pleaded desperately too!"
  },
  {
   "id": "GSF0000D/116/0244",
   "kind": "msg",
   "jp": "「ねぇ！　{bb}かしら{ww}～\n　もう　ゆるしてあげて！」\n　",
-  "en": ""
+  "en": "\"Come on, {bb}Boss{ww}! Please forgive him already!\""
  },
  {
   "id": "GSF0000D/116/028A",
   "kind": "msg",
   "jp": "「あ～　わかった　わかったよ！\n　桃太郎さんに　めんじて\n　許してやるよ！」{KP}\n　\n「さあ　乗りやがれ！」\n　\n　",
-  "en": ""
+  "en": "\"Ahh, all right, all right!\"{KP}\"For Momotaro-san's sake, I'll forgive ya!\"{KP}\"Now get aboard, the lot of ya!\""
  },
  {
   "id": "GSF0000D/116/0312",
   "kind": "msg",
   "jp": "「あ…　ありがとう！」\n　\n　",
-  "en": ""
+  "en": "\"Th... thank you!\""
  },
  {
   "id": "GSF0000D/117/0002",
   "kind": "msg",
   "jp": "龍神船から　{bb}かしら{ww}の\nどなり声が　聞こえた！\n　",
-  "en": ""
+  "en": "The {bb}captain{ww}'s angry shouts rang out from the Dragon God Ship!"
  },
  {
   "id": "GSF0000D/117/0058",
   "kind": "msg",
   "jp": "「桃太郎さん！　その柿頭の\n　やろうを　乗せるのは\n　ゴメンだぜ！」",
-  "en": ""
+  "en": "\"Momotaro-san! I ain't lettin' that persimmon-headed punk on board!\""
  },
  {
   "id": "GSF0000D/117/00AC",
   "kind": "msg",
   "jp": "　桃太郎は　柿太郎が\n　改心したことを　つげた\n　",
-  "en": ""
+  "en": "Momotaro told him that Kakitaro had turned over a new leaf."
  },
  {
   "id": "GSF0000D/117/00EE",
   "kind": "msg",
   "jp": "「改心だか　怪人だか　わからんが\n　そいつの　せいで　ワシの舟が\n　あんな状態に　なったんだぜ！」",
-  "en": ""
+  "en": "\"Reformed or deformed, I don't care!\"{KP}\"It's his fault my ship ended up in that state!\""
  },
  {
   "id": "GSF0000D/117/0160",
   "kind": "msg",
   "jp": "「{bb}かしら{ww}　ゴメンよー！」\n　\n　{KP}\n「何でも　するから\n　オイラたちを\n　乗せておくれよ～！」",
-  "en": ""
+  "en": "\"{bb}Boss{ww}, I'm sorry!\"{KP}\"I'll do anything, so please let us on board!\""
  },
  {
   "id": "GSF0000D/117/01D6",
   "kind": "msg",
   "jp": "「あんちゃんを\n　ゆるしてクリー！」\n　",
-  "en": ""
+  "en": "\"Please forgive my big bro, kuriii!\""
  },
  {
   "id": "GSF0000D/117/020E",
   "kind": "msg",
   "jp": "　桃太郎も\n　必死に　お願いした！\n　",
-  "en": ""
+  "en": "Momotaro pleaded desperately too!"
  },
  {
   "id": "GSF0000D/117/0244",
   "kind": "msg",
   "jp": "「ねぇ！　{bb}かしら{ww}～\n　もう　ゆるしてあげて！」\n　",
-  "en": ""
+  "en": "\"Come on, {bb}Boss{ww}! Please forgive him already!\""
  },
  {
   "id": "GSF0000D/117/028A",
   "kind": "msg",
   "jp": "「あ～　わかった　わかったよ！\n　桃太郎さんに　めんじて\n　許してやるよ！」{KP}\n　\n「さあ　乗りやがれ！」\n　\n　",
-  "en": ""
+  "en": "\"Ahh, all right, all right!\"{KP}\"For Momotaro-san's sake, I'll forgive ya!\"{KP}\"Now get aboard, the lot of ya!\""
  },
  {
   "id": "GSF0000D/117/0312",
   "kind": "msg",
   "jp": "「あ…　ありがとう！」\n　\n　",
-  "en": ""
+  "en": "\"Th... thank you!\""
  },
  {
   "id": "GSF0000D/118/0002",
   "kind": "msg",
   "jp": "龍神船から　{bb}かしら{ww}の\nどなり声が　聞こえた！\n　",
-  "en": ""
+  "en": "The {bb}captain{ww}'s angry shouts rang out from the Dragon God Ship!"
  },
  {
   "id": "GSF0000D/118/0058",
   "kind": "msg",
   "jp": "「桃太郎さん！　その柿頭の\n　やろうを　乗せるのは\n　ゴメンだぜ！」",
-  "en": ""
+  "en": "\"Momotaro-san! I ain't lettin' that persimmon-headed punk on board!\""
  },
  {
   "id": "GSF0000D/118/00AC",
   "kind": "msg",
   "jp": "　桃太郎は　柿太郎が\n　改心したことを　つげた\n　",
-  "en": ""
+  "en": "Momotaro told him that Kakitaro had turned over a new leaf."
  },
  {
   "id": "GSF0000D/118/00EE",
   "kind": "msg",
   "jp": "「改心だか　怪人だか　わからんが\n　そいつの　せいで　ワシの舟が\n　あんな状態に　なったんだぜ！」",
-  "en": ""
+  "en": "\"Reformed or deformed, I don't care!\"{KP}\"It's his fault my ship ended up in that state!\""
  },
  {
   "id": "GSF0000D/118/0160",
   "kind": "msg",
   "jp": "「{bb}かしら{ww}　ゴメンよー！」\n　\n　{KP}\n「何でも　するから\n　オイラたちを\n　乗せておくれよ～！」",
-  "en": ""
+  "en": "\"{bb}Boss{ww}, I'm sorry!\"{KP}\"I'll do anything, so please let us on board!\""
  },
  {
   "id": "GSF0000D/118/01D6",
   "kind": "msg",
   "jp": "「あんちゃんを\n　ゆるしてクリー！」\n　",
-  "en": ""
+  "en": "\"Please forgive my big bro, kuriii!\""
  },
  {
   "id": "GSF0000D/118/020E",
   "kind": "msg",
   "jp": "　桃太郎も\n　必死に　お願いした！\n　",
-  "en": ""
+  "en": "Momotaro pleaded desperately too!"
  },
  {
   "id": "GSF0000D/118/0244",
   "kind": "msg",
   "jp": "「ねぇ！　{bb}かしら{ww}～\n　もう　ゆるしてあげて！」\n　",
-  "en": ""
+  "en": "\"Come on, {bb}Boss{ww}! Please forgive him already!\""
  },
  {
   "id": "GSF0000D/118/028A",
   "kind": "msg",
   "jp": "「あ～　わかった　わかったよ！\n　桃太郎さんに　めんじて\n　許してやるよ！」{KP}\n　\n「さあ　乗りやがれ！」\n　\n　",
-  "en": ""
+  "en": "\"Ahh, all right, all right!\"{KP}\"For Momotaro-san's sake, I'll forgive ya!\"{KP}\"Now get aboard, the lot of ya!\""
  },
  {
   "id": "GSF0000D/118/0312",
   "kind": "msg",
   "jp": "「あ…　ありがとう！」\n　\n　",
-  "en": ""
+  "en": "\"Th... thank you!\""
  },
  {
   "id": "GSF0000D/119/0002",
   "kind": "msg",
   "jp": "龍神船から　{bb}かしら{ww}の\nどなり声が　聞こえた！\n　",
-  "en": ""
+  "en": "The {bb}captain{ww}'s angry shouts rang out from the Dragon God Ship!"
  },
  {
   "id": "GSF0000D/119/0058",
   "kind": "msg",
   "jp": "「桃太郎さん！　その柿頭の\n　やろうを　乗せるのは\n　ゴメンだぜ！」",
-  "en": ""
+  "en": "\"Momotaro-san! I ain't lettin' that persimmon-headed punk on board!\""
  },
  {
   "id": "GSF0000D/119/00AC",
   "kind": "msg",
   "jp": "　桃太郎は　柿太郎が\n　改心したことを　つげた\n　",
-  "en": ""
+  "en": "Momotaro told him that Kakitaro had turned over a new leaf."
  },
  {
   "id": "GSF0000D/119/00EE",
   "kind": "msg",
   "jp": "「改心だか　怪人だか　わからんが\n　そいつの　せいで　ワシの舟が\n　あんな状態に　なったんだぜ！」",
-  "en": ""
+  "en": "\"Reformed or deformed, I don't care!\"{KP}\"It's his fault my ship ended up in that state!\""
  },
  {
   "id": "GSF0000D/119/0160",
   "kind": "msg",
   "jp": "「{bb}かしら{ww}　ゴメンよー！」\n　\n　{KP}\n「何でも　するから\n　オイラたちを\n　乗せておくれよ～！」",
-  "en": ""
+  "en": "\"{bb}Boss{ww}, I'm sorry!\"{KP}\"I'll do anything, so please let us on board!\""
  },
  {
   "id": "GSF0000D/119/01D6",
   "kind": "msg",
   "jp": "「あんちゃんを\n　ゆるしてクリー！」\n　",
-  "en": ""
+  "en": "\"Please forgive my big bro, kuriii!\""
  },
  {
   "id": "GSF0000D/119/020E",
   "kind": "msg",
   "jp": "　桃太郎も\n　必死に　お願いした！\n　",
-  "en": ""
+  "en": "Momotaro pleaded desperately too!"
  },
  {
   "id": "GSF0000D/119/0244",
   "kind": "msg",
   "jp": "「ねぇ！　{bb}かしら{ww}～\n　もう　ゆるしてあげて！」\n　",
-  "en": ""
+  "en": "\"Come on, {bb}Boss{ww}! Please forgive him already!\""
  },
  {
   "id": "GSF0000D/119/028A",
   "kind": "msg",
   "jp": "「あ～　わかった　わかったよ！\n　桃太郎さんに　めんじて\n　許してやるよ！」{KP}\n　\n「さあ　乗りやがれ！」\n　\n　",
-  "en": ""
+  "en": "\"Ahh, all right, all right!\"{KP}\"For Momotaro-san's sake, I'll forgive ya!\"{KP}\"Now get aboard, the lot of ya!\""
  },
  {
   "id": "GSF0000D/119/0312",
   "kind": "msg",
   "jp": "「あ…　ありがとう！」\n　\n　",
-  "en": ""
+  "en": "\"Th... thank you!\""
  }
 ]

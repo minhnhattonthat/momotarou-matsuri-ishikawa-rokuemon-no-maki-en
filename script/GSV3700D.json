@@ -3,13 +3,13 @@
   "id": "GSV3700D/2/0002",
   "kind": "msg",
   "jp": "「桃太郎よ！\n　ここで　{bb}こだま笛{ww}を　使えば\n　{bb}北の福の神{ww}に　会えるぞ！」{KP}\n　\n「{bb}北の福の神{ww}は　雪祭りと\n　七夕祭りが　好きじゃから」\n　{KP}\n「各々の祭りが　おこなわれた後に\n　{bb}こだま笛{ww}を　使えば　{bb}北の福の神{ww}に\n　会えるじゃろう！」",
-  "en": ""
+  "en": "\"Momotaro! If you use the {bb}Echo Flute{ww} here, you can meet the {bb}God of Fortune of the North{ww}!\"{KP}\"The {bb}God of Fortune of the North{ww} loves the Snow Festival and the Tanabata Festival,\"{KP}\"so if you use the {bb}Echo Flute{ww} after each of those festivals is held,\"{KP}\"you should be able to meet the {bb}God of Fortune of the North{ww}!\""
  },
  {
   "id": "GSV3700D/3/0018",
   "kind": "msg",
   "jp": "「う～む　柿太郎め\n　こんな　悪さを　しおって！」\n　",
-  "en": ""
+  "en": "\"Hmmm, that Kakitaro, pulling such mischief!\""
  },
  {
   "id": "GSV3700D/3/0074",
@@ -21,97 +21,97 @@
   "id": "GSV3700D/3/00A4",
   "kind": "msg",
   "jp": "「う～ん　さっぱりしたぞ\n　ありがとうよ　桃太郎！」\n　",
-  "en": ""
+  "en": "\"Mmm, that's refreshing! Thank you kindly, Momotaro!\""
  },
  {
   "id": "GSV3700D/3/0100",
   "kind": "msg",
   "jp": "「ごめんよ　お地蔵さん！」\n　\n　",
-  "en": ""
+  "en": "\"Sorry, Jizo-san!\""
  },
  {
   "id": "GSV3700D/3/0132",
   "kind": "msg",
   "jp": "「にいちゃんは　心を\n　入れかえたので\n　ゆるして　おクリ！」",
-  "en": ""
+  "en": "\"Big bro has turned over a new leaf, so please forgive him, kuri!\""
  },
  {
   "id": "GSV3700D/4/001E",
   "kind": "msg",
   "jp": "「おお　桃太郎よ！\n　こんな物が　飛んできおったぞ！\n　そなたに　わたしておこう！」",
-  "en": ""
+  "en": "\"Oh, Momotaro! This thing came flying my way! I'll hand it over to you!\""
  },
  {
   "id": "GSV3700D/4/0082",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}書物の切れはし１{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got {bb}Torn Page 1{ww}!{KN}"
  },
  {
   "id": "GSV3700D/4/011E",
   "kind": "msg",
   "jp": "「おお　桃太郎よ！\n　石川六右衛門なる　者に\n　気を　つけるのだぞ！」{KP}\n　\n「あやつには　人間にない\n　気を　感じるぞ！」",
-  "en": ""
+  "en": "\"Oh, Momotaro! Beware of a man called Ishikawa Rokuemon!\"{KP}\"I sense in him a power no human has!\""
  },
  {
   "id": "GSV3700D/4/01B0",
   "kind": "msg",
   "jp": "桃太郎は　４枚ある\n書物の切れはしを　合わせた！\n　{KP}\nそれは　{bb}はかい神の復活書{ww}に\nなった！\n　",
-  "en": ""
+  "en": "Momotaro put the four torn pages together!{KP}They became the {bb}Revival Book of the God of Destruction{ww}!"
  },
  {
   "id": "GSV3700D/4/0238",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}はかい神の復活書{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Revival Book of the God of Destruction{ww}!{KN}"
  },
  {
   "id": "GSV3700D/4/028E",
   "kind": "msg",
   "jp": "「おお　桃太郎よ！\n　ゆうぎ仙人には　もう\n　なれたかの？」",
-  "en": ""
+  "en": "\"Oh, Momotaro! Have you become the Game Hermit yet?\""
  },
  {
   "id": "GSV3700D/5/0010",
   "kind": "msg",
   "jp": "「おお　桃太郎よ！\n　こんな物が　飛んできおったぞ！\n　そなたに　わたしておこう！」",
-  "en": ""
+  "en": "\"Oh, Momotaro! This thing came flying my way! I'll hand it over to you!\""
  },
  {
   "id": "GSV3700D/5/0074",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}書物の切れはし２{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got {bb}Torn Page 2{ww}!{KN}"
  },
  {
   "id": "GSV3700D/5/0110",
   "kind": "msg",
   "jp": "「おお　桃太郎よ！\n　ゆうぎ仙人には　もう\n　なれたかの？」",
-  "en": ""
+  "en": "\"Oh, Momotaro! Have you become the Game Hermit yet?\""
  },
  {
   "id": "GSV3700D/5/015E",
   "kind": "msg",
   "jp": "桃太郎は　４枚ある\n書物の切れはしを　合わせた！\n　{KP}\nそれは　{bb}はかい神の復活書{ww}に\nなった！\n　",
-  "en": ""
+  "en": "Momotaro put the four torn pages together!{KP}They became the {bb}Revival Book of the God of Destruction{ww}!"
  },
  {
   "id": "GSV3700D/5/01E6",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}はかい神の復活書{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Revival Book of the God of Destruction{ww}!{KN}"
  },
  {
   "id": "GSV3700D/6/0002",
   "kind": "msg",
   "jp": "「この先にある　{bb}鬼の洞窟{ww}の中は\n　真っ暗で　まわりが　よく\n　見えないそうじゃ！」{KP}\n　\n「桃太郎よ！\n　{bb}たいまつ{ww}は　ちゃんと\n　用意してあるか！？」",
-  "en": ""
+  "en": "\"They say it's pitch dark inside the {bb}Oni Cave{ww} up ahead, and you can hardly see a thing!\"{KP}\"Momotaro! Have you got a {bb}torch{ww} ready?!\""
  },
  {
   "id": "GSV3700D/7/0018",
   "kind": "msg",
   "jp": "「柿太郎め！\n　柿で　前が　ちゃんと見えぬ！」\n　",
-  "en": ""
+  "en": "\"That Kakitaro! I can't see a thing in front of me for all this persimmon!\""
  },
  {
   "id": "GSV3700D/7/0070",
@@ -123,121 +123,121 @@
   "id": "GSV3700D/7/00A0",
   "kind": "msg",
   "jp": "「う～ん　さっぱりしたぞ\n　ありがとうよ　桃太郎！」\n　",
-  "en": ""
+  "en": "\"Mmm, that's refreshing! Thank you kindly, Momotaro!\""
  },
  {
   "id": "GSV3700D/7/00FC",
   "kind": "msg",
   "jp": "「ごめんよ　お地蔵さん！」\n　\n　",
-  "en": ""
+  "en": "\"Sorry, Jizo-san!\""
  },
  {
   "id": "GSV3700D/7/012E",
   "kind": "msg",
   "jp": "「にいちゃんは　心を\n　入れかえたので\n　ゆるして　おクリ！」",
-  "en": ""
+  "en": "\"Big bro has turned over a new leaf, so please forgive him, kuri!\""
  },
  {
   "id": "GSV3700D/8/001E",
   "kind": "msg",
   "jp": "「桃太郎よ！\n　こんな物が　飛んできおったぞ！\n　そなたに　わたしておこう！」",
-  "en": ""
+  "en": "\"Momotaro! This thing came flying my way! I'll hand it over to you!\""
  },
  {
   "id": "GSV3700D/8/007C",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}書物の切れはし３{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got {bb}Torn Page 3{ww}!{KN}"
  },
  {
   "id": "GSV3700D/8/0118",
   "kind": "msg",
   "jp": "「桃太郎よ！\n　石川六右衛門なる　者に\n　気を　つけるのだぞ！」{KP}\n　\n「あやつには　人間にない\n　気を　感じるぞ！」\n　",
-  "en": ""
+  "en": "\"Momotaro! Beware of a man called Ishikawa Rokuemon!\"{KP}\"I sense in him a power no human has!\""
  },
  {
   "id": "GSV3700D/8/01AA",
   "kind": "msg",
   "jp": "桃太郎は　４枚ある\n書物の切れはしを　合わせた！\n　{KP}\nそれは　{bb}はかい神の復活書{ww}に\nなった！\n　",
-  "en": ""
+  "en": "Momotaro put the four torn pages together!{KP}They became the {bb}Revival Book of the God of Destruction{ww}!"
  },
  {
   "id": "GSV3700D/8/0232",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}はかい神の復活書{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Revival Book of the God of Destruction{ww}!{KN}"
  },
  {
   "id": "GSV3700D/8/0288",
   "kind": "msg",
   "jp": "「おお　桃太郎よ！\n　ゆうぎ仙人には　もう\n　なれたかの？」",
-  "en": ""
+  "en": "\"Oh, Momotaro! Have you become the Game Hermit yet?\""
  },
  {
   "id": "GSV3700D/9/0010",
   "kind": "msg",
   "jp": "「桃太郎よ！\n　柿太郎を　改心させておくれ！」\n　",
-  "en": ""
+  "en": "\"Momotaro! Please make Kakitaro mend his ways!\""
  },
  {
   "id": "GSV3700D/9/0066",
   "kind": "msg",
   "jp": "「ごめんよ　お地蔵さん！」\n　\n　",
-  "en": ""
+  "en": "\"Sorry, Jizo-san!\""
  },
  {
   "id": "GSV3700D/9/0098",
   "kind": "msg",
   "jp": "「にいちゃんは　心を\n　入れかえたので\n　ゆるして　おクリ！」",
-  "en": ""
+  "en": "\"Big bro has turned over a new leaf, so please forgive him, kuri!\""
  },
  {
   "id": "GSV3700D/9/00E8",
   "kind": "msg",
   "jp": "「桃太郎よ！\n　旅は　順調か？」\n　",
-  "en": ""
+  "en": "\"Momotaro! Is your journey going well?\""
  },
  {
   "id": "GSV3700D/10/0002",
   "kind": "msg",
   "jp": "「この先には　{bb}兄弟の洞窟{ww}\n　{bb}あぶくま洞{ww}　{bb}鬼の洞窟{ww}と\n　３つの洞窟が　あるぞ！」",
-  "en": ""
+  "en": "\"Up ahead are three caves: {bb}Brothers' Cave{ww}, {bb}Abukuma Cave{ww} and {bb}Oni Cave{ww}!\""
  },
  {
   "id": "GSV3700D/11/0010",
   "kind": "msg",
   "jp": "「おお　桃太郎よ！\n　こんな物が　飛んできおったぞ！\n　そなたに　わたしておこう！」",
-  "en": ""
+  "en": "\"Oh, Momotaro! This thing came flying my way! I'll hand it over to you!\""
  },
  {
   "id": "GSV3700D/11/0074",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}書物の切れはし４{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got {bb}Torn Page 4{ww}!{KN}"
  },
  {
   "id": "GSV3700D/11/0110",
   "kind": "msg",
   "jp": "「おお　桃太郎よ！\n　ゆうぎ仙人には　もう\n　なれたかの？」",
-  "en": ""
+  "en": "\"Oh, Momotaro! Have you become the Game Hermit yet?\""
  },
  {
   "id": "GSV3700D/11/015E",
   "kind": "msg",
   "jp": "桃太郎は　４枚ある\n書物の切れはしを　合わせた！\n　{KP}\nそれは　{bb}はかい神の復活書{ww}に\nなった！\n　",
-  "en": ""
+  "en": "Momotaro put the four torn pages together!{KP}They became the {bb}Revival Book of the God of Destruction{ww}!"
  },
  {
   "id": "GSV3700D/11/01E6",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}はかい神の復活書{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Revival Book of the God of Destruction{ww}!{KN}"
  },
  {
   "id": "GSV3700D/12/0018",
   "kind": "msg",
   "jp": "「ぺぺぺッ　柿太郎め！\n　こんな　しぶ柿を　ぶつけおって！」\n　",
-  "en": ""
+  "en": "\"Ptoo, ptoo! That Kakitaro! Pelting me with such bitter persimmons!\""
  },
  {
   "id": "GSV3700D/12/007E",
@@ -249,198 +249,198 @@
   "id": "GSV3700D/12/00AE",
   "kind": "msg",
   "jp": "「おおお　さっぱりしたぞ\n　ありがとうよ　桃太郎！」\n　",
-  "en": ""
+  "en": "\"Ohhh, that's refreshing! Thank you kindly, Momotaro!\""
  },
  {
   "id": "GSV3700D/12/010A",
   "kind": "msg",
   "jp": "「ごめんよ　お地蔵さん！」\n　\n　",
-  "en": ""
+  "en": "\"Sorry, Jizo-san!\""
  },
  {
   "id": "GSV3700D/12/013C",
   "kind": "msg",
   "jp": "「にいちゃんは　心を\n　入れかえたので\n　ゆるして　おクリ！」",
-  "en": ""
+  "en": "\"Big bro has turned over a new leaf, so please forgive him, kuri!\""
  },
  {
   "id": "GSV3700D/13/0002",
   "kind": "msg",
   "jp": "「ここから　東に　行けば\n　{bb}兄弟の洞窟{ww}じゃ！」\n　",
-  "en": ""
+  "en": "\"Go east from here and you'll reach {bb}Brothers' Cave{ww}!\""
  },
  {
   "id": "GSV3700D/14/003A",
   "kind": "msg",
   "jp": "「おお　ごくろう　桃太郎よ！\n　みな　喜んでおる！」\n　{KP}\n「お礼に　この　{bb}方言カード{ww}を\n　授けよう！」\n　",
-  "en": ""
+  "en": "\"Oh, well done, Momotaro! Everyone is delighted!\"{KP}\"As thanks, I shall grant you this {bb}Dialect Card{ww}!\""
  },
  {
   "id": "GSV3700D/14/00BE",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０３２{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 032{ww}!{KN}"
  },
  {
   "id": "GSV3700D/14/0112",
   "kind": "msg",
   "jp": "「おお　桃太郎よ！\n　気をつけて　旅を　するのだぞ！」\n　",
-  "en": ""
+  "en": "\"Oh, Momotaro! Take care on your journey!\""
  },
  {
   "id": "GSV3700D/14/015E",
   "kind": "msg",
   "jp": "「おお　桃太郎よ！\n　よく　来てくれた！」\n　{KP}\n「実は　頼みが　あるのじゃ！」\n　\n　{KP}\n「この近くの　兄弟の洞窟に\n　住む　柿太郎が　ここに　来た時」\n　{KP}\n「みなで　いたずらを　せぬようにと\n　話したのだが　反対に　柿を\n　投げつけて来てな」{KP}\n　\n「何人かの　地蔵の　顔が\n　柿だらけに　なってしもうたのだ！」\n　{KP}\n「桃太郎よ！\n　２番目と　６番目と　１１番目の\n　地蔵の　顔を」{KP}\n　\n「きれいに　ふいて\n　やってはくれんかの！」\n　",
-  "en": ""
+  "en": "\"Oh, Momotaro! You've come at last!\"{KP}\"The truth is, I have a favor to ask!\"{KP}\"When Kakitaro, who lives in Brothers' Cave nearby, came by here,\"{KP}\"we all told him not to make mischief, but instead he started pelting us with persimmons,\"{KP}\"and several of us Jizo ended up with faces covered in persimmon!\"{KP}\"Momotaro! Would you wipe the faces of the 2nd, 6th and 11th Jizo\"{KP}\"nice and clean for us?\""
  },
  {
   "id": "GSV3700D/15/0020",
   "kind": "msg",
   "jp": "「ホッホッホッ～\n　わしは　{bb}北の福の神{ww}ぢゃ！」\n　{KP}\n「心がけのよい　桃太郎に\n　ほうびを　やろう！」\n　{KP}\n「ほうびは　{bb}にんそうがき{ww}で\n　よいかのォ？」\n　{KN}",
-  "en": ""
+  "en": "\"Ho ho ho! I am the {bb}God of Fortune of the North{ww}!\"{KP}\"I shall give a reward to Momotaro, who has such a good heart!\"{KP}\"Will a {bb}Wanted Poster{ww} do for your reward?\"{KN}"
  },
  {
   "id": "GSV3700D/15/00EE",
   "kind": "msg",
   "jp": "「では　{bb}にんそうがき{ww}を\n　あげよう！」\n　",
-  "en": ""
+  "en": "\"Then I shall give you a {bb}Wanted Poster{ww}!\""
  },
  {
   "id": "GSV3700D/15/012C",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}にんそうがき{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got a {bb}Wanted Poster{ww}!{KN}"
  },
  {
   "id": "GSV3700D/15/017E",
   "kind": "msg",
   "jp": "「ん～　そうか…　では\n　ほうびは　{bb}おによせのふだ{ww}で\n　よいかのォ？」{KN}",
-  "en": ""
+  "en": "\"Hmm, I see... Then will an {bb}Oni Lure Charm{ww} do for your reward?\"{KN}"
  },
  {
   "id": "GSV3700D/15/01E8",
   "kind": "msg",
   "jp": "　\n「では　{bb}おによせのふだ{ww}を\n　あげよう！」\n　",
-  "en": ""
+  "en": "\"Then I shall give you an {bb}Oni Lure Charm{ww}!\""
  },
  {
   "id": "GSV3700D/15/022E",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}おによせのふだ{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got an {bb}Oni Lure Charm{ww}!{KN}"
  },
  {
   "id": "GSV3700D/15/0282",
   "kind": "msg",
   "jp": "　\n「むむむ…　では\n　ほうびは　{bb}マツタケ{ww}で\n　よいかのォ～？」{KN}",
-  "en": ""
+  "en": "\"Mmmm... Then will a {bb}Matsutake{ww} do for your reward?\"{KN}"
  },
  {
   "id": "GSV3700D/15/02E8",
   "kind": "msg",
   "jp": "　\n「では　{bb}マツタケ{ww}を\n　あげよう！」\n　",
-  "en": ""
+  "en": "\"Then I shall give you a {bb}Matsutake{ww}!\""
  },
  {
   "id": "GSV3700D/15/0328",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}マツタケ{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got a {bb}Matsutake{ww}!{KN}"
  },
  {
   "id": "GSV3700D/15/0376",
   "kind": "msg",
   "jp": "　\n「ホッホッホッ～　桃太郎よ\n　わがままに　なったのォ～」\n　{KP}\n「バツとして　ほうびは\n　なしじゃ！」\n　",
-  "en": ""
+  "en": "\"Ho ho ho! Momotaro, you've grown rather greedy!\"{KP}\"As punishment, no reward for you!\""
  },
  {
   "id": "GSV3700D/15/0404",
   "kind": "msg",
   "jp": "「ホッホッホッ～\n　わしは　{bb}北の福の神{ww}ぢゃ！」\n　{KP}\n「心がけのよい　桃太郎に\n　ほうびを　やろう！」\n　{KP}\n「ほうびは　{bb}マツタケ{ww}で\n　よいかのォ？」\n　{KN}",
-  "en": ""
+  "en": "\"Ho ho ho! I am the {bb}God of Fortune of the North{ww}!\"{KP}\"I shall give a reward to Momotaro, who has such a good heart!\"{KP}\"Will a {bb}Matsutake{ww} do for your reward?\"{KN}"
  },
  {
   "id": "GSV3700D/15/04CE",
   "kind": "msg",
   "jp": "「では　{bb}マツタケ{ww}を\n　あげよう！」\n　",
-  "en": ""
+  "en": "\"Then I shall give you a {bb}Matsutake{ww}!\""
  },
  {
   "id": "GSV3700D/15/0508",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}マツタケ{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got a {bb}Matsutake{ww}!{KN}"
  },
  {
   "id": "GSV3700D/15/0556",
   "kind": "msg",
   "jp": "「ん～　そうか…　では\n　ほうびは　{bb}にんそうがき{ww}で\n　よいかのォ？」{KN}",
-  "en": ""
+  "en": "\"Hmm, I see... Then will a {bb}Wanted Poster{ww} do for your reward?\"{KN}"
  },
  {
   "id": "GSV3700D/15/05BE",
   "kind": "msg",
   "jp": "　\n「では　{bb}にんそうがき{ww}を\n　あげよう！」\n　",
-  "en": ""
+  "en": "\"Then I shall give you a {bb}Wanted Poster{ww}!\""
  },
  {
   "id": "GSV3700D/15/0602",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}にんそうがき{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got a {bb}Wanted Poster{ww}!{KN}"
  },
  {
   "id": "GSV3700D/15/0654",
   "kind": "msg",
   "jp": "　\n「むむむ…　では\n　ほうびは　{bb}おによせのふだ{ww}\n　よいかのォ～？」{KN}",
-  "en": ""
+  "en": "\"Mmmm... Then will an {bb}Oni Lure Charm{ww} do for your reward?\"{KN}"
  },
  {
   "id": "GSV3700D/15/06BE",
   "kind": "msg",
   "jp": "　\n「では　{bb}おによせのふだ{ww}を\n　あげよう！」\n　",
-  "en": ""
+  "en": "\"Then I shall give you an {bb}Oni Lure Charm{ww}!\""
  },
  {
   "id": "GSV3700D/15/0704",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}おによせのふだ{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got an {bb}Oni Lure Charm{ww}!{KN}"
  },
  {
   "id": "GSV3700D/15/0758",
   "kind": "msg",
   "jp": "　\n「ホッホッホッ～　桃太郎よ\n　わがままに　なったのォ～」\n　{KP}\n「バツとして　ほうびは\n　なしじゃ！」\n　",
-  "en": ""
+  "en": "\"Ho ho ho! Momotaro, you've grown rather greedy!\"{KP}\"As punishment, no reward for you!\""
  },
  {
   "id": "GSV3700D/15/07DE",
   "kind": "msg",
   "jp": "「では　さらばぢゃ！\n　ホッホッホッ～」\n　",
-  "en": ""
+  "en": "\"Then farewell! Ho ho ho!\""
  },
  {
   "id": "GSV3700D/15/0822",
   "kind": "msg",
   "jp": "「ホッホッホッ～\n　わしは　{bb}北の福の神{ww}ぢゃ！」\n　{KP}\n「心がけのよい　桃太郎に\n　ほうびを　やろう！」\n　{KP}\n「おや？　これ以上　物は\n　持てんようぢゃな」\n　{KP}\n「では　またの　機会に　会おう\n　…さらば！」\n　",
-  "en": ""
+  "en": "\"Ho ho ho! I am the {bb}God of Fortune of the North{ww}!\"{KP}\"I shall give a reward to Momotaro, who has such a good heart!\"{KP}\"Oh? It seems you can't carry anything more.\"{KP}\"Then let us meet another time... Farewell!\""
  },
  {
   "id": "GSV3700D/16/0000",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}{MM}{ww}を　ふいた～♪\n　",
-  "en": ""
+  "en": "Momotaro played the {bb}{MM}{ww}!"
  },
  {
   "id": "GSV3700D/16/0194",
   "kind": "msg",
   "jp": "なんと！\n{bb}北の福の神{ww}があらわれた！\n　",
-  "en": ""
+  "en": "Well, what do you know! The {bb}God of Fortune of the North{ww} appeared!"
  },
  {
   "id": "GSV3700D/16/01D0",
   "kind": "msg",
   "jp": "しかし\nなにも　おこらなかった！\n　",
-  "en": ""
+  "en": "But nothing happened!"
  }
 ]

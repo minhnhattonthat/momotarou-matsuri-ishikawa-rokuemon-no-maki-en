@@ -3,7 +3,7 @@
   "id": "GSF0700D/3/0020",
   "kind": "msg",
   "jp": "「いたたたっ！\n　あっ！　桃太郎さん！」\n　{KP}\n「鬼面党に　みやげ物を\n　盗まれたので　ここまで\n　追って来たのですが」{KP}\n　\n「やつら　爆薬を\n　使いやがったので\n　このありさまです！」{KP}\n　\n「何日　ここに　いたのやら…\n　いたたたっ！」\n　",
-  "en": ""
+  "en": "\"Ow-ow-ow! Ah! Momotaro-san!\"{KP}\"The Oni Mask Gang stole my souvenir, so I chased them all the way here,\"{KP}\"but those rascals used explosives, and this is what happened to me!\"{KP}\"How many days have I been stuck here... Ow-ow-ow!\""
  },
  {
   "id": "GSF0700D/3/0138",
@@ -15,25 +15,25 @@
   "id": "GSF0700D/3/0172",
   "kind": "msg",
   "jp": "「あっ！　かたじけない\n　これで　歩けるように\n　なりました！」",
-  "en": ""
+  "en": "\"Ah! Much obliged! Now I can walk again!\""
  },
  {
   "id": "GSF0700D/3/0270",
   "kind": "msg",
   "jp": "「そうだ！　まだ　名のって\n　いませんでしたね！」\n　{KP}\n「あっしは　旅立ちの村の\n　{bb}忠三郎{ww}と　申します！」\n　{KP}\n「……では　あっしは\n　これで　失礼します！」\n　{KP}\n「早く　鬼面党を\n　さがし出して　みやげ物を\n　取り返さなくては！」",
-  "en": ""
+  "en": "\"Oh, right! I haven't introduced myself yet!\"{KP}\"The name's {bb}Chuzaburo{ww}, from Tabidachi Village!\"{KP}\"......Well then, I'll be taking my leave!\"{KP}\"I've gotta find the Oni Mask Gang quick and get that souvenir back!\""
  },
  {
   "id": "GSF0700D/3/0386",
   "kind": "msg",
   "jp": "「そうだ！　まだ　名のって\n　いませんでしたね！」\n　{KP}\n「あっしは　旅立ちの村の\n　{bb}忠三郎{ww}と　申します！」\n　{KP}\n「えっ！　あっしの名を\n　ごぞんじで………」\n　{KP}\n「そうですか…　おせんに\n　お会いに　なりましたか！」\n　{KP}\n「あっしも　早く\n　おせんに　会いたいです！」\n　{KP}\n「でも\n　おせんへの　みやげ物を\n　とられるなんて……」{KP}\n　\n「早く　鬼面党を\n　さがし出して　みやげ物を\n　取り返してやる！」",
-  "en": ""
+  "en": "\"Oh, right! I haven't introduced myself yet!\"{KP}\"The name's {bb}Chuzaburo{ww}, from Tabidachi Village!\"{KP}\"Eh?! You know my name already......\"{KP}\"I see... So you've met Osen!\"{KP}\"I can't wait to see Osen again either!\"{KP}\"But to have Osen's souvenir stolen......\"{KP}\"I'll find the Oni Mask Gang quick and get that souvenir back!\""
  },
  {
   "id": "GSF0700D/3/055A",
   "kind": "msg",
   "jp": "「早く　おせんへの　みやげ物を\n　取り返さなくては……」\n　",
-  "en": ""
+  "en": "\"I've gotta get Osen's souvenir back quick......\""
  },
  {
   "id": "GSF0700D/3/05AC",
@@ -45,25 +45,25 @@
   "id": "GSF0700D/3/05DE",
   "kind": "msg",
   "jp": "「桃太郎さん\n　かさねがさね　かたじけない！」\n　{KP}\n「桃太郎さん！　お礼に\n　{bb}方言カード{ww}を　さしあげます」\n　",
-  "en": ""
+  "en": "\"Momotaro-san, I'm much obliged to you yet again!\"{KP}\"Momotaro-san! As thanks, please take this {bb}Dialect Card{ww}.\""
  },
  {
   "id": "GSF0700D/3/0666",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０３０{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 030{ww}!{KN}"
  },
  {
   "id": "GSF0700D/3/06BE",
   "kind": "msg",
   "jp": "「この　みやげ物は\n　いいなずけの　おせんが\n　好きな　{bb}小さな鐘{ww}です！」{KP}\n　\n「なんで　こんな物を\n　やつらは　うばうのか\n　わかりませんねぇ……？」{KP}\n　\n「これで　安心して\n　旅立ちの村に　もどれます！\n　では　失礼します！」",
-  "en": ""
+  "en": "\"This souvenir is a {bb}Little Bell{ww}, which my fiancee Osen loves!\"{KP}\"Why would those rascals steal something like this? Beats me......\"{KP}\"Now I can head back to Tabidachi Village with peace of mind! Well, I'll be off!\""
  },
  {
   "id": "GSF0700D/4/000A",
   "kind": "msg",
   "jp": "この岩の　カベは\n{bb}爆薬{ww}でも　使わないかぎり\n消せないようだ！",
-  "en": ""
+  "en": "It seems this rock wall can't be removed without using {bb}explosives{ww}!"
  },
  {
   "id": "GSF0700D/4/005C",

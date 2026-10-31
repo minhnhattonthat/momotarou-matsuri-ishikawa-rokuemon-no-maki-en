@@ -3,90 +3,90 @@
   "id": "GSS0800D/2/0010",
   "kind": "msg",
   "jp": "「ウヒャヒャ…！　わしは\n　{bb}カード仙人{ww}ぢゃ！」\n　{KP}\n「おや？　{bb}カードアルバム{ww}を\n　持っておらぬ　ようぢゃの！」\n　{KP}\n「旅の　おともに　{bb}カードアルバム{ww}を\n　持ってゆくがよい！　桃太郎！」\n　",
-  "en": ""
+  "en": "\"Uhyahya...! I am the {bb}Card Hermit{ww}!\"{KP}\"Oh? It seems you don't have a {bb}Card Album{ww}!\"{KP}\"Take this {bb}Card Album{ww} along on your travels, Momotaro!\""
  },
  {
   "id": "GSS0800D/2/0100",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}カードアルバム{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Card Album{ww}!{KN}"
  },
  {
   "id": "GSS0800D/2/0142",
   "kind": "msg",
   "jp": "「この　{bb}カードアルバム{ww}には　流行りの\n　{bb}方言カード{ww}を　入れるのぢゃ！」\n　{KP}\n「全部で　{bb}１００枚{ww}も　あるんぢゃ！\n　集めがいが　あろう！」\n　{KP}\n「{bb}だいじなもの{ww}コマンドで\n　{bb}カードアルバム{ww}を　使うのぢゃ！」\n　{KP}\n「{bb}方言カード{ww}を\n　見ることが　できるぞ！」\n　{KP}\n「ステータスからも\n　{bb}方言カードの絵{ww}を」\n　{KP}\n「見ることが　できるがの～\n　ウヒャヒャ…」\n　{KP}\n「これからも　いろんな村で\n　{bb}方言カード{ww}を　もらうことに\n　なるぢゃろう！」{KP}\n　\n「そうしたら　その　{bb}カードアルバム{ww}に\n　しまうがよい！」\n　",
-  "en": ""
+  "en": "\"This {bb}Card Album{ww} is for the {bb}Dialect Cards{ww} that are all the rage!\"{KP}\"There are {bb}100 cards{ww} in all! Collecting them will be well worth it!\"{KP}\"Use the {bb}Card Album{ww} with the {bb}Key Items{ww} command!\"{KP}\"You can look at your {bb}Dialect Cards{ww}!\"{KP}\"And from Status, the {bb}Dialect Card pictures{ww}\"{KP}\"can be viewed too, you know~ Uhyahya...\"{KP}\"From now on, you'll be getting {bb}Dialect Cards{ww} in all sorts of villages!\"{KP}\"When you do, keep them in that {bb}Card Album{ww}!\""
  },
  {
   "id": "GSS0800D/2/0426",
   "kind": "msg",
   "jp": "「どうぢゃ？　桃太郎！\n　{bb}方言カード{ww}は　集まったか？」\n　{KP}\n「ほうほう　りっぱなもんぢゃ！\n　１０枚も　集めたのか？」\n　{KP}\n「ひとまず　１０枚集まった　記念に\n　{bb}ゆうぎのまさかり{ww}を　しんぜよう！」\n　",
-  "en": ""
+  "en": "\"Well, Momotaro? Have you collected some {bb}Dialect Cards{ww}?\"{KP}\"My, my, how splendid! You've collected 10 of them?\"{KP}\"To celebrate your first 10, I present you with the {bb}Game Axe{ww}!\""
  },
  {
   "id": "GSS0800D/2/0512",
   "kind": "msg",
   "jp": "桃太郎は　\n{bb}ゆうぎのまさかり{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Game Axe{ww}!{KN}"
  },
  {
   "id": "GSS0800D/2/0564",
   "kind": "msg",
   "jp": "「どうぢゃ？　桃太郎！\n　{bb}方言カード{ww}は　集まったか？」\n　{KP}\n「どれどれ　３０枚集まった　記念に\n　{bb}ゆうぎのモリ{ww}を　しんぜよう！」\n　",
-  "en": ""
+  "en": "\"Well, Momotaro? Have you collected some {bb}Dialect Cards{ww}?\"{KP}\"Let's see... To celebrate collecting 30, I present you with the {bb}Game Harpoon{ww}!\""
  },
  {
   "id": "GSS0800D/2/0606",
   "kind": "msg",
   "jp": "桃太郎は　\n{bb}ゆうぎのモリ{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Game Harpoon{ww}!{KN}"
  },
  {
   "id": "GSS0800D/2/0654",
   "kind": "msg",
   "jp": "「どうぢゃ？　桃太郎！\n　{bb}方言カード{ww}は　集まったか？」\n　{KP}\n「ふむふむ　５０枚集まった　記念に\n　{bb}ゆうぎのはごろも{ww}を　しんぜよう！」\n　",
-  "en": ""
+  "en": "\"Well, Momotaro? Have you collected some {bb}Dialect Cards{ww}?\"{KP}\"Hmm, hmm... To celebrate collecting 50, I present you with the {bb}Game Robe{ww}!\""
  },
  {
   "id": "GSS0800D/2/06FA",
   "kind": "msg",
   "jp": "桃太郎は　\n{bb}ゆうぎのはごろも{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Game Robe{ww}!{KN}"
  },
  {
   "id": "GSS0800D/2/074C",
   "kind": "msg",
   "jp": "「どうぢゃ？　桃太郎！\n　{bb}方言カード{ww}は　集まったか？」\n　{KP}\n「よしよし　８０枚集まった　記念に\n　わしの　とっておきの\n　{bb}方言カード{ww}を　しんぜよう！」",
-  "en": ""
+  "en": "\"Well, Momotaro? Have you collected some {bb}Dialect Cards{ww}?\"{KP}\"Good, good... To celebrate collecting 80, I present you with a {bb}Dialect Card{ww} I've been saving for a special occasion!\""
  },
  {
   "id": "GSS0800D/2/0800",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０２８{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 028{ww}!{KN}"
  },
  {
   "id": "GSS0800D/2/0852",
   "kind": "msg",
   "jp": "「これで　記念の　おくり物は\n　おしまいぢゃ！」\n　{KP}\n「あと　もう少しで\n　{bb}方言カード{ww}は　全部ぢゃ！」\n　{KP}\n「がんばるんぢゃぞ！　桃太郎よ！」\n　\n　",
-  "en": ""
+  "en": "\"That's the last of the celebration gifts!\"{KP}\"Just a little more and you'll have all the {bb}Dialect Cards{ww}!\"{KP}\"Keep at it, Momotaro!\""
  },
  {
   "id": "GSS0800D/2/090A",
   "kind": "msg",
   "jp": "「あと　もう少しで\n　{bb}方言カード{ww}は\n　すべて　そろうはずぢゃ！」{KP}\n　\n「がんばるんぢゃぞ！　桃太郎よ！」\n　\n　",
-  "en": ""
+  "en": "\"Just a little more and you should have every last {bb}Dialect Card{ww}!\"{KP}\"Keep at it, Momotaro!\""
  },
  {
   "id": "GSS0800D/2/0998",
   "kind": "msg",
   "jp": "「おお　桃太郎！　さすがぢゃな！\n　すべての　{bb}方言カード{ww}を\n　集めるとは！」{KP}\n　\n「そういう　クソまじめなところが\n　わしは　好きぢゃぞい！」\n　{KP}\n「おめでとう！　桃太郎や！」\n　\n　",
-  "en": ""
+  "en": "\"Oh, Momotaro! Impressive! You collected every single {bb}Dialect Card{ww}!\"{KP}\"I just love that dogged, by-the-book streak of yours!\"{KP}\"Congratulations, Momotaro my boy!\""
  },
  {
   "id": "GSS0800D/2/0A74",
   "kind": "msg",
   "jp": "「どうぢゃ？　桃太郎！\n　{bb}方言カード{ww}は　集まったか？」\n　",
-  "en": ""
+  "en": "\"Well, Momotaro? Have you collected some {bb}Dialect Cards{ww}?\""
  }
 ]

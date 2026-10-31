@@ -3,30 +3,30 @@
   "id": "GSV3007D/2/0002",
   "kind": "msg",
   "jp": "「ほんに　暗くては　畑仕事も\n　できないのォ！」\n　",
-  "en": ""
+  "en": "\"Goodness, when it's this dark, you can't even work the fields, eh!\""
  },
  {
   "id": "GSV3007D/3/0020",
   "kind": "msg",
   "jp": "「ほんに　暗くては　おもてにも\n　よう　出れんのォ！」\n　",
-  "en": ""
+  "en": "\"Goodness, when it's this dark, I can hardly even step outside, eh!\""
  },
  {
   "id": "GSV3007D/3/006E",
   "kind": "msg",
   "jp": "「お若いの　ありがとうよ！\n　おじいさんも　ようやく\n　畑に　出て　働いているでのォ！」{KP}\n　\n「お礼に　この里でしか\n　とれない　{bb}シイタケ{ww}を\n　さしあげるでのォ！」",
-  "en": ""
+  "en": "\"Thank you, youngster! My old man is finally out working in the fields again, eh!\"{KP}\"As thanks, let me give you some {bb}Shiitake{ww} you can only get in this village!\""
  },
  {
   "id": "GSV3007D/3/012E",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}シイタケ{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Shiitake{ww}!{KN}"
  },
  {
   "id": "GSV3007D/3/0174",
   "kind": "msg",
   "jp": "「お若いの　ありがとうよ！\n　おじいさんは　元気に\n　畑で　働いているでのォ！」",
-  "en": ""
+  "en": "\"Thank you, youngster! My old man is working away in the fields, full of energy!\""
  }
 ]

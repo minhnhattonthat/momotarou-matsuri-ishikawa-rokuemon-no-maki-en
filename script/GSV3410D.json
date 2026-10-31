@@ -3,13 +3,13 @@
   "id": "GSV3410D/2/0020",
   "kind": "msg",
   "jp": "「キャッ　キャッツ！」\n　\n　",
-  "en": ""
+  "en": "\"Eek, eeek!\""
  },
  {
   "id": "GSV3410D/2/0058",
   "kind": "msg",
   "jp": "「なんだ　おまえは！\n　……何の用なんだキャッ\n　倉庫あらしを　やめろだってキャッ」{KP}\n　\n「勝手なことを　言うなキャッ！\n　オレたちの　生活が\n　かかっているんだキャッ！」{KP}\n　\n「やめてほしいのなら\n　オレたちの　好物　{bb}よこずな弁当{ww}を\n　持ってくるだキャッ！」{KP}\n　\n「人間の家から　はいしゃくして\n　食べたことが　あるんだキャッ\n　あの味が　忘れられないんだキャッ」{KP}\n　\n「材料は　{bb}おこのみやき　やきいも\n　{bb}チョコバナナ　サンマ{ww}に\n　{bb}だいこん{ww}だキャッ！」{KP}\n　\n「倉庫あらしを　やめてほしけりゃ\n　早く　{bb}よこずな弁当{ww}を\n　持ってくるだキャッ！」",
-  "en": ""
+  "en": "\"Who're you?! ...What do you want, eek? Quit raiding the storehouse, you say, eek?\"{KP}\"Don't go telling us what to do, eek! Our whole livelihood's at stake, eek!\"{KP}\"If you want us to quit, bring us our favorite, a {bb}Yokozuna Bento{ww}, eek!\"{KP}\"We 'borrowed' one from a human's house once and ate it, eek. We can't forget that taste, eek!\"{KP}\"The ingredients are {bb}okonomiyaki, roast sweet potato, {bb}chocolate banana, saury{ww} and {bb}daikon{ww}, eek!\"{KP}\"If you want us to quit raiding the storehouse, hurry up and bring us a {bb}Yokozuna Bento{ww}, eek!\""
  },
  {
   "id": "GSV3410D/2/02CE",
@@ -21,24 +21,24 @@
   "id": "GSV3410D/2/0316",
   "kind": "msg",
   "jp": "「キャッ　キャッツ！」\n　\n　{KP}\n言葉が通じないようだ！！\n　\n　",
-  "en": ""
+  "en": "\"Eek, eeek!\"{KP}Looks like he can't understand a word!!"
  },
  {
   "id": "GSV3410D/2/03EE",
   "kind": "msg",
   "jp": "「おお！　持ってきたキャッ！\n　おいしそうだキャッ！」\n　{KP}\n「よし！　おまえに　めんじて\n　倉庫あらしを　やめてやるキャッ！」\n　{KP}\n「おい　行くぞ！　サル次郎！\n　ウッキーッ！」\n　",
-  "en": ""
+  "en": "\"Whoa! You brought it, eek! Looks tasty, eek!\"{KP}\"All right! For your sake, we'll quit raiding the storehouse, eek!\"{KP}\"Hey, let's go, Sarujiro! Ookiii!\""
  },
  {
   "id": "GSV3410D/3/0018",
   "kind": "msg",
   "jp": "「キャッ　キャッツ！」\n　\n　",
-  "en": ""
+  "en": "\"Eek, eeek!\""
  },
  {
   "id": "GSV3410D/3/0050",
   "kind": "msg",
   "jp": "「オレッチは　サル次郎だキャッ！\n　オレッチは　サル太郎兄ちゃんの\n　言うことしか　聞かないだキャッ」",
-  "en": ""
+  "en": "\"Me, I'm Sarujiro, eek! Me, I only listen to what my big bro Sarutaro says, eek!\""
  }
 ]

@@ -15,13 +15,13 @@
   "id": "GSV3000D/11/0018",
   "kind": "msg",
   "jp": "「これは　これは　桃太郎さん！\n　わたしは　{bb}大としの火{ww}を\n　管理している者です！」",
-  "en": ""
+  "en": "\"Well, well, Momotaro-san! I am the keeper of the {bb}Year's End Fire{ww}!\""
  },
  {
   "id": "GSV3000D/11/0080",
   "kind": "msg",
   "jp": "「どうも　桃太郎さん！\n　わたしは　{bb}大としの火{ww}を\n　管理している者です！」{KP}\n　\n「{bb}大としの火{ww}を\n　手に入れたいのなら\n　試練の　ゆうぎ」{KP}\n　\n「{bb}ゆらゆらローソク！{ww}を\n　クリアしなければ\n　いけませんよ！」{KP}\n　\n「{bb}ゆらゆらローソク！{ww}に\n　ちょうせんしますか？」\n　{KN}",
-  "en": ""
+  "en": "\"Greetings, Momotaro-san! I am the keeper of the {bb}Year's End Fire{ww}!\"{KP}\"If you want the {bb}Year's End Fire{ww}, you must clear the trial game\"{KP}\"{bb}Wobbly Candle!{ww}\"{KP}\"Will you take on {bb}Wobbly Candle!{ww}?\"{KN}"
  },
  {
   "id": "GSV3000D/11/01D2",
@@ -33,84 +33,84 @@
   "id": "GSV3000D/11/0212",
   "kind": "msg",
   "jp": "「では\n　がんばってください！」\n　",
-  "en": ""
+  "en": "\"Then do your best!\""
  },
  {
   "id": "GSV3000D/11/032C",
   "kind": "msg",
   "jp": "「桃太郎さんも\n　うわさほどでは　ないですね」\n　",
-  "en": ""
+  "en": "\"Momotaro-san, you're not as good as they say.\""
  },
  {
   "id": "GSV3000D/11/03C2",
   "kind": "msg",
   "jp": "「さすが　桃太郎さん\n　でも　{bb}大としの火{ww}は\n　もう　必要ないのですね！」{KP}\n　\n「それでは　記念品として\n　これを　さしあげましょう！」\n　",
-  "en": ""
+  "en": "\"Well done, Momotaro-san! But you don't need the {bb}Year's End Fire{ww} anymore, do you!\"{KP}\"Then please accept this as a memento!\""
  },
  {
   "id": "GSV3000D/11/0468",
   "kind": "msg",
   "jp": "桃太郎は　\n{bb}なすび{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Eggplant{ww}!{KN}"
  },
  {
   "id": "GSV3000D/11/04AC",
   "kind": "msg",
   "jp": "「残念でした\n　また　どうぞ！」\n　",
-  "en": ""
+  "en": "\"Too bad! Please try again!\""
  },
  {
   "id": "GSV3000D/11/04F4",
   "kind": "msg",
   "jp": "「さすが　桃太郎さん！\n　それでは　{bb}大としの火{ww}を\n　おわけします！」{KP}\n　\n「えっ？　この里で　使うのですね！\n　それでは　{bb}大としの火{ww}を\n　おつけしましょう！」",
-  "en": ""
+  "en": "\"Well done, Momotaro-san! Then I'll share the {bb}Year's End Fire{ww} with you!\"{KP}\"What? You'll use it in this village! Then let me light the {bb}Year's End Fire{ww} for you!\""
  },
  {
   "id": "GSV3000D/11/0630",
   "kind": "msg",
   "jp": "「桃太郎さんでも\n　クリアできませんか…」\n　{KP}\n「わかりました！\n　特別に　{bb}大としの火{ww}を\n　おわけしましょう！」{KP}\n　\n「えっ？　この里で　使うのですね！\n　それでは　{bb}大としの火{ww}を\n　おつけしましょう！」",
-  "en": ""
+  "en": "\"So even you can't clear it, Momotaro-san...\"{KP}\"Very well! As a special favor, I'll share the {bb}Year's End Fire{ww} with you!\"{KP}\"What? You'll use it in this village! Then let me light the {bb}Year's End Fire{ww} for you!\""
  },
  {
   "id": "GSV3000D/11/075E",
   "kind": "msg",
   "jp": "「残念でした！\n　また　ちょうせんして　ください！」\n　",
-  "en": ""
+  "en": "\"Too bad! Please try again!\""
  },
  {
   "id": "GSV3000D/12/0002",
   "kind": "msg",
   "jp": "「ありがとう　お若いの！\n　おかげで　畑仕事も　でき」\n　{KP}\n「八百屋さんに\n　キノコを　おさめることが\n　できるように　なったでのォ！」",
-  "en": ""
+  "en": "\"Thank you, youngster! Thanks to you, I can work the fields again,\"{KP}\"and I can deliver mushrooms to the greengrocer again, eh!\""
  },
  {
   "id": "GSV3000D/13/0002",
   "kind": "msg",
   "jp": "「いいかの　お若いの！\n　{bb}ゆらゆらローソク！{ww}に\n　ちょうせん　する時は」{KP}\n　\n「あわてず　落ちついて\n　進むことを　心がけるのじゃ！」\n　",
-  "en": ""
+  "en": "\"Listen here, youngster! When you take on {bb}Wobbly Candle!{ww},\"{KP}\"be sure not to rush. Stay calm and keep moving forward!\""
  },
  {
   "id": "GSV3000D/14/0012",
   "kind": "msg",
   "jp": "「暗いと　こまるのォ！\n　………そういえば」\n　{KP}\n「{bb}大としの火{ww}が　消えた時\n　カキーッという　きみょうな\n　さけび声を　聞いたのォ！」",
-  "en": ""
+  "en": "\"It's no good when it's dark, eh! ......Come to think of it,\"{KP}\"when the {bb}Year's End Fire{ww} went out, I heard a strange cry, like 'Kakiii!'\""
  },
  {
   "id": "GSV3000D/14/00B6",
   "kind": "msg",
   "jp": "「さすが　{bb}大としの火{ww}が　ともると\n　心が　落ちつくのォ～」\n　",
-  "en": ""
+  "en": "\"Ahh, with the {bb}Year's End Fire{ww} lit, my heart feels at peace, eh...\""
  },
  {
   "id": "GSV3000D/15/0002",
   "kind": "msg",
   "jp": "「その昔　鬼が　あばれていた頃\n　村を　おそわれた　わしら　一族は\n　村を　すてて　にげたんじゃ！」{KP}\n　\n「そして　こげな場所に\n　たどりつき　{bb}大としの火{ww}を\n　手に入れたので」{KP}\n　\n「ここに　里を　つくったのじゃ！\n　………そう　あれから\n　何年　たったかのォ～」",
-  "en": ""
+  "en": "\"Long ago, when the oni ran wild, our clan's village was attacked, and we abandoned it and fled!\"{KP}\"Then we came to a place like this, and since we got hold of the {bb}Year's End Fire{ww},\"{KP}\"we built our village here! ......Ah, how many years has it been since then, eh...\""
  },
  {
   "id": "GSV3000D/16/0002",
   "kind": "msg",
   "jp": "「よく来たな！\n　ここは　隠れ里じゃ！」\n　{KP}\n「ここは　お年寄りしか\n　おらん　里じゃ！」\n　",
-  "en": ""
+  "en": "\"Welcome! This is the Hidden Village!\"{KP}\"Only old folks live in this village!\""
  }
 ]

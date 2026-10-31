@@ -3,60 +3,60 @@
   "id": "M370D/8/0002",
   "kind": "msg",
   "jp": "ゲームを　続けますか？\n　{KN}",
-  "en": ""
+  "en": "Continue the game?{KN}"
  },
  {
   "id": "M370D/9/000A",
   "kind": "msg",
   "jp": "とんとん相撲の　遊び方\n　{KP}\n昔なつかしい　とんとん相撲です！\n　{KP}\n○ボタンと　×ボタンで\n交互に　土俵を　たたいてください！{KP}\n紙のお相撲さん　桃太郎が\nどすこい！と　前進します！{KP}\nでも　同じボタンを　続けると\n勇み足で　たおれてしまいます！{KP}\n制限時間は　３０秒！\n引き分けなしで　勝ってください！{KP}\n「桃太郎！　勝負だど！」\n　",
-  "en": ""
+  "en": "How to Play Tap-Tap Sumo{KP}It's good old-fashioned tap-tap sumo!{KP}Tap the ring with the Circle and X buttons, one after the other!{KP}Momotaro, the paper sumo wrestler, pushes forward with a \"Dosukoi!\"{KP}But if you keep pressing the same button, he'll overstep and fall over!{KP}The time limit is 30 seconds! No draws, so go for the win!{KP}\"Momotaro! Let's settle this!\""
  },
  {
   "id": "M370D/9/017A",
   "kind": "msg",
   "jp": "ではゲームスタートです！\n　",
-  "en": ""
+  "en": "Now, game start!"
  },
  {
   "id": "M370D/9/01B0",
   "kind": "msg",
   "jp": "ではゲームを　プレイしますか？\n　{KN}",
-  "en": ""
+  "en": "Would you like to play the game?{KN}"
  },
  {
   "id": "M370D/10/000A",
   "kind": "msg",
   "jp": "とんとん相撲！\n対戦ゲームの　説明です！{KP}\n○ボタンと　×ボタンで\n交互に　土俵を　たたいてください！{KP}\n紙のお相撲さんが\nどすこい！と　前進します！{KP}\nでも　同じボタンを　続けると\n勇み足で　たおれてしまいます！{KP}\n制限時間は　３０秒！\nひたすら　土俵を　たたきましょう！{KP}\n１Ｐが　桃太郎さん\n２Ｐが　金太郎さんです！",
-  "en": ""
+  "en": "Tap-Tap Sumo! Here's how the versus game works!{KP}Tap the ring with the Circle and X buttons, one after the other!{KP}The paper sumo wrestlers push forward with a \"Dosukoi!\"{KP}But if you keep pressing the same button, they'll overstep and fall over!{KP}The time limit is 30 seconds! Just keep tapping that ring!{KP}1P is Momotaro-san, and 2P is Kintaro-san!"
  },
  {
   "id": "M370D/10/0168",
   "kind": "msg",
   "jp": "ではゲームスタートです！\n　",
-  "en": ""
+  "en": "Now, game start!"
  },
  {
   "id": "M370D/10/019E",
   "kind": "msg",
   "jp": "ではゲームを　プレイしますか？\n　{KN}",
-  "en": ""
+  "en": "Would you like to play the game?{KN}"
  },
  {
   "id": "M370D/11/000C",
   "kind": "msg",
   "jp": "初めて勝った　記念として\n{bb}方言カード{ww}が　１枚　もらえます！",
-  "en": ""
+  "en": "As a memento of your first win, you get one {bb}Dialect Card{ww}!"
  },
  {
   "id": "M370D/11/005C",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０２０{ww}を　手に入れた！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 020{ww}!{KP}Keep up the good work!"
  },
  {
   "id": "M370D/12/0002",
   "kind": "msg",
   "jp": "このゲームを\nもう一度　遊びますか？{KN}",
-  "en": ""
+  "en": "Play this game again?{KN}"
  }
 ]

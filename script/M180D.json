@@ -3,228 +3,228 @@
   "id": "M180D/16/0002",
   "kind": "msg",
   "jp": "ゲームを　続けますか？\n　{KN}",
-  "en": ""
+  "en": "Continue the game?{KN}"
  },
  {
   "id": "M180D/17/000A",
   "kind": "msg",
   "jp": "宝さがしゲームの　遊び方\n　{KP}\n家のどこかに　隠された　お金を\n１００両になるまで　探してください！{KP}\n気になるところで　前に立ち\n○ボタンを押して　調べましょう！{KP}\nつづら　おけ　岩　床の間…\nいろんなところに　お金は隠れてます！{KP}\nたまに　イヤ～な人が\n出てくることも　ありますけどね！{KP}\n１００両に　なったら\nスタート地点まで　もどってください！{KP}\n×ボタンを　押しながら　走ると\nスピードアップ！{KP}\nそれでは　あっちに行ったり\nこっちに　行ったり！{KP}\nあわてず　あせらず\n急いでくださいね～！",
-  "en": ""
+  "en": "How to Play the Treasure Hunt Game{KP}Search the house for hidden money until you have 100 ryo!{KP}Stand in front of anything that catches your eye and press the Circle button to check it!{KP}Wicker chests, buckets, rocks, alcoves... money's hidden in all sorts of places!{KP}Though now and then, someone nasty might pop out!{KP}Once you have 100 ryo, go back to the starting point!{KP}Hold the X button while running to speed up!{KP}Now then, go this way, and go that way!{KP}No rushing, no panicking... but hurry uuup!"
  },
  {
   "id": "M180D/17/0220",
   "kind": "msg",
   "jp": "ではゲームスタートです！\n　",
-  "en": ""
+  "en": "Now, game start!"
  },
  {
   "id": "M180D/17/0256",
   "kind": "msg",
   "jp": "ではゲームを　プレイしますか？\n　{KN}",
-  "en": ""
+  "en": "Would you like to play the game?{KN}"
  },
  {
   "id": "M180D/18/0046",
   "kind": "msg",
   "jp": "今回は{R2}段でした\n　",
-  "en": ""
+  "en": "This time you got level {R2}."
  },
  {
   "id": "M180D/18/006C",
   "kind": "msg",
   "jp": "今回は初段でした\n　",
-  "en": ""
+  "en": "This time you got level 1."
  },
  {
   "id": "M180D/18/0092",
   "kind": "msg",
   "jp": "今回は免許皆伝でした\n　",
-  "en": ""
+  "en": "This time you got Full Mastery."
  },
  {
   "id": "M180D/18/00BC",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n新記録ですよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! It's a new record!!{KP}Keep up the good work!"
  },
  {
   "id": "M180D/18/0134",
   "kind": "msg",
   "jp": "今回は{R2}段でした\n　",
-  "en": ""
+  "en": "This time you got level {R2}."
  },
  {
   "id": "M180D/18/015A",
   "kind": "msg",
   "jp": "今回は初段でした\n　",
-  "en": ""
+  "en": "This time you got level 1."
  },
  {
   "id": "M180D/18/0180",
   "kind": "msg",
   "jp": "今回は免許皆伝でした\n　",
-  "en": ""
+  "en": "This time you got Full Mastery."
  },
  {
   "id": "M180D/18/01BA",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n段位更新ですよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! Your level went up!!{KP}Keep up the good work!"
  },
  {
   "id": "M180D/18/0224",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n初段に　なりましたよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! You reached level 1!!{KP}Keep up the good work!"
  },
  {
   "id": "M180D/18/0294",
   "kind": "msg",
   "jp": "桃太郎さん　おめでとうございます！\n免許皆伝に　なりましたよ！！{KP}\nごほうびとして\n{bb}方言カード{ww}が　１枚　もらえます！",
-  "en": ""
+  "en": "Congratulations, Momotaro-san! You've reached Full Mastery!!{KP}As a reward, you get one {bb}Dialect Card{ww}!"
  },
  {
   "id": "M180D/18/0320",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード００３{ww}を　手に入れた！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 003{ww}!{KP}Keep up the good work!"
  },
  {
   "id": "M180D/19/0046",
   "kind": "msg",
   "jp": "今回は{R2}段でした\n　",
-  "en": ""
+  "en": "This time you got level {R2}."
  },
  {
   "id": "M180D/19/006C",
   "kind": "msg",
   "jp": "今回は初段でした\n　",
-  "en": ""
+  "en": "This time you got level 1."
  },
  {
   "id": "M180D/19/0092",
   "kind": "msg",
   "jp": "今回は免許皆伝でした\n　",
-  "en": ""
+  "en": "This time you got Full Mastery."
  },
  {
   "id": "M180D/19/00BC",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n新記録ですよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! It's a new record!!{KP}Keep up the good work!"
  },
  {
   "id": "M180D/19/0134",
   "kind": "msg",
   "jp": "今回は{R2}段でした\n　",
-  "en": ""
+  "en": "This time you got level {R2}."
  },
  {
   "id": "M180D/19/015A",
   "kind": "msg",
   "jp": "今回は初段でした\n　",
-  "en": ""
+  "en": "This time you got level 1."
  },
  {
   "id": "M180D/19/0180",
   "kind": "msg",
   "jp": "今回は免許皆伝でした\n　",
-  "en": ""
+  "en": "This time you got Full Mastery."
  },
  {
   "id": "M180D/19/01BA",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n段位更新ですよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! Your level went up!!{KP}Keep up the good work!"
  },
  {
   "id": "M180D/19/0224",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n初段に　なりましたよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! You reached level 1!!{KP}Keep up the good work!"
  },
  {
   "id": "M180D/19/0294",
   "kind": "msg",
   "jp": "桃太郎さん　おめでとうございます！\n免許皆伝に　なりましたよ！！{KP}\nごほうびとして\n{bb}方言カード{ww}が　１枚　もらえます！",
-  "en": ""
+  "en": "Congratulations, Momotaro-san! You've reached Full Mastery!!{KP}As a reward, you get one {bb}Dialect Card{ww}!"
  },
  {
   "id": "M180D/19/0320",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０８１{ww}を　手に入れた！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 081{ww}!{KP}Keep up the good work!"
  },
  {
   "id": "M180D/20/0002",
   "kind": "msg",
   "jp": "このゲームを\nもう一度　遊びますか？{KN}",
-  "en": ""
+  "en": "Play this game again?{KN}"
  },
  {
   "id": "M180D/21/0002",
   "kind": "msg",
   "jp": "「それでは　桃太郎さん！\n　がんばってくださいね～！」",
-  "en": ""
+  "en": "\"Now then, Momotaro-san! Do your beeest!\""
  },
  {
   "id": "M180D/22/0002",
   "kind": "msg",
   "jp": "「桃太郎さん！　まだ１００両に\n　なってませんよ～！」{KP}\n「あわてんぼうですね～！\n　もう一度　急いで　急いで！」",
-  "en": ""
+  "en": "\"Momotaro-san! You don't have 100 ryo yeeet!\"{KP}\"What a hasty one you are! Try again, hurry, hurry!\""
  },
  {
   "id": "M180D/23/0002",
   "kind": "msg",
   "jp": "「おめでとうございます！\n　桃太郎さん！　ゴールです！」",
-  "en": ""
+  "en": "\"Congratulations! Momotaro-san! You made it to the goal!\""
  },
  {
   "id": "M180D/24/0002",
   "kind": "msg",
   "jp": "「みに　みに　みにぼんび！\n　おこづかい　ほちいのねん！」",
-  "en": ""
+  "en": "\"Mini, mini, Mini Bombee! I wanna widdle pocket money, nonen!\""
  },
  {
   "id": "M180D/24/0056",
   "kind": "msg",
   "jp": "桃太郎は　ミニボンビーに\n{R0}両　とられてしまった！",
-  "en": ""
+  "en": "Momotaro had {R0} ryo taken by Mini Bombee!"
  },
  {
   "id": "M180D/24/009A",
   "kind": "msg",
   "jp": "桃太郎は　ミニボンビーに\n１０両　とられてしまった！{KP}\n…と思ったら　桃太郎は\nお金を　持っていなかった！{KP}\nよかったんだか　悪かったんだか\nよくわかりませんね！",
-  "en": ""
+  "en": "Momotaro had 10 ryo taken by Mini Bombee!{KP}...Or so it seemed, but Momotaro didn't have any money!{KP}Hard to say whether that's good or bad!"
  },
  {
   "id": "M180D/25/0002",
   "kind": "msg",
   "jp": "「ボンビー！　ボンビー！\n　会いたかったのねん　桃太郎さん！」{KP}\n「たっぷり　お金　\n　ちょ～～～だいなのね～ん！」{KP}\n「ピスピスピス！\n　グラッチェなのねん！」",
-  "en": ""
+  "en": "\"Bombee! Bombee! I missed you so much, Momotaro-san, nonen!\"{KP}\"Gimme lots and lots of moneeey, noneeen!\"{KP}\"Pisu pisu pisu! Grazie, nonen!\""
  },
  {
   "id": "M180D/25/00C2",
   "kind": "msg",
   "jp": "桃太郎は　貧乏神に\n{R0}両　とられてしまった！",
-  "en": ""
+  "en": "Momotaro had {R0} ryo taken by the Poverty God!"
  },
  {
   "id": "M180D/25/0100",
   "kind": "msg",
   "jp": "桃太郎は　貧乏神に\n２０両　とられてしまった！{KP}\n…と思ったら　桃太郎は\nお金を　持っていなかった！{KP}\nよかったんだか　悪かったんだか\nよくわかりませんね！",
-  "en": ""
+  "en": "Momotaro had 20 ryo taken by the Poverty God!{KP}...Or so it seemed, but Momotaro didn't have any money!{KP}Hard to say whether that's good or bad!"
  },
  {
   "id": "M180D/26/0002",
   "kind": "msg",
   "jp": "「ヘイ！　ヘイ！\n　オレだよ！　オレ！　天邪鬼だよ！」{KP}\n「せっかくだから　楽にしてやるぜ！」\n　{KP}\n「方向キーを　逆になっ！\n　ヘイ！　ヘイ！」{KP}\n桃太郎は　ゴールするまで\nキー操作が　逆のままになる！{KP}\nな　なんということだ…！\nオーマイガツの助～！",
-  "en": ""
+  "en": "\"Hey! Hey! It's me! Me! Amanojaku!\"{KP}\"Since we've met, I'll make things nice and easy for ya!\"{KP}\"Directional buttons, go backwards! Hey! Hey!\"{KP}Momotaro's controls stay reversed until he reaches the goal!{KP}Wh-what is this...?! Oh my Gosh-nosuke!"
  },
  {
   "id": "M180D/27/0002",
   "kind": "msg",
   "jp": "「ウヒャヒャ…！\n　わしは　福の神ぢゃ！」{KP}\n「いいところで　会ったの～！」\n　{KP}\n「いつも　村人のために　はたらく\n　桃太郎に　ほうびを　あげるぞ！」{KP}\n「大切に　つかうのぢゃぞ！\n　ウヒャヒャ…！」",
-  "en": ""
+  "en": "\"Uhyahya...! I am the God of Fortune!\"{KP}\"Fancy meeting you here!\"{KP}\"Momotaro, you always work so hard for the villagers, so here's a reward!\"{KP}\"Spend it wisely, now! Uhyahya...!\""
  }
 ]

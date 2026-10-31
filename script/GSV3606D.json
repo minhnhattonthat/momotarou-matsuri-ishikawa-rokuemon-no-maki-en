@@ -9,13 +9,13 @@
   "id": "GSV3606D/0/00CE",
   "kind": "msg",
   "jp": "「桃太郎さん！　そんな所に\n　入っても　誰もいませんよ！」\n　",
-  "en": ""
+  "en": "\"Momotaro-san! There's nobody in there, even if you go in!\""
  },
  {
   "id": "GSV3606D/2/000E",
   "kind": "msg",
   "jp": "「いらっしゃいませ！\n　{bb}カキ氷きーーーん！{ww}が\n　５０両で楽しめます」{KN}",
-  "en": ""
+  "en": "\"Welcome! You can enjoy {bb}Brain Freeze Ice!{ww} for 50 ryo.\"{KN}"
  },
  {
   "id": "GSV3606D/2/00A0",
@@ -39,6 +39,6 @@
   "id": "GSV3606D/3/0002",
   "kind": "msg",
   "jp": "「ここの　ゆうぎは　ひたすら\n　連打　連打　連打　連打だね！」\n　",
-  "en": ""
+  "en": "\"This game is all about mashing, mashing, mashing, mashing!\""
  }
 ]

@@ -3,25 +3,25 @@
   "id": "GSF0901D/4/0026",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　気をつけて　ください！」\n　{KP}\n「下の階にいる　{bb}夜叉・キシボ{ww}は\n　こうふんして　いますから！」\n　{KP}\n「あの　こうふんを　しずめるには\n　{bb}ろっかく仙人{ww}が　持っている\n　{bb}ろっかくの玉{ww}くらいの　いりょくを」{KP}\n　\n「{bb}キシボ{ww}に　当てないと\n　ダメでしょうね！」\n　{KP}\n「もともと　{bb}キシボ{ww}は　やさしい\n　夜叉だったんですけど\n　どうしたのでしょうか？」",
-  "en": ""
+  "en": "\"Momotaro-san! Please be careful!\"{KP}\"{bb}Yasha Kishibo{ww}, on the floor below, is all worked up!\"{KP}\"To calm her down, you'd need something as powerful as the {bb}Hexagon Orb{ww} that the {bb}Hexagon Hermit{ww} has,\"{KP}\"and you'd have to hit {bb}Kishibo{ww} with it!\"{KP}\"{bb}Kishibo{ww} used to be a gentle yasha, though. I wonder what happened to her?\""
  },
  {
   "id": "GSF0901D/4/01CE",
   "kind": "msg",
   "jp": "「やりましたね　桃太郎さん！\n　夜叉・キシボも　{bb}鬼子母神{ww}と\n　改名して」{KP}\n　\n「子守所を　開いて\n　子どもたちの　面倒を\n　見ているようですよ！」",
-  "en": ""
+  "en": "\"You did it, Momotaro-san! Yasha Kishibo has changed her name to {bb}Kishibojin{ww},\"{KP}\"opened a nursery, and is looking after the children, it seems!\""
  },
  {
   "id": "GSF0901D/5/0018",
   "kind": "msg",
   "jp": "「あっ　桃太郎だっち！」\n　\n　{KP}\n「ちょ　ちょっと　待つっち！\n　勝負は　もうしないっち！」\n　{KP}\n「オイラは　鬼面党を　ぬけ出して\n　来たっち！」\n　{KP}\n「六右衛門さまが　こわくなったっち！」\n　\n　{KP}\n「六右衛門さまは　本当に　はかい神を\n　復活させようと　しているっち！」\n　{KP}\n「えっ？　くわしく　教えて\n　くれろっちと　言われても…」\n　{KP}\n「ここに　来る　途中\n　六右衛門さまが　やぶりすてた」\n　{KP}\n「{bb}はかい神の復活書{ww}でも\n　あれば　説明できるっち！」\n　",
-  "en": ""
+  "en": "\"Ah, it's Momotaro, chi!\"{KP}\"W-wait a sec, chi! I'm not fighting anymore, chi!\"{KP}\"I ran away from the Oni Mask Gang, chi!\"{KP}\"Rokuemon-sama got too scary, chi!\"{KP}\"Rokuemon-sama really is trying to revive the God of Destruction, chi!\"{KP}\"Huh? 'Tell me all about it, chi,' you say? Well...\"{KP}\"On the way here, Rokuemon-sama tore up and threw away\"{KP}\"the {bb}Revival Book of the God of Destruction{ww}. If I had that, I could explain, chi!\""
  },
  {
   "id": "GSF0901D/5/0228",
   "kind": "msg",
   "jp": "「えっ？　はかい神の　ことを\n　くわしく　教えて　くれろっちと\n　言われても…」{KP}\n「ここに　来る　途中\n　六右衛門さまが　やぶりすてた\n　{KP}\n「{bb}はかい神の復活書{ww}でも\n　あれば　説明できるっち！」\n　",
-  "en": ""
+  "en": "\"Huh? 'Tell me all about the God of Destruction, chi,' you say? Well...\"{KP}\"On the way here, Rokuemon-sama tore up and threw away\"{KP}\"the {bb}Revival Book of the God of Destruction{ww}. If I had that, I could explain, chi!\""
  },
  {
   "id": "GSF0901D/5/0314",
@@ -33,12 +33,12 @@
   "id": "GSF0901D/5/0344",
   "kind": "msg",
   "jp": "「あっ？　{bb}はかい神の復活書{ww}を\n　持って来たっちか…」\n　{KP}\n「いいか　よく　聞くっち！\n　オイラも　全部は\n　読めないっちけど……」{KP}\n　\n「はかい神を　呼ぶには　各地に\n　ねむる　はかいの鐘を　地獄の\n　ハルマの場で　鳴らせ…」{KP}\n　\n「ただし　人ではない\n　人を　憎む　たましいを\n　はかい神に　ささげよ！」{KP}\n　\n「そう書いて　あるっち」\n　\n　{KP}\n「たぶん　人を　憎む\n　たましい　には　貧乏神が\n　選ばれたようだっち！」{KP}\n　\n「六右衛門さまは　どんな手を\n　使っても　はかい神を\n　よみがえらすっち！」",
-  "en": ""
+  "en": "\"Huh? You brought the {bb}Revival Book of the God of Destruction{ww}, chi...\"{KP}\"Okay, listen close, chi! I can't read all of it either, chi, but......\"{KP}\"'To summon the God of Destruction, ring every Bell of Destruction that sleeps across the land at Haruma Field in Hell...'\"{KP}\"'But offer to the God of Destruction a soul that is not human and that hates humans!'\"{KP}\"That's what it says, chi.\"{KP}\"Looks like they picked a Poverty God as the soul that hates humans, chi!\"{KP}\"Rokuemon-sama's gonna revive the God of Destruction no matter what it takes, chi!\""
  },
  {
   "id": "GSF0901D/5/058A",
   "kind": "msg",
   "jp": "「おおー　また　こわくなったっち！\n　もう　ふる里に　帰るっち！」\n　",
-  "en": ""
+  "en": "\"Ohh, I'm getting scared again, chi! I'm going back to my hometown, chi!\""
  }
 ]

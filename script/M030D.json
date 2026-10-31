@@ -3,270 +3,270 @@
   "id": "M030D/27/0002",
   "kind": "msg",
   "jp": "ゲームを　続けますか？\n　{KN}",
-  "en": ""
+  "en": "Continue the game?{KN}"
  },
  {
   "id": "M030D/28/000A",
   "kind": "msg",
   "jp": "どっちでＳＨＯＷの　遊び方\n　{KP}\nサクラと　サクラの　間を\n金太郎さんたちが　動きます！{KP}\n金太郎さんや　イヌさんたちが\n２０問出します{KP}\nみんなが　隠れ終わったところで\nさて！　問題です！{KP}\n画面の　真ん中に\n人の顔が　出てきます！{KP}\nその人が　右に　行ったか\n左に　行ったかを　当ててください！",
-  "en": ""
+  "en": "How to Play Which One SHOW{KP}Kintaro-san and the others move between the cherry trees!{KP}Kintaro-san, Dog-san and the others will ask you 20 questions.{KP}Once everyone has finished hiding, here comes the question!{KP}A face appears in the middle of the screen!{KP}Guess whether that person went right or left!"
  },
  {
   "id": "M030D/28/0150",
   "kind": "msg",
   "jp": "ではゲームスタートです！\n　",
-  "en": ""
+  "en": "Now, game start!"
  },
  {
   "id": "M030D/28/0186",
   "kind": "msg",
   "jp": "ではゲームを　プレイしますか？\n　{KN}",
-  "en": ""
+  "en": "Would you like to play the game?{KN}"
  },
  {
   "id": "M030D/29/000A",
   "kind": "msg",
   "jp": "どっちでＳＨＯＷ！\n対戦ゲームの　説明です！{KP}\nイヌさんたちが　問題を\n１０問出します！{KP}\nみんなが　隠れ終わったところで\nさて！　問題です！{KP}\n画面の　真ん中に\n人の顔が　出てきます！{KP}\nその人が　右に　行ったか\n左に　行ったかを　当ててください！{KP}\nまちがえた人は　その場で\n失格と　なってしまいます！{KP}\nまた！　１０秒以内に答えないと\n失格になってしまいます！{KP}\nそれでは　ノーミスで\n勝ち進んで　くださいね！{KP}\n１Ｐは　桃太郎さん\n２Ｐは　金太郎さんです！",
-  "en": ""
+  "en": "Which One SHOW! Here's how the versus game works!{KP}Dog-san and the others will ask 10 questions!{KP}Once everyone has finished hiding, here comes the question!{KP}A face appears in the middle of the screen!{KP}Guess whether that person went right or left!{KP}Anyone who guesses wrong is disqualified on the spot!{KP}Also! If you don't answer within 10 seconds, you're disqualified!{KP}So, win your way through without a single miss!{KP}1P is Momotaro-san, 2P is Kintaro-san!"
  },
  {
   "id": "M030D/29/01FC",
   "kind": "msg",
   "jp": "ではゲームスタートです！\n　",
-  "en": ""
+  "en": "Now, game start!"
  },
  {
   "id": "M030D/29/0232",
   "kind": "msg",
   "jp": "ではゲームを　プレイしますか？\n　{KN}",
-  "en": ""
+  "en": "Would you like to play the game?{KN}"
  },
  {
   "id": "M030D/30/000A",
   "kind": "msg",
   "jp": "どっちでＳＨＯＷ！\n対戦ゲームの　説明です！{KP}\nイヌさんたちが　問題を\n１０問出します！{KP}\nみんなが　隠れ終わったところで\nさて！　問題です！{KP}\n画面の　真ん中に\n人の顔が　出てきます！{KP}\nその人が　右に　行ったか\n左に　行ったかを　当ててください！{KP}\nまちがえた人は　その場で\n失格と　なってしまいます！{KP}\nまた！　１０秒以内に答えないと\n失格になってしまいます！{KP}\nそれでは　ノーミスで\n勝ち進んで　くださいね！{KP}\n１Ｐは　桃太郎さん\n２Ｐは　金太郎さん{KP}\n３Ｐは　浦島さんです！\n　",
-  "en": ""
+  "en": "Which One SHOW! Here's how the versus game works!{KP}Dog-san and friends will give you 10 questions!{KP}Once everyone has finished hiding... now! Here's the question!{KP}A person's face will appear in the middle of the screen!{KP}Guess whether that person went right or left!{KP}Anyone who guesses wrong is disqualified on the spot!{KP}And! If you don't answer within 10 seconds, you're disqualified too!{KP}So make it all the way without a single mistake!{KP}1P is Momotaro-san, 2P is Kintaro-san,{KP}and 3P is Urashima-san!"
  },
  {
   "id": "M030D/30/0216",
   "kind": "msg",
   "jp": "ではゲームスタートです！\n　",
-  "en": ""
+  "en": "Now, game start!"
  },
  {
   "id": "M030D/30/024C",
   "kind": "msg",
   "jp": "ではゲームを　プレイしますか？\n　{KN}",
-  "en": ""
+  "en": "Would you like to play the game?{KN}"
  },
  {
   "id": "M030D/31/000A",
   "kind": "msg",
   "jp": "どっちでＳＨＯＷ！\n対戦ゲームの　説明です！{KP}\nイヌさんたちが　問題を\n１０問出します！{KP}\nみんなが　隠れ終わったところで\nさて！　問題です！{KP}\n画面の　真ん中に\n人の顔が　出てきます！{KP}\nその人が　右に　行ったか\n左に　行ったかを　当ててください！{KP}\nまちがえた人は　その場で\n失格と　なってしまいます！{KP}\nまた！　１０秒以内に答えないと\n失格になってしまいます！{KP}\nそれでは　ノーミスで\n勝ち進んで　くださいね！{KP}\n１Ｐは　桃太郎さん\n２Ｐは　金太郎さん{KP}\n３Ｐは　浦島さん\n４Ｐは　夜叉姫さんです！",
-  "en": ""
+  "en": "Which One SHOW! Here's how the versus game works!{KP}Dog-san and friends will give you 10 questions!{KP}Once everyone has finished hiding... now! Here's the question!{KP}A person's face will appear in the middle of the screen!{KP}Guess whether that person went right or left!{KP}Anyone who guesses wrong is disqualified on the spot!{KP}And! If you don't answer within 10 seconds, you're disqualified too!{KP}So make it all the way without a single mistake!{KP}1P is Momotaro-san, 2P is Kintaro-san,{KP}3P is Urashima-san, and 4P is Yashahime-san!"
  },
  {
   "id": "M030D/31/0226",
   "kind": "msg",
   "jp": "ではゲームスタートです！\n　",
-  "en": ""
+  "en": "Now, game start!"
  },
  {
   "id": "M030D/31/025C",
   "kind": "msg",
   "jp": "ではゲームを　プレイしますか？\n　{KN}",
-  "en": ""
+  "en": "Would you like to play the game?{KN}"
  },
  {
   "id": "M030D/32/0046",
   "kind": "msg",
   "jp": "今回は{R2}段でした\n　",
-  "en": ""
+  "en": "This time you got level {R2}."
  },
  {
   "id": "M030D/32/006C",
   "kind": "msg",
   "jp": "今回は初段でした\n　",
-  "en": ""
+  "en": "This time you got level 1."
  },
  {
   "id": "M030D/32/0092",
   "kind": "msg",
   "jp": "今回は免許皆伝でした\n　",
-  "en": ""
+  "en": "This time you got Full Mastery."
  },
  {
   "id": "M030D/32/00BC",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n新記録ですよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! It's a new record!!{KP}Keep up the good work!"
  },
  {
   "id": "M030D/32/0134",
   "kind": "msg",
   "jp": "今回は{R2}段でした\n　",
-  "en": ""
+  "en": "This time you got level {R2}."
  },
  {
   "id": "M030D/32/015A",
   "kind": "msg",
   "jp": "今回は初段でした\n　",
-  "en": ""
+  "en": "This time you got level 1."
  },
  {
   "id": "M030D/32/0180",
   "kind": "msg",
   "jp": "今回は免許皆伝でした\n　",
-  "en": ""
+  "en": "This time you got Full Mastery."
  },
  {
   "id": "M030D/32/01BA",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n段位更新ですよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! Your level went up!!{KP}Keep up the good work!"
  },
  {
   "id": "M030D/32/0224",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n初段に　なりましたよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! You reached level 1!!{KP}Keep up the good work!"
  },
  {
   "id": "M030D/32/0294",
   "kind": "msg",
   "jp": "桃太郎さん　おめでとうございます！\n免許皆伝に　なりましたよ！！{KP}\nごほうびとして\n{bb}方言カード{ww}が　１枚　もらえます！",
-  "en": ""
+  "en": "Congratulations, Momotaro-san! You've reached Full Mastery!!{KP}As a reward, you get one {bb}Dialect Card{ww}!"
  },
  {
   "id": "M030D/32/0320",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０８６{ww}を　手に入れた！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 086{ww}!{KP}Keep up the good work!"
  },
  {
   "id": "M030D/33/0002",
   "kind": "msg",
   "jp": "このゲームを\nもう一度　遊びますか？{KN}",
-  "en": ""
+  "en": "Play this game again?{KN}"
  },
  {
   "id": "M030D/34/0002",
   "kind": "msg",
   "jp": "「まずは　オラたち　金太郎\n　浦島　夜叉姫が　相手ど！」{KP}\n「オラたちを　見つけたら\n　２００点　はいるど！」{KP}\n「オラたちの　動きを\n　よーく　見て　当てるど！」",
-  "en": ""
+  "en": "\"First up, you're against us: Kintaro, Urashima and Yashahime, ya hear!\"{KP}\"Find us and ya get 200 points!\"{KP}\"Watch real close how we move, and guess right!\""
  },
  {
   "id": "M030D/35/0002",
   "kind": "msg",
   "jp": "「ワン！　ワン！」\n　{KP}\n「次の問題から\n　私が　仲間入りします！」{KP}\n「私を　見つけると\n　２５０点　はいります！」{KP}\n「はりきって　動きますので\n　よろしく　お願いしま～す！」",
-  "en": ""
+  "en": "\"Woof! Woof!\"{KP}\"I'm joining in from the next question!\"{KP}\"Find me and you get 250 points!\"{KP}\"I'll be moving with all my might, so let's have a great time!\""
  },
  {
   "id": "M030D/36/0002",
   "kind": "msg",
   "jp": "「キャッ！　キャッ！」\n　{KP}\n「次の問題から\n　オラが　仲間入りします！」{KP}\n「オラを　見つけると\n　２５０点　はいります！」{KP}\n「オラは　素早く　動くから\n　よ～く　目で　追ってね！」",
-  "en": ""
+  "en": "\"Eek! Eek!\"{KP}\"I'm joining in from the next question!\"{KP}\"Find me and you get 250 points!\"{KP}\"I move real quick, so follow me closely with your eyes!\""
  },
  {
   "id": "M030D/37/0002",
   "kind": "msg",
   "jp": "「ケーン！　ケーン！」\n　{KP}\n「次の問題から\n　わたしが　仲間入りします！」{KP}\n「わたしを　見つけると\n　２５０点　はいります！」{KP}\n「わたしは　からだが　小さいので\n　見のがさないで　くださいね！」",
-  "en": ""
+  "en": "\"Kyeen! Kyeen!\"{KP}\"I'm joining in from the next question!\"{KP}\"Find me and you get 250 points!\"{KP}\"I'm very small, so please don't miss me!\""
  },
  {
   "id": "M030D/38/0002",
   "kind": "msg",
   "jp": "「ミニ！　ミニ！\n　ミニボンビー！」{KP}\n「ボクも　みんなと　遊ぶでちゅ！」\n　{KP}\n「ボクを　見つけたら\n　１５０点　はいるでちゅ！」{KP}\n「ボクは　目立つから　ちょっと\n　点数低いでちゅ！」{KP}\n「それじゃ　よろちくねん！」\n　",
-  "en": ""
+  "en": "\"Mini! Mini! Mini Bombee!\"{KP}\"I wanna pway with evewybody too!\"{KP}\"Find me and you get 150 pointth!\"{KP}\"I stick out, so I'm wowth a widdle fewew points!\"{KP}\"Nice to meet chu, nonen!\""
  },
  {
   "id": "M030D/39/0002",
   "kind": "msg",
   "jp": "「ボンビー！」\n　{KP}\n「みなさん　とっても\n　楽しそうなのねん！」{KP}\n「もっと　楽しくするために\n　お手伝いするのねん！」{KP}\n「ボクを　当てたら　なんと！\n　１００点も　はいっちゃうのねん！」{KP}\n「がんばって　ボクを\n　見つけてね～ん！」",
-  "en": ""
+  "en": "\"Bombee!\"{KP}\"Everybody looks like they're having so much fun, nonen!\"{KP}\"I'll help make it even more fun, nonen!\"{KP}\"Guess me and, get this, you get a whole 100 points, nonen!\"{KP}\"Try your best to find me, noneeen!\""
  },
  {
   "id": "M030D/40/0002",
   "kind": "msg",
   "jp": "「グェッヘッヘ！　オレさまを\n　呼ぶとは　百年早いわ！」{KP}\n「しかし　オレさまが　加わって\n　まちがえでもしたら…」{KP}\n「マイナス　５００点だからな！\n　キ～～～～～ング　ボンビー！」{KP}\n「まあ！　オレさまを　当てても\n　５０点しか　はいらんがな！」{KP}\n「おまえたちに　ボンビラスの\n　おそろしさを　教えてやる！」{KP}\n「よろこぶが　いい！」\n　{KP}\n「キ～～～～～ング　ボンビー！」\n　",
-  "en": ""
+  "en": "\"Gwehehe! Calling on the great me? You're a hundred years too early!\"{KP}\"But now that I've joined in, if you guess wrong...\"{KP}\"it's minus 500 points! Kiiiiiiing Bombee!\"{KP}\"Mind you, guess me right and you only get 50 points!\"{KP}\"I'll teach you the terror of Bombiras!\"{KP}\"Rejoice!\"{KP}\"Kiiiiiiing Bombee!\""
  },
  {
   "id": "M030D/41/0002",
   "kind": "msg",
   "jp": "「ヘイ！　ヘイ！　ヘイ！」\n　{KP}\n「みんな　楽しそうに\n　遊んでいるな！」{KP}\n「天邪鬼の　オレも\n　次から　参加してやるぞ！」{KP}\n「ん？　オレを　見つけたら\n　何点　はいるかって？」{KP}\n「ヘイ！　ヘイ！\n　そんなこと　オレは　知らないね！」{KP}\n「当ててからの　お楽しみだ！」\n　{KP}\n「それじゃ　せいぜい\n　がんばることだな！　ヘイ！　ヘイ！」",
-  "en": ""
+  "en": "\"Hey! Hey! Hey!\"{KP}\"Looks like you're all having fun out there!\"{KP}\"Starting next round, I, Amanojaku, will join in too!\"{KP}\"Hm? How many points you get for finding me?\"{KP}\"Hey! Hey! How should I know!\"{KP}\"You'll find out once you guess it!\"{KP}\"Well then, knock yourselves out! Hey! Hey!\""
  },
  {
   "id": "M030D/42/0002",
   "kind": "msg",
   "jp": "「ウヒャヒャ…！」\n　{KP}\n「みんな　楽しそうに\n　遊んでおるのォ！」{KP}\n「そろそろ　わしも\n　仲間に　入れてもらおうかの！」{KP}\n「わしが　問題に出たとき　当てたら\n　ほうびに　３５０点あげるぞ！」{KP}\n「人数が　増えてきて\n　うっとうしいが　がんばるのぢゃ！」",
-  "en": ""
+  "en": "\"Uhyahya...!\"{KP}\"Everyone's having a fine old time, eh!\"{KP}\"About time I joined in too, I reckon!\"{KP}\"Guess me right when I show up in a question, and I'll reward you with 350 points!\"{KP}\"There's more of us now and it's a nuisance, but do your best!\""
  },
  {
   "id": "M030D/43/0002",
   "kind": "msg",
   "jp": "「ガォ～～～～～～～～～ッ！！」\n　{KP}\n………し　失礼しました！\n　{KP}\nえ　え～っと　次の問題から\nドジラさんも　遊ぶそうです！{KP}\nドジラさんを　当てると\n３００点　はいります！{KP}\nみんなで　なかよく\n遊んでくださいね！",
-  "en": ""
+  "en": "\"Grooooooooooar!!\"{KP}......P-pardon me!{KP}U-um, starting with the next question, Dozilla-san will be playing too!{KP}Guess Dozilla-san and you get 300 points!{KP}Everyone play nicely together!"
  },
  {
   "id": "M030D/44/0002",
   "kind": "msg",
   "jp": "「シュワッチ！」\n　{KP}\n………おや　おや！\nモモトラマンさんが　やってきました！{KP}\n次の問題から\nモモトラマンさんも　はいるそうです！{KP}\nモモトラマンさんを　当てると\n４００点　はいります！{KP}\nモモトラマンさんは\nハイスピードで　飛んで行きます！{KP}\nよーく　目を　こらして\n見ていましょうね！",
-  "en": ""
+  "en": "\"Shuwatch!\"{KP}......Oh my, oh my! Momotoraman-san has arrived!{KP}Starting with the next question, Momotoraman-san is joining in too!{KP}Guess Momotoraman-san and you get 400 points!{KP}Momotoraman-san flies off at high speed!{KP}Keep your eyes peeled and watch closely!"
  },
  {
   "id": "M030D/45/0002",
   "kind": "msg",
   "jp": "「ペペペペペ　ぺぺぺぺぺ\n　ぺぺぺぺぺ　ペペペマン！」{KP}\n「わたしは　遠い星から\n　意味なく　やってきた！」{KP}\n「ぺぺぺ　ペペペマン！」\n　{KP}\n「これから　意味なく\n　問題に　参加するぞ！」{KP}\n「わたしを　見つけたら\n　意味のある　５００点あげるぞ！」{KP}\n「さあ！意味なく\n　○ボタンを　押したまえっ！」",
-  "en": ""
+  "en": "\"Pepepepepe pepepepepe pepepepepe Pepepeman!\"{KP}\"I came from a faraway star for no reason at all!\"{KP}\"Pepepe Pepepeman!\"{KP}\"From now on, I'll be joining the questions for no reason!\"{KP}\"Find me and I'll give you 500 points that actually have a reason!\"{KP}\"Now! Press the Circle button for no reason!\""
  },
  {
   "id": "M030D/46/0002",
   "kind": "msg",
   "jp": "さて！　問題です！\n　",
-  "en": ""
+  "en": "Now! Here's the question!"
  },
  {
   "id": "M030D/47/0002",
   "kind": "msg",
   "jp": "{MM}さんは\nどちらに　いるでしょうか？{KP}\nでは　{MM}さん\nすがたを　見せてくださ～い！",
-  "en": ""
+  "en": "Where is {MM}-san?{KP}Now then, {MM}-san, show yourself, pleeease!"
  },
  {
   "id": "M030D/48/0002",
   "kind": "msg",
   "jp": "おめでとうございます！\n当たりですよ　桃太郎さん！",
-  "en": ""
+  "en": "Congratulations! You got it right, Momotaro-san!"
  },
  {
   "id": "M030D/49/0002",
   "kind": "msg",
   "jp": "う～～～ん！\n残念ながら　ハズレです！{KP}\n桃太郎さん！　失格です！\n　",
-  "en": ""
+  "en": "Hmmmmm! Sorry, that's wrong!{KP}Momotaro-san! You're disqualified!"
  },
  {
   "id": "M030D/50/0002",
   "kind": "msg",
   "jp": "はい　そこまで！\n時間が　なくなりました！",
-  "en": ""
+  "en": "Okay, that's it! Time's up!"
  },
  {
   "id": "M030D/51/0002",
   "kind": "msg",
   "jp": "お～っと\nもう　時間が　ありません！",
-  "en": ""
+  "en": "Whoa! You're almost out of time!"
  },
  {
   "id": "M030D/52/0002",
   "kind": "msg",
   "jp": "キャラクターの　人数を\n選びましょう！{KN}",
-  "en": ""
+  "en": "Choose the number of characters!{KN}"
  },
  {
   "id": "M030D/53/0002",
   "kind": "msg",
   "jp": "「ワン！　ワン！」\n　{KP}\n「まずは　私たち　イヌ\n　サル　キジが　相手です！」{KP}\n「私たちを　見つけたら\n　２５０点　はいります！」{KP}\n「はりきって　動きますので\n　よろしく　お願いしま～す！」",
-  "en": ""
+  "en": "\"Woof! Woof!\"{KP}\"First up, you're against us: Dog, Monkey and Pheasant!\"{KP}\"Find us and you get 250 points!\"{KP}\"We'll be moving with all our might, so let's have a great time!\""
  }
 ]

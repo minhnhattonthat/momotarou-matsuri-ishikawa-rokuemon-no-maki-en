@@ -169,6 +169,10 @@ def files(mode='en', overrides=None):
             out[f'OUTBIN/{stem}.BIN'] = patch_code(p.read_bytes(), p, items, rows[stem])
         else:
             out[f'OUTBIN/{stem}.BIN'] = build_archive(TREE / 'OUTBIN' / f'{stem}.BIN', items)
+    for name, sites in engine.MONEY_OVL.items():
+        key = f'OUTBIN/{name}'
+        data = out.get(key) or (TREE / 'OUTBIN' / name).read_bytes()
+        out[key] = engine.patch_money(data, sites, codestr.OVL_BASE)
     return out
 
 

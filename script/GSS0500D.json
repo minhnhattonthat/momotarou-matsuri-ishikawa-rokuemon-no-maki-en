@@ -3,13 +3,13 @@
   "id": "GSS0500D/2/0026",
   "kind": "msg",
   "jp": "「おお　桃太郎か！」\n　\n　{KP}\n「ドヒャヒャ…！　わしは\n　{bb}おまもり仙人{ww}ぢゃ！」\n　{KP}\n「なになに？\n　{bb}おまもりの術{ww}を\n　教えてほしいとな！」{KP}\n　\n「ん～　これは　なかなか\n　便利な術なので　そう簡単には\n　授けられぬぞ！」{KP}\n　\n「おお　そうぢゃ！\n　わしは　{bb}リンゴアメ{ww}に\n　目がなくてのォ……」{KP}\n　\n「その　{bb}リンゴアメ{ww}を\n　買って来て　くれんかのォ！」\n　{KP}\n「ただし　{bb}リンゴアメ{ww}は　はるか\n　南に　ある　{bb}ウサカメの村{ww}でしか\n　売っておらんぞ！」{KP}\n　\n「ん～　{bb}リンゴアメ{ww}か………　おっと\n　これは　修行ぢゃぞ　修行！」\n　{KP}\n「では　がんばるがよい！\n　桃太郎よ！」\n　",
-  "en": ""
+  "en": "\"Oh, Momotaro, is it?\"{KP}\"Dohyahya...! I am the {bb}Protection Hermit{ww}!\"{KP}\"What's that? You want me to teach you the {bb}Protection art{ww}?\"{KP}\"Hmm... This is a rather handy art, so I can't grant it so easily!\"{KP}\"Oh, I know! I just can't resist {bb}Candy Apples{ww}......\"{KP}\"Would you go and buy me one of those {bb}Candy Apples{ww}?\"{KP}\"Mind you, {bb}Candy Apples{ww} are only sold in {bb}Usakame Village{ww}, far to the south!\"{KP}\"Mmm... {bb}Candy Apples{ww}......... Oops! This is training, I tell you, training!\"{KP}\"Now, do your best, Momotaro!\""
  },
  {
   "id": "GSS0500D/2/02C6",
   "kind": "msg",
   "jp": "「いいか　桃太郎よ！\n　{bb}おまもりの術{ww}を　授かるには」\n　{KP}\n「はるか　南に　ある　{bb}ウサカメの村{ww}で\n　{bb}リンゴアメ{ww}を　買って来ることぢゃ！」\n　{KP}\n「では　がんばるがよい！\n　桃太郎よ！」\n　",
-  "en": ""
+  "en": "\"Listen, Momotaro! To be granted the {bb}Protection art{ww},\"{KP}\"you must buy a {bb}Candy Apple{ww} in {bb}Usakame Village{ww}, far to the south!\"{KP}\"Now, do your best, Momotaro!\""
  },
  {
   "id": "GSS0500D/2/03AC",
@@ -21,30 +21,30 @@
   "id": "GSS0500D/2/03EC",
   "kind": "msg",
   "jp": "「おお　リンゴアメぢゃ\n　リンゴアメぢゃ！……おっと」\n　{KP}\n「んっ！　おっほん…\n　よくやったぞ　桃太郎！」\n　{KP}\n「では！\n　{bb}おまもりの術{ww}を　授けるぞ！」\n　",
-  "en": ""
+  "en": "\"Ooh, a Candy Apple! A Candy Apple! ...Oops.\"{KP}\"Mm! Ahem... Well done, Momotaro!\"{KP}\"Now! I shall grant you the {bb}Protection art{ww}!\""
  },
  {
   "id": "GSS0500D/2/04AE",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}おまもりの術{ww}を　覚えた！\n　",
-  "en": ""
+  "en": "Momotaro learned the {bb}Protection art{ww}!"
  },
  {
   "id": "GSS0500D/2/04FC",
   "kind": "msg",
   "jp": "「よいか　{bb}おまもりの術{ww}は\n　陽の　光りで　鬼たちの\n　目を　くらまして」{KP}\n　\n「鬼たちに　つかまることを\n　ふせぐ術なので　洞窟の中では\n　使えぬぞ！」",
-  "en": ""
+  "en": "\"Listen, the {bb}Protection art{ww} dazzles the oni's eyes with the light of the sun\"{KP}\"to keep them from catching you, so it can't be used inside caves!\""
  },
  {
   "id": "GSS0500D/2/05B2",
   "kind": "msg",
   "jp": "「おお　桃太郎よ！\n　ん！？　これは　何かな？」\n　",
-  "en": ""
+  "en": "\"Oh, Momotaro! Hm?! What's this?\""
  },
  {
   "id": "GSS0500D/2/05F8",
   "kind": "msg",
   "jp": "「よいか　{bb}おまもりの術{ww}は\n　陽の　光りで　鬼たちの\n　目を　くらまして」{KP}\n　\n「鬼たちに　つかまることを\n　ふせぐ術なので　洞窟の中では\n　使えぬぞ！」",
-  "en": ""
+  "en": "\"Listen, the {bb}Protection art{ww} dazzles the oni's eyes with the light of the sun\"{KP}\"to keep them from catching you, so it can't be used inside caves!\""
  }
 ]

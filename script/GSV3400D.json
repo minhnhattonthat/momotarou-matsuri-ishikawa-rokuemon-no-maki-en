@@ -9,96 +9,96 @@
   "id": "GSV3400D/15/0010",
   "kind": "msg",
   "jp": "「{bb}サル{ww}の　やつらめ\n　オイラたちが　苦労して　つくった\n　食料を　食い散らかしやがって！」",
-  "en": ""
+  "en": "\"Those darn {bb}Monkeys{ww}! They've gone and scattered all the food we worked so hard to grow!\""
  },
  {
   "id": "GSV3400D/15/0080",
   "kind": "msg",
   "jp": "「よかった　よかった！\n　これで　安心して　暮らせるよ！\n　さすがだねぇ　あんた！」",
-  "en": ""
+  "en": "\"What a relief! Now we can live in peace! You're really something!\""
  },
  {
   "id": "GSV3400D/16/0002",
   "kind": "msg",
   "jp": "「ねぇ！　知っている？\n　村長は　あの　{bb}水龍さま{ww}の\n　子どもだっていう　うわさよ！」{KP}\n　\n「ひとりで　{bb}龍神の沼{ww}に\n　行っているのを\n　あたい　何回も　見ているわ！」",
-  "en": ""
+  "en": "\"Hey! Did you know? There's a rumor that the village chief is the child of {bb}Lord Water Dragon{ww}!\"{KP}\"I've seen him go to the {bb}Dragon God Marsh{ww} alone lots of times!\""
  },
  {
   "id": "GSV3400D/17/0002",
   "kind": "msg",
   "jp": "「この村は　はるか　昔\n　{bb}水龍さま{ww}が　山を　切り開いて\n　こさえた　村じゃ」",
-  "en": ""
+  "en": "\"Long, long ago, {bb}Lord Water Dragon{ww} cut through the mountains and made this village.\""
  },
  {
   "id": "GSV3400D/18/0002",
   "kind": "msg",
   "jp": "「ようこそ　小太郎の村へ！」\n　\n　{KP}\n「この先の　池の中に　ある\n　家に　村長の　{bb}小太郎さま{ww}が\n　いらっしゃいますわ！」{KP}\n　\n「{bb}小太郎さま{ww}は\n　いくつに　なられても　若々しくて\n　すてきな　お方なの！」{KP}\n　\n「あ～ん！　ほれてしまいますわ{rr}∞{ww}」\n　\n　",
-  "en": ""
+  "en": "\"Welcome to Kotaro Village!\"{KP}\"Our village chief, {bb}Kotaro-sama{ww}, is in the house in the pond up ahead!\"{KP}\"No matter how old he gets, {bb}Kotaro-sama{ww} stays so youthful and wonderful!\"{KP}\"Oh my! I could fall head over heels{rr}<3{ww}\""
  },
  {
   "id": "GSV3400D/19/0010",
   "kind": "msg",
   "jp": "「何でも　どっかの村に\n　やる気を　なくした　人の心に\n　やる気を　取り戻させる」{KP}\n　\n「{bb}やる木棒{ww}という　神木が\n　あるという　うわさじゃ！」\n　{KP}\n「この村の　{bb}物ぐさ太郎{ww}に\n　使えれば　よいのじゃが…」\n　",
-  "en": ""
+  "en": "\"Rumor has it that in some village there's a sacred wood called the {bb}Pep Stick{ww}\"{KP}\"that brings the pep back to the hearts of folks who've lost it!\"{KP}\"If only we could use it on {bb}Lazy Taro{ww} in this village...\""
  },
  {
   "id": "GSV3400D/19/010C",
   "kind": "msg",
   "jp": "「{bb}物ぐさ太郎{ww}が　あんなに\n　元気に　なるとは…」\n　{KP}\n「あなたが　やる木棒を\n　お使いに　なったのか！？」\n　{KP}\n「さすが　やる木棒じゃ！」\n　\n　",
-  "en": ""
+  "en": "\"Who'd have thought {bb}Lazy Taro{ww} would get so lively...\"{KP}\"Was it you who used the Pep Stick?!\"{KP}\"That Pep Stick sure is something!\""
  },
  {
   "id": "GSV3400D/20/0010",
   "kind": "msg",
   "jp": "「魚を　釣っているんだけれど\n　ぜんぜん　釣れないんだぁ～」\n　{KP}\n「そういえば　さっき　滝の横で\n　何かが　光ったよ！」\n　",
-  "en": ""
+  "en": "\"I've been fishing, but I haven't caught a thing...\"{KP}\"Oh, come to think of it, something was shining beside the waterfall a minute ago!\""
  },
  {
   "id": "GSV3400D/20/00A4",
   "kind": "msg",
   "jp": "「あいかわらず　魚を　釣って\n　いるんだけれど\n　ぜんぜん　釣れないんだぁ～！」",
-  "en": ""
+  "en": "\"I'm still fishing, but I still haven't caught a thing!\""
  },
  {
   "id": "GSV3400D/21/0002",
   "kind": "msg",
   "jp": "「きゃーっ！　きれいねぇ～！\n　この　龍の滝を　見に　わざわざ\n　寝太郎の村から　来たのよ～！」",
-  "en": ""
+  "en": "\"Eeek! It's so pretty! I came all the way from Netaro Village just to see these Dragon Falls!\""
  },
  {
   "id": "GSV3400D/22/0002",
   "kind": "msg",
   "jp": "「龍神船ってねー！\n　小太郎さまが　設計されたのよ！\n　かっこいいでしょう！」",
-  "en": ""
+  "en": "\"You know, Kotaro-sama designed the Dragon God Ship! Isn't it cool?\""
  },
  {
   "id": "GSV3400D/23/0010",
   "kind": "msg",
   "jp": "「そこの　家に　住む　{bb}草太郎{ww}は\n　すばらしい　作品を　つくる\n　とう芸家　だった！」{KP}\n　\n「だけど　女に　ふられてから\n　気力を　なくして　毎日\n　ボ～ッと　するように　なっただ！」{KP}\n　\n「今じゃ　{bb}物ぐさ太郎{ww}と　みなに\n　呼ばれて　おるよ！」\n　{KP}\n「もったいないねぇ～\n　あれだけ　いいうでを\n　持って　いるのに！」",
-  "en": ""
+  "en": "\"{bb}Sotaro{ww}, who lives in that house, used to be a potter who made wonderful pieces!\"{KP}\"But after a woman dumped him, he lost all his drive, and now he just spaces out every day!\"{KP}\"These days everybody calls him {bb}Lazy Taro{ww}!\"{KP}\"What a waste! With skill like his!\""
  },
  {
   "id": "GSV3400D/23/017C",
   "kind": "msg",
   "jp": "「よかったねぇ～\n　草太郎が　元に　もどって！」\n　{KP}\n「あんたかい？\n　草太郎に　やる気を\n　あたえた人ってぇのは！」{KP}\n　\n「ありがとうよ！　恩にきるぜ！」\n　\n　",
-  "en": ""
+  "en": "\"Isn't it great? Sotaro's back to his old self!\"{KP}\"So you're the one who gave Sotaro his pep back?\"{KP}\"Thank you! I owe you one!\""
  },
  {
   "id": "GSV3400D/24/0002",
   "kind": "msg",
   "jp": "「{bb}龍神の沼{ww}には　近づかんほうがええ！\n　{bb}水龍さま{ww}に　食べられてしまうぞ！」\n　",
-  "en": ""
+  "en": "\"Best not go near the {bb}Dragon God Marsh{ww}! {bb}Lord Water Dragon{ww} will eat you up!\""
  },
  {
   "id": "GSV3400D/25/0002",
   "kind": "msg",
   "jp": "「ここは　龍の滝で　有名な\n　小太郎の村じゃ！」\n　",
-  "en": ""
+  "en": "\"This is Kotaro Village, famous for its Dragon Falls!\""
  },
  {
   "id": "GSV3400D/26/0002",
   "kind": "msg",
   "jp": "「{bb}龍神の沼{ww}は　この村から\n　北に　進んだ所にある\n　山の中に　あるぞ！」",
-  "en": ""
+  "en": "\"The {bb}Dragon God Marsh{ww} is in the mountains to the north of this village!\""
  }
 ]

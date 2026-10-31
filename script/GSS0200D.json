@@ -3,19 +3,19 @@
   "id": "GSS0200D/2/0034",
   "kind": "msg",
   "jp": "「ウヒャヒャ…！\n　わしは　{bb}ひえん仙人{ww}ぢゃ！」\n　{KP}\n「なんと　{bb}ひえんの術{ww}を　もう一度\n　覚えたいと　言うのぢゃな！」\n　{KP}\n「おぬしに　{bb}ひえんの術{ww}を\n　授けてやりたいがのォ…」\n　{KP}\n「昨晩　{bb}ひえんの巻物{ww}を\n　鬼面党に　うばわれて\n　しまったのぢゃ！」{KP}\n　\n「まだ　この近くに　いると\n　思われる　鬼面党から\n　{bb}ひえんの巻物{ww}を　取りもどせば」{KP}\n　\n「おぬしに　{bb}ひえんの術{ww}を\n　授けてやるぞ！」\n　",
-  "en": ""
+  "en": "\"Uhyahya...! I am the {bb}Warp Hermit{ww}!\"{KP}\"Well now, you say you want to learn the {bb}Warp art{ww} once more!\"{KP}\"I'd like to grant you the {bb}Warp art{ww}, but...\"{KP}\"last night, the Oni Mask Gang stole my {bb}Warp Scroll{ww}!\"{KP}\"If you get the {bb}Warp Scroll{ww} back from the Oni Mask Gang, who should still be nearby,\"{KP}\"I'll grant you the {bb}Warp art{ww}!\""
  },
  {
   "id": "GSS0200D/2/020E",
   "kind": "msg",
   "jp": "「早く　この近くに　いる\n　鬼面党から　{bb}ひえんの巻物{ww}を\n　取りもどすのぢゃ！」",
-  "en": ""
+  "en": "\"Hurry and get the {bb}Warp Scroll{ww} back from the Oni Mask Gang nearby!\""
  },
  {
   "id": "GSS0200D/2/0272",
   "kind": "msg",
   "jp": "「どうぢゃ　桃太郎！\n　{bb}ひえんの術{ww}の\n　使いごこちは？」{KP}\n　\n「便利ぢゃろう！」\n　\n　",
-  "en": ""
+  "en": "\"Well, Momotaro? How do you like using the {bb}Warp art{ww}?\"{KP}\"Handy, isn't it!\""
  },
  {
   "id": "GSS0200D/2/02E8",
@@ -27,12 +27,12 @@
   "id": "GSS0200D/2/031A",
   "kind": "msg",
   "jp": "「よくやったぞ　桃太郎よ！」\n　\n　{KP}\n「さっそく　おぬしに\n　{bb}ひえんの術{ww}を　授けてやろう！」\n　",
-  "en": ""
+  "en": "\"Well done, Momotaro!\"{KP}\"I'll grant you the {bb}Warp art{ww} right away!\""
  },
  {
   "id": "GSS0200D/2/0398",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}ひえんの術{ww}を　覚えた！\n　",
-  "en": ""
+  "en": "Momotaro learned the {bb}Warp art{ww}!"
  }
 ]

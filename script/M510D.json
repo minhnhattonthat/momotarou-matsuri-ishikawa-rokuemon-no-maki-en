@@ -3,1099 +3,1099 @@
   "id": "M510D/15/0002",
   "kind": "msg",
   "jp": "歴史クイズの鬼が　あらわれた！\n　{KP}\n「ちょっと　いいですか～！\n　問題を　出させてくださいね～！」",
-  "en": ""
+  "en": "The History Quiz Oni appeared!{KP}\"Excuse meee! Mind if I ask you a question?\""
  },
  {
   "id": "M510D/16/001A",
   "kind": "msg",
   "jp": "「ピンポーン！」\n　{KP}\n「すごいですね～！　頭いいですね～！\n　たいしたもんですね～！」",
-  "en": ""
+  "en": "\"Ding-dong!\"{KP}\"Amaaazing! So smaaart! You're really something!\""
  },
  {
   "id": "M510D/16/0092",
   "kind": "msg",
   "jp": "歴史クイズの鬼は\n{R0}両　置いていった！",
-  "en": ""
+  "en": "The History Quiz Oni left {R0} ryo behind!"
  },
  {
   "id": "M510D/16/00CA",
   "kind": "msg",
   "jp": "「ブッブー！」\n　{KP}\n「ちょっと　ど忘れしただけ…\n　ですよね～！　はっはっは！」{KP}\n歴史クイズの鬼は\n去っていった！",
-  "en": ""
+  "en": "\"Bzzzt!\"{KP}\"You just had a little brain blip... right? Ha ha ha!\"{KP}The History Quiz Oni left!"
  },
  {
   "id": "M510D/17/0002",
   "kind": "msg",
   "jp": "「ちょっと　ちょっと　桃太郎さん！」\n　{KP}\n「時間切れ　なんですけど…」\n歴史クイズの鬼は\n去っていった！",
-  "en": ""
+  "en": "\"Hey, hey, Momotaro-san!\"{KP}\"Time's up, you know...\"{n}The History Quiz Oni left!"
  },
  {
   "id": "M510D/18/0002",
   "kind": "msg",
   "jp": "ことわざクイズの鬼が　あらわれた！\n　{KP}\n「ちょっと　いいですか～！\n　問題を　出させてくださいね～！」",
-  "en": ""
+  "en": "The Proverb Quiz Oni appeared!{KP}\"Excuse meee! Mind if I ask you a question?\""
  },
  {
   "id": "M510D/19/001A",
   "kind": "msg",
   "jp": "「ピンポーン！」\n　{KP}\n「すごいですね～！　頭いいですね～！\n　たいしたもんですね～！」",
-  "en": ""
+  "en": "\"Ding-dong!\"{KP}\"Amaaazing! So smaaart! You're really something!\""
  },
  {
   "id": "M510D/19/0092",
   "kind": "msg",
   "jp": "ことわざクイズの鬼は\n{R0}両　置いていった！",
-  "en": ""
+  "en": "The Proverb Quiz Oni left {R0} ryo behind!"
  },
  {
   "id": "M510D/19/00CE",
   "kind": "msg",
   "jp": "「ブッブー！」\n　{KP}\n「ちょっと　ど忘れしただけ…\n　ですよね～！　はっはっは！」{KP}\nことわざクイズの鬼は\n去っていった！",
-  "en": ""
+  "en": "\"Bzzzt!\"{KP}\"You just had a little brain blip... right? Ha ha ha!\"{KP}The Proverb Quiz Oni left!"
  },
  {
   "id": "M510D/20/0002",
   "kind": "msg",
   "jp": "「ちょっと　ちょっと　桃太郎さん！」\n　{KP}\n「時間切れ　なんですけど…」\nことわざクイズの鬼は\n去っていった！",
-  "en": ""
+  "en": "\"Hey, hey, Momotaro-san!\"{KP}\"Time's up, you know...\"{n}The Proverb Quiz Oni left!"
  },
  {
   "id": "M510D/21/0002",
   "kind": "msg",
   "jp": "英語クイズの鬼が　あらわれた！\n　{KP}\n「ちょっと　いいですか～！\n　問題を　出させてくださいね～！」",
-  "en": ""
+  "en": "The English Quiz Oni appeared!{KP}\"Excuse meee! Mind if I ask you a question?\""
  },
  {
   "id": "M510D/22/001A",
   "kind": "msg",
   "jp": "「ピンポーン！」\n　{KP}\n「すごいですね～！　頭いいですね～！\n　たいしたもんですね～！」",
-  "en": ""
+  "en": "\"Ding-dong!\"{KP}\"Amaaazing! So smaaart! You're really something!\""
  },
  {
   "id": "M510D/22/0092",
   "kind": "msg",
   "jp": "英語クイズの鬼は\n{R0}両　置いていった！",
-  "en": ""
+  "en": "The English Quiz Oni left {R0} ryo behind!"
  },
  {
   "id": "M510D/22/00CA",
   "kind": "msg",
   "jp": "「ブッブー！」\n　{KP}\n「ちょっと　ど忘れしただけ…\n　ですよね～！　はっはっは！」{KP}\n英語クイズの鬼は\n去っていった！",
-  "en": ""
+  "en": "\"Bzzzt!\"{KP}\"You just had a little brain blip... right? Ha ha ha!\"{KP}The English Quiz Oni left!"
  },
  {
   "id": "M510D/23/0002",
   "kind": "msg",
   "jp": "「ちょっと　ちょっと　桃太郎さん！」\n　{KP}\n「時間切れ　なんですけど…」\n英語クイズの鬼は\n去っていった！",
-  "en": ""
+  "en": "\"Hey, hey, Momotaro-san!\"{KP}\"Time's up, you know...\"{n}The English Quiz Oni left!"
  },
  {
   "id": "M510D/24/0002",
   "kind": "msg",
   "jp": "地理クイズの鬼が　あらわれた！\n　{KP}\n「ちょっと　いいですか～！\n　問題を　出させてくださいね～！」",
-  "en": ""
+  "en": "The Geography Quiz Oni appeared!{KP}\"Excuse meee! Mind if I ask you a question?\""
  },
  {
   "id": "M510D/25/001A",
   "kind": "msg",
   "jp": "「ピンポーン！」\n　{KP}\n「すごいですね～！　頭いいですね～！\n　たいしたもんですね～！」",
-  "en": ""
+  "en": "\"Ding-dong!\"{KP}\"Amaaazing! So smaaart! You're really something!\""
  },
  {
   "id": "M510D/25/0092",
   "kind": "msg",
   "jp": "地理クイズの鬼は\n{R0}両　置いていった！",
-  "en": ""
+  "en": "The Geography Quiz Oni left {R0} ryo behind!"
  },
  {
   "id": "M510D/25/00CA",
   "kind": "msg",
   "jp": "「ブッブー！」\n　{KP}\n「ちょっと　ど忘れしただけ…\n　ですよね～！　はっはっは！」{KP}\n地理クイズの鬼は\n去っていった！",
-  "en": ""
+  "en": "\"Bzzzt!\"{KP}\"You just had a little brain blip... right? Ha ha ha!\"{KP}The Geography Quiz Oni left!"
  },
  {
   "id": "M510D/26/0002",
   "kind": "msg",
   "jp": "「ちょっと　ちょっと　桃太郎さん！」\n　{KP}\n「時間切れ　なんですけど…」\n地理クイズの鬼は\n去っていった！",
-  "en": ""
+  "en": "\"Hey, hey, Momotaro-san!\"{KP}\"Time's up, you know...\"{n}The Geography Quiz Oni left!"
  },
  {
   "id": "M510D/27/0002",
   "kind": "msg",
   "jp": "漢字クイズの鬼が　あらわれた！\n　{KP}\n「ちょっと　いいですか～！\n　問題を　出させてくださいね～！」",
-  "en": ""
+  "en": "The Kanji Quiz Oni appeared!{KP}\"Excuse meee! Mind if I ask you a question?\""
  },
  {
   "id": "M510D/28/001A",
   "kind": "msg",
   "jp": "「ピンポーン！」\n　{KP}\n「すごいですね～！　頭いいですね～！\n　たいしたもんですね～！」",
-  "en": ""
+  "en": "\"Ding-dong!\"{KP}\"Amaaazing! So smaaart! You're really something!\""
  },
  {
   "id": "M510D/28/0092",
   "kind": "msg",
   "jp": "漢字クイズの鬼は\n{R0}両　置いていった！",
-  "en": ""
+  "en": "The Kanji Quiz Oni left {R0} ryo behind!"
  },
  {
   "id": "M510D/28/00CA",
   "kind": "msg",
   "jp": "「ブッブー！」\n　{KP}\n「ちょっと　ど忘れしただけ…\n　ですよね～！　はっはっは！」{KP}\n漢字クイズの鬼は\n去っていった！",
-  "en": ""
+  "en": "\"Bzzzt!\"{KP}\"You just had a little brain blip... right? Ha ha ha!\"{KP}The Kanji Quiz Oni left!"
  },
  {
   "id": "M510D/29/0002",
   "kind": "msg",
   "jp": "「ちょっと　ちょっと　桃太郎さん！」\n　{KP}\n「時間切れ　なんですけど…」\n漢字クイズの鬼は\n去っていった！",
-  "en": ""
+  "en": "\"Hey, hey, Momotaro-san!\"{KP}\"Time's up, you know...\"{n}The Kanji Quiz Oni left!"
  },
  {
   "id": "M510D/30/0000.0",
   "kind": "menu",
   "jp": "小野妹子",
-  "en": ""
+  "en": "Ono no Imoko"
  },
  {
   "id": "M510D/30/0000.1",
   "kind": "menu",
   "jp": "大野妹子",
-  "en": ""
+  "en": "Oono no Imoko"
  },
  {
   "id": "M510D/30/0000.2",
   "kind": "menu",
   "jp": "小野姉子",
-  "en": ""
+  "en": "Ono no Aneko"
  },
  {
   "id": "M510D/30/0000.3",
   "kind": "menu",
   "jp": "赤道小町",
-  "en": ""
+  "en": "Sekido Komachi"
  },
  {
   "id": "M510D/30/002C",
   "kind": "msg",
   "jp": "遣隋使として隋に渡ったのは誰？\n　{KN}",
-  "en": ""
+  "en": "Who crossed over to Sui China as an envoy?{KN}"
  },
  {
   "id": "M510D/31/0000.0",
   "kind": "menu",
   "jp": "徒然草",
-  "en": ""
+  "en": "Tsurezuregusa"
  },
  {
   "id": "M510D/31/0000.1",
   "kind": "menu",
   "jp": "土佐日記",
-  "en": ""
+  "en": "Tosa Diary"
  },
  {
   "id": "M510D/31/0000.2",
   "kind": "menu",
   "jp": "竹取物語",
-  "en": ""
+  "en": "Bamboo Cutter"
  },
  {
   "id": "M510D/31/0000.3",
   "kind": "menu",
   "jp": "枕草子",
-  "en": ""
+  "en": "Pillow Book"
  },
  {
   "id": "M510D/31/0028",
   "kind": "msg",
   "jp": "次の作品のうち時代が異なるものは？\n　{KN}",
-  "en": ""
+  "en": "Which of these works is from a different era?{KN}"
  },
  {
   "id": "M510D/32/0000.0",
   "kind": "menu",
   "jp": "１５代",
-  "en": ""
+  "en": "15"
  },
  {
   "id": "M510D/32/0000.1",
   "kind": "menu",
   "jp": "１２代",
-  "en": ""
+  "en": "12"
  },
  {
   "id": "M510D/32/0000.2",
   "kind": "menu",
   "jp": "１３代",
-  "en": ""
+  "en": "13"
  },
  {
   "id": "M510D/32/0000.3",
   "kind": "menu",
   "jp": "１４代",
-  "en": ""
+  "en": "14"
  },
  {
   "id": "M510D/32/0024",
   "kind": "msg",
   "jp": "徳川将軍は何代まで続いたか？\n　{KN}",
-  "en": ""
+  "en": "How many Tokugawa shoguns were there in all?{KN}"
  },
  {
   "id": "M510D/33/0000.0",
   "kind": "menu",
   "jp": "２回",
-  "en": ""
+  "en": "Twice"
  },
  {
   "id": "M510D/33/0000.1",
   "kind": "menu",
   "jp": "３回",
-  "en": ""
+  "en": "3 times"
  },
  {
   "id": "M510D/33/0000.2",
   "kind": "menu",
   "jp": "４回",
-  "en": ""
+  "en": "4 times"
  },
  {
   "id": "M510D/33/0000.3",
   "kind": "menu",
   "jp": "１回",
-  "en": ""
+  "en": "Once"
  },
  {
   "id": "M510D/33/001C",
   "kind": "msg",
   "jp": "元軍は何回　日本に攻めて来たか？\n　{KN}",
-  "en": ""
+  "en": "How many times did the Mongol army invade Japan?{KN}"
  },
  {
   "id": "M510D/34/0000.0",
   "kind": "menu",
   "jp": "平氏",
-  "en": ""
+  "en": "Taira clan"
  },
  {
   "id": "M510D/34/0000.1",
   "kind": "menu",
   "jp": "源氏",
-  "en": ""
+  "en": "Minamoto clan"
  },
  {
   "id": "M510D/34/0000.2",
   "kind": "menu",
   "jp": "足利氏",
-  "en": ""
+  "en": "Ashikaga clan"
  },
  {
   "id": "M510D/34/0000.3",
   "kind": "menu",
   "jp": "藤原氏",
-  "en": ""
+  "en": "Fujiwara clan"
  },
  {
   "id": "M510D/34/0020",
   "kind": "msg",
   "jp": "１１８５年　壇の浦の戦いで滅亡した\n一族は？{KN}",
-  "en": ""
+  "en": "Which clan was wiped out at the Battle of Dan-no-ura in 1185?{KN}"
  },
  {
   "id": "M510D/35/0000.0",
   "kind": "menu",
   "jp": "関ヶ原",
-  "en": ""
+  "en": "Sekigahara"
  },
  {
   "id": "M510D/35/0000.1",
   "kind": "menu",
   "jp": "小田原",
-  "en": ""
+  "en": "Odawara"
  },
  {
   "id": "M510D/35/0000.2",
   "kind": "menu",
   "jp": "京都",
-  "en": ""
+  "en": "Kyoto"
  },
  {
   "id": "M510D/35/0000.3",
   "kind": "menu",
   "jp": "大阪",
-  "en": ""
+  "en": "Osaka"
  },
  {
   "id": "M510D/35/0020",
   "kind": "msg",
   "jp": "１６００年　天下分け目の戦いが\n行われた場所は？{KN}",
-  "en": ""
+  "en": "Where was the decisive battle for the realm fought in 1600?{KN}"
  },
  {
   "id": "M510D/36/0000.0",
   "kind": "menu",
   "jp": "夏",
-  "en": ""
+  "en": "Summer"
  },
  {
   "id": "M510D/36/0000.1",
   "kind": "menu",
   "jp": "冬",
-  "en": ""
+  "en": "Winter"
  },
  {
   "id": "M510D/36/0000.2",
   "kind": "menu",
   "jp": "春",
-  "en": ""
+  "en": "Spring"
  },
  {
   "id": "M510D/36/0000.3",
   "kind": "menu",
   "jp": "秋",
-  "en": ""
+  "en": "Fall"
  },
  {
   "id": "M510D/36/0014",
   "kind": "msg",
   "jp": "１６１５年　豊臣氏が滅んだのは\n大阪ｏの陣{KN}",
-  "en": ""
+  "en": "In 1615, the Toyotomi clan fell in which Osaka campaign?{KN}"
  },
  {
   "id": "M510D/37/0000.0",
   "kind": "menu",
   "jp": "豊臣秀吉",
-  "en": ""
+  "en": "Hideyoshi"
  },
  {
   "id": "M510D/37/0000.1",
   "kind": "menu",
   "jp": "織田信長",
-  "en": ""
+  "en": "Nobunaga"
  },
  {
   "id": "M510D/37/0000.2",
   "kind": "menu",
   "jp": "足利尊氏",
-  "en": ""
+  "en": "Takauji"
  },
  {
   "id": "M510D/37/0000.3",
   "kind": "menu",
   "jp": "徳川家康",
-  "en": ""
+  "en": "Ieyasu"
  },
  {
   "id": "M510D/37/002C",
   "kind": "msg",
   "jp": "１５９０年頃に全国を統一したのは誰？\n　{KN}",
-  "en": ""
+  "en": "Who unified all of Japan around 1590?{KN}"
  },
  {
   "id": "M510D/38/0000.0",
   "kind": "menu",
   "jp": "鉄砲",
-  "en": ""
+  "en": "Guns"
  },
  {
   "id": "M510D/38/0000.1",
   "kind": "menu",
   "jp": "大砲",
-  "en": ""
+  "en": "Cannons"
  },
  {
   "id": "M510D/38/0000.2",
   "kind": "menu",
   "jp": "弓矢",
-  "en": ""
+  "en": "Bows"
  },
  {
   "id": "M510D/38/0000.3",
   "kind": "menu",
   "jp": "ハリセン",
-  "en": ""
+  "en": "Paper fans"
  },
  {
   "id": "M510D/38/0020",
   "kind": "msg",
   "jp": "織田信長が長篠の戦いで使った武器は？\n　{KN}",
-  "en": ""
+  "en": "What weapon did Oda Nobunaga use at the Battle of Nagashino?{KN}"
  },
  {
   "id": "M510D/39/0000.0",
   "kind": "menu",
   "jp": "飛鳥大仏",
-  "en": ""
+  "en": "Asuka"
  },
  {
   "id": "M510D/39/0000.1",
   "kind": "menu",
   "jp": "奈良大仏",
-  "en": ""
+  "en": "Nara"
  },
  {
   "id": "M510D/39/0000.2",
   "kind": "menu",
   "jp": "上野大仏",
-  "en": ""
+  "en": "Ueno"
  },
  {
   "id": "M510D/39/0000.3",
   "kind": "menu",
   "jp": "鎌倉大仏",
-  "en": ""
+  "en": "Kamakura"
  },
  {
   "id": "M510D/39/002C",
   "kind": "msg",
   "jp": "次のうち一番古い大仏は？\n　{KN}",
-  "en": ""
+  "en": "Which of these Great Buddhas is the oldest?{KN}"
  },
  {
   "id": "M510D/40/0000.0",
   "kind": "menu",
   "jp": "法隆寺",
-  "en": ""
+  "en": "Horyu-ji"
  },
  {
   "id": "M510D/40/0000.1",
   "kind": "menu",
   "jp": "金閣寺",
-  "en": ""
+  "en": "Kinkaku-ji"
  },
  {
   "id": "M510D/40/0000.2",
   "kind": "menu",
   "jp": "東大寺",
-  "en": ""
+  "en": "Todai-ji"
  },
  {
   "id": "M510D/40/0000.3",
   "kind": "menu",
   "jp": "薬師寺",
-  "en": ""
+  "en": "Yakushi-ji"
  },
  {
   "id": "M510D/40/0024",
   "kind": "msg",
   "jp": "次のうち一番古いお寺は？\n　{KN}",
-  "en": ""
+  "en": "Which of these temples is the oldest?{KN}"
  },
  {
   "id": "M510D/41/0000.0",
   "kind": "menu",
   "jp": "藤原京",
-  "en": ""
+  "en": "Fujiwara-kyo"
  },
  {
   "id": "M510D/41/0000.1",
   "kind": "menu",
   "jp": "平城京",
-  "en": ""
+  "en": "Heijo-kyo"
  },
  {
   "id": "M510D/41/0000.2",
   "kind": "menu",
   "jp": "平安京",
-  "en": ""
+  "en": "Heian-kyo"
  },
  {
   "id": "M510D/41/0000.3",
   "kind": "menu",
   "jp": "長岡京",
-  "en": ""
+  "en": "Nagaoka-kyo"
  },
  {
   "id": "M510D/41/0024",
   "kind": "msg",
   "jp": "次のうち一番古い都は？\n　{KN}",
-  "en": ""
+  "en": "Which of these capitals is the oldest?{KN}"
  },
  {
   "id": "M510D/42/0000.0",
   "kind": "menu",
   "jp": "ペリー",
-  "en": ""
+  "en": "Perry"
  },
  {
   "id": "M510D/42/0000.1",
   "kind": "menu",
   "jp": "ビッドル",
-  "en": ""
+  "en": "Biddle"
  },
  {
   "id": "M510D/42/0000.2",
   "kind": "menu",
   "jp": "パークス",
-  "en": ""
+  "en": "Parkes"
  },
  {
   "id": "M510D/42/0000.3",
   "kind": "menu",
   "jp": "ハリス",
-  "en": ""
+  "en": "Harris"
  },
  {
   "id": "M510D/42/0028",
   "kind": "msg",
   "jp": "１８５３年　浦賀に来航したのは誰？\n　{KN}",
-  "en": ""
+  "en": "Who sailed into Uraga in 1853?{KN}"
  },
  {
   "id": "M510D/43/0000.0",
   "kind": "menu",
   "jp": "西郷隆盛",
-  "en": ""
+  "en": "Saigo Takamori"
  },
  {
   "id": "M510D/43/0000.1",
   "kind": "menu",
   "jp": "大久保利通",
-  "en": ""
+  "en": "Okubo"
  },
  {
   "id": "M510D/43/0000.2",
   "kind": "menu",
   "jp": "徳川慶喜",
-  "en": ""
+  "en": "Yoshinobu"
  },
  {
   "id": "M510D/43/0000.3",
   "kind": "menu",
   "jp": "坂本龍馬",
-  "en": ""
+  "en": "Sakamoto Ryoma"
  },
  {
   "id": "M510D/43/002E",
   "kind": "msg",
   "jp": "１８７７年　西南戦争を起こしたのは？\n　{KN}",
-  "en": ""
+  "en": "Who started the Satsuma Rebellion in 1877?{KN}"
  },
  {
   "id": "M510D/44/0000.0",
   "kind": "menu",
   "jp": "１９４５",
-  "en": ""
+  "en": "1945"
  },
  {
   "id": "M510D/44/0000.1",
   "kind": "menu",
   "jp": "１９４６",
-  "en": ""
+  "en": "1946"
  },
  {
   "id": "M510D/44/0000.2",
   "kind": "menu",
   "jp": "１９４２",
-  "en": ""
+  "en": "1942"
  },
  {
   "id": "M510D/44/0000.3",
   "kind": "menu",
   "jp": "１９４１",
-  "en": ""
+  "en": "1941"
  },
  {
   "id": "M510D/44/002C",
   "kind": "msg",
   "jp": "第２次世界大戦が終了したのは何年？\n　{KN}",
-  "en": ""
+  "en": "In what year did World War II end?{KN}"
  },
  {
   "id": "M510D/45/0000.0",
   "kind": "menu",
   "jp": "卑弥呼",
-  "en": ""
+  "en": "Himiko"
  },
  {
   "id": "M510D/45/0000.1",
   "kind": "menu",
   "jp": "埴輪",
-  "en": ""
+  "en": "Haniwa"
  },
  {
   "id": "M510D/45/0000.2",
   "kind": "menu",
   "jp": "倭人",
-  "en": ""
+  "en": "Wajin"
  },
  {
   "id": "M510D/45/0000.3",
   "kind": "menu",
   "jp": "紫式部",
-  "en": ""
+  "en": "Murasaki Shikibu"
  },
  {
   "id": "M510D/45/0020",
   "kind": "msg",
   "jp": "邪馬台国を治めた女王は？\n　{KN}",
-  "en": ""
+  "en": "Who was the queen who ruled the land of Yamatai?{KN}"
  },
  {
   "id": "M510D/46/0000.0",
   "kind": "menu",
   "jp": "聖徳太子",
-  "en": ""
+  "en": "Prince Shotoku"
  },
  {
   "id": "M510D/46/0000.1",
   "kind": "menu",
   "jp": "平清盛",
-  "en": ""
+  "en": "Kiyomori"
  },
  {
   "id": "M510D/46/0000.2",
   "kind": "menu",
   "jp": "徳川家康",
-  "en": ""
+  "en": "Ieyasu"
  },
  {
   "id": "M510D/46/0000.3",
   "kind": "menu",
   "jp": "織田信長",
-  "en": ""
+  "en": "Nobunaga"
  },
  {
   "id": "M510D/46/002A",
   "kind": "msg",
   "jp": "６０４年　十七条の憲法を作ったのは？\n　{KN}",
-  "en": ""
+  "en": "Who wrote the Seventeen-Article Constitution in 604?{KN}"
  },
  {
   "id": "M510D/47/0000.0",
   "kind": "menu",
   "jp": "足利義満",
-  "en": ""
+  "en": "Yoshimitsu"
  },
  {
   "id": "M510D/47/0000.1",
   "kind": "menu",
   "jp": "豊臣秀吉",
-  "en": ""
+  "en": "Hideyoshi"
  },
  {
   "id": "M510D/47/0000.2",
   "kind": "menu",
   "jp": "徳川吉宗",
-  "en": ""
+  "en": "Yoshimune"
  },
  {
   "id": "M510D/47/0000.3",
   "kind": "menu",
   "jp": "上杉謙信",
-  "en": ""
+  "en": "Uesugi Kenshin"
  },
  {
   "id": "M510D/47/002C",
   "kind": "msg",
   "jp": "金閣寺を建てた室町幕府３代将軍は誰？\n　{KN}",
-  "en": ""
+  "en": "Which third shogun of the Muromachi shogunate built Kinkaku-ji?{KN}"
  },
  {
   "id": "M510D/48/0000.0",
   "kind": "menu",
   "jp": "大阪城",
-  "en": ""
+  "en": "Osaka"
  },
  {
   "id": "M510D/48/0000.1",
   "kind": "menu",
   "jp": "江戸城",
-  "en": ""
+  "en": "Edo"
  },
  {
   "id": "M510D/48/0000.2",
   "kind": "menu",
   "jp": "甲子園",
-  "en": ""
+  "en": "Koshien"
  },
  {
   "id": "M510D/48/0000.3",
   "kind": "menu",
   "jp": "熊本城",
-  "en": ""
+  "en": "Kumamoto"
  },
  {
   "id": "M510D/48/0024",
   "kind": "msg",
   "jp": "豊臣秀吉が建てた城は？\n　{KN}",
-  "en": ""
+  "en": "Which castle did Toyotomi Hideyoshi build?{KN}"
  },
  {
   "id": "M510D/49/0000.0",
   "kind": "menu",
   "jp": "徳川家康",
-  "en": ""
+  "en": "Ieyasu"
  },
  {
   "id": "M510D/49/0000.1",
   "kind": "menu",
   "jp": "北条泰時",
-  "en": ""
+  "en": "Hojo Yasutoki"
  },
  {
   "id": "M510D/49/0000.2",
   "kind": "menu",
   "jp": "足利尊氏",
-  "en": ""
+  "en": "Takauji"
  },
  {
   "id": "M510D/49/0000.3",
   "kind": "menu",
   "jp": "板垣退助",
-  "en": ""
+  "en": "Itagaki Taisuke"
  },
  {
   "id": "M510D/49/002C",
   "kind": "msg",
   "jp": "江戸幕府の初代将軍は誰？\n　{KN}",
-  "en": ""
+  "en": "Who was the first shogun of the Edo shogunate?{KN}"
  },
  {
   "id": "M510D/50/0000.0",
   "kind": "menu",
   "jp": "江戸時代",
-  "en": ""
+  "en": "Edo era"
  },
  {
   "id": "M510D/50/0000.1",
   "kind": "menu",
   "jp": "縄文時代",
-  "en": ""
+  "en": "Jomon era"
  },
  {
   "id": "M510D/50/0000.2",
   "kind": "menu",
   "jp": "弥生時代",
-  "en": ""
+  "en": "Yayoi era"
  },
  {
   "id": "M510D/50/0000.3",
   "kind": "menu",
   "jp": "鎌倉時代",
-  "en": ""
+  "en": "Kamakura era"
  },
  {
   "id": "M510D/50/002C",
   "kind": "msg",
   "jp": "日本が鎖国した時代は？\n　{KN}",
-  "en": ""
+  "en": "In which era did Japan close itself off from the world?{KN}"
  },
  {
   "id": "M510D/51/0000.0",
   "kind": "menu",
   "jp": "福沢諭吉",
-  "en": ""
+  "en": "Fukuzawa"
  },
  {
   "id": "M510D/51/0000.1",
   "kind": "menu",
   "jp": "岩倉具視",
-  "en": ""
+  "en": "Iwakura"
  },
  {
   "id": "M510D/51/0000.2",
   "kind": "menu",
   "jp": "大隈重信",
-  "en": ""
+  "en": "Okuma"
  },
  {
   "id": "M510D/51/0000.3",
   "kind": "menu",
   "jp": "聖徳太子",
-  "en": ""
+  "en": "Prince Shotoku"
  },
  {
   "id": "M510D/51/002C",
   "kind": "msg",
   "jp": "「学問のすすめ」を書いたのは誰？\n　{KN}",
-  "en": ""
+  "en": "Who wrote \"An Encouragement of Learning\"?{KN}"
  },
  {
   "id": "M510D/52/0000.0",
   "kind": "menu",
   "jp": "徳川綱吉",
-  "en": ""
+  "en": "Tsunayoshi"
  },
  {
   "id": "M510D/52/0000.1",
   "kind": "menu",
   "jp": "菅原道真",
-  "en": ""
+  "en": "Michizane"
  },
  {
   "id": "M510D/52/0000.2",
   "kind": "menu",
   "jp": "後鳥羽上皇",
-  "en": ""
+  "en": "Go-Toba"
  },
  {
   "id": "M510D/52/0000.3",
   "kind": "menu",
   "jp": "織田信長",
-  "en": ""
+  "en": "Nobunaga"
  },
  {
   "id": "M510D/52/002E",
   "kind": "msg",
   "jp": "生類憐れみの令を出した元禄時代の\n将軍は？{KN}",
-  "en": ""
+  "en": "Which shogun of the Genroku era issued the Edicts on Compassion for Living Things?{KN}"
  },
  {
   "id": "M510D/53/0000.0",
   "kind": "menu",
   "jp": "沖田総司",
-  "en": ""
+  "en": "Okita Soji"
  },
  {
   "id": "M510D/53/0000.1",
   "kind": "menu",
   "jp": "坂本龍馬",
-  "en": ""
+  "en": "Sakamoto Ryoma"
  },
  {
   "id": "M510D/53/0000.2",
   "kind": "menu",
   "jp": "桂小五郎",
-  "en": ""
+  "en": "Katsura Kogoro"
  },
  {
   "id": "M510D/53/0000.3",
   "kind": "menu",
   "jp": "勝海舟",
-  "en": ""
+  "en": "Katsu Kaishu"
  },
  {
   "id": "M510D/53/002A",
   "kind": "msg",
   "jp": "次の人物のうち新選組は誰？\n　{KN}",
-  "en": ""
+  "en": "Which of these people was in the Shinsengumi?{KN}"
  },
  {
   "id": "M510D/54/0000.0",
   "kind": "menu",
   "jp": "延暦寺",
-  "en": ""
+  "en": "Enryaku-ji"
  },
  {
   "id": "M510D/54/0000.1",
   "kind": "menu",
   "jp": "金閣寺",
-  "en": ""
+  "en": "Kinkaku-ji"
  },
  {
   "id": "M510D/54/0000.2",
   "kind": "menu",
   "jp": "東大寺",
-  "en": ""
+  "en": "Todai-ji"
  },
  {
   "id": "M510D/54/0000.3",
   "kind": "menu",
   "jp": "法隆寺",
-  "en": ""
+  "en": "Horyu-ji"
  },
  {
   "id": "M510D/54/0024",
   "kind": "msg",
   "jp": "織田信長が焼き打ちにした寺は？\n　{KN}",
-  "en": ""
+  "en": "Which temple did Oda Nobunaga burn down?{KN}"
  },
  {
   "id": "M510D/55/0000.0",
   "kind": "menu",
   "jp": "竹千代",
-  "en": ""
+  "en": "Takechiyo"
  },
  {
   "id": "M510D/55/0000.1",
   "kind": "menu",
   "jp": "梅千代",
-  "en": ""
+  "en": "Umechiyo"
  },
  {
   "id": "M510D/55/0000.2",
   "kind": "menu",
   "jp": "松千代",
-  "en": ""
+  "en": "Matsuchiyo"
  },
  {
   "id": "M510D/55/0000.3",
   "kind": "menu",
   "jp": "千代の富士",
-  "en": ""
+  "en": "Chiyonofuji"
  },
  {
   "id": "M510D/55/0028",
   "kind": "msg",
   "jp": "徳川家康の少年時代の名前は？\n　{KN}",
-  "en": ""
+  "en": "What was Tokugawa Ieyasu's name as a boy?{KN}"
  },
  {
   "id": "M510D/56/0000.0",
   "kind": "menu",
   "jp": "吉良家",
-  "en": ""
+  "en": "Kira clan"
  },
  {
   "id": "M510D/56/0000.1",
   "kind": "menu",
   "jp": "徳川家",
-  "en": ""
+  "en": "Tokugawa clan"
  },
  {
   "id": "M510D/56/0000.2",
   "kind": "menu",
   "jp": "織田家",
-  "en": ""
+  "en": "Oda clan"
  },
  {
   "id": "M510D/56/0000.3",
   "kind": "menu",
   "jp": "北条家",
-  "en": ""
+  "en": "Hojo clan"
  },
  {
   "id": "M510D/56/0024",
   "kind": "msg",
   "jp": "赤穂浪士が討ち入りしたのは？\n　{KN}",
-  "en": ""
+  "en": "Whose house did the 47 Ronin of Ako raid?{KN}"
  },
  {
   "id": "M510D/57/0000.0",
   "kind": "menu",
   "jp": "宮本武蔵",
-  "en": ""
+  "en": "Musashi"
  },
  {
   "id": "M510D/57/0000.1",
   "kind": "menu",
   "jp": "柳生十兵衛",
-  "en": ""
+  "en": "Yagyu Jubei"
  },
  {
   "id": "M510D/57/0000.2",
   "kind": "menu",
   "jp": "千葉周作",
-  "en": ""
+  "en": "Chiba Shusaku"
  },
  {
   "id": "M510D/57/0000.3",
   "kind": "menu",
   "jp": "夏目漱石",
-  "en": ""
+  "en": "Natsume Soseki"
  },
  {
   "id": "M510D/57/002E",
   "kind": "msg",
   "jp": "佐々木小次郎と対決したのは誰？\n　{KN}",
-  "en": ""
+  "en": "Who fought the famous duel against Sasaki Kojiro?{KN}"
  },
  {
   "id": "M510D/58/0000.0",
   "kind": "menu",
   "jp": "士農工商",
-  "en": ""
+  "en": "Shi-no-ko-sho"
  },
  {
   "id": "M510D/58/0000.1",
   "kind": "menu",
   "jp": "士商農工",
-  "en": ""
+  "en": "Shi-sho-no-ko"
  },
  {
   "id": "M510D/58/0000.2",
   "kind": "menu",
   "jp": "商農工士",
-  "en": ""
+  "en": "Sho-no-ko-shi"
  },
  {
   "id": "M510D/58/0000.3",
   "kind": "menu",
   "jp": "上下左右",
-  "en": ""
+  "en": "N-S-E-W"
  },
  {
   "id": "M510D/58/002C",
   "kind": "msg",
   "jp": "江戸時代の身分制度は？\n　{KN}",
-  "en": ""
+  "en": "What was the class order of the Edo era? (shi: samurai, no: farmers, ko: artisans, sho: merchants){KN}"
  },
  {
   "id": "M510D/59/0000.0",
   "kind": "menu",
   "jp": "伊賀",
-  "en": ""
+  "en": "Iga"
  },
  {
   "id": "M510D/59/0000.1",
   "kind": "menu",
   "jp": "甲賀",
-  "en": ""
+  "en": "Koga"
  },
  {
   "id": "M510D/59/0000.2",
   "kind": "menu",
   "jp": "風魔",
-  "en": ""
+  "en": "Fuma"
  },
  {
   "id": "M510D/59/0000.3",
   "kind": "menu",
   "jp": "根来",
-  "en": ""
+  "en": "Negoro"
  },
  {
   "id": "M510D/59/001C",
   "kind": "msg",
   "jp": "徳川家康を警護していた服部半蔵は\nどこの忍者？{KN}",
-  "en": ""
+  "en": "Hattori Hanzo guarded Tokugawa Ieyasu. Which ninja clan was he from?{KN}"
  },
  {
   "id": "M510D/60/0000.0",
   "kind": "menu",
   "jp": "海援隊",
-  "en": ""
+  "en": "Kaientai"
  },
  {
   "id": "M510D/60/0000.1",
   "kind": "menu",
   "jp": "陸援隊",
-  "en": ""
+  "en": "Rikuentai"
  },
  {
   "id": "M510D/60/0000.2",
   "kind": "menu",
   "jp": "奇兵隊",
-  "en": ""
+  "en": "Kiheitai"
  },
  {
   "id": "M510D/60/0000.3",
   "kind": "menu",
   "jp": "白虎隊",
-  "en": ""
+  "en": "Byakkotai"
  },
  {
   "id": "M510D/60/0024",
   "kind": "msg",
   "jp": "次のうち坂本龍馬が作った組織は？\n　{KN}",
-  "en": ""
+  "en": "Which of these groups did Sakamoto Ryoma found?{KN}"
  },
  {
   "id": "M510D/61/0000.0",
   "kind": "menu",
   "jp": "四郎",
-  "en": ""
+  "en": "Shiro"
  },
  {
   "id": "M510D/61/0000.1",
   "kind": "menu",
   "jp": "五郎",
-  "en": ""
+  "en": "Goro"
  },
  {
   "id": "M510D/61/0000.2",
   "kind": "menu",
   "jp": "六郎",
-  "en": ""
+  "en": "Rokuro"
  },
  {
   "id": "M510D/61/0000.3",
@@ -1107,235 +1107,235 @@
   "id": "M510D/61/001E",
   "kind": "msg",
   "jp": "１６３７年に起きた島原の乱を指揮した\n総大将の少年の名は天草なに？{KN}",
-  "en": ""
+  "en": "The boy who led the Shimabara Rebellion of 1637 as its supreme commander was named Amakusa what?{KN}"
  },
  {
   "id": "M510D/62/0000.0",
   "kind": "menu",
   "jp": "ゲルマン",
-  "en": ""
+  "en": "Germanic"
  },
  {
   "id": "M510D/62/0000.1",
   "kind": "menu",
   "jp": "アーリア",
-  "en": ""
+  "en": "Aryan"
  },
  {
   "id": "M510D/62/0000.2",
   "kind": "menu",
   "jp": "アングル",
-  "en": ""
+  "en": "Angle"
  },
  {
   "id": "M510D/62/0000.3",
   "kind": "menu",
   "jp": "サクソン",
-  "en": ""
+  "en": "Saxon"
  },
  {
   "id": "M510D/62/002C",
   "kind": "msg",
   "jp": "３７５年に大移動を始めた民族は？\n　{KN}",
-  "en": ""
+  "en": "Which peoples began their great migration in 375?{KN}"
  },
  {
   "id": "M510D/63/0000.0",
   "kind": "menu",
   "jp": "ニュートン",
-  "en": ""
+  "en": "Newton"
  },
  {
   "id": "M510D/63/0000.1",
   "kind": "menu",
   "jp": "マルクス",
-  "en": ""
+  "en": "Marx"
  },
  {
   "id": "M510D/63/0000.2",
   "kind": "menu",
   "jp": "ダーウィン",
-  "en": ""
+  "en": "Darwin"
  },
  {
   "id": "M510D/63/0000.3",
   "kind": "menu",
   "jp": "エジソン",
-  "en": ""
+  "en": "Edison"
  },
  {
   "id": "M510D/63/0030",
   "kind": "msg",
   "jp": "万有引力の法則を発見したのは誰？\n　{KN}",
-  "en": ""
+  "en": "Who discovered the law of universal gravitation?{KN}"
  },
  {
   "id": "M510D/64/0000.0",
   "kind": "menu",
   "jp": "アジア",
-  "en": ""
+  "en": "Asia"
  },
  {
   "id": "M510D/64/0000.1",
   "kind": "menu",
   "jp": "アメリカ",
-  "en": ""
+  "en": "America"
  },
  {
   "id": "M510D/64/0000.2",
   "kind": "menu",
   "jp": "アフリカ",
-  "en": ""
+  "en": "Africa"
  },
  {
   "id": "M510D/64/0000.3",
   "kind": "menu",
   "jp": "ヨーロッパ",
-  "en": ""
+  "en": "Europe"
  },
  {
   "id": "M510D/64/002C",
   "kind": "msg",
   "jp": "東インド会社はヨーロッパ各国が\nどこと貿易するために作った会社？{KN}",
-  "en": ""
+  "en": "European countries set up East India Companies to trade with where?{KN}"
  },
  {
   "id": "M510D/65/0000.0",
   "kind": "menu",
   "jp": "ドイツ",
-  "en": ""
+  "en": "Germany"
  },
  {
   "id": "M510D/65/0000.1",
   "kind": "menu",
   "jp": "ロシア",
-  "en": ""
+  "en": "Russia"
  },
  {
   "id": "M510D/65/0000.2",
   "kind": "menu",
   "jp": "ルーマニア",
-  "en": ""
+  "en": "Romania"
  },
  {
   "id": "M510D/65/0000.3",
   "kind": "menu",
   "jp": "オランダ",
-  "en": ""
+  "en": "Netherlands"
  },
  {
   "id": "M510D/65/002A",
   "kind": "msg",
   "jp": "１９９０年　ベルリンの壁を取り払い\n統一をはたした国はどこか？{KN}",
-  "en": ""
+  "en": "Which country tore down the Berlin Wall and was reunified in 1990?{KN}"
  },
  {
   "id": "M510D/66/0000.0",
   "kind": "menu",
   "jp": "北京原人",
-  "en": ""
+  "en": "Peking Man"
  },
  {
   "id": "M510D/66/0000.1",
   "kind": "menu",
   "jp": "黄河原人",
-  "en": ""
+  "en": "Huanghe Man"
  },
  {
   "id": "M510D/66/0000.2",
   "kind": "menu",
   "jp": "超原人",
-  "en": ""
+  "en": "Super Man"
  },
  {
   "id": "M510D/66/0000.3",
   "kind": "menu",
   "jp": "高橋原人",
-  "en": ""
+  "en": "Takahashi Man"
  },
  {
   "id": "M510D/66/002A",
   "kind": "msg",
   "jp": "中国で発見された数十万年前の人類を\nなんと呼ぶか？{KN}",
-  "en": ""
+  "en": "What do we call the early humans from hundreds of thousands of years ago found in China?{KN}"
  },
  {
   "id": "M510D/67/0000.0",
   "kind": "menu",
   "jp": "仏教",
-  "en": ""
+  "en": "Buddhism"
  },
  {
   "id": "M510D/67/0000.1",
   "kind": "menu",
   "jp": "キリスト教",
-  "en": ""
+  "en": "Christianity"
  },
  {
   "id": "M510D/67/0000.2",
   "kind": "menu",
   "jp": "密教",
-  "en": ""
+  "en": "Esoteric sect"
  },
  {
   "id": "M510D/67/0000.3",
   "kind": "menu",
   "jp": "農協",
-  "en": ""
+  "en": "Farm Co-op"
  },
  {
   "id": "M510D/67/0022",
   "kind": "msg",
   "jp": "紀元前６世紀頃　シャカが説いた教えは\n何というか？{KN}",
-  "en": ""
+  "en": "What was the teaching Shakyamuni preached around the 6th century BC?{KN}"
  },
  {
   "id": "M510D/68/0000.0",
   "kind": "menu",
   "jp": "アメリカ",
-  "en": ""
+  "en": "America"
  },
  {
   "id": "M510D/68/0000.1",
   "kind": "menu",
   "jp": "イギリス",
-  "en": ""
+  "en": "Britain"
  },
  {
   "id": "M510D/68/0000.2",
   "kind": "menu",
   "jp": "日本",
-  "en": ""
+  "en": "Japan"
  },
  {
   "id": "M510D/68/0000.3",
   "kind": "menu",
   "jp": "インド",
-  "en": ""
+  "en": "India"
  },
  {
   "id": "M510D/68/0026",
   "kind": "msg",
   "jp": "１７７６年に独立宣言した国は？\n　{KN}",
-  "en": ""
+  "en": "Which country declared its independence in 1776?{KN}"
  },
  {
   "id": "M510D/69/0000.0",
   "kind": "menu",
   "jp": "国際連盟",
-  "en": ""
+  "en": "The League"
  },
  {
   "id": "M510D/69/0000.1",
   "kind": "menu",
   "jp": "国際連合",
-  "en": ""
+  "en": "United Nations"
  },
  {
   "id": "M510D/69/0000.2",
   "kind": "menu",
   "jp": "江戸幕府",
-  "en": ""
+  "en": "Edo Shogunate"
  },
  {
   "id": "M510D/69/0000.3",
@@ -1443,13 +1443,13 @@
   "id": "M510D/73/0000.0",
   "kind": "menu",
   "jp": "国際連合",
-  "en": ""
+  "en": "United Nations"
  },
  {
   "id": "M510D/73/0000.1",
   "kind": "menu",
   "jp": "国際連盟",
-  "en": ""
+  "en": "The League"
  },
  {
   "id": "M510D/73/0000.2",
@@ -1599,13 +1599,13 @@
   "id": "M510D/78/0000.1",
   "kind": "menu",
   "jp": "密教",
-  "en": ""
+  "en": "Esoteric sect"
  },
  {
   "id": "M510D/78/0000.2",
   "kind": "menu",
   "jp": "キリスト教",
-  "en": ""
+  "en": "Christianity"
  },
  {
   "id": "M510D/78/0000.3",
@@ -1653,7 +1653,7 @@
   "id": "M510D/80/0000.0",
   "kind": "menu",
   "jp": "イギリス",
-  "en": ""
+  "en": "Britain"
  },
  {
   "id": "M510D/80/0000.1",
@@ -1665,7 +1665,7 @@
   "id": "M510D/80/0000.2",
   "kind": "menu",
   "jp": "アメリカ",
-  "en": ""
+  "en": "America"
  },
  {
   "id": "M510D/80/0000.3",
@@ -1683,7 +1683,7 @@
   "id": "M510D/81/0000.0",
   "kind": "menu",
   "jp": "イギリス",
-  "en": ""
+  "en": "Britain"
  },
  {
   "id": "M510D/81/0000.1",
@@ -1695,13 +1695,13 @@
   "id": "M510D/81/0000.2",
   "kind": "menu",
   "jp": "インド",
-  "en": ""
+  "en": "India"
  },
  {
   "id": "M510D/81/0000.3",
   "kind": "menu",
   "jp": "日本",
-  "en": ""
+  "en": "Japan"
  },
  {
   "id": "M510D/81/0026",
@@ -3285,7 +3285,7 @@
   "id": "M510D/134/0000.2",
   "kind": "menu",
   "jp": "京都",
-  "en": ""
+  "en": "Kyoto"
  },
  {
   "id": "M510D/134/0000.3",
@@ -3381,7 +3381,7 @@
   "id": "M510D/137/0000.3",
   "kind": "menu",
   "jp": "四郎",
-  "en": ""
+  "en": "Shiro"
  },
  {
   "id": "M510D/137/001C",
@@ -3561,7 +3561,7 @@
   "id": "M510D/143/0000.3",
   "kind": "menu",
   "jp": "鉄砲",
-  "en": ""
+  "en": "Guns"
  },
  {
   "id": "M510D/143/001C",
@@ -6243,7 +6243,7 @@
   "id": "M510D/233/0000.0",
   "kind": "menu",
   "jp": "ロシア",
-  "en": ""
+  "en": "Russia"
  },
  {
   "id": "M510D/233/0000.1",
@@ -6255,7 +6255,7 @@
   "id": "M510D/233/0000.2",
   "kind": "menu",
   "jp": "インド",
-  "en": ""
+  "en": "India"
  },
  {
   "id": "M510D/233/0000.3",
@@ -6705,13 +6705,13 @@
   "id": "M510D/248/0000.2",
   "kind": "menu",
   "jp": "オランダ",
-  "en": ""
+  "en": "Netherlands"
  },
  {
   "id": "M510D/248/0000.3",
   "kind": "menu",
   "jp": "ヨーロッパ",
-  "en": ""
+  "en": "Europe"
  },
  {
   "id": "M510D/248/0030",
@@ -6795,7 +6795,7 @@
   "id": "M510D/251/0000.2",
   "kind": "menu",
   "jp": "冬",
-  "en": ""
+  "en": "Winter"
  },
  {
   "id": "M510D/251/0000.3",
@@ -6849,13 +6849,13 @@
   "id": "M510D/253/0000.1",
   "kind": "menu",
   "jp": "アメリカ",
-  "en": ""
+  "en": "America"
  },
  {
   "id": "M510D/253/0000.2",
   "kind": "menu",
   "jp": "日本",
-  "en": ""
+  "en": "Japan"
  },
  {
   "id": "M510D/253/0000.3",
@@ -6891,7 +6891,7 @@
   "id": "M510D/254/0000.3",
   "kind": "menu",
   "jp": "イギリス",
-  "en": ""
+  "en": "Britain"
  },
  {
   "id": "M510D/254/0028",
@@ -6909,7 +6909,7 @@
   "id": "M510D/255/0000.1",
   "kind": "menu",
   "jp": "インド",
-  "en": ""
+  "en": "India"
  },
  {
   "id": "M510D/255/0000.2",
@@ -6945,7 +6945,7 @@
   "id": "M510D/256/0000.2",
   "kind": "menu",
   "jp": "インド",
-  "en": ""
+  "en": "India"
  },
  {
   "id": "M510D/256/0000.3",
@@ -7053,7 +7053,7 @@
   "id": "M510D/260/0000.0",
   "kind": "menu",
   "jp": "大阪",
-  "en": ""
+  "en": "Osaka"
  },
  {
   "id": "M510D/260/0000.1",
@@ -7119,7 +7119,7 @@
   "id": "M510D/262/0000.1",
   "kind": "menu",
   "jp": "日本",
-  "en": ""
+  "en": "Japan"
  },
  {
   "id": "M510D/262/0000.2",
@@ -7323,13 +7323,13 @@
   "id": "M510D/269/0000.0",
   "kind": "menu",
   "jp": "イギリス",
-  "en": ""
+  "en": "Britain"
  },
  {
   "id": "M510D/269/0000.1",
   "kind": "menu",
   "jp": "ドイツ",
-  "en": ""
+  "en": "Germany"
  },
  {
   "id": "M510D/269/0000.2",
@@ -7341,7 +7341,7 @@
   "id": "M510D/269/0000.3",
   "kind": "menu",
   "jp": "アメリカ",
-  "en": ""
+  "en": "America"
  },
  {
   "id": "M510D/269/002A",
@@ -7539,13 +7539,13 @@
   "id": "M510D/276/0000.1",
   "kind": "menu",
   "jp": "アメリカ",
-  "en": ""
+  "en": "America"
  },
  {
   "id": "M510D/276/0000.2",
   "kind": "menu",
   "jp": "イギリス",
-  "en": ""
+  "en": "Britain"
  },
  {
   "id": "M510D/276/0000.3",
@@ -7593,7 +7593,7 @@
   "id": "M510D/278/0000.0",
   "kind": "menu",
   "jp": "京都",
-  "en": ""
+  "en": "Kyoto"
  },
  {
   "id": "M510D/278/0000.1",
@@ -7611,7 +7611,7 @@
   "id": "M510D/278/0000.3",
   "kind": "menu",
   "jp": "大阪",
-  "en": ""
+  "en": "Osaka"
  },
  {
   "id": "M510D/278/001C",
@@ -7635,7 +7635,7 @@
   "id": "M510D/279/0000.2",
   "kind": "menu",
   "jp": "インド",
-  "en": ""
+  "en": "India"
  },
  {
   "id": "M510D/279/0000.3",
@@ -9675,13 +9675,13 @@
   "id": "M510D/347/0000.2",
   "kind": "menu",
   "jp": "インド",
-  "en": ""
+  "en": "India"
  },
  {
   "id": "M510D/347/0000.3",
   "kind": "menu",
   "jp": "イギリス",
-  "en": ""
+  "en": "Britain"
  },
  {
   "id": "M510D/347/002A",

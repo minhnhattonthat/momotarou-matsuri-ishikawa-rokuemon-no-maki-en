@@ -3,7 +3,7 @@
   "id": "GSV2215D/2/0018",
   "kind": "msg",
   "jp": "「アタイ　生まれてから\n　一回も　泣いたことがないの！」\n　{KP}\n「そんなだから　みんなから\n　おかしいと　言われ　続けているの」\n　{KP}\n「ねぇ　桃太郎さん！\n　なんとか　ならないかしら…」\n　",
-  "en": ""
+  "en": "\"I've never cried once since the day I was born!\"{KP}\"That's why everyone keeps telling me I'm weird.\"{KP}\"Hey, Momotaro-san! Isn't there anything you can do...\""
  },
  {
   "id": "GSV2215D/2/00F2",
@@ -15,18 +15,18 @@
   "id": "GSV2215D/2/0124",
   "kind": "msg",
   "jp": "「えっ！\n　これを　むけばいいの？\n　なぜ　たまねぎを…」{KP}\n　\n「うっ…　あらっ\n　目から　水が……」\n　{KP}\n「これが　涙……\n　これが　泣くと　いうことなの…？」\n　{KP}\n「桃太郎さん　ありがとう！\n　これから　たまねぎを　むいて\n　がんばるわ！」{KP}\n　\n「お礼に　{bb}方言カード{ww}を\n　あげるわネ！」\n　",
-  "en": ""
+  "en": "\"Huh! I just peel this? But why an onion...\"{KP}\"Ugh... oh my, water's coming out of my eyes...\"{KP}\"So these are tears... So this is what crying is...?\"{KP}\"Thank you, Momotaro-san! From now on I'll work hard at peeling onions!\"{KP}\"As thanks, I'll give you a {bb}Dialect Card{ww}!\""
  },
  {
   "id": "GSV2215D/2/027A",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０７３{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 073{ww}!{KN}"
  },
  {
   "id": "GSV2215D/2/02D2",
   "kind": "msg",
   "jp": "「あっ！　桃太郎さん　ありがとう\n　あたし　今も　たまねぎで\n　泣く練習を　しているの！」{KP}\n　\n「うううっ…　でも\n　手が　すごーく　くさく\n　なっちゃうのよね！」",
-  "en": ""
+  "en": "\"Oh! Thank you, Momotaro-san! I'm still practicing crying with onions even now!\"{KP}\"Boo hoo... But it makes my hands smell sooo bad!\""
  }
 ]

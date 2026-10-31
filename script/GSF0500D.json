@@ -3,36 +3,36 @@
   "id": "GSF0500D/3/002C",
   "kind": "msg",
   "jp": "「ここは　{bb}雪女さま{ww}が　住む\n　氷の洞窟　です！」\n　{KP}\n「ただ　{bb}雪女さま{ww}は　どなたにも\n　お会いに　なりません！」\n　{KP}\n「行っても　むだですよ！」\n　\n　",
-  "en": ""
+  "en": "\"This is the Ice Cave, where {bb}Yuki-onna-sama{ww} lives!\"{KP}\"But {bb}Yuki-onna-sama{ww} won't meet with anyone!\"{KP}\"It's no use going in!\""
  },
  {
   "id": "GSF0500D/3/00EA",
   "kind": "msg",
   "jp": "「ここは　{bb}雪女さま{ww}が　住む\n　氷の洞窟　です！」\n　{KP}\n「あっ！　ユキだるまさん\n　どこに　行っていたのですか？」\n　",
-  "en": ""
+  "en": "\"This is the Ice Cave, where {bb}Yuki-onna-sama{ww} lives!\"{KP}\"Oh! Snowman-san, where have you been?\""
  },
  {
   "id": "GSF0500D/3/0178",
   "kind": "msg",
   "jp": "「えへっ！　ちょっとね！」\n　\n　",
-  "en": ""
+  "en": "\"Hehe! Just around!\""
  },
  {
   "id": "GSF0500D/3/01AA",
   "kind": "msg",
   "jp": "「{bb}雪女さま{ww}が　さがして\n　いましたよ！」\n　",
-  "en": ""
+  "en": "\"{bb}Yuki-onna-sama{ww} has been looking for you!\""
  },
  {
   "id": "GSF0500D/3/01EC",
   "kind": "msg",
   "jp": "「ここは　雪女さまが　住む\n　氷の洞窟　です！」\n　{KP}\n「あっ！　雪女さま！\n　どちらに　行かれるのですか？」\n　",
-  "en": ""
+  "en": "\"This is the Ice Cave, where Yuki-onna-sama lives!\"{KP}\"Oh! Yuki-onna-sama! Where are you going?\""
  },
  {
   "id": "GSF0500D/3/0274",
   "kind": "msg",
   "jp": "「ここは　雪女さまの\n　氷の洞窟　です！」\n　{KP}\n「ただ今　雪女さまは\n　寝太郎の村に　行っていて\n　留守　ですよ！」",
-  "en": ""
+  "en": "\"This is Yuki-onna-sama's Ice Cave!\"{KP}\"Yuki-onna-sama is away at the moment, visiting Netaro Village!\""
  }
 ]

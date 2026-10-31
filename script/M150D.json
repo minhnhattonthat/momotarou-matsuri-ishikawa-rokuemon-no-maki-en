@@ -3,108 +3,108 @@
   "id": "M150D/10/0002",
   "kind": "msg",
   "jp": "ゲームを　続けますか？\n　{KN}",
-  "en": ""
+  "en": "Continue the game?{KN}"
  },
  {
   "id": "M150D/11/000A",
   "kind": "msg",
   "jp": "うなれ！金太郎拳の　遊び方\n　{KP}\n「岩の前に　立って　○ボタンを\n　連打！　連打！だど！」{KP}\n「かたい　岩！　やわらかい　岩は\n　気合いで　見抜くんだ！」{KP}\n「×ボタンで\n　速く　走れるど！」{KP}\n「制限時間いっぱいまで　岩を\n　くだきまくれよ　桃太郎！」{KP}\n「おまえなら　できるはずだよな！」\n　",
-  "en": ""
+  "en": "How to Play Roar! Kintaro Fist{KP}\"Stand in front of a rock and mash the Circle button! Mash it, ya hear!\"{KP}\"Hard rocks! Soft rocks! Tell 'em apart with your fighting spirit!\"{KP}\"The X button lets ya run fast!\"{KP}\"Smash rocks like crazy right up till time runs out, Momotaro!\"{KP}\"I know you can do it!\""
  },
  {
   "id": "M150D/11/014E",
   "kind": "msg",
   "jp": "ではゲームスタートです！\n　",
-  "en": ""
+  "en": "Now, game start!"
  },
  {
   "id": "M150D/11/0184",
   "kind": "msg",
   "jp": "ではゲームを　プレイしますか？\n　{KN}",
-  "en": ""
+  "en": "Would you like to play the game?{KN}"
  },
  {
   "id": "M150D/12/0046",
   "kind": "msg",
   "jp": "今回は{R2}段でした\n　",
-  "en": ""
+  "en": "This time you got level {R2}."
  },
  {
   "id": "M150D/12/006C",
   "kind": "msg",
   "jp": "今回は初段でした\n　",
-  "en": ""
+  "en": "This time you got level 1."
  },
  {
   "id": "M150D/12/0092",
   "kind": "msg",
   "jp": "今回は免許皆伝でした\n　",
-  "en": ""
+  "en": "This time you got Full Mastery."
  },
  {
   "id": "M150D/12/00BC",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n新記録ですよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! It's a new record!!{KP}Keep up the good work!"
  },
  {
   "id": "M150D/12/0134",
   "kind": "msg",
   "jp": "今回は{R2}段でした\n　",
-  "en": ""
+  "en": "This time you got level {R2}."
  },
  {
   "id": "M150D/12/015A",
   "kind": "msg",
   "jp": "今回は初段でした\n　",
-  "en": ""
+  "en": "This time you got level 1."
  },
  {
   "id": "M150D/12/0180",
   "kind": "msg",
   "jp": "今回は免許皆伝でした\n　",
-  "en": ""
+  "en": "This time you got Full Mastery."
  },
  {
   "id": "M150D/12/01BA",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n段位更新ですよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! Your level went up!!{KP}Keep up the good work!"
  },
  {
   "id": "M150D/12/0224",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n初段に　なりましたよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! You reached level 1!!{KP}Keep up the good work!"
  },
  {
   "id": "M150D/12/0294",
   "kind": "msg",
   "jp": "桃太郎さん　おめでとうございます！\n免許皆伝に　なりましたよ！！{KP}\nごほうびとして\n{bb}方言カード{ww}が　１枚　もらえます！",
-  "en": ""
+  "en": "Congratulations, Momotaro-san! You've reached Full Mastery!!{KP}As a reward, you get one {bb}Dialect Card{ww}!"
  },
  {
   "id": "M150D/12/0320",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０５８{ww}を　手に入れた！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 058{ww}!{KP}Keep up the good work!"
  },
  {
   "id": "M150D/13/0002",
   "kind": "msg",
   "jp": "このゲームを\nもう一度　遊びますか？{KN}",
-  "en": ""
+  "en": "Play this game again?{KN}"
  },
  {
   "id": "M150D/14/0002",
   "kind": "msg",
   "jp": "「お～～～い！　時間だどーーー！」\n　",
-  "en": ""
+  "en": "\"Heeeeey! Time's uuup!\""
  },
  {
   "id": "M150D/15/0002",
   "kind": "msg",
   "jp": "桃太郎は　{R0}個\n岩を　くだいた！",
-  "en": ""
+  "en": "Momotaro smashed {R0} rocks!"
  }
 ]

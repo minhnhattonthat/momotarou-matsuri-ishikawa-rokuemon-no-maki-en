@@ -9,7 +9,7 @@
   "id": "GSV3407D/2/000E",
   "kind": "msg",
   "jp": "「いらっしゃいませ！\n　{bb}大漁ずんどこ節{ww}が\n　５０両で楽しめます」{KN}",
-  "en": ""
+  "en": "\"Welcome! You can play {bb}Big Catch Zundoko Song{ww} for 50 ryo.\"{KN}"
  },
  {
   "id": "GSV3407D/2/009C",
@@ -33,6 +33,6 @@
   "id": "GSV3407D/3/0002",
   "kind": "msg",
   "jp": "「ちきしょー！　いい魚を　ねらうと\n　時間が　なくなるし　あせると\n　タコばっかしだ！」{KP}\n　\n「元漁師の　オイラが\n　こんな　得点とはなあ～！」\n　",
-  "en": ""
+  "en": "\"Dang it! If I go for the good fish, I run out of time, and if I rush, it's nothing but octopus!\"{KP}\"To think I used to be a fisherman, and this is my score!\""
  }
 ]

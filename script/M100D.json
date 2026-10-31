@@ -3,114 +3,114 @@
   "id": "M100D/15/0002",
   "kind": "msg",
   "jp": "ゲームを　続けますか？\n　{KN}",
-  "en": ""
+  "en": "Continue the game?{KN}"
  },
  {
   "id": "M100D/16/000A",
   "kind": "msg",
   "jp": "えらんで団子の　遊び方\n　{KP}\nお団子を　串にさすゲームです！\n　{KP}\nおなかのへった　金太郎さんが\nお団子を　注文します！{KP}\nしかも３色団子の　色の\n順番まで　要求します！{KP}\nそんな　要求どおりの　お団子を\n作ってあげてください！{KP}\n方向キーで　桃太郎さんを　動かして\nお団子を　串に　さしましょう！{KP}\nさしたら　金太郎さんの所まで\nとどけられれば　出来上がり！{KP}\nまちがった　お団子を　串にさすと\nミスに　なります！{KP}\nミス３回で　ゲーム・オーバーです！\n　{KP}\n○ボタンで　向きが　変わります！\n×ボタンは　速く　走れますよ！{KP}\nぶつかると　お団子が　消える\nどろ団子も　あります！{KP}\n早く　金太郎さんに　お団子を\n食べさせてあげて　くださいね！",
-  "en": ""
+  "en": "How to Play Pick-a-Dango{KP}It's a game where you skewer dango on a stick!{KP}Hungry Kintaro-san orders some dango!{KP}And he even demands the order of the colors on his three-color dango!{KP}Make the dango just the way he wants it!{KP}Move Momotaro-san with the directional buttons and skewer the dango on the stick!{KP}Once it's skewered, deliver it to Kintaro-san and it's done!{KP}Skewer the wrong dango and it's a miss!{KP}3 misses and it's game over!{KP}The Circle button changes direction! The X button lets you run fast!{KP}There are also mud dango that make your dango vanish if you bump into them!{KP}Hurry and feed Kintaro-san some dango!"
  },
  {
   "id": "M100D/16/02B8",
   "kind": "msg",
   "jp": "ではゲームスタートです！\n　",
-  "en": ""
+  "en": "Now, game start!"
  },
  {
   "id": "M100D/16/02EE",
   "kind": "msg",
   "jp": "ではゲームを　プレイしますか？\n　{KN}",
-  "en": ""
+  "en": "Would you like to play the game?{KN}"
  },
  {
   "id": "M100D/17/000A",
   "kind": "msg",
   "jp": "えらんで団子！\n対戦ゲームの　説明です！{KP}\n方向キーで　動かして\nお団子を　串に　さしましょう！{KP}\n○ボタンで　向きが　変わります！\n×ボタンは　速く　走れますよ！{KP}\n時間内に　団子を　作って\n得点が　多いほうが　勝ちです！{KP}\nお団子を　１本作るごとに\n対戦相手に　どろ団子が　ふります！{KP}\n６０秒間で　たくさんの　お団子を\n作ってくださいね！{KP}\n１Ｐは　桃太郎さん\n２Ｐは　金太郎さんです！",
-  "en": ""
+  "en": "Pick-a-Dango! Here's how the versus game works!{KP}Move with the directional buttons and skewer the dango on the stick!{KP}The Circle button changes direction! The X button lets you run fast!{KP}Make dango within the time limit, and whoever scores more wins!{KP}Every time you finish a stick of dango, mud dango rain down on your opponent!{KP}Make lots of dango in 60 seconds!{KP}1P is Momotaro-san, and 2P is Kintaro-san!"
  },
  {
   "id": "M100D/17/01B0",
   "kind": "msg",
   "jp": "ではゲームスタートです！\n　",
-  "en": ""
+  "en": "Now, game start!"
  },
  {
   "id": "M100D/17/01E6",
   "kind": "msg",
   "jp": "ではゲームを　プレイしますか？\n　{KN}",
-  "en": ""
+  "en": "Would you like to play the game?{KN}"
  },
  {
   "id": "M100D/18/0046",
   "kind": "msg",
   "jp": "今回は{R2}段でした\n　",
-  "en": ""
+  "en": "This time you got level {R2}."
  },
  {
   "id": "M100D/18/006C",
   "kind": "msg",
   "jp": "今回は初段でした\n　",
-  "en": ""
+  "en": "This time you got level 1."
  },
  {
   "id": "M100D/18/0092",
   "kind": "msg",
   "jp": "今回は免許皆伝でした\n　",
-  "en": ""
+  "en": "This time you got Full Mastery."
  },
  {
   "id": "M100D/18/00BC",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n新記録ですよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! It's a new record!!{KP}Keep up the good work!"
  },
  {
   "id": "M100D/18/0134",
   "kind": "msg",
   "jp": "今回は{R2}段でした\n　",
-  "en": ""
+  "en": "This time you got level {R2}."
  },
  {
   "id": "M100D/18/015A",
   "kind": "msg",
   "jp": "今回は初段でした\n　",
-  "en": ""
+  "en": "This time you got level 1."
  },
  {
   "id": "M100D/18/0180",
   "kind": "msg",
   "jp": "今回は免許皆伝でした\n　",
-  "en": ""
+  "en": "This time you got Full Mastery."
  },
  {
   "id": "M100D/18/01BA",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n段位更新ですよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! Your level went up!!{KP}Keep up the good work!"
  },
  {
   "id": "M100D/18/0224",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n初段に　なりましたよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! You reached level 1!!{KP}Keep up the good work!"
  },
  {
   "id": "M100D/18/0294",
   "kind": "msg",
   "jp": "桃太郎さん　おめでとうございます！\n免許皆伝に　なりましたよ！！{KP}\nごほうびとして\n{bb}方言カード{ww}が　１枚　もらえます！",
-  "en": ""
+  "en": "Congratulations, Momotaro-san! You've reached Full Mastery!!{KP}As a reward, you get one {bb}Dialect Card{ww}!"
  },
  {
   "id": "M100D/18/0320",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０５７{ww}を　手に入れた！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 057{ww}!{KP}Keep up the good work!"
  },
  {
   "id": "M100D/19/0002",
   "kind": "msg",
   "jp": "このゲームを\nもう一度　遊びますか？{KN}",
-  "en": ""
+  "en": "Play this game again?{KN}"
  }
 ]

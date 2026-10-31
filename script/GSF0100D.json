@@ -3,13 +3,13 @@
   "id": "GSF0100D/4/006E",
   "kind": "msg",
   "jp": "「ムフフ…　おまえが\n　うわさの　桃太郎か！」\n　{KP}\n「カチカチの村での　ことは\n　聞いておるぞ！」\n　{KP}\n「その　お礼に　痛い目に\n　あわせてやるぞ！」\n　{KP}\n「いざ！　勝負！！」\n　\n　",
-  "en": ""
+  "en": "\"Muhuhu... So you're the Momotaro everyone's talking about!\"{KP}\"I've heard what you did in Kachi-Kachi Village!\"{KP}\"To pay you back for it, I'm gonna teach you a painful lesson!\"{KP}\"Now! Let's settle this!!\""
  },
  {
   "id": "GSF0100D/5/000A",
   "kind": "msg",
   "jp": "カベの向こうに　道が\nあるようだ\n　",
-  "en": ""
+  "en": "There seems to be a path beyond the wall."
  },
  {
   "id": "GSF0100D/5/0040",
@@ -21,6 +21,6 @@
   "id": "GSF0100D/5/0118",
   "kind": "msg",
   "jp": "カベが　くずれた\n　\n　",
-  "en": ""
+  "en": "The wall crumbled."
  }
 ]

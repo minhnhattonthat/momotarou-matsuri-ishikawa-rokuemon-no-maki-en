@@ -3,30 +3,30 @@
   "id": "GSS1000D/2/0006",
   "kind": "msg",
   "jp": "「おう！\n　オイラが　{bb}きっちょむ{ww}だ！」\n　{KP}\n「桃太郎さんも　大きな岩などを\n　ふきとばせる　爆薬が\n　ほしいのかい？」{KP}\n　\n「それじゃ　１０００両\n　いただくぜ！\n　それで　いいかい？」{KN}",
-  "en": ""
+  "en": "\"Hey! I'm {bb}Kitchomu{ww}!\"{KP}\"You want explosives that can blow away big boulders and such too, Momotaro-san?\"{KP}\"Then that'll be 1000 ryo! That okay with you?\"{KN}"
  },
  {
   "id": "GSS1000D/2/0116",
   "kind": "msg",
   "jp": "　\n「まいどありぃ！\n　また　来ておくれ！」\n　",
-  "en": ""
+  "en": "\"Thanks a bunch! Come again!\""
  },
  {
   "id": "GSS1000D/2/0164",
   "kind": "msg",
   "jp": "「こら　こら\n　お金が　ないじゃん！」\n　{KP}\n「桃太郎さん\n　しっかり　してよ～！」\n　",
-  "en": ""
+  "en": "\"Hey, hey, you don't have the money!\"{KP}\"Get it together, Momotaro-san!\""
  },
  {
   "id": "GSS1000D/2/01D6",
   "kind": "msg",
   "jp": "　\n「あれ？\n　もう何も　持てねぇじゃん！」\n　",
-  "en": ""
+  "en": "\"Huh? You can't carry anything else!\""
  },
  {
   "id": "GSS1000D/2/021E",
   "kind": "msg",
   "jp": "　\n「桃太郎さん！\n　財布のひもが　かたいねぇ～」\n　",
-  "en": ""
+  "en": "\"Momotaro-san! You sure keep a tight grip on those purse strings!\""
  }
 ]

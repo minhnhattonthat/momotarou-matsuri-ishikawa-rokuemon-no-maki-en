@@ -3,13 +3,13 @@
   "id": "GSF0101D/5/001C",
   "kind": "msg",
   "jp": "「フシュルル～　なにー！\n　そこを　どけだとーっ！？」\n　{KP}\n「だめだー！　おれは\n　柿の顔をした　ボウズを\n　待ちぶせしているんだ！」{KP}\n　\n「なぜだって！？」\n　\n　{KP}\n「…いいか！　そこで　おれが\n　いい気持ちで　寝ていた時\n　しっぽを　ふみやがったんだ」{KP}\n　\n「食ってやろうと\n　キバを　むいたら」\n　{KP}\n「あま～い柿を\n　さしあげますから\n　ゆるしてくれと　いいやがる」{KP}\n　\n「そしたら　その柿は\n　すげー　シブイ柿だったんだ！\n　フシュルルー！」",
-  "en": ""
+  "en": "\"Fshururu... Whaaat?! You want me to get out of the way?!\"{KP}\"No way! I'm lying in wait for a brat with a persimmon for a face!\"{KP}\"Why, you ask?!\"{KP}\"...Listen up! While I was sleeping there, all nice and comfy, he stepped on my tail!\"{KP}\"So I bared my fangs to eat him,\"{KP}\"and he says, 'I'll give you a nice sweet persimmon, so please forgive me!'\"{KP}\"And then that persimmon turned out to be horribly bitter! Fshururuu!\""
  },
  {
   "id": "GSF0101D/5/0220",
   "kind": "msg",
   "jp": "「おれが　シブさに　のたうち\n　回っている間に　やつは\n　いなくなっていたんだ！」{KP}\n　\n「たぶん　恩返しの村のほうに\n　行ったんだろう！」\n　{KP}\n「だから　おれは　ここで\n　やつの　帰りを　待ちぶせて\n　いるんだ　フシュルルー！」",
-  "en": ""
+  "en": "\"While I was writhing around from the bitterness, the guy vanished!\"{KP}\"He probably went toward Ongaeshi Village!\"{KP}\"So I'm lying in wait here for him to come back! Fshururuu!\""
  },
  {
   "id": "GSF0101D/5/0336",
@@ -21,37 +21,37 @@
   "id": "GSF0101D/5/0386",
   "kind": "msg",
   "jp": "「ゲッホ　ゲッホ\n　また　{bb}けむり玉{ww}か！\n　苦しい　フシュルルー！」{KP}\n　\n「ゲッホ　ゲッホ\n　これは　たまらん\n　フシュルルー！」{KP}\n　\n「もう　人を　おそうこと\n　なんて　考えませんから\n　ゆるしてください！」",
-  "en": ""
+  "en": "\"Cough, cough! A {bb}Smoke Bomb{ww} again?! I can't breathe! Fshururuu!\"{KP}\"Cough, cough! I can't take this! Fshururuu!\"{KP}\"I'll never even think about attacking people again, so please forgive me!\""
  },
  {
   "id": "GSF0101D/5/047A",
   "kind": "msg",
   "jp": "　桃太郎は　けむりを　消した！\n　\n　",
-  "en": ""
+  "en": "Momotaro cleared away the smoke!"
  },
  {
   "id": "GSF0101D/5/04B8",
   "kind": "msg",
   "jp": "「ありがとうございます！\n　これからは　地中で\n　おとなしく　しています」{KP}\n　\n「フシュルルー！」\n　\n　",
-  "en": ""
+  "en": "\"Thank you very much! From now on, I'll stay quietly underground.\"{KP}\"Fshururuu!\""
  },
  {
   "id": "GSF0101D/5/06D2",
   "kind": "msg",
   "jp": "白蛇鬼は　地中に　すがたを　消した！\n　\n　",
-  "en": ""
+  "en": "The White Snake Oni vanished underground!"
  },
  {
   "id": "GSF0101D/6/002A",
   "kind": "msg",
   "jp": "「でんでん！　オイラは　{bb}伝助{ww}！\n　穴を　ほっているのさ！」\n　{KP}\n「金太郎の村に　行くには　一番\n　右の　穴から　ぬけるんだが…」\n　{KP}\n「{bb}白蛇鬼{ww}が　出口の前に\n　いすわっているんだ！」\n　{KP}\n「なんか知らねえけど\n　すげー　怒っていたぜ！」\n　{KP}\n「桃太郎さん\n　気をつけたほうが　いいぜ！」\n　",
-  "en": ""
+  "en": "\"Den-den! I'm {bb}Densuke{ww}! I dig holes!\"{KP}\"To get to Kintaro Village, you go out through the hole furthest to the right, but...\"{KP}\"the {bb}White Snake Oni{ww} has planted himself in front of the exit!\"{KP}\"Dunno why, but he was real mad!\"{KP}\"Momotaro-san, you'd better be careful!\""
  },
  {
   "id": "GSF0101D/6/0186",
   "kind": "msg",
   "jp": "「おっ　そうだっ！\n　桃太郎さんも　洞窟を\n　ほりたくなったら…」{KP}\n　\n「これを　使いな！\n　オイラの　お古だけどな！」\n　",
-  "en": ""
+  "en": "\"Oh, that's right! If you ever feel like digging caves too, Momotaro-san...\"{KP}\"use this! It's an old hand-me-down of mine, though!\""
  },
  {
   "id": "GSF0101D/6/021A",
@@ -63,31 +63,31 @@
   "id": "GSF0101D/6/026A",
   "kind": "msg",
   "jp": "「でんでん！　よかったなあ\n　白蛇鬼が　いなくなって！」\n　{KP}\n「これで　向こう側に\n　ぬけられるって　もんだ！」\n　{KP}\n「気をつけていくんだぜ！\n　桃太郎さん！　でんでん！」\n　",
-  "en": ""
+  "en": "\"Den-den! Good thing the White Snake Oni is gone!\"{KP}\"Now you can get through to the other side!\"{KP}\"Take care on your way, Momotaro-san! Den-den!\""
  },
  {
   "id": "GSF0101D/7/0002",
   "kind": "msg",
   "jp": "「ワタシは　{bb}赤ウンチ{ww}です　ぷりん！\n　こんにちわ　桃太郎さん！」\n　{KP}\n「{bb}ウンチの穴{ww}に　行きたいのですが\n　ひとりでは　心細くて……」\n　{KP}\n「ワタシを　{bb}ウンチの穴{ww}に\n　連れていってくれますか？」\n　{KN}",
-  "en": ""
+  "en": "\"I am {bb}Red Poop{ww}! Plopsy! Hello, Momotaro-san!\"{KP}\"I'd like to go to the {bb}Poop Hole{ww}, but I feel so uneasy going alone......\"{KP}\"Would you take me to the {bb}Poop Hole{ww}?\"{KN}"
  },
  {
   "id": "GSF0101D/7/00FE",
   "kind": "msg",
   "jp": "{bb}赤ウンチ{ww}が\n仲間に　くわわった！\n　{KN}",
-  "en": ""
+  "en": "{bb}Red Poop{ww} joined the party!{KN}"
  },
  {
   "id": "GSF0101D/7/014A",
   "kind": "msg",
   "jp": "「残念ですわ！　ぷりん！」\n　\n　",
-  "en": ""
+  "en": "\"What a pity! Plopsy!\""
  },
  {
   "id": "GSF0101D/8/000A",
   "kind": "msg",
   "jp": "カベの向こうに　道が\nあるようだ\n　",
-  "en": ""
+  "en": "There seems to be a path beyond the wall."
  },
  {
   "id": "GSF0101D/8/0040",
@@ -99,6 +99,6 @@
   "id": "GSF0101D/8/0118",
   "kind": "msg",
   "jp": "カベが　くずれた\n\n　",
-  "en": ""
+  "en": "The wall crumbled."
  }
 ]

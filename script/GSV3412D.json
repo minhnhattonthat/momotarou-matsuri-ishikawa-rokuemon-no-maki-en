@@ -3,18 +3,18 @@
   "id": "GSV3412D/2/001E",
   "kind": "msg",
   "jp": "「この村は　水龍さまに\n　まもられておる　村でな！」\n　{KP}\n「昔から　鬼も\n　近づかなかったのじゃ！」\n　",
-  "en": ""
+  "en": "\"This village is protected by Lord Water Dragon, you see!\"{KP}\"Since olden times, not even the oni would come near it!\""
  },
  {
   "id": "GSV3412D/2/009E",
   "kind": "msg",
   "jp": "「なんと！　おそれおおくも\n　{bb}水龍さま{ww}の　おちからを\n　借りたいとな！」{KP}\n　\n「ふむ　ふむ\n　ひょっとこの村のためにか……」\n　{KP}\n「それなら　{bb}水龍さま{ww}を　よび出す\n　ために　必要な　伝説の笛\n　{bb}鳴きの笛{ww}を　手に入れるがよい！」{KP}\n　\n「{bb}鳴きの笛{ww}のことは\n　この村の　村長が　ごぞんじじゃ！」\n　",
-  "en": ""
+  "en": "\"What?! You would dare to borrow the power of {bb}Lord Water Dragon{ww}!\"{KP}\"Hmm, hmm... for the sake of Hyottoko Village, is it...\"{KP}\"Then you must obtain the legendary flute needed to summon {bb}Lord Water Dragon{ww}: the {bb}Call Flute{ww}!\"{KP}\"The chief of this village knows about the {bb}Call Flute{ww}!\""
  },
  {
   "id": "GSV3412D/2/01FA",
   "kind": "msg",
   "jp": "「ほう……\n　{bb}鳴きの笛{ww}を　お借りになったのか！」\n　{KP}\n「そなたは　小太郎さまに\n　認められたと　いうことじゃ！」\n　",
-  "en": ""
+  "en": "\"Oh ho... So you were lent the {bb}Call Flute{ww}!\"{KP}\"That means Kotaro-sama has acknowledged you!\""
  }
 ]

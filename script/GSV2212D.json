@@ -3,18 +3,18 @@
   "id": "GSV2212D/2/0010",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　ありがとうございました！」\n　{KP}\n「おかげで　今年も　おりひめの村\n　ひこぼしの村　合同の　七夕祭りが\n　ひらけましたわ！」{KP}\n　\n「記念に　これを　どうぞ！」\n　\n　",
-  "en": ""
+  "en": "\"Momotaro-san! Thank you so much!\"{KP}\"Thanks to you, Orihime Village and Hikoboshi Village could hold their joint Tanabata Festival again this year!\"{KP}\"Please take this as a memento!\""
  },
  {
   "id": "GSV2212D/2/00E4",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}夜叉姫花火{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Yashahime Fireworks{ww}!{KN}"
  },
  {
   "id": "GSV2212D/2/012E",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　ありがとうございました！」\n　",
-  "en": ""
+  "en": "\"Momotaro-san! Thank you so much!\""
  }
 ]

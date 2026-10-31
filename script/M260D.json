@@ -3,144 +3,144 @@
   "id": "M260D/9/0002",
   "kind": "msg",
   "jp": "ゲームを　続けますか？\n　{KN}",
-  "en": ""
+  "en": "Continue the game?{KN}"
  },
  {
   "id": "M260D/10/000A",
   "kind": "msg",
   "jp": "カゴしょってＧＯ！の　遊び方\n　{KP}\n運動会の　カゴに　ボールを\n入れる競技みたいな　ゲームです！{KP}\n６０秒間で　上から　ふってくる\n桃を　たくさん　取りましょう！{KP}\n栗太郎の　イガグリを　取ると\n桃が　３個なくなってしまいます！{KP}\n操作は　カンタン！\n方向キーで　左右に　動かすだけ！{KP}\nカゴいっぱいに　桃を\nあつめてくださいね！",
-  "en": ""
+  "en": "How to Play Basket Backpack GO!{KP}It's a game like the sports-day event where you toss balls into a basket!{KP}Catch as many of the peaches falling from above as you can in 60 seconds!{KP}If you catch one of Kuritaro's chestnut burs, you'll lose 3 peaches!{KP}The controls are simple! Just move left and right with the directional buttons!{KP}Fill your basket to the brim with peaches!"
  },
  {
   "id": "M260D/10/0170",
   "kind": "msg",
   "jp": "ではゲームスタートです！\n　",
-  "en": ""
+  "en": "Now, game start!"
  },
  {
   "id": "M260D/10/01A6",
   "kind": "msg",
   "jp": "ではゲームを　プレイしますか？\n　{KN}",
-  "en": ""
+  "en": "Would you like to play the game?{KN}"
  },
  {
   "id": "M260D/11/000A",
   "kind": "msg",
   "jp": "カゴしょってＧＯ！\n対戦ゲームの　説明です！{KP}\n桃か　柿を　たくさん\nカゴに　入れたほうが　勝ちです！{KP}\n操作は　カンタン！\n方向キーで　左右に　動かすだけ！{KP}\n桃か　柿を　ノーミスで　取り続けると\nサルが　相手の木に　あらわれます！{KP}\nサルは　イガグリを\n落としてくれます！{KP}\n強い味方ですね！\n　{KP}\nがんばって　相手に　イガグリを\nたくさん　落として　あげましょう！{KP}\n１Ｐは　桃太郎さん\n２Ｐは　金太郎さんです！",
-  "en": ""
+  "en": "Basket Backpack GO! Here's how the versus game works!{KP}Whoever gets more peaches or persimmons into their basket wins!{KP}The controls are simple! Just move left and right with the directional buttons!{KP}Keep catching peaches or persimmons without a miss, and the Monkey appears in your opponent's tree!{KP}The Monkey drops chestnut burs for you!{KP}What a strong ally!{KP}Do your best and drop lots of chestnut burs on your opponent!{KP}1P is Momotaro-san, and 2P is Kintaro-san!"
  },
  {
   "id": "M260D/11/01CC",
   "kind": "msg",
   "jp": "ではゲームスタートです！\n　",
-  "en": ""
+  "en": "Now, game start!"
  },
  {
   "id": "M260D/11/0202",
   "kind": "msg",
   "jp": "ではゲームを　プレイしますか？\n　{KN}",
-  "en": ""
+  "en": "Would you like to play the game?{KN}"
  },
  {
   "id": "M260D/12/0046",
   "kind": "msg",
   "jp": "今回は{R2}段でした\n　",
-  "en": ""
+  "en": "This time you got level {R2}."
  },
  {
   "id": "M260D/12/006C",
   "kind": "msg",
   "jp": "今回は初段でした\n　",
-  "en": ""
+  "en": "This time you got level 1."
  },
  {
   "id": "M260D/12/0092",
   "kind": "msg",
   "jp": "今回は免許皆伝でした\n　",
-  "en": ""
+  "en": "This time you got Full Mastery."
  },
  {
   "id": "M260D/12/00BC",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n新記録ですよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! It's a new record!!{KP}Keep up the good work!"
  },
  {
   "id": "M260D/12/0134",
   "kind": "msg",
   "jp": "今回は{R2}段でした\n　",
-  "en": ""
+  "en": "This time you got level {R2}."
  },
  {
   "id": "M260D/12/015A",
   "kind": "msg",
   "jp": "今回は初段でした\n　",
-  "en": ""
+  "en": "This time you got level 1."
  },
  {
   "id": "M260D/12/0180",
   "kind": "msg",
   "jp": "今回は免許皆伝でした\n　",
-  "en": ""
+  "en": "This time you got Full Mastery."
  },
  {
   "id": "M260D/12/01BA",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n段位更新ですよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! Your level went up!!{KP}Keep up the good work!"
  },
  {
   "id": "M260D/12/0224",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n初段に　なりましたよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! You reached level 1!!{KP}Keep up the good work!"
  },
  {
   "id": "M260D/12/0294",
   "kind": "msg",
   "jp": "桃太郎さん　おめでとうございます！\n免許皆伝に　なりましたよ！！{KP}\nごほうびとして\n{bb}方言カード{ww}が　１枚　もらえます！",
-  "en": ""
+  "en": "Congratulations, Momotaro-san! You've reached Full Mastery!!{KP}As a reward, you get one {bb}Dialect Card{ww}!"
  },
  {
   "id": "M260D/12/0320",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０１８{ww}を　手に入れた！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 018{ww}!{KP}Keep up the good work!"
  },
  {
   "id": "M260D/13/0002",
   "kind": "msg",
   "jp": "このゲームを\nもう一度　遊びますか？{KN}",
-  "en": ""
+  "en": "Play this game again?{KN}"
  },
  {
   "id": "M260D/14/000A",
   "kind": "msg",
   "jp": "「おまえが　勝ったら\n　少しは　認めてやるカキーッ！」{KP}\n「引き分けは　ダメだからな！\n　いざ！　勝負カキーッ！」",
-  "en": ""
+  "en": "\"If you win, I'll admit you're not half bad, Kakiii!\"{KP}\"A draw doesn't count! Now, let's settle this! Kakiii!\""
  },
  {
   "id": "M260D/14/0090",
   "kind": "msg",
   "jp": "「オイラに　勝てないようじゃ\n　いい記録は　でないカキーッ！」",
-  "en": ""
+  "en": "\"If you can't beat me, you'll never set a good record, Kakiii!\""
  },
  {
   "id": "M260D/15/0012",
   "kind": "msg",
   "jp": "やりましたね！\n桃太郎さんの　勝ちです！",
-  "en": ""
+  "en": "You did it! Momotaro-san wins!"
  },
  {
   "id": "M260D/15/004C",
   "kind": "msg",
   "jp": "おしかったですね！\n勝負は　引き分けです！",
-  "en": ""
+  "en": "So close! The match is a draw!"
  },
  {
   "id": "M260D/15/0088",
   "kind": "msg",
   "jp": "残念ですが\n桃太郎さんの　負けです…",
-  "en": ""
+  "en": "Too bad... Momotaro-san loses..."
  }
 ]

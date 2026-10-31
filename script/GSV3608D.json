@@ -3,7 +3,7 @@
   "id": "GSV3608D/2/0018",
   "kind": "msg",
   "jp": "「あつつつ！\n　あっ　桃太郎さん！」\n　{KP}\n「いや　火山岩を　足に　当てて\n　しまいました！\n　あつつつ……」",
-  "en": ""
+  "en": "\"Ow, ow, hot! Oh, Momotaro-san!\"{KP}\"I, uh, banged my foot on a volcanic rock! Ow, ow, hot......\""
  },
  {
   "id": "GSV3608D/2/009C",
@@ -15,18 +15,18 @@
   "id": "GSV3608D/2/00DC",
   "kind": "msg",
   "jp": "「う～　すっきり！\n　ありがとうございました\n　桃太郎さん！」{KP}\n　\n「お礼に　これを　受け取って\n　ください！」\n　",
-  "en": ""
+  "en": "\"Ahh, that feels better! Thank you so much, Momotaro-san!\"{KP}\"Please accept this as thanks!\""
  },
  {
   "id": "GSV3608D/2/0168",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０７１{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 071{ww}!{KN}"
  },
  {
   "id": "GSV3608D/2/01C6",
   "kind": "msg",
   "jp": "「ありがとうございました\n　桃太郎さん！」\n　{KP}\n「おかげさまで　足の具合が\n　よくなりました！」\n　",
-  "en": ""
+  "en": "\"Thank you so much, Momotaro-san!\"{KP}\"Thanks to you, my foot feels much better now!\""
  }
 ]

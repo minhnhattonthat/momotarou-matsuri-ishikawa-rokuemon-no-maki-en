@@ -37,7 +37,37 @@ ORIG = {  # address: original word, checked before patching
     0x80029AC4: 0x3C078008,   # lui a3, 0x8008      (append: start)
     0x80029AC8: 0x24E81BE0,   # addiu t0, a3, 0x1be0
     0x8002A210: 0x1040003F,   # beqz v0, 0x8002a310 (drawer: code not in the control table -> skip)
+    0x80034DB8: 0x97820530,   # lhu v0, 0x530(gp)   (caption x = 160 - units * 6 ... jal 0x8002ab98)
+    0x80034DBC: 0x8E240020,
+    0x80034DC0: 0x00022840,
+    0x80034DC4: 0x00A22821,
+    0x80034DC8: 0x00052840,
+    0x80034DCC: 0x240200A0,
+    0x80034DD0: 0x0C00AAE6,
+    0x80034DD4: 0x00452823,   # subu a1, v0, a1
 }
+# Money boxes (frame x 0xD0 w 0x60, text x 0xD8: digits + "ryo" overran the frame by ~3 px): frame x -> 0xC8,
+# w -> 0x68, text x -> 0xD0. (frame x site, frame w site, text x site) per box; MONEY_OVL in overlays.
+MONEY_EXE = [(0x80033DCC, 0x80033DD4, 0x80033E04), (0x800345D4, 0x800345DC, 0x80034604),
+             (0x800349B4, 0x800349BC, 0x800349E4), (0x80034BF8, 0x80034C00, 0x80034C50),
+             (0x800386EC, 0x800386F4, 0x80038738)]
+MONEY_OVL = {'OVLGMAIN.BIN': [(0x800D67BC, 0x800D67C4, 0x800D67D8)]}
+MONEY_WORDS = (0x240500D0, 0x24070060, 0x240500D8)       # addiu a1,0xd0 / addiu a3,0x60 / addiu a1,0xd8
+MONEY_NEW = (0x240500C8, 0x24070068, 0x240500D0)
+for _box in MONEY_EXE:
+    ORIG.update(zip(_box, MONEY_WORDS))
+
+
+def patch_money(data, sites, base):
+    """data with each money box's three immediates widened (original words checked)."""
+    out = bytearray(data)
+    for box in sites:
+        for a, old, new in zip(box, MONEY_WORDS, MONEY_NEW):
+            got = struct.unpack_from('<I', out, a - base)[0]
+            if got != old:
+                raise ValueError(f'{a:#x}: {got:#010x}, expected {old:#010x}')
+            struct.pack_into('<I', out, a - base, new)
+    return bytes(out)
 
 
 def glyphs(path=FONT_TXT):
@@ -172,6 +202,18 @@ def asm_source(exe_path):
 .org 0x8002A210
     beqz    v0, digraph_draw
 
+; op 26 caption (0x80034DB8): centre on the drawn px width (caption_x), not 12 px per unit
+.org 0x80034DB8
+    lw      a0, 0x20(s1)
+    jal     caption_x
+    nop
+    move    a1, v0
+    lw      a0, 0x20(s1)
+    addiu   a2, zero, 0x3c
+    jal     0x8002ab98
+    nop
+
+
 .org {FREE:#x}
 .area {FREE_END - FREE:#x}, 0
 append_hook:
@@ -262,6 +304,45 @@ digraph_draw:
 @@done:
     j       0x8002A310
     addiu   a3, s2, 1
+
+; caption_x(line object a0) -> v0 = 160 - px / 2. Records: count u16 at +2, codes u16 at +8 + 8i.
+; digraph: both chars' widths; other codes >= 0x8000 (Japanese): 13 px; else (controls) 0.
+caption_x:
+    lhu     t0, 2(a0)
+    addiu   t1, a0, 8
+    move    v0, zero
+    la      t7, widths
+@@loop:
+    beqz    t0, @@end
+    addiu   t0, t0, -1
+    lhu     t2, 0(t1)
+    addiu   t1, t1, 8
+    andi    t3, t2, 0xff
+    addiu   t3, t3, -{FIRST:#x}
+    sltiu   t4, t3, {LAST - FIRST + 1:#x}
+    srl     t5, t2, 8
+    addiu   t5, t5, -{FIRST:#x}
+    sltiu   t6, t5, {LAST - FIRST + 1:#x}
+    and     t4, t4, t6
+    beqz    t4, @@other
+    addu    t3, t3, t7
+    addu    t5, t5, t7
+    lbu     t3, 0(t3)
+    lbu     t5, 0(t5)
+    addu    v0, v0, t3
+    b       @@loop
+    addu    v0, v0, t5
+@@other:
+    srl     t4, t2, 15
+    beqz    t4, @@loop
+    nop
+    b       @@loop
+    addiu   v0, v0, 13
+@@end:
+    srl     v0, v0, 1
+    addiu   t0, zero, 160
+    jr      ra
+    subu    v0, t0, v0
 widths:
     .byte {w}
 .endarea
@@ -284,7 +365,7 @@ def patch_exe(exe):
             raise RuntimeError(f'armips failed:\n{r.stdout}{r.stderr}')
         out = p.read_bytes()
     assert len(out) == len(exe)
-    return out
+    return patch_money(out, MONEY_EXE, EXE_BASE)
 
 
 def sheet(out):

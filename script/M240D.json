@@ -3,144 +3,144 @@
   "id": "M240D/11/0002",
   "kind": "msg",
   "jp": "ゲームを　続けますか？\n　{KN}",
-  "en": ""
+  "en": "Continue the game?{KN}"
  },
  {
   "id": "M240D/12/0002",
   "kind": "msg",
   "jp": "「ケケケ！\n　うまそうな　桃まんだな！」{KP}\n桃太郎は　黒ガッパに\n桃まんを　盗まれた！",
-  "en": ""
+  "en": "\"Kekeke! That's a tasty-lookin' peach bun!\"{KP}The Black Kappa stole Momotaro's peach bun!"
  },
  {
   "id": "M240D/13/0002",
   "kind": "msg",
   "jp": "「返して　ほしけりゃ\n　オレを　つかまえて　みな！」",
-  "en": ""
+  "en": "\"If ya want it back, try and catch me!\""
  },
  {
   "id": "M240D/14/0012",
   "kind": "msg",
   "jp": "「なんだよ！　まだ　なにも\n　とってねーよ！　ケケケ！」",
-  "en": ""
+  "en": "\"What?! I ain't taken nothin' yet! Kekeke!\""
  },
  {
   "id": "M240D/14/005C",
   "kind": "msg",
   "jp": "「ちくしょう！　つかまっちまった！\n　ほらよ　返してやるよ！」{KP}\n桃太郎は　桃まんを\n黒ガッパから　取り返した！",
-  "en": ""
+  "en": "\"Dang it! I got caught! Here, take it back!\"{KP}Momotaro took the peach bun back from the Black Kappa!"
  },
  {
   "id": "M240D/15/0012",
   "kind": "msg",
   "jp": "黒ガッパから　桃まんを\n取りもどして　いなかった！{KP}\n桃太郎は\nいそいで　引き返した！",
-  "en": ""
+  "en": "You haven't gotten the peach bun back from the Black Kappa!{KP}Momotaro hurried back!"
  },
  {
   "id": "M240D/15/007C",
   "kind": "msg",
   "jp": "桃太郎は　地蔵に\n桃まんを　わたした！{KP}\n「おや　桃太郎\n　この　桃まんは？」{KP}\n「ふむ　ふむ　{MM}の　地蔵から\n　おすそわけとな？」{KP}\n「これは　ありがたい！」\n　{KP}\n「桃太郎よ　おつかいごくろうだった」\n　",
-  "en": ""
+  "en": "Momotaro gave the peach bun to the Jizo!{KP}\"Oh, Momotaro. What's this peach bun?\"{KP}\"Hmm, hmm... A share from the {MM} Jizo, you say?\"{KP}\"How very kind!\"{KP}\"Momotaro, thank you for running this errand.\""
  },
  {
   "id": "M240D/16/0012",
   "kind": "msg",
   "jp": "「どうした　桃太郎？」\n　{KP}\n「なに　なに　黒ガッパに\n　桃まんを　盗まれた？」{KP}\n「まあ　きに　するでない\n　そういうことも　あろうて」{KP}\n「桃まんを　取り返したら\n　{MM}の　地蔵に　わたすのだぞ」",
-  "en": ""
+  "en": "\"What's the matter, Momotaro?\"{KP}\"What's that? The Black Kappa stole the peach bun?\"{KP}\"Well, don't let it trouble you. Such things happen.\"{KP}\"Once you get the peach bun back, take it to the {MM} Jizo.\""
  },
  {
   "id": "M240D/16/00F0",
   "kind": "msg",
   "jp": "「桃まんは　ちゃんと\n　持っておるようだな！」{KP}\n「それでは　たのんだぞ　桃太郎！」\n　",
-  "en": ""
+  "en": "\"I see you have the peach bun safe and sound!\"{KP}\"Then I'm counting on you, Momotaro!\""
  },
  {
   "id": "M240D/17/000A",
   "kind": "msg",
   "jp": "鬼のつめあとの　遊び方\n　{KP}\n桃まんを　あずかったら　{MM}の\n地蔵に　とどけましょう！{KP}\n途中　てくせのわるい\n黒ガッパに　気をつけてください！{KP}\nもし　桃まんを　盗まれたら\n○ボタンで　つかまえましょう！{KP}\n×ボタンを押すと\n速く走れます！",
-  "en": ""
+  "en": "How to Play Oni's Claw Marks{KP}Once you're given a peach bun, deliver it to the {MM} Jizo!{KP}On the way, watch out for the sticky-fingered Black Kappa!{KP}If he steals your peach bun, catch him with the Circle button!{KP}Press the X button to run fast!"
  },
  {
   "id": "M240D/17/0114",
   "kind": "msg",
   "jp": "ではゲームスタートです！\n　",
-  "en": ""
+  "en": "Now, game start!"
  },
  {
   "id": "M240D/17/014A",
   "kind": "msg",
   "jp": "ではゲームを　プレイしますか？\n　{KN}",
-  "en": ""
+  "en": "Would you like to play the game?{KN}"
  },
  {
   "id": "M240D/18/0046",
   "kind": "msg",
   "jp": "今回は{R2}段でした\n　",
-  "en": ""
+  "en": "This time you got level {R2}."
  },
  {
   "id": "M240D/18/006C",
   "kind": "msg",
   "jp": "今回は初段でした\n　",
-  "en": ""
+  "en": "This time you got level 1."
  },
  {
   "id": "M240D/18/0092",
   "kind": "msg",
   "jp": "今回は免許皆伝でした\n　",
-  "en": ""
+  "en": "This time you got Full Mastery."
  },
  {
   "id": "M240D/18/00BC",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n新記録ですよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! It's a new record!!{KP}Keep up the good work!"
  },
  {
   "id": "M240D/18/0134",
   "kind": "msg",
   "jp": "今回は{R2}段でした\n　",
-  "en": ""
+  "en": "This time you got level {R2}."
  },
  {
   "id": "M240D/18/015A",
   "kind": "msg",
   "jp": "今回は初段でした\n　",
-  "en": ""
+  "en": "This time you got level 1."
  },
  {
   "id": "M240D/18/0180",
   "kind": "msg",
   "jp": "今回は免許皆伝でした\n　",
-  "en": ""
+  "en": "This time you got Full Mastery."
  },
  {
   "id": "M240D/18/01BA",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n段位更新ですよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! Your level went up!!{KP}Keep up the good work!"
  },
  {
   "id": "M240D/18/0224",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n初段に　なりましたよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! You reached level 1!!{KP}Keep up the good work!"
  },
  {
   "id": "M240D/18/0294",
   "kind": "msg",
   "jp": "桃太郎さん　おめでとうございます！\n免許皆伝に　なりましたよ！！{KP}\nごほうびとして\n{bb}方言カード{ww}が　１枚　もらえます！",
-  "en": ""
+  "en": "Congratulations, Momotaro-san! You've reached Full Mastery!!{KP}As a reward, you get one {bb}Dialect Card{ww}!"
  },
  {
   "id": "M240D/18/0320",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０８４{ww}を　手に入れた！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 084{ww}!{KP}Keep up the good work!"
  },
  {
   "id": "M240D/19/0002",
   "kind": "msg",
   "jp": "このゲームを\nもう一度　遊びますか？{KN}",
-  "en": ""
+  "en": "Play this game again?{KN}"
  }
 ]

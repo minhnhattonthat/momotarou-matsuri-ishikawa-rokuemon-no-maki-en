@@ -3,18 +3,18 @@
   "id": "GSF0201D/2/0002",
   "kind": "msg",
   "jp": "「オラは　{bb}緑ウンチ{ww}どす　ぷりっつ！\n　こんにちわ　桃太郎さん！」\n　{KP}\n「{bb}ウンチの穴{ww}に　行きたいのどすが\n　ひとりでは　心細くて……」\n　{KP}\n「オラを　{bb}ウンチの穴{ww}に\n　連れていってくれるどすか？」\n　{KN}",
-  "en": ""
+  "en": "\"Me, I'm {bb}Green Poop{ww}, I am! Plopitz! Hello, Momotaro-san!\"{KP}\"I'd like to go to the {bb}Poop Hole{ww}, I would, but I feel so uneasy all alone......\"{KP}\"Would you take me to the {bb}Poop Hole{ww}, I wonder?\"{KN}"
  },
  {
   "id": "GSF0201D/2/0102",
   "kind": "msg",
   "jp": "{bb}緑ウンチ{ww}が\n仲間に　くわわった！\n　{KN}",
-  "en": ""
+  "en": "{bb}Green Poop{ww} joined the party!{KN}"
  },
  {
   "id": "GSF0201D/2/014E",
   "kind": "msg",
   "jp": "「残念どす！　ぷりっつ！」\n　\n　",
-  "en": ""
+  "en": "\"What a pity, it is! Plopitz!\""
  }
 ]

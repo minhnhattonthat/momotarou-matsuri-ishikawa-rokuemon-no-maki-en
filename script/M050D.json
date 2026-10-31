@@ -3,138 +3,138 @@
   "id": "M050D/21/0002",
   "kind": "msg",
   "jp": "ゲームを　続けますか？\n　{KN}",
-  "en": ""
+  "en": "Continue the game?{KN}"
  },
  {
   "id": "M050D/22/000A",
   "kind": "msg",
   "jp": "鬼まとあての　遊び方\n　{KP}\nマトの　位置を　少しだけ\nお見せします！{KP}\n○ボタンを　押してマトの\n真ん中めざして　矢を射ってください！{KP}\nマトの　真ん中に　矢が当たれば\n大当たりで　高得点！{KP}\n地蔵とか　村人といった\n善人そうな人に　当てないでください！{KP}\nもし　当てると　得点が\nマイナスになって　しまいます！{KP}\n上手くなっていくと　マトを照らす\n速度が　速くなっていきます！{KP}\nよ～く見て　マトの　真ん中を\nねらいましょう！",
-  "en": ""
+  "en": "How to Play Oni Target Toss{KP}We'll show you where the target is, just for a moment!{KP}Press the Circle button to shoot an arrow at the center of the target!{KP}Hit the center of the target for a bull's-eye and a high score!{KP}Don't hit nice-looking folks like jizo statues or villagers!{KP}If you do, your score will go into the minus!{KP}As you get better, the light shining on the targets moves faster!{KP}Watch closely and aim for the center of the target!"
  },
  {
   "id": "M050D/22/01D6",
   "kind": "msg",
   "jp": "ではゲームスタートです！\n　",
-  "en": ""
+  "en": "Now, game start!"
  },
  {
   "id": "M050D/22/020C",
   "kind": "msg",
   "jp": "ではゲームを　プレイしますか？\n　{KN}",
-  "en": ""
+  "en": "Would you like to play the game?{KN}"
  },
  {
   "id": "M050D/23/000A",
   "kind": "msg",
   "jp": "鬼まとあて！\n対戦ゲームの　説明です！{KP}\n○ボタンを　押してマトの\n真ん中めざして　矢を射ってください！{KP}\n上の段と　下の段に\nわかれて　対決します！{KP}\n３回勝負で　得点が\n多いほうが　勝ちです！{KP}\n真ん中に　当てるほど　相手の\nマトを照らす速度が　速くなります！{KP}\n対戦相手を　大いに\n困らせましょう！{KP}\n１Ｐは　上の段の　桃太郎さん\n２Ｐは　下の段の　金太郎さんです！",
-  "en": ""
+  "en": "Oni Target Toss! Here's how the versus game works!{KP}Press the Circle button to shoot an arrow at the center of the target!{KP}You'll face off split into an upper row and a lower row!{KP}It's 3 rounds, and whoever scores more wins!{KP}The closer to the center you hit, the faster the light moves on your opponent's target!{KP}Give your opponent a really hard time!{KP}1P is Momotaro-san on the upper row, and 2P is Kintaro-san on the lower row!"
  },
  {
   "id": "M050D/23/019C",
   "kind": "msg",
   "jp": "ではゲームスタートです！\n　",
-  "en": ""
+  "en": "Now, game start!"
  },
  {
   "id": "M050D/23/01D2",
   "kind": "msg",
   "jp": "ではゲームを　プレイしますか？\n　{KN}",
-  "en": ""
+  "en": "Would you like to play the game?{KN}"
  },
  {
   "id": "M050D/24/0046",
   "kind": "msg",
   "jp": "今回は{R2}段でした\n　",
-  "en": ""
+  "en": "This time you got level {R2}."
  },
  {
   "id": "M050D/24/006C",
   "kind": "msg",
   "jp": "今回は初段でした\n　",
-  "en": ""
+  "en": "This time you got level 1."
  },
  {
   "id": "M050D/24/0092",
   "kind": "msg",
   "jp": "今回は免許皆伝でした\n　",
-  "en": ""
+  "en": "This time you got Full Mastery."
  },
  {
   "id": "M050D/24/00BC",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n新記録ですよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! It's a new record!!{KP}Keep up the good work!"
  },
  {
   "id": "M050D/24/0134",
   "kind": "msg",
   "jp": "今回は{R2}段でした\n　",
-  "en": ""
+  "en": "This time you got level {R2}."
  },
  {
   "id": "M050D/24/015A",
   "kind": "msg",
   "jp": "今回は初段でした\n　",
-  "en": ""
+  "en": "This time you got level 1."
  },
  {
   "id": "M050D/24/0180",
   "kind": "msg",
   "jp": "今回は免許皆伝でした\n　",
-  "en": ""
+  "en": "This time you got Full Mastery."
  },
  {
   "id": "M050D/24/01BA",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n段位更新ですよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! Your level went up!!{KP}Keep up the good work!"
  },
  {
   "id": "M050D/24/0224",
   "kind": "msg",
   "jp": "桃太郎さん　やりましたね！\n初段に　なりましたよ！！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro-san, you did it! You reached level 1!!{KP}Keep up the good work!"
  },
  {
   "id": "M050D/24/0294",
   "kind": "msg",
   "jp": "桃太郎さん　おめでとうございます！\n免許皆伝に　なりましたよ！！{KP}\nごほうびとして\n{bb}方言カード{ww}が　１枚　もらえます！",
-  "en": ""
+  "en": "Congratulations, Momotaro-san! You've reached Full Mastery!!{KP}As a reward, you get one {bb}Dialect Card{ww}!"
  },
  {
   "id": "M050D/24/0320",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}方言カード０５６{ww}を　手に入れた！{KP}\nこの調子で　がんばりましょうね！\n　",
-  "en": ""
+  "en": "Momotaro got {bb}Dialect Card 056{ww}!{KP}Keep up the good work!"
  },
  {
   "id": "M050D/25/0002",
   "kind": "msg",
   "jp": "このゲームを\nもう一度　遊びますか？{KN}",
-  "en": ""
+  "en": "Play this game again?{KN}"
  },
  {
   "id": "M050D/26/0002",
   "kind": "msg",
   "jp": "では　いきます！\nよ～く　目を　こらしてくださいね！",
-  "en": ""
+  "en": "Here we go! Keep your eyes peeled!"
  },
  {
   "id": "M050D/27/0002",
   "kind": "msg",
   "jp": "では　いきます！\nよ～く　目を　こらしてくださいね！",
-  "en": ""
+  "en": "Here we go! Keep your eyes peeled!"
  },
  {
   "id": "M050D/28/0002",
   "kind": "msg",
   "jp": "次　いきます！\nよ～く　目を　こらしてくださいね！",
-  "en": ""
+  "en": "Next one! Keep your eyes peeled!"
  },
  {
   "id": "M050D/29/0002",
   "kind": "msg",
   "jp": "それでは　これが　最後です！",
-  "en": ""
+  "en": "And now, this is the last one!"
  }
 ]

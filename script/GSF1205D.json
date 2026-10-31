@@ -3,127 +3,127 @@
   "id": "GSF1205D/2/0036",
   "kind": "msg",
   "jp": "「おお　桃太郎さん！\n　ひさしぶりですなぁ！」\n　{KP}\n「桃太郎さんと　戦った日々を\n　今は　なつかしく\n　感じたりしますよ！」{KP}\n　\n「それで　今日は　なぜ\n　こちらに？」\n　{KP}\n「ほう……　柿太郎を\n　返して　ほしいと？」\n　{KP}\n「それは　無理な\n　お願いですな！」\n　{KP}\n「柿太郎の　数々の　悪行を\n　見のがすわけには\n　行きませんからな！」{KP}\n　\n「これから　柿太郎の\n　裁判を　行います！」\n　",
-  "en": ""
+  "en": "\"Oh, Momotaro-san! It's been a while!\"{KP}\"These days, I look back fondly on the days I fought you, Momotaro-san!\"{KP}\"So, what brings you here today?\"{KP}\"Hmm...... You want Kakitaro back?\"{KP}\"I'm afraid that's an impossible request!\"{KP}\"I can't overlook Kakitaro's many misdeeds!\"{KP}\"I will now hold Kakitaro's trial!\""
  },
  {
   "id": "GSF1205D/2/01F4",
   "kind": "msg",
   "jp": "「あ　あんちゃんを\n　ゆるして　ク　クリー！」\n　",
-  "en": ""
+  "en": "\"P-please forgive my b-big bro, k-kuriii!\""
  },
  {
   "id": "GSF1205D/2/0236",
   "kind": "msg",
   "jp": "　桃太郎も\n　お願いをした！\n　",
-  "en": ""
+  "en": "Momotaro pleaded too!"
  },
  {
   "id": "GSF1205D/2/0266",
   "kind": "msg",
   "jp": "「ならば　２人とも\n　裁判に　出るが　よい！」\n　",
-  "en": ""
+  "en": "\"Then the two of you shall appear at the trial as well!\""
  },
  {
   "id": "GSF1205D/2/02B6",
   "kind": "msg",
   "jp": "「被告　柿太郎！」\n　\n　",
-  "en": ""
+  "en": "\"Defendant Kakitaro!\""
  },
  {
   "id": "GSF1205D/2/02E0",
   "kind": "msg",
   "jp": "「ハ　ハイ！」\n　\n　",
-  "en": ""
+  "en": "\"Y-yes sir!\""
  },
  {
   "id": "GSF1205D/2/0306",
   "kind": "msg",
   "jp": "「おまえの　数々の　悪行は\n　人間たちに　多大な\n　迷惑を　こうむった！」{KP}\n　\n「また　桃太郎さんと\n　いっしょに　旅を　して」\n　{KP}\n「桃太郎さんの　人を　思う\n　やさしい　心に　ふれた後も\n　おまえは　悪行を　重ねたな」",
-  "en": ""
+  "en": "\"Your many misdeeds have caused humans a great deal of trouble!\"{KP}\"What's more, you traveled together with Momotaro-san,\"{KP}\"and even after being touched by Momotaro-san's kind, caring heart, you kept on piling up misdeeds!\""
  },
  {
   "id": "GSF1205D/2/0402",
   "kind": "msg",
   "jp": "「そ　それは！」\n　\n　",
-  "en": ""
+  "en": "\"B-but that's...!\""
  },
  {
   "id": "GSF1205D/2/042A",
   "kind": "msg",
   "jp": "「だまらっしゃい！」\n　\n　{KP}\n「よって　柿太郎！\n　おまえには　地獄めぐりの\n　刑を　言いわたす！」",
-  "en": ""
+  "en": "\"Silence!\"{KP}\"Therefore, Kakitaro! I hereby sentence you to a grand tour of Hell's torments!\""
  },
  {
   "id": "GSF1205D/2/04AC",
   "kind": "msg",
   "jp": "「い　いやだ　カキー！」\n　\n　",
-  "en": ""
+  "en": "\"N-no way! Kakiii!\""
  },
  {
   "id": "GSF1205D/2/04E4",
   "kind": "msg",
   "jp": "「ひどいクリー！」\n　\n　",
-  "en": ""
+  "en": "\"That's so cruel, kuri!\""
  },
  {
   "id": "GSF1205D/2/050E",
   "kind": "msg",
   "jp": "　桃太郎は　刑を\n　軽くするように　強く\n　お願いした！",
-  "en": ""
+  "en": "Momotaro begged hard for a lighter sentence!"
  },
  {
   "id": "GSF1205D/2/0556",
   "kind": "msg",
   "jp": "「ん～　桃太郎さんが\n　そこまで　お願いするなら…」\n　{KP}\n「わかった！　桃太郎さん！\n　こうしよう　じゃないか！」\n　{KP}\n「柿太郎が\n　地獄名物の　ゆうぎ\n　{bb}えんやとっとレース{ww}で」{KP}\n　\n「対戦者の　風神雷神に\n　勝てたら…」\n　",
-  "en": ""
+  "en": "\"Hmm... If Momotaro-san begs that much...\"{KP}\"All right, Momotaro-san! Here's what we'll do!\"{KP}\"If Kakitaro, in Hell's famous game, the {bb}Heave-Ho Race{ww},\"{KP}\"can beat his opponents, Fujin and Raijin...\""
  },
  {
   "id": "GSF1205D/2/0660",
   "kind": "msg",
   "jp": "「勝てたら？」\n　\n　",
-  "en": ""
+  "en": "\"If he wins?\""
  },
  {
   "id": "GSF1205D/2/0686",
   "kind": "msg",
   "jp": "「柿太郎の　罪を\n　見のがしてやろう！」\n　",
-  "en": ""
+  "en": "\"I'll overlook Kakitaro's crimes!\""
  },
  {
   "id": "GSF1205D/2/06C2",
   "kind": "msg",
   "jp": "「…　も　も　桃太郎さん！\n　あんちゃんじゃ\n　絶対　勝てないよ～！」",
-  "en": ""
+  "en": "\"...M-M-Momotaro-san! Big bro could never win that!\""
  },
  {
   "id": "GSF1205D/2/0718",
   "kind": "msg",
   "jp": "「ムム……」\n　\n　",
-  "en": ""
+  "en": "\"Hmmm......\""
  },
  {
   "id": "GSF1205D/2/073C",
   "kind": "msg",
   "jp": "「桃太郎さん！　お願い！\n　あんちゃんを　助けてクリ！」\n　",
-  "en": ""
+  "en": "\"Momotaro-san! Please! Save my big bro, kuri!\""
  },
  {
   "id": "GSF1205D/2/0788",
   "kind": "msg",
   "jp": "「どうする　桃太郎さん？\n　柿太郎の　かわりに\n　やってみるかね？」{KN}",
-  "en": ""
+  "en": "\"What will you do, Momotaro-san? Will you take Kakitaro's place and give it a try?\"{KN}"
  },
  {
   "id": "GSF1205D/2/07F4",
   "kind": "msg",
   "jp": "「そうか　いくら\n　桃太郎さんでも　柿太郎の\n　かわりには　やらんと…」{KP}\n　\n「でも　柿太郎の　刑は\n　確定してしまいますぞ！」\n　{KP}\n「では　もう一度　聞くが\n　{bb}えんやとっとレース{ww}を\n　やってみるかね？」{KN}",
-  "en": ""
+  "en": "\"I see... So not even you, Momotaro-san, will stand in for Kakitaro...\"{KP}\"But then Kakitaro's sentence will be final!\"{KP}\"So I'll ask once more: will you try the {bb}Heave-Ho Race{ww}?\"{KN}"
  },
  {
   "id": "GSF1205D/2/08EA",
   "kind": "msg",
   "jp": "　\n「さすがは　桃太郎さん！\n　柿太郎のために！　えらい！」\n　{KP}\n「では　はじめようか！」\n　\n　",
-  "en": ""
+  "en": "\"That's Momotaro-san for you! Doing this for Kakitaro! Splendid!\"{KP}\"Then let us begin!\""
  },
  {
   "id": "GSF1205D/2/0964",
@@ -135,115 +135,115 @@
   "id": "GSF1205D/2/09EA",
   "kind": "msg",
   "jp": "「残念だったな　桃太郎さん！\n　もう一度　やってみるかね？」\n　{KN}",
-  "en": ""
+  "en": "\"Too bad, Momotaro-san! Will you try again?\"{KN}"
  },
  {
   "id": "GSF1205D/2/0A42",
   "kind": "msg",
   "jp": "「うーむ！　さすがは\n　桃太郎さんだ！」\n　{KP}\n「{bb}えんやとっとレース{ww}に\n　勝つとはな」\n　{KP}\n「柿太郎よ！」\n　\n　",
-  "en": ""
+  "en": "\"Hmmm! That's Momotaro-san for you!\"{KP}\"To think you'd win the {bb}Heave-Ho Race{ww}!\"{KP}\"Kakitaro!\""
  },
  {
   "id": "GSF1205D/2/0ADA",
   "kind": "msg",
   "jp": "「ハ　ハイッ！」\n　\n　",
-  "en": ""
+  "en": "\"Y-yes sir!\""
  },
  {
   "id": "GSF1205D/2/0B02",
   "kind": "msg",
   "jp": "「これからは　人を\n　マネるのではなく…」\n　{KP}\n「桃太郎さんの　ような\n　人を　自分の　手本として\n　生きていくことだ！」{KP}\n　\n「そうすれば　村人たちからも\n　したわれることになろう！」\n　{KP}\n「よいな　柿太郎！」\n　\n　",
-  "en": ""
+  "en": "\"From now on, instead of copying others...\"{KP}\"you must live your life taking people like Momotaro-san as your model!\"{KP}\"Do that, and the villagers will come to look up to you!\"{KP}\"Understood, Kakitaro?\""
  },
  {
   "id": "GSF1205D/2/0C02",
   "kind": "msg",
   "jp": "「ハイ！\n　ありがとうございます！\n　えんま大王さま！」",
-  "en": ""
+  "en": "\"Yes! Thank you so much, Great King Enma-sama!\""
  },
  {
   "id": "GSF1205D/2/0C4A",
   "kind": "msg",
   "jp": "「あんちゃん！\n　よかったね！　よかったね！」\n　",
-  "en": ""
+  "en": "\"Big bro! That's great! That's great!\""
  },
  {
   "id": "GSF1205D/2/0C8C",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　ホントに　ホントに\n　ありがとう！」",
-  "en": ""
+  "en": "\"Momotaro-san! Really, really, thank you!\""
  },
  {
   "id": "GSF1205D/2/0CD2",
   "kind": "msg",
   "jp": "「ありがとう！\n　桃太郎さん！」\n　",
-  "en": ""
+  "en": "\"Thank you, Momotaro-san!\""
  },
  {
   "id": "GSF1205D/2/0D06",
   "kind": "msg",
   "jp": "「ん？　桃太郎さん　まだ\n　何か　なやみごとが\n　おありですかな…？」",
-  "en": ""
+  "en": "\"Hm? Momotaro-san, is something still troubling you...?\""
  },
  {
   "id": "GSF1205D/2/0D5C",
   "kind": "msg",
   "jp": "　桃太郎は　ふところから\n　{bb}はかい神の復活書{ww}を\n　出した！",
-  "en": ""
+  "en": "Momotaro took the {bb}Revival Book of the God of Destruction{ww} out from his kimono!"
  },
  {
   "id": "GSF1205D/2/0DAA",
   "kind": "msg",
   "jp": "「こ　これは…\n　はるか昔に　ふういんされた\n　書物のはず……」{KP}\n　\n「まさか　はかい神が\n　よみがえると　いうのか？」\n　",
-  "en": ""
+  "en": "\"Wh-why, this is... a book that should have been sealed away long, long ago......\"{KP}\"Surely you don't mean the God of Destruction is going to be revived?\""
  },
  {
   "id": "GSF1205D/2/0E3E",
   "kind": "msg",
   "jp": "　桃太郎は　深く\n　うなづいた\n　",
-  "en": ""
+  "en": "Momotaro nodded deeply."
  },
  {
   "id": "GSF1205D/2/0E70",
   "kind": "msg",
   "jp": "「うむ　それで　はかい神が\n　復活する　{bb}ハルマの場{ww}が」\n　{KP}\n「どこに　あるかが\n　知りたいわけですな……」\n　{KP}\n「わかりました！\n　{bb}ハルマの場{ww}の　入口を\n　開けておきましょう！」{KP}\n　\n「{bb}ハルマの場{ww}の　入口は\n　炎の海の　中に　あります！」\n　{KP}\n「桃太郎さん　お願いです！\n　はかい神の　復活を\n　ふせいで　くだされ！」{KP}\n　\n「柿太郎よ！\n　桃太郎さんを　助けて\n　あげるのだぞ！」",
-  "en": ""
+  "en": "\"I see. So you want to know where the {bb}Haruma Field{ww},\"{KP}\"where the God of Destruction is to be revived, can be found......\"{KP}\"Very well! I shall open the entrance to the {bb}Haruma Field{ww}!\"{KP}\"The entrance to the {bb}Haruma Field{ww} lies within the Sea of Flames!\"{KP}\"Momotaro-san, I beg you! Stop the God of Destruction from being revived!\"{KP}\"Kakitaro! You must help Momotaro-san!\""
  },
  {
   "id": "GSF1205D/2/102A",
   "kind": "msg",
   "jp": "「まかせとけって！\n　カキーッ！」\n　",
-  "en": ""
+  "en": "\"Leave it to me! Kakiii!\""
  },
  {
   "id": "GSF1205D/2/1060",
   "kind": "msg",
   "jp": "「あんちゃん　かっこいいー！」",
-  "en": ""
+  "en": "\"Big bro, you're so cool!\""
  },
  {
   "id": "GSF1205D/2/108A",
   "kind": "msg",
   "jp": "{bb}柿太郎{ww}は　再び\n仲間に　くわわった！\n　{KN}",
-  "en": ""
+  "en": "{bb}Kakitaro{ww} joined the party again!{KN}"
  },
  {
   "id": "GSF1205D/2/10E6",
   "kind": "msg",
   "jp": "「桃太郎さん　はかい神は\n　どうなりましたか？」\n　{KP}\n「…うむ\n　まだ　ハルマの場には\n　行っていないのですな」",
-  "en": ""
+  "en": "\"Momotaro-san, what became of the God of Destruction?\"{KP}\"...I see. You haven't been to the Haruma Field yet.\""
  },
  {
   "id": "GSF1205D/2/116E",
   "kind": "msg",
   "jp": "「桃太郎さん！　この前の\n　{bb}えんやとっとレース{ww}は\n　楽しかったのお！」{KP}\n　\n「また　やってみるかね？」\n　\n　{KN}",
-  "en": ""
+  "en": "\"Momotaro-san! That {bb}Heave-Ho Race{ww} the other day sure was fun!\"{KP}\"Care to try it again?\"{KN}"
  },
  {
   "id": "GSF1205D/2/1208",
   "kind": "msg",
   "jp": "「そうか！　さすがは\n　桃太郎さん！\n　今度は　負けないぞ！」{KP}\n　\n「では　はじめましょうか！」\n　\n　",
-  "en": ""
+  "en": "\"I see! That's Momotaro-san for you! I won't lose this time!\"{KP}\"Then shall we begin?\""
  },
  {
   "id": "GSF1205D/2/1288",
@@ -255,54 +255,54 @@
   "id": "GSF1205D/2/12EC",
   "kind": "msg",
   "jp": "「そうか…　気が　かわったら\n　いつでも　言ってくだされ！」\n　",
-  "en": ""
+  "en": "\"I see... If you change your mind, just say so anytime!\""
  },
  {
   "id": "GSF1205D/5/0002",
   "kind": "msg",
   "jp": "「ようこそ！\n　{bb}えんま大王さま{ww}の間に！」\n　{KP}\n「{bb}えんま大王さま{ww}は　この奥に\n　いらっしゃいます！」\n　",
-  "en": ""
+  "en": "\"Welcome to the hall of {bb}Great King Enma-sama{ww}!\"{KP}\"{bb}Great King Enma-sama{ww} awaits you further inside!\""
  },
  {
   "id": "GSF1205D/6/0010",
   "kind": "msg",
   "jp": "「裁判なんて　ひさしぶり\n　なんだなぁ！」\n　",
-  "en": ""
+  "en": "\"It's been ages since we had a trial!\""
  },
  {
   "id": "GSF1205D/6/0050",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　{bb}えんやとっとレース{ww}の\n　最高タイムは　何秒でした！？」",
-  "en": ""
+  "en": "\"Momotaro-san! How many seconds was your best time in the {bb}Heave-Ho Race{ww}?!\""
  },
  {
   "id": "GSF1205D/7/0002",
   "kind": "msg",
   "jp": "「最近　{bb}えんま大王さま{ww}は\n　あきれるほど　ゆうぎに\n　こっているんです！」",
-  "en": ""
+  "en": "\"Lately, {bb}Great King Enma-sama{ww} has gotten so into games it's ridiculous!\""
  },
  {
   "id": "GSF1205D/8/000A",
   "kind": "msg",
   "jp": "「桃太郎さん\n　ここで　旅の記録を　つけますか？」\n　{KN}",
-  "en": ""
+  "en": "\"Momotaro-san, would you like to record your journey here?\"{KN}"
  },
  {
   "id": "GSF1205D/8/0064",
   "kind": "msg",
   "jp": "「そうですか！\n　では　記録したくなったら\n　また　来てください！」",
-  "en": ""
+  "en": "\"I see! Then come back whenever you'd like to record it!\""
  },
  {
   "id": "GSF1205D/9/0014",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　ご苦労でしたな！」\n　{KP}\n「…しかし　はかい神は\n　復活して　しまいましたな！」\n　{KP}\n「今　やつは　地上で\n　あばれ回っているようだ！」\n　",
-  "en": ""
+  "en": "\"Momotaro-san! Well done!\"{KP}\"...However, the God of Destruction has been revived!\"{KP}\"It seems he's rampaging across the land above as we speak!\""
  },
  {
   "id": "GSF1205D/9/00E0",
   "kind": "msg",
   "jp": "「何か　やつを　こらしめる\n　方法は　ないものか…」\n　{KP}\n「……そうだ　桃太郎さん！\n　水龍さまの　ちからを\n　借りると　いいだろう！」{KP}\n　\n「桃太郎さんの　愛と　勇気　\n　それに　水龍さまの\n　ちからが　くわわれば」{KP}\n　\n「はかい神なんて\n　倒せるだろう！」\n　{KP}\n「すでに　桃太郎さんは\n　水龍さまに　認められておる\n　ようですしな！」{KP}\n　\n「さあ　ワシの　ちからで\n　桃太郎さんを　水龍さまの\n　所に　お運びしよう！」",
-  "en": ""
+  "en": "\"Is there no way to teach him a lesson...\"{KP}\"......I know, Momotaro-san! You should borrow the power of Lord Water Dragon!\"{KP}\"With your love and courage, Momotaro-san, plus the power of Lord Water Dragon,\"{KP}\"you could surely defeat the God of Destruction!\"{KP}\"And it seems Lord Water Dragon has already acknowledged you, Momotaro-san!\"{KP}\"Now, I shall use my power to carry you, Momotaro-san, to Lord Water Dragon!\""
  }
 ]
