@@ -1101,7 +1101,7 @@
   "id": "M510D/61/0000.3",
   "kind": "menu",
   "jp": "桃太郎",
-  "en": "Momo"
+  "en": "Momotaro"
  },
  {
   "id": "M510D/61/001E",
@@ -4995,7 +4995,7 @@
   "id": "M510D/191/0000.2",
   "kind": "menu",
   "jp": "金魚すくい",
-  "en": "Goldfish Scoop"
+  "en": "Goldfish Scooping"
  },
  {
   "id": "M510D/191/0000.3",
@@ -8283,7 +8283,7 @@
   "id": "M510D/301/0000.0",
   "kind": "menu",
   "jp": "紫陽花",
-  "en": "Purple+Sun+Bud"
+  "en": "Purple+Sun+Flower"
  },
  {
   "id": "M510D/301/0000.1",
@@ -8295,7 +8295,7 @@
   "id": "M510D/301/0000.2",
   "kind": "menu",
   "jp": "庵治花",
-  "en": "Hut+Rule+Bud"
+  "en": "Hut+Rule+Flower"
  },
  {
   "id": "M510D/301/0000.3",
@@ -9609,7 +9609,7 @@
   "id": "M510D/345/0000.1",
   "kind": "menu",
   "jp": "向陽花",
-  "en": "To+Rays+Bud"
+  "en": "To+Rays+Flower"
  },
  {
   "id": "M510D/345/0000.2",
@@ -9621,7 +9621,7 @@
   "id": "M510D/345/0000.3",
   "kind": "menu",
   "jp": "向日花",
-  "en": "To+Sun+Bud"
+  "en": "To+Sun+Flower"
  },
  {
   "id": "M510D/345/0024",

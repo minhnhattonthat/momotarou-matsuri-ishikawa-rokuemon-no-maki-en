@@ -33,4 +33,8 @@ M510D/195/0000.2	Carrot	quiz decoy; shared with an SLPM item string
 M510D/196/0000.1	Carrot	quiz decoy; shared with an SLPM item string
 M510D/195/0000.3	Cucumber	quiz decoy; shared with an SLPM item string
 M510D/196/0000.0	Cucumber	quiz answer; shared with an SLPM item string
-M510D/191/0000.2	Goldfish Scoop	quiz decoy; "Goldfish Scooping" (the game's name) is 76 px > 72 px choice box
+M510D/191/0000.2	Goldfish Scooping	quiz decoy; the 金魚すくい twin elsewhere is a capped code string; 76 px fits the 88 px choice box
+M510D/61/0000.3	Momotaro	quiz choice; the OVLM17 name-label twin is capped at 7 bytes ("Momo")
+OVLM17@800CB340	Kinta	mask name, 7B in place; its OVLM03 twin has 11 bytes and keeps Kintaro
+M580D/19/0000.2	Poverty God	quiz choice (opposite of 貧相); the code-label twin is "Bombee", which .1 ボンビー already shows
+M580D/19/0000.3	Fortune God	quiz choice; the code-label twin is "Lucky"

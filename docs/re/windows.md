@@ -26,8 +26,13 @@ layout byte `e[o+2]`, a switch (table 0x80019244, 17 cases) of fixed frames and 
 text length. Budget = frame x + w - 8 - text x (matches both shots: 72 here, 26 for the EXE choice box).
 | Layout | Frame x,y,w,h | Text x, first y, items | Budget | Used by |
 |---|---|---|---|---|
-| 5 | 208,126,104,56 | 232, 134, 3 | 72 px | 30 op-41 menus (3 answers, M530D quiz...) |
-| 6 | 208,94,104,72 | 232, 102, 4 | **72 px** (shot: m51 quiz f5050, `work/qa/wg5_m51`; 15 ruler digits = 75 px reach the inner edge) | 377 op-41 menus (4 answers, M510D quiz...) |
+| 5 | 208,126,104,56 | 232, 134, 3 | 72 px; **88 px** widened | 30 op-41 menus (3 answers, M530D quiz...) |
+| 6 | 208,94,104,72 | 232, 102, 4 | **72 px** (shot: m51 quiz f5050, `work/qa/wg5_m51`; 15 ruler digits = 75 px reach the inner edge); **88 px** widened | 377 op-41 menus (4 answers, M510D quiz...) |
+
+Widened (`engine.CHOICE_EXE` + `CURSOR`, for "Purple+Sun+Flower" 84 px): layouts 5/6 frame x 208 -> 192, w 104 -> 120,
+text x 232 -> 216 (right edge stays 312); the peach cursor x comes from the table 0x80082E54 ({u16 x, u16 y} per
+layout, read at 0x8002C664 and 0x8002CF7C): 224 -> 208. Shots: `work/qa/q88` (m51, 17 ruler digits + Q301 strings
+fit), `work/qa/l5` (m53, 3 items).
 | 8 | 32,16,256,64 | 80, 24, 3 | 200 px | 1 menu (M230D/25) |
 | 0,10-16 | x 238, w 56-80 | 259/260 | 26-50 px | EXE choice strings (`CHOICE` in windows.py) |
 | 1-4, 7, 9 | various | | | not used by op 41 on this disc |

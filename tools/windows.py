@@ -22,7 +22,7 @@ VARIANT = {      # px per line, visible lines, tag
     'msg_portrait': (192, 3, 'measured'),  # op 02 with a voice/portrait, x=90; same frame
     'memcard': (180, 3, 'measured'),       # EXE {KK}/{KE} messages, x=72, frame inner right 258; <= 64 bytes/line
     # op 41 items, laid out by the next op 04's layout byte (0x8002C6A8, table 0x80019244): budget = frame x+w-8-text x
-    'choice': (72, 1, 'measured'),         # layouts 5/6 (3/4 items): frame x=208 w=104, text x=232 (m51 quiz f5050)
+    'choice': (88, 1, 'measured'),         # layouts 5/6 (3/4 items): widened (engine.CHOICE_EXE) to frame x=192 w=120, text x=216
     'choice_top': (200, 1, 'code'),        # layout 8: frame x=32 w=256, text x=80 (M230D/25 only)
     'caption': (116, 1, 'code'),           # op 26: frame x=95 w=130; centred as 160 - units*6 (phase 7: VWF centring)
 }

@@ -52,7 +52,7 @@ def code_allowed(path, stem, rows):
                 ok.update(range(hdr + x, hdr + x + 4))
     sites = engine.MONEY_OVL.get(f'{stem}.BIN', [])
     if stem.startswith('SLPM'):
-        sites = engine.MONEY_EXE + [tuple(engine.ORIG)]
+        sites = engine.MONEY_EXE + [tuple(engine.ORIG)]   # ORIG holds every patched site (money, choice, cursor)
         lo, hi = engine.FREE - engine.EXE_BASE, engine.FREE_END - engine.EXE_BASE
         ok.update(range(lo, hi))
         ok.update(range(build.TABLE, build.TABLE + 8 * build.COUNT))

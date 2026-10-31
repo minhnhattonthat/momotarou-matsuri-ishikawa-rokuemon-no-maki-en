@@ -26,6 +26,20 @@ def errors():
             errs.append(f"{u['id']}: rows with the same JP differ in English")
         if u['en']:
             errs += [f"{u['id']}: {e}" for e in batches.problems(u, u['en'], var, gl, ok.get(u['id'], ()))]
+        # an exception is keyed by the unit's first row: every twin needs its own reviewed line (or a by_id row)
+        if u['id'] in ok:
+            errs += [f"{r['id']}: shares a glossary exception with {u['id']}; list it in glossary_ok.txt or "
+                     f"override it in by_id.tsv" for r in u['rows'] if r['id'] not in ok]
+    menus = {}
+    for rows in insert.rows_by_file().values():
+        for r in rows:
+            if var.get(r['id'], '').startswith('choice') and r.get('en'):
+                menus.setdefault(r['id'].rsplit('.', 1)[0], []).append(r)
+    for key, rs in menus.items():
+        seen = {}
+        for r in rs:
+            if seen.setdefault(r['en'], r['jp']) != r['jp']:
+                errs.append(f"{r['id']}: \"{r['en']}\" repeats another choice of {key} with different JP")
     for rows in insert.rows_by_file().values():
         for r in rows:
             if not r.get('en') or not batches.skip(r):

@@ -89,5 +89,5 @@ Format: ids - problem - suggested direction (the reviewers' full wording was con
 - [x] M510D/227/0026, 229/0024, 238/0024 - JP key looks factually off (Nagasaki coastline, Shikotsu volume, Hokkaido rice): kept, the game scores .0
 - [ ] M510D/69/0000.0 "League of Nations"; 66/0000.1 "Yellow River Man"; 91/0000.2 "Crop failure"; 103/0000.1 "Self"; 109/0000.1 "Pot"; 67/0000.2; 62/0000.2 "Angles"; 76/0028; 101/0024 "mokaru"; 110/0024; 125/001C
 - [ ] M510D/151/0028, 215/002C, 209/0034, 145/0014 glosses; 146/148 capitalized answers
-- [ ] M510D/286/002A, 326/0024 "hoikourou", 301/0000.0/.2 "Flower", 301/0000.3, 277/0000.1 "Tiananmen Square", 296/0024, 282/0000.2 "Zoo"
-- [ ] M530D/4/008C tense + "zoiii"; M510D/354/001C, 345/0000.1/.3 "Flower", 343/001C, 351/002A; M550D/4/00D4 "his {MM}", 4/0258, 4/001A; M540D hermit stiffness; M520D/4/00E0; M510D/356/0000.1
+- [ ] M510D/286/002A, 326/0024 "hoikourou", 301/0000.3, 277/0000.1 "Tiananmen Square", 296/0024, 282/0000.2 "Zoo"
+- [ ] M530D/4/008C tense + "zoiii"; M510D/354/001C, 343/001C, 351/002A; M550D/4/00D4 "his {MM}", 4/0258, 4/001A; M540D hermit stiffness; M520D/4/00E0; M510D/356/0000.1

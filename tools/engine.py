@@ -56,13 +56,23 @@ MONEY_WORDS = (0x240500D0, 0x24070060, 0x240500D8)       # addiu a1,0xd0 / addiu
 MONEY_NEW = (0x240500C8, 0x24070068, 0x240500D0)
 for _box in MONEY_EXE:
     ORIG.update(zip(_box, MONEY_WORDS))
+# Op-04 choice layouts 5 and 6 (quiz answers, docs/re/windows.md): frame x 0xD0 -> 0xC0, w 0x68 -> 0x78, text x
+# 0xE8 -> 0xD8, so the right edge stays at 312 and the text budget grows 72 -> 88 px ("Purple+Sun+Flower").
+CHOICE_EXE = [(0x8002C9D8, 0x8002C9E0, 0x8002CA1C), (0x8002CA58, 0x8002CA60, 0x8002CA9C)]
+CHOICE_WORDS = (0x240500D0, 0x24070068, 0x240500E8)
+CHOICE_NEW = (0x240500C0, 0x24070078, 0x240500D8)
+for _box in CHOICE_EXE:
+    ORIG.update(zip(_box, CHOICE_WORDS))
+# their peach cursor sits at a fixed x in the cursor table 0x80082E54 ({u16 x, u16 y} per layout): x 224 -> 208
+CURSOR = {0x80082E68: (0x008C00E0, 0x008C00D0), 0x80082E6C: (0x006C00E0, 0x006C00D0)}
+ORIG.update((a, old) for a, (old, _) in CURSOR.items())
 
 
-def patch_money(data, sites, base):
-    """data with each money box's three immediates widened (original words checked)."""
+def patch_money(data, sites, base, words=MONEY_WORDS, new_words=MONEY_NEW):
+    """data with each box's three immediates (frame x, w, text x) replaced (original words checked)."""
     out = bytearray(data)
     for box in sites:
-        for a, old, new in zip(box, MONEY_WORDS, MONEY_NEW):
+        for a, old, new in zip(box, words, new_words):
             got = struct.unpack_from('<I', out, a - base)[0]
             if got != old:
                 raise ValueError(f'{a:#x}: {got:#010x}, expected {old:#010x}')
@@ -365,7 +375,11 @@ def patch_exe(exe):
             raise RuntimeError(f'armips failed:\n{r.stdout}{r.stderr}')
         out = p.read_bytes()
     assert len(out) == len(exe)
-    return patch_money(out, MONEY_EXE, EXE_BASE)
+    out = bytearray(patch_money(patch_money(out, MONEY_EXE, EXE_BASE), CHOICE_EXE, EXE_BASE, CHOICE_WORDS,
+                                CHOICE_NEW))
+    for a, (_, new) in CURSOR.items():
+        struct.pack_into('<I', out, a - EXE_BASE, new)
+    return bytes(out)
 
 
 def sheet(out):
