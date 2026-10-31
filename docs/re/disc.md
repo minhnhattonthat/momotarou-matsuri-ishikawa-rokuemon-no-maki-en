@@ -13,7 +13,10 @@
   (RAM 0x8007E9B0), 1,606 x `{u32 start LBA, u32 end LBA}` with `end - start = ceil(size / 2048)`, in the game's
   own file-id order (entry 0 OVLSYS.BIN, 1 OVLTEST, 2 OVLGMAIN, 3 OVLXTTL, 4 OVLEVT, 5 OVLM00 ...), ends at 0x723E0.
   Every file but SYSTEM.CNF, the EXE and root ZZZZMIN3.PAD is in it.
-- A rebuild that moves or grows any file must rewrite this table from the new layout (phase 3).
+- A rebuild that moves or grows any file must rewrite this table from the new layout: `tools/build.py` does it
+  every build (mkpsxiso `-noisogen -lba` gives the new LBAs; entries matched to files by original start LBA).
+  Verified: unchanged repack is byte-identical; a build with OUTBIN/CHR0D.BIN grown by 5,000 bytes (every OUTBIN
+  file shifted) boots and plays the story opening (tests/test_build.py checks the table against the ISO directory).
 
 ## Load addresses (verified from RAM dumps with `tools/ramfind.py`)
 - EXE 0x80010000-0x8008C800. Every `OVL*.BIN` overlay loads at **0x800CB338** (OVLXTTL on the title,
