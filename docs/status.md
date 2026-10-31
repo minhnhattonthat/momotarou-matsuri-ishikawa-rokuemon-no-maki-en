@@ -14,9 +14,11 @@ Updated at the end of every session. Keep it to what the next session needs; his
     Done: title press-start prompt (CI0D:3 + TITLE0D:3), shot in game (work/qa/title8c f3030); Game Album menu
     labels (NAME0D:0 + PREM0D:0 + YUGI0D:0: Game Album / Rank Details / Quick Match! / Name Entry), checked in the
     image only: the screen needs a memory-card save (below).
-  - Text tour started on the en build of 5aedd55 (before any redraw): `work/qa/tour8` (warp_all --hold 1500
-    --click 45 --every 60 --probe textlog, log work/qa/tour8.log). When result.tsv is complete: `sheet.py` per
-    scene dir (--changed 0.02), `qa_gate.py init work/qa/manifest.tsv work/qa/tour8 --glob "*sheet*.png"`, the
+  - Text tour on the en build of 5aedd55 (before any redraw): `work/qa/tour8` (warp_all --hold 1500 --click 45
+    --every 60 --probe textlog): **452/452 ok, textlog.py: 0 Japanese lines, markers 0**. Per-scene sheets
+    (`sheet.py DIR --changed 0.02`) made for 88 of 452 only, and the JP reference tour `work/qa/tour_jp` reached
+    ~296 scenes: both background jobs were killed by Claude Code for low system memory (2026-11-01). Rerun them
+    with fewer jobs (`--jobs 3`), then: `qa_gate.py init work/qa/manifest.tsv work/qa/tour8 --glob "*sheet*.png"`, the
     same tour on rom/ into work/qa/tour_jp, `qa_gate.py todo ... --size 30`, `visual-qa` agents (<= 4 at once),
     `textlog.py work/qa/tour8` for Japanese still drawn.
   - Gotcha: `build.py --out` needs a `.bin` name (`--out build/g8.bin`); building the default image while a tour
