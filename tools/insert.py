@@ -3,7 +3,8 @@
     python -X utf8 tools/insert.py stats [--marker]     how many items each mode would write
 
 Modes:
-  en      every row with a non-empty `en` (others keep their Japanese)
+  en      every row with a non-empty `en` (others keep their Japanese), laid out by tools/layout.py (wrap, pages,
+          padding); a layout error stops the build
   marker  every row replaced by `<n> filler` (n = row number in work/markers.tsv), lines as wide as the
           Japanese line (12 px per Japanese char), inline {MM}/{R0}.. kept, page and line breaks kept
 overrides = {id: text} wins over both (stress lines for the width gate).
@@ -84,7 +85,9 @@ def marker(n, row):
 def texts(mode, overrides=None):
     """{file stem: {id: text}} for the rows this mode writes."""
     overrides = overrides or {}
-    out, n, mk = defaultdict(dict), 0, []
+    import layout
+    import windows
+    out, n, mk, var = defaultdict(dict), 0, [], None
     for stem, rows in rows_by_file().items():
         for r in rows:
             n += 1
@@ -94,6 +97,11 @@ def texts(mode, overrides=None):
                 mk.append(f"{n}\t{r['id']}\t{r['jp']!r}")
             elif mode != 'marker' and r.get('en'):
                 t = r['en']
+                if '[20]' not in r['jp'] and r['id'] not in SJIS_ONLY:   # money templates / save titles: as written
+                    var = var or windows.variants()
+                    t, errs = layout.render(r, var[r['id']])
+                    if errs:
+                        raise ValueError(f"{r['id']}: {errs}")
             if r['id'] in overrides:
                 t = overrides[r['id']]
             if t is not None and r['id'] in SJIS_ONLY:

@@ -81,7 +81,7 @@
   "id": "GSV0500D/4/0038",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}{MM}{ww}を　あたえた！\n　",
-  "en": ""
+  "en": "Momotaro gave it {bb}{MM}{ww}!"
  },
  {
   "id": "GSV0500D/4/007E",
@@ -105,7 +105,7 @@
   "id": "GSV0500D/4/01EC",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}{MM}{ww}を　あたえた！\n　",
-  "en": ""
+  "en": "Momotaro gave it {bb}{MM}{ww}!"
  },
  {
   "id": "GSV0500D/4/023E",

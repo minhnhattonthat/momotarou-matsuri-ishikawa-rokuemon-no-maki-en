@@ -3,246 +3,246 @@
   "id": "GSV0001D/2/0012",
   "kind": "msg",
   "jp": "「お祭りかぁ…」\n　\n　{KP}\n「ひさしく　お祭りのことなど\n　思いつかなんだな…」\n　",
-  "en": ""
+  "en": "\"A festival, eh...\"{KP}\"I haven't given festivals a thought in ages, I reckon...\""
  },
  {
   "id": "GSV0001D/2/008E",
   "kind": "msg",
   "jp": "「そうか！　お祭りに　行くと\n　段が　もらえるのか！」\n　{KP}\n「楽しそうじゃのォ！」\n　\n　",
-  "en": ""
+  "en": "\"I see! So if you go to the festival, you can earn levels!\"{KP}\"Sounds like fun, eh!\""
  },
  {
   "id": "GSV0001D/2/0112",
   "kind": "msg",
   "jp": "「桃太郎や！　お祭りを\n　楽しんでおるようじゃな！」\n　{KP}\n「これから　トロフィーが\n　たくさん　とどくそうじゃ！」\n　",
-  "en": ""
+  "en": "\"Momotaro, my boy! Looks like you're enjoying the festivals!\"{KP}\"I hear a whole lot of trophies will be arriving from now on!\""
  },
  {
   "id": "GSV0001D/2/01B2",
   "kind": "msg",
   "jp": "「桃太郎！　トロフィーが\n　とどくのは　よいのじゃが…」\n　{KP}\n「部屋に　入りきらん\n　かもしれんぞ！」\n　{KP}\n「どこに　おこうかのォ！」\n　\n　",
-  "en": ""
+  "en": "\"Momotaro! It's all well and good that trophies keep arriving, but...\"{KP}\"They may not all fit in the room!\"{KP}\"Where ever shall we put them, eh!\""
  },
  {
   "id": "GSV0001D/2/0270",
   "kind": "msg",
   "jp": "「桃太郎や！　トロフィーで\n　部屋が　いっぱいじゃ！」\n　{KP}\n「こんなに　たくさんだと\n　小屋でも　作らんと\n　いかんな！」",
-  "en": ""
+  "en": "\"Momotaro, my boy! The room is full of trophies!\"{KP}\"With this many, we'll have to build a shed or something!\""
  },
  {
   "id": "GSV0001D/2/0314",
   "kind": "msg",
   "jp": "「トロフィーが\n　いっぱいに　なったんでのォ」\n　{KP}\n「となりに　小屋を\n　作ったんじゃ」\n　",
-  "en": ""
+  "en": "\"We ran out of room for trophies, you see,\"{KP}\"so I built a shed next door.\""
  },
  {
   "id": "GSV0001D/2/039A",
   "kind": "msg",
   "jp": "「桃太郎！　トロフィーが\n　増えすぎたんで…」\n　{KP}\n「小屋を　大きくしたぞ！」\n　\n　{KP}\n「いったい　いくつ\n　トロフィーを\n　集めておるんじゃ？」",
-  "en": ""
+  "en": "\"Momotaro! There got to be too many trophies, so...\"{KP}\"I made the shed bigger!\"{KP}\"Just how many trophies are you collecting?\""
  },
  {
   "id": "GSV0001D/2/0468",
   "kind": "msg",
   "jp": "「桃太郎や！　小屋には\n　たちよったか？」\n　{KN}",
-  "en": ""
+  "en": "\"Momotaro, my boy! Have you stopped by the shed?\"{KN}"
  },
  {
   "id": "GSV0001D/2/04B8",
   "kind": "msg",
   "jp": "「トロフィーのほかにも\n　いいものが　入って\n　おったじゃろ？」",
-  "en": ""
+  "en": "\"There was something nice in there besides the trophies, wasn't there?\""
  },
  {
   "id": "GSV0001D/2/0506",
   "kind": "msg",
   "jp": "「まだ　見てないのなら\n　行ってごらん！」\n　{KP}\n「おもしろいものが\n　見られるじゃろう！」\n　",
-  "en": ""
+  "en": "\"If you haven't looked yet, go and see!\"{KP}\"You'll find something interesting!\""
  },
  {
   "id": "GSV0001D/2/057E",
   "kind": "msg",
   "jp": "「桃太郎や！　おまえが\n　１００段に　なる日を\n　楽しみにしておるぞ！」",
-  "en": ""
+  "en": "\"Momotaro, my boy! I'm looking forward to the day you reach level 100!\""
  },
  {
   "id": "GSV0001D/2/05E8",
   "kind": "msg",
   "jp": "「もうすぐで　名人じゃな\n　がんばるんじゃぞ！」\n　{KP}\n「それにしても\n　たいしたものじゃ！」\n　{KP}\n「ひとつの　ことを　ずっと\n　つづけるのは　大変なのに！」\n　",
-  "en": ""
+  "en": "\"You'll be a Master soon. Keep at it!\"{KP}\"My, my, that's quite something!\"{KP}\"Sticking with one thing all this time is no easy feat!\""
  },
  {
   "id": "GSV0001D/2/06B8",
   "kind": "msg",
   "jp": "「よい　孫を\n　持ったものじゃのォ！」\n　{KP}\n「孫は　宝というものじゃが\n　桃太郎は　わしらにとって\n　大きな　宝じゃ！」",
-  "en": ""
+  "en": "\"What a fine grandson we've got, eh!\"{KP}\"They say a grandchild is a treasure, but Momotaro is our greatest treasure of all!\""
  },
  {
   "id": "GSV0001D/2/075A",
   "kind": "msg",
   "jp": "「すんごい　孫を\n　持ったものじゃのォ！」\n　{KP}\n「桃太郎や！」\n　\n　{KP}\n「どこまで　成長し\n　つづけるのじゃ！」\n　{KP}\n「もう　びっくりするのに\n　つかれて　しまった\n　くらいじゃぞ！」{KP}\n　\n「いやいや　冗談じゃ！」\n　\n　{KP}\n「桃太郎の　段が\n　あがるのが　わしらの\n　一番の　楽しみじゃ！」",
-  "en": ""
+  "en": "\"What an amazing grandson we've got, eh!\"{KP}\"Momotaro, my boy!\"{KP}\"How far are you going to keep growing?\"{KP}\"I'm almost worn out from being surprised all the time!\"{KP}\"No, no, I'm only joking!\"{KP}\"Watching your level go up is the greatest joy we have!\""
  },
  {
   "id": "GSV0001D/2/08C0",
   "kind": "msg",
   "jp": "「こりゃまた　すごいな\n　桃太郎！」\n　{KP}\n「わしらの　じまんの\n　孫じゃて」\n　{KP}\n「まったくもう！\n　桃太郎の　すごさには　アゴが\n　はずれてしまいそうじゃよ！」{KP}\n　\n「でも　無理ばかりしては\n　いかんぞ　桃太郎！」\n　{KP}\n「わしらが　本当に\n　うれしいのは　おまえが\n　健康でいることじゃ！」",
-  "en": ""
+  "en": "\"Well, isn't that something, Momotaro!\"{KP}\"Our grandson, the pride of the family!\"{KP}\"Goodness me! You're so amazing my jaw's about to drop clean off!\"{KP}\"But don't push yourself too hard, Momotaro!\"{KP}\"What truly makes us happy is you staying healthy!\""
  },
  {
   "id": "GSV0001D/2/0A22",
   "kind": "msg",
   "jp": "「たまげた！　たまげた！」\n　\n　{KP}\n「どこまでも　どこまでも\n　おどろかせてくれる\n　子じゃの～！」{KP}\n　\n「友だちも　たくさん\n　できたか？」\n　{KP}\n「人には　やさしく\n　しておるか？」\n　{KP}\n「段位も　大切じゃが\n　いつまでも　やさしさを\n　忘れない」{KP}\n　\n「桃太郎で　いておくれよ！」\n　\n　",
-  "en": ""
+  "en": "\"Astounding! Simply astounding!\"{KP}\"There's no end to the surprises with this boy, eh!\"{KP}\"Have you made lots of friends?\"{KP}\"Are you being kind to people?\"{KP}\"Levels matter, but never forget to be kind.\"{KP}\"Always stay the Momotaro we know!\""
  },
  {
   "id": "GSV0001D/2/0B7C",
   "kind": "msg",
   "jp": "「もう何も　言えまい！」\n　\n　{KP}\n「すごいぞ！　桃太郎！」\n　\n　{KP}\n「ゆうぎ道　ここに\n　きわまれりじゃ！」\n　{KP}\n「心　技　体！」\n　\n　{KP}\n「すべてにおいて　桃太郎は\n　村人たちの　あこがれとなる\n　人物に　なったの！」{KP}\n　\n「おめでとう！　この\n　すばらしさを　人々に\n　伝えて歩くがよい！」{KP}\n　\n「いやはや　りっぱな\n　孫を　持ったもんじゃ！」\n　",
-  "en": ""
+  "en": "\"I'm at a loss for words!\"{KP}\"Amazing, Momotaro!\"{KP}\"You've reached the very summit of the Way of Games!\"{KP}\"Mind, skill and body!\"{KP}\"In every way, you've become someone all the villagers look up to!\"{KP}\"Congratulations! Go forth and share this greatness with everyone!\"{KP}\"My, my, what a splendid grandson we've got!\""
  },
  {
   "id": "GSV0001D/3/0012",
   "kind": "msg",
   "jp": "「カチカチの村の\n　お祭りを　楽しんでおいで」\n　",
-  "en": ""
+  "en": "\"Go have fun at the festival in Kachi-Kachi Village.\""
  },
  {
   "id": "GSV0001D/3/0068",
   "kind": "msg",
   "jp": "「カチカチの村の\n　お祭りを　楽しんでおいで」\n　",
-  "en": ""
+  "en": "\"Go have fun at the festival in Kachi-Kachi Village.\""
  },
  {
   "id": "GSV0001D/3/00BE",
   "kind": "msg",
   "jp": "「カチカチの村の\n　お祭りを　楽しんでおいで」\n　",
-  "en": ""
+  "en": "\"Go have fun at the festival in Kachi-Kachi Village.\""
  },
  {
   "id": "GSV0001D/3/0114",
   "kind": "msg",
   "jp": "「カチカチの村の\n　お祭りを　楽しんでおいで」\n　",
-  "en": ""
+  "en": "\"Go have fun at the festival in Kachi-Kachi Village.\""
  },
  {
   "id": "GSV0001D/3/016A",
   "kind": "msg",
   "jp": "「いやはや　トロフィーで\n　部屋が　いっぱいじゃよ」\n　",
-  "en": ""
+  "en": "\"Oh my, the room is full of trophies.\""
  },
  {
   "id": "GSV0001D/3/01C6",
   "kind": "msg",
   "jp": "「トロフィーなら　小屋に\n　うつしておいたよ！」\n　",
-  "en": ""
+  "en": "\"I moved the trophies to the shed for you!\""
  },
  {
   "id": "GSV0001D/3/021E",
   "kind": "msg",
   "jp": "「そろそろ　小屋も\n　トロフィーで　いっぱいに\n　なってきおった」",
-  "en": ""
+  "en": "\"The shed's getting full of trophies too, dear.\""
  },
  {
   "id": "GSV0001D/3/0290",
   "kind": "msg",
   "jp": "「トロフィー小屋が　てぜまに\n　なってきてのォ」\n　{KP}\n「見に行く時は\n　気をつけるんじゃぞ！」\n　",
-  "en": ""
+  "en": "\"The trophy shed is getting rather cramped.\"{KP}\"Be careful when you go to look!\""
  },
  {
   "id": "GSV0001D/3/030A",
   "kind": "msg",
   "jp": "「さっきは　すごい\n　音が　したけど\n　どうしたんだい？」",
-  "en": ""
+  "en": "\"There was an awful noise just now. What happened, dear?\""
  },
  {
   "id": "GSV0001D/3/0366",
   "kind": "msg",
   "jp": "「もうすぐ　名人じゃな\n　がんばるんじゃぞ！」\n　",
-  "en": ""
+  "en": "\"You'll be a Master soon. Keep at it!\""
  },
  {
   "id": "GSV0001D/3/03BC",
   "kind": "msg",
   "jp": "「おお　桃太郎！\n　とうとう　名人に\n　なったんじゃな！」{KP}\n　\n「おまえは　わしらの\n　じまんの　孫じゃて！」\n　",
-  "en": ""
+  "en": "\"Oh, Momotaro! You've finally become a Master!\"{KP}\"You're our pride and joy, dear!\""
  },
  {
   "id": "GSV0001D/3/045A",
   "kind": "msg",
   "jp": "「おお　桃太郎！\n　とうとう　達人に\n　なったんじゃな！」{KP}\n　\n「おまえは　わしらの\n　じまんの　孫じゃて！」\n　",
-  "en": ""
+  "en": "\"Oh, Momotaro! You've finally become an Expert!\"{KP}\"You're our pride and joy, dear!\""
  },
  {
   "id": "GSV0001D/3/04F8",
   "kind": "msg",
   "jp": "「おお　桃太郎！\n　がんばって　ゆうぎ仙人を\n　めざすのじゃ！」",
-  "en": ""
+  "en": "\"Oh, Momotaro! Do your best and aim to become the Game Hermit!\""
  },
  {
   "id": "GSV0001D/3/055C",
   "kind": "msg",
   "jp": "「おお　桃太郎！\n　もうすぐ\n　ゆうぎ仙人じゃな！」{KP}\n　\n「おまえは　わしらの\n　じまんの　孫じゃて！」\n　",
-  "en": ""
+  "en": "\"Oh, Momotaro! You'll be the Game Hermit soon!\"{KP}\"You're our pride and joy, dear!\""
  },
  {
   "id": "GSV0001D/3/05E4",
   "kind": "msg",
   "jp": "「おお　桃太郎！\n　とうとう　ゆうぎ仙人に\n　なったんじゃな！」{KP}\n　\n「おまえは　わしらの\n　最高の　孫じゃて！」\n　",
-  "en": ""
+  "en": "\"Oh, Momotaro! You've finally become the Game Hermit!\"{KP}\"You're the best grandson we could ask for!\""
  },
  {
   "id": "GSV0001D/4/0012",
   "kind": "msg",
   "jp": "桃太郎は\nトロフィーを　しらべた！\n　{KP}\n段を　もらった　ゆうぎのトロフィーが\nたくさん　ならんでいる\n　",
-  "en": ""
+  "en": "Momotaro examined the trophies!{KP}Lots of trophies from games where he earned levels are lined up here."
  },
  {
   "id": "GSV0001D/4/0092",
   "kind": "msg",
   "jp": "桃太郎は\nトロフィーを　しらべた！\n　{KP}\n段を　もらった　ゆうぎのトロフィーが\nならんでいる\n　",
-  "en": ""
+  "en": "Momotaro examined the trophies!{KP}Trophies from games where he earned levels are lined up here."
  },
  {
   "id": "GSV0001D/5/0012",
   "kind": "msg",
   "jp": "桃太郎は\nトロフィーを　しらべた！\n　{KP}\n新記録の　ゆうぎのトロフィーが\nたくさん　ならんでいる\n　",
-  "en": ""
+  "en": "Momotaro examined the trophies!{KP}Lots of new-record trophies from games are lined up here."
  },
  {
   "id": "GSV0001D/5/008C",
   "kind": "msg",
   "jp": "桃太郎は\nトロフィーを　しらべた！\n　{KP}\n新記録の　ゆうぎのトロフィーが\nならんでいる\n　",
-  "en": ""
+  "en": "Momotaro examined the trophies!{KP}New-record trophies from games are lined up here."
  },
  {
   "id": "GSV0001D/6/0004",
   "kind": "msg",
   "jp": "「桃太郎や！　{bb}カチカチの村{ww}から\n　お祭りの　おさそいじゃ！」{KP}\n　\n「いろんな　ゆうぎ場が\n　出ておるらしいぞ！」\n　{KP}\n「桃太郎の　おかげで\n　お祭りも　ひらけるように\n　なったんじゃな！」{KP}\n　\n「さぁ　これを　持って\n　{bb}カチカチの村{ww}へ　行って\n　楽しんで　おいで！」",
-  "en": ""
+  "en": "\"Momotaro, my boy! An invitation to the festival from {bb}Kachi-Kachi Village{ww}!\"{KP}\"They say there are all sorts of game stalls!\"{KP}\"It's thanks to you that they can hold festivals again!\"{KP}\"Now, take this, go to {bb}Kachi-Kachi Village{ww}, and have fun!\""
  },
  {
   "id": "GSV0001D/6/013A",
   "kind": "msg",
   "jp": "桃太郎は　\n{bb}招待状{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got the {bb}Invitation{ww}!{KN}"
  },
  {
   "id": "GSV0001D/6/0190",
   "kind": "msg",
   "jp": "桃太郎は\nおこづかいとして\n{bb}１００両{ww}もらった！",
-  "en": ""
+  "en": "Momotaro got {bb}100 ryo{ww} as pocket money!"
  },
  {
   "id": "GSV0001D/7/0004",
   "kind": "msg",
   "jp": "「そうですよ　桃太郎！\n　鬼たちも　おとなしく\n　なったし…」{KP}\n　\n「お祭りで　思いっきり\n　はねを　のばして　おいで」\n　{KP}\n「さあ！\n　{bb}きびだんご{ww}を\n　持っておいき！」",
-  "en": ""
+  "en": "\"That's right, Momotaro! The oni have calmed down, too...\"{KP}\"So go to the festival and really let your hair down.\"{KP}\"Here! Take some {bb}millet dumplings{ww} with you!\""
  },
  {
   "id": "GSV0001D/7/00D0",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}きびだんご{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got {bb}millet dumplings{ww}!{KN}"
  }
 ]

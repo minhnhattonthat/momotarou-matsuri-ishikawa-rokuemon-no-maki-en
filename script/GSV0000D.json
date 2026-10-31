@@ -9,24 +9,24 @@
   "id": "GSV0000D/6/000E",
   "kind": "msg",
   "jp": "「コケ　コココ　コケーッ！」\n　\n　",
-  "en": ""
+  "en": "\"Cluck, cluck-cluck, cock-a-doodle!\""
  },
  {
   "id": "GSV0000D/6/0044",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}{MM}{ww}を　あたえた！\n　",
-  "en": ""
+  "en": "Momotaro gave it {bb}{MM}{ww}!"
  },
  {
   "id": "GSV0000D/6/0076",
   "kind": "msg",
   "jp": "「コケ　コココ　コケーッ！」\n　\n　{KP}\n………　ポッコ！\n　\n　{KP}\nにわとりは　{bb}たまご{ww}を　生んだ！\n　\n　",
-  "en": ""
+  "en": "\"Cluck, cluck-cluck, cock-a-doodle!\"{KP}......Plop!{KP}The chicken laid an {bb}egg{ww}!"
  },
  {
   "id": "GSV0000D/6/00FC",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}たまご{ww}を　手に入れた！\n　{KN}",
-  "en": ""
+  "en": "Momotaro got an {bb}egg{ww}!{KN}"
  }
 ]

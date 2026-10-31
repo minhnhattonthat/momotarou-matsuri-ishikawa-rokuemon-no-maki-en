@@ -9,55 +9,55 @@
   "id": "GSV0100D/15/0002",
   "kind": "msg",
   "jp": "「これは　これは　桃太郎さん\n　{bb}カチカチの村{ww}に　行くんですか？」\n　{KP}\n「うちの　孫も　行きたがって\n　しょうがないんじゃよ！」\n　{KP}\n「なんでも　お祭りを\n　やっておるそうじゃな！」\n　",
-  "en": ""
+  "en": "\"Well, well, Momotaro-san. Are you off to {bb}Kachi-Kachi Village{ww}?\"{KP}\"My grandson's dying to go too. I can't do a thing with him!\"{KP}\"They say there's a festival on!\""
  },
  {
   "id": "GSV0100D/16/0002",
   "kind": "msg",
   "jp": "「桃太郎さん！」\n　\n　{KP}\n「段が　あがると\n　中には　話すことが\n　かわる人がおるで！」{KP}\n　\n「たまに　思い出したら\n　話しかけて　くださいな！」\n　",
-  "en": ""
+  "en": "\"Momotaro-san!\"{KP}\"When your level goes up, some folks will have new things to say!\"{KP}\"Come talk to us when you think of it!\""
  },
  {
   "id": "GSV0100D/17/0002",
   "kind": "msg",
   "jp": "「△ボタンを　押して\n　{bb}ステータス{ww}を　見るのじゃ！」\n　{KP}\n「旅の　途中の　結果を\n　楽しめますぞ！」\n　",
-  "en": ""
+  "en": "\"Press the Triangle button to see your {bb}Status{ww}!\"{KP}\"You can enjoy the results of your journey so far!\""
  },
  {
   "id": "GSV0100D/17/008E",
   "kind": "msg",
   "jp": "「ステータスの　{bb}歩数{ww}を　見たかのォ？\n　？？？？？？歩　とあるじゃろ！」\n　{KP}\n「あそこは　この先　どこかで\n　ひょっこり　出てきますぞ！」\n　{KP}\n「誰かから　ある物を\n　もらうと　出てくるはずじゃ！」\n　{KP}\n「楽しみじゃろう！？」\n　\n　",
-  "en": ""
+  "en": "\"Have you looked at the {bb}Steps{ww} on your Status? It says ?????? steps, doesn't it!\"{KP}\"That will pop up somewhere down the road!\"{KP}\"It should appear once you get a certain thing from someone!\"{KP}\"Something to look forward to, eh!?\""
  },
  {
   "id": "GSV0100D/17/01B0",
   "kind": "msg",
   "jp": "「ステータスの\n　右下の　{bb}桃の絵{ww}　じゃが…」\n　{KP}\n「今の　桃太郎さんの\n　育ちぐあいが　書いてあるのじゃ！」\n　{KP}\n「桃太郎さんと　いえども\n　ゆうぎの　世界では」\n　{KP}\n「まだ　ただの　桃\n　という　意味じゃ！」\n　{KP}\n「がんばって　ゆうぎ道を\n　きわめるのじゃ！」\n　",
-  "en": ""
+  "en": "\"About the {bb}peach picture{ww} at the bottom right of your Status...\"{KP}\"It shows how far you've grown, Momotaro-san!\"{KP}\"Even you, Momotaro-san, in the world of games...\"{KP}\"are still just a peach. That's what it means!\"{KP}\"Work hard and master the Way of Games!\""
  },
  {
   "id": "GSV0100D/17/02FA",
   "kind": "msg",
   "jp": "「ステータスの\n　右下の　{bb}赤ん坊の　絵{ww}じゃが…」\n　{KP}\n「今の　桃太郎さんの\n　育ちぐあいが　書いてあるのじゃ！」\n　{KP}\n「桃太郎さんと　いえども\n　ゆうぎの　世界では」\n　{KP}\n「赤ん坊　どうぜん\n　という　意味じゃ！」\n　{KP}\n「がんばって　ゆうぎ道を\n　きわめるのじゃ！」\n　",
-  "en": ""
+  "en": "\"About the {bb}baby picture{ww} at the bottom right of your Status...\"{KP}\"It shows how far you've grown, Momotaro-san!\"{KP}\"Even you, Momotaro-san, in the world of games...\"{KP}\"are no better than a baby. That's what it means!\"{KP}\"Work hard and master the Way of Games!\""
  },
  {
   "id": "GSV0100D/17/0448",
   "kind": "msg",
   "jp": "「ステータスの\n　右下の　{bb}子どもの絵{ww}　じゃが…」\n　{KP}\n「今の　桃太郎さんの\n　育ちぐあいが　書いてあるのじゃ！」\n　{KP}\n「桃太郎さんと　いえども\n　ゆうぎの　世界では」\n　{KP}\n「まだ　まだ　子ども\n　という　意味じゃ！」\n　{KP}\n「がんばって　ゆうぎ道を\n　きわめるのじゃ！」\n　",
-  "en": ""
+  "en": "\"About the {bb}child picture{ww} at the bottom right of your Status...\"{KP}\"It shows how far you've grown, Momotaro-san!\"{KP}\"Even you, Momotaro-san, in the world of games...\"{KP}\"are still only a child. That's what it means!\"{KP}\"Work hard and master the Way of Games!\""
  },
  {
   "id": "GSV0100D/17/0598",
   "kind": "msg",
   "jp": "「ステータスの　右下の\n　{bb}桃太郎さんの絵{ww}　じゃが…」\n　{KP}\n「今の　桃太郎さんの\n　育ちぐあいが　書いてあるのじゃ！」\n　{KP}\n「桃太郎さんは\n　ゆうぎの　世界でも」\n　{KP}\n「りっぱに　一人前\n　という　意味じゃ！」\n　{KP}\n「これからも　ゆうぎ道を\n　きわめるのじゃ！」\n　",
-  "en": ""
+  "en": "\"About the {bb}Momotaro picture{ww} at the bottom right of your Status...\"{KP}\"It shows how far you've grown, Momotaro-san!\"{KP}\"You, Momotaro-san, in the world of games...\"{KP}\"are a full-fledged adult. That's what it means!\"{KP}\"Keep on mastering the Way of Games!\""
  },
  {
   "id": "GSV0100D/17/06E0",
   "kind": "msg",
   "jp": "「ステータスの　右下の\n　{bb}桃太郎さんの絵{ww}　じゃが…」\n　{KP}\n「今の　桃太郎さんの\n　育ちぐあいが　書いてあるのじゃ！」\n　{KP}\n「桃太郎さんは\n　ゆうぎの　世界でも」\n　{KP}\n「達人の　いきに　達しておる\n　という　意味じゃ！」\n　{KP}\n「これからも　ゆうぎどうを\n　きわめるのじゃ！」\n　",
-  "en": ""
+  "en": "\"About the {bb}Momotaro picture{ww} at the bottom right of your Status...\"{KP}\"It shows how far you've grown, Momotaro-san!\"{KP}\"You, Momotaro-san, in the world of games...\"{KP}\"have reached the level of an Expert. That's what it means!\"{KP}\"Keep on mastering the Way of Games!\""
  },
  {
   "id": "GSV0100D/17/0824",
@@ -207,7 +207,7 @@
   "id": "GSV0100D/29/0030",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}{MM}{ww}を　あたえた！\n　",
-  "en": ""
+  "en": "Momotaro gave it {bb}{MM}{ww}!"
  },
  {
   "id": "GSV0100D/29/0076",
