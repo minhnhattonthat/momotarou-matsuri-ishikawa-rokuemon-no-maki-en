@@ -38,6 +38,15 @@ tried every other script destination and +-1..2 tile shifts: 25 maps work elsewh
 Tried and not the cause: exit word 0xFFFF vs 0xFFFE, the game's own fade-out op `0x1B 1 1 10` before 0x1D, and a
 two-hop warp through a working map's entry script (the second 0x1D never loaded). Likely a story-state dependency.
 
+Map 284 (GV2500): the en build never loaded it from (19,11) dir 2 (GSD0000D's destination; the VM stays on the
+0x1D op, frames keep running, heap A only half used), while the original did. Not text or memory: reverting
+single scripts did not help, only all GSV*+GSF0* together, and sector shifts of the map files flip it either way
+(GV25000D at LBA 40649 ok, 40650 fails, 40666 ok): a CD-timing race in the warp. Dir 0 (GSF0000D's own entry,
+the route the game uses) loads in both builds: OVERRIDE in gen_scenes.py.
+
+`OPS={u16,...}` (warp.lua var) writes extra ops before the map change at the hijack, e.g. an op 26 caption from
+`tools/debug/caption_ops.py ID`: the game's own caption handler draws it, then the map changes.
+
 ## Script ops: guesses for phase 4
 - `0x1E N` after a 0x1D takes many values (0x63, 0x3FF, 0x1FA...): looks like a label/jump id, not a byte offset.
 - `0x1B 1 1 10` precedes 427 of the 0x1D ops: fade out.

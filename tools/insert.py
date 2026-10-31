@@ -176,20 +176,19 @@ def patch_code(data, path, items, rows):
     if not moves:
         return bytes(out)
     rf = codestr.refs(d, base)
-    lui_users = defaultdict(set)
-    for a, rs in rf.items():
-        for k in rs:
-            if k[0] == 'hilo':
-                lui_users[k[1]].add(a)
     for iid, o, enc, t in sorted(moves, key=lambda m: -len(m[2])):
         need = len(enc) + 1
-        h = min((h for h in holes if h[1] - h[0] >= need), key=lambda h: h[1] - h[0], default=None)
+        old = base + o - hdr
+
+        def same_hi(a):  # lui halves stay valid (signed for addiu/loads, unsigned for ori)
+            return a >> 16 == old >> 16 and (a + 0x8000) >> 16 == (old + 0x8000) >> 16
+        h = min((h for h in holes if h[1] - h[0] >= need and same_hi(base + h[0] - hdr) and same_hi(base + h[0] - hdr + need)),
+                key=lambda h: h[1] - h[0], default=None)
         if h is None:
-            raise ValueError(f'{iid}: no hole for {need} bytes: {t!r}')
+            raise ValueError(f'{iid}: no hole for {need} bytes in its lui page: {t!r}')
         new = base + h[0] - hdr
         out[h[0]:h[0] + need] = enc + b'\0'
         h[0] = (h[0] + need + 3) & ~3
-        old = base + o - hdr
         for k in rf.get(old, []):
             if k[0] == 'ptr':
                 struct.pack_into('<I', out, hdr + k[1], new)
@@ -200,9 +199,8 @@ def patch_code(data, path, items, rows):
             hi = (new + 0x8000) >> 16 if signed else new >> 16
             ui = struct.unpack_from('<I', out, lui_o)[0]
             if hi != ui & 0xFFFF:
-                if lui_users[k[1]] - {old}:
-                    raise ValueError(f'{iid}: lui at {k[1]:#x} shared, cannot move to {new:#x}')
-                struct.pack_into('<I', out, lui_o, (ui & 0xFFFF0000) | hi)
+                # a lo can pair with a second lui codestr misses (OVLXTTL 0x800DAF10: one in a branch delay slot)
+                raise ValueError(f'{iid}: move to {new:#x} changes the lui half (lui at {k[1]:#x})')
             struct.pack_into('<I', out, lo_o, (lw & 0xFFFF0000) | (new & 0xFFFF))
     return bytes(out)
 

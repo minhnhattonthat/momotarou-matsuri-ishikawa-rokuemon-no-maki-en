@@ -12,6 +12,7 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / 'tools'))
 import batches  # noqa: E402
 import insert  # noqa: E402
+import layout  # noqa: E402
 import text  # noqa: E402
 import windows  # noqa: E402
 
@@ -34,7 +35,8 @@ def errors():
                     errs.append(f"{r['id']}: save title must be full-width, <= {insert.SJIS_ONLY[r['id']]} bytes")
             elif '[20]' in r['jp']:
                 slots = re.match(r'(?:\[20\])*', r['jp']).group()
-                if not r['en'].startswith(slots) or len(text.encode_text(r['en'])) > r['max'] - 1:
+                fits = len(text.encode_text(r['en'])) <= r['max'] - 1 or r['id'].startswith(layout.RELOC)  # RELOC: moved
+                if not r['en'].startswith(slots) or not fits:
                     errs.append(f"{r['id']}: money template keeps its {len(slots) // 4} digit slots, fits max")
     return errs
 

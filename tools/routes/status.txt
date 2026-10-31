@@ -1,0 +1,15 @@
+# Cold boot -> New Game -> Status (main menu bottom right): the trial money templates (OVLXTTL@800CD194/1A4).
+# Without a memory-card save it stops at "slot 1 has no save file" (phase 8: run with a card holding a save).
+2400 -
+6 start
+200 -
+6 start
+400 -
+6 circle
+500 -
+6 down
+40 -
+6 right
+40 -
+6 circle
+400 -

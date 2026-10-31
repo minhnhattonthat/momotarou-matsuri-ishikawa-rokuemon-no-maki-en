@@ -90,7 +90,12 @@ L.on_frame(function(n)
     -- a two-hop warp, never loaded the second map.)
     if m == 1 and not st.hijack and r32(VM) ~= 0 and r16(VM + 0x44) ~= 2 and r16(r32(VM + 4)) == 2 then
       local p = r32(VM + 4)
-      local words = { 0x1D, num(s[3]), num(s[4]), num(s[5]), num(s[6]), 0xFFFE, 0x1E, 0x63 }
+      -- OPS = {u16, ...}: script ops to run first (e.g. an op 26 caption: tools/debug/caption_ops.py)
+      local words = {}
+      for _, v in ipairs(OPS or {}) do words[#words + 1] = v end
+      for _, v in ipairs({ 0x1D, num(s[3]), num(s[4]), num(s[5]), num(s[6]), 0xFFFE, 0x1E, 0x63 }) do
+        words[#words + 1] = v
+      end
       st.orig = {}
       for i, v in ipairs(words) do st.orig[i] = r16(p + (i - 1) * 2); w16(p + (i - 1) * 2, v) end
       st.hijack, st.at, st.words = n, p, words

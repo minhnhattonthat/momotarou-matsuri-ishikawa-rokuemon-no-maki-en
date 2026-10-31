@@ -40,7 +40,7 @@ def imm(name, vals):
     for i in range(0, len(d) - 3, 4):
         w = int.from_bytes(d[i:i + 4], 'little')
         op = w >> 26
-        if op in (8, 9, 10, 11, 12, 13, 14, 4, 5) and (w & 0xFFFF) in vals:
+        if op in (8, 9, 10, 11, 12, 13, 14, 4, 5, 0x20, 0x21, 0x23, 0x24, 0x25, 0x28, 0x29, 0x2B) and (w & 0xFFFF) in vals:
             for ins in m.disasm(d[i:i + 4], base + i):
                 print(f'{ins.address:08X}  {ins.mnemonic:8} {ins.op_str}')
 

@@ -22,7 +22,12 @@
 - EXE 0x80010000-0x8008C800. Every `OVL*.BIN` overlay loads at **0x800CB338** (OVLXTTL on the title,
   OVLM00 in the first minigame; tools/re.py uses this base). OVLGMAIN would end at 0x800F82B4.
 - Data files load whole into heap buffers, e.g. PREM0D.BIN at 0x8010D150, NAME0D 0x80117EE0, YUGI0D 0x80118230,
-  M000D 0x8011ACE0 (minigame 0), GDEF0D 0x801D1020, SYS1D 0x801D6830. Buffer limits not measured yet (phase 5).
+  M000D 0x8011ACE0 (minigame 0), GDEF0D 0x801D1020, SYS1D 0x801D6830.
+- **Heap** (phase 7): malloc 0x80023EDC (heap A, free list at gp+0x2F8; gp = 0x8008C0B8) / 0x8002400C (heap B,
+  gp+0x2FC), init 0x8002413C(start, size). Bounds per game mode via 0x8001ED4C / 0x8001ED7C: story/field heap A
+  0x80100000 + 0xD0000 (to 0x801D0000), heap B 0x801D0000 + 0x20000. malloc returns 0 when full and the file
+  loader 0x8001F3B0 does not check it (the file would load to address 0). `tools/lua/heapwatch.lua` logs use/peak:
+  map 284 (215 KB GCV0250D) peaks at 400,816 bytes in both builds, 451 KB free.
 
 ## Archives (verified: `tools/arc.py` parses all 1,543 `*D.BIN` files; the 64 others are OVL code + the pad)
 - Header: u32 LE offsets; the first equals the header size, zero words pad it. Entry i runs from offs[i] to the

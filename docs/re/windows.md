@@ -36,8 +36,10 @@ Run: `emu.py build/wg2.cue --script tools/debug/warp.lua --script tools/lua/text
 
 ## From code / guess
 - **op 26 captions** (27 place names): build_line, frame (0x5F, 0x34, w 0x82 = x 95..225), budget 116 px; text
-  centred as `x = 160 - units * 6` (0x80034DC0): assumes 12 px per unit, so VWF English sits left of centre.
-  Phase 7: a `line_width(obj)` helper and repointing the centring sites (also check other `count * 6` sites).
+  centred as `x = 160 - units * 6` (0x80034DC0): assumes 12 px per unit, so VWF English sat left of centre.
+  **Fixed + verified** (phase 7): the hook at 0x80034DB8 (engine.py) centres by pixel width; in game "Tabidachi
+  Village" (71 px) draws at x=125, "Capital of the Moon" (85 px) at 118 = 160 - w/2. Reached with warp.lua `OPS`
+  (`tools/debug/caption_ops.py ID`), since captions only fire on village entry from the world map.
 - **other code strings** (1,118: OVLGMAIN board UI, items, cards; OVLM minigame HUD; OVLXTTL trial screens):
   fixed layouts per screen (e.g. trial info panel: label x=48, values at 85/160/216). Budget = Japanese design
   width. The in-place byte cap (`max`) binds first: n JP chars = 2n bytes = 2n English chars (digraphs), about

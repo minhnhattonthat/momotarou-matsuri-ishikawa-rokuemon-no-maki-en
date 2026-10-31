@@ -1,5 +1,24 @@
 # Rows whose English differs from their same-JP twin (batches.py merge applies these last): id<TAB>en<TAB>reason
 M510D/257/0000.0	Thailand	タイ is "Sea bream" in quiz 97; here the country (correct answer)
+GSV0100D/1/025A	Tabidachi Village	map caption: glossary name; the code-string twins are capped at 11 bytes
+GSV0200D/10/0452	Kachi-Kachi Village	map caption: glossary name; code-string twins capped
+GSV0300D/1/0138	Omusubi Village	map caption: glossary name; code-string twins capped
+GSV0400D/1/028C	Ongaeshi Village	map caption: glossary name; code-string twins capped
+GSV0600D/1/03C4	Hanasaka Village	map caption: glossary name; code-string twins capped
+GSV0800D/1/037E	Kintaro Village	map caption: glossary name; code-string twins capped
+GSV0900D/1/0536	Urashima Village	map caption: glossary name; code-string twins capped
+GSV1200D/1/0700	Netaro Village	map caption: glossary name; code-string twins capped
+GSV1300D/1/0288	Hohoemi Village	map caption: glossary name; code-string twins capped
+GSV1600D/21/0394	Capital of Hope	map caption: glossary name; code-string twins capped
+GSV2000D/1/01E2	Shiofuki Village	map caption: X村 rule; code-string twins capped
+GSV2100D/1/02DA	Usakame Village	map caption: glossary name; code-string twins capped
+GSV2200D/1/069E	Hikoboshi Village	map caption: glossary name; code-string twins capped
+GSV2300D/1/035A	Taketori Village	map caption: glossary name; code-string twins capped
+GSV3200D/1/0104	Warashibe Village	map caption: glossary name; code-string twins capped
+GSV3400D/14/01F4	Kotaro Village	map caption: glossary name; code-string twins capped
+GSV3600D/1/02FC	Hyottoko Village	map caption: glossary name; code-string twins capped
+GSV3800D/1/00C4	Sparrow Capital	map caption: glossary name; code-string twins capped
+GSV4000D/2/0078	Onigashima	map caption: glossary name; the SLPM key item twin is capped at 7 bytes
 M510D/92/0000.1	Shijimi	quiz decoy; the SLPM item string is capped at 7 bytes
 M510D/97/0000.1	Mackerel	quiz decoy; shared with an SLPM item string
 M510D/113/0000.3	Money	quiz decoy; shared with an OVLGMAIN code string
