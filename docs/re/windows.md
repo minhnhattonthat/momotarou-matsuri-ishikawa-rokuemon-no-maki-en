@@ -20,15 +20,29 @@ Vertical: line pitch 14 px (y = 170, 184, 198) in the message box, 16 px in the 
 Record limit (all variants): <= 32 units per line incl. codes (`windows.LINE_UNITS`); 228 px of English is
 ~50 chars = ~26 units, so the px budget binds first.
 
-## Guess (Japanese design width, 12 px per JP char of the longest line; measure before shortening)
-- **op 41 choices** (1,601 items, quiz/choice answers, shuffled by the handler 0x800306BC): drawn at x=232 in the
-  M510 quiz; the answers registered but were not on screen in the frames shot (wg2_m51), so not measured yet.
-- **op 26 captions** (27 place names): build_line, frame (0x5F, 0x34, w 0x82 = x 95..225), text centred as
-  `x = 160 - units * 6` (0x80034DC0): assumes 12 px per unit, so VWF English sits left of centre. Phase 7: a
-  `line_width(obj)` helper and repointing the centring sites (also check other `count * 6` sites).
+## Choice boxes (op 41 items): fixed layouts
+Op 41 registers the items (pointer array 0x80082EBC); the next **op 04** (handler 0x8002C6A8) draws them with
+layout byte `e[o+2]`, a switch (table 0x80019244, 17 cases) of fixed frames and text x. No layout depends on
+text length. Budget = frame x + w - 8 - text x (matches both shots: 72 here, 26 for the EXE choice box).
+| Layout | Frame x,y,w,h | Text x, first y, items | Budget | Used by |
+|---|---|---|---|---|
+| 5 | 208,126,104,56 | 232, 134, 3 | 72 px | 30 op-41 menus (3 answers, M530D quiz...) |
+| 6 | 208,94,104,72 | 232, 102, 4 | **72 px** (shot: m51 quiz f5050, `work/qa/wg5_m51`; 15 ruler digits = 75 px reach the inner edge) | 377 op-41 menus (4 answers, M510D quiz...) |
+| 8 | 32,16,256,64 | 80, 24, 3 | 200 px | 1 menu (M230D/25) |
+| 0,10-16 | x 238, w 56-80 | 259/260 | 26-50 px | EXE choice strings (`CHOICE` in windows.py) |
+| 1-4, 7, 9 | various | | | not used by op 41 on this disc |
+Run: `emu.py build/wg2.cue --script tools/debug/warp.lua --script tools/lua/textlog.lua --var "SCENE='game_m51_2f'"
+--var HOLD=6000 --var CLICK=200` (CLICK=45 picks an answer before the box opens).
+
+## From code / guess
+- **op 26 captions** (27 place names): build_line, frame (0x5F, 0x34, w 0x82 = x 95..225), budget 116 px; text
+  centred as `x = 160 - units * 6` (0x80034DC0): assumes 12 px per unit, so VWF English sits left of centre.
+  Phase 7: a `line_width(obj)` helper and repointing the centring sites (also check other `count * 6` sites).
 - **other code strings** (1,118: OVLGMAIN board UI, items, cards; OVLM minigame HUD; OVLXTTL trial screens):
-  many sit in fixed layouts (e.g. trial info panel: label x=48, values at 85/160/216). Measure per screen in
-  phase 8 when a LONG line hits a guessed budget; in-place space (`max` bytes) is a hard cap until relocation.
+  fixed layouts per screen (e.g. trial info panel: label x=48, values at 85/160/216). Budget = Japanese design
+  width. The in-place byte cap (`max`) binds first: n JP chars = 2n bytes = 2n English chars (digraphs), about
+  10.5n px of mixed case (12n all caps) against 12-13n px of Japanese, so English that fits in place stays inside
+  the Japanese width. Only a relocated (longer) string needs its screen measured (phase 8).
 - Money templates (`[20]x7 + 両`, `－x6 + 両`): put_number (0x8002A004) writes digit glyphs into the first records,
   so keep the leading `[20]` slots exactly; the suffix (`両` -> `ryo`) may grow. **Measured** (marker build,
   event00 f4260, field money box at text x=216): digits (10 px) + `ryo` (15 px) overrun the frame by ~3 px; the

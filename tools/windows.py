@@ -2,8 +2,9 @@
 
     python -X utf8 tools/windows.py [ID ...]      variant, budget, tag per id (no ids: counts per variant)
 
-budget(row, variant) -> (px per line, visible lines or None, tag): tag 'measured' (shot in docs/re/windows.md)
-or 'guess' (Japanese design width: 12 px per JP char of the item's longest line; measure before cutting text).
+budget(row, variant) -> (px per line, visible lines or None, tag): tag 'measured' (shot in docs/re/windows.md),
+'code' (frame geometry read from the layout code) or 'guess' (code strings: Japanese design width, 12 px per JP
+char of the longest line; the in-place byte cap keeps English inside it, see windows.md).
 Widths are sums of engine.widths() advances (Japanese chars and codes count 12 px).
 """
 import json
@@ -20,6 +21,10 @@ VARIANT = {      # px per line, visible lines, tag
     'msg': (228, 3, 'measured'),           # op 02, x=48; frame inner edges x=37..282 (event00, widthgate.json)
     'msg_portrait': (192, 3, 'measured'),  # op 02 with a voice/portrait, x=90; same frame
     'memcard': (180, 3, 'measured'),       # EXE {KK}/{KE} messages, x=72, frame inner right 258; <= 64 bytes/line
+    # op 41 items, laid out by the next op 04's layout byte (0x8002C6A8, table 0x80019244): budget = frame x+w-8-text x
+    'choice': (72, 1, 'measured'),         # layouts 5/6 (3/4 items): frame x=208 w=104, text x=232 (m51 quiz f5050)
+    'choice_top': (200, 1, 'code'),        # layout 8: frame x=32 w=256, text x=80 (M230D/25 only)
+    'caption': (116, 1, 'code'),           # op 26: frame x=95 w=130; centred as 160 - units*6 (phase 7: VWF centring)
 }
 # code strings measured in-game (widthgate.json shots), else JP width
 MEASURED = {
@@ -39,6 +44,7 @@ def jp_width(jp):
 
 def variants():
     """{id: variant} for every script item: msg / msg_portrait (op 02 voice != 0xFFFF), menu, caption, code."""
+    import script
     import text
     out = {}
     for p in sorted((ROOT / 'script').glob('*.json')):
@@ -46,9 +52,15 @@ def variants():
             out[r['id']] = 'memcard' if r['kind'] == 'code' and r['jp'].endswith('{KE}') else r['kind']
     for f in text.archives():
         for i, e, its in text.script_entries(open(f, 'rb').read()):
+            ops = list(script.ops(e))
             for o, op, n, strs in its:
                 if op == 0x02 and struct.unpack_from('<H', e, o + 4)[0] != 0xFFFF:
                     out[text.item_id(text.stem(f), i, o, '')] = 'msg_portrait'
+                if op == 0x41:
+                    lay = next(e[o2 + 2] for o2, op2, _ in ops if o2 > o and op2 == 0x04)
+                    assert lay in (5, 6, 8), (f, i, o, lay)  # the only layouts op 41 menus use on this disc
+                    for s, _ in strs:
+                        out[text.item_id(text.stem(f), i, o, s)] = 'choice_top' if lay == 8 else 'choice'
     return out
 
 

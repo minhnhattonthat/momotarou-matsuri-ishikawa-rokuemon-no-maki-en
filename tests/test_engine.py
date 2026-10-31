@@ -92,3 +92,14 @@ def test_exe_hooks_assemble_inside_the_free_area():
     assert struct.unpack_from("<I", new, 0x80029AC4 - engine.EXE_BASE)[0] >> 26 == 2  # j append_hook
     with pytest.raises(ValueError):
         engine.patch_exe(new)  # original words checked: no double patch
+
+
+@disc
+def test_every_item_has_a_box_budget_and_choices_use_fixed_layouts():
+    import json
+    import windows
+    v = windows.variants()
+    rows = [r for p in (ROOT / "script").glob("*.json") for r in json.loads(p.read_text(encoding="utf-8"))]
+    assert {r["id"] for r in rows} <= set(v)
+    assert sum(x in ("choice", "choice_top") for x in v.values()) == 1601
+    assert all(windows.budget(r, v[r["id"]])[0] > 0 for r in rows)
