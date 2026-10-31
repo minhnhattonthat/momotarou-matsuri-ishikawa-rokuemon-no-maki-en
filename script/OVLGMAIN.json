@@ -1,0 +1,3523 @@
+[
+ {
+  "id": "OVLGMAIN@800CB368",
+  "kind": "code",
+  "jp": "やめる",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLGMAIN@800CB370",
+  "kind": "code",
+  "jp": "売る",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLGMAIN@800CB378",
+  "kind": "code",
+  "jp": "買う",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLGMAIN@800CB380",
+  "kind": "code",
+  "jp": "借りる",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLGMAIN@800CB3C8",
+  "kind": "code",
+  "jp": "あずかり高",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLGMAIN@800CB3D4",
+  "kind": "code",
+  "jp": "道具",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLGMAIN@800CB3DC",
+  "kind": "code",
+  "jp": "お金",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLGMAIN@800CB3E4",
+  "kind": "code",
+  "jp": "やめる",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLGMAIN@800CB3EC",
+  "kind": "code",
+  "jp": "説明",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLGMAIN@800CB3F4",
+  "kind": "code",
+  "jp": "引き出す",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLGMAIN@800CB400",
+  "kind": "code",
+  "jp": "預ける",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLGMAIN@800CB4F4",
+  "kind": "code",
+  "jp": "せってい",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLGMAIN@800CB500",
+  "kind": "code",
+  "jp": "ステータス",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLGMAIN@800CB50C",
+  "kind": "code",
+  "jp": "はやあし",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLGMAIN@800CB518",
+  "kind": "code",
+  "jp": "じゅつ",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLGMAIN@800CB520",
+  "kind": "code",
+  "jp": "だいじなもの",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CB530",
+  "kind": "code",
+  "jp": "どうぐ",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLGMAIN@800CB538",
+  "kind": "code",
+  "jp": "せりふ",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLGMAIN@800CB540",
+  "kind": "code",
+  "jp": "おんがく",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLGMAIN@800CB54C",
+  "kind": "code",
+  "jp": "しんどう",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLGMAIN@800CB558",
+  "kind": "code",
+  "jp": "おそい",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLGMAIN@800CB560",
+  "kind": "code",
+  "jp": "ふつう",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLGMAIN@800CB568",
+  "kind": "code",
+  "jp": "はやい",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLGMAIN@800CB570",
+  "kind": "code",
+  "jp": "まっは",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLGMAIN@800CB578",
+  "kind": "code",
+  "jp": "モノラル",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLGMAIN@800CB584",
+  "kind": "code",
+  "jp": "ステレオ",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLGMAIN@800CB590",
+  "kind": "code",
+  "jp": "オン",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLGMAIN@800CB598",
+  "kind": "code",
+  "jp": "オフ",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLGMAIN@800CB5A0",
+  "kind": "code",
+  "jp": "わたす",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLGMAIN@800CB5A8",
+  "kind": "code",
+  "jp": "すてる",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLGMAIN@800CB5B0",
+  "kind": "code",
+  "jp": "つかう",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLGMAIN@800CB5B8",
+  "kind": "code",
+  "jp": "貸衣装屋",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLGMAIN@800CB5C4",
+  "kind": "code",
+  "jp": "薬屋",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLGMAIN@800CB5CC",
+  "kind": "code",
+  "jp": "魚屋",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLGMAIN@800CB5D4",
+  "kind": "code",
+  "jp": "花屋",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLGMAIN@800CB5DC",
+  "kind": "code",
+  "jp": "八百屋",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLGMAIN@800CB5E4",
+  "kind": "code",
+  "jp": "道具屋",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLGMAIN@800CB5EC",
+  "kind": "code",
+  "jp": "茶屋",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLGMAIN@800CB5F4",
+  "kind": "code",
+  "jp": "かんてい小屋",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CB604",
+  "kind": "code",
+  "jp": "といち屋",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLGMAIN@800CB610",
+  "kind": "code",
+  "jp": "仙人の村のせつめい",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CB624",
+  "kind": "code",
+  "jp": "すずめの都のせつめい",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CB63C",
+  "kind": "code",
+  "jp": "島です",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLGMAIN@800CB644",
+  "kind": "code",
+  "jp": "えんま大王が　暮らす",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CB65C",
+  "kind": "code",
+  "jp": "昔は　おそろしかった",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CB674",
+  "kind": "code",
+  "jp": "巨大な　塔です",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CB684",
+  "kind": "code",
+  "jp": "夜叉姫が　住む",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CB694",
+  "kind": "code",
+  "jp": "龍の島にある　村です",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CB6AC",
+  "kind": "code",
+  "jp": "小太郎が　住む",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CB6BC",
+  "kind": "code",
+  "jp": "龍の子という　うわさの",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CB6D4",
+  "kind": "code",
+  "jp": "有名な村です",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CB6E4",
+  "kind": "code",
+  "jp": "ひょっとこ山と　温泉で",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CB6FC",
+  "kind": "code",
+  "jp": "サルさんが　住む",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CB710",
+  "kind": "code",
+  "jp": "ひっそりと　暮らす",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CB724",
+  "kind": "code",
+  "jp": "美しい　かぐや姫が",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CB738",
+  "kind": "code",
+  "jp": "七夕で　有名な村です",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CB750",
+  "kind": "code",
+  "jp": "橋で　つながっている",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CB768",
+  "kind": "code",
+  "jp": "おりひめの村と",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CB778",
+  "kind": "code",
+  "jp": "レースで　有名な村です",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CB790",
+  "kind": "code",
+  "jp": "ウサギさんと　カメさんの",
+  "en": "",
+  "max": 27
+ },
+ {
+  "id": "OVLGMAIN@800CB7AC",
+  "kind": "code",
+  "jp": "塩吹きの村のせつめい",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CB7C4",
+  "kind": "code",
+  "jp": "銀次さんも　いますよ",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CB7DC",
+  "kind": "code",
+  "jp": "なっています！",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CB7EC",
+  "kind": "code",
+  "jp": "都　全体が　ゆうぎ場に",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CB804",
+  "kind": "code",
+  "jp": "村は　ここです",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CB814",
+  "kind": "code",
+  "jp": "だじゃれが　大好きな",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CB82C",
+  "kind": "code",
+  "jp": "村の人たち　みんな",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CB840",
+  "kind": "code",
+  "jp": "寝ている　雪国の",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CB854",
+  "kind": "code",
+  "jp": "寝太郎が　年中",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CB864",
+  "kind": "code",
+  "jp": "竜宮城の　カメが",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CB878",
+  "kind": "code",
+  "jp": "心　やさしい　浦島と",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CB890",
+  "kind": "code",
+  "jp": "わらしべ長者が",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CB8A0",
+  "kind": "code",
+  "jp": "ワラで　富を　きずいた",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CB8B8",
+  "kind": "code",
+  "jp": "住んでいる村です",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CB8CC",
+  "kind": "code",
+  "jp": "力持ちの　金太郎さんが",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CB8E4",
+  "kind": "code",
+  "jp": "気は　やさしく",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CB8F4",
+  "kind": "code",
+  "jp": "イヌが　住んでいる",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CB908",
+  "kind": "code",
+  "jp": "心強い　味方の",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CB918",
+  "kind": "code",
+  "jp": "住んでいる　村です",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CB92C",
+  "kind": "code",
+  "jp": "おツルさんが",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CB93C",
+  "kind": "code",
+  "jp": "権兵衛さんや",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CB94C",
+  "kind": "code",
+  "jp": "村です",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLGMAIN@800CB954",
+  "kind": "code",
+  "jp": "じんぱちが　住んでいる",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CB96C",
+  "kind": "code",
+  "jp": "お祭り好きな　村長と",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CB984",
+  "kind": "code",
+  "jp": "仲良く暮らす　村です",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CB99C",
+  "kind": "code",
+  "jp": "タヌキさんが",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CB9AC",
+  "kind": "code",
+  "jp": "ウサギさんと",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CB9BC",
+  "kind": "code",
+  "jp": "教えてくれる　村です",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CB9D4",
+  "kind": "code",
+  "jp": "いろんな　お約束を",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CB9E8",
+  "kind": "code",
+  "jp": "旅に　出る時の",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CB9F8",
+  "kind": "code",
+  "jp": "たこあげの術のせつめい",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CBA10",
+  "kind": "code",
+  "jp": "夜が長い村で　使用",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CBA24",
+  "kind": "code",
+  "jp": "逆転させます",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CBA34",
+  "kind": "code",
+  "jp": "鐘を　鳴らして　昼と夜を",
+  "en": "",
+  "max": 27
+ },
+ {
+  "id": "OVLGMAIN@800CBA50",
+  "kind": "code",
+  "jp": "洞窟では　効果なし",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CBA64",
+  "kind": "code",
+  "jp": "よせつけません",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CBA74",
+  "kind": "code",
+  "jp": "光を放ち　鬼やタヌキを",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CBA8C",
+  "kind": "code",
+  "jp": "作り出します",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CBA9C",
+  "kind": "code",
+  "jp": "混ぜ合わせて　料理を",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CBAB4",
+  "kind": "code",
+  "jp": "いろいろな　材料を",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CBAC8",
+  "kind": "code",
+  "jp": "移動することが",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CBAD8",
+  "kind": "code",
+  "jp": "通常の４倍の　速さで",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CBAF0",
+  "kind": "code",
+  "jp": "もどることが　できます",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CBB08",
+  "kind": "code",
+  "jp": "村に　すぐに",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CBB18",
+  "kind": "code",
+  "jp": "一度　おとずれた",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CBB2C",
+  "kind": "code",
+  "jp": "地上に　もどることが",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CBB44",
+  "kind": "code",
+  "jp": "どうくつから　一瞬で",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CBB5C",
+  "kind": "code",
+  "jp": "できます！",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLGMAIN@800CBB68",
+  "kind": "code",
+  "jp": "どかせることが",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CBB78",
+  "kind": "code",
+  "jp": "オナラをして　村人を",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CBB90",
+  "kind": "code",
+  "jp": "書かれている",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CBBA0",
+  "kind": "code",
+  "jp": "はかい神の　復活方法が",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CBBB8",
+  "kind": "code",
+  "jp": "読むことが　できない…",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CBBD0",
+  "kind": "code",
+  "jp": "何かが　書いてあるが",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CBBE8",
+  "kind": "code",
+  "jp": "４つ　そろうと…",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CBBFC",
+  "kind": "code",
+  "jp": "同じ種類の　鐘が",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CBC10",
+  "kind": "code",
+  "jp": "別名　はかいの鐘",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CBC24",
+  "kind": "code",
+  "jp": "栄養満点の　おかゆ",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CBC38",
+  "kind": "code",
+  "jp": "銀次が　考えた",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CBC48",
+  "kind": "code",
+  "jp": "着ると　ネコの",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CBC58",
+  "kind": "code",
+  "jp": "言葉が　わかります",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CBC6C",
+  "kind": "code",
+  "jp": "着ると　カエルの",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CBC80",
+  "kind": "code",
+  "jp": "受け取れます",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CBC90",
+  "kind": "code",
+  "jp": "宝物塔に　ある　木材が",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CBCA8",
+  "kind": "code",
+  "jp": "これで　寝太郎の村の",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CBCC0",
+  "kind": "code",
+  "jp": "大切な　ものです",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CBCD4",
+  "kind": "code",
+  "jp": "乙女の　身だしなみに",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CBCEC",
+  "kind": "code",
+  "jp": "飲む　特製の　薬",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CBD00",
+  "kind": "code",
+  "jp": "お腹が　痛い時に",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CBD14",
+  "kind": "code",
+  "jp": "美しく　なれる…かな",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CBD2C",
+  "kind": "code",
+  "jp": "これを　身につけると",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CBD44",
+  "kind": "code",
+  "jp": "これが　なくっちゃね！",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CBD5C",
+  "kind": "code",
+  "jp": "カベや穴を　ほるには",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CBD74",
+  "kind": "code",
+  "jp": "バッチリ　書いてある",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CBD8C",
+  "kind": "code",
+  "jp": "かくした　場所が",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CBDA0",
+  "kind": "code",
+  "jp": "鬼面党が　マキを",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CBDB4",
+  "kind": "code",
+  "jp": "遊べる",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLGMAIN@800CBDBC",
+  "kind": "code",
+  "jp": "ゆうぎが　無料で",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CBDD0",
+  "kind": "code",
+  "jp": "カチカチの村の",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CBDE0",
+  "kind": "code",
+  "jp": "やる気が　わいてくる",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CBDF8",
+  "kind": "code",
+  "jp": "たたけば　ジンジンと",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CBE10",
+  "kind": "code",
+  "jp": "これで　背中を",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CBE20",
+  "kind": "code",
+  "jp": "戦意を　なくします",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CBE34",
+  "kind": "code",
+  "jp": "出して　相手の",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CBE44",
+  "kind": "code",
+  "jp": "強力な　波動を",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CBE54",
+  "kind": "code",
+  "jp": "つくった　鏡",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CBE64",
+  "kind": "code",
+  "jp": "光を　放つ　かぐや姫の",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CBE7C",
+  "kind": "code",
+  "jp": "洞窟の　中でも　強力な",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CBE94",
+  "kind": "code",
+  "jp": "乗るほどの　小さな鐘",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CBEAC",
+  "kind": "code",
+  "jp": "鳴らす　手のひらに",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CBEC0",
+  "kind": "code",
+  "jp": "かわいらしい　音を",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CBED4",
+  "kind": "code",
+  "jp": "特製の　手ぬぐい",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CBEE8",
+  "kind": "code",
+  "jp": "名前が　入っている",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CBEFC",
+  "kind": "code",
+  "jp": "料亭いしいの",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CBF0C",
+  "kind": "code",
+  "jp": "ふきとばす　うちわ",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CBF20",
+  "kind": "code",
+  "jp": "どんなに　大きな物でも",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CBF38",
+  "kind": "code",
+  "jp": "ダルマてんぐが　持つ",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CBF50",
+  "kind": "code",
+  "jp": "ちからを　持っている",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CBF68",
+  "kind": "code",
+  "jp": "大災を　しずめる",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CBF7C",
+  "kind": "code",
+  "jp": "水龍が　持つ",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CBF8C",
+  "kind": "code",
+  "jp": "着ると　さるの　言葉が",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CBFA4",
+  "kind": "code",
+  "jp": "必要な笛",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLGMAIN@800CBFB0",
+  "kind": "code",
+  "jp": "水龍を　呼び出すのに",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CBFC8",
+  "kind": "code",
+  "jp": "首かざり",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLGMAIN@800CBFD4",
+  "kind": "code",
+  "jp": "シンジュで　つくられた",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CBFEC",
+  "kind": "code",
+  "jp": "月の光を　つめこんだ",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CC004",
+  "kind": "code",
+  "jp": "あずかった　遺書",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CC018",
+  "kind": "code",
+  "jp": "漁師の　幽霊から",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CC02C",
+  "kind": "code",
+  "jp": "あるような",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLGMAIN@800CC038",
+  "kind": "code",
+  "jp": "何かが　おこることも",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CC050",
+  "kind": "code",
+  "jp": "この笛を　ふくと",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CC064",
+  "kind": "code",
+  "jp": "子どもの　人形",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CC074",
+  "kind": "code",
+  "jp": "お茶を　はこぶ",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CC084",
+  "kind": "code",
+  "jp": "カタカタと　自動で",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CC098",
+  "kind": "code",
+  "jp": "羽がある　風車",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CC0A8",
+  "kind": "code",
+  "jp": "色あざやかな　６枚の",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CC0C0",
+  "kind": "code",
+  "jp": "１本の　ワラ",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CC0D0",
+  "kind": "code",
+  "jp": "ごく　ありふれた",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CC0E4",
+  "kind": "code",
+  "jp": "空を　とぶことが",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CC0F8",
+  "kind": "code",
+  "jp": "必要な　かみかざり",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CC10C",
+  "kind": "code",
+  "jp": "女性の　おしゃれに",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CC120",
+  "kind": "code",
+  "jp": "出します",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLGMAIN@800CC12C",
+  "kind": "code",
+  "jp": "大量の　けむりを",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CC140",
+  "kind": "code",
+  "jp": "投げると　玉の穴から",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CC158",
+  "kind": "code",
+  "jp": "する　米です",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CC168",
+  "kind": "code",
+  "jp": "ふしぎな　かおりが",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CC17C",
+  "kind": "code",
+  "jp": "ひかり　かがやく",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CC190",
+  "kind": "code",
+  "jp": "必要な券",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLGMAIN@800CC19C",
+  "kind": "code",
+  "jp": "定期船に　乗るために",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CC1B4",
+  "kind": "code",
+  "jp": "必要な　カギ",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CC1C4",
+  "kind": "code",
+  "jp": "とびらを　あける時に",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CC1DC",
+  "kind": "code",
+  "jp": "おむすび村の　北の",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CC1F0",
+  "kind": "code",
+  "jp": "とく　勇気の　あかし",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CC208",
+  "kind": "code",
+  "jp": "鬼ヶ島への　ふういんを",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CC220",
+  "kind": "code",
+  "jp": "乙姫さまの　鏡",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CC230",
+  "kind": "code",
+  "jp": "真実の心を　映し出す",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CC248",
+  "kind": "code",
+  "jp": "真実のすがたかたちや",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CC260",
+  "kind": "code",
+  "jp": "わかります",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLGMAIN@800CC26C",
+  "kind": "code",
+  "jp": "着ると　犬の　言葉が",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CC284",
+  "kind": "code",
+  "jp": "この　着ぐるみを",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CC298",
+  "kind": "code",
+  "jp": "ことが　できます！",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CC2AC",
+  "kind": "code",
+  "jp": "方言カードを　見る",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CC2C0",
+  "kind": "code",
+  "jp": "今まで　集めた",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CC2D0",
+  "kind": "code",
+  "jp": "便利なもの",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLGMAIN@800CC2DC",
+  "kind": "code",
+  "jp": "歩数が　わかる",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CC2EC",
+  "kind": "code",
+  "jp": "今まで　歩いた",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CC2FC",
+  "kind": "code",
+  "jp": "魚を　取れる…かも",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CC310",
+  "kind": "code",
+  "jp": "ひとつきで　１０匹の",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CC328",
+  "kind": "code",
+  "jp": "できる　…気がする",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CC33C",
+  "kind": "code",
+  "jp": "切り倒す　ことが",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CC350",
+  "kind": "code",
+  "jp": "１人で　１０本の　木を",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CC368",
+  "kind": "code",
+  "jp": "手紙",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLGMAIN@800CC370",
+  "kind": "code",
+  "jp": "お題のことを　書いている",
+  "en": "",
+  "max": 27
+ },
+ {
+  "id": "OVLGMAIN@800CC38C",
+  "kind": "code",
+  "jp": "柿太郎が　だじゃれ大会の",
+  "en": "",
+  "max": 27
+ },
+ {
+  "id": "OVLGMAIN@800CC3A8",
+  "kind": "code",
+  "jp": "お題が　書いてあります",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CC3C0",
+  "kind": "code",
+  "jp": "天下一　だじゃれ大会の",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CC3D8",
+  "kind": "code",
+  "jp": "書かれています",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CC3E8",
+  "kind": "code",
+  "jp": "つくるための　材料が",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CC400",
+  "kind": "code",
+  "jp": "はらいたの薬を",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CC410",
+  "kind": "code",
+  "jp": "目が　さめます　",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CC424",
+  "kind": "code",
+  "jp": "その　冷たい　音色で",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CC43C",
+  "kind": "code",
+  "jp": "これを　ふけば！",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CC450",
+  "kind": "code",
+  "jp": "書いてあります　",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CC464",
+  "kind": "code",
+  "jp": "身につける方法が",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CC478",
+  "kind": "code",
+  "jp": "ひえんの術を",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CC488",
+  "kind": "code",
+  "jp": "元気１００倍",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CC498",
+  "kind": "code",
+  "jp": "人でも　これを　飲めば",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CC4B0",
+  "kind": "code",
+  "jp": "どんなに　元気のない",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CC4C8",
+  "kind": "code",
+  "jp": "貧乏神の　人形",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CC4D8",
+  "kind": "code",
+  "jp": "不幸に　なりそう！",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CC4EC",
+  "kind": "code",
+  "jp": "持っているだけで",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CC500",
+  "kind": "code",
+  "jp": "かわいい人形",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CC510",
+  "kind": "code",
+  "jp": "デフォルメした",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CC520",
+  "kind": "code",
+  "jp": "桃太郎さんを",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CC530",
+  "kind": "code",
+  "jp": "あふれる　気品豊かな",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CC548",
+  "kind": "code",
+  "jp": "貴族的な　イメージ",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CC55C",
+  "kind": "code",
+  "jp": "見る者を　引きつける",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CC574",
+  "kind": "code",
+  "jp": "奥深い　色合いで",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CC588",
+  "kind": "code",
+  "jp": "ぜいたくな　茶わん",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CC59C",
+  "kind": "code",
+  "jp": "金を　ちりばめた",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CC5B0",
+  "kind": "code",
+  "jp": "茶わん",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLGMAIN@800CC5B8",
+  "kind": "code",
+  "jp": "安定感　あふれる",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CC5CC",
+  "kind": "code",
+  "jp": "どっしりした",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CC5DC",
+  "kind": "code",
+  "jp": "どっしりとした",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CC5EC",
+  "kind": "code",
+  "jp": "山の　ごとく",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CC5FC",
+  "kind": "code",
+  "jp": "きれいな皿",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLGMAIN@800CC608",
+  "kind": "code",
+  "jp": "静かな　イメージの",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CC61C",
+  "kind": "code",
+  "jp": "林の　ごとく",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CC62C",
+  "kind": "code",
+  "jp": "イメージの　皿",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CC63C",
+  "kind": "code",
+  "jp": "あらあらしい　",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CC64C",
+  "kind": "code",
+  "jp": "火の　ごとく",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CC65C",
+  "kind": "code",
+  "jp": "小さな皿",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLGMAIN@800CC668",
+  "kind": "code",
+  "jp": "さわやかな　イメージの",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CC680",
+  "kind": "code",
+  "jp": "風の　ごとく",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CC690",
+  "kind": "code",
+  "jp": "描いてあります",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CC6A0",
+  "kind": "code",
+  "jp": "しまいそうな　絵が",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CC6B4",
+  "kind": "code",
+  "jp": "思わず　ふき出して",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CC6C8",
+  "kind": "code",
+  "jp": "絵が　描いてあります",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CC6E0",
+  "kind": "code",
+  "jp": "いさましい　龍の",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CC6F4",
+  "kind": "code",
+  "jp": "音が　します",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CC704",
+  "kind": "code",
+  "jp": "たたくと　美しい",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CC718",
+  "kind": "code",
+  "jp": "奥の深い　白色の皿",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CC72C",
+  "kind": "code",
+  "jp": "単純な　形だが",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CC73C",
+  "kind": "code",
+  "jp": "大きな皿",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLGMAIN@800CC748",
+  "kind": "code",
+  "jp": "色絵の　はなやかな",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CC75C",
+  "kind": "code",
+  "jp": "大きな皿　",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLGMAIN@800CC768",
+  "kind": "code",
+  "jp": "重量感　あふれる",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CC77C",
+  "kind": "code",
+  "jp": "ひびく　角皿",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CC78C",
+  "kind": "code",
+  "jp": "たたけば　カーンと",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CC7A0",
+  "kind": "code",
+  "jp": "だ円形の　かびん",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CC7B4",
+  "kind": "code",
+  "jp": "描かれている",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CC7C4",
+  "kind": "code",
+  "jp": "水ボク画の　絵が",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CC7D8",
+  "kind": "code",
+  "jp": "海のような　青い",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CC7EC",
+  "kind": "code",
+  "jp": "かびん",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLGMAIN@800CC7F4",
+  "kind": "code",
+  "jp": "荒々しさを　感じさせる",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CC80C",
+  "kind": "code",
+  "jp": "角ばった形が",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CC81C",
+  "kind": "code",
+  "jp": "色をした　かびん",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CC830",
+  "kind": "code",
+  "jp": "赤く　燃えるような",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CC844",
+  "kind": "code",
+  "jp": "人形に　なりました！",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CC85C",
+  "kind": "code",
+  "jp": "かぐや姫が　とうとう",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CC874",
+  "kind": "code",
+  "jp": "男の子に　大人気の",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CC888",
+  "kind": "code",
+  "jp": "感じられる　ツボ",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CC89C",
+  "kind": "code",
+  "jp": "堂々たる　作風が",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CC8B0",
+  "kind": "code",
+  "jp": "感じさせます",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CC8C0",
+  "kind": "code",
+  "jp": "女性的な　イメージを",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CC8D8",
+  "kind": "code",
+  "jp": "美しい曲線が",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CC8E8",
+  "kind": "code",
+  "jp": "キズだらけの　ツボです",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CC900",
+  "kind": "code",
+  "jp": "ツボです",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLGMAIN@800CC90C",
+  "kind": "code",
+  "jp": "ちから強い　イメージの",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CC924",
+  "kind": "code",
+  "jp": "人形",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLGMAIN@800CC92C",
+  "kind": "code",
+  "jp": "ぺぺぺっと　しゃべる",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CC944",
+  "kind": "code",
+  "jp": "お腹を　おすと",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CC954",
+  "kind": "code",
+  "jp": "桃の人形",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLGMAIN@800CC960",
+  "kind": "code",
+  "jp": "顔が描いてある",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CC970",
+  "kind": "code",
+  "jp": "動きます",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLGMAIN@800CC97C",
+  "kind": "code",
+  "jp": "ふしぎな　からくりで",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CC994",
+  "kind": "code",
+  "jp": "イヌ型の　人形で",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CC9A8",
+  "kind": "code",
+  "jp": "怪獣の人形",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLGMAIN@800CC9B4",
+  "kind": "code",
+  "jp": "認知度は　日本一の",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CC9C8",
+  "kind": "code",
+  "jp": "子供から　大人まで",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CC9DC",
+  "kind": "code",
+  "jp": "けんだま型の　人形",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CC9F0",
+  "kind": "code",
+  "jp": "子供に　大人気の",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CCA04",
+  "kind": "code",
+  "jp": "りょうり７せつめい",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CCA18",
+  "kind": "code",
+  "jp": "りょうり６せつめい",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CCA2C",
+  "kind": "code",
+  "jp": "塩づけに　しました",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CCA40",
+  "kind": "code",
+  "jp": "新鮮な　シャケを",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CCA54",
+  "kind": "code",
+  "jp": "目印！",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLGMAIN@800CCA5C",
+  "kind": "code",
+  "jp": "大きな　おあげが",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CCA70",
+  "kind": "code",
+  "jp": "たくさん　入っています",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CCA88",
+  "kind": "code",
+  "jp": "新鮮な　野菜が",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CCA98",
+  "kind": "code",
+  "jp": "お祭り気分",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLGMAIN@800CCAA4",
+  "kind": "code",
+  "jp": "これを　食べると",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CCAB8",
+  "kind": "code",
+  "jp": "あっとうされます",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CCACC",
+  "kind": "code",
+  "jp": "ボリュームに",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CCADC",
+  "kind": "code",
+  "jp": "よこずな級の",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CCAEC",
+  "kind": "code",
+  "jp": "塩むすび",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLGMAIN@800CCAF8",
+  "kind": "code",
+  "jp": "どデカい　サイズの",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CCB0C",
+  "kind": "code",
+  "jp": "岩を　ふき飛ばすことが",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CCB24",
+  "kind": "code",
+  "jp": "＜せいけつ＞",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CCB34",
+  "kind": "code",
+  "jp": "タニシに　なれます",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CCB48",
+  "kind": "code",
+  "jp": "村娘に　なれます",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CCB5C",
+  "kind": "code",
+  "jp": "子どもに　なれます",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CCB70",
+  "kind": "code",
+  "jp": "ユキだるまに　なれます",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CCB88",
+  "kind": "code",
+  "jp": "ウンチに　なれます",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CCB9C",
+  "kind": "code",
+  "jp": "びろーんに　なれます",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CCBB4",
+  "kind": "code",
+  "jp": "カメに　なれます",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CCBC8",
+  "kind": "code",
+  "jp": "持ち物だったらしい",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CCBDC",
+  "kind": "code",
+  "jp": "どうやら　伝説の",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CCBF0",
+  "kind": "code",
+  "jp": "うんち花火",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLGMAIN@800CCBFC",
+  "kind": "code",
+  "jp": "におってきそうな",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CCC10",
+  "kind": "code",
+  "jp": "夜空に　咲く",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CCC20",
+  "kind": "code",
+  "jp": "牧草",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLGMAIN@800CCC28",
+  "kind": "code",
+  "jp": "牛の　大好物の",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CCC38",
+  "kind": "code",
+  "jp": "もー　大変！",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CCC48",
+  "kind": "code",
+  "jp": "食べると",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLGMAIN@800CCC54",
+  "kind": "code",
+  "jp": "キノコの　王様",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CCC64",
+  "kind": "code",
+  "jp": "日本人の好物",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CCC74",
+  "kind": "code",
+  "jp": "シイタケ",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLGMAIN@800CCC80",
+  "kind": "code",
+  "jp": "とても　おいしい",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CCC94",
+  "kind": "code",
+  "jp": "鍋に　入れると",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CCCA4",
+  "kind": "code",
+  "jp": "高く　売れそう！",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CCCB8",
+  "kind": "code",
+  "jp": "ちがった　かがやき",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CCCCC",
+  "kind": "code",
+  "jp": "ふつうの　ビー玉とは",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CCCE4",
+  "kind": "code",
+  "jp": "くだいた　食べ物",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CCCF8",
+  "kind": "code",
+  "jp": "とうもろこしを",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CCD08",
+  "kind": "code",
+  "jp": "牛の　好物の",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CCD18",
+  "kind": "code",
+  "jp": "竹づつに　ミルクが",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CCD2C",
+  "kind": "code",
+  "jp": "行こう！",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLGMAIN@800CCD38",
+  "kind": "code",
+  "jp": "歩く時に　持って",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CCD4C",
+  "kind": "code",
+  "jp": "暗い　どうくつを",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CCD60",
+  "kind": "code",
+  "jp": "できます",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLGMAIN@800CCD6C",
+  "kind": "code",
+  "jp": "水を入れることが",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CCD80",
+  "kind": "code",
+  "jp": "この中に　牛乳や",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CCD94",
+  "kind": "code",
+  "jp": "早変わり！",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLGMAIN@800CCDA0",
+  "kind": "code",
+  "jp": "子供たちの　大好物に",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CCDB8",
+  "kind": "code",
+  "jp": "目玉焼きに　たまご焼き",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CCDD0",
+  "kind": "code",
+  "jp": "炎の海も　へっちゃらだ",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CCDE8",
+  "kind": "code",
+  "jp": "これを　はけば",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CCDF8",
+  "kind": "code",
+  "jp": "なれる　ふしぎな実",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CCE0C",
+  "kind": "code",
+  "jp": "食べれば　いい気持ちに",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CCE24",
+  "kind": "code",
+  "jp": "生き返らせます",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CCE34",
+  "kind": "code",
+  "jp": "やせほそった　畑を",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CCE48",
+  "kind": "code",
+  "jp": "大人気！",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLGMAIN@800CCE54",
+  "kind": "code",
+  "jp": "からい　あんこが",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CCE68",
+  "kind": "code",
+  "jp": "舌が　ぬけるほど",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CCE7C",
+  "kind": "code",
+  "jp": "１日　１本！",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CCE8C",
+  "kind": "code",
+  "jp": "カルシウム　いっぱい",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CCEA4",
+  "kind": "code",
+  "jp": "あま～い　リンゴアメ",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CCEBC",
+  "kind": "code",
+  "jp": "ちっちゃい　姫リンゴの",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CCED4",
+  "kind": "code",
+  "jp": "シャケ弁当",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLGMAIN@800CCEE0",
+  "kind": "code",
+  "jp": "安くて　おいしい",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CCEF4",
+  "kind": "code",
+  "jp": "かきもち　焼こう！",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CCF08",
+  "kind": "code",
+  "jp": "やきもち　焼かずに",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CCF1C",
+  "kind": "code",
+  "jp": "にわとりの　好物",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CCF30",
+  "kind": "code",
+  "jp": "しみる～！",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLGMAIN@800CCF3C",
+  "kind": "code",
+  "jp": "ころんだ時に　キズ薬",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CCF54",
+  "kind": "code",
+  "jp": "使いましょう！",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CCF64",
+  "kind": "code",
+  "jp": "赤くただれたら",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CCF74",
+  "kind": "code",
+  "jp": "熱いものに　ふれて",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CCF88",
+  "kind": "code",
+  "jp": "かぜ薬　",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLGMAIN@800CCF94",
+  "kind": "code",
+  "jp": "ゴッホンと　言ったら",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CCFAC",
+  "kind": "code",
+  "jp": "冬の　花火",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLGMAIN@800CCFB8",
+  "kind": "code",
+  "jp": "夜空に　まい散る",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CCFCC",
+  "kind": "code",
+  "jp": "しょっぱ～い！",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CCFDC",
+  "kind": "code",
+  "jp": "かかせない！",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CCFEC",
+  "kind": "code",
+  "jp": "おにぎり　づくりには",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CD004",
+  "kind": "code",
+  "jp": "例え　ひょうたんでも…",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CD01C",
+  "kind": "code",
+  "jp": "これさえ　あれば",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CD030",
+  "kind": "code",
+  "jp": "なりひびきます",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CD040",
+  "kind": "code",
+  "jp": "ごとく　夜空に",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CD050",
+  "kind": "code",
+  "jp": "金太郎の　はり手の",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CD064",
+  "kind": "code",
+  "jp": "咲く　キジ花火",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CD074",
+  "kind": "code",
+  "jp": "夜空に　ケンケンと",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CD088",
+  "kind": "code",
+  "jp": "咲く　サル花火",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CD098",
+  "kind": "code",
+  "jp": "夜空に　キャッキャッと",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CD0B0",
+  "kind": "code",
+  "jp": "咲く　イヌ花火！",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CD0C4",
+  "kind": "code",
+  "jp": "夜空に　ワンワンと",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CD0D8",
+  "kind": "code",
+  "jp": "咲く　桃太郎さん",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CD0EC",
+  "kind": "code",
+  "jp": "夜空に　ドーンと",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CD100",
+  "kind": "code",
+  "jp": "サバみそ　最高！",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CD114",
+  "kind": "code",
+  "jp": "目黒の　サンマ",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CD124",
+  "kind": "code",
+  "jp": "これが　有名な",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CD134",
+  "kind": "code",
+  "jp": "ひらき　ですね",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CD144",
+  "kind": "code",
+  "jp": "アジと　言えば",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CD154",
+  "kind": "code",
+  "jp": "さらに　おいしく！",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CD168",
+  "kind": "code",
+  "jp": "うどんに　入れれば",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CD17C",
+  "kind": "code",
+  "jp": "どっさり　とれます",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CD190",
+  "kind": "code",
+  "jp": "海に　近い　川で",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CD1A4",
+  "kind": "code",
+  "jp": "＜いつわり＞",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CD1B4",
+  "kind": "code",
+  "jp": "＜熱愛＞",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLGMAIN@800CD1C0",
+  "kind": "code",
+  "jp": "＜ほらふき＞",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CD1D0",
+  "kind": "code",
+  "jp": "＜愛を　もう一度＞",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CD1E4",
+  "kind": "code",
+  "jp": "＜小さな　しあわせ＞",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CD1FC",
+  "kind": "code",
+  "jp": "花言葉",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLGMAIN@800CD204",
+  "kind": "code",
+  "jp": "グッスリンが　しばらく",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CD21C",
+  "kind": "code",
+  "jp": "天邪鬼は　しばらく",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CD230",
+  "kind": "code",
+  "jp": "鬼たちが　しばらく",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CD244",
+  "kind": "code",
+  "jp": "貧乏神が　しばらく",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CD258",
+  "kind": "code",
+  "jp": "出てこなくなります",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CD26C",
+  "kind": "code",
+  "jp": "タヌキが　しばらくの間",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CD284",
+  "kind": "code",
+  "jp": "しばらく　出てきません",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CD29C",
+  "kind": "code",
+  "jp": "漢字ぎらいな　算数の鬼が",
+  "en": "",
+  "max": 27
+ },
+ {
+  "id": "OVLGMAIN@800CD2B8",
+  "kind": "code",
+  "jp": "出てきません",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CD2C8",
+  "kind": "code",
+  "jp": "クイズの鬼が　しばらく",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CD2E0",
+  "kind": "code",
+  "jp": "タヌキが　出てくる",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CD2F4",
+  "kind": "code",
+  "jp": "ギャンブル好きな",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CD308",
+  "kind": "code",
+  "jp": "サイコロを　ころがせば",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CD320",
+  "kind": "code",
+  "jp": "算数の鬼が　出てくる",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CD338",
+  "kind": "code",
+  "jp": "クイズの鬼が　出てくる",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CD350",
+  "kind": "code",
+  "jp": "これを　押せば",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CD360",
+  "kind": "code",
+  "jp": "貧乏神の　お出まし",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CD374",
+  "kind": "code",
+  "jp": "これを　使えば",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CD384",
+  "kind": "code",
+  "jp": "貧乏神の　大好物",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CD398",
+  "kind": "code",
+  "jp": "歯ごたえ！",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLGMAIN@800CD3A4",
+  "kind": "code",
+  "jp": "シャキッとした",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CD3B4",
+  "kind": "code",
+  "jp": "涙が　ポロリ",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CD3C4",
+  "kind": "code",
+  "jp": "かわを　むけば",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CD3D4",
+  "kind": "code",
+  "jp": "得意料理",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLGMAIN@800CD3E0",
+  "kind": "code",
+  "jp": "おばあさんの",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CD3F0",
+  "kind": "code",
+  "jp": "きんぴらごぼう",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CD400",
+  "kind": "code",
+  "jp": "鍋には　はくさい！",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CD414",
+  "kind": "code",
+  "jp": "浦島花火",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLGMAIN@800CD420",
+  "kind": "code",
+  "jp": "夜空に　波打つ",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CD430",
+  "kind": "code",
+  "jp": "食べましょう！",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CD440",
+  "kind": "code",
+  "jp": "ダイコンおろしで",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CD454",
+  "kind": "code",
+  "jp": "サンマの　塩焼きは",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CD468",
+  "kind": "code",
+  "jp": "いっぱい！",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLGMAIN@800CD474",
+  "kind": "code",
+  "jp": "食べれば　元気",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CD484",
+  "kind": "code",
+  "jp": "ホウレンソウを",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CD494",
+  "kind": "code",
+  "jp": "ウサギさんも　大好き",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CD4AC",
+  "kind": "code",
+  "jp": "パリパリ　ポリポリ",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CD4C0",
+  "kind": "code",
+  "jp": "カブの　つけもの",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CD4D4",
+  "kind": "code",
+  "jp": "なかよく　食べましょう",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CD4EC",
+  "kind": "code",
+  "jp": "秋なすびは　みんなで",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CD504",
+  "kind": "code",
+  "jp": "入っています",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CD514",
+  "kind": "code",
+  "jp": "くんだ　泉水が",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CD524",
+  "kind": "code",
+  "jp": "浦島の村の　泉で",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CD538",
+  "kind": "code",
+  "jp": "関西風　おこのみ焼き",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CD550",
+  "kind": "code",
+  "jp": "ボリューム　たっぷり",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CD568",
+  "kind": "code",
+  "jp": "いかの　すがた焼き",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CD57C",
+  "kind": "code",
+  "jp": "ジャンボ　サイズの",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CD590",
+  "kind": "code",
+  "jp": "たまりませんね",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CD5A0",
+  "kind": "code",
+  "jp": "ソースの　かおりが",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CD5B4",
+  "kind": "code",
+  "jp": "１本で　２度　おいしい",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CD5CC",
+  "kind": "code",
+  "jp": "ミックス味だから",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CD5E0",
+  "kind": "code",
+  "jp": "チョコと　バナナの",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CD5F4",
+  "kind": "code",
+  "jp": "ふとい　めん",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CD604",
+  "kind": "code",
+  "jp": "こしの　きいた",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CD614",
+  "kind": "code",
+  "jp": "女の子に　大人気！",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CD628",
+  "kind": "code",
+  "jp": "ホッカ　ホッカで",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CD63C",
+  "kind": "code",
+  "jp": "別名　たいこやき　",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CD650",
+  "kind": "code",
+  "jp": "あんこ　ぎっしり",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CD664",
+  "kind": "code",
+  "jp": "アンズあじ",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLGMAIN@800CD670",
+  "kind": "code",
+  "jp": "あまずっぱ～い",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CD680",
+  "kind": "code",
+  "jp": "おいしい　さくらもち",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CD698",
+  "kind": "code",
+  "jp": "花咲かの村の　名物",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CD6AC",
+  "kind": "code",
+  "jp": "おせんべい！",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CD6BC",
+  "kind": "code",
+  "jp": "お茶には　やっぱり",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CD6D0",
+  "kind": "code",
+  "jp": "やめられない　",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CD6E0",
+  "kind": "code",
+  "jp": "食べ始めると　もう",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CD6F4",
+  "kind": "code",
+  "jp": "パリポリ　パリポリ",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CD708",
+  "kind": "code",
+  "jp": "なつかしい　あじわい",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CD720",
+  "kind": "code",
+  "jp": "かめば　かむほど",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CD734",
+  "kind": "code",
+  "jp": "たまりません！",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CD744",
+  "kind": "code",
+  "jp": "こうばしい　かおりが",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CD75C",
+  "kind": "code",
+  "jp": "入っていますよ",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CD76C",
+  "kind": "code",
+  "jp": "大きな　タコが",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CD77C",
+  "kind": "code",
+  "jp": "とろけちゃいます",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CD790",
+  "kind": "code",
+  "jp": "おくちの　中で",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CD7A0",
+  "kind": "code",
+  "jp": "ふんわり　おいしい",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CD7B4",
+  "kind": "code",
+  "jp": "あんこが　ぎっしり",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CD7C8",
+  "kind": "code",
+  "jp": "しっぽの　さきまで",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CD7DC",
+  "kind": "code",
+  "jp": "つめた～い　ようかん",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CD7F4",
+  "kind": "code",
+  "jp": "あまさ　おさえた",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CD808",
+  "kind": "code",
+  "jp": "派手な　花火",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CD818",
+  "kind": "code",
+  "jp": "日本一",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLGMAIN@800CD820",
+  "kind": "code",
+  "jp": "これで　決まり",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CD830",
+  "kind": "code",
+  "jp": "ともと　言えば",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CD840",
+  "kind": "code",
+  "jp": "桃太郎の　旅の",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLGMAIN@800CD850",
+  "kind": "code",
+  "jp": "何個でも　食べられそう",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CD868",
+  "kind": "code",
+  "jp": "つぶあん　たっぷり",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLGMAIN@800CD880",
+  "kind": "code",
+  "jp": "ほっぺが　おちそう！",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLGMAIN@800CD898",
+  "kind": "code",
+  "jp": "こしあん　たっぷり",
+  "en": "",
+  "max": 18
+ }
+]

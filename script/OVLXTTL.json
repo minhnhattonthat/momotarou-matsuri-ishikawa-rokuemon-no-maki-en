@@ -1,0 +1,1934 @@
+[
+ {
+  "id": "OVLXTTL@800CB4E4",
+  "kind": "code",
+  "jp": "　　　　　初めて　　　　続き",
+  "en": "",
+  "max": 31
+ },
+ {
+  "id": "OVLXTTL@800CB504",
+  "kind": "code",
+  "jp": "おためし対戦！",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLXTTL@800CB514",
+  "kind": "code",
+  "jp": "いざ！物語へ",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLXTTL@800CB524",
+  "kind": "code",
+  "jp": "ゆうぎアルバム",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLXTTL@800CB534",
+  "kind": "code",
+  "jp": "ステータス",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLXTTL@800CB5C0",
+  "kind": "code",
+  "jp": "桃太郎の実家",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLXTTL@800CB5D0",
+  "kind": "code",
+  "jp": "ひょっとこの村",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLXTTL@800CB5E0",
+  "kind": "code",
+  "jp": "小太郎の村",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLXTTL@800CB5EC",
+  "kind": "code",
+  "jp": "わらしべの村",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLXTTL@800CB5FC",
+  "kind": "code",
+  "jp": "隠れ里",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLXTTL@800CB604",
+  "kind": "code",
+  "jp": "竹取りの村",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLXTTL@800CB610",
+  "kind": "code",
+  "jp": "ひこぼしの村",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLXTTL@800CB620",
+  "kind": "code",
+  "jp": "ウサカメの村",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLXTTL@800CB630",
+  "kind": "code",
+  "jp": "希望の都",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLXTTL@800CB63C",
+  "kind": "code",
+  "jp": "ほほえみの村",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLXTTL@800CB64C",
+  "kind": "code",
+  "jp": "寝太郎の村",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLXTTL@800CB658",
+  "kind": "code",
+  "jp": "浦島の村",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLXTTL@800CB664",
+  "kind": "code",
+  "jp": "金太郎の村",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLXTTL@800CB670",
+  "kind": "code",
+  "jp": "花咲かの村",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLXTTL@800CB67C",
+  "kind": "code",
+  "jp": "恩返しの村",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLXTTL@800CB688",
+  "kind": "code",
+  "jp": "おむすび村",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLXTTL@800CB694",
+  "kind": "code",
+  "jp": "カチカチの村",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLXTTL@800CB6A4",
+  "kind": "code",
+  "jp": "旅立ちの村",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLXTTL@800CB6B0",
+  "kind": "code",
+  "jp": "地獄",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLXTTL@800CB6B8",
+  "kind": "code",
+  "jp": "龍神の沼",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLXTTL@800CB6C4",
+  "kind": "code",
+  "jp": "ファイルがこわれています{KE}",
+  "en": "",
+  "max": 27
+ },
+ {
+  "id": "OVLXTTL@800CB6E0",
+  "kind": "code",
+  "jp": "このファイルでいいですか？{KE}",
+  "en": "",
+  "max": 31
+ },
+ {
+  "id": "OVLXTTL@800CB700",
+  "kind": "code",
+  "jp": "差込口１のメモリーカードには{KK}このゲームのファイルは{KK}ありません{KE}",
+  "en": "",
+  "max": 67
+ },
+ {
+  "id": "OVLXTTL@800CB744",
+  "kind": "code",
+  "jp": "セーブが終了しました{KE}",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLXTTL@800CB75C",
+  "kind": "code",
+  "jp": "ロードが終了しました{KE}",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLXTTL@800CB774",
+  "kind": "code",
+  "jp": "セーブしなくても{KK}いいですか？{KE}",
+  "en": "",
+  "max": 35
+ },
+ {
+  "id": "OVLXTTL@800CB798",
+  "kind": "code",
+  "jp": "ロードしなくても{KK}いいですか？{KE}",
+  "en": "",
+  "max": 35
+ },
+ {
+  "id": "OVLXTTL@800CB7BC",
+  "kind": "code",
+  "jp": "セーブするファイルを{KK}えらんでください{KE}",
+  "en": "",
+  "max": 43
+ },
+ {
+  "id": "OVLXTTL@800CB7E8",
+  "kind": "code",
+  "jp": "ロードするファイルを{KK}えらんでください{KE}",
+  "en": "",
+  "max": 43
+ },
+ {
+  "id": "OVLXTTL@800CB814",
+  "kind": "code",
+  "jp": "はい",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLXTTL@800CB81C",
+  "kind": "code",
+  "jp": "いいえ",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLXTTL@800CB824",
+  "kind": "code",
+  "jp": "ファイルがありません",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLXTTL@800CB83C",
+  "kind": "code",
+  "jp": "ファイルがこわれています",
+  "en": "",
+  "max": 27
+ },
+ {
+  "id": "OVLXTTL@800CB878",
+  "kind": "code",
+  "jp": "　　　　　　がんばりなさい　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CB8A0",
+  "kind": "code",
+  "jp": "　　　　　　　ごちゃまぜ　　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CB8C8",
+  "kind": "code",
+  "jp": "　　　　　　いらっしゃる　　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CB8F0",
+  "kind": "code",
+  "jp": "　　　　　　　　あたま　　　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CB918",
+  "kind": "code",
+  "jp": "　　　　　　　　新しい　　　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CB940",
+  "kind": "code",
+  "jp": "　　　　　　　一生けん命　　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CB968",
+  "kind": "code",
+  "jp": "　　　　　　　かたぐるま　　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CB990",
+  "kind": "code",
+  "jp": "　　　　めんどくさい　おっくう　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CB9B8",
+  "kind": "code",
+  "jp": "　　　　　　　　あせる　　　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CB9E0",
+  "kind": "code",
+  "jp": "　おぼれる　　おぼれた人はうんぶくれ　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CBA08",
+  "kind": "code",
+  "jp": "　　　　　起きる　目を覚ます　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CBA30",
+  "kind": "code",
+  "jp": "　　　　　　　　小心者　　　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CBA58",
+  "kind": "code",
+  "jp": "　　　　　　　　不器用　　　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CBA80",
+  "kind": "code",
+  "jp": "　　　　　　　まん丸い　　　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CBAA8",
+  "kind": "code",
+  "jp": "　　　　　　　　好き　　　　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CBAD0",
+  "kind": "code",
+  "jp": "　　　うるさい　つべこべ言うな　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CBAF8",
+  "kind": "code",
+  "jp": "　　　　まるまるして健康そう　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CBB20",
+  "kind": "code",
+  "jp": "　　　　　　　おてんば　　　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CBB48",
+  "kind": "code",
+  "jp": "さんざんな目にあう　めちゃくちゃになる",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CBB70",
+  "kind": "code",
+  "jp": "　　　　　　ぬかるんでいる　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CBB98",
+  "kind": "code",
+  "jp": "　　　　　　　暴れん坊　　　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CBBC0",
+  "kind": "code",
+  "jp": "　　　　　　　　きれい　　　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CBBE8",
+  "kind": "code",
+  "jp": "　　　　　　　　運ぶ　　　　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CBC10",
+  "kind": "code",
+  "jp": "　　　　　あふれそうな様子　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CBC38",
+  "kind": "code",
+  "jp": "　　　　　　　邪魔になる　　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CBC60",
+  "kind": "code",
+  "jp": "　　　あるではないですか＝ある　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CBC88",
+  "kind": "code",
+  "jp": "　　　　　　　　大急ぎ　　　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CBCB0",
+  "kind": "code",
+  "jp": "　　　　　　駄々をこねる　　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CBCD8",
+  "kind": "code",
+  "jp": "　　　　　　　くねくね　　　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CBD00",
+  "kind": "code",
+  "jp": "　　　　　　こらしめてやる　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CBD28",
+  "kind": "code",
+  "jp": "　　　　　ハッキリしない天気　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CBD50",
+  "kind": "code",
+  "jp": "　　これ　ここへ　返してください　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CBD78",
+  "kind": "code",
+  "jp": "　　　　　　　一文無し　　　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CBDA0",
+  "kind": "code",
+  "jp": "　　　　　　　ありがとう　　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CBDC8",
+  "kind": "code",
+  "jp": "　　　　　　もったいない　　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CBDF0",
+  "kind": "code",
+  "jp": "　　　　　　　つまづく　　　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CBE18",
+  "kind": "code",
+  "jp": "　　　　　　おめかしする　　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CBE40",
+  "kind": "code",
+  "jp": "　　　　　　一緒にやろう　　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CBE68",
+  "kind": "code",
+  "jp": "　　　　　　　値段が高い　　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CBE90",
+  "kind": "code",
+  "jp": "　　　　面倒　疲れた　だるい　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CBEB8",
+  "kind": "code",
+  "jp": "　　　　　　　こんばんは　　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CBEE0",
+  "kind": "code",
+  "jp": "　　　　　　　おしゃべり　　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CBF08",
+  "kind": "code",
+  "jp": "　　　あいづちの言葉　なるほど　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CBF30",
+  "kind": "code",
+  "jp": "　　　　何にでも首を突っ込む人　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CBF58",
+  "kind": "code",
+  "jp": "　　　素手でなぐる　物でたたく　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CBF80",
+  "kind": "code",
+  "jp": "　　　　　　　ご苦労様　　　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CBFA8",
+  "kind": "code",
+  "jp": "　　　　　いってらっしゃい　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CBFD0",
+  "kind": "code",
+  "jp": "　　　　（お金に）こだわらない　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CBFF8",
+  "kind": "code",
+  "jp": "　　　　　　　食事の時間　　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CC020",
+  "kind": "code",
+  "jp": "　　　疲れがとれる　ゆったりする　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CC048",
+  "kind": "code",
+  "jp": "　　　　　　　腹が立った　　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CC070",
+  "kind": "code",
+  "jp": "　　　　もちあげる（机をつる）　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CC098",
+  "kind": "code",
+  "jp": "　　　　　　たわけ　あほ　　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CC0C0",
+  "kind": "code",
+  "jp": "　　　　　　　ひさしぶり　　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CC0E8",
+  "kind": "code",
+  "jp": "　　　　すねる　ふてくされる　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CC110",
+  "kind": "code",
+  "jp": "　　　　　　とてもキレイ　　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CC138",
+  "kind": "code",
+  "jp": "　　　　　　体をいたわる　　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CC160",
+  "kind": "code",
+  "jp": "　　　　　　　トイレ　　　　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CC188",
+  "kind": "code",
+  "jp": "　　　　みずみずしい　新鮮な　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CC1B0",
+  "kind": "code",
+  "jp": "　　　　　きちんとしている　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CC1D8",
+  "kind": "code",
+  "jp": "　　　　　　ご苦労様です　　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CC200",
+  "kind": "code",
+  "jp": "　　　　　　　集まる　　　　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CC228",
+  "kind": "code",
+  "jp": "　　　　　　元気ですか？　　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CC250",
+  "kind": "code",
+  "jp": "　　　　　　　正座する　　　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CC278",
+  "kind": "code",
+  "jp": "　　　　　　　酒を飲む　　　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CC2A0",
+  "kind": "code",
+  "jp": "　　　　　　　にくらしい　　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CC2C8",
+  "kind": "code",
+  "jp": "　　　　　　　なまけもの　　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CC2F0",
+  "kind": "code",
+  "jp": "　　　　　　　人なつこい　　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CC318",
+  "kind": "code",
+  "jp": "　　　のんびりする　ゆったりする　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CC340",
+  "kind": "code",
+  "jp": "　　　　まぁまあ　どうもどうも　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CC368",
+  "kind": "code",
+  "jp": "　　　　　　　乗せる　　　　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CC390",
+  "kind": "code",
+  "jp": "　　　　　　　　固い　　　　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CC3B8",
+  "kind": "code",
+  "jp": "　　　　機敏な　すばしっこい　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CC3E0",
+  "kind": "code",
+  "jp": "　　　　　　　まっすぐ　　　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CC408",
+  "kind": "code",
+  "jp": "　　　　　なにを言ってるんだ　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CC430",
+  "kind": "code",
+  "jp": "　　　　　　　　不良品　　　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CC458",
+  "kind": "code",
+  "jp": "　　　　　　　　食べる　　　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CC480",
+  "kind": "code",
+  "jp": "　　　　　　仲間に入れて　　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CC4A8",
+  "kind": "code",
+  "jp": "　　　とんでもない　途方もない　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CC4D0",
+  "kind": "code",
+  "jp": "　　　　　似てる　うりふたつ　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CC4F8",
+  "kind": "code",
+  "jp": "　　　　　　　　無鉄砲　　　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CC520",
+  "kind": "code",
+  "jp": "　　　　　　　　怒る　　　　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CC548",
+  "kind": "code",
+  "jp": "　　　　　　いたずらする　　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CC570",
+  "kind": "code",
+  "jp": "　　　食べ物を　油で　いためる　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CC598",
+  "kind": "code",
+  "jp": "　　　　　五分五分　引き分け　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CC5C0",
+  "kind": "code",
+  "jp": "　　　　　　　　行く　　　　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CC5E8",
+  "kind": "code",
+  "jp": "　　　　　すねる　強情をはる　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CC610",
+  "kind": "code",
+  "jp": "　　　　　　たくさん　多い　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CC638",
+  "kind": "code",
+  "jp": "　　　　中ごし　へっぴりごし　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CC660",
+  "kind": "code",
+  "jp": "　格好つけたがる人　体裁を気にする人　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CC688",
+  "kind": "code",
+  "jp": "　　　びっくりした　おったまげた　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CC6B0",
+  "kind": "code",
+  "jp": "　　　　　　　さみしい　　　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CC6D8",
+  "kind": "code",
+  "jp": "　　　　　　おやすみなさい　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CC700",
+  "kind": "code",
+  "jp": "　　　　　　落ち着きがない　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CC728",
+  "kind": "code",
+  "jp": "　　　　　　　恥ずかしい　　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CC750",
+  "kind": "code",
+  "jp": "　　　　　　　食べない？　　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CC778",
+  "kind": "code",
+  "jp": "　　　　　　　強情っぱり　　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CC7A0",
+  "kind": "code",
+  "jp": "　　　　　　　必死になる　　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CC7C8",
+  "kind": "code",
+  "jp": "　　　　　　すごくムカツク　　　　　　",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CC7F0",
+  "kind": "code",
+  "jp": "－－－－－－－－－－－－－－－－－－－",
+  "en": "",
+  "max": 39
+ },
+ {
+  "id": "OVLXTTL@800CC8DC",
+  "kind": "code",
+  "jp": "タイトル　－－－－",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLXTTL@800CC8F0",
+  "kind": "code",
+  "jp": "タイトル　ぐるぐる寿司",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLXTTL@800CC908",
+  "kind": "code",
+  "jp": "タイトル　ＧＯ！ＧＯ！茶釜リング",
+  "en": "",
+  "max": 35
+ },
+ {
+  "id": "OVLXTTL@800CC92C",
+  "kind": "code",
+  "jp": "タイトル　忍者だホイ！",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLXTTL@800CC944",
+  "kind": "code",
+  "jp": "タイトル　大漁ずんどこ節",
+  "en": "",
+  "max": 27
+ },
+ {
+  "id": "OVLXTTL@800CC960",
+  "kind": "code",
+  "jp": "タイトル　カキ氷きーーーん！",
+  "en": "",
+  "max": 31
+ },
+ {
+  "id": "OVLXTTL@800CC980",
+  "kind": "code",
+  "jp": "タイトル　種まきドンドン！",
+  "en": "",
+  "max": 27
+ },
+ {
+  "id": "OVLXTTL@800CC99C",
+  "kind": "code",
+  "jp": "タイトル　吹き矢でシュッ！",
+  "en": "",
+  "max": 27
+ },
+ {
+  "id": "OVLXTTL@800CC9B8",
+  "kind": "code",
+  "jp": "タイトル　とんとん相撲",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLXTTL@800CC9D0",
+  "kind": "code",
+  "jp": "タイトル　風車くるりん",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLXTTL@800CC9E8",
+  "kind": "code",
+  "jp": "タイトル　ドサッと一本釣り！",
+  "en": "",
+  "max": 31
+ },
+ {
+  "id": "OVLXTTL@800CCA08",
+  "kind": "code",
+  "jp": "タイトル　余計にまわしましょう！",
+  "en": "",
+  "max": 35
+ },
+ {
+  "id": "OVLXTTL@800CCA2C",
+  "kind": "code",
+  "jp": "タイトル　花火色合わせ！",
+  "en": "",
+  "max": 27
+ },
+ {
+  "id": "OVLXTTL@800CCA48",
+  "kind": "code",
+  "jp": "タイトル　飛べ！水龍",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLXTTL@800CCA60",
+  "kind": "code",
+  "jp": "タイトル　お餅焼けたかな？",
+  "en": "",
+  "max": 27
+ },
+ {
+  "id": "OVLXTTL@800CCA7C",
+  "kind": "code",
+  "jp": "タイトル　ゆらゆらローソク！",
+  "en": "",
+  "max": 31
+ },
+ {
+  "id": "OVLXTTL@800CCA9C",
+  "kind": "code",
+  "jp": "タイトル　えんやとっとレース",
+  "en": "",
+  "max": 31
+ },
+ {
+  "id": "OVLXTTL@800CCABC",
+  "kind": "code",
+  "jp": "タイトル　カゴしょってＧＯ！",
+  "en": "",
+  "max": 31
+ },
+ {
+  "id": "OVLXTTL@800CCADC",
+  "kind": "code",
+  "jp": "タイトル　にらめっこアップップ！",
+  "en": "",
+  "max": 35
+ },
+ {
+  "id": "OVLXTTL@800CCB00",
+  "kind": "code",
+  "jp": "タイトル　鬼のつめあと",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLXTTL@800CCB18",
+  "kind": "code",
+  "jp": "タイトル　ウサカメレース",
+  "en": "",
+  "max": 27
+ },
+ {
+  "id": "OVLXTTL@800CCB34",
+  "kind": "code",
+  "jp": "タイトル　都でＧＯ！",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLXTTL@800CCB4C",
+  "kind": "code",
+  "jp": "タイトル　桃パズル",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLXTTL@800CCB60",
+  "kind": "code",
+  "jp": "タイトル　カチカチ大レース",
+  "en": "",
+  "max": 27
+ },
+ {
+  "id": "OVLXTTL@800CCB7C",
+  "kind": "code",
+  "jp": "タイトル　つるつるつるりん",
+  "en": "",
+  "max": 27
+ },
+ {
+  "id": "OVLXTTL@800CCB98",
+  "kind": "code",
+  "jp": "タイトル　宝さがしゲームその２",
+  "en": "",
+  "max": 31
+ },
+ {
+  "id": "OVLXTTL@800CCBB8",
+  "kind": "code",
+  "jp": "タイトル　宝さがしゲーム",
+  "en": "",
+  "max": 27
+ },
+ {
+  "id": "OVLXTTL@800CCBD4",
+  "kind": "code",
+  "jp": "タイトル　お堀で水泳大会！",
+  "en": "",
+  "max": 27
+ },
+ {
+  "id": "OVLXTTL@800CCBF0",
+  "kind": "code",
+  "jp": "タイトル　ハリセンちょっぷ！",
+  "en": "",
+  "max": 31
+ },
+ {
+  "id": "OVLXTTL@800CCC10",
+  "kind": "code",
+  "jp": "タイトル　うなれ！金太郎拳",
+  "en": "",
+  "max": 27
+ },
+ {
+  "id": "OVLXTTL@800CCC2C",
+  "kind": "code",
+  "jp": "タイトル　偶数タヌキ",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLXTTL@800CCC44",
+  "kind": "code",
+  "jp": "タイトル　レッツ！まくらなげ",
+  "en": "",
+  "max": 31
+ },
+ {
+  "id": "OVLXTTL@800CCC64",
+  "kind": "code",
+  "jp": "タイトル　タコタコあがれ！",
+  "en": "",
+  "max": 27
+ },
+ {
+  "id": "OVLXTTL@800CCC80",
+  "kind": "code",
+  "jp": "タイトル　ジャンケン７",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLXTTL@800CCC98",
+  "kind": "code",
+  "jp": "タイトル　えらんで団子",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLXTTL@800CCCB0",
+  "kind": "code",
+  "jp": "タイトル　はねつき地獄！",
+  "en": "",
+  "max": 27
+ },
+ {
+  "id": "OVLXTTL@800CCCCC",
+  "kind": "code",
+  "jp": "タイトル　タヌキスロット",
+  "en": "",
+  "max": 27
+ },
+ {
+  "id": "OVLXTTL@800CCCE8",
+  "kind": "code",
+  "jp": "タイトル　餅つきぺったんこ",
+  "en": "",
+  "max": 27
+ },
+ {
+  "id": "OVLXTTL@800CCD04",
+  "kind": "code",
+  "jp": "タイトル　鬼まとあて",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLXTTL@800CCD1C",
+  "kind": "code",
+  "jp": "タイトル　金魚すくい",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLXTTL@800CCD34",
+  "kind": "code",
+  "jp": "タイトル　どっちでＳＨＯＷ",
+  "en": "",
+  "max": 27
+ },
+ {
+  "id": "OVLXTTL@800CCD50",
+  "kind": "code",
+  "jp": "タイトル　ふくわらい",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLXTTL@800CCD68",
+  "kind": "code",
+  "jp": "タイトル　鬼たたき",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLXTTL@800CCD7C",
+  "kind": "code",
+  "jp": "タイトル　ダルマおとし",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLXTTL@800CCD94",
+  "kind": "code",
+  "jp": "段位　免許皆伝",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLXTTL@800CCDA4",
+  "kind": "code",
+  "jp": "段位　　　９段",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLXTTL@800CCDB4",
+  "kind": "code",
+  "jp": "段位　　　８段",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLXTTL@800CCDC4",
+  "kind": "code",
+  "jp": "段位　　　７段",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLXTTL@800CCDD4",
+  "kind": "code",
+  "jp": "段位　　　６段",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLXTTL@800CCDE4",
+  "kind": "code",
+  "jp": "段位　　　５段",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLXTTL@800CCDF4",
+  "kind": "code",
+  "jp": "段位　　　４段",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLXTTL@800CCE04",
+  "kind": "code",
+  "jp": "段位　　　３段",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLXTTL@800CCE14",
+  "kind": "code",
+  "jp": "段位　　　２段",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLXTTL@800CCE24",
+  "kind": "code",
+  "jp": "段位　　　初段",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLXTTL@800CCE34",
+  "kind": "code",
+  "jp": "段位　－－－－",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLXTTL@800CCE44",
+  "kind": "code",
+  "jp": "ぐるぐる寿司",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLXTTL@800CCE54",
+  "kind": "code",
+  "jp": "ＧＯ！ＧＯ！茶釜リング",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLXTTL@800CCE6C",
+  "kind": "code",
+  "jp": "忍者だホイ！",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLXTTL@800CCE7C",
+  "kind": "code",
+  "jp": "大漁ずんどこ節",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLXTTL@800CCE8C",
+  "kind": "code",
+  "jp": "カキ氷きーーーん！",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLXTTL@800CCEA0",
+  "kind": "code",
+  "jp": "種まきドンドン！",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLXTTL@800CCEB4",
+  "kind": "code",
+  "jp": "吹き矢でシュッ！",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLXTTL@800CCEC8",
+  "kind": "code",
+  "jp": "とんとん相撲",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLXTTL@800CCED8",
+  "kind": "code",
+  "jp": "風車くるりん",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLXTTL@800CCEE8",
+  "kind": "code",
+  "jp": "ドサッと一本釣り！",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLXTTL@800CCEFC",
+  "kind": "code",
+  "jp": "余計にまわしましょう！",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLXTTL@800CCF14",
+  "kind": "code",
+  "jp": "花火色合わせ！",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLXTTL@800CCF24",
+  "kind": "code",
+  "jp": "飛べ！水龍",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLXTTL@800CCF30",
+  "kind": "code",
+  "jp": "お餅焼けたかな？",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLXTTL@800CCF44",
+  "kind": "code",
+  "jp": "ゆらゆらローソク！",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLXTTL@800CCF58",
+  "kind": "code",
+  "jp": "えんやとっとレース",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLXTTL@800CCF6C",
+  "kind": "code",
+  "jp": "カゴしょってＧＯ！",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLXTTL@800CCF80",
+  "kind": "code",
+  "jp": "にらめっこアップップ！",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLXTTL@800CCF98",
+  "kind": "code",
+  "jp": "鬼のつめあと",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLXTTL@800CCFA8",
+  "kind": "code",
+  "jp": "ウサカメレース",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLXTTL@800CCFB8",
+  "kind": "code",
+  "jp": "都でＧＯ！",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLXTTL@800CCFC4",
+  "kind": "code",
+  "jp": "桃パズル",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLXTTL@800CCFD0",
+  "kind": "code",
+  "jp": "カチカチ大レース",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLXTTL@800CCFE4",
+  "kind": "code",
+  "jp": "つるつるつるりん",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLXTTL@800CCFF8",
+  "kind": "code",
+  "jp": "宝さがしゲームその２",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLXTTL@800CD010",
+  "kind": "code",
+  "jp": "宝さがしゲーム",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLXTTL@800CD020",
+  "kind": "code",
+  "jp": "お堀で水泳大会！",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLXTTL@800CD034",
+  "kind": "code",
+  "jp": "ハリセンちょっぷ！",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLXTTL@800CD048",
+  "kind": "code",
+  "jp": "うなれ！金太郎拳",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLXTTL@800CD05C",
+  "kind": "code",
+  "jp": "偶数タヌキ",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLXTTL@800CD068",
+  "kind": "code",
+  "jp": "レッツ！まくらなげ",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLXTTL@800CD07C",
+  "kind": "code",
+  "jp": "タコタコあがれ！",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLXTTL@800CD090",
+  "kind": "code",
+  "jp": "ジャンケン７",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLXTTL@800CD0A0",
+  "kind": "code",
+  "jp": "えらんで団子",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLXTTL@800CD0B0",
+  "kind": "code",
+  "jp": "はねつき地獄！",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLXTTL@800CD0C0",
+  "kind": "code",
+  "jp": "タヌキスロット",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLXTTL@800CD0D0",
+  "kind": "code",
+  "jp": "餅つきぺったんこ",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLXTTL@800CD0E4",
+  "kind": "code",
+  "jp": "鬼まとあて",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLXTTL@800CD0F0",
+  "kind": "code",
+  "jp": "金魚すくい",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLXTTL@800CD0FC",
+  "kind": "code",
+  "jp": "どっちでＳＨＯＷ",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLXTTL@800CD110",
+  "kind": "code",
+  "jp": "ふくわらい",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLXTTL@800CD11C",
+  "kind": "code",
+  "jp": "鬼たたき",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLXTTL@800CD128",
+  "kind": "code",
+  "jp": "ダルマおとし",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLXTTL@800CD138",
+  "kind": "code",
+  "jp": "記録",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLXTTL@800CD140",
+  "kind": "code",
+  "jp": "－－－－点",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLXTTL@800CD158",
+  "kind": "code",
+  "jp": "－－－－個",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLXTTL@800CD170",
+  "kind": "code",
+  "jp": "－－：－－：－－",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLXTTL@800CD194",
+  "kind": "code",
+  "jp": "－－－－－－両",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLXTTL@800CD1B4",
+  "kind": "code",
+  "jp": "－－－－－点",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLXTTL@800CD220",
+  "kind": "code",
+  "jp": "タイトル　吹き矢でシュッ！",
+  "en": "",
+  "max": 27
+ },
+ {
+  "id": "OVLXTTL@800CD23C",
+  "kind": "code",
+  "jp": "タイトル　ハリセンちょっぷ！",
+  "en": "",
+  "max": 31
+ },
+ {
+  "id": "OVLXTTL@800CD25C",
+  "kind": "code",
+  "jp": "タイトル　レッツ！まくらなげ",
+  "en": "",
+  "max": 31
+ },
+ {
+  "id": "OVLXTTL@800CD27C",
+  "kind": "code",
+  "jp": "タイトル　餅つきぺったんこ",
+  "en": "",
+  "max": 27
+ },
+ {
+  "id": "OVLXTTL@800CD298",
+  "kind": "code",
+  "jp": "タイトル　金魚すくい",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLXTTL@800CD2B0",
+  "kind": "code",
+  "jp": "タイトル　ダルマおとし",
+  "en": "",
+  "max": 23
+ },
+ {
+  "id": "OVLXTTL@800CD2C8",
+  "kind": "code",
+  "jp": "段位　免許皆伝",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLXTTL@800CD2D8",
+  "kind": "code",
+  "jp": "段位　　　９段",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLXTTL@800CD2E8",
+  "kind": "code",
+  "jp": "段位　　　８段",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLXTTL@800CD2F8",
+  "kind": "code",
+  "jp": "段位　　　７段",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLXTTL@800CD308",
+  "kind": "code",
+  "jp": "段位　　　６段",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLXTTL@800CD318",
+  "kind": "code",
+  "jp": "段位　　　５段",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLXTTL@800CD328",
+  "kind": "code",
+  "jp": "段位　　　４段",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLXTTL@800CD338",
+  "kind": "code",
+  "jp": "段位　　　３段",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLXTTL@800CD348",
+  "kind": "code",
+  "jp": "段位　　　２段",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLXTTL@800CD358",
+  "kind": "code",
+  "jp": "段位　　　初段",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLXTTL@800CD368",
+  "kind": "code",
+  "jp": "段位　－－－－",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLXTTL@800CD378",
+  "kind": "code",
+  "jp": "吹き矢でシュッ！",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLXTTL@800CD38C",
+  "kind": "code",
+  "jp": "ハリセンちょっぷ！",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLXTTL@800CD3A0",
+  "kind": "code",
+  "jp": "レッツ！まくらなげ",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLXTTL@800CD3B4",
+  "kind": "code",
+  "jp": "餅つきぺったんこ",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLXTTL@800CD3C8",
+  "kind": "code",
+  "jp": "金魚すくい",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLXTTL@800CD3D4",
+  "kind": "code",
+  "jp": "ダルマおとし",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLXTTL@800CD3E4",
+  "kind": "code",
+  "jp": "記録",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLXTTL@800CD3EC",
+  "kind": "code",
+  "jp": "－－－－点",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLXTTL@800CD404",
+  "kind": "code",
+  "jp": "－－－－個",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLXTTL@800CD41C",
+  "kind": "code",
+  "jp": "－－：－－：－－",
+  "en": "",
+  "max": 19
+ },
+ {
+  "id": "OVLXTTL@800CD440",
+  "kind": "code",
+  "jp": "－－－－－－両",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLXTTL@800CD460",
+  "kind": "code",
+  "jp": "－－－－－点",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLXTTL@800CD480",
+  "kind": "code",
+  "jp": "名前",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLXTTL@800CD488",
+  "kind": "code",
+  "jp": "－－－－",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLXTTL@800CD4E4",
+  "kind": "code",
+  "jp": "スタートボタンで　終了になります！",
+  "en": "",
+  "max": 35
+ },
+ {
+  "id": "OVLXTTL@800CD508",
+  "kind": "code",
+  "jp": "○ボタンで　決定します！",
+  "en": "",
+  "max": 27
+ },
+ {
+  "id": "OVLXTTL@800CD524",
+  "kind": "code",
+  "jp": "方向キーの　上下左右で　文字選択！",
+  "en": "",
+  "max": 34
+ }
+]

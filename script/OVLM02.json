@@ -1,0 +1,142 @@
+[
+ {
+  "id": "OVLM02@800CB338",
+  "kind": "code",
+  "jp": "左もみあげ",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLM02@800CB344",
+  "kind": "code",
+  "jp": "右もみあげ",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLM02@800CB350",
+  "kind": "code",
+  "jp": "髪と角",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLM02@800CB358",
+  "kind": "code",
+  "jp": "ばってん",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLM02@800CB364",
+  "kind": "code",
+  "jp": "うず",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLM02@800CB36C",
+  "kind": "code",
+  "jp": "左赤丸",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLM02@800CB374",
+  "kind": "code",
+  "jp": "右赤丸",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLM02@800CB37C",
+  "kind": "code",
+  "jp": "前髪",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLM02@800CB384",
+  "kind": "code",
+  "jp": "後ろ髪",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLM02@800CB38C",
+  "kind": "code",
+  "jp": "まゆ",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLM02@800CB394",
+  "kind": "code",
+  "jp": "さんかくきん",
+  "en": "",
+  "max": 15
+ },
+ {
+  "id": "OVLM02@800CB3A4",
+  "kind": "code",
+  "jp": "くち",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLM02@800CB3AC",
+  "kind": "code",
+  "jp": "左耳",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLM02@800CB3B4",
+  "kind": "code",
+  "jp": "右耳",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLM02@800CB3C0",
+  "kind": "code",
+  "jp": "左目",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLM02@800CB3C8",
+  "kind": "code",
+  "jp": "右目",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLM02@800CB3D0",
+  "kind": "code",
+  "jp": "左角",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLM02@800CB3D8",
+  "kind": "code",
+  "jp": "右角",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLM02@800CB3E0",
+  "kind": "code",
+  "jp": "髪の毛",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLM02@800CB3E8",
+  "kind": "code",
+  "jp": "りんかく",
+  "en": "",
+  "max": 15
+ }
+]

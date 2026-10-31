@@ -14,7 +14,8 @@ Skill: translate-retro-game (Claude Code: plugin, enabled in .claude/settings.js
 - Original disc: `rom/Momotarou Matsuri - Ishikawa Rokuemon no Maki (Japan).bin/.cue` (gitignored; one MODE2/2352 track; SHA-1 of the .bin in `rom.sha1`, checked by `tools/check_rom.py`).
 - Emulator: PCSX-Redux nightly 29999.20261030.11 x64 in `tools/pcsx/` (`fetch_emu.py pcsx`, distrib.app dev-win-x64 channel; gitignored; settings copy in `tools/emu-config/pcsx.json`). BIOS `tools/bios/scph5500.bin` (`fetch_emu.py psx-bios`, used automatically). Savestates: `work/states/`.
 - Disc tools: `tools/mkpsxiso-2.30-win64/` (dumpsxiso/mkpsxiso 2.30), `tools/armips/`; xdelta3 on PATH (scoop). All gitignored: re-download from the URLs in `references/setup.md` of the skill.
-- Text: `script/` (format set in phase 4). Tables: `tbl/`. Glossary: `glossary.md`. RE notes index: `docs/re/README.md`. Fonts and their licences: `docs/fonts.md`.
+- Text: `script/<FILE>.json` (one per disc file; fields id/kind/jp/en[/max]; format and codes in `tools/text.py`
+  docstring; `text.py dump` never overwrites). JP table: built in `tools/text.py` (cp932 + codes). Glossary: `glossary.md`. RE notes index: `docs/re/README.md`. Fonts and their licences: `docs/fonts.md`.
 
 ## Rulings
 - Edit source files (.py .lua .asm .tbl .json) only with the file-edit tool; scripts here read and analyse, never `.replace()` and write back.

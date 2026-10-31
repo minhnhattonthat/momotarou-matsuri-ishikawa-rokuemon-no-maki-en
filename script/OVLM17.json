@@ -1,0 +1,44 @@
+[
+ {
+  "id": "OVLM17@800CB338",
+  "kind": "code",
+  "jp": "浦島",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLM17@800CB340",
+  "kind": "code",
+  "jp": "金太郎",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLM17@800CB348",
+  "kind": "code",
+  "jp": "黒ガッパ",
+  "en": "",
+  "max": 11
+ },
+ {
+  "id": "OVLM17@800CB354",
+  "kind": "code",
+  "jp": "夜叉姫",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLM17@800CB35C",
+  "kind": "code",
+  "jp": "貧乏神",
+  "en": "",
+  "max": 7
+ },
+ {
+  "id": "OVLM17@800CB364",
+  "kind": "code",
+  "jp": "桃太郎",
+  "en": "",
+  "max": 7
+ }
+]

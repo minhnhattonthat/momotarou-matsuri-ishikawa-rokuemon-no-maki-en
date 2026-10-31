@@ -45,12 +45,8 @@
 | OVLXTTL.BIN | ~1,400 | title/mode menus (`初めて　　　　続き`, `おためし対戦！`, minigame titles and ranks) |
 | OVLM??.BIN (58), OVLEVT.BIN, SLPM_868.88 | ~900 + EXE 213 runs | strings in code (minigame HUD, system messages) |
 
-## Open (resolve before phase 4/5 code depends on it)
-- **Script bytecode layout (guess):** GSV/GSF/GSS/GDEF entries hold u16-word instructions with message blocks
-  inline; whether any instruction holds a byte offset into its entry (a jump that would break when text grows)
-  is not known. The interpreter was not found statically (no large jump-table switch reads these words; the
-  155-case switch at OVLEVT 0x800CBB5C is the event actor engine). Phase 2 found the interpreter loop at EXE
-  0x8003698C, state at 0x800BF7B8 (debug.md); jump ops look like label ids (`0x1E N`), not offsets (guess).
-  Next: disassemble the op handlers from 0x8003698C to list each op's length and any offset operands.
-- Code strings (overlays, EXE): pointer form (`lui/addiu` pairs vs tables; OVLGMAIN has a 3,606-word pointer
-  table at 0x800DD3F0) to be swept in phase 4.
+## Resolved in phase 4 (script.md)
+- The "message block" above is two ops: `16` (open window) then `02 mode voice` + text lines; `a` is the opcode.
+  Scripts are VM bytecode with byte-offset jumps (05-0A if-blocks, 0D-13 branches): script.md lists every op's
+  length; `tools/text.py rebuild` moves the jumps when text grows.
+- Code strings: reached by pointer words and `lui`/`addiu` pairs, both found by `tools/codestr.py`.
