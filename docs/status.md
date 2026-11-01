@@ -4,6 +4,15 @@ Updated at the end of every session. Keep it to what the next session needs; his
 
 - **Phase:** **8 in progress** (QA in the emulator), then 9 (release).
 - **Done (phase 8 so far, 2026-11-01):**
+  - Card-prop checkpoint: **20 sign/emblem placements on 18 cards** translated (Sake, 1000 ryo,
+    Dumplings, Puffer fish, K/P initials and E crown marks), with **five marginal-caption fringe fixes**.
+    `gfx_card_props.py` preserves blue curtain waves and adjacent object borders; added K/P to MIT hud7.
+    Fresh read-only D10 review accepts **9/9 scoped sheets**; `docs/re/card-props-qa.md` records hashes/limits.
+    Older marginal fringes elsewhere and the red Card Album notice remain open. **Phase 8 is incomplete.**
+  - Latest validation: **102 tests passed**, lint 0; verifier **369 changed files / 0 errors**; cold smoke
+    `work/qa/card_props8_smoke` passed; **100/100 complete cards** and **0 Japanese lines in 1 text log**
+    at `work/qa/card_props8_cold6`. Main disc: **182,458,752 bytes**, **2026-11-01 11:03:30 UTC**,
+    SHA-1 **1ff27c30c241edca355a724a9fce8e56d94f36cf**.
   - Card-art checkpoint: **56 sound-effect placements on 36 cards** translated; all 100 cards still have
     complete cold screenshot coverage. `gfx/card_art.tsv` and `gfx_card_art.py` preserve adjacent actors,
     chair/door edges, motion lines and underwater colour. Added generated-PNG consistency and prop regressions.
@@ -344,9 +353,10 @@ Updated at the end of every session. Keep it to what the next session needs; his
     story return remains untested (both original and English direct warps return to the debug system menu).
     `tools/debug/minigame_labels.py` reproduces all 48 states; `race.lua` advances the natural race screens.
   - Cards: all 100 prefecture captions and marginal dialect phrases are English; **56 sound-effect placements
-    on 36 cards** are now translated (`card-art-qa.md`). Remaining: card 035's sake label, 062's price tag,
-    068's dumpling banner, 073's pufferfish curtain, kana clothing and crown marks. The scoped sound-effect
-    verdicts do not approve those small signs/emblems. Polish old brown caption remnants on 028/045/046/081/099.
+    on 36 cards** are now translated (`card-art-qa.md`). Four signs and 15 costume/crown marks now have
+    cold proof (`card-props-qa.md`, 20 placements because the curtain uses two panels). Caption fringes
+    on 028/036/046/081/099 are fixed; broader marginal polish remains, including 022/085/086 and the older
+    045 note (the attempted mask expansion made no pixel change). These verdicts cover the new props only.
     Locate/render the fragmented red new-card tag.
     HOUGEN0D ANM 5/6 does not reference its visible atlas fragments; the runtime draw path is still unknown.
   - Finish natural outcome/versus routes. M03 Perfect, M14/M56 and M59 story banners now have scoped cold

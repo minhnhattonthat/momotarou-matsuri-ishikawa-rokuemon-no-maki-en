@@ -13,6 +13,7 @@ import gen_gfx  # noqa: E402
 import gen_card_words  # noqa: E402
 import gfx  # noqa: E402
 import gfx_card_art  # noqa: E402
+import gfx_card_props  # noqa: E402
 
 pytestmark = pytest.mark.skipif(not gfx.TREE.exists(), reason='needs work/disc')
 
@@ -37,7 +38,7 @@ def test_all_card_captions_preserve_numbers_and_art():
             for x0, y0, x1, y1 in gfx_card_art.allowed_rectangles(i + 1):
                 draw.rectangle((x0, y0, x1 - 1, y1 - 1), fill=255)
             for x0, y0, x1, y1 in [rect, *gen_card_words.ERASE_RECTS.get(i + 1, []),
-                                   (48, 128, 120, 144)]:
+                                   *gfx_card_props.rectangles(i + 1), (48, 128, 120, 144)]:
                 assert 0 <= x0 < x1 <= 208 and 0 <= y0 < y1 <= 144
                 draw.rectangle((x0, y0, x1 - 1, y1 - 1), fill=255)
             difference = ImageChops.difference(original.convert('RGB'), translated.convert('RGB'))
@@ -82,6 +83,30 @@ def test_card_gate_rejects_old_japanese_dialect_caption():
     assert not cards_qa.matches(screen, template, 56, 56)
     screen.paste(template, (56, 56))
     assert cards_qa.matches(screen, template, 56, 56)
+
+
+def test_card_prop_redraws_preserve_wave_pattern_and_borders():
+    # Curtain lettering overlaps blue waves: plain white polygon fills cut
+    # their tips. Preserve every blue pixel, even inside the erase polygons.
+    _, original = gen_gfx.original('HCARD70D.BIN:2')
+    with Image.open(gfx.EN / 'HCARD70D_2.png') as translated:
+        checked = 0
+        for x0, y0, x1, y1 in gfx_card_props.rectangles(73):
+            for y in range(y0, y1):
+                for x in range(x0, x1):
+                    colour = original.getpixel((x, y))
+                    if colour[2] > colour[0] + 8:
+                        assert translated.getpixel((x, y)) == colour
+                        checked += 1
+        assert checked > 50
+    # Neighbouring neck, tag edge, banner post, hand and badge outlines.
+    for card, rect in ((35, (33, 96, 66, 99)), (62, (107, 109, 112, 115)),
+                       (68, (80, 8, 86, 26)), (61, (94, 94, 102, 98)),
+                       (97, (161, 90, 165, 102))):
+        i = card - 1
+        _, original = gen_gfx.original(f'HCARD{i // 10}0D.BIN:{i % 10}')
+        with Image.open(gfx.EN / f'HCARD{i // 10}0D_{i % 10}.png') as translated:
+            assert original.crop(rect).tobytes() == translated.crop(rect).tobytes(), card
 
 
 def test_card_margin_edits_preserve_nearby_props():

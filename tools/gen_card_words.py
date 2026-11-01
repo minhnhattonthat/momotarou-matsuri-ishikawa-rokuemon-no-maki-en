@@ -14,13 +14,20 @@ from PIL import Image, ImageFilter
 import gen_gfx
 import gfx
 import gfx_card_art
+import gfx_card_props
 
 # Card 69's caption steps diagonally towards the illustrated skirt. A single
 # bounding rectangle would erase the skirt's brown outline as well as the ink.
 ERASE_RECTS = {
+    28: [(172, 6, 202, 64)],
+    36: [(180, 2, 203, 106)],
     39: [(181, 7, 208, 110), (188, 110, 208, 128)],
+    45: [(4, 3, 31, 123)],
+    46: [(175, 3, 203, 85)],
     69: [(188, 7, 205, 44), (170, 22, 188, 70), (149, 35, 165, 94)],
     80: [(180, 4, 208, 98)],
+    81: [(6, 12, 35, 74)],
+    99: [(181, 0, 208, 94)],
     100: [(180, 7, 205, 70), (186, 70, 205, 102)],
 }
 # These caption rectangles contain plain white paper. Clearing them completely
@@ -112,6 +119,7 @@ def render(row):
         gen_gfx.draw(image, x0, y0, x1, y1, text, opts, set(palette))
     redraw(image, row, palette)
     gfx_card_art.draw(image, row['card'], palette)
+    gfx_card_props.draw(image, row['card'], palette)
     return image
 
 
