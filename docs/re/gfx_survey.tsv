@@ -191,7 +191,7 @@ id	source	kind	japanese	note
 #796	M250D.BIN:21	logo	お面アルバム	English Mask Album; complete cold title match, masks-qa.md
 #797	M250D.BIN:22	menu	できあがり / つくりなおし / L1ボタン / R1ボタン	English Done/Redo/L1/R1, bright+dim atlas; 6/6 displayed controls cold match, masks-qa.md
 #870	M440D.BIN:0	sign	大トロ 四〇〇 / うに 三〇〇 / いくら えび 二〇〇 / たまご 一〇〇	Fatty Tuna 400 / Sea Urchin 300 / Salmon Roe 200 / Shrimp 200 / Egg 100; two-line horizontal layout avoids actors, egg wholly in atlas 1; small-props-qa.md
-#877	M500D.BIN:0	banner	スタート	Start; cold actor-substitution match; natural cue remains; minigame-labels-qa.md
+#877	M500D.BIN:0	banner	スタート / four Poverty God costume initials び	Start and P; native countdown and success/early-failure routes cover all six actor poses on both discs; 12 accepted sheets; timing-qa.md
 #888	M560D.BIN:1	banner	勝ち! 負け! 引き分け!	Three English outcome sprites cold-rendered; actor substitution fixture only; hud-outcomes-qa.md
 #890	M590D.BIN:0	banner	引き分け! 勝ち! 負け!	Three English story banners cold-rendered; Lose tail fixed without touching actor pixels; hud-outcomes-qa.md
 #896	M590D.BIN:6	banner	勝ち! 負け! 引き分け!	same banners plus cloud sprites

@@ -84,7 +84,14 @@ LABELS = {
         (3, 229, 53, 237, 'Race', {**HUD_CONDENSED, 'bg': 'fill'}),
     ],
     'M230D.BIN:3': [],  # gfx_racers draws names into unused pixels below the font.
-    'M500D.BIN:0': [(128, 128, 192, 144, 'Start', {})],
+    'M500D.BIN:0': [
+        (128, 128, 192, 144, 'Start', {}),
+        # Poverty God's single-character bib emblem, as on the cards. These
+        # four interiors share the complete kana mask; retain cloth edges.
+        *[(x, y, x + 13, y + 8, 'P',
+           {'bg': 'fill', 'pixel': True, 'tight': True, 'outline': 0, 'fill': (80, 80, 80, 255)})
+          for x, y in ((26, 60), (90, 61), (154, 60), (26, 133))],
+    ],
     'M250D.BIN:21': [(0, 32, 136, 56, 'Mask Album', {})],
     'M250D.BIN:22': [
         # Clear lettering only; preserve the beveled button edges and both states.

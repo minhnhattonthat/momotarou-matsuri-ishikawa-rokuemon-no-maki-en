@@ -46,6 +46,9 @@ Every Japanese-bearing image found by five read-only reviewers over all 80 sheet
 | hud / other | 9 | 白/赤 team icons (DEF0D:9), speech bubbles (M060D:2, M080D:6), three ending-art Festival fans now English (`event-props-qa.md`), どっち? |
 
 Open for later phases:
+- M50's Start has native countdown proof; four Poverty God costume cells now use P, matching the cards.
+  Success/early-failure controller routes cover all six actor poses on both discs, with 12 accepted sheets
+  (`timing-qa.md`). Other Poverty God drawings and the remaining natural minigame labels stay open.
 - EVT220D's split ようこそ!! banner is now Welcome!!, with three complete cold
   native event15 matches on each disc and six accepted sheets (`welcome-banner-qa.md`).
   Run this event without automatic clicks: Circle skips its intermediate illustrations.

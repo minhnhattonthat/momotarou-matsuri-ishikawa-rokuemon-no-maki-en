@@ -4,6 +4,14 @@ Updated at the end of every session. Keep it to what the next session needs; his
 
 - **Phase:** **8 in progress** (QA in the emulator), then 9 (release).
 - **Done (phase 8 so far, 2026-11-02):**
+  - M50's **Start** now has native countdown proof. Poverty God's four costume cells use the established
+    **P** emblem; all six idle/success/anger poses have complete cold pixel matches. Controller-only success
+    and early-failure routes pass **10/10 checks on both discs**, with fresh D10 **12/12** sheets accepted.
+    `timing-qa.md` records sources, native states, rejected short-input runs and the observed pad-poll gap.
+  - Latest validation: **131 tests / lint 0**, verifier **400 changed files / 0 errors**, cold
+    `work/qa/timing8_smoke` passed; `timing8_en_final` has **0 Japanese lines in 2 logs** (graphics excluded).
+    Main disc **182,446,992 bytes**, **2026-11-01 18:24:12 UTC**, SHA-1
+    **92c95b24ef934bdc5ed86e66d2a0bac3be149016**. **Phase 8 remains incomplete.**
   - Paper Fan Chop's countdown cue now reads **Duel**, matching both instruction pages, and is centred
     in its original panel. Cold solo/versus checks pass on both discs; fresh D10 review accepts **5/5**
     scoped sheets. `duel-cue-qa.md` records native player-count checks and rejected timing/alignment probes.
@@ -576,8 +584,10 @@ Updated at the end of every session. Keep it to what the next session needs; his
     partial M990D:2 item 42 and M990D:3 items 19/20 retain original pixels and need runtime classification.
     `hud_units.py` reproduces the accepted 12-label fixture, 8 natural contexts and record stress case;
     `ice.lua` now reaches the left ice-tower course with controller input. Broader versus/record states remain.
-  - Minigame labels: M05/M08/M18/M50 have complete sprite-assembly proof, but natural Jackpot, near-win,
-    Miss and Start positioning still needs routes. Race Hit/nonzero payout remain fixture-only; the normal
+  - Minigame labels: M05/M08/M18 have complete sprite-assembly proof, but natural Jackpot, near-win
+    and Miss positioning still need routes. M50 Start now has native countdown and two outcome routes;
+    its four P costume cells cover all six actor poses (`timing-qa.md`). M49 and other differently drawn
+    costume marks remain open. Race Hit/nonzero payout remain fixture-only; the normal
     story return remains untested (both original and English direct warps return to the debug system menu).
     `tools/debug/minigame_labels.py` reproduces all 48 states; `race.lua` advances the natural race screens.
   - Cards: all 100 prefecture captions and marginal dialect phrases are English; **56 sound-effect placements

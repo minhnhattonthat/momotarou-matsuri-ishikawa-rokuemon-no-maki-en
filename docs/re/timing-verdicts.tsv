@@ -1,0 +1,13 @@
+sheet	sha1	verdict	note
+actor0_sheet	4197ddf8a7d106770b0739d23edcfece9a24517b	ok	Idle pose 0: P complete; cloth border, hands, necklace and silhouette preserved.
+actor1_sheet	6cbb51f13411fae08a4a95ac8edcdd31eb9aec8e	ok	Idle pose 1: P complete; no kana fringe or border damage.
+actor2_sheet	a14fcb90dfcb8bdd74c93e442a883d2ea6d610bd	ok	Successful pose 2: P, hands and bib border intact.
+actor3_sheet	3229175da6d51889b4c6e9cfeeb3ad904682981f	ok	Successful pose 3: P and cloth outline intact.
+actor4_sheet	74849e0bc0e7a90f3555e4c432e3bd1d07b78a3e	ok	Angry pose 4: P, arms, border and anger puffs intact.
+actor5_sheet	225b6442097b978d7abee1aadc51fcb0ff6f7388	ok	Angry pose 5: P and reused cloth strip intact.
+early_cue_sheet	fc9a7da575d482b932eb53f43cfbc58668a477fd	ok	Complete centred Start and P; native actor overlap matches original behavior.
+early_result_sheet	dd61f769116b4e886898a4791d6d08c0ddb1cdd0	ok	Early-failure dialogue fits; P and angry artwork intact.
+early_start_sheet	4a97e241c7e38139a1b15d1508904fa63dae455d	ok	Native countdown reaches complete Start and P.
+success_cue_sheet	fc9a7da575d482b932eb53f43cfbc58668a477fd	ok	Start gradient and outline complete; P and cloth edges intact.
+success_result_sheet	e5a8c893135cb8473e8f66814dc92bc8d4811855	ok	Native successful timing: dialogue fits; laughing P pose intact.
+success_start_sheet	4a97e241c7e38139a1b15d1508904fa63dae455d	ok	Complete natural Start and P; actor and scene art intact.

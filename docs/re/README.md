@@ -25,6 +25,7 @@ Addresses are for the dump in `rom.sha1` unless a note says otherwise.
 | [status-ranks-qa.md](status-ranks-qa.md) | Six Status illustrations, maximum-width counters, money overlap fix and Hermit staff lettering | Cold rank fixtures and screenshot oracle; phase-wide QA remains open |
 | [album-records-qa.md](album-records-qa.md) | Game Album/Quick Match numeric clipping fix and complete populated/empty record-panel tours | 43 + 6 cold pages on both discs, 10 scoped visual sheets |
 | [menu-titles-qa.md](menu-titles-qa.md) | Complete Game Album, Quick Match and Name Entry headers, plus saved-Status context | Four cold route pairs, 8 accepted sheets; Rank Details atlas consumer remains open |
+| [timing-qa.md](timing-qa.md) | M50 native Start countdown and Poverty God P emblem | Success/early-failure routes on both discs, all six poses, 12 accepted sheets |
 | [captions-rank-details-qa.md](captions-rank-details-qa.md) | All 27 native caption layouts and saved-Status's 43 record pages, ranks 0-10, empty records and return | Scoped cold original/English proof; natural story entrances and full phase QA remain open |
 | [name-entry-qa.md](name-entry-qa.md) | Latin player-name encoding, shared font copies and cold controller tour | 80 glyph IDs, confirmation/editing and Quick Match return; native four-character limit |
 | [name-persistence-qa.md](name-persistence-qa.md) | Memory-card parser bug, overwrite prompt fix and player-name save/reload | Four cold cases across both discs, eight name bytes verified, six scoped visual sheets |
