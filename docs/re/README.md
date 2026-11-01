@@ -17,6 +17,7 @@ Addresses are for the dump in `rom.sha1` unless a note says otherwise.
 | [script.md](script.md) | script VM ops, lengths, jumps, text lines, what phase 4 extracts, code strings | verified (static + every entry parses; roundtrip/coverage tests) |
 | [debug.md](debug.md) | game mode/map/event RAM, script interpreter, warp tool, unreachable maps | old map coverage superseded by destination initializer correction |
 | [corrected-tour-qa.md](corrected-tour-qa.md) | Full corrected-initializer sweep, durable 78-sheet verdict audit and map284 load regression | Frozen build 464/465; one explicit current-build fallback; 25 visual issues remain |
+| [map284-regression.md](map284-regression.md) | Bare-warp SEQ exception and native transition setup | Six cold passes across original/frozen/current discs; negative fixture retained |
 | [engine.md](engine.md) | build_line/drawer, digraph VWF hooks, English font cells, hook space, data-id size table, memory-card text path | verified (marker build, tests/test_engine.py) |
 | [windows.md](windows.md) | box variants, measured px budgets (width gate), guessed ones | measured: message, portrait, memory card, main/choice menus |
 | [graphics.md](graphics.md) | font, TIM images, graphics-text survey | survey from the static sweep; runtime checks in phase 8 |

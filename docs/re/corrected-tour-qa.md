@@ -6,6 +6,11 @@ on the current Games-sign build supplies its arrival/final pair for visual
 review. This is a mixed-build review, not a 465/465 passing run of either disc.
 Phase 8 remains incomplete.
 
+**Later follow-up:** [map284-regression.md](map284-regression.md) identifies the
+bare-warp failure as a SEQ tempo exception and records six cold passes after
+restoring native transition setup. The historical mixed-build audit below
+retains its original counts and verdicts; it has not been silently replaced.
+
 ## Builds and reproduction
 
 | Use | Disc SHA-1 | Size | Build time UTC |
@@ -60,7 +65,7 @@ Japanese graphics. An `ok` here covers only the two shown moments. Numbered
 intermediate frames, NPC conversations, minigame outcomes and later story flags
 still need their own review; these sheets cannot establish those gates.
 
-## Map 284 regression: still unresolved
+## Map 284 regression: historical failure (follow-up above)
 
 The exact scene is `map_gv2500_284 map 284 19 11 0 0x314`. The frozen tour and
 two isolated frozen retries all report `map 284 never loaded`. The original

@@ -85,6 +85,13 @@ records the exact builds, repeated cold cases and read-only `map_watch.lua`
 trace. The layout/timing dependency remains unresolved; do not call dir 0 a
 general fix or count a map-number change as completed loading.
 
+**Later correction:** the bare warp reaches a SEQ tempo divide-by-zero at
+8006D494 (Cause24), not a CD-loader wait. Map284 now preserves GSF0000D:23's
+`59 2; 56 1D` before op1D and `57 0 0 1` before its initializer. Two cold runs
+on each of original/frozen/current discs pass. `map284-regression.md` records
+the negative fixture and remaining limits; no timing delay or game-code patch
+was introduced.
+
 `OPS={u16,...}` (warp.lua var) writes extra ops before the map change at the hijack, e.g. an op 26 caption from
 `tools/debug/caption_ops.py ID`: the game's own caption handler draws it, then the map changes.
 

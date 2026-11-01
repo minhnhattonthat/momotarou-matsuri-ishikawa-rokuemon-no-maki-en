@@ -4,6 +4,20 @@ Updated at the end of every session. Keep it to what the next session needs; his
 
 - **Phase:** **8 in progress** (QA in the emulator), then 9 (release).
 - **Done (phase 8 so far, 2026-11-01):**
+  - Additional Games boards: **GV16000D:3 / GV22000D:1**, plus identical **M220D:3**, translated.
+    Five cold field placements cover bath town and both island boards in sunny/rainy states. The island
+    board's split right edge was fixed after visual rejection; weather matching requires an exact full
+    pixel pattern under a one-to-one palette remap. Fresh D10 review: **10/10 scoped sheets ok**.
+    Reproduction/hashes/limits: `games-signs-qa.md`. M22's duplicate still lacks a visible natural placement.
+  - Map284 regression isolated to a **SEQ tempo divide-by-zero**, Cause 0x24 / EPC 8006D494, rather than
+    a loader wait. The warp now retains GSF0000D:23's native pre/post transition/music ops. **Two cold
+    passes each on original, frozen and current discs**, with the unchanged arrival check; no delay added.
+    `map284-regression.md` records the failing negative fixture, diagnostic controls and scoped verdict.
+    The upstream zero-tempo cause remains untraced; this fixes the tested warp, not the game audio library.
+  - Current validation: **105 tests / lint 0**, verifier **375 changed files / 0 errors**, cold smoke
+    `games_more8_smoke` passed; **5/5 complete signs / 0 Japanese lines in 5 logs**. Main disc:
+    **182,454,048 bytes**, **2026-11-01 12:10:14 UTC**, SHA-1
+    **a55a142561d6bb35cd67b479a08e9692f57434c3**. Phase 8 still has not met its done-when.
   - Games-board checkpoint: **five atlases / six cold placements** now say Games. Actual CLUT ink and
     clean-wood sampling were corrected after rejected captures; every pixel outside lettering is preserved.
     Fresh read-only D10 review accepts **12/12 scoped context/detail sheets** (`games-signs-qa.md`).
@@ -358,13 +372,14 @@ Updated at the end of every session. Keep it to what the next session needs; his
     literal message references (`portrait-audit.md`); reopen if runtime evidence ever displays them.
   - Finish the corrected tour's **25 non-ok sheets** using `corrected-tour-verdicts.tsv`; classify the
     snow-event placard, shrine paper charms and round banner emblem, then fix remaining signs/costume marks.
-    Resolve map284's build-dependent op001D stall and rerun affected cases on the final build. Review
+    Map284 now has six passing native-setup retries (`map284-regression.md`). Review
     intermediate text frames and add NPC interaction/later-story routes: 465 arrival/final pairs are not
     complete dialogue or story-state coverage. Older pre-initializer shots remain superseded.
   - Field signs: locate the runtime consumer of GV02000D:2's split contest board. The restored tiny
     bath-counter placard is now Private Today, verified under palette 2 in all three contexts (`small-props-qa.md`).
     Five Games atlases now have six accepted cold placements (`games-signs-qa.md`); other Games variants
-    #481/#514/#562 and wooden shop/stall signs remain Japanese. `signs_tour.py --only` reproduces the
+    #481/#514 Games boards are now accepted in five more contexts; #562 still needs classification,
+    and wooden shop/stall signs remain Japanese. `signs_tour.py --only` reproduces the
     new Games, accepted contest and bath contexts; `fieldmap.py` is a navigation preview, never QA evidence.
   - Shared HUD counters: natural Win/Loss/min/sec/later/Match/small-Bonus contexts remain unproved;
     partial M990D:2 item 42 and M990D:3 items 19/20 retain original pixels and need runtime classification.
@@ -411,9 +426,9 @@ Updated at the end of every session. Keep it to what the next session needs; his
   - Weak short forms to revisit in polish: EXE fireworks items named bare "Dog"/"Monkey"/"Momotaro", 7-byte key
     items "Island" (鬼ヶ島), "Prism" (虹の玉), "Steps" (歩数計).
 - **Open bugs / gaps:**
-  - Map284 fails to complete loading on frozen disc 1ff27c30c241edca355a724a9fce8e56d94f36cf even with
-    direction 0 and its correct initializer; the current Games-sign build and original pass. Preserve the
-    frozen build and `tour8_frozen284_probe` evidence. `corrected-tour-qa.md` records the unresolved regression.
+  - Map284's bare warp is a retained negative regression case: frozen disc 1ff27c30... raises a sequence
+    tempo divide-by-zero. Native transition setup now passes twice on all three discs. Preserve the frozen
+    build, `map284_bare.txt` and failure evidence; investigate audio lifetime if a natural route reproduces it.
   - The nine historical map hangs are resolved by correct initialization and map 294's entry setup;
     story flags remain unmapped (warped maps show default state). `tools/deadcode.py` output is not safe hook
     space without an exec watch (`tools/lua/deadwatch.lua`, `warp_all.py --debugger`).

@@ -20,7 +20,35 @@ import tim  # noqa: E402
 from announcements_qa import match  # noqa: E402
 
 
-def check(run, key, original=False, patterns=('*.png',)):
+def match_remapped(screen, template):
+    """Exact opaque pattern with a one-to-one palette mapping for weather.
+
+    Map237 changes the whole CLUT to a dark blue rain palette. This proves
+    assembly only, not colour quality; the caller must opt in and review it.
+    Every pixel must agree with the mapping, including the wood between glyphs.
+    """
+    pixels = [(x, y, template.getpixel((x, y))[:3]) for y in range(template.height)
+              for x in range(template.width)]
+    if any(c[3] != 255 for c in template.getdata()):
+        raise ValueError('weather matching requires an opaque rectangle')
+    colours = list(dict.fromkeys(c for _, _, c in pixels))
+    if len(colours) < 3:
+        raise ValueError('weather matching requires at least three colours')
+    anchors = [next((x, y, c) for x, y, c in pixels if c == colour) for colour in colours]
+    probes = pixels[::max(1, len(pixels) // 24)]
+    px = screen.load()
+    for dy in range(screen.height - template.height + 1):
+        for dx in range(screen.width - template.width + 1):
+            mapping = {c: px[dx + x, dy + y][:3] for x, y, c in anchors}
+            if len(set(mapping.values())) != len(colours):
+                continue
+            if all(px[dx + x, dy + y][:3] == mapping[c] for x, y, c in probes):
+                if all(px[dx + x, dy + y][:3] == mapping[c] for x, y, c in pixels):
+                    return dx, dy
+    return None
+
+
+def check(run, key, original=False, patterns=('*.png',), weather=False):
     texture, _ = gen_gfx.original(key)
     if not original:
         name, entry = key.split(':')
@@ -38,6 +66,10 @@ def check(run, key, original=False, patterns=('*.png',)):
                     if position is not None:
                         found = (str(path), position, pal)
                         break
+                if found is None and weather:
+                    position = match_remapped(screen.convert('RGB'), templates[0])
+                    if position is not None:
+                        found = (str(path), position, 'weather-remapped')
             if found:
                 break
         rows.append((key, label, 'ok' if found else 'missing', *(found or ('', '', ''))))

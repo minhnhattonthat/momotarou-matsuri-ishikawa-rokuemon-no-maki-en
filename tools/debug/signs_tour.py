@@ -32,6 +32,11 @@ CASES = {
     'games295': (295, 19, 27, 0, 'GV32000D.BIN:1'),
     'games306a': (306, 21, 26, 0, 'GV34000D.BIN:1'),
     'games306b': (306, 60, 42, 0, 'GV34000D.BIN:1'),
+    'games180': (180, 27, 79, 0, 'GV16000D.BIN:3'),
+    'games237a': (237, 17, 16, 0, 'GV22000D.BIN:1'),
+    'games237b': (237, 87, 40, 0, 'GV22000D.BIN:1'),
+    'games238a': (238, 17, 16, 0, 'GV22000D.BIN:1'),
+    'games238b': (238, 87, 40, 0, 'GV22000D.BIN:1'),
 }
 
 
@@ -63,7 +68,7 @@ def run(name, args, initializers):
         (out / 'harness.log').write_text(result.stdout + result.stderr, encoding='utf-8')
         if result.returncode:
             return name, [('emulator', name, 'failed', '', '', '')]
-    return name, check(out, key, args.original, ('walk_*.png', f'{name}.png', 'final.png'))
+    return name, check(out, key, args.original, ('walk_*.png', f'{name}.png', 'final.png'), weather=m == 237)
 
 
 def main():

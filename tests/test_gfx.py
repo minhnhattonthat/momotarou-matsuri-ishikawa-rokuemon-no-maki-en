@@ -114,19 +114,19 @@ def test_games_signs_preserve_every_pixel_outside_lettering():
         name, entry = key.split(':')
         after = Image.open(gfx.EN / f'{Path(name).stem}_{entry}.png').convert('RGBA')
         _, pieces, rect, *_ = signs[0]
-        u, v, *_ = pieces[0]
         x0, y0, x1, y1 = rect
         texture, _ = gen_gfx.original(key)
         redrawn = gfx.indices(gfx.redraw(texture, gfx.EN / f'{Path(name).stem}_{entry}.png'))
-        lettering = [redrawn[y * before.width + x] for y in range(v + y0, v + y1)
-                     for x in range(u + x0, u + x1)]
+        allowed = {(u + dx, v + dy) for u, v, w, h, ax, ay in pieces
+                   for dy in range(h) for dx in range(w) if x0 <= ax + dx < x1 and y0 <= ay + dy < y1}
+        lettering = [redrawn[y * before.width + x] for x, y in allowed]
         # Native roof CLUTs use index12 for cream lettering. Index1 looks
         # cream in the editing CLUT but becomes illegible blue/purple.
         assert lettering.count(12) >= 200
         assert set(lettering) <= set(range(7, 13))  # no roof pixels borrowed into the narrow board
         for y in range(before.height):
             for x in range(before.width):
-                if not (u + x0 <= x < u + x1 and v + y0 <= y < v + y1):
+                if (x, y) not in allowed:
                     assert before.getpixel((x, y)) == after.getpixel((x, y)), (key, x, y)
 
 

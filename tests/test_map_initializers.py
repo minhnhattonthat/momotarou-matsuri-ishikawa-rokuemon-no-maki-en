@@ -46,3 +46,16 @@ def test_map_294_setup_matches_its_normal_entry_script():
     before, after = gen_scenes.MAP_OPS[294]
     assert struct.pack('<4H', *before) == data[0x10:0x18]
     assert struct.pack('<4H', *after) == data[0x24:0x2C]
+
+
+def test_map_284_setup_matches_its_normal_entry_script():
+    # Bare op1D crashes in the SEQ tempo reader on the frozen card-prop disc.
+    # Preserve the normal entry's music setup and post-load operation too.
+    data = arc.entries((Path(gen_scenes.TREE) / 'GSF0000D.BIN').read_bytes())[23][1]
+    before, after = gen_scenes.MAP_OPS[284]
+    assert struct.pack('<4H', *before) == data[0x14:0x1C]
+    assert struct.pack('<4H', *after) == data[0x28:0x30]
+    fields = next(line.split() for line in (ROOT / 'tools/debug/scenes.txt').read_text().splitlines()
+                  if line.startswith('map_gv2500_284 '))
+    assert tuple(int(word, 0) for word in fields[7].split(',')) == before
+    assert tuple(int(word, 0) for word in fields[8].split(',')) == after

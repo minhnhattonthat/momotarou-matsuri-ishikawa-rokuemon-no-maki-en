@@ -50,10 +50,10 @@ id	source	kind	japanese	note
 #456	GV12002D.BIN:1	sign	ゆうぎ -> Games	English; complete cold map144 lettering + context/detail verdicts, games-signs-qa.md
 #459	GV12002D.BIN:4	other	き? (single glyph on a snow statue)	unsure if text
 #467	GV13000D.BIN:0	sign	town signs incl 八百屋?	unsure
-#468	GV13000D.BIN:1	sign	ゆうぎ -> Games	English; complete cold map163 lettering + context/detail verdicts, games-signs-qa.md; other variants #481 #514 #562 remain open
+#468	GV13000D.BIN:1	sign	ゆうぎ -> Games	English; complete cold map163 lettering + context/detail verdicts, games-signs-qa.md; #481/#514 also accepted, #562 classification remains open
 #469	GV13000D.BIN:2	banner	天下一だじゃれ大会	World's Greatest Pun Contest; complete cold palette-2 lettering match and scoped visual verdict; field-signs-qa.md
 #478	GV16000D.BIN:0	sign	ゆ 衣 茶 舗? と 宿 (long signboard)	bath/inn town; unsure
-#481	GV16000D.BIN:3	sign	ゆ?? board; 湯? / 亭? roof signs	unsure
+#481	GV16000D.BIN:3	sign	ゆうぎ -> Games; 湯? / 亭? roof signs	Games cold map180 proof and scoped verdict; M220D:3 duplicate regenerated; other roof signs remain, games-signs-qa.md
 #486	GV16090D.BIN:1	sign	男湯 / 女湯; 予約 / 本日 / 貸切	Men's Bath / Women's Bath and Private Today in all three copies; runtime palette 2 corrected for placard; field-signs-qa.md and small-props-qa.md
 #499	GV20000D.BIN:0	sign	宿 道 茶 ? 八百屋?	unsure
 #502	GV20000D.BIN:3	sign	row of 8 round kanji plaques	sign strip
@@ -62,7 +62,7 @@ id	source	kind	japanese	note
 #507	GV21000D.BIN:0	sign	宿 道 ? 茶 ? + ゆ?? board	unsure
 #510	GV21000D.BIN:3	sign	8 round kanji plaques + 八百屋 plaque	sign strip
 #513	GV22000D.BIN:0	sign	row of kanji shop signs	unsure
-#514	GV22000D.BIN:1	sign	ゆ?? board	unsure
+#514	GV22000D.BIN:1	sign	ゆうぎ -> Games	English including split right edge; both placements cold on rainy237/sunny238 with scoped verdicts, games-signs-qa.md
 #538	GV30000D.BIN:0	sign	八百屋? small board	unsure
 #547	GV32000D.BIN:1	sign	ゆうぎ -> Games	English; complete cold map295 lettering + context/detail verdicts, games-signs-qa.md
 #549	GV32000D.BIN:3	sign	8 round kanji plaques + 八百屋 + 2 small	sign strip

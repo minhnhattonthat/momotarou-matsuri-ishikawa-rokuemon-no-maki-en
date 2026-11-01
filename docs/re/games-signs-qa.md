@@ -5,6 +5,60 @@ on each disc contain the complete lettering, and a fresh read-only D10 pass
 accepts all twelve scoped context/detail sheets. Other Games variants, shop
 signs and the phase-wide graphics/interaction work remain open.
 
+## Additional bath-town and island signs
+
+Later checkpoint: **GV16000D:3 and GV22000D:1** now say Games as well. The
+byte-identical M220D:3 copy is regenerated automatically. Five more cold
+original/English map pairs pass the complete-lettering oracle, and a fresh
+read-only D10 pass accepts all ten context/detail sheets. This brings the
+accepted field routes in this document to eleven, across seven source atlases.
+
+| Atlas | Pieces `(u,v,w,h,x,y)` | Lettering in assembled space | Map/player position | Palette |
+| --- | --- | --- | --- | --- |
+| GV16000D:3 | `(0,40,96,48,0,0)` | `(23,16)-(73,31)` | 180:27,79 | 3 |
+| GV22000D:1 | `(128,48,64,32,0,0)` + `(176,96,32,32,64,0)` | `(23,16)-(69,31)` | 237/238:17,16 and 87,40 | rain remap / sunny CLUT 14 |
+
+The island board's right edge is stored on a separate atlas row. The first
+attempt omitted that fragment; visual review rejected the residual kana and
+the generator now clears/draws in the complete assembled board. Preservation
+tests now map every declared piece, including that tail. All pixels outside
+the lettering remain unchanged. The original uncorrected captures under
+`games_more8_en` and their review are rejected, not release evidence.
+
+Rain changes the whole sign palette. Map237 explicitly opts into an exact
+one-to-one colour-remapping check: every opaque pixel, including the wood
+between letters, must match its template's pattern. A flat panel, missing edge
+or altered glyph fails. The coverage row says `weather-remapped`, not a guessed
+CLUT number. This checks geometry only; the fresh visual pass separately
+confirms that the English darkness matches the original rain palette.
+
+```
+python -X utf8 tools/gen_gfx.py --only GV16000D.BIN:3 GV22000D.BIN:1
+python -X utf8 tools/build.py
+python -X utf8 tools/debug/signs_tour.py --out work/qa/games_more8_fixed --jobs 2 --only games180 games237a games237b games238a games238b
+python -X utf8 tools/debug/signs_tour.py --original --out work/qa/games_more8_jp --jobs 2 --only games180 games237a games237b games238a games238b
+python -X utf8 tools/debug/field_signs_review.py work/qa/games_more8_fixed work/qa/games_more8_jp --out work/qa/games_more8_fixed_review
+```
+
+The scoped manifest gate is **10/10 ok**, textlog **0 Japanese lines in 5 logs**,
+full check **105 tests / lint 0**, verifier **375 changed files / 0 errors**, cold
+smoke `games_more8_smoke` passed. Disc: **182454048 bytes**, **2026-11-01
+12:10:14 UTC**, SHA-1 `a55a142561d6bb35cd67b479a08e9692f57434c3`.
+
+| Case | Context SHA-1 | Detail SHA-1 | D10 verdict |
+| --- | --- | --- | --- |
+| games180 | 028f3da574229d25bba7fbd0fae528ec7ce6037d | 29589b3484a64ff7d3c68a802b369217749c7282 | ok |
+| games237a | e3b5d989a4cc08c83a877d01d281d6dfcdfa1e50 | af30bca7b762e3a92311298ce223b2235fd60896 | ok |
+| games237b | d4ab335f5899e9f8e54f761141d3543fa7432203 | af30bca7b762e3a92311298ce223b2235fd60896 | ok |
+| games238a | 4323764bcc571eeb7009a27169558a3ea733925f | d232287ccec2a3d3933c6fbd88189c9b7472c09e | ok |
+| games238b | 8fe8ae97542960cf4fda8e39d4e540f0bc077632 | d232287ccec2a3d3933c6fbd88189c9b7472c09e | ok |
+
+M22's natural cold route reaches gameplay but does not show this board in the
+captured view; the duplicate has static preservation proof only. GV36000D:1
+still needs classification: the inspected brown strip has knobs/wood grain
+and no legible Games word, so it was not changed on a guessed transcription.
+Other roof signs in GV16000D:3 remain Japanese. Phase 8 remains incomplete.
+
 ## Placement and palette
 
 `tools/gfx_signs.py` reletters only a 46x15 rectangle inside each original

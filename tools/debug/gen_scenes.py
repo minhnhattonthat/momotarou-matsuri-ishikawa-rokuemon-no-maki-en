@@ -27,11 +27,15 @@ OVERRIDE = {
     100: (39, 14, 0), 116: (26, 18, 2), 126: (11, 17, 2), 128: (26, 18, 2), 139: (21, 29, 0), 141: (32, 18, 0),
     142: (21, 52, 2), 155: (26, 18, 2), 163: (30, 22, 0), 180: (18, 16, 0), 200: (27, 35, 3), 202: (31, 33, 0),
     205: (18, 40, 2), 223: (16, 41, 0), 263: (19, 10, 0), 304: (29, 23, 2), 321: (31, 14, 0), 345: (17, 20, 2),
-    284: (19, 11, 0),  # GSF0000D's own entry; dir 2 (GSD0000D) never loads in the en build (status.md, phase 7)
+    284: (19, 11, 0),  # GSF0000D's own entry, with its transition setup below.
 }
-# Keep the normal GSF0000D:25 entry's setup around the map load. Without it,
-# map 294 never completes loading even with the correct 0x32F initializer.
-MAP_OPS = {294: ((0x59, 2, 0x56, 0x14), (0x57, 0, 0, 1))}
+# Preserve native transition/music setup as well as each initializer. A bare
+# map284 warp can hit a SEQ tempo divide-by-zero on some disc layouts; map294
+# also fails without its setup. Sources: GSF0000D entries 23 and 25.
+MAP_OPS = {
+    284: ((0x59, 2, 0x56, 0x1D), (0x57, 0, 0, 1)),
+    294: ((0x59, 2, 0x56, 0x14), (0x57, 0, 0, 1)),
+}
 
 
 def arrivals():

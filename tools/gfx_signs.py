@@ -36,6 +36,15 @@ SIGNS = {
         ('games', [(32, 208, 80, 48, 0, 0)], (23, 16, 69, 31),
          ['Games'], (56, 32, 0, 255), 'wood'),
     ],
+    'GV16000D.BIN:3': [
+        ('games', [(0, 40, 96, 48, 0, 0)], (23, 16, 73, 31),
+         ['Games'], (56, 32, 0, 255), 'wood'),
+    ],
+    'GV22000D.BIN:1': [
+        # The right edge of the board is stored below the main strip.
+        ('games', [(128, 48, 64, 32, 0, 0), (176, 96, 32, 32, 64, 0)], (23, 16, 69, 31),
+         ['Games'], (56, 32, 0, 255), 'wood'),
+    ],
     'GV16090D.BIN:1': [
         ('men', [(0, 0, 56, 32, 0, 0)], (5, 5, 54, 27),
          ["Men's", 'Bath'], (208, 208, 208, 255), 'curtain'),
@@ -75,7 +84,7 @@ def draw(im, key, pal):
             wood_colours = {(168, 112, 56, 255), (152, 96, 32, 255), (136, 80, 32, 255),
                             (120, 64, 24, 255), (88, 40, 0, 255)}
             for y in range(y0, y1):
-                wood = [px[x, y] for x in range(17, 23) if px[x, y] in wood_colours]
+                wood = [px[x, y] for x in range(17, x0) if px[x, y] in wood_colours]
                 assert wood, (key, y)
                 for x in range(x0, x1):
                     px[x, y] = wood[(x - x0) % len(wood)]

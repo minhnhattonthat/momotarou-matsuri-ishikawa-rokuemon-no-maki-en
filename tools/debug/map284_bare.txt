@@ -1,0 +1,4 @@
+# Regression-only negative fixture. Expected to fail on the frozen card-prop
+# disc (1ff27c30...), with SEQ tempo divide-by-zero at 8006D494. The production
+# scenes.txt preserves the native transition setup and must be used for QA.
+map284_bare map 284 19 11 0 0x314
