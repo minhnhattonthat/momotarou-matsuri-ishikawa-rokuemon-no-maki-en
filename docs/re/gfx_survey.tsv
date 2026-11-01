@@ -15,9 +15,9 @@ id	source	kind	japanese	note
 #109	EVT110D.BIN:1@4770	sign	small wooden sign	tiny, unsure
 #115	EVT130D.BIN:1@3170	sign	tanabata tanzaku strips	unsure
 #141	EVT220D.BIN:1@4020	sign	よ... (shop banner) / ...こそ!! (ようこそ!!)	town shop signs in kana, partly cropped
-#167	EVT600D.BIN:2@a6e0	credits	staff roll part 1 (総監督 さくま あきら ... テクニカルアドバイザー)	credits drawn as image
-#168	EVT600D.BIN:3@f610	credits	staff roll part 2 (マスタリングスタッフ ... スペシャルサンクス ...)	credits drawn as image
-#169	EVT600D.BIN:4@145c0	credits	staff roll part 3 (... プロデューサー / 制作 株式会社 ハドソン)	credits drawn as image
+#167	EVT600D.BIN:2@a6e0	credits	staff roll part 1 (総監督 さくま あきら ... テクニカルアドバイザー)	English incl. all six archive copies; cold 22/22 items; docs/re/credits-qa.md; readings polish remains
+#168	EVT600D.BIN:3@f610	credits	staff roll part 2 (マスタリングスタッフ ... スペシャルサンクス ...)	English incl. all six archive copies; cold 22/22 items; docs/re/credits-qa.md; readings polish remains
+#169	EVT600D.BIN:4@145c0	credits	staff roll part 3 (... プロデューサー / 制作 株式会社 ハドソン)	English incl. all six archive copies; cold 22/22 items; docs/re/credits-qa.md; readings polish remains
 #172	EVT620D.BIN:0@f0	other	祭 on lanterns/fan	emblem in ending art; likely keep
 #173	EVT620D.BIN:1@a9d0	other	祭 (orange fan)	emblem; likely keep
 #185	FILESL0D.BIN:1@15b0	logo	桃太郎まつり (vertical, 2 variants)	file-select logo

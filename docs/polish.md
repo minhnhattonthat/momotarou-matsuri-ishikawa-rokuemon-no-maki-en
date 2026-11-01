@@ -4,6 +4,9 @@ Minor issues deferred from reviews (phase 6 reviewer pass, 2026-11-01). One pass
 each line (`- [x]`) when fixed or ruled out. The release gate needs no unticked line.
 Format: ids - problem - suggested direction (the reviewers' full wording was condensed here).
 
+### Credits graphics
+- [ ] gfx/credits.tsv - confirm uncited kanji-name/pen-name readings listed in docs/re/credits-qa.md or record an explicit editorial ruling; current conventional readings are provisional, despite complete visual coverage.
+
 ### g01 (OVLGMAIN item/menu descriptions, code strings: byte caps)
 - [ ] OVLGMAIN@800CB6FC - "Monkey-san's home" next to "Mr. Rabbit/Tanuki/Turtle" - align after the honorific sweep
 - [ ] OVLGMAIN@800CC1F0 "valor" -> Mark of Courage; 800CC3C0 -> "World's Greatest Pun Contest" (if caps allow)

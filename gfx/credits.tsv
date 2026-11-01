@@ -1,0 +1,103 @@
+# ANM item, screen x/y, original, English (| = intentional line break). See docs/re/credits-qa.md for readings.
+item	x	y	jp	en
+0	-24	-24	総監督	Chief|Director
+0	-56	8	さくま あきら	Akira Sakuma
+1	-56	-24	キャラデザイン	Character Design
+1	-40	8	土居 孝幸	Takayuki Doi
+2	-16	-48	音楽	Music
+2	-40	-16	関口 和之	Kazuyuki Sekiguchi
+2	-40	8	池 毅	Takeshi Ike
+2	-40	32	宮路 一昭	Kazuaki Miyaji
+3	-64	-60	ゲームデザイナー	Game Designers
+3	-40	-28	窪田 英之	Hideyuki Kubota
+3	-40	-4	星 弘高	Hirotaka Hoshi
+3	-40	20	大久保 則雄	Norio Okubo
+3	-40	44	國政 修	Osamu Kunimasa
+4	-48	-60	プログラマー	Programmers
+4	-112	-28	佐藤 勝俊	Katsutoshi Sato
+4	-112	-4	平沢 直樹	Naoki Hirasawa
+4	-112	20	後藤 秀寿	Hidetoshi Goto
+4	-112	44	堀井 逸平	Ippei Horii
+4	32	-28	高畠 憲久	Norihisa Takahata
+4	32	-4	藤井 貴志	Takashi Fujii
+4	32	20	西山 貴裕	Takahiro Nishiyama
+5	-56	-24	カードデザイン	Card Design
+5	-40	8	長島 弘美	Hiromi Nagashima
+6	-88	-60	グラフィックデザイナー	Graphic Designers
+6	-112	-28	堅木 暁	Akira Katagi
+6	-112	-4	横澤 啓予	Hiroyo Yokozawa
+6	-112	20	安良岡 昌美	Masami Yasuraoka
+6	-112	44	金田 浩之	Hiroyuki Kaneda
+6	32	-28	chappy	chappy
+6	32	-4	村尾 美和	Miwa Murao
+6	32	20	佐藤 実	Minoru Sato
+6	32	44	窪田 康彦	Yasuhiko Kubota
+7	-80	-24	サウンドディレクター	Sound Director
+7	-40	8	角岡 義行	Yoshiyuki Kadooka
+8	-72	-24	サウンドエフェクト	Sound Effects
+8	-40	8	Pop'n T	Pop'n T
+9	-80	-24	サウンドマネージャー	Sound Manager
+9	-40	8	三井 啓介	Keisuke Mitsui
+10	-88	-24	テクニカルアドバイザー	Technical Advisor
+10	-40	8	吉田 哲馬	Tetsuma Yoshida
+11	-80	-24	マスタリングスタッフ	Mastering
+11	-40	8	中川 剛	Tsuyoshi|Nakagawa
+12	-40	-24	マニュアル	Manual
+12	-40	8	前田 一恵	Kazue Maeda
+13	-72	-84	スペシャルサンクス	Special Thanks
+13	-128	-52	柴尾 英令	Hideo Shibao
+13	-128	-28	佐久間 ゆり	Yuri Sakuma
+13	-128	-4	井沢 どんすけ	Donsuke Izawa
+13	-128	20	錯乱坊主	Sakuranbozu
+13	-128	44	AEGIS	AEGIS
+13	-128	68	馬場ダイ	Dai Baba
+13	16	-52	佐久間 真理子	Mariko Sakuma
+13	16	-28	赤根 豊	Yutaka Akane
+13	16	-4	石井 愛	Ai Ishii
+13	16	20	塩谷 功治	Koji Shioya
+13	16	44	丹野 洋一郎	Yoichiro Tanno
+13	16	68	高木 明光	Akimitsu Takagi
+14	-128	-68	YES!さぁ?	YES! Saa?
+14	-128	-44	杉田わいん	Wine Sugita
+14	-128	-20	田村 光一郎	Koichiro Tamura
+14	-128	4	音泉 貴英	Takahide Otoizumi
+14	-128	28	バードランド	Birdland
+14	-128	52	ティーズミュージック	T's Music
+14	16	-68	夢眠	Mumin
+14	16	-44	京あすか	Asuka Kyo
+14	16	-20	川田 忠之	Tadayuki Kawada
+14	16	4	松原 昌治	Shoji Matsubara
+15	-128	-68	いもおじさん	Imo Ojisan
+15	-128	-44	みい	Mii
+15	-128	-20	山田 光重	Mitsushige Yamada
+15	-128	4	吉田 夏子	Natsuko Yoshida
+15	-128	28	若名 さだ子	Sadako Wakana
+15	-128	52	HAPPY	HAPPY
+15	16	-68	渡辺 千恵	Chie Watanabe
+15	16	-44	遠山 有美	Yumi Toyama
+15	16	-20	流美子	Rumiko
+15	16	4	岡田 拓郎	Takuro Okada
+15	16	28	大平 香奈	Kana Ohira
+15	16	52	あおのすぐり	Suguri Aono
+16	-128	-80	北井 靖人	Yasuto Kitai
+16	-128	-56	ガンバマン	Ganbaman
+16	-128	-32	池田 とんこ	Tonko Ikeda
+16	-128	-8	小宮路 茂晃	Shigeaki Komiyaji
+16	16	-80	宇野 邦久	Kunihisa Uno
+16	16	-56	前田 瑞穂	Mizuho Maeda
+16	16	-32	千草	Chigusa
+16	-128	40	荒居 弘之	Hiroyuki Arai
+16	-128	64	綿貫 秀樹	Hideki Watanuki
+16	16	40	瀬口 智洋	Tomohiro Seguchi
+17	-16	-36	広報	Press
+17	-40	-4	武田 学	Manabu Takeda
+17	-40	20	石崎 仁英	Yoshihide Ishizaki
+18	-64	-24	制作ディレクター	Production Director
+18	-40	8	富沢 ひろみ	Hiromi Tomisawa
+19	-88	-36	プロダクトマネージャー	Product Managers
+19	-40	-4	井上 佳典	Yoshinori Inoue
+19	-40	20	梶野 竜太郎	Ryutaro Kajino
+20	-56	-24	プロデューサー	Producer
+20	-40	8	三上 寛幸	Hiroyuki Mikami
+21	-16	-24	制作	Created|by
+21	-64	8	株式会社ハドソン	Hudson Soft Co., Ltd.

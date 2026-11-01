@@ -4,6 +4,18 @@ Updated at the end of every session. Keep it to what the next session needs; his
 
 - **Phase:** **8 in progress** (QA in the emulator), then 9 (release).
 - **Done (phase 8 so far, 2026-11-01):**
+  - Credits checkpoint: all **101 lines / 22 ANM items** redrawn, including full names and Product Managers
+    omitted by an online transcription. `gfx/credits.tsv`, `tools/gen_credits.py`, new MIT `fonts/credits7.txt`.
+    Whole-archive duplicate sweep updates **18 atlases** (entries 2-4 in EVT600D through EVT650D).
+    An early build only translated the first three screens; regression test now guards every ending reload.
+  - `tools/debug/credits_qa.py` finds complete credit items from cold-boot screenshots: rejected build 3/22,
+    final build **22/22**. Fresh read-only visual pass accepts four enlarged sheets; scoped gate **4/4 ok** at
+    `work/qa/credits8_review`. Names with unconfirmed readings remain a polish item; ending-art Japanese is
+    separate from credit lettering. Commands, sources, limitations: `docs/re/credits-qa.md`.
+  - Latest validation: **45 tests passed**, lint 0; verifier **352 changed files / 0 errors**; cold smoke
+    `work/qa/credits8_final_smoke` passed; credits textlog 0 Japanese lines. Main disc: 182,571,648 bytes,
+    **2026-11-01 02:06:24 UTC**, SHA-1 **4031eba32228dbfe896eb6222fa86c63a4a943d1**.
+    Phase 8 remains incomplete: the scoped credits gate does not cover the remaining graphics or full tour.
   - Minigame graphics checkpoint: eight new atlas redraws (M010D:4, M030D:3, M110D:0, M140D:0, M560D:1,
     M590D:0/6, M990D:0). `tools/anm.py` decodes actual sprite rectangles; corrected narrower award/Lose
     bounds and excluded a Bonus region with a partial sprite user. `tests/test_anm.py` guards HUD fragment use.
@@ -12,7 +24,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
     read-only review accepts Ready/Go/Win/Lose/Draw and Score/Record in game; scoped gate **1/1 ok** under
     `work/qa/banners8_review`. Other new atlas redraws still need outcome/palette routes; do not count them as
     phase-wide visual approvals. Reproduction, exact bounds and remaining work: `docs/re/minigame-graphics-qa.md`.
-  - Latest validation: **42 tests passed**, lint 0; verifier 346 changed files / 0 errors; cold smoke
+  - Previous banner validation: **42 tests passed**, lint 0; verifier 346 changed files / 0 errors; cold smoke
     `work/qa/banners8_final2_smoke` passed; `banners8_final2_janken` textlog 0 Japanese lines.
     Build: `build/momotarou-matsuri_en.bin`, 182,839,776 bytes, 2026-11-01 01:50:59 UTC,
     SHA-1 `e4ccf3f32f96fcc03e2834d2716a0a97e4261ce3`. **Phase 8 cannot advance yet**; this is a scoped checkpoint.
@@ -81,7 +93,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
   - Graphics text (D5: all of it; docs/re/gfx_survey.tsv, 200 rows): classify retained title logos under D5
     (CI0D:3/TITLE0D:3, YUGI0D:1, HOUGEN0D:2, FILESL0D:1); NAME0D:0 mode-menu shots,
     STATUS0D:0 higher rank shots, remaining M990D:0/1 HUD + result words, remaining banners
-    (GV02000D:2, GV13000D:2...), HOUGEN0D:0 card album, credits EVT600D:2-4,
+    (GV02000D:2, GV13000D:2...), HOUGEN0D:0 card album, ending-art signs/emblems,
     100 dialect cards HCARD*, signs. Per image: `gfx.py export`, find each sprite's rect (in-game the sprite rect
     can be narrower than the JP atlas row: shoot it), add LABELS, `gen_gfx.py`, build `--out build/g8.bin`, shoot.
   - Saved-record QA: exercise all record categories with nonzero scores, not only the newly translated file

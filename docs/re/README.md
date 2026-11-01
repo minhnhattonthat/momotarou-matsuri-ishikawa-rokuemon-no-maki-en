@@ -21,6 +21,7 @@ Addresses are for the dump in `rom.sha1` unless a note says otherwise.
 | [graphics.md](graphics.md) | font, TIM images, graphics-text survey | survey from the static sweep; runtime checks in phase 8 |
 | [status-menu-qa.md](status-menu-qa.md) | game-written save fixture, numeric-template extraction fix, Status redraw and scoped visual verdicts | cold-boot checks; broader phase 8 still open |
 | [minigame-graphics-qa.md](minigame-graphics-qa.md) | ANM sprite rectangles, minigame banners/HUD redraws, Janken input route and scoped review | Janken cold-boot proof; other outcome graphics still need routes |
+| [credits-qa.md](credits-qa.md) | 101 credit lines, six atlas reloads, complete-item screenshot oracle and scoped verdicts | 22/22 cold-boot items, 4/4 visual gate; uncited name readings need polish |
 
 Tools: `tools/iso.py` (LBAs), `tools/arc.py` (archives), `tools/ecd.py` (ECD codec), `tools/tim.py` (TIM decode),
 `tools/gfxdump.py` (static image sweep into `work/gfx/`), `tools/ramfind.py` (which files sit where in a RAM dump),

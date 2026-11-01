@@ -242,6 +242,7 @@ def generate():
             out = gfx.EN / f'{Path(name).stem}_{e}.png'
             im.save(out)
             print(out.relative_to(ROOT), gfx.changed_box(t, out))
+    return same
 
 
 def boxes(key, gap=2):
@@ -269,4 +270,6 @@ if __name__ == '__main__':
     if sys.argv[1:2] == ['boxes']:
         boxes(sys.argv[2], int(sys.argv[sys.argv.index('--gap') + 1]) if '--gap' in sys.argv else 2)
     else:
-        generate()
+        same = generate()
+        import gen_credits
+        gen_credits.generate(same=same)
