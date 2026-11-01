@@ -26,6 +26,7 @@ Addresses are for the dump in `rom.sha1` unless a note says otherwise.
 | [cards-qa.md](cards-qa.md) | Card Album warp, input latch, all 100 prefecture captions and complete-card screenshot gate | 100/100 cold captures on both discs; 5/5 caption/menu visual gate; handwritten card art still Japanese |
 | [card-words-qa.md](card-words-qa.md) | 100 marginal dialect phrases, bounded artwork restoration and scoped cold review | card sound effects/signs remain separate; phase 8 still open |
 | [results-qa.md](results-qa.md) | Shared winner/round/attempt/question banners and checked atlas repacking | 40/40 cold rendered states; 5 scoped visual sheets; natural progression and small HUDs remain |
+| [masks-qa.md](masks-qa.md) | Mask Maker controls, Mask Album title, preview indentation and controller route | 6/6 control sprites + title; create/accept/return route; 3 scoped sheets ok |
 
 Tools: `tools/iso.py` (LBAs), `tools/arc.py` (archives), `tools/ecd.py` (ECD codec), `tools/tim.py` (TIM decode),
 `tools/gfxdump.py` (static image sweep into `work/gfx/`), `tools/ramfind.py` (which files sit where in a RAM dump),

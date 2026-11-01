@@ -49,6 +49,12 @@ warp uses VM+4 instead).
   full illustration and caption to match its own TIM. Details and the original reference: `cards-qa.md`.
 
 ## Arrival points that hang
+**Mask Maker:** `SCENE='mask_editor'` calls the shop minigame from Story using `GSV1306D:2`'s op sequence
+at 0x134 (`2D 46 2 1 0 2E 3 0 0`, u16). It retains a valid return context unlike direct `game_m70_3a`.
+`tools/debug/masks.lua` selects six parts with controller input and verifies the confirmation state;
+`masks-qa.md` records the read-only RAM synchronization addresses and cold original/English evidence.
+The scene list contains 455 entries after this addition.
+
 Warping to some maps at their commonest arrival point hangs the emulator a few frames after the map's entry
 script runs (frames stop, same under the interpreter; no CPU-exception pause event). `tools/debug/find_arrivals.py`
 tried every other script destination and +-1..2 tile shifts: 25 maps work elsewhere (OVERRIDE in gen_scenes.py),

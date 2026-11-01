@@ -20,6 +20,7 @@ LINE_UNITS = 32  # records per line object: digraph units + codes (docs/re/engin
 VARIANT = {      # px per line, visible lines, tag
     'msg': (228, 3, 'measured'),           # op 02, x=48; frame inner edges x=37..282 (event00, widthgate.json)
     'msg_portrait': (192, 3, 'measured'),  # op 02 with a voice/portrait, x=90; same frame
+    'msg_mask': (228, 3, 'measured'),      # x=48; first 48 px reserved for the mask-preview sprite
     'memcard': (180, 3, 'measured'),       # EXE {KK}/{KE} messages, x=72, frame inner right 258; <= 64 bytes/line
     # op 41 items, laid out by the next op 04's layout byte (0x8002C6A8, table 0x80019244): budget = frame x+w-8-text x
     'choice': (88, 1, 'measured'),         # layouts 5/6 (3/4 items): widened (engine.CHOICE_EXE) to frame x=192 w=120, text x=216
@@ -61,6 +62,9 @@ def variants():
                     assert lay in (5, 6, 8), (f, i, o, lay)  # the only layouts op 41 menus use on this disc
                     for s, _ in strs:
                         out[text.item_id(text.stem(f), i, o, s)] = 'choice_top' if lay == 8 else 'choice'
+    for iid in out:
+        if iid.startswith(('M250D/34/', 'M250D/35/')):
+            out[iid] = 'msg_mask'
     return out
 
 

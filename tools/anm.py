@@ -6,7 +6,7 @@
 The ANM header holds a count at +4 and the relative-offset table location at +8. Each item
 is a u32 sprite count followed by 28-byte records. UV, size, CLUT and tpage are
 u16s at record +2..14; signed offsets at +16/+18 and 12-bit scales at +20/+22.
-Rendering supports unscaled 4bpp sprites in the original archive; external
+Rendering supports unscaled 4bpp/8bpp sprites in the original archive; external
 pages/palettes are explicitly skipped. --labels lists candidate references to
 redraw rectangles from gen_gfx.py. Archives can reuse VRAM pages between modes,
 so a candidate is not by itself proof that the same texture is loaded.
@@ -56,11 +56,11 @@ def render(archive, entries, out, strict=False):
             continue
         t, _ = gfx.unpack(entry)
         magic, bpp, clut, img = tim.parse(t)
-        if magic != 16 or bpp != 0:
+        if magic != 16 or bpp not in (0, 1):
             continue
         x, y, _, _, _ = img
         for pal in range(clut[3]):
-            pages[(x // 64 + (y // 256) * 16, clut[0], clut[1] + pal)] = tim.image(t, pal)
+            pages[(x // 64 + (y // 256) * 16, clut[0], clut[1] + pal)] = (bpp, tim.image(t, pal))
     out.mkdir(parents=True, exist_ok=True)
     for i, records in enumerate(entries):
         x0 = min(r[8] for r in records)
@@ -70,14 +70,16 @@ def render(archive, entries, out, strict=False):
         image = Image.new('RGBA', (max(1, x1 - x0), max(1, y1 - y0)))
         for r in records:
             flags, u, v, w, h, cx, cy, page, dx, dy, sx, sy, _, _ = r
-            if flags or sx != 4096 or sy != 4096:
+            if flags & ~0x100 or sx != 4096 or sy != 4096:
                 raise ValueError(f'item {i}: unsupported flags/scale {r}')
             if (page, cx, cy) not in pages:
                 if strict:
                     raise ValueError(f'item {i}: external palette/page {(page, cx, cy)}')
                 print(f'skip item {i}: external palette/page {(page, cx, cy)}')
                 break
-            source = pages[(page, cx, cy)]
+            bpp, source = pages[(page, cx, cy)]
+            if (flags >> 8) != bpp:
+                raise ValueError(f'item {i}: texture depth differs from sprite flag')
             image.alpha_composite(source.crop((u, v, u + w, v + h)), (dx - x0, dy - y0))
         else:
             image.save(out / f'{i:03}.png')

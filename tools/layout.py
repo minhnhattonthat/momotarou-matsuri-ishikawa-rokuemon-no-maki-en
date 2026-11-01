@@ -46,24 +46,24 @@ def jp_page_lines(jp):
     return [seg.lstrip('\n').count('\n') + 1 for seg in jp.replace('{KN}', '').split('{KP}')]
 
 
-def wrap(page, px):
+def wrap(page, px, indent=''):
     lines = []
     for seg in page.split('{n}'):
         seg = seg.strip()
         hang = ' ' if seg.startswith('"') else ''
-        cur = ''
+        cur = indent
         for w in seg.split():
             trial = cur + ' ' + w if cur.strip() else cur + w
             if cur.strip() and (width(trial) > px or units(trial) > windows.LINE_UNITS):
                 lines.append(cur)
-                cur = hang + w
+                cur = indent + hang + w
             else:
                 cur = trial
         lines.append(cur)
     return lines
 
 
-def render_msg(en, jp, px):
+def render_msg(en, jp, px, indent=''):
     errs = []
     kn = en.rstrip().endswith('{KN}')
     body = re.sub(r'\{KN\}\s*$', '', en.rstrip())
@@ -73,7 +73,7 @@ def render_msg(en, jp, px):
     for i, p in enumerate(pages):
         if not p:
             errs.append(f'page {i + 1} is empty')
-        lines = wrap(p, px)
+        lines = wrap(p, px, indent)
         for ln in lines:
             if width(ln) > px:
                 errs.append(f'page {i + 1}: {width(ln)} px > {px}: {ln!r}')
@@ -118,7 +118,7 @@ def render(row, variant, en=None):
     en = row['en'] if en is None else en
     px, _, tag = windows.budget(row, variant)
     if row['kind'] == 'msg':
-        return render_msg(en, row['jp'], px)
+        return render_msg(en, row['jp'], px, indent=PAD * 4 if variant == 'msg_mask' else '')
     return render_line(en, row, px, soft=tag == 'guess')
 
 

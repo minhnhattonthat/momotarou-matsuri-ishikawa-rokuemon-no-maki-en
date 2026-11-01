@@ -49,6 +49,7 @@ def main():
     ap.add_argument('--items', default='1,2,3,4,5,6,7,8,9,10,11,13,14,15,16,18')
     ap.add_argument('--original', action='store_true')
     ap.add_argument('--scan', action='store_true', help='search numbered frames from a natural result route')
+    ap.add_argument('--glob', default='f[0-9]*.png', help='screenshot pattern for --scan')
     args = ap.parse_args()
     wanted = [int(i) for i in args.items.split(',')]
     original = (gfx.TREE / args.file).read_bytes()
@@ -63,7 +64,7 @@ def main():
     anm.render(archive, opaque, previews, strict=True)
     rows = []
     for index, item in enumerate(wanted):
-        paths = sorted(args.run.glob('f[0-9]*.png')) if args.scan else [args.run / f'announcement_{item:02d}.png']
+        paths = sorted(args.run.glob(args.glob)) if args.scan else [args.run / f'announcement_{item:02d}.png']
         template = previews / f'{index:03d}.png'
         position = None
         matched = ''

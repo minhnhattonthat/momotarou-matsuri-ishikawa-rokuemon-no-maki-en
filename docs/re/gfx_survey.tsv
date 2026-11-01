@@ -186,8 +186,8 @@ id	source	kind	japanese	note
 #768	M180D.BIN:3	hud	スカ ? (next to digits "+-5678910")	unsure, tiny, may be glyph fragment
 #783	M230D.BIN:0@f0	banner	?レース (framed katakana box, lower-left, roughly "アクア/レース")	unsure reading; also 1P 2P 3P 4P in Latin
 #786	M230D.BIN:3@5360	font	hiragana+katakana+ASCII A-Z/0-9 + symbols	small ~8px, kana+ASCII only, no kanji
-#796	M250D.BIN:21	logo	お面アルバム	green banner title (Mask Album)
-#797	M250D.BIN:22	menu	できあがり / つくりなおし / L1ボタン / R1ボタン	two states (bright+dim) of buttons
+#796	M250D.BIN:21	logo	お面アルバム	English Mask Album; complete cold title match, masks-qa.md
+#797	M250D.BIN:22	menu	できあがり / つくりなおし / L1ボタン / R1ボタン	English Done/Redo/L1/R1, bright+dim atlas; 6/6 displayed controls cold match, masks-qa.md
 #870	M440D.BIN:0	sign	price board: 大トロ 四〇〇, うに ?〇〇, 三〇〇, ?, えび, 二〇〇, 一〇〇	in-scene wooden sign; partly repeated in #871 left edge
 #877	M500D.BIN:0	banner	スタート	small orange text with Momotarou sprite
 #888	M560D.BIN:1	banner	勝ち! 負け! 引き分け!	rainbow result banners

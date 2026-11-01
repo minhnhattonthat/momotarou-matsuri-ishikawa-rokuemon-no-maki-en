@@ -4,6 +4,17 @@ Updated at the end of every session. Keep it to what the next session needs; his
 
 - **Phase:** **8 in progress** (QA in the emulator), then 9 (release).
 - **Done (phase 8 so far, 2026-11-01):**
+  - Mask Maker controls and Mask Album title translated: **6/6 complete control sprites + 1/1 title** match
+    cold captures, **3/3 scoped visual sheets ok**. Fixed preview icons covering English instructions and
+    dialogue by reserving 48 pixels on every relevant line; original comparison confirms the layout.
+    New `mask_editor` shop fixture (455 scenes) and state-aware `masks.lua` select all six parts and reach
+    confirmation and accept it, returning to Story on both discs. Error/redo/continue branches covered;
+    memory-card persistence and populated album navigation remain wider QA scope.
+    `docs/re/masks-qa.md` records evidence and 8bpp ANM support added to the screenshot oracle.
+  - Latest validation: **56 tests passed**, lint 0; verifier **363 changed files / 0 errors**; cold smoke
+    `work/qa/mask8_smoke` passed; mask-fixture textlog 0 Japanese lines. Main disc: **182,491,680 bytes**,
+    **2026-11-01 04:02:28 UTC**, SHA-1 **bd6ff6ca1786b31afe0695b328a3a05af2c741b2**.
+    **Phase 8 remains incomplete.** Remaining graphics, outcome/menu routes and full visual tour prevent release.
   - Shared result banners: M990D:0 and 40 ANM states now show Round/Try/Question 1-10, individual and paired
     winners with full names, Win and Lose. `tools/gfx_results.py` repacks English words into old large-letter
     regions; `gfx_layout.py` checks 743 geometry fields while preserving palettes, flags, scales and counts.
@@ -11,7 +22,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
   - Final cold fixture: **40/40 complete result states**, **5/5 scoped visual sheets ok**; original comparison
     under `work/qa/results8_original`. The extra M51 route is a one-question encounter and does not cover the
     question-counter banners. Natural result progression remains in the wider QA scope. `docs/re/results-qa.md`.
-  - Latest validation: **54 tests passed**, lint 0; verifier **363 changed files / 0 errors**; cold smoke
+  - Previous result-banner validation: **54 tests passed**, lint 0; verifier **363 changed files / 0 errors**; cold smoke
     `work/qa/results8_smoke` passed; result-fixture textlog 0 Japanese lines. Main disc: **182,496,384 bytes**,
     **2026-11-01 03:39:19 UTC**, SHA-1 **2423760e259876a8dfce16a26db5ca994aa7557b**.
     **Phase 8 remains incomplete.** Remaining graphics, outcome/menu routes and full visual tour prevent release.

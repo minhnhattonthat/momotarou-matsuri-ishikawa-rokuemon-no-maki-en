@@ -97,7 +97,7 @@ L.on_frame(function(n)
   elseif kind == "event" then
     if m == 0x4D and age == 0 then mem[EVENT & 0x1FFFFF] = num(s[3]) end
     if m == 0x4D and age >= 300 then arrive(n) end  -- event 13 ends before 600
-  elseif kind == "map" or kind == "save" then
+  elseif kind == "map" or kind == "save" or kind == "mask" then
     if m == 0x4D and age == 0 then mem[MODE & 0x1FFFFF] = 1 end  -- skip the intro; GMAIN starts the opening script
     -- the opening script's next op is its first message (while a message is up, +4 walks the text instead): write
     -- "0x1D map x y dir 0xFFFE; 0x1E 0x63" (change map, then the op every exit script ends with) over the next ops,
@@ -109,6 +109,7 @@ L.on_frame(function(n)
       local words = {}
       for _, v in ipairs(OPS or {}) do words[#words + 1] = v end
       local tail = kind == "save" and { 0x2D, 0x6A, 3, 0, 0, 0x2E, 3, 0, 0 }
+          or kind == "mask" and { 0x2D, 0x46, 2, 1, 0, 0x2E, 3, 0, 0 }
           or { 0x1D, num(s[3]), num(s[4]), num(s[5]), num(s[6]), 0xFFFE, 0x1E, 0x63 }
       for _, v in ipairs(tail) do
         words[#words + 1] = v
@@ -131,6 +132,7 @@ L.on_frame(function(n)
       if st.orig and m == 1 and (n - st.hijack) % 30 == 0 then L.press("circle", 6) end  -- close the message
     end
     if kind == "save" and m == 0x4B and age >= 600 then arrive(n) end
+    if kind == "mask" and m == 0x3A and age >= 600 then arrive(n) end
     if kind == "map" and st.hijack and not st.orig and r16(MAP) == num(s[3]) and m == 1
         and n - st.hijack >= 300 then arrive(n) end
     if m == 1 and not st.hijack and age > 3000 then L.fail("no message op to hijack") end

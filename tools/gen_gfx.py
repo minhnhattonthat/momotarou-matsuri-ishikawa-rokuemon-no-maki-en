@@ -1,6 +1,7 @@
 """English redraws of graphics text -> gfx/en/*.png (tools/gfx.py writes them into the build).
 
     python -X utf8 tools/gen_gfx.py              regenerate every redraw in LABELS
+    python -X utf8 tools/gen_gfx.py --only FILE:E ...  regenerate selected atlases and all identical copies
     python -X utf8 tools/gen_gfx.py boxes FILE:E [--gap N]   bounding boxes of the image's opaque pieces
 
 LABELS: {"FILE:ENTRY": [(x0, y0, x1, y1, "English", opts), ...]}. Each rect is cleared (to transparent, or with
@@ -31,8 +32,22 @@ FONT = ROOT / 'fonts' / 'ofl' / 'Fredoka.ttf'
 CLEAR = (0, 0, 0, 0)
 HUD = {'pixel': True, 'outline': 0, 'fill': (248, 248, 248, 255)}
 PANEL = {'bg': 'fill', 'outline': 0, 'align': 'left', 'size': 14, 'fill': (8, 8, 8, 255)}
+MASK_BUTTON = {'bg': 'fill', 'outline': 0, 'size': 17, 'fill': (248, 248, 248, 255)}
+MASK_DIM = {**MASK_BUTTON, 'fill': (128, 128, 128, 255)}
 
 LABELS = {
+    'M250D.BIN:21': [(0, 32, 136, 56, 'Mask Album', {})],
+    'M250D.BIN:22': [
+        # Clear lettering only; preserve the beveled button edges and both states.
+        (12, 60, 52, 100, 'Done', MASK_BUTTON),
+        (68, 60, 108, 100, 'Redo', MASK_BUTTON),
+        (12, 108, 52, 148, 'Done', MASK_DIM),
+        (68, 108, 108, 148, 'Redo', MASK_DIM),
+        (123, 58, 165, 70, 'L1', {**MASK_BUTTON, 'size': 14}),
+        (123, 74, 165, 86, 'R1', {**MASK_BUTTON, 'size': 14}),
+        (123, 106, 165, 118, 'L1', {**MASK_DIM, 'size': 14}),
+        (123, 122, 165, 134, 'R1', {**MASK_DIM, 'size': 14}),
+    ],
     'HOUGEN0D.BIN:0': [
         (0, 56, 160, 80, 'Card Album', {}),
         (160, 56, 184, 80, ' ', {}),
@@ -289,10 +304,14 @@ def copies():
     return out
 
 
-def generate():
+def generate(keys=None):
     gfx.EN.mkdir(parents=True, exist_ok=True)
     same = copies()
+    if keys and set(keys) - LABELS.keys():
+        raise ValueError(f'unknown atlas keys: {set(keys) - LABELS.keys()}')
     for key, labels in LABELS.items():
+        if keys and key not in keys:
+            continue
         t, im = original(key)
         pal = {c if c[3] else CLEAR for c in gfx.palette(t, 0)}
         im = Image.eval(im, lambda v: v)
@@ -342,6 +361,8 @@ def boxes(key, gap=2):
 if __name__ == '__main__':
     if sys.argv[1:2] == ['boxes']:
         boxes(sys.argv[2], int(sys.argv[sys.argv.index('--gap') + 1]) if '--gap' in sys.argv else 2)
+    elif sys.argv[1:2] == ['--only'] and len(sys.argv) > 2:
+        generate(sys.argv[2:])
     else:
         same = generate()
         import gen_credits

@@ -40,6 +40,12 @@ Run: `emu.py build/wg2.cue --script tools/debug/warp.lua --script tools/lua/text
 --var HOLD=6000 --var CLICK=200` (CLICK=45 picks an answer before the box opens).
 
 ## From code / guess
+Mask Maker exception (cold verified, `masks-qa.md`): its preview occupies roughly x=40..88 inside the
+message box. Six OVLM70 instructions and all four M250D/34/35 dialogue rows need **48 pixels of leading
+padding** (four ideographic spaces), rather than the old seven ASCII spaces (28 pixels). `msg_mask` keeps
+the 228-pixel message budget inclusive of padding and applies it to every wrapped visible line. The code
+instructions also retain their original byte caps. Error, missing-part, continue and confirmation shots pass.
+
 - **op 26 captions** (27 place names): build_line, frame (0x5F, 0x34, w 0x82 = x 95..225), budget 116 px; text
   centred as `x = 160 - units * 6` (0x80034DC0): assumes 12 px per unit, so VWF English sat left of centre.
   **Fixed + verified** (phase 7): the hook at 0x80034DB8 (engine.py) centres by pixel width; in game "Tabidachi
