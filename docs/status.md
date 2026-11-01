@@ -4,6 +4,18 @@ Updated at the end of every session. Keep it to what the next session needs; his
 
 - **Phase:** **8 in progress** (QA in the emulator), then 9 (release).
 - **Done (phase 8 so far, 2026-11-01):**
+  - Minigame graphics checkpoint: eight new atlas redraws (M010D:4, M030D:3, M110D:0, M140D:0, M560D:1,
+    M590D:0/6, M990D:0). `tools/anm.py` decodes actual sprite rectangles; corrected narrower award/Lose
+    bounds and excluded a Bonus region with a partial sprite user. `tests/test_anm.py` guards HUD fragment use.
+    Small HUD words use the new MIT `fonts/hud7.txt`; a tiny rounded Record label failed review and was replaced.
+  - `tools/debug/janken.lua` selects seven hands from a cold warp using controller input. The final fresh
+    read-only review accepts Ready/Go/Win/Lose/Draw and Score/Record in game; scoped gate **1/1 ok** under
+    `work/qa/banners8_review`. Other new atlas redraws still need outcome/palette routes; do not count them as
+    phase-wide visual approvals. Reproduction, exact bounds and remaining work: `docs/re/minigame-graphics-qa.md`.
+  - Latest validation: **42 tests passed**, lint 0; verifier 346 changed files / 0 errors; cold smoke
+    `work/qa/banners8_final2_smoke` passed; `banners8_final2_janken` textlog 0 Japanese lines.
+    Build: `build/momotarou-matsuri_en.bin`, 182,839,776 bytes, 2026-11-01 01:50:59 UTC,
+    SHA-1 `e4ccf3f32f96fcc03e2834d2716a0a97e4261ce3`. **Phase 8 cannot advance yet**; this is a scoped checkpoint.
   - Resumed save/Status QA: `tools/debug/save_fixture.py` now creates and verifies a game-written save without
     a playthrough. Seed card must be empty; the emulator edits a copy. Fixture: `work/qa/save_fixture_checked/memcard1.mcd`.
     `save_menu` is a new debug scene (453 entries now); `tools/routes/status_saved.txt` cold-boots, loads slot 1,
@@ -16,7 +28,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
     removal preserves coloured plate backgrounds. Main Status screen compared cold against the original;
     hidden step-count question marks are original behaviour. Three higher rank plates still need in-game shots.
     Review and commands: `docs/re/status-menu-qa.md`; scoped evidence: `work/qa/status8_review/`.
-  - Latest validation: **40 tests passed**, lint 0; disc verifier 345 changed files / 0 errors; cold smoke
+  - Previous Status/save validation: **40 tests passed**, lint 0; disc verifier 345 changed files / 0 errors; cold smoke
     `work/qa/smoke8_final` passed; `status8_final_cold` textlog 0 Japanese lines; scoped visual gate 2/2 ok.
     Build: `build/momotarou-matsuri_en.bin`, 2026-11-01 01:29:27 UTC,
     SHA-1 `a3db1fb15d377b7933560c661b1fdf4b3344896e`. These checks do **not** complete phase 8.
@@ -62,10 +74,14 @@ Updated at the end of every session. Keep it to what the next session needs; his
     156,128 bytes (game_m25/m70-72 minigames), so English growth (a few KB per file) is far from the limit.
     15 runs of that sweep died with emulator exit -1 while other emulators ran; all 15 passed on a rerun.
 - **Next (phase 8):**
+  - Finish runtime coverage of the new minigame redraws: awards need nonzero-score routes; M14/M56/M59
+    banners need the relevant outcome/versus states. Circle-only tours do not reach all those sprites.
+    M990D big announcement words and most other HUD fragments remain Japanese; use `anm.py` to check their
+    composition before editing pixels. Small Bonus at (136,16,40,16) has overlapping fragment users and is untouched.
   - Graphics text (D5: all of it; docs/re/gfx_survey.tsv, 200 rows): classify retained title logos under D5
     (CI0D:3/TITLE0D:3, YUGI0D:1, HOUGEN0D:2, FILESL0D:1); NAME0D:0 mode-menu shots,
-    STATUS0D:0 higher rank shots, M990D:0/1 HUD + result words, banners
-    (M010D:4, M110D:0, M140D:0, M560D/M590D, GV02000D:2, GV13000D:2...), HOUGEN0D:0 card album, credits EVT600D:2-4,
+    STATUS0D:0 higher rank shots, remaining M990D:0/1 HUD + result words, remaining banners
+    (GV02000D:2, GV13000D:2...), HOUGEN0D:0 card album, credits EVT600D:2-4,
     100 dialect cards HCARD*, signs. Per image: `gfx.py export`, find each sprite's rect (in-game the sprite rect
     can be narrower than the JP atlas row: shoot it), add LABELS, `gen_gfx.py`, build `--out build/g8.bin`, shoot.
   - Saved-record QA: exercise all record categories with nonzero scores, not only the newly translated file

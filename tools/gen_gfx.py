@@ -10,6 +10,7 @@ row is that row's most common lettering colour (keeps vertical gradients), the o
 opts: size (px, default fits the rect), wdth 75-125, wght 300-700, outline 0/1, fill (RGBA tuple) to force one,
 align 'left' (menu labels; default centred). bg='neutral' removes grey lettering by borrowing the nearest
 coloured pixel on the same row, preserving coloured rank-plate artwork; edge overrides the outline colour.
+pixel=True uses the native 7-pixel capitals in fonts/hud7.txt instead of the rounded font (small HUD words).
 """
 import sys
 from collections import Counter
@@ -20,13 +21,63 @@ from PIL import Image, ImageDraw, ImageFilter, ImageFont
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / 'tools'))
 import arc  # noqa: E402
+import engine  # noqa: E402
 import gfx  # noqa: E402
 import tim  # noqa: E402
 
 FONT = ROOT / 'fonts' / 'ofl' / 'Fredoka.ttf'
 CLEAR = (0, 0, 0, 0)
+HUD = {'pixel': True, 'outline': 0, 'fill': (248, 248, 248, 255)}
 
 LABELS = {
+    # M990D ANM entry 2 references these as whole words (tools/anm.py), not shared characters.
+    # Keep the original word rectangles so the HUD's fixed number positions remain valid.
+    'M990D.BIN:0': [
+        (176, 0, 208, 16, 'Score', HUD),
+        (208, 0, 240, 16, 'Record', HUD),
+        (80, 0, 112, 16, 'Time', HUD),
+        (64, 16, 96, 32, 'Course', HUD),
+        (96, 16, 136, 32, 'Stage', HUD),
+        (176, 16, 192, 32, 'ryo', HUD),
+        (88, 32, 152, 48, 'Bonus', HUD),
+    ],
+    'M110D.BIN:0': [
+        (0, 184, 112, 208, 'Ready...', {}),
+        (112, 184, 168, 208, 'Go!', {}),
+        (0, 208, 56, 240, 'Win!', {}),
+        (56, 208, 112, 240, 'Lose!', {}),
+        (112, 208, 208, 240, 'Draw!', {}),
+    ],
+    'M560D.BIN:1': [
+        (0, 0, 56, 32, 'Win!', {}),
+        (56, 0, 112, 32, 'Lose!', {}),
+        (112, 0, 208, 32, 'Draw!', {}),
+    ],
+    'M590D.BIN:6': [
+        (0, 0, 56, 32, 'Win!', {}),
+        (56, 0, 112, 32, 'Lose!', {}),
+        (112, 0, 208, 32, 'Draw!', {}),
+    ],
+    'M590D.BIN:0': [
+        (144, 80, 240, 112, 'Draw!', {}),
+        (144, 112, 200, 144, 'Win!', {}),
+        # The exclamation mark is a separate sprite; the word's source is only 40 px wide.
+        (200, 112, 240, 144, 'Lose', {}),
+    ],
+    'M140D.BIN:0': [
+        (184, 128, 240, 160, 'Win!', {}),
+        (184, 160, 240, 192, 'Lose!', {}),
+        (184, 192, 216, 208, 'Streak', {'size': 11, 'wdth': 75, 'outline': 0}),
+    ],
+    'M010D.BIN:4': [
+        (0, 0, 152, 32, 'Perfect!', {}),
+        (0, 32, 152, 64, 'Hit Award!', {}),
+        (0, 64, 120, 96, 'Bonus Award', {}),
+        (120, 64, 144, 96, '!', {}),
+        (0, 96, 144, 128, 'Sharp Eye!', {}),
+        (0, 128, 144, 160, 'Survivor!', {}),
+    ],
+    'M030D.BIN:3': [(0, 216, 176, 248, 'Perfect!', {})],
     # title: press-start prompt (the logo pieces are separate rows of docs/re/gfx_survey.tsv #6)
     # two sprites: line 1 is as wide as スタートボタンを, line 2 only as wide as おしてね! (x 49..122)
     'CI0D.BIN:3': [(49, 49, 175, 65, 'Press START', {'bg': 'fill', 'outline': 0}),
@@ -77,6 +128,19 @@ def font(size, o):
 
 
 def mask(text, size, o):
+    if o.get('pixel'):
+        glyphs = engine.glyphs(ROOT / 'fonts' / 'hud7.txt')
+        rows = [glyphs[c] for c in text.upper()]
+        widths = [max(map(len, g)) for g in rows]
+        m = Image.new('L', (sum(widths) + len(rows) + 1, 9))
+        x = 1
+        for g, width in zip(rows, widths):
+            for y, row in enumerate(g):
+                for dx, pixel in enumerate(row):
+                    if pixel == '#':
+                        m.putpixel((x + dx, y + 1), 255)
+            x += width + 1
+        return m
     f = font(size, o)
     l, t, r, b = f.getbbox(text)
     m = Image.new('L', (r - l + 2, b - t + 2))
