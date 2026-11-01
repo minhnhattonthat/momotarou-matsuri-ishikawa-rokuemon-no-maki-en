@@ -52,7 +52,7 @@
   "id": "SLPM_868@80018480",
   "kind": "code",
   "jp": "そのファイルに{KK}上書きしますが{KK}よろしいですか？{KE}",
-  "en": "This will overwrite{KK}that file.{KK}Is that OK?{KE}",
+  "en": "This will overwrite{KK}that file.{KK}Is that okay?{KE}",
   "max": 51
  },
  {

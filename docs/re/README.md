@@ -23,6 +23,7 @@ Addresses are for the dump in `rom.sha1` unless a note says otherwise.
 | [status-ranks-qa.md](status-ranks-qa.md) | Six Status illustrations, maximum-width counters, money overlap fix and Hermit staff lettering | Cold rank fixtures and screenshot oracle; phase-wide QA remains open |
 | [album-records-qa.md](album-records-qa.md) | Game Album/Quick Match numeric clipping fix and complete populated/empty record-panel tours | 43 + 6 cold pages on both discs, 10 scoped visual sheets; Rank Details remains open |
 | [name-entry-qa.md](name-entry-qa.md) | Latin player-name encoding, shared font copies and cold controller tour | 80 glyph IDs, confirmation/editing and Quick Match return; native four-character limit |
+| [name-persistence-qa.md](name-persistence-qa.md) | Memory-card parser bug, overwrite prompt fix and player-name save/reload | Four cold cases across both discs, eight name bytes verified, six scoped visual sheets |
 | [portrait-audit.md](portrait-audit.md) | Four GCV0310 labelled placeholder portraits and message selector audit | Zero literal references in 4,894 messages; cold Moon route does not bind them |
 | [minigame-graphics-qa.md](minigame-graphics-qa.md) | ANM sprite rectangles, minigame banners/HUD redraws, Janken input route and scoped review | Janken cold-boot proof; other outcome graphics still need routes |
 | [credits-qa.md](credits-qa.md) | 101 credit lines, six atlas reloads, complete-item screenshot oracle and scoped verdicts | 22/22 cold-boot items, 4/4 visual gate; uncited name readings need polish |

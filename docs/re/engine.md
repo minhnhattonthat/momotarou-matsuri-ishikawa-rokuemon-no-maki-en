@@ -42,8 +42,15 @@ Code: `tools/engine.py` (codec, font, hooks), `tools/insert.py` (script/ -> disc
   and six Quick Match pages have cold evidence (`album-records-qa.md`).
 - **Memory-card messages** (EXE strings 0x80018314-0x80018634, pointer table 0x8007E934): 0x80025884 copies the
   string byte by byte into three 64-byte line buffers at 0x800A1CC8, splitting on the **bytes** `K` `K` (next
-  line) and `K` `E` (end), then build_line draws each at (72,168)+16/line. So English there: <= 64 bytes per
-  line, at most 3 lines, and no `KK`/`KE` byte pair inside the text (byte-level scan, not unit-aligned).
+  line) and `K` `E` (end), then build_line draws each at (72,168)+16/line. **The scanner branches on any
+  `K` byte**, not only a complete delimiter: at 0x800258D0 it skips copying that byte and advances the line.
+  The old rule banning only `KK`/`KE` missed the overwrite prompt's `OK`, which displayed as a missing
+  letter pair. English content must contain no uppercase `K` byte, including raw bytes/SJIS trail bytes;
+  explicit `{KK}`/`{KE}` delimiters remain allowed. `layout.render_line` enforces this on every memory-card
+  message. The overwrite prompt now says `Is that okay?`; the native code is unchanged.
+  Two additional native constraints are linted: a line after `{KK}` cannot start with uppercase `E`
+  (0x800258F0 also tests the first content byte against E), and content must be **less than 64 bytes**
+  to retain the zero-filled line terminator. All 25 extracted memory-card messages satisfy these rules.
 - **Save titles** `ももたろうまつり　その１..３` (0x80018664/80/9C): 0x80028048 copies 25 bytes into the
   memory-card save header; the BIOS shows them, so they stay full-width Shift-JIS (insert.SJIS_ONLY).
 

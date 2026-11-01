@@ -2,6 +2,8 @@
 
 Phase 8 checkpoint. This is Name Entry and its Quick Match record display,
 not natural record-setting, memory-card persistence or the full graphics gate.
+Follow-up: `name-persistence-qa.md` now verifies four- and one-character name
+save/overwrite/cold-reload on both discs. Natural record-setting remains open.
 
 ## Encoding and implementation
 

@@ -40,8 +40,9 @@ Open for later phases:
   43 Game Album and six Quick Match record panels, including populated and empty
   score categories. Name Entry now uses 80 Latin/symbol sprites in both NAME0D
   and PREM0D, with complete cold glyph matches, four- and one-letter entry,
-  editing and record return (`name-entry-qa.md`). Rank Details and name
-  memory-card persistence remain unverified.
+  editing and record return (`name-entry-qa.md`). Four- and one-letter names
+  now have native save/overwrite and separate cold-load proof on both discs
+  (`name-persistence-qa.md`). Rank Details and naturally earned records remain unverified.
 - GCV0310's four labelled images are dormant dialogue placeholders, IDs 123-126,
   with no references among 4,894 parsed message operations. The Moon route uploads
   their texture but never binds the portraits (`portrait-audit.md`). This is not

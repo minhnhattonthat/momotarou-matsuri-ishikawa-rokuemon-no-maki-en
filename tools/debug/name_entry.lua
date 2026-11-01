@@ -114,7 +114,12 @@ L.on_frame(function(n)
       for i = #ids, 7 do assert(mem[address + i] == 255, 'name padding differs') end
       L.shot('record_name.png')
       L.log('NAME_RETURN record=' .. name_record .. ' ids=' .. table.concat(ids, ',') .. ' mode=' .. mode)
-      L.finish(0)
+      if NAME_CONTINUE then
+        NAME_COMPLETE = true
+        phase = 'done'
+      else
+        L.finish(0)
+      end
     end
   end
 end)

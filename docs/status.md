@@ -4,6 +4,18 @@ Updated at the end of every session. Keep it to what the next session needs; his
 
 - **Phase:** **8 in progress** (QA in the emulator), then 9 (release).
 - **Done (phase 8 so far, 2026-11-01):**
+  - Name persistence checkpoint: four- and one-character names now pass native save/overwrite and a
+    **separate cold reload on both discs**. All eight name bytes, including FF padding, are checked;
+    source cards remain unchanged. `name_save.py` uses controller input after the existing Name Entry warp.
+    Fresh read-only D10 review accepts **6/6 scoped sheets** (`docs/re/name-persistence-qa.md`).
+  - Fixed the overwrite warning's missing **OK**: the native memory-card scanner treats every uppercase
+    K byte as control syntax, while the old lint rejected only KK/KE pairs. The prompt now says **Is that
+    okay?**. All **25 memory-card messages** were swept; seven regression cases cover literal K, a line
+    beginning E after KK, termination space and valid text. Native code and graphics are unchanged.
+  - Latest validation: **91 tests passed**, lint 0; verifier **369 changed files / 0 errors**; cold smoke
+    `work/qa/persist8_smoke` passed; the four accepted English save/load logs have **0 Japanese lines**.
+    Main disc: **182,482,272 bytes**, **2026-11-01 08:36:29 UTC**, SHA-1
+    **dca819a139f5c9ccba906a1e083f764e46077269**. **Phase 8 remains incomplete; do not advance to release.**
   - Name Entry checkpoint: **80 Latin/symbol glyphs** replace the kana font in NAME0D:1 and PREM0D:1;
     checked selection-table edits give ordered D-pad navigation. Native four-character limit, ANM data,
     save structure, palettes, arrows and panel artwork are preserved. Existing Japanese record-name IDs
@@ -313,7 +325,8 @@ Updated at the end of every session. Keep it to what the next session needs; his
   - Saved-record QA: Status covers all rank pictures and wide counters (`status-ranks-qa.md`); all five
     Game Album record formats and six Quick Match pages now have populated/empty cold proof
     (`album-records-qa.md`). Name Entry now has all 80 glyphs, editing/confirmation and returned-name proof
-    (`name-entry-qa.md`). Rank Details, natural record-setting and name memory-card persistence remain.
+    (`name-entry-qa.md`); name memory-card persistence now has four passing original/English cases
+    (`name-persistence-qa.md`). Rank Details and natural record-setting remain.
     Name Entry mode 0x51 needs its native context byte set to 3 when warped, to return to Quick Match;
     `SCENE='name_entry'` and `tools/debug/name_entry.py` do this. Use the existing save fixture for reload QA.
     `work/qa/album8_*` exploratory states are from earlier builds: regenerate cold before accepting verdicts.

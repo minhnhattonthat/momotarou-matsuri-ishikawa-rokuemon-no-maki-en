@@ -98,13 +98,17 @@ def render_line(en, row, px, soft=False):
     if re.search(r'\{(n|KP|KN)\}', en):
         errs.append('one-line text: no {n}/{KP}/{KN}')
     lines = en.replace('{KE}', '').split('{KK}')
-    if row.get('jp', '').endswith('{KE}'):          # memory-card message: lines split on the KK/KE bytes
+    if row.get('jp', '').endswith('{KE}'):          # native scanner branches on every K byte
         if len(lines) > 3:
             errs.append(f'{len(lines)} lines > 3')
-        for ln in lines:
+        for i, ln in enumerate(lines):
             b = text.encode_text(ln)
-            if b'KK' in b or b'KE' in b or len(b) > 64:
-                errs.append(f'memory-card line: no "KK"/"KE" letter pairs, <= 64 bytes: {ln!r}')
+            if b'K' in b or len(b) >= 64:
+                errs.append(f'memory-card line: no literal uppercase K byte, < 64 bytes: {ln!r}')
+            # After consuming KK, the native loop checks the following byte
+            # against E as well. A line beginning with E ends the whole message.
+            if i and b.startswith(b'E'):
+                errs.append(f'memory-card line after {{KK}} cannot start with uppercase E: {ln!r}')
     for ln in lines:
         if width(ln) > px and not soft:
             errs.append(f'{width(ln)} px > {px}: {ln!r}')
