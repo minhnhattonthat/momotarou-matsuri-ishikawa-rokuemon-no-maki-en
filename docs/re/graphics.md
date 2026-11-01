@@ -32,7 +32,7 @@ The title's separate press-start instruction is already translated in both copie
 
 ### Survey inventory
 Every Japanese-bearing image found by five read-only reviewers over all 80 sheets: **`docs/re/gfx_survey.tsv`**
-(203 rows including the subsequently discovered Status staff badge, GV23000D:2 Games board and round game-hall emblem: id, file:entry, kind, transcription, note). Summary of the original 200-row sweep:
+(204 rows including the subsequently discovered Status staff badge, GV23000D:2 Games board, round game-hall emblem and M49 Fortune God badges: id, file:entry, kind, transcription, note). Summary of the original 200-row sweep:
 
 | Kind | Rows | What |
 |---|---|---|
@@ -46,6 +46,9 @@ Every Japanese-bearing image found by five read-only reviewers over all 80 sheet
 | hud / other | 9 | 白/赤 team icons (DEF0D:9), speech bubbles (M060D:2, M080D:6), three ending-art Festival fans now English (`event-props-qa.md`), どっち? |
 
 Open for later phases:
+- M49's four God of Fortune badges now use F; eight native reward poses on both discs
+  and 11 scoped sheets pass (`fortune-qa.md`). The earlier Poverty God identification was wrong.
+  Alternate coin effects and a natural story return remain outside the accepted route.
 - M50's Start has native countdown proof; four Poverty God costume cells now use P, matching the cards.
   Success/early-failure controller routes cover all six actor poses on both discs, with 12 accepted sheets
   (`timing-qa.md`). Other Poverty God drawings and the remaining natural minigame labels stay open.

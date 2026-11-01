@@ -4,6 +4,15 @@ Updated at the end of every session. Keep it to what the next session needs; his
 
 - **Phase:** **8 in progress** (QA in the emulator), then 9 (release).
 - **Done (phase 8 so far, 2026-11-02):**
+  - M49's four costume badges now read **F**. This is **God of Fortune**, not Poverty God as the
+    earlier M50 follow-up note stated. All four edited cells have complete cold matches in eight
+    native reward poses on both discs; controller input stops the selector and reaches the trial return.
+    Fresh D10 review accepts **11/11** context/detail sheets (`fortune-qa.md`). Alternate coin effects
+    and the natural story return remain unproved; this is a scoped checkpoint, not phase completion.
+  - Latest validation: **132 tests / lint 0**, verifier **400 changed files / 0 errors**, cold
+    `work/qa/fortune8_smoke` passed; `fortune8_en_final` has **0 Japanese lines in 1 log** (graphics excluded).
+    Main disc **182,446,992 bytes**, **2026-11-01 18:40:47 UTC**, SHA-1
+    **28f5035d4aea1d2b282adc8e546803261b8ad926**. **Phase 8 remains incomplete.**
   - M50's **Start** now has native countdown proof. Poverty God's four costume cells use the established
     **P** emblem; all six idle/success/anger poses have complete cold pixel matches. Controller-only success
     and early-failure routes pass **10/10 checks on both discs**, with fresh D10 **12/12** sheets accepted.
@@ -586,7 +595,9 @@ Updated at the end of every session. Keep it to what the next session needs; his
     `ice.lua` now reaches the left ice-tower course with controller input. Broader versus/record states remain.
   - Minigame labels: M05/M08/M18 have complete sprite-assembly proof, but natural Jackpot, near-win
     and Miss positioning still need routes. M50 Start now has native countdown and two outcome routes;
-    its four P costume cells cover all six actor poses (`timing-qa.md`). M49 and other differently drawn
+    its four P costume cells cover all six actor poses (`timing-qa.md`). M49's four **God of Fortune**
+    F badges now have eight native pose matches and 11 accepted sheets (`fortune-qa.md`); its alternate
+    coin-effect sequence (ANM1 poses9-13) and natural story return remain unproved. Other differently drawn
     costume marks remain open. Race Hit/nonzero payout remain fixture-only; the normal
     story return remains untested (both original and English direct warps return to the debug system menu).
     `tools/debug/minigame_labels.py` reproduces all 48 states; `race.lua` advances the natural race screens.
@@ -611,7 +622,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
     M990D:0's 40 large winner/ordinal states are now translated and cold-rendered (`results-qa.md`);
     normal gameplay progression still needs tour coverage. Small Bonus now uses a separate English sprite;
     its original overlapping fragment users remain intact and unclassified. See `docs/re/hud-counters-qa.md`.
-  - Graphics text (D5: all of it; docs/re/gfx_survey.tsv, 203 rows): product-title logo variants are now
+  - Graphics text (D5: all of it; docs/re/gfx_survey.tsv, 204 rows): product-title logo variants are now
     explicitly retained under D5 (`graphics.md`). Remaining work: the native Rank Details title consumer
     (Game Album/Quick Match!/Name Entry have cold proof in `menu-titles-qa.md`),
     remaining M990D fragment/context classification, remaining banners
@@ -641,7 +652,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
   - The nine historical map hangs are resolved by correct initialization and map 294's entry setup;
     story flags remain unmapped (warped maps show default state). `tools/deadcode.py` output is not safe hook
     space without an exec watch (`tools/lua/deadwatch.lua`, `warp_all.py --debugger`).
-  - Phase 8 remains incomplete: much of the 203-row graphics survey, the full visual manifest,
+  - Phase 8 remains incomplete: much of the 204-row graphics survey, the full visual manifest,
     and the corrected map interaction tour remain open. Do not advance to phase 9 on scoped graphics verdicts.
 - **Waiting on the user:**
   - (resolved, D9) reviews: the run brief allows a fresh read-only pass, so the repo's in-session `reviewer` /

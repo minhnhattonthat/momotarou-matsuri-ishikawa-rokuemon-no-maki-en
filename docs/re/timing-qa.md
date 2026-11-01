@@ -22,7 +22,9 @@ geometry remain intact. Only `gfx/en/M500D_0.png` changes. The earlier Start
 lettering is unchanged. ANM1 poses 0-3 use those four bodies; angry poses 4/5
 assemble upper bodies with the first two poses' cloth strips. The six natural
 body matches therefore cover every changed cell and both reused-strip states.
-Other Poverty God drawings, including M49, remain separate unresolved scope.
+Other drawings remain separate scope. Correction from the M49 follow-up:
+M49 depicts **God of Fortune**, with a ふ badge, not Poverty God; its F redraw
+and native reward route are now documented in `fortune-qa.md`.
 
 ## Reproduction and native state evidence
 

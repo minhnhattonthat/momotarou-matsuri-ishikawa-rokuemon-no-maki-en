@@ -1,0 +1,12 @@
+sheet	sha1	verdict	note
+context_1_sheet	df24fe8d9c4e0a4060fab757f498545134774d2a	ok	F readable in context; title dialogue fits; silhouette and badge border intact.
+context_2_sheet	7f1bd272880a201d0a24b2b692b7281d367b6edc	ok	F, selector numbers and ryo legible; Circle instructions fit.
+pose_0_sheet	c03be501205d132d784b308b88432081459c00f0	ok	Complete F; closed-mouth idle pose retains badge rim, cloth, hands and bag.
+pose_1_sheet	c4e94f75e8cde2864d8a6bf457624a0000c0cfca	ok	Complete F; second idle pose has no kana fringe or border damage.
+pose_2_sheet	57ea6a95b9903a33fd700c359fb0ce6f4e78e78d	ok	Bowing pose naturally hides badge; unedited artwork matches original.
+pose_3_sheet	e7dce3842dbaaa8f1b3b5bc86bd3bd7ab738cbfc	ok	F legible beneath raised hand; hand and cloth-fold boundaries retained.
+pose_4_sheet	a1219158808e1a6b7b54c5ed02cd6c8b44071e3a	ok	F and badge edge intact; first coin effect and silhouette preserved.
+pose_5_sheet	38881473acb064faa0bc134eabefda0dbd043fe8	ok	F intact; second coin effect, stars and raised hand preserved.
+pose_6_sheet	a3aac9aff6e3645cfca0c33c8da06173a19b35df	ok	F intact; third coin effect and stars preserved.
+pose_7_sheet	e4629f0b224cfbca014bc3e577d0495aa0f1abf2	ok	F intact; departing coin/star effect and actor preserved.
+reward_sheet	8b86f48ee6f3490f04342544f112b7cd1f8e46db	ok	Completed reward dialogue fits; F and throwing-pose borders intact.

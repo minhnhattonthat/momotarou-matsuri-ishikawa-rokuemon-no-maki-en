@@ -136,6 +136,32 @@ def test_wood_games_signs_preserve_every_pixel_outside_lettering():
                     assert before.getpixel((x, y)) == after.getpixel((x, y)), (key, x, y)
 
 
+def test_fortune_badges_preserve_hands_silhouette_and_shared_animation_cells():
+    from PIL import Image
+    import anm
+    import gfx_fortune
+    texture, before = gen_gfx.original(gfx_fortune.KEY)
+    after = Image.open(gfx.EN / 'M490D_0.png').convert('RGBA')
+    allowed = gfx_fortune.pixels()
+    assert before.getchannel('A').tobytes() == after.getchannel('A').tobytes()
+    for y in range(before.height):
+        for x in range(before.width):
+            if (x, y) not in allowed:
+                assert before.getpixel((x, y)) == after.getpixel((x, y)), (x, y)
+    # The covered right hand and left cloth fold in the throwing poses must
+    # survive; these are adjacent to (and partly overlap) the badge bounding box.
+    for rect in ((149, 13, 156, 18), (194, 44, 199, 49)):
+        assert before.crop(rect).tobytes() == after.crop(rect).tobytes()
+    archive = arc.entries((gfx.TREE / 'M490D.BIN').read_bytes())
+    actors = anm.items(archive[1][1])
+    changed_poses = {item for rect in gfx_fortune.rectangles()
+                     for entry, item, _ in anm.references(archive, 7, rect) if entry == 1}
+    assert changed_poses == set(range(14)) - {2}  # bowing pose hides the badge
+    assert len(actors) == 14
+    updated = gfx.redraw(texture, gfx.EN / 'M490D_0.png')
+    assert gfx.palette(updated, 0) == gfx.palette(texture, 0)
+
+
 def test_roundtrip_and_one_pixel(tmp_path):
     for name, e in (("CI0D.BIN", 3), ("NAME0D.BIN", 0)):
         t, _ = gfx.unpack(arc.entries((gfx.TREE / name).read_bytes())[e][1])
@@ -184,6 +210,8 @@ def test_redraws_change_only_declared_label_rectangles():
         rects += gfx_event_props.rectangles(key)
         if key == gfx_welcome.KEY:
             rects += gfx_welcome.RECTS
+        if key == gen_gfx.gfx_fortune.KEY:
+            rects += gen_gfx.gfx_fortune.rectangles()
         if key == 'STATUS0D.BIN:1':
             rects += [(u, v, u + w, v + h) for u, v, w, h, _, _ in gfx_status.PIECES]
         if key == 'STATUS0D.BIN:0':
