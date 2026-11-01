@@ -4,6 +4,18 @@ Updated at the end of every session. Keep it to what the next session needs; his
 
 - **Phase:** **8 in progress** (QA in the emulator), then 9 (release).
 - **Done (phase 8 so far, 2026-11-02):**
+  - EVT220D's split village banner now reads **Welcome!!**. Native event15, run without
+    automatic clicks, shows three complete scrolling placements on both discs; fresh D10 review
+    accepts **6/6** context/detail sheets. `welcome-banner-qa.md` records source geometry,
+    preservation tests, disc-sourced oracle and the skipped-animation pitfall. Survey row #141 closed.
+  - Latest validation: **131 tests / lint 0**, verifier **400 changed files / 0 errors**, cold
+    `work/qa/welcome8_smoke` passed; `welcome8_natural_en` has **0 Japanese lines in 1 log**
+    (graphics excluded). Main disc **182,449,344 bytes**, **2026-11-01 17:44:05 UTC**, SHA-1
+    **c9b124f5f466d4e4473e081d68163e4385d72ea0**. Snow placards, gold-prop and game-hall
+    marks remain unresolved after enlarged inspection. **Phase 8 remains incomplete.**
+  - Card notice follow-up: original OVLXTTL's collected/missing branch selects ANM6 items 3/4;
+    both mode-entry context branches call the same initializer. Exact native addresses are in
+    `card-full-art-qa.md`; neither path supplies the red notice's runtime consumer. It remains open.
   - Card063's final margin defect is repaired: complete top falling-leaf contour and no upper/right
     caption fringe. Fresh D10 cold review accepts the changed five-card sheet and enlarged margin;
     nineteen other sheets exactly match accepted hashes. **Full album 20/20 accepted; detail 1/1**.

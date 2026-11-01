@@ -1,0 +1,7 @@
+sheet	sha1	verdict	note
+enter_context_sheet	dcbd43cce72fff80821bcf1d20717fc567903ef9	ok	Natural entering scroll: complete Welcome!! and preserved village/banner artwork; one-pixel animation phase difference.
+enter_detail_sheet	be327648aee04d0e0aee4635fb940b3af50ece45	ok	Full lettering, rim and four tacks; no kana or pale fringe.
+exit_context_sheet	4ac8f429757b45275b7ee7d2b18459f798e5c64e	ok	Complete banner on the natural exiting village illustration; original clipping elsewhere preserved.
+exit_detail_sheet	be327648aee04d0e0aee4635fb940b3af50ece45	ok	Same complete banner pixels at the exit position.
+middle_context_sheet	2d19cfdd4dd8943caf19752324a5609d7703d68c	ok	Full banner in the middle of its natural diagonal scroll; surrounding art intact.
+middle_detail_sheet	be327648aee04d0e0aee4635fb940b3af50ece45	ok	Same complete banner pixels at the middle position.

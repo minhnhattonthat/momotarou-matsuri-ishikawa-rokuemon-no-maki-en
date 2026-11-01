@@ -120,6 +120,27 @@ region produces seven candidates including the real HOUGEN0D entry5 item0
 not assemble the red fragments. The notice is unchanged and unclassified;
 this scan grants no unused-art exemption.
 
+### Native-code follow-up, 2026-11-02
+
+Read-only inspection of original OVLXTTL narrows two album paths:
+
+- `0x800D6DFC` calls EXE `0x800428D0` to test the current card's collectible
+  bit. `0x800D6E0C` reduces that result to a boolean and `0x800D6E24` adds
+  three: the static binder at `0x800D6E48` selects HOUGEN0D ANM6 item **3 or
+  4**, not a new-card notice. Both items are in the previously audited table.
+- Initialization at `0x800D78E0` loads HOUGEN0D data ID **8**, TIM entries
+  **0/1/2** at `0x800D7958..7978`. It binds the background tile table/map
+  **3/4** at `0x800D7A14`. Entry point `0x800D7FA8` calls this same initializer
+  on both sides of its context comparison (`0x800D8050` and `0x800D8060`).
+
+These checks explain why toggling collected/missing status or changing only
+that entry context is not evidence of a separate red-notice path. They do
+not exclude another native consumer, dynamic UV changes or a card-acquisition
+path outside this menu. No notice pixels, code or classifications change;
+the runtime path remains open. Reproduce by disassembling the original
+`work/disc/tree/OUTBIN/OVLXTTL.BIN` as little-endian MIPS32 with load address
+`0x800CB338`, and comparing the cited calls to `tools/anm.py HOUGEN0D.BIN 6`.
+
 ## Final validation
 
 Final main disc: **182,454,048 bytes**, built **2026-11-01 16:39:00 UTC**,

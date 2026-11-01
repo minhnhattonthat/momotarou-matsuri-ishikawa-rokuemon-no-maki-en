@@ -46,6 +46,9 @@ Every Japanese-bearing image found by five read-only reviewers over all 80 sheet
 | hud / other | 9 | 白/赤 team icons (DEF0D:9), speech bubbles (M060D:2, M080D:6), three ending-art Festival fans now English (`event-props-qa.md`), どっち? |
 
 Open for later phases:
+- EVT220D's split ようこそ!! banner is now Welcome!!, with three complete cold
+  native event15 matches on each disc and six accepted sheets (`welcome-banner-qa.md`).
+  Run this event without automatic clicks: Circle skips its intermediate illustrations.
 - Game Album, Quick Match! and Name Entry now have complete original/English cold header matches
   (`menu-titles-qa.md`, four routes and eight accepted sheets). Saved-Status viewing also uses Game Album;
   the native consumer of the separate Rank Details graphic remains open.
@@ -54,7 +57,8 @@ Open for later phases:
   `card-full-art-qa.md` repairs 034/038/049/059/076/077/078/084 and audits all 100 cards:
   its original 7 ok / 13 issue result is followed by `card-background-qa.md`:
   thirteen more margins accepted, **19 whole-card sheets ok / 1 issue** and **13 details ok / 1 issue**.
-  Card063's top falling leaf and faint caption fringe remain open; these gates still fail.
+  The follow-up `card063-qa.md` repairs the last top falling-leaf/fringe defect;
+  the current full-album gate accepts 20/20 sheets and its enlarged card063 detail.
   The red Card Album notice remains open; `atlas_refs.py` offers static ANM leads, not runtime proof.
 - Event07's snow-statue initial is now K; all three EVT620D ending fans say Festival.
   `event-props-qa.md` records cold routes, exact source masks and the shared-CLUT overwrite.

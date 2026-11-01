@@ -34,6 +34,7 @@ import gfx_hud  # noqa: E402
 import gfx_signs  # noqa: E402
 import gfx_intro  # noqa: E402
 import gfx_event_props  # noqa: E402
+import gfx_welcome  # noqa: E402
 import gfx_status  # noqa: E402
 import gfx_props  # noqa: E402
 import name_entry  # noqa: E402
@@ -62,6 +63,7 @@ LABELS = {
     **{key: [] for key in gfx_signs.SIGNS},
     **{key: [] for key in gfx_props.PROPS},
     **{key: [] for key in gfx_event_props.KEYS},
+    gfx_welcome.KEY: [],
     'M340D.BIN:1': [],  # gfx_hud extends the counter panel for the full word "times".
     'M050D.BIN:2': [(0, 136, 64, 152, 'Jackpot!', {})],
     'M060D.BIN:2': [
@@ -420,6 +422,8 @@ def generate(keys=None):
             gfx_intro.draw(im, key, pal)
         if key in gfx_event_props.KEYS:
             gfx_event_props.draw(im, key, pal)
+        if key == gfx_welcome.KEY:
+            gfx_welcome.draw(im, pal)
         if key == 'STATUS0D.BIN:1':
             gfx_status.draw(im, pal)
         if key == 'STATUS0D.BIN:0':
