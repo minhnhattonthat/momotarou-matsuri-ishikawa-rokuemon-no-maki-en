@@ -13,6 +13,7 @@ from PIL import Image, ImageFilter
 
 import gen_gfx
 import gfx
+import gfx_card_art
 
 # Card 69's caption steps diagonally towards the illustrated skirt. A single
 # bounding rectangle would erase the skirt's brown outline as well as the ink.
@@ -101,18 +102,24 @@ def redraw(image, row, palette):
     image.paste(colour, (x, y, x + lettering.width, y + lettering.height), lettering)
 
 
+def render(row):
+    """Reconstruct one card from source; also used to reject stale PNGs."""
+    i = row['card'] - 1
+    key = f'HCARD{i // 10}0D.BIN:{i % 10}'
+    texture, image = gen_gfx.original(key)
+    palette = gfx.palette(texture, 0)
+    for x0, y0, x1, y1, text, opts in gen_gfx.LABELS[key]:
+        gen_gfx.draw(image, x0, y0, x1, y1, text, opts, set(palette))
+    redraw(image, row, palette)
+    gfx_card_art.draw(image, row['card'], palette)
+    return image
+
+
 def generate():
     for row in rows():
         i = row['card'] - 1
-        key = f'HCARD{i // 10}0D.BIN:{i % 10}'
-        texture, image = gen_gfx.original(key)
         path = gfx.EN / f'HCARD{i // 10}0D_{i % 10}.png'
-        # Always start from the original and apply the approved prefecture
-        # caption first. Standalone runs are deterministic too.
-        palette = gfx.palette(texture, 0)
-        for x0, y0, x1, y1, text, opts in gen_gfx.LABELS[key]:
-            gen_gfx.draw(image, x0, y0, x1, y1, text, opts, set(palette))
-        redraw(image, row, palette)
+        image = render(row)
         image.save(path)
         print(path.relative_to(gfx.ROOT), row['en'])
 

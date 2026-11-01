@@ -11,6 +11,7 @@ import arc  # noqa: E402
 import gfx  # noqa: E402
 import gen_gfx  # noqa: E402
 import gen_card_words  # noqa: E402
+import gfx_card_art  # noqa: E402
 import gfx_results  # noqa: E402
 import gfx_racers  # noqa: E402
 import gfx_hud  # noqa: E402
@@ -129,7 +130,8 @@ def test_redraws_change_only_declared_label_rectangles():
         i = row['card'] - 1
         key = f'HCARD{i // 10}0D.BIN:{i % 10}'
         card_rects[key] = [tuple(row[k] for k in ('x0', 'y0', 'x1', 'y1')),
-                           *gen_card_words.ERASE_RECTS.get(i + 1, [])]
+                           *gen_card_words.ERASE_RECTS.get(i + 1, []),
+                           *gfx_card_art.allowed_rectangles(i + 1)]
     for key, labels in gen_gfx.LABELS.items():
         rects = [(x0, y0, x1, y1) for x0, y0, x1, y1, _, _ in labels]
         rects += card_rects.get(key, [])

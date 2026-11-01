@@ -4,6 +4,16 @@ Updated at the end of every session. Keep it to what the next session needs; his
 
 - **Phase:** **8 in progress** (QA in the emulator), then 9 (release).
 - **Done (phase 8 so far, 2026-11-01):**
+  - Card-art checkpoint: **56 sound-effect placements on 36 cards** translated; all 100 cards still have
+    complete cold screenshot coverage. `gfx/card_art.tsv` and `gfx_card_art.py` preserve adjacent actors,
+    chair/door edges, motion lines and underwater colour. Added generated-PNG consistency and prop regressions.
+    Fresh read-only D10 review accepts **8/8 sound-effect sheets**, after correcting cramped Hop lettering,
+    a Pshh stroke remnant and Twang/sweat-drop overlap. Small signs, clothing/crown marks, older marginal-caption
+    remnants and the red album notice remain open; `docs/re/card-art-qa.md`. **Phase 8 remains incomplete.**
+  - Latest validation: **101 tests passed**, lint 0; verifier **369 changed files / 0 errors**; cold smoke
+    `work/qa/card_art8_main3_smoke` passed; **100/100 complete cards** and **0 Japanese lines in 1 text log**
+    at `work/qa/card_art8_final3_cold` (graphics excluded from textlog). Main disc: **182,458,752 bytes**,
+    **2026-11-01 10:46:26 UTC**, SHA-1 **d6c06dcc9a39d45fd49692aae423407608e33366**.
   - Caption/Rank Details checkpoint: **27/27 captions on both discs**, with exact textlog and native
     centering checks; **43/43 saved-Status record pages** on original, populated English and empty English,
     including all **11 rank values**, and controller return to Status. Source memory card unchanged.
@@ -333,9 +343,11 @@ Updated at the end of every session. Keep it to what the next session needs; his
     Miss and Start positioning still needs routes. Race Hit/nonzero payout remain fixture-only; the normal
     story return remains untested (both original and English direct warps return to the debug system menu).
     `tools/debug/minigame_labels.py` reproduces all 48 states; `race.lua` advances the natural race screens.
-  - Cards: all 100 prefecture captions and marginal dialect phrases are English. Use the cold-boot tour and
-    `cards_qa.py` meaning-ID report for the remaining black illustration SFX, signs and clothing emblems;
-    the scoped phrase gate is not a whole-card verdict. Locate/render the fragmented red new-card tag.
+  - Cards: all 100 prefecture captions and marginal dialect phrases are English; **56 sound-effect placements
+    on 36 cards** are now translated (`card-art-qa.md`). Remaining: card 035's sake label, 062's price tag,
+    068's dumpling banner, 073's pufferfish curtain, kana clothing and crown marks. The scoped sound-effect
+    verdicts do not approve those small signs/emblems. Polish old brown caption remnants on 028/045/046/081/099.
+    Locate/render the fragmented red new-card tag.
     HOUGEN0D ANM 5/6 does not reference its visible atlas fragments; the runtime draw path is still unknown.
   - Finish natural outcome/versus routes. M03 Perfect, M14/M56 and M59 story banners now have scoped cold
     sprite-assembly proof (`hud-outcomes-qa.md`); M59's alternate TIM 6 / ANM 16 remains unapproved, and

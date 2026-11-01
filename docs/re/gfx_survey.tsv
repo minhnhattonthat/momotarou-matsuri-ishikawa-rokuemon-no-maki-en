@@ -72,7 +72,7 @@ id	source	kind	japanese	note
 #562	GV36000D.BIN:1	sign	ゆ?? board	unsure
 #565	GV37000D.BIN:0	sign	旅籠場? (4-char wooden board)	reading unsure
 #566	GV38000D.BIN:0	sign	town sign plaques	unsure
-#574	HCARD00D.BIN:0	card	なまら あっつぃべゃぁ / ばっ / NO.001 北海道	all 100 prefecture captions and marginal phrases English (cards-qa.md, card-words-qa.md); illustration SFX/signs remain Japanese
+#574	HCARD00D.BIN:0	card	なまら あっつぃべゃぁ / はっ / NO.001 北海道	all 100 prefecture captions/marginal phrases English; 56 SFX placements on 36 cards translated (card-art-qa.md lists exact cards); small signs/emblems remain
 #575	HCARD00D.BIN:1	card	はっちゃきこく? / ギシ ギシ / NO.002 北海道	collectible dialect card
 #576	HCARD00D.BIN:2	card	NO.003 青森県 / じょっぱり	dialect card: handwritten word + baked label bar (NO.### + prefecture); #574-#673 share this layout
 #577	HCARD00D.BIN:3	card	NO.004 青森県 / かね?
