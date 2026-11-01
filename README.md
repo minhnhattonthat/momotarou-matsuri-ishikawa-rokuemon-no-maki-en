@@ -13,13 +13,14 @@ helps most.
 
 | Part | Status |
 |---|---|
-| <Dialogue / story> | <Translated> |
-| <Menus, items, skills, system messages> | <Translated> |
-| <Title screen, logos, graphics with text> | <Translated / Left in Japanese> |
-| <Name entry> | <Translated / Japanese kana only> |
-| <Songs, voiced lines, credits roll> | <Left in Japanese> |
+| Dialogue / story | Translated |
+| Menus, items, quizzes, minigames, system messages | Translated |
+| Title, menus, banners, Dialect Cards, readable shop and place signs | Translated |
+| Marks on character clothes, emblems, tiny placards, wall scrolls | Left as art |
+| Credits roll | Translated |
+| Music and sound | Unchanged |
 
-Known issues: <none known / see [Issues](../../issues)>.
+Known issues: see [Issues](../../issues).
 
 ## What's here
 

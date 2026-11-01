@@ -2,8 +2,20 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** **8 in progress** (QA in the emulator), then 9 (release).
-- **Done (phase 8 so far, 2026-11-02):**
+- **Phase:** **9 done (2026-11-02): local release v1.0 built and verified, not published.**
+  - D11 (lenient graphics QA): costume/clothing marks, emblems, tiny placards, wall scrolls and landscape kanji stay as art.
+    141 open visual-QA sheets got D11 verdicts (`zz_d11.tsv` beside each manifest; superseded manifests point to the
+    accepted ones). The mochi-bibs WIP (M060D:3 versus bibs) is shelved in `git stash` ("mochi-bibs WIP (shelved by D11)").
+  - Story pass: `tools/story.py` writes 9 village chapters; all reviewed. ch03 Important (Fukota/gossip dialect) fixed.
+    After the polish pass, `story.py --diff HEAD~1` changed lines were re-checked: all 9 chapters are ok/fixed.
+  - Polish list cleared: 4 translator agents fixed or kept every line (notes in `docs/polish.md`); ending text order
+    (OVLEVT, drawn bottom-up) reworded after re-check. Code-string and quiz edits were lint-checked only, not seen in the emulator.
+  - `tools/release.py`: build, 139 tests / lint 0, verifier 403 files / 0 errors, cold smoke, `jp_left` 0 runs
+    (4 known kana-table runs in `docs/re/jp_known.txt`), every manifest gate, polish gate, xdelta, re-apply, zip.
+  - `release/v1.0/Momotarou_Matsuri_EN_v1.0.zip` (patch + README). Patched image 182,451,696 bytes, SHA-1
+    **fe82d5cd4dd1abd6ece3b4a9332580756dffbc59**, CRC32 05352463; patch SHA-1 1c3980a7...; zip SHA-1 4a30a313...
+  - **Next:** user playtest of `build/momotarou-matsuri_en.cue`; publishing is the user's call (pipeline §Publish).
+- **Done (phase 8, 2026-11-02, history):**
   - Enma's four event-art crown initials now read **E**. Native cold events
     **03/11/12/13/23** give **5/5 complete-crown matches on each disc**;
     fresh D10 review accepts **10/10** context/detail sheets (`event-crowns-qa.md`).
