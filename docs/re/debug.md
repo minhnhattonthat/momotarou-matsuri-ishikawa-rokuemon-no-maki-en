@@ -29,6 +29,19 @@ warp uses VM+4 instead).
 - **map M**: New game → story; at 0x4D set mode 1 (skips the intro; GMAIN then starts the opening script). When the
   script's next op is its first message (op 2), write `0x1D M x y dir 0xFFFE; 0x1E 0x63` over it, press circle,
   and restore the original words once both ran. A copy of the ops elsewhere in RAM hung (earlier exec-hook try).
+- **save_menu**: use the same opening-script hijack, then the shrine's `2D 006A 0003 0000 0000; 2E; 03 0000; 00`
+  sequence (GSV0101D entry 2). It enters mode 0x4B and reaches the file selector from a cold boot. Arrival is
+  recorded 600 frames after that mode starts. Stop automatic message-closing circle presses outside mode 1:
+  otherwise they select slot 1 and repeatedly accept the confirmation's default **No**.
+  `SAVE_CONFIRM=true` presses circle at arrival+1500, up at +1800 and circle at +1920; `HOLD=6000` leaves time
+  for the game to finish writing. `tools/debug/save_fixture.py` runs this with a copied empty card, checks for
+  `BISLPM-86888-A` in an allocated directory entry and proves the seed card stayed unchanged.
+- **Saved Status**: `tools/routes/status_saved.txt` with `--sav work/qa/save_fixture_checked/memcard1.mcd`.
+  After loading the file and dismissing "Load complete", the game returns to the submenu; select Status again.
+  Steps show question marks on the original too (the initial fixture has no pedometer).
+- **Album enable flag**: EXE 0x800435F4 scans 70 records at **0x800BDBF0**, stride **0x1C**, for a nonzero first
+  word. `tools/debug/records.lua --var RECORDS=true` marks only record 0 as played, in RAM. This enables album
+  access for QA but does not manufacture a real score/rank or modify the original memory card.
 
 ## Arrival points that hang
 Warping to some maps at their commonest arrival point hangs the emulator a few frames after the map's entry

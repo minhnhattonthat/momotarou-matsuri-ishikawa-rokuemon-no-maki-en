@@ -9,6 +9,7 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "tools"))
 import arc  # noqa: E402
 import gfx  # noqa: E402
+import gen_gfx  # noqa: E402
 import tim  # noqa: E402
 
 pytestmark = pytest.mark.skipif(not gfx.TREE.exists(), reason="needs work/disc (dumpsxiso)")
@@ -32,3 +33,17 @@ def test_roundtrip_and_one_pixel(tmp_path):
         im.save(p)
         with pytest.raises(ValueError):
             gfx.redraw(t, p)
+
+
+def test_redraws_change_only_declared_label_rectangles():
+    for key, labels in gen_gfx.LABELS.items():
+        name, entry = key.split(':')
+        t, _ = gen_gfx.original(key)
+        png = gfx.EN / f'{Path(name).stem}_{entry}.png'
+        before, after = gfx.indices(t), gfx.indices(gfx.redraw(t, png))
+        width = gfx.layout(t)[1]
+        changed = [i for i, (a, b) in enumerate(zip(before, after)) if a != b]
+        assert changed, key
+        for i in changed:
+            x, y = i % width, i // width
+            assert any(x0 <= x < x1 and y0 <= y < y1 for x0, y0, x1, y1, _, _ in labels), (key, x, y)

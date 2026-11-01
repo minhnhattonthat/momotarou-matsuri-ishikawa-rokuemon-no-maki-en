@@ -39,6 +39,15 @@ def test_msg_codec_synthetic():
         text.encode_msg("あ{KP}")  # a message cannot end on a page break
 
 
+@pytest.mark.parametrize('suffix', ['段', '時間', '分', '点', '個', '：', '両'])
+def test_referenced_number_templates_include_short_units(suffix):
+    raw = b'      ' + suffix.encode('cp932')
+    data = b'\0' * 4 + raw + b'\0'
+    assert codestr.strings(data, {0x80010004: [('ptr', 0)]}, 0x80010000) == [(4, 4 + len(raw))]
+    if len(suffix) == 1 and suffix != '両':
+        assert not codestr.is_jp(suffix.encode('cp932'))  # retain the instruction-noise filter
+
+
 @disc
 def test_every_script_entry_rebuilds_byte_identical():
     n = 0

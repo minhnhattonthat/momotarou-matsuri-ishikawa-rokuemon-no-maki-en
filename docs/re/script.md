@@ -58,3 +58,10 @@ Tests: `tests/test_text.py`.
 - Not covered: text drawn as graphics (graphics.md survey); strings built in code from glyph codes (the marker
   build will show any as leftover Japanese); single-character code strings (a lone kanji like 両 is rejected as
   instruction noise, also left to the marker build).
+
+Phase 8 saved-record coverage correction: `codestr.is_jp` used to accept digit-slot templates only for 両.
+The save selector exposed `      段`, `      時間`, and `    分`, which the kana/length filter rejected.
+A sweep of every referenced code string also found paired 点/個/： templates in the two record screens:
+11 newly extracted rows in OVLXTTL, now translated. Templates are recognised by an even, nonempty ASCII-space
+prefix and a full-width suffix; unprefixed single-kanji instruction noise stays excluded. Preserve every
+`[20]` slot so `put_number` still inserts digits correctly. Cold saved-Status route textlog now reports zero JP.

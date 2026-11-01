@@ -5,6 +5,7 @@ main_menu menu 0x49 -
 story_menu menu 0x49 c
 trial_menu menu 0x50 c
 continue menu 0x4A r,c
+save_menu save 0
 event00 event 0
 event01 event 1
 event02 event 2

@@ -49,6 +49,12 @@ L.on_frame(function(n)
   if st.arrived then
     local hold = HOLD or 60
     if hold >= 0 and n - st.arrived >= hold then L.shot("final.png"); L.finish(0) end
+    -- Save confirmation defaults to No. Opt in only with a disposable --sav card copy.
+    if kind == "save" and SAVE_CONFIRM then
+      local t = n - st.arrived
+      if t == 1500 or t == 1920 then L.press("circle", 6) end
+      if t == 1800 then L.press("up", 6) end
+    end
     -- CLICK=N: press circle every N frames after arrival, to click through the scene's text (emu.py's --mash
     -- starts at frame 0 and breaks the menu presses above; MASH is the driver's own global)
     if CLICK and (n - st.arrived) % CLICK == CLICK - 1 then L.press("circle", 6) end
@@ -82,7 +88,7 @@ L.on_frame(function(n)
   elseif kind == "event" then
     if m == 0x4D and age == 0 then mem[EVENT & 0x1FFFFF] = num(s[3]) end
     if m == 0x4D and age >= 300 then arrive(n) end  -- event 13 ends before 600
-  elseif kind == "map" then
+  elseif kind == "map" or kind == "save" then
     if m == 0x4D and age == 0 then mem[MODE & 0x1FFFFF] = 1 end  -- skip the intro; GMAIN starts the opening script
     -- the opening script's next op is its first message (while a message is up, +4 walks the text instead): write
     -- "0x1D map x y dir 0xFFFE; 0x1E 0x63" (change map, then the op every exit script ends with) over the next ops,
@@ -93,7 +99,9 @@ L.on_frame(function(n)
       -- OPS = {u16, ...}: script ops to run first (e.g. an op 26 caption: tools/debug/caption_ops.py)
       local words = {}
       for _, v in ipairs(OPS or {}) do words[#words + 1] = v end
-      for _, v in ipairs({ 0x1D, num(s[3]), num(s[4]), num(s[5]), num(s[6]), 0xFFFE, 0x1E, 0x63 }) do
+      local tail = kind == "save" and { 0x2D, 0x6A, 3, 0, 0, 0x2E, 3, 0, 0 }
+          or { 0x1D, num(s[3]), num(s[4]), num(s[5]), num(s[6]), 0xFFFE, 0x1E, 0x63 }
+      for _, v in ipairs(tail) do
         words[#words + 1] = v
       end
       st.orig = {}
@@ -111,9 +119,11 @@ L.on_frame(function(n)
         L.log(string.format("f%d restore %s", n, ours and "done" or "skipped (buffer reloaded)"))
         st.orig = nil
       end
-      if st.orig and (n - st.hijack) % 30 == 0 then L.press("circle", 6) end  -- close the message
+      if st.orig and m == 1 and (n - st.hijack) % 30 == 0 then L.press("circle", 6) end  -- close the message
     end
-    if st.hijack and not st.orig and r16(MAP) == num(s[3]) and m == 1 and n - st.hijack >= 300 then arrive(n) end
+    if kind == "save" and m == 0x4B and age >= 600 then arrive(n) end
+    if kind == "map" and st.hijack and not st.orig and r16(MAP) == num(s[3]) and m == 1
+        and n - st.hijack >= 300 then arrive(n) end
     if m == 1 and not st.hijack and age > 3000 then L.fail("no message op to hijack") end
     if st.hijack and n - st.hijack > 3000 then L.fail("map " .. s[3] .. " never loaded") end
   end

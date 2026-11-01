@@ -1,0 +1,30 @@
+# Cold boot with --sav work/qa/save_fixture/memcard1.mcd.
+# New Game -> Status requests a saved record; choose slot 1, confirm Yes,
+# dismiss Load complete, then select Status from the now-loaded menu.
+2400 -
+6 start
+200 -
+6 start
+400 -
+6 circle
+500 -
+6 down
+90 -
+6 right
+90 -
+6 circle
+1800 -
+6 circle
+1200 -
+6 up
+120 -
+6 circle
+1800 -
+6 circle
+900 -
+6 down
+90 -
+6 right
+90 -
+6 circle
+600 -

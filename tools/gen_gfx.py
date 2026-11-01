@@ -8,7 +8,8 @@ bg='fill' to the rect's most common colour, for labels on a panel) and the Engli
 fonts/ofl/Fredoka.ttf (OFL), no antialiasing. Colours come from the Japanese lettering in the rect: the fill per
 row is that row's most common lettering colour (keeps vertical gradients), the outline is the darkest colour.
 opts: size (px, default fits the rect), wdth 75-125, wght 300-700, outline 0/1, fill (RGBA tuple) to force one,
-align 'left' (menu labels; default centred).
+align 'left' (menu labels; default centred). bg='neutral' removes grey lettering by borrowing the nearest
+coloured pixel on the same row, preserving coloured rank-plate artwork; edge overrides the outline colour.
 """
 import sys
 from collections import Counter
@@ -35,6 +36,33 @@ LABELS = {
                      (0, 145, 97, 168, 'Rank Details', {'wdth': 75, 'align': 'left'}),
                      (0, 168, 160, 191, 'Quick Match!', {'align': 'left'}),
                      (0, 192, 184, 216, 'Name Entry', {'align': 'left'})],
+    'STATUS0D.BIN:0': [
+        (0, 55, 111, 80, 'Status', {}),
+        (0, 83, 66, 105, 'Rank', {'outline': 0, 'fill': (8, 8, 8, 255)}),
+        (68, 83, 89, 105, ' ', {'outline': 0}),
+        (90, 83, 111, 105, ' ', {'outline': 0}),
+        (0, 110, 91, 129, 'Full Mastery', {'wdth': 75, 'outline': 0, 'fill': (8, 8, 8, 255)}),
+        (1, 131, 112, 148, 'Total Cards', {'bg': 'fill', 'outline': 0, 'align': 'left', 'size': 14,
+                                         'fill': (8, 8, 8, 255)}),
+        (1, 153, 93, 169, 'Play Time', {'bg': 'fill', 'outline': 0, 'align': 'left', 'size': 14,
+                                      'fill': (8, 8, 8, 255)}),
+        (1, 174, 113, 191, 'Steps', {'bg': 'fill', 'outline': 0, 'align': 'left', 'size': 11,
+                                   'fill': (8, 8, 8, 255)}),
+        (1, 195, 112, 212, 'Money (ryo)', {'bg': 'fill', 'outline': 0, 'align': 'left', 'size': 14,
+                                   'fill': (8, 8, 8, 255)}),
+        # Counts already have an English label; Japanese counter suffixes are redundant.
+        (224, 81, 239, 104, ' ', {'bg': 'fill', 'outline': 0}),
+        (224, 114, 239, 139, ' ', {'bg': 'fill', 'outline': 0}),
+        (224, 146, 239, 172, ' ', {'bg': 'fill', 'outline': 0}),
+        (114, 82, 223, 106, 'Momotaro', {'bg': 'neutral', 'fill': (8, 8, 8, 255),
+                                       'edge': (248, 248, 248, 255)}),
+        (114, 114, 223, 139, 'Momotaro Master', {'bg': 'neutral', 'wdth': 75, 'fill': (8, 8, 8, 255),
+                                              'edge': (248, 248, 248, 255)}),
+        (114, 146, 223, 171, 'Momotaro Expert', {'bg': 'neutral', 'wdth': 75, 'fill': (8, 8, 8, 255),
+                                              'edge': (248, 248, 248, 255)}),
+        (114, 178, 223, 203, 'Momotaro Hermit', {'bg': 'neutral', 'wdth': 75, 'fill': (8, 8, 8, 255),
+                                              'edge': (248, 248, 248, 255)}),
+    ],
 }
 
 
@@ -72,7 +100,7 @@ def draw(im, x0, y0, x1, y1, text, o, pal):
     ink = [c for c in rect if c[3] and c != bgc]
     if not ink:
         raise ValueError(f'{text!r}: no lettering in {(x0, y0, x1, y1)}')
-    dark = min(set(ink), key=luma)
+    dark = o.get('edge', min(set(ink), key=luma))
     rows = {}
     for y in range(y0, y1):
         cs = Counter(px[x, y] for x in range(x0, x1) if px[x, y][3] and px[x, y] not in (bgc, dark))
@@ -80,8 +108,18 @@ def draw(im, x0, y0, x1, y1, text, o, pal):
             rows[y] = cs.most_common(1)[0][0]
     fallback = Counter(c for c in ink if c != dark).most_common(1)[0][0] if len(set(ink)) > 1 else dark
     for y in range(y0, y1):
-        for x in range(x0, x1):
-            px[x, y] = bgc
+        if o.get('bg') == 'neutral':
+            background = {x: px[x, y] for x in range(x0, x1)
+                          if px[x, y][3] and max(px[x, y][:3]) - min(px[x, y][:3]) > 24}
+            if not background:
+                # The middle stripe of the Master plate is entirely white.
+                background = {x0: max((px[x, y] for x in range(x0, x1)), key=luma)}
+            for x in range(x0, x1):
+                if max(px[x, y][:3]) - min(px[x, y][:3]) <= 24:
+                    px[x, y] = background[min(background, key=lambda sx: abs(sx - x))]
+        else:
+            for x in range(x0, x1):
+                px[x, y] = bgc
     m = fit(text, x1 - x0, y1 - y0, o)
     ox = x0 + 1 if o.get('align') == 'left' else x0 + (x1 - x0 - m.width) // 2
     oy = y0 + (y1 - y0 - m.height) // 2
