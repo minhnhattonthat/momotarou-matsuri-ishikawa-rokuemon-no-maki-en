@@ -4,6 +4,27 @@ Updated at the end of every session. Keep it to what the next session needs; his
 
 - **Phase:** **8 in progress** (QA in the emulator), then 9 (release).
 - **Done (phase 8 so far, 2026-11-01):**
+  - Field-sign/map-warp checkpoint: both Pun Contest board atlases translated with the full glossary name;
+    Men's Bath / Women's Bath curtains updated in all three atlas copies. Original and English cold routes
+    each pass **7/7 lettering checks** across four maps, including the alternate red/blue palettes.
+    Fresh read-only review accepts **4/4 scoped comparison sheets** (`docs/re/field-signs-qa.md`).
+    The split GV02000D board still lacks runtime proof; other town signs and the tiny bath-counter placard remain open.
+  - **Critical QA correction:** map warps always ran **GSF0000D:60**, the world-map initializer, after loading
+    every destination. Backgrounds could render without town NPCs/decorations, and some coordinates hung.
+    `gen_scenes.py` now derives each destination's real initializer from the original scripts; every map row
+    carries it, and the warp refuses an implicit fallback. Queued Circle input during loading is also fixed.
+    **Earlier map tours do not establish actor/dialogue/animated-decoration coverage.**
+  - All **nine previously excluded maps** now load. Eight need their correct initializer; map 294 additionally
+    needs the setup surrounding its normal GSF0000D:25 entry, now retained in its row. Map 294 passes on both
+    discs at its original coordinates. The list now contains **464 scenes**. Replacement cold sweep:
+    **358/358 maps ok**, **0 Japanese lines in 358 logs**, in `work/qa/mapinit8_all`.
+    This is load/initialization coverage, not a phase-wide visual or NPC-interaction approval.
+    Details and exact op sequences: `docs/re/map-initializers.md`.
+  - Main disc: **182,498,736 bytes**, **2026-11-01 06:27:20 UTC**, SHA-1
+    **4493a392249171d9e12b467c1cfba74522e49a30** (`build/signs8.bin` is identical).
+    **74 tests passed**, lint 0; verifier **368 changed files / 0 errors**; cold smoke `work/qa/signs8_smoke`
+    passed; four sign-route logs and all nine recovered-map logs have 0 Japanese lines (graphics excluded).
+    **Phase 8 remains incomplete; do not advance to release.**
   - HUD-counter checkpoint: twelve additional M990D words translated (Total, Win, Loss, min, sec, Floor,
     later, small Bonus, Match, times, items, pieces). Whole words use unused pixels; shared old fragments
     remain intact. M34's counter panel extended by eight pixels without losing its borders.
@@ -188,6 +209,14 @@ Updated at the end of every session. Keep it to what the next session needs; his
     156,128 bytes (game_m25/m70-72 minigames), so English growth (a few KB per file) is far from the limit.
     15 runs of that sweep died with emulator exit -1 while other emulators ran; all 15 passed on a rerun.
 - **Next (phase 8):**
+  - Re-run the full text/visual tour with the corrected destination initializers. Older map shots lacked the
+    proper actors and cannot support complete dialogue, animated decoration or story-state coverage. Use
+    `map-initializers.md` and `work/qa/mapinit8_all/result.tsv` for the 358 passing cold entries; add interaction
+    and later-story routes rather than treating that arrival count as full text coverage.
+  - Field signs: locate the runtime consumer of GV02000D:2's split contest board; classify the restored tiny
+    bath-counter placard (GV16090D:1, (128,0), 32x24, palette 2; GV16091D:3 ANM item 2).
+    Other wooden shop/stall signs remain Japanese. `signs_tour.py` reproduces the
+    accepted contest and three bath contexts; `fieldmap.py` is a navigation preview, never QA evidence.
   - Shared HUD counters: natural Win/Loss/min/sec/later/Match/small-Bonus contexts remain unproved;
     partial M990D:2 item 42 and M990D:3 items 19/20 retain original pixels and need runtime classification.
     `hud_units.py` reproduces the accepted 12-label fixture, 8 natural contexts and record stress case;
@@ -223,11 +252,11 @@ Updated at the end of every session. Keep it to what the next session needs; his
   - Weak short forms to revisit in polish: EXE fireworks items named bare "Dog"/"Monkey"/"Momotaro", 7-byte key
     items "Island" (鬼ヶ島), "Prism" (虹の玉), "Steps" (歩数計).
 - **Open bugs / gaps:**
-  - 9 maps hang when warped (9, 29-31, 34, 187, 201, 204, 294; debug.md): their text needs another way in for
-    phase 8. Story flags not mapped (warped maps show default state). `tools/deadcode.py` output is not safe hook
+  - The nine historical map hangs are resolved by correct initialization and map 294's entry setup;
+    story flags remain unmapped (warped maps show default state). `tools/deadcode.py` output is not safe hook
     space without an exec watch (`tools/lua/deadwatch.lua`, `warp_all.py --debugger`).
   - Phase 8 remains incomplete: most of the 200-row graphics survey, the full visual manifest, caption tour,
-    and nine hanging-map routes remain open. Do not advance to phase 9 on the scoped Status/save verdicts.
+    and the corrected map interaction tour remain open. Do not advance to phase 9 on scoped graphics verdicts.
 - **Waiting on the user:**
   - (resolved, D9) reviews: the run brief allows a fresh read-only pass, so the repo's in-session `reviewer` /
     `visual-qa` agents do the phase 6/8/9 verdicts.

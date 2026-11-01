@@ -31,6 +31,7 @@ import tim  # noqa: E402
 import gfx_results  # noqa: E402
 import gfx_racers  # noqa: E402
 import gfx_hud  # noqa: E402
+import gfx_signs  # noqa: E402
 
 FONT = ROOT / 'fonts' / 'ofl' / 'Fredoka.ttf'
 CLEAR = (0, 0, 0, 0)
@@ -41,6 +42,7 @@ MASK_BUTTON = {'bg': 'fill', 'outline': 0, 'size': 17, 'fill': (248, 248, 248, 2
 MASK_DIM = {**MASK_BUTTON, 'fill': (128, 128, 128, 255)}
 
 LABELS = {
+    **{key: [] for key in gfx_signs.SIGNS},
     'M340D.BIN:1': [],  # gfx_hud extends the counter panel for the full word "times".
     'M050D.BIN:2': [(0, 136, 64, 152, 'Jackpot!', {})],
     'M060D.BIN:2': [
@@ -373,6 +375,8 @@ def generate(keys=None):
             gfx_racers.draw(im, pal)
         if key == 'M340D.BIN:1':
             gfx_hud.draw_panel(im)
+        if key in gfx_signs.SIGNS:
+            gfx_signs.draw(im, key, pal)
         for k in same[t]:
             name, _, e = k.partition(':')
             out = gfx.EN / f'{Path(name).stem}_{e}.png'

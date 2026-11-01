@@ -24,6 +24,8 @@ end
 f:close()
 local s = assert(list[assert(SCENE, "set --var \"SCENE='name'\"")], "unknown scene: " .. tostring(SCENE))
 local kind, num = s[2], tonumber
+local map_init = kind == 'map' and assert(MAP_INIT or num(s[7]),
+    'map scene needs its initializer; regenerate scenes.txt with gen_scenes.py')
 FRAMES = 1e9  -- the run ends HOLD frames after arrival, not at --frames
 
 local presses = {}  -- main-menu presses for this kind
@@ -100,7 +102,7 @@ L.on_frame(function(n)
   elseif kind == "map" or kind == "save" or kind == "mask" then
     if m == 0x4D and age == 0 then mem[MODE & 0x1FFFFF] = 1 end  -- skip the intro; GMAIN starts the opening script
     -- the opening script's next op is its first message (while a message is up, +4 walks the text instead): write
-    -- "0x1D map x y dir 0xFFFE; 0x1E 0x63" (change map, then the op every exit script ends with) over the next ops,
+    -- "0x1D map x y dir 0xFFFE; 0x1E init" (change map, then its original initializer) over the next ops,
     -- close the message, put the words back once they ran. (Hijacking a later map's entry script the same way, for
     -- a two-hop warp, never loaded the second map.)
     if m == 1 and not st.hijack and r32(VM) ~= 0 and r16(VM + 0x44) ~= 2 and r16(r32(VM + 4)) == 2 then
@@ -108,11 +110,18 @@ L.on_frame(function(n)
       -- OPS = {u16, ...}: script ops to run first (e.g. an op 26 caption: tools/debug/caption_ops.py)
       local words = {}
       for _, v in ipairs(OPS or {}) do words[#words + 1] = v end
+      if kind == 'map' and s[8] then
+        for v in s[8]:gmatch('[^,]+') do words[#words + 1] = assert(num(v)) end
+      end
       local tail = kind == "save" and { 0x2D, 0x6A, 3, 0, 0, 0x2E, 3, 0, 0 }
           or kind == "mask" and { 0x2D, 0x46, 2, 1, 0, 0x2E, 3, 0, 0 }
-          or { 0x1D, num(s[3]), num(s[4]), num(s[5]), num(s[6]), 0xFFFE, 0x1E, 0x63 }
+          or { 0x1D, num(s[3]), num(s[4]), num(s[5]), num(s[6]), 0xFFFE }
       for _, v in ipairs(tail) do
         words[#words + 1] = v
+      end
+      if kind == 'map' then
+        if s[9] then for v in s[9]:gmatch('[^,]+') do words[#words + 1] = assert(num(v)) end end
+        words[#words + 1], words[#words + 2] = 0x1E, map_init
       end
       st.orig = {}
       for i, v in ipairs(words) do st.orig[i] = r16(p + (i - 1) * 2); w16(p + (i - 1) * 2, v) end
@@ -129,7 +138,12 @@ L.on_frame(function(n)
         L.log(string.format("f%d restore %s", n, ours and "done" or "skipped (buffer reloaded)"))
         st.orig = nil
       end
-      if st.orig and m == 1 and (n - st.hijack) % 30 == 0 then L.press("circle", 6) end  -- close the message
+      -- Stop message-closing input once map loading starts. A queued Circle
+      -- after the initializer ends otherwise opens "search at your feet".
+      local op = r16(VM + 0x44)
+      if st.orig and m == 1 and op ~= 0x1D and op ~= 0x1E and (n - st.hijack) % 30 == 0 then
+        L.press("circle", 6)
+      end
     end
     if kind == "save" and m == 0x4B and age >= 600 then arrive(n) end
     if kind == "mask" and m == 0x3A and age >= 600 then arrive(n) end

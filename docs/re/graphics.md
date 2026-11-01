@@ -34,6 +34,10 @@ Every Japanese-bearing image found by five read-only reviewers over all 80 sheet
 | hud / other | 9 | 白/赤 team icons (DEF0D:9), speech bubbles (M060D:2, M080D:6), 祭 emblems in ending art (keep), どっち? |
 
 Open for later phases:
+- Field signs: both Pun Contest atlases are English; only GV13000D:2 has a cold display proof. The men's/women's
+  bath curtains have six cold matches across all three atlas copies. Four scoped visual sheets are accepted;
+  the tiny restored bath-counter placard remains unclassified (`field-signs-qa.md`). The corrected map warps
+  now load NPCs/decorations; older background-only map captures cannot establish their graphics coverage.
 - Shared HUD counter progress: twelve further words and M34's wider counter panel have cold proof and
   scoped verdicts in `hud-counters-qa.md`. Natural uses of seven words and three preserved fragment items
   remain open; an English atlas or a clean text log does not close those runtime gaps.

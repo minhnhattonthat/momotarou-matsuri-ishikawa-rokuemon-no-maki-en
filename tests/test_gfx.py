@@ -14,6 +14,7 @@ import gen_card_words  # noqa: E402
 import gfx_results  # noqa: E402
 import gfx_racers  # noqa: E402
 import gfx_hud  # noqa: E402
+import gfx_signs  # noqa: E402
 import tim  # noqa: E402
 
 pytestmark = pytest.mark.skipif(not gfx.TREE.exists(), reason="needs work/disc (dumpsxiso)")
@@ -64,6 +65,8 @@ def test_redraws_change_only_declared_label_rectangles():
             rects += [gfx_racers.RECT]
         if key == 'M340D.BIN:1':
             rects += [gfx_hud.PANEL_RECT]
+        for _, pieces, _, _, _, _ in gfx_signs.SIGNS.get(key, []):
+            rects += [(u, v, u + w, v + h) for u, v, w, h, _, _ in pieces]
         rects += [(u, v, u + w, v + h) for _, pieces in gen_gfx.COMPOSITES.get(key, [])
                   for u, v, w, h, _, _ in pieces]
         name, entry = key.split(':')

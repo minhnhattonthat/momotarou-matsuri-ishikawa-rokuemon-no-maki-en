@@ -15,12 +15,16 @@ import gen_scenes
 from warp_all import ORIG
 
 OUT = os.path.join(ROOT, 'work', 'qa', 'arrivals')
+INITIALIZERS = gen_scenes.initializers()
 
 
 def attempt(m, pos):
     name = f'm{m}_{pos[0]}_{pos[1]}_{pos[2]}'
     lst = os.path.join(OUT, name + '.txt')
-    open(lst, 'w').write(f'{name} map {m} {pos[0]} {pos[1]} {pos[2]}\n')
+    extra = ''
+    if m in gen_scenes.MAP_OPS:
+        extra = ' ' + ' '.join(','.join(f'0x{v:X}' for v in ops) for ops in gen_scenes.MAP_OPS[m])
+    open(lst, 'w').write(f'{name} map {m} {pos[0]} {pos[1]} {pos[2]} 0x{INITIALIZERS[m]:03X}{extra}\n')
     d = os.path.join(OUT, name)
     p = subprocess.run([sys.executable, '-X', 'utf8', os.path.join(SKILL, 'scripts', 'emu.py'), ORIG, '--out', d,
                         '--script', os.path.join(HERE, 'warp.lua'), '--var', f"SCENE='{name}'",
