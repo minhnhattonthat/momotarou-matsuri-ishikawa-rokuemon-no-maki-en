@@ -80,3 +80,40 @@ def test_plaques_remove_both_original_engraving_colours(word, atlases, span, off
                               and mask.getpixel((x - left, y - top)))
                     assert (colour == 12) == bool(letter), (stem, x0 + x, y0 + y)
                     assert colour != 13, (stem, x0 + x, y0 + y)
+
+
+def test_small_games_boards_keep_complete_english_and_remove_japanese():
+    mask = gen_gfx.mask('Games', 7, {'pixel': 'credits7.txt', 'tight': True})
+    mask = mask.resize((mask.width * 2, 14), Image.Resampling.NEAREST)
+    assert mask.width <= 44
+    for key, u, v in gfx_signs.ENGRAVED_GAMES:
+        revised = gfx.indices(gen_gfx.redrawn(key))
+        width = gfx.layout(gen_gfx.original(key)[0])[1]
+        left = 9 + (44 - mask.width) // 2
+        for y in range(14):
+            for x in range(9, 53):
+                colour = revised[(v + y) * width + u + x]
+                letter = left <= x < left + mask.width and mask.getpixel((x - left, y))
+                assert (colour == 12) == bool(letter), (key, x, y)
+                assert colour != 13, (key, x, y)
+
+
+def test_shop_names_use_complete_strokes_in_the_inserted_palette():
+    # Night CLUT 0 aliases wood and ink; inspect inserted indices, not just PNGs.
+    for key, signs in gfx_signs.SIGNS.items():
+        selected = [s for s in signs if s[0] in ('produce', 'fish')]
+        if not selected:
+            continue
+        revised = gfx.indices(gen_gfx.redrawn(key))
+        width = gfx.layout(gen_gfx.original(key)[0])[1]
+        for _, pieces, (x0, y0, x1, y1), lines, _, _ in selected:
+            u, v, _, _, _, _ = pieces[0]
+            mask = gen_gfx.mask(lines[0], 7, {'pixel': 'credits7.txt', 'tight': True})
+            left, top = x0 + (x1 - x0 - mask.width) // 2, y0 + (y1 - y0 - 7) // 2
+            for y in range(y0, y1):
+                for x in range(x0, x1):
+                    colour = revised[(v + y) * width + u + x]
+                    letter = (left <= x < left + mask.width and top <= y < top + 7
+                              and mask.getpixel((x - left, y - top)))
+                    assert (colour == 12) == bool(letter), (key, x, y)
+                    assert colour != 13, (key, x, y)

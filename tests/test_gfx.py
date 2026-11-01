@@ -105,10 +105,10 @@ def test_intro_props_preserve_silhouettes_cloth_and_fan_handles():
                 assert before.crop(rect).tobytes() == after.crop(rect).tobytes()
 
 
-def test_games_signs_preserve_every_pixel_outside_lettering():
+def test_wood_games_signs_preserve_every_pixel_outside_lettering():
     from PIL import Image
     for key, signs in gfx_signs.SIGNS.items():
-        if not any(sign[0] == 'games' for sign in signs):
+        if not any(sign[0] == 'games' and sign[-1] == 'wood' for sign in signs):
             continue
         _, before = gen_gfx.original(key)
         name, entry = key.split(':')

@@ -4,6 +4,20 @@ Updated at the end of every session. Keep it to what the next session needs; his
 
 - **Phase:** **8 in progress** (QA in the emulator), then 9 (release).
 - **Done (phase 8 so far, 2026-11-02):**
+  - Games/Produce/Fish Shop checkpoint: **20 sign placements in 18 atlases** translated; complete mask
+    sweeps cover seven new Games, nine Produce and four Fish Shop textures. **24/24 cold placements
+    pass on both discs** (10 Games, 10 Produce, 4 Fish Shop). Read-only D10 review accepts all 24 detail
+    pairs; Games gate **20/20 ok**, shop gate **22 ok / 6 issues** for other plaques/banners.
+    `shop-boards-qa.md` and two verdict TSVs record sources, exact hashes, routes and limits.
+  - Maps99/100's native initializer starts Dog's event and moves Momotaro to the southern entrance.
+    Their Produce routes use native op2B to set only flags 0x6F=0 and 0x90=3 before the full initializer;
+    these are explicit graphics fixtures, not story-progress verdicts. Map208's Fish Shop copy remains
+    runtime-unproved. Flower, footwear/weapon/armor, item/medicine and bath plaques still need work.
+  - Latest validation: **111 tests / lint 0**, verifier **394 changed files / 0 errors**, cold main smoke
+    `shop_boards8_main_smoke` passed; **0 Japanese lines in 24 logs** (graphics excluded). Main disc:
+    **182,451,696 bytes**, build **2026-11-01 13:39:20 UTC**, SHA-1
+    **1af379e36d3a23e8bc65b2ec8f131508afc16f9d** (identical to `build/shops8.bin`).
+    **Phase 8 has not met its done-when; do not advance to phase 9.**
   - Tea/Bank plaques: **28 Tea + 23 Bank placements across 28 atlases** translated, including M220D.
     Both engraved variants were swept by complete pixel masks. Bank uses a 16-pixel source span,
     preserving the complete word and all surrounding art; night Tea uses the existing CLUT-1 fix.
@@ -401,12 +415,14 @@ Updated at the end of every session. Keep it to what the next session needs; his
     bath-counter placard is now Private Today, verified under palette 2 in all three contexts (`small-props-qa.md`).
     Five Games atlases now have six accepted cold placements (`games-signs-qa.md`); other Games variants
     #481/#514 Games boards are now accepted in five more contexts; #562 still needs classification,
-    and equipment/produce shop and stall signs remain Japanese. Both Inn glyph families now have
+    and other equipment/shop and sprite-strip signs remain Japanese. Both Inn glyph families now have
     26 accepted cold placements (`inn-signs-qa.md`); seven context findings keep their gate red.
     Static/underlying copies and map208 remain unproved.
     Tea/Bank glyph families now have 48 accepted cold placements (`tea-bank-signs-qa.md`); their broader
-    views expose additional Japanese Games boards in **maps80/81 and 263**, plus Fish Shop, medicine,
-    item/equipment and bath plaques. Follow the 18 whole-scene issues in `tea-bank-signs-verdicts.tsv`.
+    views exposed Games boards in maps80/81 and 263 plus Produce/Fish Shop boards, now covered by
+    `shop-boards-qa.md` (24 cold placements). Medicine, item/equipment, flower and bath plaques remain;
+    follow the six new issues in `shop-boards-verdicts.tsv` and the unresolved portions of the 18 older
+    whole-scene issues in `tea-bank-signs-verdicts.tsv`. Historical verdicts are not retroactively changed.
     `plaque_consumers.py tea|bank` gives static navigation leads; `signs_tour.py --only tea* / bank*`
     means the explicit named cases in its CASES table (the CLI does not expand wildcards).
     `gfxfind_rect.py --indices 12 13` finds complete engraved-glyph copies; `inn_consumers.py` lists their
@@ -434,7 +450,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
     M990D:0's 40 large winner/ordinal states are now translated and cold-rendered (`results-qa.md`);
     normal gameplay progression still needs tour coverage. Small Bonus now uses a separate English sprite;
     its original overlapping fragment users remain intact and unclassified. See `docs/re/hud-counters-qa.md`.
-  - Graphics text (D5: all of it; docs/re/gfx_survey.tsv, 201 rows): product-title logo variants are now
+  - Graphics text (D5: all of it; docs/re/gfx_survey.tsv, 202 rows): product-title logo variants are now
     explicitly retained under D5 (`graphics.md`). Remaining work: NAME0D:0 mode-menu shots,
     remaining M990D fragment/context classification, remaining banners
     (GV02000D:2, GV13000D:2...), HOUGEN0D:0 new-card tag, ending-art signs/emblems,
@@ -463,7 +479,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
   - The nine historical map hangs are resolved by correct initialization and map 294's entry setup;
     story flags remain unmapped (warped maps show default state). `tools/deadcode.py` output is not safe hook
     space without an exec watch (`tools/lua/deadwatch.lua`, `warp_all.py --debugger`).
-  - Phase 8 remains incomplete: much of the 201-row graphics survey, the full visual manifest,
+  - Phase 8 remains incomplete: much of the 202-row graphics survey, the full visual manifest,
     and the corrected map interaction tour remain open. Do not advance to phase 9 on scoped graphics verdicts.
 - **Waiting on the user:**
   - (resolved, D9) reviews: the run brief allows a fresh read-only pass, so the repo's in-session `reviewer` /

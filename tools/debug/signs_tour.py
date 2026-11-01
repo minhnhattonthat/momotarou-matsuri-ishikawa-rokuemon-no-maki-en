@@ -22,6 +22,30 @@ import gen_scenes  # noqa: E402
 from field_signs import check  # noqa: E402
 
 CASES = {
+    'produce45': (45, 38, 29, 0, 'GV01000D.BIN:0'),
+    'produce80': (80, 21, 43, 0, 'GV04000D.BIN:0'),
+    'produce81': (81, 21, 43, 0, 'GV04002D.BIN:0'),
+    'produce99': (99, 20, 35, 0, 'GV06000D.BIN:0'),
+    'produce100': (100, 20, 35, 0, 'GV06000D.BIN:0'),
+    'produce143': (143, 32, 25, 0, 'GV12000D.BIN:0'),
+    'produce144': (144, 32, 25, 0, 'GV12002D.BIN:0'),
+    'produce163': (163, 20, 29, 0, 'GV13000D.BIN:0'),
+    'produce285': (285, 29, 26, 0, 'GV30002D.BIN:0'),
+    'produce286': (286, 29, 26, 0, 'GV30000D.BIN:0'),
+    'fish126': (126, 30, 46, 0, 'GV09000D.BIN:0'),
+    'fish237': (237, 32, 29, 0, 'GV22000D.BIN:0'),
+    'fish238': (238, 32, 29, 0, 'GV22000D.BIN:0'),
+    'fish207': (207, 28, 41, 0, 'GV20000D.BIN:0'),
+    'games59a': (59, 22, 98, 0, 'GV02000D.BIN:2'),
+    'games59b': (59, 38, 98, 0, 'GV02000D.BIN:2'),
+    'games80': (80, 23, 27, 0, 'GV04000D.BIN:0'),
+    'games81': (81, 23, 27, 0, 'GV04002D.BIN:0'),
+    'games126': (126, 57, 28, 0, 'GV09000D.BIN:3'),
+    'games223': (223, 21, 30, 0, 'GV21000D.BIN:0'),
+    'games263a': (263, 27, 49, 0, 'GV23000D.BIN:2'),
+    'games263b': (263, 60, 49, 0, 'GV23000D.BIN:2'),
+    'games320': (320, 54, 27, 0, 'GV36000D.BIN:0'),
+    'games321': (321, 54, 27, 0, 'GV36000D.BIN:0'),
     'contest': (163, 40, 33, 0, 'GV13000D.BIN:2'),
     'bath189': (189, 21, 24, 2, 'GV16090D.BIN:1'),
     'bath332': (332, 21, 24, 2, 'GV16090D.BIN:1'),
@@ -137,6 +161,12 @@ def run(name, args, initializers):
                    '--out', str(out), '--script', str(ROOT / 'tools/debug/warp.lua'),
                    '--script', str(ROOT / 'tools/lua/textlog.lua'), '--var', f"SCENE='{name}'",
                    '--var', f'SCENES=[[{scenes.resolve().as_posix()}]]', '--frames', '1', '--timeout', '120']
+        if name in ('produce99', 'produce100'):
+            # GSV0600D:1 +0x3F6 checks flags 0x6F/0x90 before dispatching
+            # Dog's forced-entry event. Native 2B writes exactly these two
+            # two-bit flags; the full initializer still loads all map actors.
+            # This is a graphics fixture, not proof of natural story progress.
+            command += ['--var', 'OPS={0x2B,0x6F,0,0x2B,0x90,3}']
         if name.startswith('bath'):
             command += ['--script', str(ROOT / 'tools/debug/field_walk.lua'), '--var', 'HOLD=-1',
                         '--var', f'WALK_MAP={m}', '--var', "WALK={{'up',160}}"]
@@ -150,7 +180,10 @@ def run(name, args, initializers):
                        weather=m == 237, labels=CASE_LABELS.get(
                            name, ('inn',) if name.startswith('inn') else
                            ('tea',) if name.startswith('tea') else
-                           ('bank',) if name.startswith('bank') else None))
+                           ('bank',) if name.startswith('bank') else
+                           ('produce',) if name.startswith('produce') else
+                           ('fish',) if name.startswith('fish') else
+                           ('games',) if name.startswith('games') else None))
 
 
 def main():

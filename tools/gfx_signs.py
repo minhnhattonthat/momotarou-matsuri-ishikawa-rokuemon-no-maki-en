@@ -120,6 +120,44 @@ for _name, _positions in BANK_ATLASES.items():
              (_x - _left - 1, 1, _x - _left + 15, 14), ['Bank'], None, 'plaque'))
 
 
+# These smaller Games boards use the same engraved ink/highlight indices as
+# the roof plaques. Their actual map tiles are contiguous 64x16 strips; the
+# unused lookalike tiles elsewhere in these atlases are not the runtime source.
+ENGRAVED_GAMES = [
+    ('GV02000D.BIN:2', 64, 184), ('GV04000D.BIN:0', 176, 192),
+    ('GV04002D.BIN:0', 176, 192), ('GV09000D.BIN:3', 16, 64),
+    ('GV21000D.BIN:0', 112, 80), ('GV23000D.BIN:2', 128, 208),
+    ('GV36000D.BIN:0', 160, 160),
+]
+for _key, _u, _v in ENGRAVED_GAMES:
+    SIGNS.setdefault(_key, []).append(
+        ('games', [(_u, _v, 64, 16, 0, 0)], (9, 0, 53, 14),
+         ['Games'], None, 'engraved'))
+
+# Complete index-12/13 glyph masks locate these otherwise different atlases.
+# The compact seven-pixel lettering retains the full shop names and every
+# surrounding board edge. Night artwork uses EDIT_PALETTES as for its Inn.
+PRODUCE_ATLASES = {
+    'GV01000D': (194, 177), 'GV04000D': (106, 185),
+    'GV04002D': (106, 185), 'GV06000D': (18, 81),
+    'GV12000D': (186, 145), 'GV12002D': (186, 145),
+    'GV13000D': (106, 81), 'GV30000D': (114, 65), 'GV30002D': (114, 65),
+}
+for _name, (_x, _y) in PRODUCE_ATLASES.items():
+    SIGNS.setdefault(f'{_name}.BIN:0', []).append(
+        ('produce', [(_x - 9, _y - 1, 64, 16, 0, 0)], (9, 1, 50, 14),
+         ['Produce'], None, 'plaque'))
+
+FISH_ATLASES = {
+    'GV09000D': (120, 65, 13), 'GV22000D': (168, 81, 13),
+    'GV20000D': (152, 81, 14), 'GV20002D': (152, 81, 14),
+}
+for _name, (_x, _y, _height) in FISH_ATLASES.items():
+    SIGNS.setdefault(f'{_name}.BIN:0', []).append(
+        ('fish', [(_x - 8, _y - 1, 64, 16, 0, 0)], (8, 1, 40, 1 + _height),
+         ['Fish Shop'], None, 'plaque'))
+
+
 def assemble(im, pieces):
     out = Image.new('RGBA', (max(x + w for _, _, w, _, x, _ in pieces),
                              max(y + h for _, _, _, h, _, y in pieces)))
@@ -154,7 +192,7 @@ def draw(im, key, pal):
                 assert wood, (key, y)
                 for x in range(x0, x1):
                     px[x, y] = wood[(x - x0) % len(wood)]
-        elif kind == 'plaque':
+        elif kind in ('plaque', 'engraved'):
             # Remove both the engraved stroke and its highlight. Sample only
             # wood colours, leaving the carved board edge and roof untouched.
             import gfx
@@ -180,7 +218,7 @@ def draw(im, key, pal):
                     c = px[x, y]
                     if c[3] and max(c[:3]) - min(c[:3]) <= 24:
                         px[x, y] = cloth[min(cloth, key=lambda sx: abs(sx - x))]
-        scale = 2 if kind == 'wood' else 1
+        scale = 2 if kind in ('wood', 'engraved') else 1
         height = (len(lines) * 8 - 1) * scale
         assert height <= y1 - y0
         for i, line in enumerate(lines):

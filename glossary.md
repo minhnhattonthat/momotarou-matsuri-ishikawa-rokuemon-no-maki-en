@@ -15,6 +15,7 @@ Shared names reuse `../momotarou-densetsu-en/glossary.md` (same series, same own
 - Register: light, comic, all-ages Hudson humour; keep Japanese folklore flavour (oni, ryo, hermits, shrines,
   festivals), translate everything else. Sound effects in plain English or romaji onomatopoeia that reads well.
 - Abbreviations: full names and terms everywhere; prefer engine changes over shortening.
+- Field boards: 八百屋 is Produce and 魚屋 is Fish Shop; keep the complete words on their carved boards.
 - Spelling: American (color, favorite, practice).
 
 ## Style rules
