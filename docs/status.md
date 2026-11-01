@@ -4,6 +4,18 @@ Updated at the end of every session. Keep it to what the next session needs; his
 
 - **Phase:** **8 in progress** (QA in the emulator), then 9 (release).
 - **Done (phase 8 so far, 2026-11-01):**
+  - HUD-counter checkpoint: twelve additional M990D words translated (Total, Win, Loss, min, sec, Floor,
+    later, small Bonus, Match, times, items, pieces). Whole words use unused pixels; shared old fragments
+    remain intact. M34's counter panel extended by eight pixels without losing its borders.
+  - Natural cold routes cover **8 minigames**, plus a true **9999 record** loaded before HUD creation;
+    the assembly fixture covers **12/12 labels**. Fixed right-edge items clipping, Record/9999 overlap,
+    Floor/number order, and the Times panel. Fresh read-only review: **5/5 scoped sheets ok**.
+    The first stress fixture left old dashes over digits; the corrected fixture seeds the actual record
+    fields. Details, exact addresses, original comparisons and verdict hashes: `docs/re/hud-counters-qa.md`.
+  - Latest validation: **68 tests passed**, lint 0; verifier **363 changed files / 0 errors**; cold smoke
+    `work/qa/hudunits8_final3_smoke` passed; final 10 logs have 0 Japanese lines (graphics excluded).
+    Main disc: **182,498,736 bytes**, **2026-11-01 05:57:34 UTC**, SHA-1
+    **e7ff120deca2a8d4b5ec6fe4203af61dca82f363**. **Phase 8 remains incomplete; do not advance to release.**
   - Minigame label/race checkpoint: Jackpot!, Level 1-3 and four speech bubbles, One away!, Miss,
     Rabbit-Turtle Race, Start and the shared Race suffix translated. M230D's sprite-built text is now English:
     all **30 runner names** use full glossary romanizations; rank dot, Lane, Time, Hit and ryo replace five
@@ -13,7 +25,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
     racing, standings, zero payout and Good Work. Review caught seven names with unordered glyph records:
     anchor by minimum x, cap width at 50, preserve the Lane separator. The tiny-dot oracle now has a bounded
     search to reject panel-corner false matches. Details/reproduction: `docs/re/minigame-labels-qa.md`.
-  - Latest validation: **64 tests passed**, lint 0; verifier **363 changed files / 0 errors**; cold smoke
+  - Previous label validation: **64 tests passed**, lint 0; verifier **363 changed files / 0 errors**; cold smoke
     `work/qa/labels8_final4_smoke` passed; nine fixture logs and one natural-race log have 0 Japanese lines.
     Main disc: **182,496,384 bytes**, **2026-11-01 05:21:18 UTC**, SHA-1
     **4ca27d7a3651f537adcaf74d27d913cc7d7dd992**. **Phase 8 remains incomplete; do not advance to release.**
@@ -176,6 +188,10 @@ Updated at the end of every session. Keep it to what the next session needs; his
     156,128 bytes (game_m25/m70-72 minigames), so English growth (a few KB per file) is far from the limit.
     15 runs of that sweep died with emulator exit -1 while other emulators ran; all 15 passed on a rerun.
 - **Next (phase 8):**
+  - Shared HUD counters: natural Win/Loss/min/sec/later/Match/small-Bonus contexts remain unproved;
+    partial M990D:2 item 42 and M990D:3 items 19/20 retain original pixels and need runtime classification.
+    `hud_units.py` reproduces the accepted 12-label fixture, 8 natural contexts and record stress case;
+    `ice.lua` now reaches the left ice-tower course with controller input. Broader versus/record states remain.
   - Minigame labels: M05/M08/M18/M50 have complete sprite-assembly proof, but natural Jackpot, near-win,
     Miss and Start positioning still needs routes. Race Hit/nonzero payout remain fixture-only; the normal
     story return remains untested (both original and English direct warps return to the debug system menu).
@@ -189,11 +205,11 @@ Updated at the end of every session. Keep it to what the next session needs; his
     Which? has fixture proof only. M010 awards and M990D:1 announcements also have full-sprite cold proof.
     The pause fixture does not work while other games are in dialogue, so its exit code alone is not coverage.
     M990D:0's 40 large winner/ordinal states are now translated and cold-rendered (`results-qa.md`);
-    several small HUD counters remain Japanese, and normal gameplay progression still needs tour coverage. Small Bonus at
-    (136,16,40,16) has overlapping fragment users and is untouched. See `docs/re/announcements-qa.md`.
+    normal gameplay progression still needs tour coverage. Small Bonus now uses a separate English sprite;
+    its original overlapping fragment users remain intact and unclassified. See `docs/re/hud-counters-qa.md`.
   - Graphics text (D5: all of it; docs/re/gfx_survey.tsv, 200 rows): classify retained title logos under D5
     (CI0D:3/TITLE0D:3, YUGI0D:1, HOUGEN0D:2, FILESL0D:1); NAME0D:0 mode-menu shots,
-    STATUS0D:0 higher rank shots, remaining M990D:0 small HUD words, remaining banners
+    STATUS0D:0 higher rank shots, remaining M990D fragment/context classification, remaining banners
     (GV02000D:2, GV13000D:2...), HOUGEN0D:0 new-card tag, ending-art signs/emblems,
     illustration SFX/signs on HCARD* cards. Per image: `gfx.py export`, find each sprite's rect (in-game the sprite rect
     can be narrower than the JP atlas row: shoot it), add LABELS, `gen_gfx.py`, build `--out build/g8.bin`, shoot.

@@ -66,6 +66,18 @@ for _box in CHOICE_EXE:
 # their peach cursor sits at a fixed x in the cursor table 0x80082E54 ({u16 x, u16 y} per layout): x 224 -> 208
 CURSOR = {0x80082E68: (0x008C00E0, 0x008C00D0), 0x80082E6C: (0x006C00E0, 0x006C00D0)}
 ORIG.update((a, old) for a, (old, _) in CURSOR.items())
+# Shared HUD layout 9 (object-count games): the full "items" label is 19px.
+# Rightmost unit x280 -> 276; no-record placeholder x256 -> 252; Record
+# x216 -> 200. Four-digit records at x240..271 retain their full range and
+# leave a gap to both the Record heading and the unit.
+HUD_LAYOUT = {0x80040C0C: (0x34638000, 0x34634000),
+              0x8003D918: (0x24050100, 0x240500FC),
+              0x80040B7C: (0x3C03000D, 0x3C03000C),
+              # Layout 14: Japanese "2 floor" -> English "Floor 2".
+              # Label x40 -> 24; two-digit floor number x24 -> 48.
+              0x80041880: (0x3C030002, 0x3C030001),
+              0x8003DAE8: (0x24060018, 0x24060030)}
+ORIG.update((a, old) for a, (old, _) in HUD_LAYOUT.items())
 
 
 def patch_money(data, sites, base, words=MONEY_WORDS, new_words=MONEY_NEW):
@@ -377,7 +389,7 @@ def patch_exe(exe):
     assert len(out) == len(exe)
     out = bytearray(patch_money(patch_money(out, MONEY_EXE, EXE_BASE), CHOICE_EXE, EXE_BASE, CHOICE_WORDS,
                                 CHOICE_NEW))
-    for a, (_, new) in CURSOR.items():
+    for a, (_, new) in (CURSOR | HUD_LAYOUT).items():
         struct.pack_into('<I', out, a - EXE_BASE, new)
     return bytes(out)
 

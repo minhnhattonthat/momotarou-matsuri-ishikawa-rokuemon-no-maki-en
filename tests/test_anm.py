@@ -14,6 +14,7 @@ import gfx  # noqa: E402
 import gfx_layout  # noqa: E402
 import gfx_results  # noqa: E402
 import gfx_racers  # noqa: E402
+import gfx_hud  # noqa: E402
 import verify_build  # noqa: E402
 
 
@@ -81,6 +82,53 @@ def test_shared_hud_words_have_no_partial_sprite_users():
         for x0, y0, x1, y1, label, _ in gen_gfx.LABELS['M990D.BIN:0']:
             assert all(r[1:5] == (x0, y0, x1 - x0, y1 - y0)
                        for _, _, r in anm.references(other, 0x1B, (x0, y0, x1, y1))), (path.name, label)
+
+
+@pytest.mark.skipif(not gfx.TREE.exists(), reason='needs work/disc')
+def test_relocated_hud_preserves_shared_fragments_and_unrelated_fields():
+    from PIL import Image
+    original = (gfx.TREE / 'M990D.BIN').read_bytes()
+    archive = arc.entries(original)
+    for path in gfx.TREE.glob('*.BIN'):
+        assert not list(anm.references(arc.entries(path.read_bytes()) or [], 27, gfx_hud.RECT)), path.name
+    before = anm.items(archive[2][1])
+    after = anm.items(gfx_hud.patch(archive[2][1]))
+    for item, (old, new) in enumerate(zip(before, after)):
+        if item not in gfx_hud.WORDS:
+            assert old == new, item
+        else:
+            assert len(old) == len(new) == 1
+            assert new[0][1:5] == gfx_hud.rect(item)
+            assert new[0][9] == old[0][9] + 4
+            assert all(old[0][i] == new[0][i] for i in (0, 5, 6, 7, 8, 10, 11, 12, 13))
+    source = gen_gfx.original('M990D.BIN:0')[1]
+    target = Image.open(gfx.EN / 'M990D_0.png').convert('RGBA')
+    # Preserve the partial 8x8 user and the announcement tail's 8x24 strip.
+    for rect in ((128, 0, 136, 8), (144, 0, 152, 24), (136, 16, 176, 32)):
+        assert source.crop(rect).tobytes() == target.crop(rect).tobytes()
+    assert verify_build.check_archive('OUTBIN/M990D.BIN', original, gfx.apply('M990D.BIN', original)) == []
+    corrupt = bytearray(archive[2][1])
+    corrupt[-1] ^= 1
+    with pytest.raises(ValueError, match='unexpected original'):
+        gfx_hud.patch(corrupt)
+
+
+@pytest.mark.skipif(not gfx.TREE.exists(), reason='needs work/disc')
+def test_counter_panel_growth_preserves_art_and_only_changes_width():
+    from PIL import Image
+    original = (gfx.TREE / 'M340D.BIN').read_bytes()
+    archive = arc.entries(original)
+    assert not list(anm.references(archive, 7, (240, 152, 248, 184)))
+    before = anm.items(archive[7][1])
+    after = anm.items(gfx_hud.patch_panel(archive[7][1]))
+    assert before[:9] == after[:9] and before[10:] == after[10:]
+    assert all(a == b for i, (a, b) in enumerate(zip(before[9][0], after[9][0])) if i != 3)
+    assert after[9][0][3] == 56
+    source = gen_gfx.original('M340D.BIN:1')[1]
+    target = Image.open(gfx.EN / 'M340D_1.png').convert('RGBA')
+    assert source.crop((192, 152, 224, 184)).tobytes() == target.crop((192, 152, 224, 184)).tobytes()
+    assert source.crop((224, 152, 240, 184)).tobytes() == target.crop((232, 152, 248, 184)).tobytes()
+    assert verify_build.check_archive('OUTBIN/M340D.BIN', original, gfx.apply('M340D.BIN', original)) == []
 
 
 @pytest.mark.skipif(not gfx.TREE.exists(), reason='needs work/disc')

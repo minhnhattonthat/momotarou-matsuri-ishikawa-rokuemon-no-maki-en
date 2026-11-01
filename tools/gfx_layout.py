@@ -13,6 +13,7 @@ from pathlib import Path
 
 import gfx_results
 import gfx_racers
+import gfx_hud
 
 
 TARGET = ('M990D.BIN', 3)
@@ -36,6 +37,10 @@ for level in range(1, 10):
 
 def patch(name, entry, data):
     """Return exact permitted replacement bytes, or None for an unrelated entry."""
+    if (Path(name).name, entry) == ('M990D.BIN', 2):
+        return gfx_hud.patch(data)
+    if (Path(name).name, entry) == ('M340D.BIN', 7):
+        return gfx_hud.patch_panel(data)
     if (Path(name).name, entry) == ('M230D.BIN', 21):
         return gfx_racers.patch(data)
     if (Path(name).name, entry) == ('M230D.BIN', 20):

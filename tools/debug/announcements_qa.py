@@ -96,6 +96,11 @@ def main():
         for path in paths:
             if path.exists() and template.exists():
                 with Image.open(path) as screen, Image.open(template) as expected:
+                    # Cold scans include 1x1 display-off frames. A bounded
+                    # search applies only to frames large enough to hold it.
+                    if args.scan and region and (region[0] + region[2] > screen.width
+                                                 or region[1] + region[3] > screen.height):
+                        continue
                     position = match(screen.convert('RGB'), expected.convert('RGBA'), region)
                 if position is not None:
                     matched = str(path)

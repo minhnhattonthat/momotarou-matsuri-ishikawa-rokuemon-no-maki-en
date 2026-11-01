@@ -34,6 +34,9 @@ Every Japanese-bearing image found by five read-only reviewers over all 80 sheet
 | hud / other | 9 | 白/赤 team icons (DEF0D:9), speech bubbles (M060D:2, M080D:6), 祭 emblems in ending art (keep), どっち? |
 
 Open for later phases:
+- Shared HUD counter progress: twelve further words and M34's wider counter panel have cold proof and
+  scoped verdicts in `hud-counters-qa.md`. Natural uses of seven words and three preserved fragment items
+  remain open; an English atlas or a clean text log does not close those runtime gaps.
 - Rows marked `unsure`/`?` (mostly tiny town signs and flags) need a zoomed look with the right CLUT (phase 8
   decides translate vs. keep-as-art; D5 says translate all graphics text).
 - Not seen in the sweep but on screen in the Daruma minigame: blue `ターン!` (likely an M990D/DEF0D sprite;

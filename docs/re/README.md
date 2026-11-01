@@ -29,6 +29,7 @@ Addresses are for the dump in `rom.sha1` unless a note says otherwise.
 | [masks-qa.md](masks-qa.md) | Mask Maker controls, Mask Album title, preview indentation and controller route | 6/6 control sprites + title; create/accept/return route; 3 scoped sheets ok |
 | [hud-outcomes-qa.md](hud-outcomes-qa.md) | Additional HUD labels, Which?, M59 Lose fragment fix, sprite fixtures and stricter screenshot checks | 24 scoped cold sprite states, 6 visual sheets; natural outcomes and alternate M59 atlas remain open |
 | [minigame-labels-qa.md](minigame-labels-qa.md) | Minigame speech bubbles, remaining small banners, 30 sprite-built race names and five race labels | Cold sprite coverage and natural race evidence; phase-wide QA remains open |
+| [hud-counters-qa.md](hud-counters-qa.md) | Twelve HUD counters, record/floor layout fixes, M34 panel expansion and natural counter routes | Scoped cold coverage; phase-wide QA remains open |
 
 Tools: `tools/iso.py` (LBAs), `tools/arc.py` (archives), `tools/ecd.py` (ECD codec), `tools/tim.py` (TIM decode),
 `tools/gfxdump.py` (static image sweep into `work/gfx/`), `tools/ramfind.py` (which files sit where in a RAM dump),

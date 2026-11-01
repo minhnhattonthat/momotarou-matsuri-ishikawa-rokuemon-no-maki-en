@@ -106,6 +106,31 @@ def test_every_item_has_a_box_budget_and_choices_use_fixed_layouts():
 
 
 @disc
+def test_object_count_record_fits_four_digits_and_full_unit():
+    import gfx_hud
+    source = (TREE / 'SLPM_868.88').read_bytes()
+    patched = engine.patch_exe(source)
+
+    def imm(address):
+        return struct.unpack_from('<I', patched, address - engine.EXE_BASE)[0] & 0xFFFF
+
+    record_x = ((imm(0x80040B7C) << 16) | imm(0x80040B80)) >> 12
+    unit_x = ((imm(0x80040C08) << 16) | imm(0x80040C0C)) >> 12
+    number_x = imm(0x8003D8F8)
+    placeholder_x = imm(0x8003D918)
+    # Four 8px digits and the full 19px English unit must not meet the
+    # Record heading or the panel's right inner edge at x296.
+    assert record_x + 32 + 4 <= number_x
+    assert number_x + 4 * 8 + 4 <= unit_x
+    assert placeholder_x + 2 * 8 + 4 <= unit_x
+    assert unit_x + gfx_hud.rect(78)[2] < 296
+    floor_x = ((imm(0x80041880) << 16) | imm(0x80041884)) >> 12
+    floor_number = imm(0x8003DAE8)
+    assert floor_x + gfx_hud.rect(34)[2] + 4 <= floor_number
+    assert floor_number + 2 * 8 < 88  # next timer icon begins at x88
+
+
+@disc
 def test_long_overlay_string_moves_into_slack_and_every_ref_follows():
     import codestr
     import insert
