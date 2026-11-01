@@ -4,6 +4,26 @@ Updated at the end of every session. Keep it to what the next session needs; his
 
 - **Phase:** **8 in progress** (QA in the emulator), then 9 (release).
 - **Done (phase 8 so far, 2026-11-01):**
+  - Games-board checkpoint: **five atlases / six cold placements** now say Games. Actual CLUT ink and
+    clean-wood sampling were corrected after rejected captures; every pixel outside lettering is preserved.
+    Fresh read-only D10 review accepts **12/12 scoped context/detail sheets** (`games-signs-qa.md`).
+    Survey rows #448/#456/#468/#547/#556 updated; other Games and roof-sign variants remain open.
+  - Current validation: **103 tests / lint 0**, including the final wood repair's preservation test.
+    Verifier **373 changed files / 0 errors**,
+    cold smoke `games_signs8_fixed_smoke` passed, **6/6 complete signs / 0 Japanese lines in 6 logs**.
+    Main disc: **182,454,048 bytes**, **2026-11-01 11:40:47 UTC**,
+    SHA-1 **606ce85331274eff4e3e495021c391f1f2e29112**.
+  - Corrected-initializer tour finished: frozen card-prop disc **464/465 scenes**, **0 Japanese lines in
+    464 logs**; map284 failed. A clearly recorded current-build retry supplies its visual pair. Fresh
+    read-only review covers **78 arrival/final sheets / 465 pairs**, with **0 missing verdicts, 25 not ok**.
+    `corrected-tour-qa.md` and `corrected-tour-verdicts.tsv` preserve build hashes, scene order, sheet hashes
+    and findings. This mixed-build audit does not approve all intermediate text, NPC dialogue or story flags.
+  - Map284's dir-0 workaround is not reliable across builds: frozen tour + two isolated retries stall on
+    op001D; original and two current-build runs pass. `map_watch.lua` is a read-only diagnostic. Root cause
+    remains unresolved; do not weaken the warp's completion check or claim the new graphics fixed loading.
+  - Static consumer lookup now follows paired map-table archives and page/CLUT identity. GV02000D:2's
+    split contest board has **0 static tile/ANM matches** in paired map59/GV02001D; this narrows the search,
+    not proof of native/story unreachability. Known GV13000D:2 board gives nine tile matches as a control.
   - Card-prop checkpoint: **20 sign/emblem placements on 18 cards** translated (Sake, 1000 ryo,
     Dumplings, Puffer fish, K/P initials and E crown marks), with **five marginal-caption fringe fixes**.
     `gfx_card_props.py` preserves blue curtain waves and adjacent object borders; added K/P to MIT hud7.
@@ -336,14 +356,16 @@ Updated at the end of every session. Keep it to what the next session needs; his
   - Character names, fan lettering and coat numerals have natural attract-mode proof. `character-intro-qa.md`
     and `character-props-qa.md` record exact bounds and cold routes. GCV0310's four placeholders have no
     literal message references (`portrait-audit.md`); reopen if runtime evidence ever displays them.
-  - Re-run the full text/visual tour with the corrected destination initializers. Older map shots lacked the
-    proper actors and cannot support complete dialogue, animated decoration or story-state coverage. Use
-    `map-initializers.md` and `work/qa/mapinit8_all/result.tsv` for the 358 passing cold entries; add interaction
-    and later-story routes rather than treating that arrival count as full text coverage.
+  - Finish the corrected tour's **25 non-ok sheets** using `corrected-tour-verdicts.tsv`; classify the
+    snow-event placard, shrine paper charms and round banner emblem, then fix remaining signs/costume marks.
+    Resolve map284's build-dependent op001D stall and rerun affected cases on the final build. Review
+    intermediate text frames and add NPC interaction/later-story routes: 465 arrival/final pairs are not
+    complete dialogue or story-state coverage. Older pre-initializer shots remain superseded.
   - Field signs: locate the runtime consumer of GV02000D:2's split contest board. The restored tiny
     bath-counter placard is now Private Today, verified under palette 2 in all three contexts (`small-props-qa.md`).
-    Other wooden shop/stall signs remain Japanese. `signs_tour.py` reproduces the
-    accepted contest and three bath contexts; `fieldmap.py` is a navigation preview, never QA evidence.
+    Five Games atlases now have six accepted cold placements (`games-signs-qa.md`); other Games variants
+    #481/#514/#562 and wooden shop/stall signs remain Japanese. `signs_tour.py --only` reproduces the
+    new Games, accepted contest and bath contexts; `fieldmap.py` is a navigation preview, never QA evidence.
   - Shared HUD counters: natural Win/Loss/min/sec/later/Match/small-Bonus contexts remain unproved;
     partial M990D:2 item 42 and M990D:3 items 19/20 retain original pixels and need runtime classification.
     `hud_units.py` reproduces the accepted 12-label fixture, 8 natural contexts and record stress case;
@@ -389,6 +411,9 @@ Updated at the end of every session. Keep it to what the next session needs; his
   - Weak short forms to revisit in polish: EXE fireworks items named bare "Dog"/"Monkey"/"Momotaro", 7-byte key
     items "Island" (鬼ヶ島), "Prism" (虹の玉), "Steps" (歩数計).
 - **Open bugs / gaps:**
+  - Map284 fails to complete loading on frozen disc 1ff27c30c241edca355a724a9fce8e56d94f36cf even with
+    direction 0 and its correct initializer; the current Games-sign build and original pass. Preserve the
+    frozen build and `tour8_frozen284_probe` evidence. `corrected-tour-qa.md` records the unresolved regression.
   - The nine historical map hangs are resolved by correct initialization and map 294's entry setup;
     story flags remain unmapped (warped maps show default state). `tools/deadcode.py` output is not safe hook
     space without an exec watch (`tools/lua/deadwatch.lua`, `warp_all.py --debugger`).

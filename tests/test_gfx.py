@@ -105,6 +105,31 @@ def test_intro_props_preserve_silhouettes_cloth_and_fan_handles():
                 assert before.crop(rect).tobytes() == after.crop(rect).tobytes()
 
 
+def test_games_signs_preserve_every_pixel_outside_lettering():
+    from PIL import Image
+    for key, signs in gfx_signs.SIGNS.items():
+        if not any(sign[0] == 'games' for sign in signs):
+            continue
+        _, before = gen_gfx.original(key)
+        name, entry = key.split(':')
+        after = Image.open(gfx.EN / f'{Path(name).stem}_{entry}.png').convert('RGBA')
+        _, pieces, rect, *_ = signs[0]
+        u, v, *_ = pieces[0]
+        x0, y0, x1, y1 = rect
+        texture, _ = gen_gfx.original(key)
+        redrawn = gfx.indices(gfx.redraw(texture, gfx.EN / f'{Path(name).stem}_{entry}.png'))
+        lettering = [redrawn[y * before.width + x] for y in range(v + y0, v + y1)
+                     for x in range(u + x0, u + x1)]
+        # Native roof CLUTs use index12 for cream lettering. Index1 looks
+        # cream in the editing CLUT but becomes illegible blue/purple.
+        assert lettering.count(12) >= 200
+        assert set(lettering) <= set(range(7, 13))  # no roof pixels borrowed into the narrow board
+        for y in range(before.height):
+            for x in range(before.width):
+                if not (u + x0 <= x < u + x1 and v + y0 <= y < v + y1):
+                    assert before.getpixel((x, y)) == after.getpixel((x, y)), (key, x, y)
+
+
 def test_roundtrip_and_one_pixel(tmp_path):
     for name, e in (("CI0D.BIN", 3), ("NAME0D.BIN", 0)):
         t, _ = gfx.unpack(arc.entries((gfx.TREE / name).read_bytes())[e][1])

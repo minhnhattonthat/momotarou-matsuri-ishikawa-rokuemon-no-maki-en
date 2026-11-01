@@ -45,12 +45,12 @@ id	source	kind	japanese	note
 #433	GV09000D.BIN:3	sign	row of 5 round kanji plaques	sign strip
 #446	GV11000D.BIN:2	sign	鬼の実? (6 red vertical nobori flags, 3 kanji each)	best effort
 #447	GV12000D.BIN:0	sign	town signs: 八百屋? + kanji	snow town tileset
-#448	GV12000D.BIN:1	sign	large wooden board with ~3 kana (ゆ?..)	unsure
+#448	GV12000D.BIN:1	sign	ゆうぎ -> Games	English; complete cold map143 lettering + context/detail verdicts, games-signs-qa.md
 #455	GV12002D.BIN:0	sign	town signs incl 八百屋?	snow town
-#456	GV12002D.BIN:1	sign	wooden board ゆ??	same as #448
+#456	GV12002D.BIN:1	sign	ゆうぎ -> Games	English; complete cold map144 lettering + context/detail verdicts, games-signs-qa.md
 #459	GV12002D.BIN:4	other	き? (single glyph on a snow statue)	unsure if text
 #467	GV13000D.BIN:0	sign	town signs incl 八百屋?	unsure
-#468	GV13000D.BIN:1	sign	ゆ?? (3 kana on wooden board)	recurs #481 #514 #547 #556 #562
+#468	GV13000D.BIN:1	sign	ゆうぎ -> Games	English; complete cold map163 lettering + context/detail verdicts, games-signs-qa.md; other variants #481 #514 #562 remain open
 #469	GV13000D.BIN:2	banner	天下一だじゃれ大会	World's Greatest Pun Contest; complete cold palette-2 lettering match and scoped visual verdict; field-signs-qa.md
 #478	GV16000D.BIN:0	sign	ゆ 衣 茶 舗? と 宿 (long signboard)	bath/inn town; unsure
 #481	GV16000D.BIN:3	sign	ゆ?? board; 湯? / 亭? roof signs	unsure
@@ -64,10 +64,10 @@ id	source	kind	japanese	note
 #513	GV22000D.BIN:0	sign	row of kanji shop signs	unsure
 #514	GV22000D.BIN:1	sign	ゆ?? board	unsure
 #538	GV30000D.BIN:0	sign	八百屋? small board	unsure
-#547	GV32000D.BIN:1	sign	ゆ?? long board	unsure
+#547	GV32000D.BIN:1	sign	ゆうぎ -> Games	English; complete cold map295 lettering + context/detail verdicts, games-signs-qa.md
 #549	GV32000D.BIN:3	sign	8 round kanji plaques + 八百屋 + 2 small	sign strip
 #555	GV34000D.BIN:0	sign	town signs	unsure
-#556	GV34000D.BIN:1	sign	ゆ?? board	unsure
+#556	GV34000D.BIN:1	sign	ゆうぎ -> Games	English; both map306 placements cold-rendered, context/detail verdicts, games-signs-qa.md
 #561	GV36000D.BIN:0	sign	town signs incl 湯? plaque	unsure
 #562	GV36000D.BIN:1	sign	ゆ?? board	unsure
 #565	GV37000D.BIN:0	sign	旅籠場? (4-char wooden board)	reading unsure

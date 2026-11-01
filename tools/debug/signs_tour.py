@@ -26,6 +26,12 @@ CASES = {
     'bath189': (189, 21, 24, 2, 'GV16090D.BIN:1'),
     'bath332': (332, 21, 24, 2, 'GV16090D.BIN:1'),
     'bath333': (333, 21, 24, 2, 'GV16090D.BIN:1'),
+    'games143': (143, 120, 26, 0, 'GV12000D.BIN:1'),
+    'games144': (144, 120, 26, 0, 'GV12002D.BIN:1'),
+    'games163': (163, 57, 32, 0, 'GV13000D.BIN:1'),
+    'games295': (295, 19, 27, 0, 'GV32000D.BIN:1'),
+    'games306a': (306, 21, 26, 0, 'GV34000D.BIN:1'),
+    'games306b': (306, 60, 42, 0, 'GV34000D.BIN:1'),
 }
 
 
@@ -67,18 +73,19 @@ def main():
     ap.add_argument('--cue', type=Path, help='alternate built disc; --original still selects reference pixels')
     ap.add_argument('--check-only', action='store_true')
     ap.add_argument('--jobs', type=int, default=3)
+    ap.add_argument('--only', nargs='+', choices=sorted(CASES), help='limit to these named routes')
     args = ap.parse_args()
     args.out.mkdir(parents=True, exist_ok=True)
     initializers = gen_scenes.initializers()
     with ThreadPoolExecutor(args.jobs) as pool:
-        results = list(pool.map(lambda name: run(name, args, initializers), CASES))
+        results = list(pool.map(lambda name: run(name, args, initializers), args.only or CASES))
     rows = [(name, *r) for name, group in results for r in group]
     with (args.out / 'coverage.tsv').open('w', encoding='utf-8', newline='') as f:
         writer = csv.writer(f, delimiter='\t', lineterminator='\n')
         writer.writerow(('case', 'atlas', 'sign', 'status', 'screenshot', 'position', 'palette'))
         writer.writerows(rows)
     failed = [r for r in rows if r[3] != 'ok']
-    print(f'{len(rows) - len(failed)}/{len(rows)} complete signs in four cold map contexts')
+    print(f'{len(rows) - len(failed)}/{len(rows)} complete signs in {len(results)} cold map contexts')
     for row in failed:
         print(row)
     return bool(failed)

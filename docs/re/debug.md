@@ -77,7 +77,13 @@ Map 284 (GV2500): the en build never loaded it from (19,11) dir 2 (GSD0000D's de
 0x1D op, frames keep running, heap A only half used), while the original did. Not text or memory: reverting
 single scripts did not help, only all GSV*+GSF0* together, and sector shifts of the map files flip it either way
 (GV25000D at LBA 40649 ok, 40650 fails, 40666 ok): a CD-timing race in the warp. Dir 0 (GSF0000D's own entry,
-the route the game uses) loads in both builds: OVERRIDE in gen_scenes.py.
+the route the game uses) loaded in both builds at that checkpoint: OVERRIDE in gen_scenes.py.
+**Reopened 2026-11-01:** direction 0 also fails repeatedly on the frozen card-prop
+build, while the original and current Games-sign build pass. The VM remains on
+op 001D despite the map-number variable changing to 284. `corrected-tour-qa.md`
+records the exact builds, repeated cold cases and read-only `map_watch.lua`
+trace. The layout/timing dependency remains unresolved; do not call dir 0 a
+general fix or count a map-number change as completed loading.
 
 `OPS={u16,...}` (warp.lua var) writes extra ops before the map change at the hijack, e.g. an op 26 caption from
 `tools/debug/caption_ops.py ID`: the game's own caption handler draws it, then the map changes.

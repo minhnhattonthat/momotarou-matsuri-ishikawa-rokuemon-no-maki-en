@@ -28,9 +28,12 @@ Standing non-bugs, `ok` (the controller adds the game's own below):
 - text still typing out, a box mid-fade or mid-scroll, a cursor caught mid-blink;
 - a map or scene still loading after a warp;
 - anything identical in the original's sheet.
-- Japanese drawn as pictures (title logo, banners like 勝ち!/負け!, minigame HUD words, dialect cards, signs,
-  staff roll, name plates) is tracked separately in `docs/re/gfx_survey.tsv`: `ok`, note `gfx: <what>`. Japanese
-  drawn with the text font (dialogue, menus, choices) is an `issue`.
+- Product-title logos specifically classified under D5 in `docs/re/graphics.md` may stay Japanese.
+  Other Japanese graphics text is an `issue`, including signs, emblems, banners and cards; the separate
+  `gfx_survey.tsv` inventory does not waive the phase-8 requirement. Mark tiny uncertain lettering for
+  zoomed classification rather than approving it as decoration without evidence.
+- `game_m99_3d` shows a HUD over black on the original too (`work/qa/tour8_m99_original`); this direct
+  helper-context warp is not a translation regression or proof of gameplay coverage.
 - Each sheet is one warp from a cold boot (`tools/debug/scenes.txt`): the first tiles show the warp and loading;
   a scene's default state (story flags not set) is the game's.
 

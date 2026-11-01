@@ -16,6 +16,26 @@ SIGNS = {
         ('contest', [(0, 0, 144, 16, 0, 0)], (3, 2, 141, 14),
          ["World's Greatest Pun Contest"], (64, 56, 40, 255), 'panel'),
     ],
+    'GV12000D.BIN:1': [
+        ('games', [(128, 0, 80, 48, 0, 0)], (23, 16, 69, 31),
+         ['Games'], (56, 32, 0, 255), 'wood'),
+    ],
+    'GV12002D.BIN:1': [
+        ('games', [(128, 0, 80, 48, 0, 0)], (23, 16, 69, 31),
+         ['Games'], (56, 32, 0, 255), 'wood'),
+    ],
+    'GV13000D.BIN:1': [
+        ('games', [(96, 176, 80, 48, 0, 0)], (23, 16, 69, 31),
+         ['Games'], (56, 32, 0, 255), 'wood'),
+    ],
+    'GV32000D.BIN:1': [
+        ('games', [(64, 128, 80, 48, 0, 0)], (23, 16, 69, 31),
+         ['Games'], (56, 32, 0, 255), 'wood'),
+    ],
+    'GV34000D.BIN:1': [
+        ('games', [(32, 208, 80, 48, 0, 0)], (23, 16, 69, 31),
+         ['Games'], (56, 32, 0, 255), 'wood'),
+    ],
     'GV16090D.BIN:1': [
         ('men', [(0, 0, 56, 32, 0, 0)], (5, 5, 54, 27),
          ["Men's", 'Bath'], (208, 208, 208, 255), 'curtain'),
@@ -46,6 +66,19 @@ def draw(im, key, pal):
             for y in range(y0, y1):
                 for x in range(x0, x1):
                     px[x, y] = background
+        elif kind == 'wood':
+            # Index 12 is dark in CLUT 0 but cream in the actual roof/sign
+            # CLUTs 9-11. Index 1 would become blue/purple at runtime.
+            # Borrow clean wood immediately left of the lettering. Narrow
+            # boards expose roof pixels in that band, so admit only wood
+            # indices 7-11 (expressed in the editing CLUT's colours).
+            wood_colours = {(168, 112, 56, 255), (152, 96, 32, 255), (136, 80, 32, 255),
+                            (120, 64, 24, 255), (88, 40, 0, 255)}
+            for y in range(y0, y1):
+                wood = [px[x, y] for x in range(17, 23) if px[x, y] in wood_colours]
+                assert wood, (key, y)
+                for x in range(x0, x1):
+                    px[x, y] = wood[(x - x0) % len(wood)]
         else:
             # The original lettering is grey; keep the coloured cloth and its
             # transparent silhouette. Borrow cloth only from the same row.
@@ -57,12 +90,15 @@ def draw(im, key, pal):
                     c = px[x, y]
                     if c[3] and max(c[:3]) - min(c[:3]) <= 24:
                         px[x, y] = cloth[min(cloth, key=lambda sx: abs(sx - x))]
-        height = len(lines) * 8 - 1
+        scale = 2 if kind == 'wood' else 1
+        height = (len(lines) * 8 - 1) * scale
         assert height <= y1 - y0
         for i, line in enumerate(lines):
             mask = gen_gfx.mask(line, 7, {'pixel': 'credits7.txt', 'tight': True})
+            if scale != 1:
+                mask = mask.resize((mask.width * scale, mask.height * scale), Image.Resampling.NEAREST)
             assert mask.width <= x1 - x0, (key, line)
-            xy = (x0 + (x1 - x0 - mask.width) // 2, y0 + (y1 - y0 - height) // 2 + i * 8)
+            xy = (x0 + (x1 - x0 - mask.width) // 2, y0 + (y1 - y0 - height) // 2 + i * 8 * scale)
             board.paste(colour, (*xy, xy[0] + mask.width, xy[1] + mask.height), mask)
         assert set(board.getdata()) <= pal
         for u, v, w, h, x, y in pieces:

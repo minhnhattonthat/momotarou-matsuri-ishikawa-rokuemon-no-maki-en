@@ -46,6 +46,12 @@ Every Japanese-bearing image found by five read-only reviewers over all 80 sheet
 | hud / other | 9 | 白/赤 team icons (DEF0D:9), speech bubbles (M060D:2, M080D:6), 祭 emblems in ending art (keep), どっち? |
 
 Open for later phases:
+- Five Games boards now have six complete cold placements and twelve accepted
+  context/detail comparisons (`games-signs-qa.md`). Actual roof CLUTs require
+  index12 lettering; narrow-board repairs exclude roof colours. Other Games
+  variants and Inn/Tea/shop signs remain open. The corrected-initializer tour
+  has 78 reviewed arrival/final sheets, with 25 unresolved graphics findings
+  (`corrected-tour-qa.md` and its durable verdict TSV); this is not full dialogue coverage.
 - Status now has all six rank illustrations and a maximum-width counter fixture.
   `status-ranks-qa.md` records the overlap/border fixes and the new Hermit staff
   lettering omitted from the original survey. `album-records-qa.md` now covers all

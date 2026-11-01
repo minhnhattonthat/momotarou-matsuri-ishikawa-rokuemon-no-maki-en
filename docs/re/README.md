@@ -16,6 +16,7 @@ Addresses are for the dump in `rom.sha1` unless a note says otherwise.
 | [text.md](text.md) | Shift-JIS, control codes, message block, where the text is | verified |
 | [script.md](script.md) | script VM ops, lengths, jumps, text lines, what phase 4 extracts, code strings | verified (static + every entry parses; roundtrip/coverage tests) |
 | [debug.md](debug.md) | game mode/map/event RAM, script interpreter, warp tool, unreachable maps | old map coverage superseded by destination initializer correction |
+| [corrected-tour-qa.md](corrected-tour-qa.md) | Full corrected-initializer sweep, durable 78-sheet verdict audit and map284 load regression | Frozen build 464/465; one explicit current-build fallback; 25 visual issues remain |
 | [engine.md](engine.md) | build_line/drawer, digraph VWF hooks, English font cells, hook space, data-id size table, memory-card text path | verified (marker build, tests/test_engine.py) |
 | [windows.md](windows.md) | box variants, measured px budgets (width gate), guessed ones | measured: message, portrait, memory card, main/choice menus |
 | [graphics.md](graphics.md) | font, TIM images, graphics-text survey | survey from the static sweep; runtime checks in phase 8 |
@@ -39,6 +40,7 @@ Addresses are for the dump in `rom.sha1` unless a note says otherwise.
 | [minigame-labels-qa.md](minigame-labels-qa.md) | Minigame speech bubbles, remaining small banners, 30 sprite-built race names and five race labels | Cold sprite coverage and natural race evidence; phase-wide QA remains open |
 | [hud-counters-qa.md](hud-counters-qa.md) | Twelve HUD counters, record/floor layout fixes, M34 panel expansion and natural counter routes | Scoped cold coverage; phase-wide QA remains open |
 | [field-signs-qa.md](field-signs-qa.md) | Pun Contest banners, three bath curtain copies, complete lettering checks | Scoped cold evidence; split contest atlas still lacks runtime coverage |
+| [games-signs-qa.md](games-signs-qa.md) | Five Games-board atlases, six cold contexts, active-palette and wood-repair fixes | 12 scoped visual sheets; other shop signs and split contest consumer remain open |
 | [small-props-qa.md](small-props-qa.md) | Sushi prices, private-bath placards and swimming victory flag; erasure, palette and texture-seam fixes | Scoped cold routes and complete-label checks; broader phase 8 remains open |
 | [map-initializers.md](map-initializers.md) | Wrong world-map initializer in every map warp; real per-map calls and input timing fix | All nine excluded maps recovered; phase-wide QA remains open |
 | [character-intro-qa.md](character-intro-qa.md) | Five full attract-mode names, split Yashahime layout and untouched cold title sequence | 5/5 complete character/name pairs on both discs, 5 scoped visual sheets; fan/costume marks remain |
