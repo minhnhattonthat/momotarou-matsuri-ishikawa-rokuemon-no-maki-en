@@ -4,6 +4,19 @@ Updated at the end of every session. Keep it to what the next session needs; his
 
 - **Phase:** **8 in progress** (QA in the emulator), then 9 (release).
 - **Done (phase 8 so far, 2026-11-01):**
+  - Name Entry checkpoint: **80 Latin/symbol glyphs** replace the kana font in NAME0D:1 and PREM0D:1;
+    checked selection-table edits give ordered D-pad navigation. Native four-character limit, ANM data,
+    save structure, palettes, arrows and panel artwork are preserved. Existing Japanese record-name IDs
+    now display Latin characters; the release README must explain this compatibility limit.
+  - New `name_entry` cold scene (**465 scenes**) and `tools/debug/name_entry.py` cover **80/80 complete glyphs
+    on each disc**, four-letter entry, rejection, back/edit/accept and the exact returned record bytes.
+    Both discs also pass one-letter entry via Start. Fresh read-only D10 review accepts **4/4 sheets**;
+    it caught the font's @ heart icon, replaced by an actual asterisk before the final build and tour.
+    Reproduction, state addresses, verdict hashes and limits: `docs/re/name-entry-qa.md`.
+  - Latest validation: **84 tests passed**, lint 0; verifier **369 changed files / 0 errors**; cold smoke
+    `work/qa/name8_final_smoke` passed; both English name-tour logs have **0 Japanese lines**.
+    Main disc: **182,482,272 bytes**, **2026-11-01 08:20:36 UTC**, SHA-1
+    **8781edd1b47f4a947cb90197dbb65e9ac6730b17**. **Phase 8 remains incomplete; do not advance to release.**
   - Saved-record checkpoint: cold tours cover **43/43 Game Album pages** and **6/6 Quick Match pages**
     on original, populated English and empty-record English. `tools/debug/album_records.py` loads the
     game-written save, seeds records only in RAM, and navigates real menus; source card stays unchanged.
@@ -299,9 +312,10 @@ Updated at the end of every session. Keep it to what the next session needs; his
     can be narrower than the JP atlas row: shoot it), add LABELS, `gen_gfx.py`, build `--out build/g8.bin`, shoot.
   - Saved-record QA: Status covers all rank pictures and wide counters (`status-ranks-qa.md`); all five
     Game Album record formats and six Quick Match pages now have populated/empty cold proof
-    (`album-records-qa.md`). Rank Details, Name Entry, entered names and natural record-setting remain.
-    NAME0D:1 still has kana keys; investigate its input encoding, not just the lettering. Native Name Entry
-    mode 0x51 initializes at OVLXTTL:0x800DF8A4 and returns to Quick Match. Use the existing save fixture.
+    (`album-records-qa.md`). Name Entry now has all 80 glyphs, editing/confirmation and returned-name proof
+    (`name-entry-qa.md`). Rank Details, natural record-setting and name memory-card persistence remain.
+    Name Entry mode 0x51 needs its native context byte set to 3 when warped, to return to Quick Match;
+    `SCENE='name_entry'` and `tools/debug/name_entry.py` do this. Use the existing save fixture for reload QA.
     `work/qa/album8_*` exploratory states are from earlier builds: regenerate cold before accepting verdicts.
   - Text tour (`warp_all.py --hold 1500 --click 45 --probe tools/lua/textlog.lua`, then `tools/textlog.py`),
     `jp_left.py` on the build, visual-QA sheets + `qa_gate.py` verdicts (in-session `visual-qa` agents, D9),

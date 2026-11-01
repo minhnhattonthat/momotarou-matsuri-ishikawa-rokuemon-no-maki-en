@@ -148,6 +148,8 @@ def test_redraws_change_only_declared_label_rectangles():
             rects += [(u, v, u + w, v + h) for u, v, w, h, _, _ in gfx_status.PIECES]
         if key == 'STATUS0D.BIN:0':
             rects += [(224, y, 240, y + 21) for y in gfx_status.UNIT_ROWS]
+        if key == 'NAME0D.BIN:1':
+            rects += [(x, y, x + 16, y + 16) for x, y in gen_gfx.name_entry.cells()]
         name, entry = key.split(':')
         t, _ = gen_gfx.original(key)
         png = gfx.EN / f'{Path(name).stem}_{entry}.png'

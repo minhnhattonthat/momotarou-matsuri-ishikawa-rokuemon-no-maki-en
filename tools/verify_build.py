@@ -28,6 +28,7 @@ import gfx_layout  # noqa: E402
 import insert  # noqa: E402
 import iso  # noqa: E402
 import layout  # noqa: E402
+import name_entry  # noqa: E402
 import romdiff  # noqa: E402
 import script  # noqa: E402
 import text  # noqa: E402
@@ -56,6 +57,8 @@ def code_allowed(path, stem, rows):
     sites = engine.MONEY_OVL.get(f'{stem}.BIN', [])
     if stem == 'OVLXTTL':
         sites = sites + [tuple(engine.RECORD_LAYOUT)]
+        offset = name_entry.TABLE - name_entry.BASE
+        ok.update(range(offset, offset + name_entry.COLS * name_entry.ROWS * 4))
     if stem.startswith('SLPM'):
         sites = engine.MONEY_EXE + [tuple(engine.ORIG)]   # ORIG includes money, choice, cursor and HUD sites
         lo, hi = engine.FREE - engine.EXE_BASE, engine.FREE_END - engine.EXE_BASE

@@ -34,6 +34,7 @@ import gfx_hud  # noqa: E402
 import gfx_signs  # noqa: E402
 import gfx_intro  # noqa: E402
 import gfx_status  # noqa: E402
+import name_entry  # noqa: E402
 
 FONT = ROOT / 'fonts' / 'ofl' / 'Fredoka.ttf'
 CLEAR = (0, 0, 0, 0)
@@ -44,6 +45,7 @@ MASK_BUTTON = {'bg': 'fill', 'outline': 0, 'size': 17, 'fill': (248, 248, 248, 2
 MASK_DIM = {**MASK_BUTTON, 'fill': (128, 128, 128, 255)}
 
 LABELS = {
+    'NAME0D.BIN:1': [],  # Latin player-name font, also copied to PREM0D:1.
     # Attract-mode character introductions. Yashahime is assembled from three
     # fragments below; none of these name rectangles includes character art.
     'CHR0D.BIN:1': [(120, 208, 208, 240, 'Momotaro', {})],
@@ -400,6 +402,8 @@ def generate(keys=None):
             gfx_status.draw(im, pal)
         if key == 'STATUS0D.BIN:0':
             gfx_status.clear_units(im)
+        if key == 'NAME0D.BIN:1':
+            name_entry.draw(im)
         for k in same[t]:
             name, _, e = k.partition(':')
             out = gfx.EN / f'{Path(name).stem}_{e}.png'

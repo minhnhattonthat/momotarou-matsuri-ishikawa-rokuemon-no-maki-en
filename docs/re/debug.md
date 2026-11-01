@@ -28,6 +28,10 @@ warp uses VM+4 instead).
 - **menu**: Start at the title from ~frame 2400, then the menu presses (circle/right) with the timings in warp.lua.
 - **event N**: New game → いざ！物語へ; at mode 0x4D write N to 0x8008C4F9.
 - **game MODE**: New game → おためし対戦; when the trial pick (0x50) hands over, overwrite the mode with MODE.
+- **name_entry**: `game 0x51 3` uses that transition plus the native mode-context
+  byte (`0x800A3F40 + mode`) so confirmation returns to Quick Match. The controller
+  tour in `tools/debug/name_entry.py` covers all 80 character IDs, editing and
+  the returned name bytes. See `name-entry-qa.md` for the exact state fields.
 - **map M**: New game → story; at 0x4D set mode 1 (skips the intro; GMAIN then starts the opening script). When the
   script's next op is its first message (op 2), write `0x1D M x y dir 0xFFFE; 0x1E 0x63` over it, press circle,
   and restore the original words once both ran. A copy of the ops elsewhere in RAM hung (earlier exec-hook try).

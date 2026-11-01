@@ -94,7 +94,11 @@ L.on_frame(function(n)
     if m == 0x4C and age >= 600 then arrive(n) end
   elseif kind == "game" then
     if m == 0x50 and age >= 200 and age % 120 == 0 then L.press("circle", 6) end
-    if st.prev == 0x50 and m ~= 0x50 then mem[MODE & 0x1FFFFF] = num(s[3]); L.log("mode -> " .. s[3]) end
+    if st.prev == 0x50 and m ~= 0x50 then
+      mem[MODE & 0x1FFFFF] = num(s[3])
+      if s[4] then mem[0xA3F40 + num(s[3])] = assert(num(s[4])) end
+      L.log("mode -> " .. s[3])
+    end
     if m == num(s[3]) and age >= 600 then arrive(n) end
   elseif kind == "event" then
     if m == 0x4D and age == 0 then mem[EVENT & 0x1FFFFF] = num(s[3]) end

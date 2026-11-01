@@ -38,7 +38,10 @@ Open for later phases:
   `status-ranks-qa.md` records the overlap/border fixes and the new Hermit staff
   lettering omitted from the original survey. `album-records-qa.md` now covers all
   43 Game Album and six Quick Match record panels, including populated and empty
-  score categories. Rank Details and Name Entry remain unverified.
+  score categories. Name Entry now uses 80 Latin/symbol sprites in both NAME0D
+  and PREM0D, with complete cold glyph matches, four- and one-letter entry,
+  editing and record return (`name-entry-qa.md`). Rank Details and name
+  memory-card persistence remain unverified.
 - GCV0310's four labelled images are dormant dialogue placeholders, IDs 123-126,
   with no references among 4,894 parsed message operations. The Moon route uploads
   their texture but never binds the portraits (`portrait-audit.md`). This is not
