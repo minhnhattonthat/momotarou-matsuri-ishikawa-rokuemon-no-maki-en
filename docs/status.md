@@ -4,12 +4,24 @@ Updated at the end of every session. Keep it to what the next session needs; his
 
 - **Phase:** **8 in progress** (QA in the emulator), then 9 (release).
 - **Done (phase 8 so far, 2026-11-02):**
+  - Illustrated card-margin follow-up: **13 repaired margins accepted** on
+    **007/026/033/039/044/054/075/079/082/087/093/094/098**. Grey drawing components and
+    coloured backgrounds are preserved; card093 moves left to keep both falling leaves.
+    A fresh D10 pass rejected three remaining fragments, now corrected and cold rechecked.
+    Full-album gate **19 ok / 1 issue**, margin details **13 ok / 1 issue**; no missing/stale verdicts.
+    **Card063 remains open**: incomplete top falling-leaf outline and faint upper/right caption fringe.
+    `card-background-qa.md` / `card-background-verdicts.tsv` record scope, hashes and rejected candidates.
+  - Latest main validation: **129 tests passed / lint 0**, verifier **399 changed files / 0 errors**;
+    cold `work/qa/card_repair8_final_smoke` passed; `work/qa/card_repair8_final_cold` has **100/100
+    complete captures**, **0 Japanese lines in one textlog** (graphics excluded). Main disc
+    **182,449,344 bytes**, **2026-11-01 17:14:04 UTC**, SHA-1 **7015ad07c73b0721d0ab3526f2d4a26075088df2**.
+    Earlier `card_repair8_cold` is superseded. **Phase 8 remains incomplete; phase 9 has not started.**
   - Full 100-card artwork audit: **20 whole-card sheets reviewed**; eight masks repaired on
     **034/038/049/059/076/077/078/084**, preserving monkey/oni/staff/hand edges and removing old strokes.
     Final D10 details **8/8 ok**; full album **7 ok / 13 issue sheets**, with no missing/stale verdicts.
     `card-full-art-qa.md` and `card-full-art-verdicts.tsv` record rejected candidates and fourteen remaining
     card defects. The red notice's cross-archive ANM scan supplies leads only; its runtime path remains open.
-  - Latest main validation: **127 tests passed / lint 0**, verifier **399 changed files / 0 errors**;
+  - Previous main validation: **127 tests passed / lint 0**, verifier **399 changed files / 0 errors**;
     cold `work/qa/cards_full8_final_smoke` passed; `work/qa/cards_full8_final_cold` has **100/100 complete
     captures**, **0 Japanese lines in one textlog** (graphics excluded). Main disc **182,454,048 bytes**,
     **2026-11-01 16:39:00 UTC**, SHA-1 **5b1f3ee68331bd006fc9c1c7e0e49010a4a16816**.
@@ -536,8 +548,9 @@ Updated at the end of every session. Keep it to what the next session needs; his
     on 028/036/046/081/099 are fixed. Follow-up `card-margin-polish-qa.md` now corrects
     003/011/022/045/085/086 with eight accepted cold sheets; the older 045 no-op is superseded.
     Full follow-up `card-full-art-qa.md` corrects 034/038/049/059/076/077/078/084 and reviews all 100 cards.
-    Remaining defects: **007/026/033/039/044/054/063/075/079/082/087/093/094/098**; the full gate is
-    **7 ok / 13 issue sheets**. Begin with the listed caption-fill and artwork-preservation findings.
+    Follow-up `card-background-qa.md` accepts thirteen more margins. **Remaining card defect: 063**,
+    particularly the top falling-leaf outline and faint upper/right caption fringe. The full gate is
+    **19 ok / 1 issue sheet** and the fourteen margin details are **13 ok / 1 issue**.
     Locate/render the fragmented red new-card tag.
     HOUGEN0D ANM 5/6 does not reference its visible atlas fragments; the runtime draw path is still unknown.
     `tools/debug/atlas_refs.py` scans cross-archive ANM leads by page/depth/CLUT, but cannot prove runtime

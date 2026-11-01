@@ -1,0 +1,35 @@
+# scope	id	sha1	verdict	note
+full	compare_sheet	714fa9154ab4a75603e03603d5c849f4b374bf69	ok	Cards 001-005: identical hash to the accepted previous full-card audit.
+full	compare_sheet_10	cb000837fe975f1fdb4b0865908869233642e6ff	ok	Cards 046-050: identical hash to the accepted previous full-card audit.
+full	compare_sheet_11	f81f92926c7953331eba9ff48f41449d389d05a6	ok	Cards 051-055: card054 house posts retained without stepped donor bands; other cards pass.
+full	compare_sheet_12	cfa97d7e1417b4fc7b2b2845c1af082ebc40e4ba	ok	Cards 056-060: identical hash to the accepted previous full-card audit.
+full	compare_sheet_13	eaa9cccccec510da65c500f88235dfb79a0bf986	issue	Cards 061-065: card063 still has faint fringe near the top caption and an incomplete top falling-leaf outline; broad lower donor bands improved but not approved.
+full	compare_sheet_14	92402064d9fc92003792a4f692374fbb1cb2b62e	ok	Cards 066-070: identical hash to the accepted previous full-card audit.
+full	compare_sheet_15	c901bd565ba82307ec3415f89329806c56775e37	ok	Cards 071-075: card075 shoreline retained and rightmost brown remnant removed in final cold capture; other cards pass.
+full	compare_sheet_16	0fb39ed85d6f96c990ca4ef53666a4e6fee61c90	ok	Cards 076-080: card079 top fragments cleared with pink roses and confetti retained; other cards pass.
+full	compare_sheet_17	3387325de194e90bf3bf103b2f5e876facd5c18c	ok	Cards 081-085: card082 cloud outline retained without grey fill blocks; other cards pass.
+full	compare_sheet_18	3986366c96c13cef9af1b7776e6ce91ebb66dedc	ok	Cards 086-090: card087 caption remnants removed with native-palette sky fade reconstruction; moon and shoreline retained; other cards pass.
+full	compare_sheet_19	6a8ef33c1eb7b40262b138306811f572e2ff82e0	ok	Cards 091-095: card093 both falling leaves intact after moving caption left; card094 foliage and lower margin clean; other cards pass.
+full	compare_sheet_2	f823117ed47c7046089b289a836ce7b493ad7b05	ok	Cards 006-010: card007 straw lines retained and grey fill streaks removed; other cards pass.
+full	compare_sheet_20	0804b84ba71da95eb28ad19480fb72fb9a3dc295	ok	Cards 096-100: card098 cave contour retained without stepped grey donor artifact; other cards pass.
+full	compare_sheet_3	00c5adfe914dde9a2a59a6ed09129e7ef331d2cf	ok	Cards 011-015: identical hash to the accepted previous full-card audit.
+full	compare_sheet_4	766c75aa320216ca191378a708166762f049e0c0	ok	Cards 016-020: identical hash to the accepted previous full-card audit.
+full	compare_sheet_5	0b11dae6a4e9f06861b597184ba5a4c487c13176	ok	Cards 021-025: identical hash to the accepted previous full-card audit.
+full	compare_sheet_6	020b8221fc589d6e60aa299c2ca2c565d1cc3a9b	ok	Cards 026-030: card026 fine horizontal lines restored without doubled fill; other cards pass.
+full	compare_sheet_7	18ada9a03ea9e7e85c45093f2cf72f5fbe56e1fb	ok	Cards 031-035: card033 lower bottle outline restored and margin clean; other cards pass.
+full	compare_sheet_8	b0742921386e7afe4c309e0ca030cfe11ac77171	ok	Cards 036-040: card039 grey block removed with both leaves and branch preserved; other cards pass.
+full	compare_sheet_9	c4468e62fb5da38da5744120e503aa457ef6b087	ok	Cards 041-045: card044 tree outline retained without donor smear; other cards pass.
+detail	card007_sheet	01e9922a0d7787f3afa64953e69ccd128b8cf6ec	ok	Nighty-night complete; native straw lines retained without duplicated grey streak.
+detail	card026_sheet	e573d823d13418b61bd23b960ac75ea0918d8372	ok	Straight ahead complete; fine horizontal lines retained and fill no longer doubles them.
+detail	card033_sheet	f352d876d1fc34e86074542f599e3a2e932930e1	ok	Lazybones complete; clean paper below caption and intact bottle/cup outline.
+detail	card039_sheet	88f9fa95a98c944f2408bc1395233433afa6c599	ok	Good work complete; no grey block; upper branch and both leaves retained.
+detail	card044_sheet	08563c57cb5031c2921b56a5952d725b269833d2	ok	Mighty pretty complete; grey tree edge retained without copying it into caption strokes.
+detail	card054_sheet	1baadea0ed8a5411576debf59f0f40514894f6b0	ok	See you later complete; house posts and fading roof edge retained; stepped donor bands removed.
+detail	card063_sheet	c1211b25d137d7256991b5e062b0e503ec520862	issue	Open: incomplete top falling-leaf outline and faint upper/right caption fringe; lower fill improved but this margin is not approved.
+detail	card075_sheet	3f64dafbcf4e9411732ae73ef87035219bf96719	ok	There it is complete; native shoreline retained; final capture removes brown remnant at right of old mask.
+detail	card079_sheet	379751cb00649fddd5c29e22136420aba45ddb76	ok	Pretty complete; top fragments cleared and pink rose background retained.
+detail	card082_sheet	aaed7f7a91c14b2b52fabffb05059eec5fe99a1d	ok	What a mess complete; native cloud outline retained without grey fill blocks.
+detail	card087_sheet	01c979ed958c86d2b3a6db7f8e46640bc4d55008	ok	Round as can be complete; no brown fragments; sky fade reconstructed with native colours, moon and shoreline unchanged.
+detail	card093_sheet	19e3b910ec9cf3589d6dc82742e60d64743ef44b	ok	Can't be bothered complete; caption moved left, both original falling leaves fully retained.
+detail	card094_sheet	b96a331518b637f2bb59b5a55710218602755f6e	ok	Shoulder ride complete; foliage outline retained and final bottom brown pixel cleared.
+detail	card098_sheet	e835cb1e787a7c160157137c0a4dbec05fd8745d	ok	Welcome complete; native cave contour retained without the former stepped donor artifact.

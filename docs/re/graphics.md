@@ -52,7 +52,9 @@ Open for later phases:
 - Marginal-caption masks on cards 003/011/022/045/085/086 are corrected, including preserved ear/heart
   edges and removal of pale/grey fill-donor streaks (`card-margin-polish-qa.md`). Full follow-up
   `card-full-art-qa.md` repairs 034/038/049/059/076/077/078/084 and audits all 100 cards:
-  7 whole-card sheets pass, 13 have issues across fourteen remaining cards; eight repair details pass.
+  its original 7 ok / 13 issue result is followed by `card-background-qa.md`:
+  thirteen more margins accepted, **19 whole-card sheets ok / 1 issue** and **13 details ok / 1 issue**.
+  Card063's top falling leaf and faint caption fringe remain open; these gates still fail.
   The red Card Album notice remains open; `atlas_refs.py` offers static ANM leads, not runtime proof.
 - Event07's snow-statue initial is now K; all three EVT620D ending fans say Festival.
   `event-props-qa.md` records cold routes, exact source masks and the shared-CLUT overwrite.

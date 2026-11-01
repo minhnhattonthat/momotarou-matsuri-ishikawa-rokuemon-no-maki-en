@@ -197,3 +197,40 @@ def test_full_card_review_preserves_character_edges_and_removes_stray_strokes():
         assert set(source.crop(rect).getdata()) != {(248, 248, 248, 255)}, card
         with Image.open(gfx.EN / f'HCARD{i // 10}0D_{i % 10}.png') as actual:
             assert set(actual.crop(rect).getdata()) == {(248, 248, 248, 255)}, card
+
+
+def test_illustrated_caption_repairs_preserve_lines_and_falling_leaves():
+    # These native drawing pixels were previously replaced by caption fill.
+    # Their positions come from the original/cold comparison, not mask tables.
+    points = {7: [(188, 82), (184, 87)], 26: [(184, 82), (189, 100)],
+              44: [(24, 53), (21, 61)], 54: [(176, 22), (176, 71)],
+              75: [(24, 67), (17, 84)], 94: [(24, 12), (29, 16)],
+              98: [(25, 24), (19, 74)]}
+    for card, positions in points.items():
+        i = card - 1
+        _, source = gen_gfx.original(f'HCARD{i // 10}0D.BIN:{i % 10}')
+        with Image.open(gfx.EN / f'HCARD{i // 10}0D_{i % 10}.png') as actual:
+            for point in positions:
+                assert max(source.getpixel(point)[:3]) < 224
+                assert actual.getpixel(point) == source.getpixel(point), (card, point)
+    # Relocating card093's lettering leaves both the upper and lower leaves
+    # intact; a white fill or text keyline over either leaf is a regression.
+    for card, rect in ((93, (10, 0, 24, 20)), (93, (12, 76, 25, 96)),
+                       (33, (177, 76, 187, 91)), (39, (170, 114, 191, 128))):
+        i = card - 1
+        _, source = gen_gfx.original(f'HCARD{i // 10}0D.BIN:{i % 10}')
+        with Image.open(gfx.EN / f'HCARD{i // 10}0D_{i % 10}.png') as actual:
+            assert actual.crop(rect).tobytes() == source.crop(rect).tobytes(), card
+
+
+def test_illustrated_caption_repairs_remove_old_margin_fragments():
+    # Blank paper above/below the replacement text must not inherit a grey
+    # donor streak, even if the sprite still matches the generated asset.
+    for card, rect in ((33, (190, 1, 204, 20)), (39, (191, 101, 208, 110)),
+                       (63, (196, 100, 208, 128)), (79, (181, 3, 201, 20)),
+                       (75, (28, 80, 31, 84)), (94, (5, 74, 30, 78))):
+        i = card - 1
+        _, source = gen_gfx.original(f'HCARD{i // 10}0D.BIN:{i % 10}')
+        assert set(source.crop(rect).getdata()) != {(248, 248, 248, 255)}
+        with Image.open(gfx.EN / f'HCARD{i // 10}0D_{i % 10}.png') as actual:
+            assert set(actual.crop(rect).getdata()) == {(248, 248, 248, 255)}, card
