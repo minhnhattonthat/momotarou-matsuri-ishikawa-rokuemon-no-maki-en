@@ -4,6 +4,20 @@ Updated at the end of every session. Keep it to what the next session needs; his
 
 - **Phase:** **8 in progress** (QA in the emulator), then 9 (release).
 - **Done (phase 8 so far, 2026-11-02):**
+  - Menu headers: **4/4 cold routes on both discs**, complete ANM/TIM pixel matches for Game Album,
+    Quick Match! and Name Entry; saved-Status viewing also uses Game Album on the original. Fresh D10
+    review **8/8 sheets ok**. `menu-titles-qa.md` and `tools/debug/menu_titles.py` record contexts,
+    named-disc verification and stale-capture rejection. The separate Rank Details atlas consumer remains open.
+  - Card caption masks corrected on **003/011/022/045/085/086**: complete old strokes and pale fringe removed,
+    ear/breath-puff/heart preserved. Enlarged review rejected two grey fill-donor streaks; explicit blank-paper
+    bounds remove them without the broad candidate's shoreline/smoke damage. Final fresh D10 review **8/8 ok**;
+    `card-margin-polish-qa.md` records commands, rejected evidence, final hashes and limited scope.
+  - Latest main validation: **126 tests passed / lint 0**, verifier **399 changed files / 0 errors**;
+    cold smoke `work/qa/card_polish8_accepted_smoke` passed, album **100/100 complete captures**, and
+    **0 Japanese lines in its textlog** (graphics excluded). Main disc **182,454,048 bytes**,
+    **2026-11-01 16:07:41 UTC**, SHA-1 **6ba02079bfa79409b99ce78d063942d6266eccdd**.
+    Accepted album run: `work/qa/card_polish8_accepted_cold`; earlier `card_polish8_*cold` candidates are superseded.
+    **Phase 8 remains incomplete; no phase-9 or release work is authorized by these scoped verdicts.**
   - Event artwork: Kintaro's snow-statue initial is now **K** across EVT110D's 240-pixel texture seam,
     and all three EVT620D orange fans read **Festival** (FEST / IVAL). Exact component masks preserve
     the statue oval and fan ribs; the first fresh review caught six cream fringe pixels, now removed
@@ -508,8 +522,9 @@ Updated at the end of every session. Keep it to what the next session needs; his
   - Cards: all 100 prefecture captions and marginal dialect phrases are English; **56 sound-effect placements
     on 36 cards** are now translated (`card-art-qa.md`). Four signs and 15 costume/crown marks now have
     cold proof (`card-props-qa.md`, 20 placements because the curtain uses two panels). Caption fringes
-    on 028/036/046/081/099 are fixed; broader marginal polish remains, including 022/085/086 and the older
-    045 note (the attempted mask expansion made no pixel change). These verdicts cover the new props only.
+    on 028/036/046/081/099 are fixed. Follow-up `card-margin-polish-qa.md` now corrects
+    003/011/022/045/085/086 with eight accepted cold sheets; the older 045 no-op is superseded.
+    Broader marginal polish remains; neither scoped pass approves every card.
     Locate/render the fragmented red new-card tag.
     HOUGEN0D ANM 5/6 does not reference its visible atlas fragments; the runtime draw path is still unknown.
   - Finish natural outcome/versus routes. M03 Perfect, M14/M56 and M59 story banners now have scoped cold
@@ -520,7 +535,8 @@ Updated at the end of every session. Keep it to what the next session needs; his
     normal gameplay progression still needs tour coverage. Small Bonus now uses a separate English sprite;
     its original overlapping fragment users remain intact and unclassified. See `docs/re/hud-counters-qa.md`.
   - Graphics text (D5: all of it; docs/re/gfx_survey.tsv, 203 rows): product-title logo variants are now
-    explicitly retained under D5 (`graphics.md`). Remaining work: NAME0D:0 mode-menu shots,
+    explicitly retained under D5 (`graphics.md`). Remaining work: the native Rank Details title consumer
+    (Game Album/Quick Match!/Name Entry have cold proof in `menu-titles-qa.md`),
     remaining M990D fragment/context classification, remaining banners
     (GV02000D:2, GV13000D:2...), HOUGEN0D:0 new-card tag, ending-art signs/emblems,
     illustration SFX/signs on HCARD* cards. Per image: `gfx.py export`, find each sprite's rect (in-game the sprite rect

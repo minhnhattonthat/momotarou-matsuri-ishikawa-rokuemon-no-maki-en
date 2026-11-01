@@ -1,0 +1,9 @@
+sheet	sha1	verdict	note
+album_context_sheet	d4544c8a6f1e2eef156a147bd3018f5f548d61df	ok	Full Game Album header and empty-record labels fit; artwork and frame match original.
+album_title_sheet	d31cf8e1f2ff0d2eec29accf79bcbf63fbca6602	ok	Full outlined Game Album; no clipping or retained Japanese strokes.
+name_context_sheet	6ee1700bec62998c4293dca6e006b88801343143	ok	Full Name Entry and instructions fit; empty initial selection matches original.
+name_title_sheet	c77582a7f2b784851d62ee1e01dd7b1d0443e1df	ok	Complete Name Entry including descending y; no old kana fragments.
+quick_context_sheet	b532cde849c977f64725a0b5cca0fdbeb66b4e96	ok	Full Quick Match! header and three record lines fit; artwork and frame preserved.
+quick_title_sheet	40088ade14fe7e18feb45814e2294fa4370027a1	ok	Complete outlined Quick Match! including exclamation.
+saved_details_context_sheet	d33ca1e7acf3d9b686278b28b95452eb2aeadfd3	ok	Original also uses Game Album in saved-Status viewing context.
+saved_details_title_sheet	0a336a7b9f9ff015e563d65139a83a080eba9dab	ok	Complete Game Album in context 4; not the separate Rank Details atlas label.

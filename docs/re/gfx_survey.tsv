@@ -76,7 +76,7 @@ id	source	kind	japanese	note
 #566	GV38000D.BIN:0	sign	town sign plaques	Inn/Tea cold map335 proof; second Inn unproved; other signs remain; tea-bank-signs-qa.md
 #574	HCARD00D.BIN:0	card	なまら あっつぃべゃぁ / はっ / NO.001 北海道	all 100 prefecture captions/marginal phrases English; 56 SFX placements on 36 cards translated (card-art-qa.md lists exact cards); small signs/emblems remain
 #575	HCARD00D.BIN:1	card	はっちゃきこく? / ギシ ギシ / NO.002 北海道	collectible dialect card
-#576	HCARD00D.BIN:2	card	NO.003 青森県 / じょっぱり	dialect card: handwritten word + baked label bar (NO.### + prefecture); #574-#673 share this layout
+#576	HCARD00D.BIN:2	card	NO.003 青森県 / じょっぱり	left caption stroke removed; adjacent breath puff preserved; card-margin-polish-qa.md
 #577	HCARD00D.BIN:3	card	NO.004 青森県 / かね?
 #578	HCARD00D.BIN:4	card	NO.005 岩手県 / おしょすい / どき どき
 #579	HCARD00D.BIN:5	card	NO.006 岩手県 / きちゃきらで? / ギシギシ	word unsure
@@ -84,7 +84,7 @@ id	source	kind	japanese	note
 #581	HCARD00D.BIN:7	card	NO.008 宮城県 / すげない
 #582	HCARD00D.BIN:8	card	NO.009 秋田県 / とんじんまけた / どんっ
 #583	HCARD00D.BIN:9	card	NO.010 秋田県 / いいふりこぎ / ビシ?
-#584	HCARD10D.BIN:0	card	NO.011 山形県 / きたれけつ?	word unsure
+#584	HCARD10D.BIN:0	card	NO.011 山形県 / きたれけつ?	final kana below old caption bounds removed; cave shading retained; card-margin-polish-qa.md
 #585	HCARD10D.BIN:1	card	NO.012 山形県 / うがい
 #586	HCARD10D.BIN:2	card	NO.013 福島県 / きめっこしる
 #587	HCARD10D.BIN:3	card	NO.014 福島県 / あいぶ
@@ -95,7 +95,7 @@ id	source	kind	japanese	note
 #592	HCARD10D.BIN:8	card	NO.019 群馬県 / あてっこうど / ピンピン
 #593	HCARD10D.BIN:9	card	NO.020 群馬県 / ぶっこぬき
 #594	HCARD20D.BIN:0	card	NO.021 埼玉県 / あってこてもねぇ
-#595	HCARD20D.BIN:1	card	NO.022 埼玉県 / かてて
+#595	HCARD20D.BIN:1	card	NO.022 埼玉県 / かてて	caption fringe corrected with ear edge preserved; card-margin-polish-qa.md
 #596	HCARD20D.BIN:2	card	NO.023 千葉県 / ぶんなぐる
 #597	HCARD20D.BIN:3	card	NO.024 千葉県 / がんだ / プシュー
 #598	HCARD20D.BIN:4	card	NO.025 東京都 / てやんでい
@@ -118,7 +118,7 @@ id	source	kind	japanese	note
 #615	HCARD40D.BIN:1	card	NO.042 岐阜県 / かんこうしょ
 #616	HCARD40D.BIN:2	card	NO.043 岐阜県 / たむらう?	word unsure
 #617	HCARD40D.BIN:3	card	NO.044 静岡県 / ばかけっこい?	word unsure
-#618	HCARD40D.BIN:4	card	NO.045 静岡県 / ちんぷりょーかく / ちゃぽん
+#618	HCARD40D.BIN:4	card	NO.045 静岡県 / ちんぷりょーかく / ちゃぽん	pale caption fringe and grey donor streak corrected; card-margin-polish-qa.md
 #619	HCARD40D.BIN:5	card	NO.046 愛知県 / やっとかめ / ガ
 #620	HCARD40D.BIN:6	card	NO.047 愛知県 / たーけ / ばしゃ
 #621	HCARD40D.BIN:7	card	NO.048 三重県 / つる / ひょい
@@ -158,8 +158,8 @@ id	source	kind	japanese	note
 #655	HCARD80D.BIN:1	card	NO.082 愛媛県 / さきらほうさら?	word unsure
 #656	HCARD80D.BIN:2	card	NO.083 高知県 / はちきん
 #657	HCARD80D.BIN:3	card	NO.084 高知県 / くそーな? / ピチ ピチ	word unsure
-#658	HCARD80D.BIN:4	card	NO.085 福岡県 / しぇからしか
-#659	HCARD80D.BIN:5	card	NO.086 福岡県 / すいとう
+#658	HCARD80D.BIN:4	card	NO.085 福岡県 / しぇからしか	pale caption fringe and grey donor streak corrected; smoke retained; card-margin-polish-qa.md
+#659	HCARD80D.BIN:5	card	NO.086 福岡県 / すいとう	caption top fringe corrected and pink heart restored; card-margin-polish-qa.md
 #660	HCARD80D.BIN:6	card	NO.087 佐賀県 / きんきんまーるか?	word unsure
 #661	HCARD80D.BIN:7	card	NO.088 佐賀県 / どしか?	word unsure
 #662	HCARD80D.BIN:8	card	NO.089 長崎県 / ひえぞたれ? / ぶる ぶる	word unsure
@@ -197,7 +197,7 @@ id	source	kind	japanese	note
 #896	M590D.BIN:6	banner	勝ち! 負け! 引き分け!	same banners plus cloud sprites
 #897	M990D.BIN:0	font	HUD word atlas: 時間計勝負分得点記録階 / 1P2P3P4P コース ステージ ボーナス 両 / 桃太郎と金の勝ち / 赤浦島夜叉姫鬼 二 / 三四五六七八九十 / 本日回戦負け 走天候予想後 / 参加レース けっか 遅い回 コ 本 秒 間	40 large winner/ordinal states English with cold proof (results-qa.md); 13 HUD states cold-rendered (hud-outcomes-qa.md); remaining small counters and overlapping Bonus open
 #898	M990D.BIN:1	font	big outlined: 2345 6789 新記録達成!初 段位更新!段 免許皆伝ゲーム そこまで!おつかれさま 引き分け!スタート	English; 16/16 shared announcement states, checked ANM assembly edits, announcements-qa.md
-#902	NAME0D.BIN:0	menu	ゆうぎアルバム / 段位詳細 / おためし対戦! / ネームエントリー	title + menu labels with arrows
+#902	NAME0D.BIN:0	menu	ゆうぎアルバム / 段位詳細 / おためし対戦! / ネームエントリー	Game Album, Quick Match and Name Entry have complete cold proof; separate Rank Details consumer remains open; menu-titles-qa.md
 #903	NAME0D.BIN:1	font	name-entry hiragana table (あ..ん, small kana, dakuten)	yellow ~12px; name entry keyboard
 #910	STATUS0D.BIN:0	menu	ステータス / 総段位 段 巻 / 免許皆伝 / 総カード枚数 / プレイ時間 / 歩数 / お金 / 桃太郎 / 桃太郎名人 / 桃太郎達人 / 桃太郎仙人	English; all six rank pictures and maximum-width counters; money label overlap fixed; status-ranks-qa.md
 #911	STATUS0D.BIN:1	other	仙 (Hermit staff badge, split across two sprites)	HER/MIT retains full word and staff silhouette; status-ranks-qa.md

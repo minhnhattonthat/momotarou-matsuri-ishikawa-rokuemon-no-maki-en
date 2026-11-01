@@ -131,3 +131,46 @@ def test_card_gate_rejects_old_caption_and_wrong_card():
     _, wrong = gen_gfx.original('HCARD00D.BIN:1')
     screen.paste(wrong.crop((0, 0, 208, 128)), (56, 56))
     assert not cards_qa.matches(screen, original.crop((0, 0, 208, 128)), 56, 56)
+
+
+def test_margin_polish_removes_fringe_without_clearing_ear_or_heart():
+    _, source3 = gen_gfx.original('HCARD00D.BIN:2')
+    with Image.open(gfx.EN / 'HCARD00D_2.png') as card3:
+        assert source3.getpixel((180, 64)) == (120, 88, 48, 255)
+        assert card3.getpixel((180, 64)) == (248, 248, 248, 255)
+        steam = (165, 58, 179, 80)
+        assert source3.crop(steam).tobytes() == card3.crop(steam).tobytes()
+    _, source11 = gen_gfx.original('HCARD10D.BIN:0')
+    with Image.open(gfx.EN / 'HCARD10D_0.png') as card11:
+        assert source11.getpixel((197, 86)) == (136, 104, 80, 255)
+        # Retain coloured cave shading, not a white rectangle, below the old
+        # bottom bound where the last kana had remained visible.
+        assert card11.getpixel((197, 86)) == (200, 200, 192, 255)
+    _, source22 = gen_gfx.original('HCARD20D.BIN:1')
+    with Image.open(gfx.EN / 'HCARD20D_1.png') as card22:
+        # The first broad paper-clear candidate clipped the ear at the left
+        # edge of the margin. The stepped clear leaves this entire edge intact.
+        edge = (179, 33, 182, 62)
+        assert source22.crop(edge).tobytes() == card22.crop(edge).tobytes()
+    _, source86 = gen_gfx.original('HCARD80D.BIN:5')
+    with Image.open(gfx.EN / 'HCARD80D_5.png') as card86:
+        # Old y=10 bounds left the very top of the first kana in place; the
+        # former paper fill also erased these three pink heart pixels.
+        for point in ((193, 9), (194, 9), (195, 9)):
+            assert source86.getpixel(point) != (248, 248, 248, 255)
+            assert card86.getpixel(point) == (248, 248, 248, 255)
+        for point in ((184, 36), (184, 38), (186, 39)):
+            assert source86.getpixel(point) != (248, 248, 248, 255)
+            assert card86.getpixel(point) == source86.getpixel(point)
+    for card, rect, old_fringe in ((45, (4, 3, 31, 123), (248, 232, 224, 255)),
+                                   (85, (4, 3, 28, 96), (248, 240, 240, 255))):
+        i = card - 1
+        _, original = gen_gfx.original(f'HCARD{i // 10}0D.BIN:{i % 10}')
+        assert old_fringe in set(original.crop(rect).getdata())
+        with Image.open(gfx.EN / f'HCARD{i // 10}0D_{i % 10}.png') as translated:
+            assert old_fringe not in set(translated.crop(rect).getdata())
+    for filename, point in (('HCARD40D_4.png', (13, 95)), ('HCARD80D_4.png', (7, 35))):
+        with Image.open(gfx.EN / filename) as translated:
+            # Cold enlarged review caught grey antialias donors propagated
+            # into vertical streaks on otherwise blank paper.
+            assert translated.getpixel(point) == (248, 248, 248, 255)

@@ -19,6 +19,9 @@ import gfx_card_props
 # Card 69's caption steps diagonally towards the illustrated skirt. A single
 # bounding rectangle would erase the skirt's brown outline as well as the ink.
 ERASE_RECTS = {
+    3: [(179, 9, 203, 98)],
+    11: [(181, 3, 204, 92)],
+    22: [(179, 10, 201, 33), (182, 33, 201, 62)],
     28: [(172, 6, 202, 64)],
     36: [(180, 2, 203, 106)],
     39: [(181, 7, 208, 110), (188, 110, 208, 128)],
@@ -27,15 +30,23 @@ ERASE_RECTS = {
     69: [(188, 7, 205, 44), (170, 22, 188, 70), (149, 35, 165, 94)],
     80: [(180, 4, 208, 98)],
     81: [(6, 12, 35, 74)],
+    86: [(184, 7, 206, 67)],
     99: [(181, 0, 208, 94)],
     100: [(180, 7, 205, 70), (186, 70, 205, 102)],
 }
 # These caption rectangles contain plain white paper. Clearing them completely
 # removes pale, grey antialias remnants which cannot be isolated by hue alone.
 PAPER_CARDS = {
-    2, 4, 5, 9, 10, 13, 14, 17, 18, 19, 21, 23, 24, 27, 28, 29, 30,
+    2, 3, 4, 5, 9, 10, 13, 14, 17, 18, 19, 21, 22, 23, 24, 27, 28, 29, 30,
     34, 35, 36, 37, 40, 41, 43, 46, 47, 48, 56, 57, 58, 59, 62, 64, 67, 69,
-    72, 74, 76, 77, 81, 83, 84, 86, 88, 89, 90, 91, 92, 96, 97, 99,
+    72, 74, 76, 77, 81, 83, 84, 88, 89, 90, 91, 92, 96, 97, 99,
+}
+# Blank-paper subregions inside illustrated margins. The general propagation
+# can copy a grey antialias donor into a streak here. Bounds stop before the
+# actual grey shoreline (45) and smoke (85); letters are drawn afterward.
+PAPER_RECTS = {
+    45: [(4, 3, 31, 95), (4, 95, 21, 100)],
+    85: [(4, 29, 12, 44)],
 }
 
 
@@ -50,7 +61,7 @@ def rows():
     return result
 
 
-def erase_caption(image, rect, paper=False):
+def erase_caption(image, rect, paper=False, pale_fringe=False):
     """Clear reviewed paper, or isolate brown caption ink on illustrated margins."""
     x0, y0, x1, y1 = rect
     patch = image.crop(rect)
@@ -66,6 +77,14 @@ def erase_caption(image, rect, paper=False):
     if not ink.getbbox():
         raise ValueError(f'no brown lettering in {rect}')
     ink = ink.filter(ImageFilter.MaxFilter(5))
+    if pale_fringe:
+        # Select additional pale warm pixels without dilating them into the
+        # adjacent grey beach/smoke. Expanding those pixels clips the art.
+        for y in range(patch.height):
+            for x in range(patch.width):
+                r, g, b, _ = patch.getpixel((x, y))
+                if r > g >= b and r - b >= 8:
+                    ink.putpixel((x, y), 255)
     # Propagate the closest clean paper colour into the erased strokes. This
     # preserves coloured backgrounds instead of painting a white rectangle.
     pending = deque()
@@ -90,7 +109,9 @@ def erase_caption(image, rect, paper=False):
 def redraw(image, row, palette):
     rect = tuple(row[k] for k in ('x0', 'y0', 'x1', 'y1'))
     for erase in ERASE_RECTS.get(row['card'], [rect]):
-        erase_caption(image, erase, row['card'] in PAPER_CARDS)
+        erase_caption(image, erase, row['card'] in PAPER_CARDS, row['card'] in (45, 85))
+    for paper in PAPER_RECTS.get(row['card'], []):
+        image.paste((248, 248, 248, 255), paper)
     x0, y0, x1, y1 = rect
     # One style throughout the album, with the same warm brown as the originals.
     opts = {'size': 14, 'wdth': 75, 'wght': 500, 'outline': 0}

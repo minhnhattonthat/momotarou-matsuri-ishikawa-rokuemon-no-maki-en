@@ -46,6 +46,12 @@ Every Japanese-bearing image found by five read-only reviewers over all 80 sheet
 | hud / other | 9 | 白/赤 team icons (DEF0D:9), speech bubbles (M060D:2, M080D:6), three ending-art Festival fans now English (`event-props-qa.md`), どっち? |
 
 Open for later phases:
+- Game Album, Quick Match! and Name Entry now have complete original/English cold header matches
+  (`menu-titles-qa.md`, four routes and eight accepted sheets). Saved-Status viewing also uses Game Album;
+  the native consumer of the separate Rank Details graphic remains open.
+- Marginal-caption masks on cards 003/011/022/045/085/086 are corrected, including preserved ear/heart
+  edges and removal of pale/grey fill-donor streaks (`card-margin-polish-qa.md`). Other card polish and
+  the red Card Album notice remain separate requirements.
 - Event07's snow-statue initial is now K; all three EVT620D ending fans say Festival.
   `event-props-qa.md` records cold routes, exact source masks and the shared-CLUT overwrite.
   The tiny snow placards and ending gold-prop mark remain unclassified; this is not whole-event approval.
