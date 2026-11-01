@@ -183,8 +183,7 @@ def test_redraws_change_only_declared_label_rectangles():
             rects += [(x, y, x + 16, y + 16) for x, y in gen_gfx.name_entry.cells()]
         name, entry = key.split(':')
         t, _ = gen_gfx.original(key)
-        png = gfx.EN / f'{Path(name).stem}_{entry}.png'
-        before, after = gfx.indices(t), gfx.indices(gfx.redraw(t, png))
+        before, after = gfx.indices(t), gfx.indices(gen_gfx.redrawn(key))
         width = gfx.layout(t)[1]
         changed = [i for i, (a, b) in enumerate(zip(before, after)) if a != b]
         assert changed, key

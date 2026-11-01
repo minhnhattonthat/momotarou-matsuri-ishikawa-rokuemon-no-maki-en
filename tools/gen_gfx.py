@@ -39,6 +39,9 @@ import name_entry  # noqa: E402
 
 FONT = ROOT / 'fonts' / 'ofl' / 'Fredoka.ttf'
 CLEAR = (0, 0, 0, 0)
+# The dark town's CLUT 0 aliases wood index 11 and lettering index 12.
+# CLUT 1 separates them, so the PNG can roundtrip their intended indices.
+EDIT_PALETTES = {'GV30002D.BIN:0': 1}
 HUD = {'pixel': True, 'outline': 0, 'fill': (248, 248, 248, 255)}
 HUD_CONDENSED = {**HUD, 'pixel': 'credits7.txt', 'tight': True}
 PANEL = {'bg': 'fill', 'outline': 0, 'align': 'left', 'size': 14, 'fill': (8, 8, 8, 255)}
@@ -347,10 +350,20 @@ def draw(im, x0, y0, x1, y1, text, o, pal):
     assert all(px[x, y] in pal for y in range(y0, y1) for x in range(x0, x1))
 
 
-def original(key, p=0):
+def original(key, p=None):
     name, _, e = key.partition(':')
     t, _ = gfx.unpack(arc.entries((gfx.TREE / name).read_bytes())[int(e)][1])
-    return t, tim.image(t, p)
+    return t, tim.image(t, EDIT_PALETTES.get(key, 0) if p is None else p)
+
+
+def png_path(key, palette=None):
+    name, entry = key.split(':')
+    palette = EDIT_PALETTES.get(key, 0) if palette is None else palette
+    return gfx.EN / f'{Path(name).stem}_{entry}{f"_p{palette}" if palette else ""}.png'
+
+
+def redrawn(key):
+    return gfx.redraw(original(key)[0], png_path(key), EDIT_PALETTES.get(key, 0))
 
 
 def copies():
@@ -375,7 +388,8 @@ def generate(keys=None):
         if keys and key not in keys:
             continue
         t, im = original(key)
-        pal = {c if c[3] else CLEAR for c in gfx.palette(t, 0)}
+        editing_palette = EDIT_PALETTES.get(key, 0)
+        pal = {c if c[3] else CLEAR for c in gfx.palette(t, editing_palette)}
         im = Image.eval(im, lambda v: v)
         im.putdata([c if c[3] else CLEAR for c in im.getdata()])
         for x0, y0, x1, y1, text, o in labels:
@@ -409,10 +423,9 @@ def generate(keys=None):
         if key == 'NAME0D.BIN:1':
             name_entry.draw(im)
         for k in same[t]:
-            name, _, e = k.partition(':')
-            out = gfx.EN / f'{Path(name).stem}_{e}.png'
+            out = png_path(k, editing_palette)
             im.save(out)
-            print(out.relative_to(ROOT), gfx.changed_box(t, out))
+            print(out.relative_to(ROOT), gfx.changed_box(t, out, editing_palette))
     return same
 
 

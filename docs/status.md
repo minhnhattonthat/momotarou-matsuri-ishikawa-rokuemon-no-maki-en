@@ -4,6 +4,17 @@ Updated at the end of every session. Keep it to what the next session needs; his
 
 - **Phase:** **8 in progress** (QA in the emulator), then 9 (release).
 - **Done (phase 8 so far, 2026-11-01):**
+  - Inn signs: both engraved forms now read **Inn**, **34 placements / 28 atlases** including M220D.
+    Cold original/English routes cover **26 field placements**, including snow, rain and night variants.
+    The first night redraw lost strokes because CLUT 0 aliases wood/ink; a new regression caught it,
+    and GV30002D now imports through distinct CLUT-1 colours. Fresh D10 review: **26/26 Inn details ok**;
+    whole-scene gate **45 ok / 7 issues** (other Tea/と signs, purple-banner and ground-placard classification).
+    `inn-signs-qa.md` / `inn-signs-verdicts.tsv` record the routes, hashes and unproved copies. Map208 has
+    no known native initializer; unreferenced/underlying plaques and the M22 duplicate remain runtime gaps.
+  - Current validation: **107 tests / lint 0**, verifier **394 changed files / 0 errors**, cold smoke
+    `inn_final8_smoke` passed; **26/26 complete plaques / 0 Japanese lines in 26 logs**. Main disc:
+    **182,451,696 bytes**, **2026-11-01 12:46:24 UTC**, SHA-1
+    **7e5908a7bc3a4b2d6b85346a18da1cb050d1c3b1**. Phase 8 still has not met its done-when.
   - Additional Games boards: **GV16000D:3 / GV22000D:1**, plus identical **M220D:3**, translated.
     Five cold field placements cover bath town and both island boards in sunny/rainy states. The island
     board's split right edge was fixed after visual rejection; weather matching requires an exact full
@@ -379,7 +390,11 @@ Updated at the end of every session. Keep it to what the next session needs; his
     bath-counter placard is now Private Today, verified under palette 2 in all three contexts (`small-props-qa.md`).
     Five Games atlases now have six accepted cold placements (`games-signs-qa.md`); other Games variants
     #481/#514 Games boards are now accepted in five more contexts; #562 still needs classification,
-    and wooden shop/stall signs remain Japanese. `signs_tour.py --only` reproduces the
+    and Tea/equipment/produce shop and stall signs remain Japanese. Both Inn glyph families now have
+    26 accepted cold placements (`inn-signs-qa.md`); seven context findings keep their gate red.
+    Static/underlying copies and map208 remain unproved.
+    `gfxfind_rect.py --indices 12 13` finds complete engraved-glyph copies; `inn_consumers.py` lists their
+    static map consumers. `signs_tour.py --only` reproduces the
     new Games, accepted contest and bath contexts; `fieldmap.py` is a navigation preview, never QA evidence.
   - Shared HUD counters: natural Win/Loss/min/sec/later/Match/small-Bonus contexts remain unproved;
     partial M990D:2 item 42 and M990D:3 items 19/20 retain original pixels and need runtime classification.

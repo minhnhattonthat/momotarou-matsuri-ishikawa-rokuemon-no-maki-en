@@ -1,0 +1,53 @@
+id	sha1	verdict	note
+inn100_inn_context_sheet	4926d77d7a7a7d9903fdc5f677e44b1f82e2a98a	ok	Complete Inn lettering is legible; original board edge and roof remain intact; other shop labels are outside this verdict.
+inn100_inn_detail_sheet	6b1807c8f7ca2fb0885421cc0bd2c9b9d0c3aed3	ok	Complete Inn lettering is legible; original board edge and roof remain intact; other shop labels are outside this verdict.
+inn114_inn_context_sheet	e26b5bbd1138dbd095f56857516f517a80917f9a	ok	Complete Inn lettering is legible; original board edge and roof remain intact; other shop labels are outside this verdict.
+inn114_inn_detail_sheet	7323bb6766a0cbc97b064595d2cd123f9642b054	ok	Complete Inn lettering is legible; original board edge and roof remain intact; other shop labels are outside this verdict.
+inn126_inn_context_sheet	af80a65cf36353e411c04b96aa52f8bc12200fec	ok	Complete Inn lettering is legible; original board edge and roof remain intact; other shop labels are outside this verdict.
+inn126_inn_detail_sheet	28e8f44640d28bc7eb0b292dedef50dc2f297fab	ok	Complete Inn lettering is legible; original board edge and roof remain intact; other shop labels are outside this verdict.
+inn143a_inn_context_sheet	fdab95fefe472a133b8334234bbc20bf5ddea2f1	issue	Inn passes; the adjacent teahouse roof still shows Japanese 茶.
+inn143a_inn_detail_sheet	6b1807c8f7ca2fb0885421cc0bd2c9b9d0c3aed3	ok	Complete Inn lettering is legible; original board edge and roof remain intact; other shop labels are outside this verdict.
+inn143b_inn_context_sheet	cd06f15a5a54a6463642cea80a0b9af87c0b9981	ok	Complete Inn lettering is legible; original board edge and roof remain intact; other shop labels are outside this verdict.
+inn143b_inn_detail_sheet	6b1807c8f7ca2fb0885421cc0bd2c9b9d0c3aed3	ok	Complete Inn lettering is legible; original board edge and roof remain intact; other shop labels are outside this verdict.
+inn144a_inn_context_sheet	f183383402dcb6ac192968093bec794ab3a1a90a	issue	Inn passes; the adjacent snowy teahouse roof still shows Japanese 茶.
+inn144a_inn_detail_sheet	153b44c2d5eabab4727920deffe7143c7bffcc4b	ok	Complete Inn lettering is legible; original board edge and roof remain intact; other shop labels are outside this verdict.
+inn144b_inn_context_sheet	f67a86f1086554987274718e241235502a4ad803	ok	Complete Inn lettering is legible; original board edge and roof remain intact; other shop labels are outside this verdict.
+inn144b_inn_detail_sheet	153b44c2d5eabab4727920deffe7143c7bffcc4b	ok	Complete Inn lettering is legible; original board edge and roof remain intact; other shop labels are outside this verdict.
+inn163_inn2_context_sheet	ac695d4931ada9c354780a27df0fe1b667f58c43	issue	Inn passes; the white emblem on the purple roof banner needs zoomed graphics-text classification.
+inn163_inn2_detail_sheet	1c8bdf923da0181ccc7b8112a09c851207a771ac	ok	Complete Inn lettering is legible; original board edge and roof remain intact; other shop labels are outside this verdict.
+inn180_inn_context_sheet	18c6883180e3b4c3d3959a16b88cd6a47f9aa87a	issue	Inn passes; the tiny ground placard at the courtyard entrance needs graphics-text classification.
+inn180_inn_detail_sheet	7ef32bdd9178ae722384a7434cbbfa1da1507b89	ok	Complete Inn lettering is legible; original board edge and roof remain intact; other shop labels are outside this verdict.
+inn207_inn_context_sheet	e46348516ef570dd14355d99053abe4243b83ed6	ok	Complete Inn lettering is legible; original board edge and roof remain intact; other shop labels are outside this verdict.
+inn207_inn_detail_sheet	15a9f6b3a457f6095df1a478c36d1321052378b7	ok	Complete Inn lettering is legible; original board edge and roof remain intact; other shop labels are outside this verdict.
+inn223_inn_context_sheet	a0036509e25149ffae3cf23e79da6b0a92f7f476	ok	Complete Inn lettering is legible; original board edge and roof remain intact; other shop labels are outside this verdict.
+inn223_inn_detail_sheet	03ef817762dd7b82b5c20b097bd417ca44a1dc76	ok	Complete Inn lettering is legible; original board edge and roof remain intact; other shop labels are outside this verdict.
+inn237_inn_context_sheet	35331a938dd233bbe8fa9cea728b7c26077923e9	issue	Inn passes with the native rain palette; the lower shop plaque still shows Japanese と.
+inn237_inn_detail_sheet	a5f509423fb54e0a9f4fcfc0172f466e6a667fbc	ok	Complete Inn lettering under native rain colours; darkness matches original and board/roof remain intact.
+inn238_inn_context_sheet	3c0ca40eae44a4559c65e6236edd7e5ad8b44b54	issue	Inn passes; the lower shop plaque still shows Japanese と.
+inn238_inn_detail_sheet	03ef817762dd7b82b5c20b097bd417ca44a1dc76	ok	Complete Inn lettering is legible; original board edge and roof remain intact; other shop labels are outside this verdict.
+inn263_inn_context_sheet	68d70ff8d58a4ce0c21b7494c7db632e67ca0b4e	ok	Complete Inn lettering is legible; original board edge and roof remain intact; other shop labels are outside this verdict.
+inn263_inn_detail_sheet	d30b08399c0db072c07ab349fd4239269ec4b3be	ok	Complete Inn lettering is legible; original board edge and roof remain intact; other shop labels are outside this verdict.
+inn285_inn_context_sheet	04da280ffb4d6b7619c1d26349467a2a8eba24b7	ok	Complete Inn strokes after CLUT-1 import fix; native dark-blue night palette and board edge preserved.
+inn285_inn_detail_sheet	eb8b678c55b8c267cf913bfffc27cb2d6850bbe1	ok	Complete Inn strokes after CLUT-1 import fix; native dark-blue night palette and board edge preserved.
+inn286_inn_context_sheet	b380e9023fad992d21407a225cf25bd6a5511f21	ok	Complete Inn lettering is legible; original board edge and roof remain intact; other shop labels are outside this verdict.
+inn286_inn_detail_sheet	48f3542e0238d55c11b56462ad148b9a58a36364	ok	Complete Inn lettering is legible; original board edge and roof remain intact; other shop labels are outside this verdict.
+inn295_inn_context_sheet	a7309ddcfdb63313503657bcaeaeead0c15d7b0e	issue	Inn passes; the lower-left teahouse roof still shows Japanese 茶.
+inn295_inn_detail_sheet	96b2fd2ff3a13f0628cd22609025a9a503054d68	ok	Complete Inn lettering is legible; original board edge and roof remain intact; other shop labels are outside this verdict.
+inn306_inn_context_sheet	493a5d08cf25785d2af4f94db056273079babde6	ok	Complete Inn lettering is legible; original board edge and roof remain intact; other shop labels are outside this verdict.
+inn306_inn_detail_sheet	9f6330d25aa4a3660a8de7e9abef175545b1d2be	ok	Complete Inn lettering is legible; original board edge and roof remain intact; other shop labels are outside this verdict.
+inn320_inn_context_sheet	5c0ab7ed9033fac2adf569b28a7c26e0bd6d9597	ok	Complete Inn lettering is legible; original board edge and roof remain intact; other shop labels are outside this verdict.
+inn320_inn_detail_sheet	7ef32bdd9178ae722384a7434cbbfa1da1507b89	ok	Complete Inn lettering is legible; original board edge and roof remain intact; other shop labels are outside this verdict.
+inn321_inn_context_sheet	5c0ab7ed9033fac2adf569b28a7c26e0bd6d9597	ok	Complete Inn lettering is legible; original board edge and roof remain intact; other shop labels are outside this verdict.
+inn321_inn_detail_sheet	7ef32bdd9178ae722384a7434cbbfa1da1507b89	ok	Complete Inn lettering is legible; original board edge and roof remain intact; other shop labels are outside this verdict.
+inn335_inn2_context_sheet	04a95ef8bbc3b3698c813072a8079f4bee499c33	ok	Complete Inn lettering is legible; original board edge and roof remain intact; other shop labels are outside this verdict.
+inn335_inn2_detail_sheet	62a6fe17eed9b11e515a72c4c51ae128065b0e24	ok	Complete Inn lettering is legible; original board edge and roof remain intact; other shop labels are outside this verdict.
+inn45_inn_context_sheet	7d7864db542da0660e04d885cc655d79b2d875c2	ok	Complete Inn lettering is legible; original board edge and roof remain intact; other shop labels are outside this verdict.
+inn45_inn_detail_sheet	91bf6338fdcfdc9a7526ed36e39d13fbb1d4f9f0	ok	Complete Inn lettering is legible; original board edge and roof remain intact; other shop labels are outside this verdict.
+inn59_inn_context_sheet	d5c2778a7577f43a80118fd491bf4cb03a71f611	ok	Complete Inn lettering is legible; original board edge and roof remain intact; other shop labels are outside this verdict.
+inn59_inn_detail_sheet	6b1807c8f7ca2fb0885421cc0bd2c9b9d0c3aed3	ok	Complete Inn lettering is legible; original board edge and roof remain intact; other shop labels are outside this verdict.
+inn80_inn2_context_sheet	52de9d85654f361907b283d58a2f1bf7833781d8	ok	Complete Inn lettering is legible; original board edge and roof remain intact; other shop labels are outside this verdict.
+inn80_inn2_detail_sheet	d238a9b015894824dc00e60fc495850ab9e38a61	ok	Complete Inn lettering is legible; original board edge and roof remain intact; other shop labels are outside this verdict.
+inn81_inn_context_sheet	cc31b90cae85897b36a3706f5d0ab7c548c8acea	ok	Complete Inn lettering is legible; original board edge and roof remain intact; other shop labels are outside this verdict.
+inn81_inn_detail_sheet	87ffe1192f3121d0983b41fc63c48a83b57ff3e3	ok	Complete Inn lettering is legible; original board edge and roof remain intact; other shop labels are outside this verdict.
+inn99_inn_context_sheet	a004115c26a4c8c8dd9d2316325f211aa3031391	ok	Complete Inn lettering is legible; original board edge and roof remain intact; other shop labels are outside this verdict.
+inn99_inn_detail_sheet	6b1807c8f7ca2fb0885421cc0bd2c9b9d0c3aed3	ok	Complete Inn lettering is legible; original board edge and roof remain intact; other shop labels are outside this verdict.

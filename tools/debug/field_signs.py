@@ -48,15 +48,18 @@ def match_remapped(screen, template):
     return None
 
 
-def check(run, key, original=False, patterns=('*.png',), weather=False):
+def check(run, key, original=False, patterns=('*.png',), weather=False, labels=None):
     texture, _ = gen_gfx.original(key)
     if not original:
-        name, entry = key.split(':')
-        texture = gfx.redraw(texture, gfx.EN / f'{Path(name).stem}_{entry}.png')
+        texture = gen_gfx.redrawn(key)
     palettes = tim.parse(texture)[2][3]
     paths = sorted({path for pattern in patterns for path in run.glob(pattern)})
     rows = []
+    if labels is not None:
+        assert set(labels) <= {sign[0] for sign in gfx_signs.SIGNS[key]}, (key, labels)
     for label, pieces, rect, _, _, _ in gfx_signs.SIGNS[key]:
+        if labels is not None and label not in labels:
+            continue
         templates = [gfx_signs.assemble(tim.image(texture, pal), pieces).crop(rect) for pal in range(palettes)]
         found = None
         for path in paths:

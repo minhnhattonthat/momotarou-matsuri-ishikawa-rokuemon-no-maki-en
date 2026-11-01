@@ -37,7 +37,37 @@ CASES = {
     'games237b': (237, 87, 40, 0, 'GV22000D.BIN:1'),
     'games238a': (238, 17, 16, 0, 'GV22000D.BIN:1'),
     'games238b': (238, 87, 40, 0, 'GV22000D.BIN:1'),
+    'inn45': (45, 20, 36, 0, 'GV01000D.BIN:0'),
+    'inn59': (59, 37, 123, 0, 'GV02000D.BIN:0'),
+    'inn99': (99, 48, 58, 0, 'GV06000D.BIN:0'),
+    'inn100': (100, 48, 58, 0, 'GV06000D.BIN:0'),
+    'inn114': (114, 32, 61, 0, 'GV08000D.BIN:0'),
+    'inn80': (80, 47, 43, 0, 'GV04000D.BIN:0'),
+    'inn81': (81, 47, 43, 0, 'GV04002D.BIN:0'),
+    'inn126': (126, 39, 57, 0, 'GV09000D.BIN:0'),
+    'inn143a': (143, 16, 33, 0, 'GV12000D.BIN:0'),
+    'inn143b': (143, 116, 33, 0, 'GV12000D.BIN:0'),
+    'inn144a': (144, 16, 33, 0, 'GV12002D.BIN:0'),
+    'inn144b': (144, 116, 33, 0, 'GV12002D.BIN:0'),
+    'inn163': (163, 45, 52, 0, 'GV13000D.BIN:0'),
+    'inn180': (180, 80, 84, 0, 'GV16000D.BIN:0'),
+    'inn223': (223, 31, 48, 0, 'GV21000D.BIN:0'),
+    'inn237': (237, 20, 36, 0, 'GV22000D.BIN:0'),
+    'inn238': (238, 20, 36, 0, 'GV22000D.BIN:0'),
+    'inn263': (263, 48, 56, 0, 'GV23000D.BIN:0'),
+    'inn285': (285, 40, 34, 0, 'GV30002D.BIN:0'),
+    'inn286': (286, 40, 34, 0, 'GV30000D.BIN:0'),
+    'inn295': (295, 34, 18, 0, 'GV32000D.BIN:0'),
+    'inn306': (306, 46, 41, 0, 'GV34000D.BIN:0'),
+    'inn320': (320, 33, 41, 0, 'GV36000D.BIN:0'),
+    'inn321': (321, 33, 41, 0, 'GV36000D.BIN:0'),
+    'inn207': (207, 16, 21, 0, 'GV20000D.BIN:0'),
+    'inn335': (335, 25, 32, 0, 'GV38000D.BIN:0'),
 }
+# These atlases also retain another Inn tile beneath/outside the visible
+# map layer. These routes approve only the displayed layer's complete label.
+CASE_LABELS = {'inn80': ('inn2',), 'inn163': ('inn2',), 'inn99': ('inn',),
+               'inn100': ('inn',), 'inn295': ('inn',), 'inn335': ('inn2',)}
 
 
 def run(name, args, initializers):
@@ -68,7 +98,8 @@ def run(name, args, initializers):
         (out / 'harness.log').write_text(result.stdout + result.stderr, encoding='utf-8')
         if result.returncode:
             return name, [('emulator', name, 'failed', '', '', '')]
-    return name, check(out, key, args.original, ('walk_*.png', f'{name}.png', 'final.png'), weather=m == 237)
+    return name, check(out, key, args.original, ('walk_*.png', f'{name}.png', 'final.png'),
+                       weather=m == 237, labels=CASE_LABELS.get(name))
 
 
 def main():

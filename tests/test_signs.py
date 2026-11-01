@@ -19,7 +19,7 @@ def test_sign_frames_cloth_silhouettes_and_other_tiles_preserved():
     for key, signs in gfx_signs.SIGNS.items():
         _, original = gen_gfx.original(key)
         name, entry = key.split(':')
-        revised = Image.open(gfx.EN / f'{Path(name).stem}_{entry}.png').convert('RGBA')
+        revised = Image.open(gen_gfx.png_path(key)).convert('RGBA')
         allowed = set()
         for x0, y0, x1, y1 in gfx_props.rectangles(key):
             allowed.update((x, y) for y in range(y0, y1) for x in range(x0, x1))
@@ -59,3 +59,20 @@ def test_full_contest_title_survives_split_atlas_boundary():
         for y in range(7):
             for x in range(expected.width):
                 assert (assembled.getpixel((left + x, top + y)) == colour) == bool(expected.getpixel((x, y)))
+
+
+def test_inn_plaques_remove_both_original_engraving_colours():
+    mask = gen_gfx.mask('Inn', 7, {'pixel': 'credits7.txt', 'tight': True})
+    for stem, positions in gfx_signs.INN_ATLASES.items():
+        texture, _ = gen_gfx.original(f'{stem}.BIN:0')
+        revised = gfx.indices(gen_gfx.redrawn(f'{stem}.BIN:0'))
+        width = gfx.layout(texture)[1]
+        for x0, y0 in positions:
+            left, top = (13 - mask.width) // 2, (13 - mask.height) // 2
+            for y in range(13):
+                for x in range(13):
+                    colour = revised[(y0 + y) * width + x0 + x]
+                    letter = (left <= x < left + mask.width and top <= y < top + mask.height
+                              and mask.getpixel((x - left, y - top)))
+                    assert (colour == 12) == bool(letter), (stem, x0 + x, y0 + y)
+                    assert colour != 13, (stem, x0 + x, y0 + y)

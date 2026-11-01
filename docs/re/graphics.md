@@ -46,6 +46,12 @@ Every Japanese-bearing image found by five read-only reviewers over all 80 sheet
 | hud / other | 9 | 白/赤 team icons (DEF0D:9), speech bubbles (M060D:2, M080D:6), 祭 emblems in ending art (keep), どっち? |
 
 Open for later phases:
+- Both engraved Inn glyph families are translated: 34 placements in 28 atlases,
+  26 cold original/English placements and 26 accepted detail sheets; the 52-sheet
+  gate retains seven whole-scene issues for other signs/emblems
+  (`inn-signs-qa.md`, `inn-signs-verdicts.tsv`). GV30002D requires CLUT-1 PNG
+  import because CLUT 0 aliases wood and ink. Static/underlying copies, map208's
+  unknown initializer and M22's duplicate lack runtime proof; other shop labels remain.
 - Five Games boards now have six complete cold placements and twelve accepted
   context/detail comparisons (`games-signs-qa.md`). Actual roof CLUTs require
   index12 lettering; narrow-board repairs exclude roof colours. Other Games
