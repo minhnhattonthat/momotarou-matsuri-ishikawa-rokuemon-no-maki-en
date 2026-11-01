@@ -32,6 +32,7 @@ Addresses are for the dump in `rom.sha1` unless a note says otherwise.
 | [hud-counters-qa.md](hud-counters-qa.md) | Twelve HUD counters, record/floor layout fixes, M34 panel expansion and natural counter routes | Scoped cold coverage; phase-wide QA remains open |
 | [field-signs-qa.md](field-signs-qa.md) | Pun Contest banners, three bath curtain copies, complete lettering checks | Scoped cold evidence; split contest atlas still lacks runtime coverage |
 | [map-initializers.md](map-initializers.md) | Wrong world-map initializer in every map warp; real per-map calls and input timing fix | All nine excluded maps recovered; phase-wide QA remains open |
+| [character-intro-qa.md](character-intro-qa.md) | Five full attract-mode names, split Yashahime layout and untouched cold title sequence | 5/5 complete character/name pairs on both discs, 5 scoped visual sheets; fan/costume marks remain |
 
 Tools: `tools/iso.py` (LBAs), `tools/arc.py` (archives), `tools/ecd.py` (ECD codec), `tools/tim.py` (TIM decode),
 `tools/gfxdump.py` (static image sweep into `work/gfx/`), `tools/ramfind.py` (which files sit where in a RAM dump),

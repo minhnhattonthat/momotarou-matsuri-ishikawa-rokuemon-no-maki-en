@@ -42,6 +42,14 @@ MASK_BUTTON = {'bg': 'fill', 'outline': 0, 'size': 17, 'fill': (248, 248, 248, 2
 MASK_DIM = {**MASK_BUTTON, 'fill': (128, 128, 128, 255)}
 
 LABELS = {
+    # Attract-mode character introductions. Yashahime is assembled from three
+    # fragments below; none of these name rectangles includes character art.
+    'CHR0D.BIN:1': [(120, 208, 208, 240, 'Momotaro', {})],
+    'CHR0D.BIN:2': [
+        (0, 192, 88, 224, 'Kintaro', {}),
+        (200, 184, 256, 216, 'Urashima', {'wdth': 75}),
+        (88, 216, 256, 248, 'Ishikawa Rokuemon', {'wdth': 75}),
+    ],
     **{key: [] for key in gfx_signs.SIGNS},
     'M340D.BIN:1': [],  # gfx_hud extends the counter panel for the full word "times".
     'M050D.BIN:2': [(0, 136, 64, 152, 'Jackpot!', {})],
@@ -225,6 +233,10 @@ for _i, _name in enumerate(name for name, count in PREFECTURES for _ in range(co
 # Good Work's last two kana are a separate sprite. Pause is split into top/bottom
 # halves stored side-by-side. Letter the assembled image, then scatter it back.
 COMPOSITES = {
+    'CHR0D.BIN:2': [
+        ('Yashahime', [(0, 224, 88, 16, 0, 0), (88, 200, 80, 16, 8, 16),
+                       (0, 240, 8, 16, 0, 16)]),
+    ],
     'M990D.BIN:1': [
         ('Good Work', [(120, 168, 136, 32, 0, 0), (216, 200, 32, 32, 136, 0)]),
         ('Pause', [(0, 232, 96, 16, 0, 0), (96, 232, 96, 16, 0, 16)]),

@@ -33,6 +33,30 @@ def test_table_location_and_signed_offsets():
 
 
 @pytest.mark.skipif(not gfx.TREE.exists(), reason='needs work/disc')
+def test_intro_names_preserve_every_character_pixel_and_split_name(tmp_path):
+    from PIL import Image
+    original = arc.entries((gfx.TREE / 'CHR0D.BIN').read_bytes())
+    translated = arc.entries(gfx.apply('CHR0D.BIN', (gfx.TREE / 'CHR0D.BIN').read_bytes()))
+    for entry in range(5, 10):
+        # No geometry changes; rendering the complete character detects any
+        # label rectangle accidentally erasing art reused elsewhere in the atlas.
+        assert original[entry][1] == translated[entry][1]
+        records = anm.items(original[entry][1])
+        before, after = tmp_path / f'old{entry}', tmp_path / f'new{entry}'
+        anm.render(original, records, before, strict=True)
+        anm.render(translated, records, after, strict=True)
+        assert Image.open(before / '000.png').tobytes() == Image.open(after / '000.png').tobytes()
+        assert Image.open(before / '001.png').tobytes() != Image.open(after / '001.png').tobytes()
+    # The split name reconstructs exactly the same 88x32 canvas as a single
+    # English draw, including the narrow third fragment at the lower left.
+    canvas = Image.open(tmp_path / 'old8' / '001.png').convert('RGBA')
+    texture, _ = gen_gfx.original('CHR0D.BIN:2')
+    palette = {c if c[3] else gen_gfx.CLEAR for c in gfx.palette(texture, 0)}
+    gen_gfx.draw(canvas, 0, 0, 88, 32, 'Yashahime', {}, palette)
+    assert canvas.tobytes() == Image.open(tmp_path / 'new8' / '001.png').tobytes()
+
+
+@pytest.mark.skipif(not gfx.TREE.exists(), reason='needs work/disc')
 def test_reused_vram_pages_require_explicit_loaded_textures(tmp_path):
     archive = arc.entries((gfx.TREE / 'M590D.BIN').read_bytes())
     records = [[(r[0] & ~0x7000, *r[1:]) for r in item] for item in anm.items(archive[9][1])]

@@ -1,6 +1,6 @@
 id	source	kind	japanese	note
-#1	CHR0D.BIN:1@2a50	logo	桃太郎 (orange tag, with 祭 fan)	character-select name tag
-#2	CHR0D.BIN:2@89d0	menu	金太郎 / 夜叉姫 (x2) / 石川六右衛門 / 浦島	character name plates
+#1	CHR0D.BIN:1@2a50	logo	桃太郎; 祭 on Kintaro/Urashima fans	Momotaro name English with natural attract-mode proof; fan emblems remain Japanese; character-intro-qa.md
+#2	CHR0D.BIN:2@89d0	menu	金太郎 / 夜叉姫 (three fragments of one name) / 石川六右衛門 / 浦島; costume marks	all four name labels English, natural cold 5/5 pairs across CHR0D:1/2; costume marks remain unclassified; character-intro-qa.md
 #6	CI0D.BIN:3@a910	logo	スタートボタンを おしてね! / 桃太郎 / 石川六右衛門 / まつり / の巻 / いしかわろくえもんのまき furigana	title logo parts + press-start prompt
 #16	DEF0D.BIN:9@1f880	other	白 / 赤	tiny team icons (white/red)
 #37	ECTBG06D.BIN:2@26f0	sign	calligraphy on 3 hanging scrolls	unsure, brush script (decoration?)

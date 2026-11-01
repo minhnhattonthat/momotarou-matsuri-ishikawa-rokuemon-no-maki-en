@@ -4,6 +4,18 @@ Updated at the end of every session. Keep it to what the next session needs; his
 
 - **Phase:** **8 in progress** (QA in the emulator), then 9 (release).
 - **Done (phase 8 so far, 2026-11-01):**
+  - Character-introduction checkpoint: Momotaro, Kintaro, Urashima, Yashahime and the full Ishikawa Rokuemon
+    name are English in CHR0D:1/2. Yashahime was three fragments of one name, not two copies; the composite
+    redraw and regression test preserve every character pixel and all ANM data.
+  - `tools/debug/character_intro.py` waits through the natural title attract sequence, with no input, save
+    or RAM substitutions. Original and English runs each pass **5/5 complete character/name pairs in the same
+    frame**; fresh read-only review accepts **5/5 scoped sheets** (`docs/re/character-intro-qa.md`).
+    Festival-fan lettering and costume marks remain open; the name-label verdicts do not approve them.
+  - Latest validation: **75 tests passed**, lint 0; verifier **369 changed files / 0 errors**; cold smoke
+    `work/qa/names8_smoke` passed. The intro has no textlog output, so its 0-log result is not text coverage.
+    Main disc: **182,494,032 bytes**, **2026-11-01 06:57:03 UTC**, SHA-1
+    **3f33c5f80f72f7b7288ca70c74a417f49c46b85c** (`build/names8.bin` is identical).
+    **Phase 8 remains incomplete; do not advance to release.** Full graphics, visual and story-state gates remain.
   - Field-sign/map-warp checkpoint: both Pun Contest board atlases translated with the full glossary name;
     Men's Bath / Women's Bath curtains updated in all three atlas copies. Original and English cold routes
     each pass **7/7 lettering checks** across four maps, including the alternate red/blue palettes.
@@ -209,6 +221,9 @@ Updated at the end of every session. Keep it to what the next session needs; his
     156,128 bytes (game_m25/m70-72 minigames), so English growth (a few KB per file) is far from the limit.
     15 runs of that sweep died with emulator exit -1 while other emulators ran; all 15 passed on a rerun.
 - **Next (phase 8):**
+  - Character names now have natural attract-mode proof. The Japanese festival marks on Kintaro/Urashima's
+    fans and Rokuemon's costume marks still need translation/classification under D5; the four small name
+    tags in GCV0310D:13 are separate. `character-intro-qa.md` records exact name-piece bounds and cold routes.
   - Re-run the full text/visual tour with the corrected destination initializers. Older map shots lacked the
     proper actors and cannot support complete dialogue, animated decoration or story-state coverage. Use
     `map-initializers.md` and `work/qa/mapinit8_all/result.tsv` for the 358 passing cold entries; add interaction
