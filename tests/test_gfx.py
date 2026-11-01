@@ -15,6 +15,7 @@ import gfx_results  # noqa: E402
 import gfx_racers  # noqa: E402
 import gfx_hud  # noqa: E402
 import gfx_signs  # noqa: E402
+import gfx_intro  # noqa: E402
 import tim  # noqa: E402
 
 pytestmark = pytest.mark.skipif(not gfx.TREE.exists(), reason="needs work/disc (dumpsxiso)")
@@ -26,6 +27,29 @@ def test_pixel_labels_have_every_glyph_and_fit():
             if options.get('pixel'):
                 mask = gen_gfx.fit(text, x1 - x0, y1 - y0, options)
                 assert mask.width <= x1 - x0 and mask.height <= y1 - y0, (key, text)
+
+
+def test_intro_props_preserve_silhouettes_cloth_and_fan_handles():
+    from PIL import Image
+    for entry in (1, 2):
+        key = f'CHR0D.BIN:{entry}'
+        _, before = gen_gfx.original(key)
+        after = Image.open(gfx.EN / f'CHR0D_{entry}.png').convert('RGBA')
+        # Restrict this comparison to portrait pixels; names intentionally
+        # change their alpha masks in the lower atlas rows.
+        height = 184 if entry == 2 else 208
+        assert before.crop((0, 0, 256, height)).getchannel('A').tobytes() == (
+            after.crop((0, 0, 256, height)).getchannel('A').tobytes())
+        if entry == 2:
+            for y in range(184):
+                for x in range(256):
+                    c = before.getpixel((x, y))
+                    if max(c[:3]) - min(c[:3]) > 24:
+                        assert after.getpixel((x, y)) == c, (x, y)
+        else:
+            # Bamboo ribs and handles adjacent to both translated fan faces.
+            for rect in ((202, 102, 214, 124), (68, 235, 84, 248)):
+                assert before.crop(rect).tobytes() == after.crop(rect).tobytes()
 
 
 def test_roundtrip_and_one_pixel(tmp_path):
@@ -69,6 +93,7 @@ def test_redraws_change_only_declared_label_rectangles():
             rects += [(u, v, u + w, v + h) for u, v, w, h, _, _ in pieces]
         rects += [(u, v, u + w, v + h) for _, pieces in gen_gfx.COMPOSITES.get(key, [])
                   for u, v, w, h, _, _ in pieces]
+        rects += gfx_intro.rectangles(key)
         name, entry = key.split(':')
         t, _ = gen_gfx.original(key)
         png = gfx.EN / f'{Path(name).stem}_{entry}.png'

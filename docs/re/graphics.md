@@ -36,8 +36,9 @@ Every Japanese-bearing image found by five read-only reviewers over all 80 sheet
 Open for later phases:
 - Character-introduction names: all five full names are English with natural cold title-attract proof,
   5/5 complete character/name pairs on each disc and 5 scoped visual sheets (`character-intro-qa.md`).
-  Yashahime is three fragments of one name, not two copies. Japanese festival-fan lettering and costume
-  marks remain separate open graphics work; these verdicts do not approve those marks.
+  Yashahime is three fragments of one name, not two copies. Follow-up `character-props-qa.md` covers both
+  Festival fans and all ten coat numerals with new natural 5/5 pair matches and 3/3 scoped comparison sheets.
+  Separate ending/card marks and the four GCV0310 tags remain outside this portrait approval.
 - Field signs: both Pun Contest atlases are English; only GV13000D:2 has a cold display proof. The men's/women's
   bath curtains have six cold matches across all three atlas copies. Four scoped visual sheets are accepted;
   the tiny restored bath-counter placard remains unclassified (`field-signs-qa.md`). The corrected map warps

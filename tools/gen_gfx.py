@@ -32,6 +32,7 @@ import gfx_results  # noqa: E402
 import gfx_racers  # noqa: E402
 import gfx_hud  # noqa: E402
 import gfx_signs  # noqa: E402
+import gfx_intro  # noqa: E402
 
 FONT = ROOT / 'fonts' / 'ofl' / 'Fredoka.ttf'
 CLEAR = (0, 0, 0, 0)
@@ -389,6 +390,8 @@ def generate(keys=None):
             gfx_hud.draw_panel(im)
         if key in gfx_signs.SIGNS:
             gfx_signs.draw(im, key, pal)
+        if key.startswith('CHR0D.BIN:'):
+            gfx_intro.draw(im, key, pal)
         for k in same[t]:
             name, _, e = k.partition(':')
             out = gfx.EN / f'{Path(name).stem}_{e}.png'
