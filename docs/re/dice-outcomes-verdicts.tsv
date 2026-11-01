@@ -1,0 +1,19 @@
+sheet	sha1	verdict	note
+gussurin_draw_context_sheet	279b6f57f7c1fbade9a15acb16494b2275d8dbb0	ok	Complete Draw centered over Gussurin as on the original; no clipping or untranslated text.
+gussurin_draw_detail_sheet	543ab6ee1c803b67aa8a42bf3d809e294d8ba6b6	ok	Draw and exclamation complete; green-to-gold palette and dark outline stay legible.
+gussurin_lose_context_sheet	5c1aaa885c5b532215d14eb0f2b76e1a9566168a	ok	Complete Lose at native result position; actor overlap is original behavior.
+gussurin_lose_detail_sheet	4819eb591d3a49cba795ec24888de67767a0e617	ok	Lose and punctuation readable in blue gradient; no old Japanese strokes.
+gussurin_win_context_sheet	5e192e47f12c1653e13b5f31bcf4ea42ae2a6319	ok	Complete Win centered in native result; different dice and actor pose are expected.
+gussurin_win_detail_sheet	78356639fe8126b94f549b0ed2166f94aa88329a	ok	Win and exclamation readable; complete gold/orange lettering and outline.
+oni_draw_context_sheet	8c2e54c50f06df825b2cd62d0ba2e0c49a45bdd5	ok	Complete Draw fits native result position; Oni mask is facial artwork.
+oni_draw_detail_sheet	51d9457b929b041529259413ef673ae03322d62d	ok	Draw complete, centered and legible; no Japanese fragments around the banner.
+oni_lose_context_sheet	cc922838283bc7ab896f1358781c2990760635ed	ok	Relocated Lose displays naturally in front of the actor without clipping.
+oni_lose_detail_sheet	a796e210c98c96ab73620797a19ad3eb40237590	ok	Complete Lose including exclamation; old Japanese tail is absent in the natural result.
+oni_win_context_sheet	03cc7a3237b623d57717ff4b68b9077c16ea4326	ok	Native Win placement complete; actor and scene intact.
+oni_win_detail_sheet	68a8dad216f3ad2ace9222fc9a6ec1a09061fcc6	ok	Win and punctuation clean at enlarged size; original palette retained.
+rokuemon_draw_context_sheet	7c8e5334631fe85da542ed8b200c6c4273135af6	issue	Draw banner is correct; tiny pale coat badges near native (174,83) need classification, also present in original.
+rokuemon_draw_detail_sheet	fccf26cea393e755c0a138873c02c57d7fd00f45	ok	Alternate-atlas Draw fully assembled and legible; scope is banner, not upper coat badges.
+rokuemon_lose_context_sheet	ec3f9c58fea1be3ca372ad351ebfbd0d402a3f15	issue	Lose banner is correct; tiny pale coat badges remain unclassified, with no decoration exception inferred.
+rokuemon_lose_detail_sheet	dca1b9573521b6ad47b432b8ba07f190e3fbbc27	ok	Alternate-atlas Lose and exclamation complete with no clipped or stray lettering.
+rokuemon_win_context_sheet	2d33cb582a45fe3864278adc7e726ae4414ccca8	issue	Win banner is correct; small pale coat marks remain unresolved after enlarged atlas and runtime inspection.
+rokuemon_win_detail_sheet	4999f6cb24852f89b54b448baa582628256d6c98	ok	Alternate-atlas Win fully readable; crop does not approve the upper costume marks.

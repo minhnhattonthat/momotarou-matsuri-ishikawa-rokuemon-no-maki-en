@@ -28,6 +28,7 @@ Addresses are for the dump in `rom.sha1` unless a note says otherwise.
 | [timing-qa.md](timing-qa.md) | M50 native Start countdown and Poverty God P emblem | Success/early-failure routes on both discs, all six poses, 12 accepted sheets |
 | [fortune-qa.md](fortune-qa.md) | M49 God of Fortune F badges and native reward selector | All four cells in eight poses on both discs, trial return, 11 accepted sheets; alternate effects remain |
 | [tanuki-bibs-qa.md](tanuki-bibs-qa.md) | Eight Kintaro bib cells and native two-player dice route | 9/9 complete actor assemblies on both discs, 10 accepted sheets; natural Win/Lose and story return remain |
+| [dice-outcomes-qa.md](dice-outcomes-qa.md) | M56/M59 native Win/Lose/Draw, alternate Rokuemon atlas and nested text-log collision fix | 9/9 outcomes on both discs; 15 sheets ok, 3 unresolved coat-mark contexts; story entry/return remains |
 | [captions-rank-details-qa.md](captions-rank-details-qa.md) | All 27 native caption layouts and saved-Status's 43 record pages, ranks 0-10, empty records and return | Scoped cold original/English proof; natural story entrances and full phase QA remain open |
 | [name-entry-qa.md](name-entry-qa.md) | Latin player-name encoding, shared font copies and cold controller tour | 80 glyph IDs, confirmation/editing and Quick Match return; native four-character limit |
 | [name-persistence-qa.md](name-persistence-qa.md) | Memory-card parser bug, overwrite prompt fix and player-name save/reload | Four cold cases across both discs, eight name bytes verified, six scoped visual sheets |

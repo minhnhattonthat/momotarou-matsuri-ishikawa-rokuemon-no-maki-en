@@ -4,6 +4,21 @@ Updated at the end of every session. Keep it to what the next session needs; his
 
 - **Phase:** **8 in progress** (QA in the emulator), then 9 (release).
 - **Done (phase 8 so far, 2026-11-02):**
+  - Gussurin/M56, Oni/M59 selector 0 and Ishikawa Rokuemon/M59 selector 5 now have
+    **9/9 native Win/Lose/Draw placements on both discs**. `dice_outcomes_qa.py` varies
+    controller timing, checks native dice/ANM selectors and matches complete disc-sourced sprites.
+    **39 English / 11 original result captures pass**; English needed 35 cold runs.
+    Fresh D10 review: **15 ok / 3 issues**, no missing/stale verdicts. The three issues are
+    tiny Rokuemon coat marks in TIM5, added as survey #895 (206 rows); banners themselves pass.
+    Report and reproduction: `dice-outcomes-qa.md`; natural story return and Oni selectors 1..4 remain.
+  - Fixed `textlog.scan` silently discarding nested logs with repeated leaf names (e.g. `attempt_00`).
+    A failing regression proved Japanese could disappear; relative-path keys now retain every log.
+    Re-scan: **0 Japanese lines in all 35 English logs** (graphics excluded). Local historical
+    top-level QA roots have no such collisions; only this session's dice collections were affected.
+  - Latest validation: **136 tests / lint 0**, verifier **400 changed files / 0 errors**, cold
+    `work/qa/dice8_smoke` passed. Disc unchanged: **182,446,992 bytes**, SHA-1
+    **1b0e790cf5bbc1142a2adc1d6f68dd1476a49e75**. **Phase 8 remains incomplete**;
+    graphics/classifications, full visual and story/NPC gates still prevent phase 9.
   - Even Tanuki's eight **Kintaro bib cells** now use K. Cold native two-player play
     gives **9/9 complete actor assemblies on both discs**, covering every edited cell;
     fresh D10 review accepts **10/10** sheets (`tanuki-bibs-qa.md`). The first condensed
@@ -636,9 +651,11 @@ Updated at the end of every session. Keep it to what the next session needs; his
     HOUGEN0D ANM 5/6 does not reference its visible atlas fragments; the runtime draw path is still unknown.
     `tools/debug/atlas_refs.py` scans cross-archive ANM leads by page/depth/CLUT, but cannot prove runtime
     use or disuse; the report records the three fragment bounds and a working control region.
-  - Finish natural outcome/versus routes. M03 Perfect, M14/M56 and M59 story banners now have scoped cold
-    sprite-assembly proof (`hud-outcomes-qa.md`); M59's alternate TIM 6 / ANM 16 remains unapproved, and
-    Which? has fixture proof only. M010 awards and M990D:1 announcements also have full-sprite cold proof.
+  - Finish natural outcome/versus routes. M56 and both M59 banner atlases now have **9/9 native
+    outcome placements on both discs** (`dice-outcomes-qa.md`), including Rokuemon's TIM6 / ANM16.
+    Rokuemon's tiny TIM5 coat marks remain unclassified; story return and Oni selectors 1..4 remain.
+    M03 Perfect, M14 Win/Lose and Which? still have fixture proof only. M010 awards and M990D:1
+    announcements also have full-sprite cold proof.
     The pause fixture does not work while other games are in dialogue, so its exit code alone is not coverage.
     M990D:0's 40 large winner/ordinal states are now translated and cold-rendered (`results-qa.md`);
     normal gameplay progression still needs tour coverage. Small Bonus now uses a separate English sprite;
@@ -648,7 +665,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
     neither tested timing produced the banners. M140D:2's eight Kintaro bibs now have nine
     accepted native actor assemblies (`tanuki-bibs-qa.md`), which also records static ANM
     selector/scroll-descriptor leads. Good Work is not proof of those Win/Lose sprites.
-  - Graphics text (D5: all of it; docs/re/gfx_survey.tsv, 205 rows): product-title logo variants are now
+  - Graphics text (D5: all of it; docs/re/gfx_survey.tsv, 206 rows): product-title logo variants are now
     explicitly retained under D5 (`graphics.md`). Remaining work: the native Rank Details title consumer
     (Game Album/Quick Match!/Name Entry have cold proof in `menu-titles-qa.md`),
     remaining M990D fragment/context classification, remaining banners
@@ -678,7 +695,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
   - The nine historical map hangs are resolved by correct initialization and map 294's entry setup;
     story flags remain unmapped (warped maps show default state). `tools/deadcode.py` output is not safe hook
     space without an exec watch (`tools/lua/deadwatch.lua`, `warp_all.py --debugger`).
-  - Phase 8 remains incomplete: much of the 205-row graphics survey, the full visual manifest,
+  - Phase 8 remains incomplete: much of the 206-row graphics survey, the full visual manifest,
     and the corrected map interaction tour remain open. Do not advance to phase 9 on scoped graphics verdicts.
 - **Waiting on the user:**
   - (resolved, D9) reviews: the run brief allows a fresh read-only pass, so the repo's in-session `reviewer` /

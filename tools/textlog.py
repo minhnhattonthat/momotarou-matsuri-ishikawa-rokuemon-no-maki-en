@@ -21,15 +21,18 @@ def decode(t):
 
 
 def scan(root):
+    root = Path(root)
     out = {}
-    for log in sorted(Path(root).rglob('log.txt')):
+    for log in sorted(root.rglob('log.txt')):
         rows = []
         for line in log.read_text(encoding='utf-8', errors='replace').splitlines():
             m = LINE.match(line)
             if m:
                 rows.append((int(m.group(1)), int(m.group(2)), int(m.group(3)), m.group(4)))
         if rows:
-            out[log.parent.name] = rows
+            # Nested case/attempt directories often reuse the same leaf name.
+            # A leaf-only key silently lost earlier logs, including JP findings.
+            out[log.parent.relative_to(root).as_posix()] = rows
     return out
 
 

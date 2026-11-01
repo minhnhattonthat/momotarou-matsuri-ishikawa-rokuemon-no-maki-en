@@ -194,9 +194,10 @@ id	source	kind	japanese	note
 #870	M440D.BIN:0	sign	大トロ 四〇〇 / うに 三〇〇 / いくら えび 二〇〇 / たまご 一〇〇	Fatty Tuna 400 / Sea Urchin 300 / Salmon Roe 200 / Shrimp 200 / Egg 100; two-line horizontal layout avoids actors, egg wholly in atlas 1; small-props-qa.md
 #876	M490D.BIN:0@90	other	four God of Fortune costume initials ふ	F; all four badge cells in eight native reward poses on both discs; 11 accepted sheets; alternate coin-effect sequence not covered; fortune-qa.md
 #877	M500D.BIN:0	banner	スタート / four Poverty God costume initials び	Start and P; native countdown and success/early-failure routes cover all six actor poses on both discs; 12 accepted sheets; timing-qa.md
-#888	M560D.BIN:1	banner	勝ち! 負け! 引き分け!	Three English outcome sprites cold-rendered; actor substitution fixture only; hud-outcomes-qa.md
-#890	M590D.BIN:0	banner	引き分け! 勝ち! 負け!	Three English story banners cold-rendered; Lose tail fixed without touching actor pixels; hud-outcomes-qa.md
-#896	M590D.BIN:6	banner	勝ち! 負け! 引き分け!	same banners plus cloud sprites
+#888	M560D.BIN:1	banner	勝ち! 負け! 引き分け!	All three native outcomes on both discs; complete pixels and rolled values checked; six accepted context/detail sheets; dice-outcomes-qa.md
+#890	M590D.BIN:0	banner	引き分け! 勝ち! 負け!	All three native outcomes for Oni selector 0 on both discs; relocated Lose tail complete; six accepted sheets; selectors 1..4 and story return remain; dice-outcomes-qa.md
+#895	M590D.BIN:5@12e80	other	tiny pale Rokuemon coat marks, possibly stylized 六	Unclassified after enlarged atlas/native views; three context sheets remain issue; no decoration exception; dice-outcomes-qa.md
+#896	M590D.BIN:6	banner	勝ち! 負け! 引き分け!	Rokuemon selector 5; all three native outcomes on both discs, complete ANM16 pixels and dice checked; banner details accepted, coat context separate; dice-outcomes-qa.md
 #897	M990D.BIN:0	font	HUD word atlas: 時間計勝負分得点記録階 / 1P2P3P4P コース ステージ ボーナス 両 / 桃太郎と金の勝ち / 赤浦島夜叉姫鬼 二 / 三四五六七八九十 / 本日回戦負け 走天候予想後 / 参加レース けっか 遅い回 コ 本 秒 間	40 large winner/ordinal states English with cold proof (results-qa.md); 13 HUD states cold-rendered (hud-outcomes-qa.md); Duel cue corrected and centred with natural solo/versus proof (duel-cue-qa.md); other small counters and overlapping Bonus open
 #898	M990D.BIN:1	font	big outlined: 2345 6789 新記録達成!初 段位更新!段 免許皆伝ゲーム そこまで!おつかれさま 引き分け!スタート	English; 16/16 shared announcement states, checked ANM assembly edits, announcements-qa.md
 #902	NAME0D.BIN:0	menu	ゆうぎアルバム / 段位詳細 / おためし対戦! / ネームエントリー	Game Album, Quick Match and Name Entry have complete cold proof; separate Rank Details consumer remains open; menu-titles-qa.md
