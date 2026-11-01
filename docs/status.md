@@ -4,6 +4,19 @@ Updated at the end of every session. Keep it to what the next session needs; his
 
 - **Phase:** **8 in progress** (QA in the emulator), then 9 (release).
 - **Done (phase 8 so far, 2026-11-02):**
+  - Card063's final margin defect is repaired: complete top falling-leaf contour and no upper/right
+    caption fringe. Fresh D10 cold review accepts the changed five-card sheet and enlarged margin;
+    nineteen other sheets exactly match accepted hashes. **Full album 20/20 accepted; detail 1/1**.
+    `card063-qa.md` records source changes, commands, hashes and scope. Earlier card063 issues are superseded.
+  - Latest validation: **129 tests / lint 0**, verifier **399 changed files / 0 errors**, cold
+    `work/qa/card063_smoke` passed; `card063_cold` has **100/100 complete captures**, **0 Japanese lines**
+    (graphics excluded). Main disc **182,449,344 bytes**, **2026-11-01 17:25:34 UTC**, SHA-1
+    **30553cd86663b6a9af287ff00e626d2771e25c85**. **Phase 8 remains incomplete; phase 9 has not started.**
+  - Event classification rechecked on that disc: `snow_classify8_en` / `gold_classify8_en`, native
+    oracle **5/5**, textlog **0 Japanese lines in each run** (graphics excluded). Three enlarged
+    original/English comparisons remain **issue**, with no missing/stale verdicts: tiny placard marks
+    could be grain or schematic writing; the gold emblem still has no confident reading.
+    `event-props-qa.md` records exact crops/hashes. No owner decision is required and no exception is assumed.
   - Illustrated card-margin follow-up: **13 repaired margins accepted** on
     **007/026/033/039/044/054/075/079/082/087/093/094/098**. Grey drawing components and
     coloured backgrounds are preserved; card093 moves left to keep both falling leaves.
@@ -548,9 +561,10 @@ Updated at the end of every session. Keep it to what the next session needs; his
     on 028/036/046/081/099 are fixed. Follow-up `card-margin-polish-qa.md` now corrects
     003/011/022/045/085/086 with eight accepted cold sheets; the older 045 no-op is superseded.
     Full follow-up `card-full-art-qa.md` corrects 034/038/049/059/076/077/078/084 and reviews all 100 cards.
-    Follow-up `card-background-qa.md` accepts thirteen more margins. **Remaining card defect: 063**,
-    particularly the top falling-leaf outline and faint upper/right caption fringe. The full gate is
-    **19 ok / 1 issue sheet** and the fourteen margin details are **13 ok / 1 issue**.
+    Follow-up `card-background-qa.md` accepts thirteen more margins. Its **last card defect, 063**,
+    is now fixed by `card063-qa.md`: complete top falling-leaf contour and
+    upper/right fringe removed. The current full-album gate is **20/20 accepted**, with the enlarged
+    card063 detail also accepted; thirteen unchanged margin details retain their accepted observations.
     Locate/render the fragmented red new-card tag.
     HOUGEN0D ANM 5/6 does not reference its visible atlas fragments; the runtime draw path is still unknown.
     `tools/debug/atlas_refs.py` scans cross-archive ANM leads by page/depth/CLUT, but cannot prove runtime

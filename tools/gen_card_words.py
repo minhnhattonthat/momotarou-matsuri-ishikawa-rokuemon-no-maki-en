@@ -9,7 +9,7 @@ margin, clockwise, without resizing the illustration or the prefecture strip.
 import csv
 from collections import deque
 
-from PIL import Image, ImageFilter
+from PIL import Image, ImageDraw, ImageFilter
 
 import gen_gfx
 import gfx
@@ -224,6 +224,8 @@ def redraw(image, row, palette):
             erase_caption(image, erase, row['card'] in PAPER_CARDS, row['card'] in (45, 85))
     for paper in PAPER_RECTS.get(row['card'], []):
         image.paste((248, 248, 248, 255), paper)
+    if row['card'] == 63:
+        repair_card63(image, palette)
     x0, y0, x1, y1 = rect
     # One style throughout the album, with the same warm brown as the originals.
     opts = {'size': 14, 'wdth': 75, 'wght': 500, 'outline': 0}
@@ -240,6 +242,31 @@ def redraw(image, row, palette):
         raise ValueError(f"card {row['card']}: expected white paper colour")
     image.paste(paper, (x, y, x + lettering.width, y + lettering.height), edge)
     image.paste(colour, (x, y, x + lettering.width, y + lettering.height), lettering)
+
+
+def repair_card63(image, palette):
+    """Restore the leaf edge hidden by the first kana; clear isolated fringe.
+
+    These reviewed sky windows contain no illustration. Preserve their blue
+    pixels, but remove grey/yellow antialias remnants missed by hue selection.
+    The reconstructed lower arc joins the surviving original top/left outline.
+    """
+    paper = (248, 248, 248, 255)
+    for x0, y0, x1, y1 in ((198, 13, 208, 35), (180, 18, 198, 35),
+                           (198, 9, 208, 13), (196, 35, 208, 41),
+                           (201, 41, 208, 50), (198, 50, 208, 62)):
+        for y in range(y0, y1):
+            for x in range(x0, x1):
+                r, g, b, _ = image.getpixel((x, y))
+                if not (g - r >= 8 and b >= g):
+                    image.putpixel((x, y), paper)
+    def colour(rgb):
+        return min(palette, key=lambda p: sum((a - b) ** 2 for a, b in zip(p[:3], rgb)))
+    draw = ImageDraw.Draw(image)
+    draw.line([(184, 12), (186, 13), (190, 13), (194, 12), (196, 10), (197, 9)],
+              fill=colour((224, 224, 216)))
+    draw.line([(184, 11), (186, 12), (190, 12), (193, 11), (195, 10), (196, 9)],
+              fill=colour((192, 192, 184)))
 
 
 def render(row):

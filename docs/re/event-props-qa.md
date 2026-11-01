@@ -8,6 +8,37 @@ not an abbreviated character name. The two tiny snow placards remain
 unclassified, and a black mark on the ending's gold prop near screen (164,53)
 needs a separate enlarged classification. **Phase 8 remains incomplete.**
 
+## Classification follow-up, 2026-11-02
+
+Fresh event07 and event20 runs on main disc
+`30553cd86663b6a9af287ff00e626d2771e25c85` reproduce the remaining marks.
+The existing disc-sourced oracle again passes **5/5 complete prop regions**;
+each run's textlog reports zero Japanese text lines (graphics excluded).
+Outputs: `work/qa/snow_classify8_en/event07`, `work/qa/gold_classify8_en`,
+and oracle copies in `work/qa/event_classify8_current`.
+
+The fresh D10 read-only pass inspects paired original/English crops. The
+placards show short, wavy vertical marks which resemble wood grain or
+schematic writing. Neither their small native resolution nor enlargement
+establishes a confident reading or non-text classification. The black mark
+on the gold prop is also unresolved. No new translation or exception is
+inferred, and no event PNGs change in this follow-up. All three verdicts
+remain **issue**; `work/qa/event_classify8_review/manifest.tsv` therefore
+intentionally fails its gate with **0 missing/stale and 3 unresolved**.
+
+| Sheet | Screen crop x,y,w,h; zoom | SHA-1 |
+|---|---|---|
+| snow_left_sheet | 54,124,17,31; 12x | `97a42e407925ad1db693ad026bf59e3374458635` |
+| snow_right_sheet | 279,130,35,38; 10x | `955c04d97934bc474a29fe777169a81d1849ed4d` |
+| gold_sheet | 154,42,24,19; 12x | `ded20be3f3038a6a93cecb53a9e4861628de4127` |
+
+Reproduce with the cold commands below using the new output names. Then run
+`sheet.py` on the oracle's `snow_upper.png` or `fan_top.png`, comparing the
+same filename in `work/qa/event_props8_original`, with the crop/zoom above.
+Current captures are f003480 for snow and f008160 for the gold prop. These
+details sharpen the remaining classification targets; they do not supersede
+the original issue verdicts or supply story-progress coverage.
+
 ## Sources and preservation
 
 `tools/gfx_event_props.py` regenerates four PNGs through `gen_gfx.py`.
