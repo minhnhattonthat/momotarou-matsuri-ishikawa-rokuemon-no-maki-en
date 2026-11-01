@@ -36,6 +36,7 @@ Addresses are for the dump in `rom.sha1` unless a note says otherwise.
 | [minigame-labels-qa.md](minigame-labels-qa.md) | Minigame speech bubbles, remaining small banners, 30 sprite-built race names and five race labels | Cold sprite coverage and natural race evidence; phase-wide QA remains open |
 | [hud-counters-qa.md](hud-counters-qa.md) | Twelve HUD counters, record/floor layout fixes, M34 panel expansion and natural counter routes | Scoped cold coverage; phase-wide QA remains open |
 | [field-signs-qa.md](field-signs-qa.md) | Pun Contest banners, three bath curtain copies, complete lettering checks | Scoped cold evidence; split contest atlas still lacks runtime coverage |
+| [small-props-qa.md](small-props-qa.md) | Sushi prices, private-bath placards and swimming victory flag; erasure, palette and texture-seam fixes | Scoped cold routes and complete-label checks; broader phase 8 remains open |
 | [map-initializers.md](map-initializers.md) | Wrong world-map initializer in every map warp; real per-map calls and input timing fix | All nine excluded maps recovered; phase-wide QA remains open |
 | [character-intro-qa.md](character-intro-qa.md) | Five full attract-mode names, split Yashahime layout and untouched cold title sequence | 5/5 complete character/name pairs on both discs, 5 scoped visual sheets; fan/costume marks remain |
 

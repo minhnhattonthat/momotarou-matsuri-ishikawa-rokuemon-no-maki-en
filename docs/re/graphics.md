@@ -19,6 +19,18 @@
   words), M230D:3 (small kana+ASCII font, one minigame), NAME0D:1 (name-entry hiragana keyboard).
 
 ## Graphics-text survey (static sweep, phase 1)
+
+### Original title-logo exception (D5, classified 2026-11-01)
+
+The CI0D/TITLE0D title, YUGI0D:1 patterned panel, HOUGEN0D:2 blue card panel,
+and both FILESL0D:1 lantern variants are **kept Japanese under D5**. Inspection
+confirms these are the product title (Momotaro Matsuri), its Ishikawa Rokuemon
+subtitle and reading aids. They are the original game logo covered by the
+owner's recorded exception; the project has no known official English logo.
+This classification does not extend to signs, costume marks or other text.
+The title's separate press-start instruction is already translated in both copies.
+
+### Survey inventory
 Every Japanese-bearing image found by five read-only reviewers over all 80 sheets: **`docs/re/gfx_survey.tsv`**
 (201 rows including the subsequently discovered Status staff badge: id, file:entry, kind, transcription, note). Summary of the original 200-row sweep:
 
@@ -54,7 +66,7 @@ Open for later phases:
   Separate ending/card marks and the four GCV0310 tags remain outside this portrait approval.
 - Field signs: both Pun Contest atlases are English; only GV13000D:2 has a cold display proof. The men's/women's
   bath curtains have six cold matches across all three atlas copies. Four scoped visual sheets are accepted;
-  the tiny restored bath-counter placard remains unclassified (`field-signs-qa.md`). The corrected map warps
+  the tiny restored bath-counter placard is now Private Today in all three cold contexts (`small-props-qa.md`). The corrected map warps
   now load NPCs/decorations; older background-only map captures cannot establish their graphics coverage.
 - Shared HUD counter progress: twelve further words and M34's wider counter panel have cold proof and
   scoped verdicts in `hud-counters-qa.md`. Natural uses of seven words and three preserved fragment items

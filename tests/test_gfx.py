@@ -17,6 +17,7 @@ import gfx_hud  # noqa: E402
 import gfx_signs  # noqa: E402
 import gfx_intro  # noqa: E402
 import gfx_status  # noqa: E402
+import gfx_props  # noqa: E402
 import tim  # noqa: E402
 
 pytestmark = pytest.mark.skipif(not gfx.TREE.exists(), reason="needs work/disc (dumpsxiso)")
@@ -141,6 +142,7 @@ def test_redraws_change_only_declared_label_rectangles():
             rects += [gfx_hud.PANEL_RECT]
         for _, pieces, _, _, _, _ in gfx_signs.SIGNS.get(key, []):
             rects += [(u, v, u + w, v + h) for u, v, w, h, _, _ in pieces]
+        rects += gfx_props.rectangles(key)
         rects += [(u, v, u + w, v + h) for _, pieces in gen_gfx.COMPOSITES.get(key, [])
                   for u, v, w, h, _, _ in pieces]
         rects += gfx_intro.rectangles(key)

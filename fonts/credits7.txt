@@ -1,4 +1,44 @@
 # Hand-drawn condensed capitals for the original credit sprite widths; MIT (repository LICENSE).
+= 0
+.#.
+#.#
+#.#
+#.#
+#.#
+#.#
+.#.
+= 1
+.#.
+##.
+.#.
+.#.
+.#.
+.#.
+###
+= 2
+##.
+..#
+..#
+.#.
+#..
+#..
+###
+= 3
+##.
+..#
+..#
+.##
+..#
+..#
+##.
+= 4
+#.#
+#.#
+#.#
+###
+..#
+..#
+..#
 = A
 .#.
 #.#

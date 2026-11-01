@@ -10,6 +10,7 @@ sys.path.insert(0, str(ROOT / 'tools'))
 import gfx  # noqa: E402
 import gen_gfx  # noqa: E402
 import gfx_signs  # noqa: E402
+import gfx_props  # noqa: E402
 
 pytestmark = pytest.mark.skipif(not gfx.TREE.exists(), reason='needs work/disc')
 
@@ -20,6 +21,8 @@ def test_sign_frames_cloth_silhouettes_and_other_tiles_preserved():
         name, entry = key.split(':')
         revised = Image.open(gfx.EN / f'{Path(name).stem}_{entry}.png').convert('RGBA')
         allowed = set()
+        for x0, y0, x1, y1 in gfx_props.rectangles(key):
+            allowed.update((x, y) for y in range(y0, y1) for x in range(x0, x1))
         for _, pieces, (x0, y0, x1, y1), _, _, kind in signs:
             for u, v, w, h, x, y in pieces:
                 allowed.update((u + dx, v + dy) for dy in range(h) for dx in range(w)

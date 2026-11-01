@@ -34,6 +34,7 @@ import gfx_hud  # noqa: E402
 import gfx_signs  # noqa: E402
 import gfx_intro  # noqa: E402
 import gfx_status  # noqa: E402
+import gfx_props  # noqa: E402
 import name_entry  # noqa: E402
 
 FONT = ROOT / 'fonts' / 'ofl' / 'Fredoka.ttf'
@@ -55,6 +56,7 @@ LABELS = {
         (88, 216, 256, 248, 'Ishikawa Rokuemon', {'wdth': 75}),
     ],
     **{key: [] for key in gfx_signs.SIGNS},
+    **{key: [] for key in gfx_props.PROPS},
     'M340D.BIN:1': [],  # gfx_hud extends the counter panel for the full word "times".
     'M050D.BIN:2': [(0, 136, 64, 152, 'Jackpot!', {})],
     'M060D.BIN:2': [
@@ -396,6 +398,8 @@ def generate(keys=None):
             gfx_hud.draw_panel(im)
         if key in gfx_signs.SIGNS:
             gfx_signs.draw(im, key, pal)
+        if key in gfx_props.PROPS:
+            gfx_props.draw(im, key, pal)
         if key.startswith('CHR0D.BIN:'):
             gfx_intro.draw(im, key, pal)
         if key == 'STATUS0D.BIN:1':

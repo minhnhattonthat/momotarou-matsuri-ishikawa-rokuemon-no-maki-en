@@ -42,8 +42,8 @@ def run(name, args, initializers):
                 old.unlink()
         scenes = out / 'scene.txt'
         scenes.write_text(f'{name} map {m} {x} {y} {direction} 0x{initializers[m]:03X}\n', encoding='utf-8')
-        cue = ROOT / ('rom/Momotarou Matsuri - Ishikawa Rokuemon no Maki (Japan).cue' if args.original
-                      else 'build/momotarou-matsuri_en.cue')
+        cue = args.cue or ROOT / ('rom/Momotarou Matsuri - Ishikawa Rokuemon no Maki (Japan).cue' if args.original
+                                  else 'build/momotarou-matsuri_en.cue')
         command = [sys.executable, '-X', 'utf8', str(Path(SKILL) / 'scripts/emu.py'), str(cue),
                    '--out', str(out), '--script', str(ROOT / 'tools/debug/warp.lua'),
                    '--script', str(ROOT / 'tools/lua/textlog.lua'), '--var', f"SCENE='{name}'",
@@ -64,6 +64,7 @@ def main():
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument('--out', type=Path, required=True)
     ap.add_argument('--original', action='store_true')
+    ap.add_argument('--cue', type=Path, help='alternate built disc; --original still selects reference pixels')
     ap.add_argument('--check-only', action='store_true')
     ap.add_argument('--jobs', type=int, default=3)
     args = ap.parse_args()

@@ -4,6 +4,21 @@ Updated at the end of every session. Keep it to what the next session needs; his
 
 - **Phase:** **8 in progress** (QA in the emulator), then 9 (release).
 - **Done (phase 8 so far, 2026-11-01):**
+  - Small-prop checkpoint: sushi menu now has all five full food/price pairs in a horizontal layout above
+    the actors; bath placards say **Private Today** in all three atlas copies; the swimming victory flag
+    reads **First** in a natural cold win. Fixed retained brown Japanese antialiasing, actor occlusion,
+    the egg label's x=240 texture seam, and the placard's inverted CLUT-2 ink. Added pixel digits 0-4 and
+    preservation/palette/fit regressions. Fresh read-only D10 review accepts **8/8 scoped sheets**, after
+    rejecting and correcting the flag's initially wrong erase bounds. **9/9 complete labels** match cold
+    captures. One race rerun exited -1 after the win; the final cold retry exits 0. `docs/re/small-props-qa.md`.
+  - The four product-logo families (CI0D/TITLE0D, YUGI0D, HOUGEN0D, FILESL0D) are now explicitly classified
+    **kept Japanese under D5**, including title subtitles/furigana. The separate press-start instruction
+    remains English; this exception does not cover signs, emblems or other lettering (`docs/re/graphics.md`).
+  - Latest validation: **97 tests passed**, lint 0; verifier **369 changed files / 0 errors**; cold smoke
+    `work/qa/smallprops8_main_smoke` passed. Six final targeted textlogs have **0 Japanese lines** (graphics excluded).
+    Main disc: **182,482,272 bytes**, **2026-11-01 09:45:58 UTC**, SHA-1
+    **81f569029bc195b8ea7e8bdb725b1de469099a43**; `build/props_final9.bin` is identical.
+    **Phase 8 remains incomplete; do not advance to release.**
   - Name persistence checkpoint: four- and one-character names now pass native save/overwrite and a
     **separate cold reload on both discs**. All eight name bytes, including FF padding, are checked;
     source cards remain unchanged. `name_save.py` uses controller input after the existing Name Entry warp.
@@ -293,8 +308,8 @@ Updated at the end of every session. Keep it to what the next session needs; his
     proper actors and cannot support complete dialogue, animated decoration or story-state coverage. Use
     `map-initializers.md` and `work/qa/mapinit8_all/result.tsv` for the 358 passing cold entries; add interaction
     and later-story routes rather than treating that arrival count as full text coverage.
-  - Field signs: locate the runtime consumer of GV02000D:2's split contest board; classify the restored tiny
-    bath-counter placard (GV16090D:1, (128,0), 32x24, palette 2; GV16091D:3 ANM item 2).
+  - Field signs: locate the runtime consumer of GV02000D:2's split contest board. The restored tiny
+    bath-counter placard is now Private Today, verified under palette 2 in all three contexts (`small-props-qa.md`).
     Other wooden shop/stall signs remain Japanese. `signs_tour.py` reproduces the
     accepted contest and three bath contexts; `fieldmap.py` is a navigation preview, never QA evidence.
   - Shared HUD counters: natural Win/Loss/min/sec/later/Match/small-Bonus contexts remain unproved;
@@ -316,8 +331,8 @@ Updated at the end of every session. Keep it to what the next session needs; his
     M990D:0's 40 large winner/ordinal states are now translated and cold-rendered (`results-qa.md`);
     normal gameplay progression still needs tour coverage. Small Bonus now uses a separate English sprite;
     its original overlapping fragment users remain intact and unclassified. See `docs/re/hud-counters-qa.md`.
-  - Graphics text (D5: all of it; docs/re/gfx_survey.tsv, 201 rows): classify retained title logos under D5
-    (CI0D:3/TITLE0D:3, YUGI0D:1, HOUGEN0D:2, FILESL0D:1); NAME0D:0 mode-menu shots,
+  - Graphics text (D5: all of it; docs/re/gfx_survey.tsv, 201 rows): product-title logo variants are now
+    explicitly retained under D5 (`graphics.md`). Remaining work: NAME0D:0 mode-menu shots,
     remaining M990D fragment/context classification, remaining banners
     (GV02000D:2, GV13000D:2...), HOUGEN0D:0 new-card tag, ending-art signs/emblems,
     illustration SFX/signs on HCARD* cards. Per image: `gfx.py export`, find each sprite's rect (in-game the sprite rect

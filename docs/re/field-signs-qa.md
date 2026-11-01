@@ -54,7 +54,9 @@ warp bug, not a guessed source-code assertion.
 - Other signs in these town atlases remain Japanese. This is a scoped lettering
   checkpoint, not a whole-town visual approval.
 - The restored bath-counter hanging placard at screen (144,80), about 32x16,
-  needs classification. It is **GV16090D:1 at (128,0), 32x24, palette 2**;
+  is now translated as Private Today in all three copies, with separate cold
+  proof and corrected palette-2 ink (`small-props-qa.md`). It is
+  **GV16090D:1 at (128,0), 32x24, palette 2**;
   **GV16091D:3 ANM item 2** draws it with offset (-8,0). GSV1609D:1 creates
   actor 0x54B at (21,14). The tiny dark marks are visible now that the attendant
   and decorations actually load. It is outside the two curtain-label interiors

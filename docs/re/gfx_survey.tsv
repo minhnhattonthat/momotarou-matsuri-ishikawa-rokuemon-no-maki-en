@@ -1,7 +1,7 @@
 id	source	kind	japanese	note
 #1	CHR0D.BIN:1@2a50	logo	桃太郎; 祭 on Kintaro/Urashima fans	Momotaro name and both Festival fans translated; natural cold 5/5 pairs; character-intro-qa.md and character-props-qa.md
 #2	CHR0D.BIN:2@89d0	menu	金太郎 / 夜叉姫 (three fragments of one name) / 石川六右衛門 / 浦島; 六 costume marks	all four full names and ten coat numerals translated; natural cold 5/5 pairs and scoped visual verdicts; character-intro-qa.md and character-props-qa.md
-#6	CI0D.BIN:3@a910	logo	スタートボタンを おしてね! / 桃太郎 / 石川六右衛門 / まつり / の巻 / いしかわろくえもんのまき furigana	title logo parts + press-start prompt
+#6	CI0D.BIN:3@a910	logo	スタートボタンを おしてね! / 桃太郎 / 石川六右衛門 / まつり / の巻 / いしかわろくえもんのまき furigana	press-start prompt translated in CI0D/TITLE0D; original product title/subtitle/furigana kept Japanese under D5; graphics.md
 #16	DEF0D.BIN:9@1f880	other	白 / 赤	tiny team icons (white/red)
 #37	ECTBG06D.BIN:2@26f0	sign	calligraphy on 3 hanging scrolls	unsure, brush script (decoration?)
 #70	ECTBG24D.BIN:8@24810	sign	nobori flags	unsure if text
@@ -20,7 +20,7 @@ id	source	kind	japanese	note
 #169	EVT600D.BIN:4@145c0	credits	staff roll part 3 (... プロデューサー / 制作 株式会社 ハドソン)	English incl. all six archive copies; cold 22/22 items; docs/re/credits-qa.md; readings polish remains
 #172	EVT620D.BIN:0@f0	other	祭 on lanterns/fan	emblem in ending art; likely keep
 #173	EVT620D.BIN:1@a9d0	other	祭 (orange fan)	emblem; likely keep
-#185	FILESL0D.BIN:1@15b0	logo	桃太郎まつり (vertical, 2 variants)	file-select logo
+#185	FILESL0D.BIN:1@15b0	logo	桃太郎まつり (vertical, 2 variants)	original product-title lantern artwork kept Japanese under D5; both variants inspected; graphics.md
 #186	FONT0D.BIN:0@10	font	page A kanji, page B digits+kana+symbols (2bpp planes)	main text font
 #187	FONT0D.BIN:1@5730	font	kanji pages	main text font
 #265	GCV0310D.BIN:13@30470	other	桃太郎 / 柿太郎 / 栗太郎 / 月姫 (labelled placeholder portraits)	dormant dialogue portrait IDs 123-126: zero literal references in 4894 messages; cold Moon trace uploads but does not bind them; portrait-audit.md; unchanged, reopen if displayed
@@ -54,7 +54,7 @@ id	source	kind	japanese	note
 #469	GV13000D.BIN:2	banner	天下一だじゃれ大会	World's Greatest Pun Contest; complete cold palette-2 lettering match and scoped visual verdict; field-signs-qa.md
 #478	GV16000D.BIN:0	sign	ゆ 衣 茶 舗? と 宿 (long signboard)	bath/inn town; unsure
 #481	GV16000D.BIN:3	sign	ゆ?? board; 湯? / 亭? roof signs	unsure
-#486	GV16090D.BIN:1	sign	男湯 / 女湯	Men's Bath / Women's Bath; all three atlas copies updated, six cold curtain matches, palettes 0/1; tiny counter placard separately unclassified; field-signs-qa.md
+#486	GV16090D.BIN:1	sign	男湯 / 女湯; 予約 / 本日 / 貸切	Men's Bath / Women's Bath and Private Today in all three copies; runtime palette 2 corrected for placard; field-signs-qa.md and small-props-qa.md
 #499	GV20000D.BIN:0	sign	宿 道 茶 ? 八百屋?	unsure
 #502	GV20000D.BIN:3	sign	row of 8 round kanji plaques	sign strip
 #503	GV20002D.BIN:0	sign	宿 道 茶 ? + 八百屋	unsure
@@ -173,7 +173,7 @@ id	source	kind	japanese	note
 #672	HCARD90D.BIN:8	card	NO.099 沖縄県 / ちゃんぷるー / ぐっ
 #673	HCARD90D.BIN:9	card	NO.100 沖縄県 / ちばりよー
 #674	HOUGEN0D.BIN:0	menu	カードアルバム / 枚 / 北海道 東北 関東 中部 近畿 中国・四国 九州・沖縄 / 新しいカード?	overview title/regions/counts English with cold proof; fragmented red new-card tags still open (cards-qa.md)
-#676	HOUGEN0D.BIN:2	logo	桃太郎まつり 石川六右衛門の巻 (+ tiny subtitle)	title logo on blue panel
+#676	HOUGEN0D.BIN:2	logo	桃太郎まつり 石川六右衛門の巻 (+ tiny subtitle)	original product title/subtitle/furigana kept Japanese under D5; blue-panel variant inspected; graphics.md
 #687	M010D.BIN:4	banner	パーフェクトで賞! / たたいたで賞! / ごほうびで賞! / 見きったで賞! / のこったで賞!	English; 5/5 complete cold-boot award captures, announcements-qa.md
 #692	M030D.BIN:1	other	どっち?	Which? translated; cold sprite fixture proof, natural prompt coverage still open; hud-outcomes-qa.md
 #694	M030D.BIN:3	banner	パーフェクトで賞!	Perfect! translated; cold complete-sprite fixture proof; hud-outcomes-qa.md
@@ -182,13 +182,13 @@ id	source	kind	japanese	note
 #717	M080D.BIN:6	other	リーチ!	One away!; cold Game Start substitution match; natural near-win remains; minigame-labels-qa.md
 #725	M110D.BIN:0	banner	じゃんけん!ぽん! / 勝ち! 負け! 引き分け!	janken banners
 #744	M140D.BIN:0	banner	勝ち! / 負け! / 連続	Win/Lose/Streak English; three cold sprite checks, outlined Streak; natural outcomes and wall scroll remain; hud-outcomes-qa.md
-#761	M170D.BIN:20	sign	一番	vertical flag held by hero in bath scene
+#761	M170D.BIN:20	sign	一番	First on the winning flag; complete natural cold victory capture on both discs; small-props-qa.md
 #768	M180D.BIN:3	hud	スカ (next to digits "+-5678910")	Miss; cold complete-sprite match; natural miss remains; minigame-labels-qa.md
 #783	M230D.BIN:0@f0	banner	ウサカメレース	Rabbit-Turtle Race sign; cold natural menu match, border preserved; minigame-labels-qa.md
 #786	M230D.BIN:3@5360	font	kana+ASCII font; 30 runner names; 位 / コース / じかん / 当リ / 両	ANM 21 names and ANM 20 labels translated in unused font space; original unused glyphs preserved; minigame-labels-qa.md
 #796	M250D.BIN:21	logo	お面アルバム	English Mask Album; complete cold title match, masks-qa.md
 #797	M250D.BIN:22	menu	できあがり / つくりなおし / L1ボタン / R1ボタン	English Done/Redo/L1/R1, bright+dim atlas; 6/6 displayed controls cold match, masks-qa.md
-#870	M440D.BIN:0	sign	price board: 大トロ 四〇〇, うに ?〇〇, 三〇〇, ?, えび, 二〇〇, 一〇〇	in-scene wooden sign; partly repeated in #871 left edge
+#870	M440D.BIN:0	sign	大トロ 四〇〇 / うに 三〇〇 / いくら えび 二〇〇 / たまご 一〇〇	Fatty Tuna 400 / Sea Urchin 300 / Salmon Roe 200 / Shrimp 200 / Egg 100; two-line horizontal layout avoids actors, egg wholly in atlas 1; small-props-qa.md
 #877	M500D.BIN:0	banner	スタート	Start; cold actor-substitution match; natural cue remains; minigame-labels-qa.md
 #888	M560D.BIN:1	banner	勝ち! 負け! 引き分け!	Three English outcome sprites cold-rendered; actor substitution fixture only; hud-outcomes-qa.md
 #890	M590D.BIN:0	banner	引き分け! 勝ち! 負け!	Three English story banners cold-rendered; Lose tail fixed without touching actor pixels; hud-outcomes-qa.md
@@ -199,4 +199,4 @@ id	source	kind	japanese	note
 #903	NAME0D.BIN:1	font	name-entry hiragana table (あ..ん, small kana, dakuten)	yellow ~12px; name entry keyboard
 #910	STATUS0D.BIN:0	menu	ステータス / 総段位 段 巻 / 免許皆伝 / 総カード枚数 / プレイ時間 / 歩数 / お金 / 桃太郎 / 桃太郎名人 / 桃太郎達人 / 桃太郎仙人	English; all six rank pictures and maximum-width counters; money label overlap fixed; status-ranks-qa.md
 #911	STATUS0D.BIN:1	other	仙 (Hermit staff badge, split across two sprites)	HER/MIT retains full word and staff silhouette; status-ranks-qa.md
-#916	YUGI0D.BIN:1	logo	桃太郎まつり 石川六右衛門の巻 (+ tiny tagline)	title logo
+#916	YUGI0D.BIN:1	logo	桃太郎まつり 石川六右衛門の巻 (+ tiny tagline)	original product title/subtitle/furigana kept Japanese under D5; patterned-panel variant inspected; graphics.md
