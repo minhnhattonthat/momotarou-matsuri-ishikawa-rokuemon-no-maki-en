@@ -20,7 +20,7 @@
 
 ## Graphics-text survey (static sweep, phase 1)
 Every Japanese-bearing image found by five read-only reviewers over all 80 sheets: **`docs/re/gfx_survey.tsv`**
-(200 rows: id, file:entry, kind, transcription, note). Summary:
+(201 rows including the subsequently discovered Status staff badge: id, file:entry, kind, transcription, note). Summary of the original 200-row sweep:
 
 | Kind | Rows | What |
 |---|---|---|
@@ -34,6 +34,13 @@ Every Japanese-bearing image found by five read-only reviewers over all 80 sheet
 | hud / other | 9 | 白/赤 team icons (DEF0D:9), speech bubbles (M060D:2, M080D:6), 祭 emblems in ending art (keep), どっち? |
 
 Open for later phases:
+- Status now has all six rank illustrations and a maximum-width counter fixture.
+  `status-ranks-qa.md` records the overlap/border fixes and the new Hermit staff
+  lettering omitted from the original survey. Broader saved-record menus remain.
+- GCV0310's four labelled images are dormant dialogue placeholders, IDs 123-126,
+  with no references among 4,894 parsed message operations. The Moon route uploads
+  their texture but never binds the portraits (`portrait-audit.md`). This is not
+  proof of universal native-code unreachability; reopen the row if displayed.
 - Character-introduction names: all five full names are English with natural cold title-attract proof,
   5/5 complete character/name pairs on each disc and 5 scoped visual sheets (`character-intro-qa.md`).
   Yashahime is three fragments of one name, not two copies. Follow-up `character-props-qa.md` covers both

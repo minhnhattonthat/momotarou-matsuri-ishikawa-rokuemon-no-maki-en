@@ -23,7 +23,7 @@ id	source	kind	japanese	note
 #185	FILESL0D.BIN:1@15b0	logo	桃太郎まつり (vertical, 2 variants)	file-select logo
 #186	FONT0D.BIN:0@10	font	page A kanji, page B digits+kana+symbols (2bpp planes)	main text font
 #187	FONT0D.BIN:1@5730	font	kanji pages	main text font
-#265	GCV0310D.BIN:13@30470	other	桃太郎 / 柿太郎 / 栗太郎 / 月姫 (red kanji on cream strip, 4 name tags)	character name tags, crisp dark-red text; sheet 022
+#265	GCV0310D.BIN:13@30470	other	桃太郎 / 柿太郎 / 栗太郎 / 月姫 (labelled placeholder portraits)	dormant dialogue portrait IDs 123-126: zero literal references in 4894 messages; cold Moon trace uploads but does not bind them; portrait-audit.md; unchanged, reopen if displayed
 #302	GF10000D.BIN:0@20	sign	八百屋 (carved wooden shop board, lower right); carved kanji on small board upper right ?; strip of carved sign characters mid-left ?	town building tiles; tiny/unsure which kanji
 #305	GF10000D.BIN:3@9270	sign	row of 7 round-ish shop plaques with gold kanji ?, plus 八百屋 board below	shop-sign plaques; kanji unreadable at this size
 #320	GV00000D.BIN:0@20	sign	八百屋 (board lower right); carved kanji on small board upper right ?; sign-character strip ?	same layout as #302 (variant palette)
@@ -197,5 +197,6 @@ id	source	kind	japanese	note
 #898	M990D.BIN:1	font	big outlined: 2345 6789 新記録達成!初 段位更新!段 免許皆伝ゲーム そこまで!おつかれさま 引き分け!スタート	English; 16/16 shared announcement states, checked ANM assembly edits, announcements-qa.md
 #902	NAME0D.BIN:0	menu	ゆうぎアルバム / 段位詳細 / おためし対戦! / ネームエントリー	title + menu labels with arrows
 #903	NAME0D.BIN:1	font	name-entry hiragana table (あ..ん, small kana, dakuten)	yellow ~12px; name entry keyboard
-#910	STATUS0D.BIN:0	menu	ステータス / 総段位 段 巻 / 免許皆伝 / 総カード枚数 / プレイ時間 / 歩数 / お金 / 桃太郎 / 桃太郎名人 / 桃太郎達人 / 桃太郎仙人	status screen labels and rank titles
+#910	STATUS0D.BIN:0	menu	ステータス / 総段位 段 巻 / 免許皆伝 / 総カード枚数 / プレイ時間 / 歩数 / お金 / 桃太郎 / 桃太郎名人 / 桃太郎達人 / 桃太郎仙人	English; all six rank pictures and maximum-width counters; money label overlap fixed; status-ranks-qa.md
+#911	STATUS0D.BIN:1	other	仙 (Hermit staff badge, split across two sprites)	HER/MIT retains full word and staff silhouette; status-ranks-qa.md
 #916	YUGI0D.BIN:1	logo	桃太郎まつり 石川六右衛門の巻 (+ tiny tagline)	title logo

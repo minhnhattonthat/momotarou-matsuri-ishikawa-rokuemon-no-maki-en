@@ -3,6 +3,12 @@
 Phase 8 remains open. This pass fixes a saved-record extraction gap and supplies the missing game-written
 save fixture; it does not certify the full graphics survey or scene tour.
 
+**Superseded Status layout/coverage:** [status-ranks-qa.md](status-ranks-qa.md)
+adds all six rank pictures and counter stress cases, fixes money/card overlap,
+restores panel borders missed by this early review, and translates the Hermit
+staff badge. The two-sheet verdict below is historical, not approval of those
+subsequently discovered defects.
+
 ## Reproduce
 
 From the repo root, with the skill path resolved by `python tools/skill.py`:

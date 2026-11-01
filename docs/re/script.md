@@ -12,7 +12,7 @@ Tests: `tests/test_text.py`.
 - An op is u16 words: opcode then operands. Lengths in `script.LEN` (from the handlers), variable ones:
   | Op | Form | Length |
   |---|---|---|
-  | 02 | message: `02 mode voice` + text lines (below) | 6 + text |
+  | 02 | message: `02 mode portrait` + text lines (below; FFFF = no portrait) | 6 + text |
   | 26 | caption: one text line | 2 + line |
   | 41 | menu: `41 n` + n text lines (choice items; 04 then picks) | 4 + lines |
   | 15 | `15 n` + n x 3 words | 4 + 6n |

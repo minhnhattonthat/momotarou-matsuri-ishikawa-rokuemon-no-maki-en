@@ -33,6 +33,7 @@ import gfx_racers  # noqa: E402
 import gfx_hud  # noqa: E402
 import gfx_signs  # noqa: E402
 import gfx_intro  # noqa: E402
+import gfx_status  # noqa: E402
 
 FONT = ROOT / 'fonts' / 'ofl' / 'Fredoka.ttf'
 CLEAR = (0, 0, 0, 0)
@@ -182,23 +183,25 @@ LABELS = {
                      (0, 168, 160, 191, 'Quick Match!', {'align': 'left'}),
                      (0, 192, 184, 216, 'Name Entry', {'align': 'left'})],
     'STATUS0D.BIN:0': [
-        (0, 55, 111, 80, 'Status', {}),
-        (0, 83, 66, 105, 'Rank', {'outline': 0, 'fill': (8, 8, 8, 255)}),
-        (68, 83, 89, 105, ' ', {'outline': 0}),
-        (90, 83, 111, 105, ' ', {'outline': 0}),
-        (0, 110, 91, 129, 'Full Mastery', {'wdth': 75, 'outline': 0, 'fill': (8, 8, 8, 255)}),
-        (1, 131, 112, 148, 'Total Cards', {'bg': 'fill', 'outline': 0, 'align': 'left', 'size': 14,
+        (0, 56, 112, 80, 'Status', {}),
+        (0, 83, 64, 104, 'Rank', {'outline': 0, 'fill': (8, 8, 8, 255)}),
+        (64, 80, 88, 104, ' ', {'outline': 0}),
+        (88, 80, 112, 104, ' ', {'outline': 0}),
+        (0, 106, 88, 128, 'Full Mastery', {'wdth': 75, 'outline': 0, 'fill': (8, 8, 8, 255)}),
+        (1, 131, 112, 148, 'Total Cards', {'bg': 'fill', 'outline': 0, 'align': 'left', 'size': 11,
                                          'fill': (8, 8, 8, 255)}),
         (1, 153, 93, 169, 'Play Time', {'bg': 'fill', 'outline': 0, 'align': 'left', 'size': 14,
                                       'fill': (8, 8, 8, 255)}),
-        (1, 174, 113, 191, 'Steps', {'bg': 'fill', 'outline': 0, 'align': 'left', 'size': 11,
+        # Seven digits start at screen x=95; the left label starts at x=65.
+        # Small pixel capitals leave a gap even for 9,999,999 steps/ryo.
+        (1, 174, 112, 191, 'Steps', {**HUD_CONDENSED, 'bg': 'fill', 'align': 'left',
                                    'fill': (8, 8, 8, 255)}),
-        (1, 195, 112, 212, 'Money (ryo)', {'bg': 'fill', 'outline': 0, 'align': 'left', 'size': 14,
+        (1, 195, 112, 204, 'Money', {**HUD_CONDENSED, 'bg': 'fill', 'align': 'left',
                                    'fill': (8, 8, 8, 255)}),
-        # Counts already have an English label; Japanese counter suffixes are redundant.
-        (224, 81, 239, 104, ' ', {'bg': 'fill', 'outline': 0}),
-        (224, 114, 239, 139, ' ', {'bg': 'fill', 'outline': 0}),
-        (224, 146, 239, 172, ' ', {'bg': 'fill', 'outline': 0}),
+        (1, 204, 112, 212, 'ryo', {**HUD_CONDENSED, 'bg': 'fill', 'align': 'left',
+                                   'fill': (8, 8, 8, 255)}),
+        # gfx_status restores the counter suffix backgrounds without cutting
+        # panel borders; the right-hand fragment is only 12 opaque pixels wide.
         (114, 82, 223, 106, 'Momotaro', {'bg': 'neutral', 'fill': (8, 8, 8, 255),
                                        'edge': (248, 248, 248, 255)}),
         (114, 114, 223, 139, 'Momotaro Master', {'bg': 'neutral', 'wdth': 75, 'fill': (8, 8, 8, 255),
@@ -208,6 +211,7 @@ LABELS = {
         (114, 178, 223, 203, 'Momotaro Hermit', {'bg': 'neutral', 'wdth': 75, 'fill': (8, 8, 8, 255),
                                               'edge': (248, 248, 248, 255)}),
     ],
+    'STATUS0D.BIN:1': [],  # gfx_status translates the split staff badge.
 }
 
 # Cards 25-27 (Tokyo), 54-56 (Osaka), 59-61 (Nara), 62-64 (Wakayama),
@@ -392,6 +396,10 @@ def generate(keys=None):
             gfx_signs.draw(im, key, pal)
         if key.startswith('CHR0D.BIN:'):
             gfx_intro.draw(im, key, pal)
+        if key == 'STATUS0D.BIN:1':
+            gfx_status.draw(im, pal)
+        if key == 'STATUS0D.BIN:0':
+            gfx_status.clear_units(im)
         for k in same[t]:
             name, _, e = k.partition(':')
             out = gfx.EN / f'{Path(name).stem}_{e}.png'

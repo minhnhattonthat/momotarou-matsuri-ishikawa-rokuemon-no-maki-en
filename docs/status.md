@@ -4,6 +4,23 @@ Updated at the end of every session. Keep it to what the next session needs; his
 
 - **Phase:** **8 in progress** (QA in the emulator), then 9 (release).
 - **Done (phase 8 so far, 2026-11-01):**
+  - Status rank/counter checkpoint: all **six rank illustrations** and four English plates now have cold
+    proof, plus a populated panel (rank 610, mastery 61, 100 cards, 99:59, seven-digit steps and money).
+    Original and English each pass **7/7 complete picture matches**. `tools/debug/status_ranks.py` loads
+    the game-written save, seeds real RAM record fields, and lets the game select/construct the UI.
+  - Stress review fixed Money/card-label overlap; enlarged original comparisons also exposed old erasures
+    cutting panel borders and leaving a Steps suffix fragment. Restored exact edges/blank backgrounds,
+    tightened redraws to ANM bounds, preserved every digit/question mark, and retained full Money/ryo labels.
+    The previously unlisted Hermit staff's 仙 is now full HER/MIT; silhouette and other character art preserved.
+    Fresh read-only D10 re-review accepts **7/7 scoped sheets**. Reproduction/hashes: `docs/re/status-ranks-qa.md`.
+  - GCV0310's four labelled portraits are dormant placeholders, not ordinary name tags: IDs 123-126 have
+    **0 references in 4,894 parsed messages**. Cold Moon trace uploads the atlas but neither sprite binder
+    uses those portraits. `portrait_audit.py`, `portrait_trace.lua`, and `docs/re/portrait-audit.md` record the
+    exact evidence and limits; they remain unchanged, and must be reopened if a future route displays them.
+  - Latest validation: **80 tests passed**, lint 0; verifier **369 changed files / 0 errors**; cold smoke
+    `work/qa/ranks8_final_smoke` passed; `ranks8_final2` textlog has **0 Japanese lines in 7 logs**.
+    Main disc: **182,491,680 bytes**, **2026-11-01 07:39:16 UTC**, SHA-1
+    **fcca7fe2b700c03a8be3012b24a24f71d02d87ce**. **Phase 8 remains incomplete; do not advance to release.**
   - Attract-portrait prop checkpoint: both fans now say the complete Festival (FEST / IVAL); Rokuemon's ten
     stylized six badges use 6, with the eight partial badges clipped by their original coat edges/folds.
     Explicit masks preserve fan ribs/handles, coloured cloth, borders and all sprite/animation data.
@@ -233,9 +250,9 @@ Updated at the end of every session. Keep it to what the next session needs; his
     156,128 bytes (game_m25/m70-72 minigames), so English growth (a few KB per file) is far from the limit.
     15 runs of that sweep died with emulator exit -1 while other emulators ran; all 15 passed on a rerun.
 - **Next (phase 8):**
-  - Character names, fan lettering and coat numerals now have natural attract-mode proof. The four small
-    name tags in GCV0310D:13 are separate outstanding work. `character-intro-qa.md` and
-    `character-props-qa.md` record exact bounds, preservation tests and cold routes.
+  - Character names, fan lettering and coat numerals have natural attract-mode proof. `character-intro-qa.md`
+    and `character-props-qa.md` record exact bounds and cold routes. GCV0310's four placeholders have no
+    literal message references (`portrait-audit.md`); reopen if runtime evidence ever displays them.
   - Re-run the full text/visual tour with the corrected destination initializers. Older map shots lacked the
     proper actors and cannot support complete dialogue, animated decoration or story-state coverage. Use
     `map-initializers.md` and `work/qa/mapinit8_all/result.tsv` for the 358 passing cold entries; add interaction
@@ -263,14 +280,15 @@ Updated at the end of every session. Keep it to what the next session needs; his
     M990D:0's 40 large winner/ordinal states are now translated and cold-rendered (`results-qa.md`);
     normal gameplay progression still needs tour coverage. Small Bonus now uses a separate English sprite;
     its original overlapping fragment users remain intact and unclassified. See `docs/re/hud-counters-qa.md`.
-  - Graphics text (D5: all of it; docs/re/gfx_survey.tsv, 200 rows): classify retained title logos under D5
+  - Graphics text (D5: all of it; docs/re/gfx_survey.tsv, 201 rows): classify retained title logos under D5
     (CI0D:3/TITLE0D:3, YUGI0D:1, HOUGEN0D:2, FILESL0D:1); NAME0D:0 mode-menu shots,
-    STATUS0D:0 higher rank shots, remaining M990D fragment/context classification, remaining banners
+    remaining M990D fragment/context classification, remaining banners
     (GV02000D:2, GV13000D:2...), HOUGEN0D:0 new-card tag, ending-art signs/emblems,
     illustration SFX/signs on HCARD* cards. Per image: `gfx.py export`, find each sprite's rect (in-game the sprite rect
     can be narrower than the JP atlas row: shoot it), add LABELS, `gen_gfx.py`, build `--out build/g8.bin`, shoot.
-  - Saved-record QA: exercise all record categories with nonzero scores, not only the newly translated file
-    selector. Use the new fixture and records probe; get actual mode-menu/rank-detail/name-entry coverage.
+  - Saved-record QA: Status now covers all rank pictures and wide counters (`status-ranks-qa.md`), but
+    exercise all minigame record categories with nonzero scores. Use the save fixture and records probe;
+    get actual mode-menu/rank-detail/name-entry coverage.
     `work/qa/album8_*` exploratory states are from earlier builds: regenerate cold before accepting verdicts.
   - Text tour (`warp_all.py --hold 1500 --click 45 --probe tools/lua/textlog.lua`, then `tools/textlog.py`),
     `jp_left.py` on the build, visual-QA sheets + `qa_gate.py` verdicts (in-session `visual-qa` agents, D9),
@@ -282,7 +300,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
   - The nine historical map hangs are resolved by correct initialization and map 294's entry setup;
     story flags remain unmapped (warped maps show default state). `tools/deadcode.py` output is not safe hook
     space without an exec watch (`tools/lua/deadwatch.lua`, `warp_all.py --debugger`).
-  - Phase 8 remains incomplete: most of the 200-row graphics survey, the full visual manifest, caption tour,
+  - Phase 8 remains incomplete: much of the 201-row graphics survey, the full visual manifest, caption tour,
     and the corrected map interaction tour remain open. Do not advance to phase 9 on scoped graphics verdicts.
 - **Waiting on the user:**
   - (resolved, D9) reviews: the run brief allows a fresh read-only pass, so the repo's in-session `reviewer` /
