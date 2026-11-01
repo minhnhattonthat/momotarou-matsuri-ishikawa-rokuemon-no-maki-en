@@ -67,6 +67,11 @@ No release was created and no shared skill files changed.
 
 ## Narrow plaques: next implementation seam
 
+Superseded for the six named Flowers/Items placements by
+[narrow-plaques-qa.md](narrow-plaques-qa.md): isolated tile slots and checked
+front-grid changes now have cold original/English proof. The investigation
+below remains useful for the original layout and unknown story consumers.
+
 The adjacent flower and item signs are not equivalent to map45's tile pairs.
 The atlas's apparent board width does not establish its runtime width.
 `tools/debug/field_label_plan.py` prints page/CLUT-qualified native tile

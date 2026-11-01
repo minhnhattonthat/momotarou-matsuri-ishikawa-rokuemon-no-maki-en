@@ -4,6 +4,16 @@ Updated at the end of every session. Keep it to what the next session needs; his
 
 - **Phase:** **8 in progress** (QA in the emulator), then 9 (release).
 - **Done (phase 8 so far, 2026-11-02):**
+  - Narrow plaques now show full **Flowers / Items** in **six cold contexts on both discs**:
+    maps99/100, 143/144 and 237/238. `gfx_field.py` uses isolated atlas tiles and hash-checked
+    front-grid/record edits; source tiles, rear grids, native palettes and attributes are preserved.
+    The rain oracle uses captured CLUTs with disc-sourced pixels and requires an unoccluded full label.
+    Fresh D10 review accepts **12/12** context/detail sheets; `narrow-plaques-qa.md` records proof and limits.
+  - Current validation: **120 tests / lint 0**, verifier **398 changed files / 0 errors**, **0 Japanese
+    lines in 6 logs** (graphics excluded); cold main smoke `narrow8_main_smoke` passed. Main disc:
+    **182,454,048 bytes**, **2026-11-01 14:28:34 UTC**, SHA-1
+    **3231d03e8188cf2631110dc4f4f8d2b5a3618c8f** (identical to `build/narrow8_final.bin`).
+    **Phase 8 cannot advance: remaining graphics, phase-wide visual and story/NPC gates are still open.**
   - Equipment plaques: map45 now shows full **Weapons / Armor / Shoes**, with **3/3 complete
     matches on both discs** and a fresh D10 gate of **6/6 ok** (one scene, three detail pairs).
     Weapons expands the wood interior within the original 32-pixel tile pair; no map/code edits.
@@ -435,7 +445,9 @@ Updated at the end of every session. Keep it to what the next session needs; his
     Tea/Bank glyph families now have 48 accepted cold placements (`tea-bank-signs-qa.md`); their broader
     views exposed Games boards in maps80/81 and 263 plus Produce/Fish Shop boards, now covered by
     `shop-boards-qa.md` (24 cold placements). Map45's equipment plaques now have cold proof
-    (`equipment-signs-qa.md`); other equipment sprite forms, medicine, item, flower and bath plaques remain.
+    (`equipment-signs-qa.md`); Flowers/Items now have six accepted widened placements
+    (`narrow-plaques-qa.md`). Other equipment sprite forms, medicine and bath plaques remain.
+    GV01000D:0 medicine records 102/103 have no default grid placement in map45; locate their native consumer.
     Follow the five unresolved issues in `shop-boards-verdicts.tsv` and the unresolved portions of the 18 older
     whole-scene issues in `tea-bank-signs-verdicts.tsv`. Historical verdicts are not retroactively changed.
     `plaque_consumers.py tea|bank` gives static navigation leads; `signs_tour.py --only tea* / bank*`
@@ -486,7 +498,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
   - Captions: all 27 rows now have original/English cold op-26 captures and exact text/centering checks
     (`caption_tour.py`, `captions-rank-details-qa.md`). Natural destination/story entrance coverage remains.
   - Weak short forms to revisit in polish: EXE fireworks items named bare "Dog"/"Monkey"/"Momotaro", 7-byte key
-    items "Island" (鬼ヶ島), "Prism" (虹の玉), "Steps" (歩数計).
+    items "Island" (鬼ヶ島), "Prism" (虹の玉), "Steps" (歩数計), and OVLGMAIN@800CB5D4 "Flower" (花屋).
 - **Open bugs / gaps:**
   - Map284's bare warp is a retained negative regression case: frozen disc 1ff27c30... raises a sequence
     tempo divide-by-zero. Native transition setup now passes twice on all three discs. Preserve the frozen

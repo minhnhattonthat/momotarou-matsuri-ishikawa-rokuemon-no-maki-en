@@ -8,7 +8,7 @@ A redraw is gfx/en/<FILE>_<ENTRY>[_p<N>].png: the whole image, same size, drawn 
 their original index (palettes repeat colours), changed ones take the first index of that exact colour, any
 other colour is an error. Only the pixel block changes; header and CLUT stay, and the entry is recompressed
 (ECD) if it was compressed.
-gfx_layout.py also applies explicitly checked ANM field edits where English needs different sprite assembly.
+gfx_layout.py also applies checked sprite and field-grid edits for wider English assemblies.
 """
 import re
 import struct

@@ -1,4 +1,4 @@
-"""Checked ANM field edits for translated graphics; no animation timing or code edits.
+"""Checked sprite and field-grid edits; no animation timing or code edits.
 
 M990D:3: rejoin START's two adjacent atlas fragments, remove its borrowed dash,
 and centre GAME START. Centre the level number and ! after removing the Japanese
@@ -6,6 +6,7 @@ level suffix. gfx_results also repacks the 40 winner/ordinal layouts into Englis
 word order. All counts, table offsets, palettes, scales and other items remain.
 M590D:9 relocates Lose! instead of retaining a Japanese fragment shared with actor art.
 M230D:20/21 use whole English race labels/names in previously unused font pixels.
+gfx_field widens selected shop plaques using isolated tiles and checked grid cells.
 """
 import hashlib
 import struct
@@ -14,6 +15,7 @@ from pathlib import Path
 import gfx_results
 import gfx_racers
 import gfx_hud
+import gfx_field
 
 
 TARGET = ('M990D.BIN', 3)
@@ -37,6 +39,9 @@ for level in range(1, 10):
 
 def patch(name, entry, data):
     """Return exact permitted replacement bytes, or None for an unrelated entry."""
+    field = gfx_field.patch(name, entry, data)
+    if field is not None:
+        return field
     if (Path(name).name, entry) == ('M990D.BIN', 2):
         return gfx_hud.patch(data)
     if (Path(name).name, entry) == ('M340D.BIN', 7):

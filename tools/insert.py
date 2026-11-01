@@ -27,6 +27,7 @@ import arc  # noqa: E402
 import codestr  # noqa: E402
 import engine  # noqa: E402
 import gfx  # noqa: E402
+import gfx_field  # noqa: E402
 import name_entry  # noqa: E402
 import text  # noqa: E402
 
@@ -230,7 +231,7 @@ def files(mode='en', overrides=None):
         out[key] = engine.patch_money(data, sites, codestr.OVL_BASE)
     out['OUTBIN/OVLXTTL.BIN'] = engine.patch_records(out['OUTBIN/OVLXTTL.BIN'])
     out['OUTBIN/OVLXTTL.BIN'] = name_entry.patch(out['OUTBIN/OVLXTTL.BIN'])
-    for name in gfx.redraws():
+    for name in sorted(set(gfx.redraws()) | gfx_field.files()):
         key = f'OUTBIN/{name}'
         out[key] = gfx.apply(name, out.get(key) or (TREE / 'OUTBIN' / name).read_bytes())
     return out

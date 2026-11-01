@@ -17,7 +17,11 @@ L.on_frame(function(n)
         L.log(string.format('WALK step %d %s %d f%d', i, key, frames, n))
         if key ~= '-' then L.press(key, frames) end
       end
-      if age % 30 == 0 then L.shot(string.format('walk_%04d.png', age)) end
+      if age % (WALK_EVERY or 30) == 0 then
+        local prefix = string.format('walk_%04d', age)
+        L.shot(prefix .. '.png')
+        if WALK_VRAM then L.dump_ppu(prefix) end
+      end
       return
     end
     elapsed = elapsed + frames

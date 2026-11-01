@@ -88,7 +88,7 @@ def check_archive(name, orig, new):
                     errs.append(f'{name}/{i}: redrawn image changed outside its pixel block')
             elif expected_layout is not None:
                 if b.rstrip(b'\0') != expected_layout.rstrip(b'\0'):
-                    errs.append(f'{name}/{i}: differs from checked English sprite layout')
+                    errs.append(f'{name}/{i}: differs from checked English graphics layout')
             elif a.rstrip(b'\0') != b.rstrip(b'\0'):
                 errs.append(f'{name}/{i}: non-script entry changed')
             continue

@@ -1,0 +1,13 @@
+sheet	sha1	verdict	note
+flowers100_flowers_context_sheet	7838dde3495249e46fc34efeae103b58650a112e	ok	Cold spring Flowers; full label and surrounding roof/garden preserved.
+flowers100_flowers_detail_sheet	a4782f698563e1ac3a43b64d967f6a50bed3a628	ok	Complete Flowers; old strokes removed, no tile seam.
+flowers237_flowers_context_sheet	e367038f866dffa8be9dc5865fba16d7482dcfd1	ok	Cold rain Flowers and English dialogue fit; native dark palette preserved.
+flowers237_flowers_detail_sheet	3d96c03042ea22db6009041bb7bbfb13a1af7f7b	ok	Complete Flowers under rain darkening, including both outer tile fragments.
+flowers238_flowers_context_sheet	0168ec6f406809168709bc5cc403fefbe030e889	ok	Cold daylight Flowers; roof/decorations preserved.
+flowers238_flowers_detail_sheet	2123692563f3108309113097c50af99513a726d8	ok	Complete Flowers; coherent wood across three mixed-palette tiles.
+flowers99_flowers_context_sheet	32a27b12ffdadc7b4ff551f3195064f3b794d437	ok	Cold bare-tree Flowers; roof and flower displays preserved.
+flowers99_flowers_detail_sheet	a4782f698563e1ac3a43b64d967f6a50bed3a628	ok	Complete Flowers; old strokes removed, no tile seam.
+items143_items_context_sheet	546f9c128c43b6b045cbb0a7b541d030ee2730e4	ok	Cold normal-roof Items and neighboring English signs fit.
+items143_items_detail_sheet	aeeb03efbd60fda2ac7df1af66a6f7aa43c798c8	ok	Complete Items; roof and mounting posts preserved.
+items144_items_context_sheet	14621b91d973bae3413034d349a492d25d18f2ec	ok	Cold snow Items and neighboring English signs fit.
+items144_items_detail_sheet	1b094d0cd5356d0beef972a45cdd4e2d4f0fd6e4	ok	Complete Items; snow and mounting posts preserved outside the wider wood interior.

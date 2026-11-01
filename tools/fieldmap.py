@@ -24,7 +24,11 @@ def render(stem, english=False):
     if english:
         texture_data = gfx.apply(filename, texture_data)
     textures = arc.entries(texture_data)
-    data = arc.entries((gfx.TREE / f'{stem}1D.BIN').read_bytes())
+    companion = f'{stem}1D.BIN'
+    layout = (gfx.TREE / companion).read_bytes()
+    if english:
+        layout = gfx.apply(companion, layout)
+    data = arc.entries(layout)
     pages = {}
     for _, entry in textures:
         if entry[:4] != b'ECD\x01':

@@ -16,6 +16,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 import gen_gfx  # noqa: E402
 import gfx  # noqa: E402
 import gfx_signs  # noqa: E402
+import gfx_field  # noqa: E402
 import tim  # noqa: E402
 from announcements_qa import match  # noqa: E402
 
@@ -57,17 +58,28 @@ def check(run, key, original=False, patterns=('*.png',), weather=False, labels=N
     rows = []
     if labels is not None:
         assert set(labels) <= {sign[0] for sign in gfx_signs.SIGNS[key]}, (key, labels)
-    for label, pieces, rect, _, _, _ in gfx_signs.SIGNS[key]:
+    for label, pieces, rect, _, _, kind in gfx_signs.SIGNS[key]:
         if labels is not None and label not in labels:
             continue
+        if original and kind == 'relocated':
+            pieces = gfx_field.pieces(key, original=True)
         templates = [gfx_signs.assemble(tim.image(texture, pal), pieces).crop(rect) for pal in range(palettes)]
+        if kind == 'relocated':
+            templates = [gfx_field.template(texture, key, original).crop(rect)]
         found = None
         for path in paths:
             with Image.open(path) as screen:
+                dump = path.with_suffix('.vram.bin')
+                if kind == 'relocated' and weather and dump.exists():
+                    actual = gfx_field.template(texture, key, original, dump.read_bytes()).crop(rect)
+                    position = match(screen.convert('RGB'), actual)
+                    if position is not None:
+                        found = (str(path), position, 'captured-per-tile')
+                        break
                 for pal, template in enumerate(templates):
                     position = match(screen.convert('RGB'), template)
                     if position is not None:
-                        found = (str(path), position, pal)
+                        found = (str(path), position, 'native-per-tile' if kind == 'relocated' else pal)
                         break
                 if found is None and weather:
                     position = match_remapped(screen.convert('RGB'), templates[0])

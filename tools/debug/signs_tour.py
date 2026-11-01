@@ -22,6 +22,12 @@ import gen_scenes  # noqa: E402
 from field_signs import check  # noqa: E402
 
 CASES = {
+    'flowers99': (99, 20, 40, 0, 'GV06000D.BIN:0'),
+    'flowers100': (100, 20, 40, 0, 'GV06000D.BIN:0'),
+    'flowers237': (237, 70, 29, 0, 'GV22000D.BIN:0'),
+    'flowers238': (238, 70, 29, 0, 'GV22000D.BIN:0'),
+    'items143': (143, 24, 23, 0, 'GV12000D.BIN:0'),
+    'items144': (144, 24, 23, 0, 'GV12002D.BIN:0'),
     'equipment45': (45, 34, 29, 0, 'GV01000D.BIN:0'),
     'produce45': (45, 38, 29, 0, 'GV01000D.BIN:0'),
     'produce80': (80, 21, 43, 0, 'GV04000D.BIN:0'),
@@ -141,7 +147,10 @@ CASES = {
 # map layer. These routes approve only the displayed layer's complete label.
 CASE_LABELS = {'inn80': ('inn2',), 'inn163': ('inn2',), 'inn99': ('inn',),
                'inn100': ('inn',), 'inn295': ('inn',), 'inn335': ('inn2',),
-               'equipment45': ('weapons', 'armor', 'shoes')}
+               'equipment45': ('weapons', 'armor', 'shoes'),
+               'flowers99': ('flowers',), 'flowers100': ('flowers',),
+               'flowers237': ('flowers',), 'flowers238': ('flowers',),
+               'items143': ('items',), 'items144': ('items',)}
 
 
 def run(name, args, initializers):
@@ -152,7 +161,7 @@ def run(name, args, initializers):
         # emu.py clears numbered frames but keeps custom Lua screenshot names.
         # Delete only this harness's captures, so an old successful walk cannot
         # supply a missing label on a later run.
-        for pattern in ('walk_*.png', 'walk_*.psx', f'{name}.png', f'{name}.psx'):
+        for pattern in ('walk_*.png', 'walk_*.psx', 'walk_*.vram.bin', f'{name}.png', f'{name}.psx'):
             for old in out.glob(pattern):
                 old.unlink()
         scenes = out / 'scene.txt'
@@ -163,13 +172,17 @@ def run(name, args, initializers):
                    '--out', str(out), '--script', str(ROOT / 'tools/debug/warp.lua'),
                    '--script', str(ROOT / 'tools/lua/textlog.lua'), '--var', f"SCENE='{name}'",
                    '--var', f'SCENES=[[{scenes.resolve().as_posix()}]]', '--frames', '1', '--timeout', '120']
-        if name in ('produce99', 'produce100'):
+        if name in ('produce99', 'produce100', 'flowers99', 'flowers100'):
             # GSV0600D:1 +0x3F6 checks flags 0x6F/0x90 before dispatching
             # Dog's forced-entry event. Native 2B writes exactly these two
             # two-bit flags; the full initializer still loads all map actors.
             # This is a graphics fixture, not proof of natural story progress.
             command += ['--var', 'OPS={0x2B,0x6F,0,0x2B,0x90,3}']
-        if name.startswith('bath'):
+        if name == 'flowers237':
+            command += ['--script', str(ROOT / 'tools/debug/field_walk.lua'), '--var', 'HOLD=-1',
+                        '--var', f'WALK_MAP={m}', '--var', "WALK={{'-',360}}",
+                        '--var', 'WALK_VRAM=true', '--var', 'WALK_EVERY=6']
+        elif name.startswith('bath'):
             command += ['--script', str(ROOT / 'tools/debug/field_walk.lua'), '--var', 'HOLD=-1',
                         '--var', f'WALK_MAP={m}', '--var', "WALK={{'up',160}}"]
         else:

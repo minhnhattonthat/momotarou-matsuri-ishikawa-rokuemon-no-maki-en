@@ -44,6 +44,8 @@ Addresses are for the dump in `rom.sha1` unless a note says otherwise.
 | [games-signs-qa.md](games-signs-qa.md) | Five Games-board atlases, six cold contexts, active-palette and wood-repair fixes | 12 scoped visual sheets; other shop signs and split contest consumer remain open |
 | [tea-bank-signs-qa.md](tea-bank-signs-qa.md) | Both Tea/Bank engraving families, all exact copies and cold field routes | Scoped sign checks; phase-wide graphics and story QA remain open |
 | [shop-boards-qa.md](shop-boards-qa.md) | Seven more Games atlases, Produce and Fish Shop boards; two explicit story-flag fixtures | 24 cold sign pairs; all details pass, six wider shop-scene issues remain |
+| [equipment-signs-qa.md](equipment-signs-qa.md) | Full Weapons/Armor/Shoes plaques and the original narrow-plaque investigation | Map45 cold proof; 6 scoped sheets accepted |
+| [narrow-plaques-qa.md](narrow-plaques-qa.md) | Flowers/Items tile relocation, checked front grids and mixed-palette rain oracle | Six original/English cold placements; 12 scoped sheets accepted; phase 8 remains open |
 | [small-props-qa.md](small-props-qa.md) | Sushi prices, private-bath placards and swimming victory flag; erasure, palette and texture-seam fixes | Scoped cold routes and complete-label checks; broader phase 8 remains open |
 | [map-initializers.md](map-initializers.md) | Wrong world-map initializer in every map warp; real per-map calls and input timing fix | All nine excluded maps recovered; phase-wide QA remains open |
 | [character-intro-qa.md](character-intro-qa.md) | Five full attract-mode names, split Yashahime layout and untouched cold title sequence | 5/5 complete character/name pairs on both discs, 5 scoped visual sheets; fan/costume marks remain |

@@ -1,10 +1,12 @@
 """Reletter fixed map signs in assembled tile space, preserving their frames.
 
 The field renderer splits a sign into tiles, unlike ANM minigame sprites.
-Each piece is (atlas x, y, width, height, assembled x, y). No tile records,
-palettes or collision maps change. Cold map captures remain the assembly oracle.
+Each piece is (atlas x, y, width, height, assembled x, y). Most signs retain
+their native tiles; relocated plaques delegate checked grid edits to gfx_field.
+Palettes remain unchanged. Cold map captures remain the assembly oracle.
 """
 from PIL import Image
+import gfx_field
 
 
 SIGNS = {
@@ -167,6 +169,10 @@ for _label, _u, _word in EQUIPMENT_SIGNS:
         (_label, [(_u, 80, 32, 16, 0, 0)], (1, 1, 31, 14), [_word], None,
          'wide_plaque' if _label == 'weapons' else 'equipment'))
 
+for _key, _plan in gfx_field.PLANS.items():
+    SIGNS.setdefault(_key, []).append(
+        (_plan['label'], gfx_field.pieces(_key), (0, 0, 48, 16), [_plan['word']], None, 'relocated'))
+
 
 def assemble(im, pieces):
     out = Image.new('RGBA', (max(x + w for _, _, w, _, x, _ in pieces),
@@ -181,6 +187,9 @@ def draw(im, key, pal):
     import gen_gfx
 
     for _, pieces, rect, lines, colour, kind in SIGNS[key]:
+        if kind == 'relocated':
+            gfx_field.draw(im, key, pal)
+            continue
         board = assemble(im, pieces)
         px = board.load()
         x0, y0, x1, y1 = rect

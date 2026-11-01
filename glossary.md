@@ -116,6 +116,9 @@ Shared names reuse `../momotarou-densetsu-en/glossary.md` (same series, same own
 | 龍の滝 | Dragon Falls | | | |
 
 ## Items / arts / terms
+
+Graphical flower-shop roof plaques marked 花 read **Flowers**. This wording
+applies to the sign; the existing seven-byte code slot still reads `Flower`.
 | JP | EN | max | notes | Avoid |
 |---|---|---|---|---|
 | 鬼 | oni | | lowercase in prose, Oni in names (History Quiz Oni); plural oni | |
@@ -141,7 +144,7 @@ Shared names reuse `../momotarou-densetsu-en/glossary.md` (same series, same own
 | といち屋 | Bank | | roof plaques marked と also use Bank | |
 | かんてい小屋 | Appraisal Hut | | | |
 | 茶屋 | teahouse | | roof plaques marked 茶 use Tea | tea house |
-| 道具屋 | item shop | | | |
+| 道具屋 | item shop | | roof plaques marked 道 use Items | |
 | ウサカメレース | Rabbit-Turtle Race | | betting race in Usakame Village | |
 | 鬼兄弟 | Oni Brothers | | | |
 | ウヒャヒャ | Uhyahya | | hermits' laugh | |
