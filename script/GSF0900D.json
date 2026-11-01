@@ -9,7 +9,7 @@
   "id": "GSF0900D/5/0096",
   "kind": "msg",
   "jp": "「しつこいぞ！　桃太郎！\n　だが　まあいい！」\n　{KP}\n「今　さっき\n　はかい神が　やどる\n　体も　手に入れたしな！」{KP}\n　\n「もう　これ以上　じゃまを\n　させないように\n　痛めつけてやるぜ！」{KP}\n　\n「いざ　勝負！」\n　\n　",
-  "en": "\"You're a persistent one, Momotaro! But fine!\"{KP}\"Just now, I got my hands on the body the God of Destruction will dwell in!\"{KP}\"I'll rough you up so you can't get in my way any more!\"{KP}\"Let's settle this!\""
+  "en": "\"You're a persistent one, Momotaro! But fine!\"{KP}\"Just now, I got my hands on the body the God of Destruction will dwell in!\"{KP}\"I'll rough you up so you can't get in my way anymore!\"{KP}\"Let's settle this!\""
  },
  {
   "id": "GSF0900D/5/019A",
@@ -21,7 +21,7 @@
   "id": "GSF0900D/5/02BE",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}赤の鐘{ww}を　うばわれた！\n　",
-  "en": "Momotaro had the {bb}Red Bell{ww} stolen!"
+  "en": "The {bb}Red Bell{ww} was stolen from Momotaro!"
  },
  {
   "id": "GSF0900D/5/0312",

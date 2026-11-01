@@ -109,6 +109,7 @@ Shared names reuse `../momotarou-densetsu-en/glossary.md` (same series, same own
 | カチカチ山 | Mt. Kachi-Kachi | | | |
 | なぞとき洞窟 | Riddle Cave | | | |
 | あみだ洞窟 | Amida Cave | | | |
+| つづらの洞窟 | Tsuzura Cave | | | |
 | たにしヶ池 | Snail Pond | | | |
 | わらしべの村 | Warashibe Village | | | |
 | 月の都 | Capital of the Moon | | | |

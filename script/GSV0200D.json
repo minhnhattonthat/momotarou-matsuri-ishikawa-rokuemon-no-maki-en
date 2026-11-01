@@ -9,7 +9,7 @@
   "id": "GSV0200D/11/00C6",
   "kind": "msg",
   "jp": "「こまった……　こまっただーっ！\n　{bb}大文字焼き{ww}を　するための　{bb}まき{ww}が\n　ほとんど　盗まれてしまっただ！」{KP}\n　\n「鬼である　おいらに\n　{bb}大文字焼き{ww}を　まかせてくれた\n　村長に　顔向けできねぇ！」",
-  "en": "\"Oh no... oh nooo! Almost all the {bb}firewood{ww} for the {bb}Daimonji Bonfire{ww} got stolen!\"{KP}\"The village chief trusted me, an oni, with the {bb}Daimonji Bonfire{ww}! I can't face him now!\""
+  "en": "\"Aw, no... aw, nooo! Near all the {bb}firewood{ww} for the {bb}Daimonji Bonfire{ww} done got stolen!\"{KP}\"The village chief trusted me, an oni, with the {bb}Daimonji Bonfire{ww}! I can't look him in the eye now!\""
  },
  {
   "id": "GSV0200D/11/01D4",
@@ -27,7 +27,7 @@
   "id": "GSV0200D/11/0250",
   "kind": "msg",
   "jp": "「こまった……　こまっただーっ！\n　{bb}大文字焼き{ww}を　するための　{bb}まき{ww}が\n　ほとんど　盗まれてしまっただ！」{KP}\n　\n「鬼である　おいらに\n　{bb}大文字焼き{ww}を　まかせてくれた\n　村長に　顔向けできねぇ！」",
-  "en": "\"Oh no... oh nooo! Almost all the {bb}firewood{ww} for the {bb}Daimonji Bonfire{ww} got stolen!\"{KP}\"The village chief trusted me, an oni, with the {bb}Daimonji Bonfire{ww}! I can't face him now!\""
+  "en": "\"Aw, no... aw, nooo! Near all the {bb}firewood{ww} for the {bb}Daimonji Bonfire{ww} done got stolen!\"{KP}\"The village chief trusted me, an oni, with the {bb}Daimonji Bonfire{ww}! I can't look him in the eye now!\""
  },
  {
   "id": "GSV0200D/11/035E",
@@ -93,7 +93,7 @@
   "id": "GSV0200D/12/0002",
   "kind": "msg",
   "jp": "「桃太郎さん！　ゆうぎ場で\n　ゆうぎを　楽しんだら」\n　{KP}\n「ステータスを　ひらいて\n　{bb}巻物の絵{ww}を　選んでみな！」\n　{KP}\n「今まで　遊んだ　ゆうぎの\n　記録が　見られるからさ！」\n　",
-  "en": "\"Momotaro-san! Once you've enjoyed the games at the game stalls,\"{KP}\"open Status and try picking the {bb}scroll picture{ww}!\"{KP}\"You can see the records of every game you've played so far!\""
+  "en": "\"Momotaro-san! Once you've had some fun at the game stalls,\"{KP}\"open Status and try picking the {bb}scroll picture{ww}!\"{KP}\"You can see the records of every game you've played so far!\""
  },
  {
   "id": "GSV0200D/13/0010",
@@ -123,7 +123,7 @@
   "id": "GSV0200D/15/0010",
   "kind": "msg",
   "jp": "「孫に　お祭りを\n　見せに　来たんですわ」\n　{KP}\n「孫も　楽しそうに　していて\n　よかったですじゃ！」\n　{KP}\n「桃太郎さんが　鬼を\n　こらしめてくれた　おかげじゃて！」\n　",
-  "en": "\"I came to show my grandkid the festival, you see.\"{KP}\"I'm glad my grandkid's having such fun!\"{KP}\"It's all thanks to you teaching those oni a lesson, Momotaro-san!\""
+  "en": "\"I came to show my grandkid the festival, you see.\"{KP}\"Does an old man good to see my grandkid havin' such fun, eh!\"{KP}\"And it's all thanks to you givin' those oni what for, Momotaro-san!\""
  },
  {
   "id": "GSV0200D/15/00D6",
@@ -183,7 +183,7 @@
   "id": "GSV0200D/21/0298",
   "kind": "msg",
   "jp": "「そうじゃ！　カチカチの村を\n　出て　少し　北に　行けば\n　おむすび村じゃからのォ！」{KP}\n　\n「いや～\n　お祭りは　楽しかったぞい！」\n　",
-  "en": "\"That's right! Leave Kachi-Kachi Village and head a little north, and you'll reach Omusubi Village!\"{KP}\"Ahh, the festival was such fun!\""
+  "en": "\"That's right! Leave Kachi-Kachi Village and head a little north, and you'll reach Omusubi Village, eh!\"{KP}\"Ahh, that festival was grand fun, I tell you!\""
  },
  {
   "id": "GSV0200D/21/033A",
@@ -267,7 +267,7 @@
   "id": "GSV0200D/23/0504",
   "kind": "msg",
   "jp": "「おまえなんか…！」\n　\n　{KP}\n「おまえなんか　あんちゃんに\n　くらべれば　たいしたこと\n　ないんだからな！」{KP}\n　\n「こんな　ものー！\n　……覚えてろクリ！」\n　",
-  "en": "\"You're...!\"{KP}\"You're nothin' special compared to my big bro!\"{KP}\"Take this stupid thing! ...You'll be sorry, kuri!\""
+  "en": "\"A nobody like you...!\"{KP}\"A nobody like you is nothin' special next to my big bro!\"{KP}\"Take this stupid thing! ...You'll be sorry, kuri!\""
  },
  {
   "id": "GSV0200D/23/05C6",
@@ -285,7 +285,7 @@
   "id": "GSV0200D/24/0010",
   "kind": "msg",
   "jp": "「いや～！\n　今回の　{bb}大文字焼き{ww}は\n　すばらしかったのォ～！」{KP}\n　\n「何やら　また　桃太郎さんの\n　かつやくで　{bb}大文字焼き{ww}が\n　見れるように　なったとか…」{KP}\n　\n「わしからも　礼を\n　言わせて　もらいますぞ！」\n　{KP}\n「……おお　そうじゃ！\n　桃太郎さん！」\n　{KP}\n「よろしかったら\n　{bb}おむすび村{ww}に　いっしょに\n　行かんかのォ？」{KP}\n　\n「みなも　喜ぶと思うし\n　今回の　お礼に　ごちそう\n　したいんでのォ！」",
-  "en": "\"Ahh! This year's {bb}Daimonji Bonfire{ww} was simply splendid!\"{KP}\"I hear it's thanks to you once again, Momotaro-san, that we got to see the {bb}Daimonji Bonfire{ww}...\"{KP}\"Allow me to thank you as well!\"{KP}\"...Oh, that's right! Momotaro-san!\"{KP}\"If you like, why not come with me to {bb}Omusubi Village{ww}?\"{KP}\"I'm sure everyone would be delighted, and I'd like to treat you to a feast as thanks!\""
+  "en": "\"Ahh! That {bb}Daimonji Bonfire{ww} was simply splendid, eh!\"{KP}\"I hear it's thanks to you once again, Momotaro-san, that we got to see the {bb}Daimonji Bonfire{ww}...\"{KP}\"Allow me to thank you as well!\"{KP}\"...Oh, that's right! Momotaro-san!\"{KP}\"If you like, why not come with me to {bb}Omusubi Village{ww}?\"{KP}\"I'm sure everyone would be delighted, and I'd like to treat you to a feast as thanks!\""
  },
  {
   "id": "GSV0200D/24/01E4",

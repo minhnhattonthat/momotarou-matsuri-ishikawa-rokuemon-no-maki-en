@@ -27,7 +27,7 @@
   "id": "M020D/10/000A",
   "kind": "msg",
   "jp": "ふくわらい！\n対戦ゲームの　説明です！{KP}\n方向キーで　顔の　部品を\n動かせます！{KP}\nＬ１ボタン　Ｒ１ボタンで\n顔の　部品は　まわせますが{KP}\n髪の毛は　まわせません！\n　{KP}\n×ボタンを　押せば\nスピードアップします！{KP}\n置きたい　場所が　決まったら\n○ボタンを　押しましょう！{KP}\nお手本に　ソックリに\nできたほうが　勝ちです！{KP}\n顔の部品が　バラバラに\n置かれています！{KP}\n９０秒で　すべての部品を\n正しい位置に　並べましょう！{KP}\n時間内に　すべて　置けなかった場合\n得点が　すごいことになっちゃいます！{KP}\n１Ｐは　桃太郎さん\n２Ｐは　金太郎さんです！",
-  "en": "Fukuwarai! Here's how the versus game works!{KP}Move the face parts with the directional buttons!{KP}You can turn the face parts with the L1 and R1 buttons,{KP}but you can't turn the hair!{KP}Press the X button to speed up!{KP}Once you've picked a spot, press the Circle button!{KP}Whoever makes the closest match to the model wins!{KP}The parts of a face have been scattered all over!{KP}Put all the parts in their right places within 90 seconds!{KP}If you can't place them all in time, your score is in for a real shock!{KP}1P is Momotaro-san, 2P is Kintaro-san!"
+  "en": "Fukuwarai! Here's how the versus game works!{KP}Move the face parts with the directional buttons!{KP}You can turn the face parts with the L1 and R1 buttons,{KP}but you can't turn the hair!{KP}Press the X button to speed up!{KP}Once you've picked a spot, press the Circle button!{KP}Whoever's face looks most like the model wins!{KP}The parts of a face have been scattered all over!{KP}Put all the parts in their right places within 90 seconds!{KP}If you can't place them all in time, your score is in for a real shock!{KP}1P is Momotaro-san, 2P is Kintaro-san!"
  },
  {
   "id": "M020D/10/0256",
@@ -165,7 +165,7 @@
   "id": "M020D/21/0002",
   "kind": "msg",
   "jp": "いよいよ　最後は　くちです！\n誰かさんの　やえばと　にてますね！",
-  "en": "And at last, the mouth! Those teeth look just like somebody's!"
+  "en": "And last of all, the mouth! That snaggletooth looks just like somebody's!"
  },
  {
   "id": "M020D/22/0002",

@@ -27,7 +27,7 @@
   "id": "GSV0808D/3/026A",
   "kind": "msg",
   "jp": "「いらっしゃいませ！\n　{bb}はねつき地獄！{ww}が\n　５０両で楽しめます」{KN}",
-  "en": "\"Welcome! You can play {bb}Hanetsuki Hell!{ww} for 50 ryo.\"{KN}"
+  "en": "\"Welcome! For 50 ryo, you can play {bb}Hanetsuki Hell!{ww}\"{KN}"
  },
  {
   "id": "GSV0808D/3/02F8",
@@ -87,7 +87,7 @@
   "id": "GSV0808D/5/0002",
   "kind": "msg",
   "jp": "「知ってる　知ってる！\n　{bb}はねつき地獄！{ww}はさぁ！」\n　{KP}\n「ハネの　かげを　見るんだよ！\n　あとは　タイミングだけさ！」\n　",
-  "en": "\"I know, I know! The trick to {bb}Hanetsuki Hell!{ww} is...\"{KP}\"Watch the shuttlecock's shadow! After that, it's all timing!\""
+  "en": "\"I know, I know! Here's the trick to {bb}Hanetsuki Hell!{ww}\"{KP}\"Watch the shuttlecock's shadow! After that, it's all timing!\""
  },
  {
   "id": "GSV0808D/6/0002",

@@ -27,7 +27,7 @@
   "id": "M030D/29/000A",
   "kind": "msg",
   "jp": "どっちでＳＨＯＷ！\n対戦ゲームの　説明です！{KP}\nイヌさんたちが　問題を\n１０問出します！{KP}\nみんなが　隠れ終わったところで\nさて！　問題です！{KP}\n画面の　真ん中に\n人の顔が　出てきます！{KP}\nその人が　右に　行ったか\n左に　行ったかを　当ててください！{KP}\nまちがえた人は　その場で\n失格と　なってしまいます！{KP}\nまた！　１０秒以内に答えないと\n失格になってしまいます！{KP}\nそれでは　ノーミスで\n勝ち進んで　くださいね！{KP}\n１Ｐは　桃太郎さん\n２Ｐは　金太郎さんです！",
-  "en": "Which One SHOW! Here's how the versus game works!{KP}Dog-san and the others will ask 10 questions!{KP}Once everyone has finished hiding, here comes the question!{KP}A face appears in the middle of the screen!{KP}Guess whether that person went right or left!{KP}Anyone who guesses wrong is disqualified on the spot!{KP}Also! If you don't answer within 10 seconds, you're disqualified!{KP}So, win your way through without a single miss!{KP}1P is Momotaro-san, 2P is Kintaro-san!"
+  "en": "Which One SHOW! Here's how the versus game works!{KP}Dog-san and friends will give you 10 questions!{KP}Once everyone has finished hiding... now! Here's the question!{KP}A person's face will appear in the middle of the screen!{KP}Guess whether that person went right or left!{KP}Anyone who guesses wrong is disqualified on the spot!{KP}And! If you don't answer within 10 seconds, you're disqualified too!{KP}So make it all the way without a single mistake!{KP}1P is Momotaro-san, 2P is Kintaro-san!"
  },
  {
   "id": "M030D/29/01FC",
@@ -165,7 +165,7 @@
   "id": "M030D/36/0002",
   "kind": "msg",
   "jp": "「キャッ！　キャッ！」\n　{KP}\n「次の問題から\n　オラが　仲間入りします！」{KP}\n「オラを　見つけると\n　２５０点　はいります！」{KP}\n「オラは　素早く　動くから\n　よ～く　目で　追ってね！」",
-  "en": "\"Eek! Eek!\"{KP}\"I'm joining in from the next question!\"{KP}\"Find me and you get 250 points!\"{KP}\"I move real quick, so follow me closely with your eyes!\""
+  "en": "\"Ook! Ook!\"{KP}\"I'm joining in from the next question!\"{KP}\"Find me and you get 250 points!\"{KP}\"I move real quick, so follow me closely with your eyes!\""
  },
  {
   "id": "M030D/37/0002",
@@ -189,7 +189,7 @@
   "id": "M030D/40/0002",
   "kind": "msg",
   "jp": "「グェッヘッヘ！　オレさまを\n　呼ぶとは　百年早いわ！」{KP}\n「しかし　オレさまが　加わって\n　まちがえでもしたら…」{KP}\n「マイナス　５００点だからな！\n　キ～～～～～ング　ボンビー！」{KP}\n「まあ！　オレさまを　当てても\n　５０点しか　はいらんがな！」{KP}\n「おまえたちに　ボンビラスの\n　おそろしさを　教えてやる！」{KP}\n「よろこぶが　いい！」\n　{KP}\n「キ～～～～～ング　ボンビー！」\n　",
-  "en": "\"Gwehehe! Calling on the great me? You're a hundred years too early!\"{KP}\"But now that I've joined in, if you guess wrong...\"{KP}\"it's minus 500 points! Kiiiiiiing Bombee!\"{KP}\"Mind you, guess me right and you only get 50 points!\"{KP}\"I'll teach you the terror of Bombiras!\"{KP}\"Rejoice!\"{KP}\"Kiiiiiiing Bombee!\""
+  "en": "\"Gwehehe! You're a hundred years too early to be calling on the great me!\"{KP}\"But now that I've joined in, if you guess wrong...\"{KP}\"it's minus 500 points! Kiiiiiiing Bombee!\"{KP}\"Mind you, guess me right and you only get 50 points!\"{KP}\"I'll teach you the terror of Bombiras!\"{KP}\"Rejoice!\"{KP}\"Kiiiiiiing Bombee!\""
  },
  {
   "id": "M030D/41/0002",
@@ -201,7 +201,7 @@
   "id": "M030D/42/0002",
   "kind": "msg",
   "jp": "「ウヒャヒャ…！」\n　{KP}\n「みんな　楽しそうに\n　遊んでおるのォ！」{KP}\n「そろそろ　わしも\n　仲間に　入れてもらおうかの！」{KP}\n「わしが　問題に出たとき　当てたら\n　ほうびに　３５０点あげるぞ！」{KP}\n「人数が　増えてきて\n　うっとうしいが　がんばるのぢゃ！」",
-  "en": "\"Uhyahya...!\"{KP}\"Everyone's having a fine old time, eh!\"{KP}\"About time I joined in too, I reckon!\"{KP}\"Guess me right when I show up in a question, and I'll reward you with 350 points!\"{KP}\"There's more of us now and it's a nuisance, but do your best!\""
+  "en": "\"Uhyahya...!\"{KP}\"Everyone's having a fine old time, eh!\"{KP}\"About time I joined in too, I reckon!\"{KP}\"Guess me right when I show up in a question, and I'll reward you with 350 points!\"{KP}\"It's getting crowded and a bit of a bother, but do your best, eh!\""
  },
  {
   "id": "M030D/43/0002",

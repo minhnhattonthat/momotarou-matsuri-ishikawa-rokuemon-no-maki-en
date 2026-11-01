@@ -75,7 +75,7 @@
   "id": "GSV0800D/11/04AE",
   "kind": "msg",
   "jp": "「そうか！　やっぱり\n　おまえは　本物の\n　桃太郎だったんだな！」",
-  "en": "\"I see! So you really are the real Momotaro after all!\""
+  "en": "\"I see! So you're the real Momotaro after all!\""
  },
  {
   "id": "GSV0800D/11/0500",
@@ -99,13 +99,13 @@
   "id": "GSV0800D/11/0722",
   "kind": "msg",
   "jp": "「よかったですね　桃太郎さん！\n　あっ　そうだ　金太郎さん！」\n　{KP}\n「花咲かじいさんが　頼んだ\n　{bb}金太アメ{ww}を　いただきに\n　きました！」",
-  "en": "\"Isn't that great, Momotaro-san! Oh, that's right, Kintaro-san!\"{KP}\"I came to pick up the {bb}Kinta Candy{ww} that Old Man Hanasaka asked for!\""
+  "en": "\"That's great, Momotaro-san! Oh, that reminds me, Kintaro-san!\"{KP}\"I came to pick up the {bb}Kinta Candy{ww} that Old Man Hanasaka asked for!\""
  },
  {
   "id": "GSV0800D/11/07C4",
   "kind": "msg",
   "jp": "「おお　そうなのか！\n　では　これを　持って行って\n　いいど」",
-  "en": "\"Oh, is that so! Then go ahead and take this.\""
+  "en": "\"Oh, is that so! Then go on and take it with ya.\""
  },
  {
   "id": "GSV0800D/11/0812",
@@ -183,7 +183,7 @@
   "id": "GSV0800D/12/0018",
   "kind": "msg",
   "jp": "「オイラ　金太郎先生の\n　一番弟子　金一郎です！」\n　{KP}\n「ん？　あなたは　本物の\n　桃太郎さんですか？」\n　",
-  "en": "\"I'm Kinichiro, Kintaro-sensei's number one pupil!\"{KP}\"Hm? Are you the real Momotaro-san?\""
+  "en": "\"I'm Kinichiro, Kintaro-sensei's first disciple!\"{KP}\"Hm? Are you the real Momotaro-san?\""
  },
  {
   "id": "GSV0800D/12/009C",
@@ -249,7 +249,7 @@
   "id": "GSV0800D/15/0326",
   "kind": "msg",
   "jp": "「おおおおおお！　桃太郎さん！\n　ついに　ゆうぎ仙人に\n　なられましたか！」{KP}\n　\n「わしは　感動して　こしが\n　ぬけそうじゃ！」\n　",
-  "en": "\"Ohhhhhh! Momotaro-san! You've finally become the Game Hermit!\"{KP}\"I'm so moved, my back's about to give out!\""
+  "en": "\"Ohhhhhh! Momotaro-san! You've finally become the Game Hermit!\"{KP}\"I'm so moved, my knees are about to give out!\""
  },
  {
   "id": "GSV0800D/15/03C4",
@@ -615,7 +615,7 @@
   "id": "GSV0800D/31/08CA",
   "kind": "msg",
   "jp": "「栗太郎に　見せてやるんだな！\n　本物の　すごさを！」\n　{KP}\n「{bb}兄弟の洞窟{ww}は\n　東の　方角にあるらしい」\n　{KP}\n「オラは　ここで　弟子たちを\n　教育しなければ　ならないので\n　ここで　お別れだど！」{KP}\n　\n「また　会おうぜ！」\n　\n　",
-  "en": "\"You show Kuritaro! Show him what the real deal can do!\"{KP}\"They say {bb}Brothers' Cave{ww} is off to the east.\"{KP}\"I've gotta stay here and train my disciples, so this is where we part ways!\"{KP}\"See ya around!\""
+  "en": "\"Go show Kuritaro how amazin' the real deal is!\"{KP}\"They say {bb}Brothers' Cave{ww} is off to the east.\"{KP}\"I've gotta stay here and train my disciples, so this is where we part ways!\"{KP}\"See ya around!\""
  },
  {
   "id": "GSV0800D/31/09E4",

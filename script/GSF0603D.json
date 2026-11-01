@@ -27,13 +27,13 @@
   "id": "GSF0603D/2/0146",
   "kind": "msg",
   "jp": "「あたりまえだい！\n　もう　オイラは\n　桃太郎を　こえたんだ！」{KP}\n　\n「桃太郎も　いろんな\n　ゆうぎで　遊んでいる\n　みたいだけど」{KP}\n　\n「オイラの　つくった\n　ゆうぎは　クリア\n　できるかな？」{KP}\n　\n「オイラが　つくった\n　ゆうぎ　{bb}カゴしょってＧＯ！{ww}で\n　勝負してみるか？」{KN}",
-  "en": "\"Of course! I've already surpassed Momotaro!\"{KP}\"Momotaro seems to have played all kinds of games, but\"{KP}\"can he clear a game I made?\"{KP}\"Wanna face me in the game I made, {bb}Basket Backpack GO!{ww}?\"{KN}"
+  "en": "\"Of course! I've already surpassed you, Momotaro!\"{KP}\"Momotaro, you seem to have played all kinds of games, but\"{KP}\"can you clear a game I made?\"{KP}\"Wanna face me in the game I made, {bb}Basket Backpack GO!{ww}?\"{KN}"
  },
  {
   "id": "GSF0603D/2/028C",
   "kind": "msg",
   "jp": "「もう　オイラは\n　桃太郎を　こえたんだ！」\n　{KP}\n「桃太郎も　いろんな\n　ゆうぎで　遊んでいる\n　みたいだけど」{KP}\n　\n「オイラの　つくった\n　ゆうぎは　クリア\n　できるかな？」{KP}\n　\n「オイラが　つくった\n　ゆうぎ　{bb}カゴしょってＧＯ！{ww}で\n　勝負してみるか？」{KN}",
-  "en": "\"I've already surpassed Momotaro!\"{KP}\"Momotaro seems to have played all kinds of games, but\"{KP}\"can he clear a game I made?\"{KP}\"Wanna face me in the game I made, {bb}Basket Backpack GO!{ww}?\"{KN}"
+  "en": "\"I've already surpassed you, Momotaro!\"{KP}\"Momotaro, you seem to have played all kinds of games, but\"{KP}\"can you clear a game I made?\"{KP}\"Wanna face me in the game I made, {bb}Basket Backpack GO!{ww}?\"{KN}"
  },
  {
   "id": "GSF0603D/2/03C6",
@@ -75,7 +75,7 @@
   "id": "GSF0603D/2/0630",
   "kind": "msg",
   "jp": "「カキーッ！\n　桃太郎も　だらしないなあ！」\n　{KP}\n「オイラって　スッゲーじゃん！\n　サイコー！」\n　{KP}\n「もっと　他の　ゆうぎで\n　修行　してくると　いいぞ！」\n　{KP}\n「桃太郎！　勝負は\n　それまで　お預けだい！」\n　",
-  "en": "\"Kakiii! Momotaro, you're pathetic!\"{KP}\"Am I awesome or what?! The best!\"{KP}\"Go train some more in other games!\"{KP}\"Momotaro! Our contest is on hold till then!\""
+  "en": "\"Kakiii! Momotaro, you're so lame!\"{KP}\"Am I awesome or what?! The best!\"{KP}\"Go train some more in other games!\"{KP}\"Momotaro! Our contest is on hold till then!\""
  },
  {
   "id": "GSF0603D/2/0728",
@@ -135,7 +135,7 @@
   "id": "GSF0603D/3/0002",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　あんちゃんは　村人たちの\n　ために」{KP}\n　\n「たくさんの　ゆうぎを\n　作って　いくことに\n　したんだ！」{KP}\n　\n「ねぇ！　桃太郎さん！\n　{bb}カゴしょってＧＯ！{ww}で\n　遊んでいってよ！」{KP}\n　\n「桃太郎さんにだけ\n　ナイショで　ヒントを\n　教えるクリ！」{KP}\n　\n「オラが　落とす　イガグリは\n　同じ場所には　連続で\n　落とさないクリ！」{KP}\n　\n「それに　落とす　イガグリは\n　１回に　５コって\n　決めているんだクリ！」{KP}\n　\n「だから　よく見て\n　かわすことだけ　考えれば\n　ミスしないクリ！」",
-  "en": "\"Momotaro-san! For the sake of the villagers,\"{KP}\"big bro decided he's gonna make lots of games!\"{KP}\"Hey! Momotaro-san! Come play {bb}Basket Backpack GO!{ww}!\"{KP}\"I'll tell you a hint in secret, just you, kuri!\"{KP}\"The spiky chestnuts I drop never land in the same spot twice in a row, kuri!\"{KP}\"And I've decided to drop 5 spiky chestnuts at a time, kuri!\"{KP}\"So if you watch closely and just think about dodging, you won't mess up, kuri!\""
+  "en": "\"Momotaro-san! For the sake of the villagers,\"{KP}\"big bro decided he's gonna make lots of games!\"{KP}\"Hey! Momotaro-san! Come play {bb}Basket Backpack GO!{ww}\"{KP}\"I'll tell you a hint in secret, just you, kuri!\"{KP}\"The spiky chestnuts I drop never land in the same spot twice in a row, kuri!\"{KP}\"And I've decided to drop 5 spiky chestnuts at a time, kuri!\"{KP}\"So if you watch closely and just think about dodging, you won't mess up, kuri!\""
  },
  {
   "id": "GSF0603D/4/0038",

@@ -3,13 +3,13 @@
   "id": "GSV3300D/3/0048",
   "kind": "msg",
   "jp": "「ん？　なんだ　あんたは\n　えっ！　桃太郎？」\n　{KP}\n「おお！　あんたが　うわさの\n　桃太郎さんかい！」\n　{KP}\n「いや～　聞いてくれよ！\n　柿の　顔をした　やつから\n　新しい　海図を　買って」{KP}\n　\n「その通りに　航行したら\n　ざしょうして　しまったんだ！\n　ちくしょう！　あの　柿男め！」{KP}\n　\n「いったい\n　どうしたら　いいんだ！\n　あちこち　穴が　あくし……」{KP}\n　\n「これじゃ！\n　うでのたつ　大工が\n　必要だなぁ～」{KP}\n　\n「でも　直したとしても\n　どうやって　この舟を\n　海に　もどせば　よいのか…」{KP}\n　\n「{bb}寝太郎の村{ww}に　いる\n　{bb}寝太郎{ww}の　ちからでも\n　借りられれば　いいのだが」{KP}\n　\n「でも　あいつは\n　寝っぱなしだし……\n　ん～～　こまったぞい！」",
-  "en": "\"Hm? Who are you? What! Momotaro?\"{KP}\"Oh! So you're the famous Momotaro-san!\"{KP}\"Listen to this! I bought a new sea chart from a guy with a persimmon for a face,\"{KP}\"followed it to the letter, and ran aground! Dang it! That persimmon man!\"{KP}\"What am I supposed to do now?! There are holes all over...\"{KP}\"At this rate, I'll need a skilled carpenter...\"{KP}\"But even if it's fixed, how am I supposed to get this boat back into the sea...\"{KP}\"If only I could borrow the strength of {bb}Netaro{ww} in {bb}Netaro Village{ww}...\"{KP}\"But that guy just sleeps all the time... Hmm, what a fix!\""
+  "en": "\"Hm? Who are you? What! Momotaro?\"{KP}\"Oh! So you're the famous Momotaro-san!\"{KP}\"Listen to this! I bought a new sea chart from a guy with a persimmon for a face,\"{KP}\"followed it to the letter, and ran aground! Dang it! That persimmon man!\"{KP}\"What am I supposed to do now?! There are holes all over...\"{KP}\"At this rate, I'll need a skilled carpenter...\"{KP}\"But even if it's fixed, how am I supposed to get this boat back into the sea...\"{KP}\"If only I could borrow the strength of {bb}Netaro{ww} in {bb}Netaro Village{ww}...\"{KP}\"But that guy just sleeps all the time... Hmm, I'm in a real pickle!\""
  },
  {
   "id": "GSV3300D/3/0336",
   "kind": "msg",
   "jp": "「ん～～　こまったぞい！\n　桃太郎さん！　何か\n　いい案が　ないかい？」",
-  "en": "\"Hmm, what a fix! Momotaro-san! Got any good ideas?\""
+  "en": "\"Hmm, I'm in a real pickle! Momotaro-san! Got any bright ideas?\""
  },
  {
   "id": "GSV3300D/3/039E",
@@ -21,25 +21,25 @@
   "id": "GSV3300D/3/0498",
   "kind": "msg",
   "jp": "「おっ！　桃太郎さん\n　ありがたいねぇ～」\n　{KP}\n「あんなに　うでのいい\n　大工を　呼んでくれて！」\n　{KP}\n「えっ！　寝太郎を　おこすことが\n　できたのかい！」\n　{KP}\n「頼みますよ　桃太郎さん！\n　寝太郎に　この　舟を　押すように\n　頼んで　くれないかい！」",
-  "en": "\"Oh! Momotaro-san, I'm much obliged!\"{KP}\"You called in such a skilled carpenter for me!\"{KP}\"What! You managed to wake Netaro?!\"{KP}\"I'm counting on you, Momotaro-san! Won't you ask Netaro to push this boat for me?\""
+  "en": "\"Oh! Momotaro-san, much appreciated!\"{KP}\"You called in such a skilled carpenter for me!\"{KP}\"What! You managed to wake Netaro?!\"{KP}\"I'm counting on you, Momotaro-san! Won't you ask Netaro to push this boat for me?\""
  },
  {
   "id": "GSV3300D/3/05C6",
   "kind": "msg",
   "jp": "「えっ！\n　寝太郎が　こっちに\n　向かってるってぇ！」{KP}\n　\n「ありがたいねぇ～\n　じゃ　あとは　腕のいい\n　大工さんを　頼みますよ！」{KP}\n　\n「舟を　直しておかねえぇと\n　海に　出したとたん\n　沈没しちまうからな！」{KP}\n　\n「頼みますよ\n　桃太郎さん！」\n　",
-  "en": "\"What! Netaro's on his way here?!\"{KP}\"I'm much obliged! Then all that's left is a skilled carpenter. I'm counting on you!\"{KP}\"If I don't fix the boat first, it'll sink the second it hits the water!\"{KP}\"I'm counting on you, Momotaro-san!\""
+  "en": "\"What! Netaro's on his way here?!\"{KP}\"Much appreciated! Then all I need now is a skilled carpenter. Please find me one!\"{KP}\"If I don't fix the boat first, it'll sink the second it hits the water!\"{KP}\"I'm counting on you, Momotaro-san!\""
  },
  {
   "id": "GSV3300D/3/06EE",
   "kind": "msg",
   "jp": "「おっ！　桃太郎さん\n　ありがたいねぇ～」\n　{KP}\n「えっ！\n　寝太郎も　こっちに\n　向かってるってぇ！」{KP}\n　\n「さすがは　桃太郎さん！\n　ありがたいねぇ～」\n　",
-  "en": "\"Oh! Momotaro-san, I'm much obliged!\"{KP}\"What! Netaro's on his way here too?!\"{KP}\"That's Momotaro-san for you! I'm much obliged!\""
+  "en": "\"Oh! Momotaro-san, much appreciated!\"{KP}\"What! Netaro's on his way here too?!\"{KP}\"That's Momotaro-san for you! Much appreciated!\""
  },
  {
   "id": "GSV3300D/3/07AC",
   "kind": "msg",
   "jp": "「おっ！　桃太郎さん\n　ありがたいねぇ～」\n　{KP}\n「あんなに　うでのいい\n　大工を　呼んでくれて！」\n　{KP}\n「あとは　どうやって\n　この舟を　海に　出すかだ……」\n　",
-  "en": "\"Oh! Momotaro-san, I'm much obliged!\"{KP}\"You called in such a skilled carpenter for me!\"{KP}\"Now the only question is how to get this boat out to sea...\""
+  "en": "\"Oh! Momotaro-san, much appreciated!\"{KP}\"You called in such a skilled carpenter for me!\"{KP}\"Now the only question is how to get this boat out to sea...\""
  },
  {
   "id": "GSV3300D/3/087A",
@@ -87,7 +87,7 @@
   "id": "GSV3300D/4/00E4",
   "kind": "msg",
   "jp": "「あっ！　桃のお兄ちゃん！\n　寝太郎さんに　舟の　修理が\n　おわっていないので」{KP}\n　\n「まだ　舟を　押さないでって\n　言っておいたよ！」\n　",
-  "en": "\"Oh! Mister Peach! I told Netaro-san not to push the boat yet,\"{KP}\"since the repairs aren't finished!\""
+  "en": "\"Oh! Big Bro Peach! I told Netaro-san not to push the boat yet,\"{KP}\"since the repairs aren't finished!\""
  },
  {
   "id": "GSV3300D/5/0010",

@@ -15,7 +15,7 @@
   "id": "GSV0209D/2/0074",
   "kind": "msg",
   "jp": "「いらっしゃいませ！\n　{bb}ハリセンちょっぷ！{ww}が\n　５０両で楽しめます」{KN}",
-  "en": "\"Welcome! You can enjoy {bb}Paper Fan Chop!{ww} for 50 ryo.\"{KN}"
+  "en": "\"Welcome! For 50 ryo, you can enjoy {bb}Paper Fan Chop!{ww}\"{KN}"
  },
  {
   "id": "GSV0209D/2/0106",
@@ -39,6 +39,6 @@
   "id": "GSV0209D/3/0002",
   "kind": "msg",
   "jp": "「{bb}ハリセンちょっぷ！{ww}は\n　カウントダウンが　０に\n　なった後が　勝負だびろーん」{KP}\n　\n「０より前に　たたく人は\n　あわてんぼうだびろーん！」\n　",
-  "en": "\"In {bb}Paper Fan Chop!{ww}, the real contest starts after the countdown hits 0, biroon!\"{KP}\"Anyone who whacks before 0 is a total hothead, biroon!\""
+  "en": "\"The real contest in {bb}Paper Fan Chop!{ww} starts after the countdown hits 0, biroon!\"{KP}\"Anyone who whacks before 0 is a jumpy one, biroon!\""
  }
 ]

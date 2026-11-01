@@ -279,7 +279,7 @@
   "id": "GSV1200D/25/002C",
   "kind": "msg",
   "jp": "「寝太郎が　一度　寝たら\n　３年は　おきないようじゃ」\n　{KP}\n「寝てから　１年しか　たって\n　おらんので　おきるまでは\n　あと　２年かかるじゃろう！」{KP}\n　\n「{bb}氷の塔{ww}に　ある　伝説の\n　{bb}氷の篠笛（しのぶえ）{ww}ならば\n　寝太郎を　おこせるじゃろうが…」",
-  "en": "\"Once Netaro falls asleep, they say he won't wake up for 3 years.\"{KP}\"It's only been 1 year since he nodded off, so it'll be 2 more years before he wakes!\"{KP}\"The legendary {bb}Ice Flute{ww} in the {bb}Ice Tower{ww} could wake Netaro, but...\""
+  "en": "\"Once Netaro falls asleep, they say he won't wake up for 3 years.\"{KP}\"It's only been 1 year since he nodded off, so it'll be 2 more years before he wakes, I reckon!\"{KP}\"The legendary {bb}Ice Flute{ww} in the {bb}Ice Tower{ww} could wake Netaro, but...\""
  },
  {
   "id": "GSV1200D/25/0148",
@@ -501,7 +501,7 @@
   "id": "GSV1200D/41/00CA",
   "kind": "msg",
   "jp": "「それでは　桃太郎さん\n　コンきげんよう！」\n　",
-  "en": "\"Well then, Momotaro-san, kon-tinue to fare well!\""
+  "en": "\"Well then, Momotaro-san, fare kon-well!\""
  },
  {
   "id": "GSV1200D/41/011A",
@@ -513,13 +513,13 @@
   "id": "GSV1200D/41/01BA",
   "kind": "msg",
   "jp": "「それでは　桃太郎さん\n　コンきげんよう！」\n　",
-  "en": "\"Well then, Momotaro-san, kon-tinue to fare well!\""
+  "en": "\"Well then, Momotaro-san, fare kon-well!\""
  },
  {
   "id": "GSV1200D/42/0010",
   "kind": "msg",
   "jp": "「コン子さんと　いっても\n　カゼを　ひいているのでは　なく\n　健康な　キツネです！」",
-  "en": "\"Konko-san's name may sound like a cough, but she doesn't have a cold. She's a perfectly healthy fox!\""
+  "en": "\"Her name may be Konko-san, like a 'kon kon' cough, but she doesn't have a cold. She's a perfectly healthy fox!\""
  },
  {
   "id": "GSV1200D/42/0076",
@@ -597,7 +597,7 @@
   "id": "GSV1200D/46/01CE",
   "kind": "msg",
   "jp": "「キャーッ！　ありがとう！\n　桃太郎さん！」\n　{KP}\n「はい！\n　では　この　{bb}からくり人形{ww}と\n　取りかえっこね！」",
-  "en": "\"Eeek! Thank you, Momotaro-san!\"{KP}\"Here you go! I'll swap you this {bb}Karakuri Doll{ww} for it!\""
+  "en": "\"Yay! Thank you, Momotaro-san!\"{KP}\"Here you go! I'll swap you this {bb}Karakuri Doll{ww} for it!\""
  },
  {
   "id": "GSV1200D/46/0256",

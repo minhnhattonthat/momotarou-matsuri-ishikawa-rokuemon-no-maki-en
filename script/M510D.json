@@ -21,7 +21,7 @@
   "id": "M510D/16/00CA",
   "kind": "msg",
   "jp": "「ブッブー！」\n　{KP}\n「ちょっと　ど忘れしただけ…\n　ですよね～！　はっはっは！」{KP}\n歴史クイズの鬼は\n去っていった！",
-  "en": "\"Bzzzt!\"{KP}\"You just had a little brain blip... right? Ha ha ha!\"{KP}The History Quiz Oni left!"
+  "en": "\"Bzzzt!\"{KP}\"You just blanked for a second... right? Ha ha ha!\"{KP}The History Quiz Oni left!"
  },
  {
   "id": "M510D/17/0002",
@@ -51,7 +51,7 @@
   "id": "M510D/19/00CE",
   "kind": "msg",
   "jp": "「ブッブー！」\n　{KP}\n「ちょっと　ど忘れしただけ…\n　ですよね～！　はっはっは！」{KP}\nことわざクイズの鬼は\n去っていった！",
-  "en": "\"Bzzzt!\"{KP}\"You just had a little brain blip... right? Ha ha ha!\"{KP}The Proverb Quiz Oni left!"
+  "en": "\"Bzzzt!\"{KP}\"You just blanked for a second... right? Ha ha ha!\"{KP}The Proverb Quiz Oni left!"
  },
  {
   "id": "M510D/20/0002",
@@ -81,7 +81,7 @@
   "id": "M510D/22/00CA",
   "kind": "msg",
   "jp": "「ブッブー！」\n　{KP}\n「ちょっと　ど忘れしただけ…\n　ですよね～！　はっはっは！」{KP}\n英語クイズの鬼は\n去っていった！",
-  "en": "\"Bzzzt!\"{KP}\"You just had a little brain blip... right? Ha ha ha!\"{KP}The English Quiz Oni left!"
+  "en": "\"Bzzzt!\"{KP}\"You just blanked for a second... right? Ha ha ha!\"{KP}The English Quiz Oni left!"
  },
  {
   "id": "M510D/23/0002",
@@ -111,7 +111,7 @@
   "id": "M510D/25/00CA",
   "kind": "msg",
   "jp": "「ブッブー！」\n　{KP}\n「ちょっと　ど忘れしただけ…\n　ですよね～！　はっはっは！」{KP}\n地理クイズの鬼は\n去っていった！",
-  "en": "\"Bzzzt!\"{KP}\"You just had a little brain blip... right? Ha ha ha!\"{KP}The Geography Quiz Oni left!"
+  "en": "\"Bzzzt!\"{KP}\"You just blanked for a second... right? Ha ha ha!\"{KP}The Geography Quiz Oni left!"
  },
  {
   "id": "M510D/26/0002",
@@ -141,7 +141,7 @@
   "id": "M510D/28/00CA",
   "kind": "msg",
   "jp": "「ブッブー！」\n　{KP}\n「ちょっと　ど忘れしただけ…\n　ですよね～！　はっはっは！」{KP}\n漢字クイズの鬼は\n去っていった！",
-  "en": "\"Bzzzt!\"{KP}\"You just had a little brain blip... right? Ha ha ha!\"{KP}The Kanji Quiz Oni left!"
+  "en": "\"Bzzzt!\"{KP}\"You just blanked for a second... right? Ha ha ha!\"{KP}The Kanji Quiz Oni left!"
  },
  {
   "id": "M510D/29/0002",
@@ -357,7 +357,7 @@
   "id": "M510D/36/0014",
   "kind": "msg",
   "jp": "１６１５年　豊臣氏が滅んだのは\n大阪ｏの陣{KN}",
-  "en": "In 1615, the Toyotomi clan fell in which Osaka campaign?{KN}"
+  "en": "In 1615, the Toyotomi clan fell in the ___ Siege of Osaka. Which season goes in the blank?{KN}"
  },
  {
   "id": "M510D/37/0000.0",
@@ -1119,19 +1119,19 @@
   "id": "M510D/62/0000.1",
   "kind": "menu",
   "jp": "アーリア",
-  "en": "Aryan"
+  "en": "Aryans"
  },
  {
   "id": "M510D/62/0000.2",
   "kind": "menu",
   "jp": "アングル",
-  "en": "Angle"
+  "en": "Angles"
  },
  {
   "id": "M510D/62/0000.3",
   "kind": "menu",
   "jp": "サクソン",
-  "en": "Saxon"
+  "en": "Saxons"
  },
  {
   "id": "M510D/62/002C",
@@ -1239,7 +1239,7 @@
   "id": "M510D/66/0000.1",
   "kind": "menu",
   "jp": "黄河原人",
-  "en": "Huanghe Man"
+  "en": "Yellow River Man"
  },
  {
   "id": "M510D/66/0000.2",
@@ -1275,7 +1275,7 @@
   "id": "M510D/67/0000.2",
   "kind": "menu",
   "jp": "密教",
-  "en": "Esoteric sect"
+  "en": "Esoteric Buddhism"
  },
  {
   "id": "M510D/67/0000.3",
@@ -1323,7 +1323,7 @@
   "id": "M510D/69/0000.0",
   "kind": "menu",
   "jp": "国際連盟",
-  "en": "The League"
+  "en": "League of Nations"
  },
  {
   "id": "M510D/69/0000.1",
@@ -1449,7 +1449,7 @@
   "id": "M510D/73/0000.1",
   "kind": "menu",
   "jp": "国際連盟",
-  "en": "The League"
+  "en": "League of Nations"
  },
  {
   "id": "M510D/73/0000.2",
@@ -1557,7 +1557,7 @@
   "id": "M510D/76/0028",
   "kind": "msg",
   "jp": "ナイル川流域に発生したのはｏｏ文明？\n　{KN}",
-  "en": "Along the Nile River arose the ___ civilization?{KN}"
+  "en": "Which civilization arose along the Nile River?{KN}"
  },
  {
   "id": "M510D/77/0000.0",
@@ -1599,7 +1599,7 @@
   "id": "M510D/78/0000.1",
   "kind": "menu",
   "jp": "密教",
-  "en": "Esoteric sect"
+  "en": "Esoteric Buddhism"
  },
  {
   "id": "M510D/78/0000.2",
@@ -1995,7 +1995,7 @@
   "id": "M510D/91/0000.2",
   "kind": "menu",
   "jp": "凶作",
-  "en": "Famine"
+  "en": "Crop failure"
  },
  {
   "id": "M510D/91/0000.3",
@@ -2307,7 +2307,7 @@
   "id": "M510D/101/0024",
   "kind": "msg",
   "jp": "風が吹けば　ｏｏｏが　もうかる\n　{KN}",
-  "en": "Fill in the saying: \"Kaze ga fukeba ___ ga moukaru.\" (When the wind blows, the ___ makes money.){KN}"
+  "en": "Fill in the saying: \"Kaze ga fukeba ___ ga mokaru.\" (When the wind blows, the ___ makes money.){KN}"
  },
  {
   "id": "M510D/102/0000.0",
@@ -2349,7 +2349,7 @@
   "id": "M510D/103/0000.1",
   "kind": "menu",
   "jp": "自",
-  "en": "Ego"
+  "en": "Self"
  },
  {
   "id": "M510D/103/0000.2",
@@ -2529,7 +2529,7 @@
   "id": "M510D/109/0000.1",
   "kind": "menu",
   "jp": "ナベ",
-  "en": "Hot pot"
+  "en": "Pot"
  },
  {
   "id": "M510D/109/0000.2",
@@ -2565,7 +2565,7 @@
   "id": "M510D/110/0000.2",
   "kind": "menu",
   "jp": "ムジナ",
-  "en": "Badger"
+  "en": "Mujina"
  },
  {
   "id": "M510D/110/0000.3",
@@ -3027,7 +3027,7 @@
   "id": "M510D/125/001C",
   "kind": "msg",
   "jp": "類は友をｏｏ\n　{KN}",
-  "en": "Fill in the saying: \"Rui wa tomo wo ___.\" (Like ___ like: birds of a feather flock together.){KN}"
+  "en": "Fill in the saying: \"Rui wa tomo wo ___.\" (Like ___ to like.){KN}"
  },
  {
   "id": "M510D/126/0000.0",
@@ -3627,7 +3627,7 @@
   "id": "M510D/145/0014",
   "kind": "msg",
   "jp": "ｏがｏを生む\n　{KN}",
-  "en": "Fill in the saying: \"___ ga ___ wo umu.\" (One ___ leads to another ___.){KN}"
+  "en": "Fill in the saying: \"___ ga ___ wo umu.\" (___ breeds more ___.){KN}"
  },
  {
   "id": "M510D/146/0000.0",
@@ -3807,7 +3807,7 @@
   "id": "M510D/151/0028",
   "kind": "msg",
   "jp": "パンを英語で言うと？\n　{KN}",
-  "en": "What is \"pan\" in English?{KN}"
+  "en": "How do you say \"pan\" in English?{KN}"
  },
  {
   "id": "M510D/152/0000.0",
@@ -5547,7 +5547,7 @@
   "id": "M510D/209/0034",
   "kind": "msg",
   "jp": "腹ペコを英語で言うと？\n　{KN}",
-  "en": "How do you say \"harapeko\" (starving) in English?{KN}"
+  "en": "How do you say \"harapeko\" (tummy rumbling) in English?{KN}"
  },
  {
   "id": "M510D/210/0000.0",
@@ -5727,7 +5727,7 @@
   "id": "M510D/215/002C",
   "kind": "msg",
   "jp": "「石」を英語で言うと？\n　{KN}",
-  "en": "How do you say \"ishi\" (a rock) in English?{KN}"
+  "en": "How do you say \"ishi\" (what pebbles are) in English?{KN}"
  },
  {
   "id": "M510D/216/0000.0",
@@ -7569,7 +7569,7 @@
   "id": "M510D/277/0000.1",
   "kind": "menu",
   "jp": "天安門広場",
-  "en": "Tiananmen"
+  "en": "Tiananmen Square"
  },
  {
   "id": "M510D/277/0000.2",
@@ -7725,7 +7725,7 @@
   "id": "M510D/282/0000.2",
   "kind": "menu",
   "jp": "動物園",
-  "en": "The Zoo"
+  "en": "Zoo"
  },
  {
   "id": "M510D/282/0000.3",
@@ -8157,7 +8157,7 @@
   "id": "M510D/296/0024",
   "kind": "msg",
   "jp": "「知り合いにおじぎする」の「おじぎ」\nを漢字にすると？{KN}",
-  "en": "Which kanji spell \"ojigi\" in \"ojigi to a friend\" (bow)?{KN}"
+  "en": "Which kanji spell \"ojigi\" (a bow), as in bowing to a friend?{KN}"
  },
  {
   "id": "M510D/297/0000.0",
@@ -9567,7 +9567,7 @@
   "id": "M510D/343/001C",
   "kind": "msg",
   "jp": "「物語にかんどうした」の「かんどう」\nを漢字にすると？{KN}",
-  "en": "Which kanji spell \"kandou\" in \"kandou by a story\" (deeply moved)?{KN}"
+  "en": "Which kanji spell \"kando\" in \"monogatari ni kando shita\" (was moved by a story)?{KN}"
  },
  {
   "id": "M510D/344/0000.0",
@@ -9807,7 +9807,7 @@
   "id": "M510D/351/002A",
   "kind": "msg",
   "jp": "「清水の舞台」の「清水」の読み方は？\n　{KN}",
-  "en": "The famous temple stage of \"pure\" + \"water\" in Kyoto: how do you read \"pure\" + \"water\"?{KN}"
+  "en": "Kyoto's famous temple stage is written \"pure\" + \"water\". How is that read?{KN}"
  },
  {
   "id": "M510D/352/0000.0",
@@ -9897,7 +9897,7 @@
   "id": "M510D/354/001C",
   "kind": "msg",
   "jp": "「きょうちょう性がない」の\n「きょうちょう」を漢字にすると？{KN}",
-  "en": "Which kanji spell \"kyouchou\" in \"no kyouchou spirit\" (teamwork)?{KN}"
+  "en": "Which kanji spell \"kyocho\" in \"kyochosei ga nai\" (doesn't cooperate)?{KN}"
  },
  {
   "id": "M510D/355/0000.0",
@@ -9939,7 +9939,7 @@
   "id": "M510D/356/0000.1",
   "kind": "menu",
   "jp": "非難",
-  "en": "Not+Danger"
+  "en": "Wrong+Danger"
  },
  {
   "id": "M510D/356/0000.2",

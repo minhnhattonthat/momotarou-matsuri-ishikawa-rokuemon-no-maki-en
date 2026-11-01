@@ -1,0 +1,4 @@
+0x2A3AA33 kana order table (unchanged, not text)
+0x2A3AA47 kana order table
+0x2A3B183 kana order table (second copy)
+0x2A3B197 kana order table

@@ -9,7 +9,7 @@
   "id": "M550D/4/001A",
   "kind": "msg",
   "jp": "「フッ…\n　しぶいぜ　桃太郎！」",
-  "en": "\"Heh... Classy pick, Momotaro!\""
+  "en": "\"Heh... Smooth, Momotaro!\""
  },
  {
   "id": "M550D/4/0056",
@@ -21,7 +21,7 @@
   "id": "M550D/4/00D4",
   "kind": "msg",
   "jp": "桃太郎は　どうぐぶくろから\n{MM}を　盗まれた！{KP}\nちょっとだけ\nみがるに　なったようだ…{KP}\n「フッ…\n　いかすぜ　桃太郎！」",
-  "en": "Momotaro had {MM} stolen from his item bag!{KP}He seems to feel just a little lighter...{KP}\"Heh... Lookin' sharp, Momotaro!\""
+  "en": "{MM} was stolen from Momotaro's item bag!{KP}He seems to feel just a little lighter...{KP}\"Heh... Lookin' sharp, Momotaro!\""
  },
  {
   "id": "M550D/4/016E",
@@ -39,6 +39,6 @@
   "id": "M550D/4/0258",
   "kind": "msg",
   "jp": "桃太郎は　お金を\n{R2}両　とられてしまった！{KP}\n「フッ…\n　クールに　きめたな　桃太郎！」",
-  "en": "Momotaro had {R2} ryo taken from him!{KP}\"Heh... Now that was cool, Momotaro!\""
+  "en": "Momotaro had {R2} ryo taken from him!{KP}\"Heh... Real cool move, Momotaro!\""
  }
 ]

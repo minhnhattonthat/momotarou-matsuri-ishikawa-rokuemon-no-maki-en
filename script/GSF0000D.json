@@ -3,7 +3,7 @@
   "id": "GSF0000D/32/000A",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}こだま笛{ww}を　ふいた～♪\n　",
-  "en": "Momotaro played the {bb}Echo Flute{ww}!"
+  "en": "Momotaro blew the {bb}Echo Flute{ww}!"
  },
  {
   "id": "GSF0000D/61/0002",
@@ -75,7 +75,7 @@
   "id": "GSF0000D/67/02A4",
   "kind": "msg",
   "jp": "「おお　桃太郎！」\n　\n　{KP}\n「いつも　お使いを　させてばかりで\n　本当に　すまないのォ！」\n　{KP}\n「実は　さきほど　おそなえ物を\n　たくさん　もらってな！」\n　{KP}\n「南の　地蔵に\n　おすそ分けを　したいのだが…」\n　{KP}\n「もし　急いで　おらんなら\n　とどけに行って　くれまいか？」\n　{KN}",
-  "en": "\"Oh, Momotaro!\"{KP}\"I'm always sending you on errands. I'm truly sorry!\"{KP}\"The thing is, I just received a great many offerings!\"{KP}\"I'd like to share some with the Jizo to the south...\"{KP}\"If you're not in a hurry, would you deliver them for me?\"{KN}"
+  "en": "\"Oh, Momotaro!\"{KP}\"I'm always sending you on errands. Truly sorry about that, eh!\"{KP}\"The thing is, I just received a great many offerings!\"{KP}\"I'd like to share some with the Jizo to the south...\"{KP}\"If you're not in a hurry, would you deliver them for me?\"{KN}"
  },
  {
   "id": "GSF0000D/67/03F2",
@@ -105,7 +105,7 @@
   "id": "GSF0000D/68/000A",
   "kind": "msg",
   "jp": "「おお　桃太郎！」\n　\n　{KP}\n「いつも　お使いを　させてばかりで\n　本当に　すまないのォ！」\n　{KP}\n「実は　さきほど　おそなえ物を\n　たくさん　もらってな」\n　{KP}\n「北の　地蔵に\n　おすそ分けを　したいのだが…」\n　{KP}\n「もし　急いで　おらんなら\n　とどけに行って　くれまいか？」\n　{KN}",
-  "en": "\"Oh, Momotaro!\"{KP}\"I'm always sending you on errands. I'm truly sorry!\"{KP}\"The thing is, I just received a great many offerings,\"{KP}\"and I'd like to share some with the Jizo to the north...\"{KP}\"If you're not in a hurry, would you deliver them for me?\"{KN}"
+  "en": "\"Oh, Momotaro!\"{KP}\"I'm always sending you on errands. Truly sorry about that, eh!\"{KP}\"The thing is, I just received a great many offerings,\"{KP}\"and I'd like to share some with the Jizo to the north...\"{KP}\"If you're not in a hurry, would you deliver them for me?\"{KN}"
  },
  {
   "id": "GSF0000D/68/015C",
@@ -231,7 +231,7 @@
   "id": "GSF0000D/78/0000",
   "kind": "msg",
   "jp": "「{bb}こだま笛{ww}の音が　聞こえれば\n　東の海に　小さな島が\n　浮上してくるぞ！」",
-  "en": "\"When the sound of the {bb}Echo Flute{ww} is heard, a small island rises up in the eastern sea!\""
+  "en": "\"Let the {bb}Echo Flute{ww} be heard, and a small island will rise up out of the eastern sea, mind you!\""
  },
  {
   "id": "GSF0000D/80/0022",
@@ -417,7 +417,7 @@
   "id": "GSF0000D/86/0002",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　オイラの　おかあちゃんは？」\n　{KP}\n「さがして　くれるんでしょ？\n　このあたりに　いると\n　思うんだ！」{KP}\n　\n「ねぇ！\n　あきらめないで　いっしょに\n　さがしておくれよ！」",
-  "en": "\"Momotaro-san! Where's my mom?\"{KP}\"You're gonna look for her, right? I think she's somewhere around here!\"{KP}\"Hey! Don't give up, help me look!\""
+  "en": "\"Momotaro-san! Where's my Mommy?\"{KP}\"You're gonna look for her, right? I think she's somewhere around here!\"{KP}\"Hey! Don't give up, help me look!\""
  },
  {
   "id": "GSF0000D/87/000A",
@@ -459,7 +459,7 @@
   "id": "GSF0000D/91/0002",
   "kind": "msg",
   "jp": "「桃太郎さん！　{bb}浦島の村{ww}は\n　そっちじゃ　ありませんよ！」\n　{KP}\n「{bb}カメ{ww}が　苦しんでいるのです\n　急いでください！　ケン」\n　",
-  "en": "\"Momotaro-san! {bb}Urashima Village{ww} isn't that way!\"{KP}\"The {bb}Turtle{ww} is suffering! Please hurry! Ken!\""
+  "en": "\"Momotaro-san! {bb}Urashima Village{ww} isn't that way!\"{KP}\"The {bb}Turtle{ww} is suffering! Please hurry, ken!\""
  },
  {
   "id": "GSF0000D/92/0002",
@@ -471,7 +471,7 @@
   "id": "GSF0000D/93/0002",
   "kind": "msg",
   "jp": "「桃太郎さん！　こっちの\n　方向には　{bb}ウンチの穴{ww}は\n　ありませんわ　ぷりりん！」",
-  "en": "\"Momotaro-san! There's no {bb}Poop Hole{ww} in this direction, ploppity!\""
+  "en": "\"Momotaro-san! The {bb}Poop Hole{ww} isn't this way, I must say, ploppity!\""
  },
  {
   "id": "GSF0000D/94/0002",
@@ -489,7 +489,7 @@
   "id": "GSF0000D/96/0002",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　どこに　行くの？」\n　{KP}\n「まだ　{bb}ほほえみの村{ww}で\n　{bb}だじゃれ大会{ww}を\n　見てないじゃない！」",
-  "en": "\"Momotaro-san! Where are you going?\"{KP}\"We haven't seen the {bb}Pun Contest{ww} in {bb}Hohoemi Village{ww} yet!\""
+  "en": "\"Momotaro-san! Where are you going?\"{KP}\"You haven't seen the {bb}Pun Contest{ww} in {bb}Hohoemi Village{ww} yet!\""
  },
  {
   "id": "GSF0000D/97/0010",
@@ -555,7 +555,7 @@
   "id": "GSF0000D/105/0002",
   "kind": "msg",
   "jp": "龍神船から　{bb}かしら{ww}の\nどなり声が　聞こえた！\n　",
-  "en": "The {bb}captain{ww}'s angry shouts rang out from the Dragon God Ship!"
+  "en": "The {bb}Boss{ww}'s angry shouts rang out from the Dragon God Ship!"
  },
  {
   "id": "GSF0000D/105/0058",
@@ -615,7 +615,7 @@
   "id": "GSF0000D/106/0002",
   "kind": "msg",
   "jp": "龍神船から　{bb}かしら{ww}の\nどなり声が　聞こえた！\n　",
-  "en": "The {bb}captain{ww}'s angry shouts rang out from the Dragon God Ship!"
+  "en": "The {bb}Boss{ww}'s angry shouts rang out from the Dragon God Ship!"
  },
  {
   "id": "GSF0000D/106/0058",
@@ -675,7 +675,7 @@
   "id": "GSF0000D/107/0002",
   "kind": "msg",
   "jp": "龍神船から　{bb}かしら{ww}の\nどなり声が　聞こえた！\n　",
-  "en": "The {bb}captain{ww}'s angry shouts rang out from the Dragon God Ship!"
+  "en": "The {bb}Boss{ww}'s angry shouts rang out from the Dragon God Ship!"
  },
  {
   "id": "GSF0000D/107/0058",
@@ -735,7 +735,7 @@
   "id": "GSF0000D/108/0002",
   "kind": "msg",
   "jp": "龍神船から　{bb}かしら{ww}の\nどなり声が　聞こえた！\n　",
-  "en": "The {bb}captain{ww}'s angry shouts rang out from the Dragon God Ship!"
+  "en": "The {bb}Boss{ww}'s angry shouts rang out from the Dragon God Ship!"
  },
  {
   "id": "GSF0000D/108/0058",
@@ -795,7 +795,7 @@
   "id": "GSF0000D/109/0002",
   "kind": "msg",
   "jp": "龍神船から　{bb}かしら{ww}の\nどなり声が　聞こえた！\n　",
-  "en": "The {bb}captain{ww}'s angry shouts rang out from the Dragon God Ship!"
+  "en": "The {bb}Boss{ww}'s angry shouts rang out from the Dragon God Ship!"
  },
  {
   "id": "GSF0000D/109/0058",
@@ -855,7 +855,7 @@
   "id": "GSF0000D/110/0002",
   "kind": "msg",
   "jp": "龍神船から　{bb}かしら{ww}の\nどなり声が　聞こえた！\n　",
-  "en": "The {bb}captain{ww}'s angry shouts rang out from the Dragon God Ship!"
+  "en": "The {bb}Boss{ww}'s angry shouts rang out from the Dragon God Ship!"
  },
  {
   "id": "GSF0000D/110/0058",
@@ -915,7 +915,7 @@
   "id": "GSF0000D/111/0002",
   "kind": "msg",
   "jp": "龍神船から　{bb}かしら{ww}の\nどなり声が　聞こえた！\n　",
-  "en": "The {bb}captain{ww}'s angry shouts rang out from the Dragon God Ship!"
+  "en": "The {bb}Boss{ww}'s angry shouts rang out from the Dragon God Ship!"
  },
  {
   "id": "GSF0000D/111/0058",
@@ -975,7 +975,7 @@
   "id": "GSF0000D/112/0002",
   "kind": "msg",
   "jp": "龍神船から　{bb}かしら{ww}の\nどなり声が　聞こえた！\n　",
-  "en": "The {bb}captain{ww}'s angry shouts rang out from the Dragon God Ship!"
+  "en": "The {bb}Boss{ww}'s angry shouts rang out from the Dragon God Ship!"
  },
  {
   "id": "GSF0000D/112/0058",
@@ -1035,7 +1035,7 @@
   "id": "GSF0000D/113/0002",
   "kind": "msg",
   "jp": "龍神船から　{bb}かしら{ww}の\nどなり声が　聞こえた！\n　",
-  "en": "The {bb}captain{ww}'s angry shouts rang out from the Dragon God Ship!"
+  "en": "The {bb}Boss{ww}'s angry shouts rang out from the Dragon God Ship!"
  },
  {
   "id": "GSF0000D/113/0058",
@@ -1095,7 +1095,7 @@
   "id": "GSF0000D/114/0010",
   "kind": "msg",
   "jp": "「桃太郎か！\n　よい　ところに　来た！」\n　{KP}\n「お供え物を　もらいすぎたので\n　みんなに　分けてあげたい！」\n　{KP}\n「でも　見てのとおり\n　わしは　動けん！」\n　{KP}\n「桃太郎よ！　南の　地蔵に\n　桃まんを　とどけてくれんか？」\n　{KN}",
-  "en": "\"Momotaro! You've come at a good time!\"{KP}\"I received too many offerings, so I'd like to share them with everyone!\"{KP}\"But as you can see, I can't move!\"{KP}\"Momotaro! Would you deliver these peach buns to the Jizo in the south?\"{KN}"
+  "en": "\"Momotaro! You've come at a good time!\"{KP}\"I received too many offerings, so I'd like to share them with everyone!\"{KP}\"But as you can see, I can't move!\"{KP}\"Momotaro! Would you deliver these Peach Buns to the Jizo in the south?\"{KN}"
  },
  {
   "id": "GSF0000D/114/012A",
@@ -1131,7 +1131,7 @@
   "id": "GSF0000D/116/0002",
   "kind": "msg",
   "jp": "龍神船から　{bb}かしら{ww}の\nどなり声が　聞こえた！\n　",
-  "en": "The {bb}captain{ww}'s angry shouts rang out from the Dragon God Ship!"
+  "en": "The {bb}Boss{ww}'s angry shouts rang out from the Dragon God Ship!"
  },
  {
   "id": "GSF0000D/116/0058",
@@ -1191,7 +1191,7 @@
   "id": "GSF0000D/117/0002",
   "kind": "msg",
   "jp": "龍神船から　{bb}かしら{ww}の\nどなり声が　聞こえた！\n　",
-  "en": "The {bb}captain{ww}'s angry shouts rang out from the Dragon God Ship!"
+  "en": "The {bb}Boss{ww}'s angry shouts rang out from the Dragon God Ship!"
  },
  {
   "id": "GSF0000D/117/0058",
@@ -1251,7 +1251,7 @@
   "id": "GSF0000D/118/0002",
   "kind": "msg",
   "jp": "龍神船から　{bb}かしら{ww}の\nどなり声が　聞こえた！\n　",
-  "en": "The {bb}captain{ww}'s angry shouts rang out from the Dragon God Ship!"
+  "en": "The {bb}Boss{ww}'s angry shouts rang out from the Dragon God Ship!"
  },
  {
   "id": "GSF0000D/118/0058",
@@ -1311,7 +1311,7 @@
   "id": "GSF0000D/119/0002",
   "kind": "msg",
   "jp": "龍神船から　{bb}かしら{ww}の\nどなり声が　聞こえた！\n　",
-  "en": "The {bb}captain{ww}'s angry shouts rang out from the Dragon God Ship!"
+  "en": "The {bb}Boss{ww}'s angry shouts rang out from the Dragon God Ship!"
  },
  {
   "id": "GSF0000D/119/0058",

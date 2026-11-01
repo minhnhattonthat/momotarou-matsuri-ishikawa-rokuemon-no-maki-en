@@ -33,13 +33,13 @@
   "id": "M240D/15/0012",
   "kind": "msg",
   "jp": "黒ガッパから　桃まんを\n取りもどして　いなかった！{KP}\n桃太郎は\nいそいで　引き返した！",
-  "en": "You haven't gotten the peach bun back from the Black Kappa!{KP}Momotaro hurried back!"
+  "en": "Momotaro hadn't gotten the peach bun back from the Black Kappa!{KP}Momotaro hurried back!"
  },
  {
   "id": "M240D/15/007C",
   "kind": "msg",
   "jp": "桃太郎は　地蔵に\n桃まんを　わたした！{KP}\n「おや　桃太郎\n　この　桃まんは？」{KP}\n「ふむ　ふむ　{MM}の　地蔵から\n　おすそわけとな？」{KP}\n「これは　ありがたい！」\n　{KP}\n「桃太郎よ　おつかいごくろうだった」\n　",
-  "en": "Momotaro gave the peach bun to the Jizo!{KP}\"Oh, Momotaro. What's this peach bun?\"{KP}\"Hmm, hmm... A share from the {MM} Jizo, you say?\"{KP}\"How very kind!\"{KP}\"Momotaro, thank you for running this errand.\""
+  "en": "Momotaro gave the peach bun to the Jizo!{KP}\"Oh, Momotaro, what's this? A peach bun?\"{KP}\"Hmm, hmm... The {MM} Jizo wanted to share it with me, you say?\"{KP}\"How very kind!\"{KP}\"Momotaro, thank you for running this errand.\""
  },
  {
   "id": "M240D/16/0012",

@@ -15,7 +15,7 @@
   "id": "GSV2300D/18/0002",
   "kind": "msg",
   "jp": "「たまーに　いるのよ！\n　お面屋さんで　つくった\n　お面に　ソックリな人」{KP}\n　\n「あの人たちに　ソックリな\n　お面を　見せてあげたら\n　どうなんでしょう？」{KP}\n　\n「ビックリするのかしら？\n　それとも　喜ぶのかしら？」\n　{KP}\n「やってみる　価値は\n　十分に　あると　思うわ！」\n　{KP}\n「最近　そのような　人が\n　この村に　こして来たわよ」\n　",
-  "en": "\"Every now and then, you meet them! People who look just like masks made at the mask shop.\"{KP}\"What do you suppose would happen if you showed them masks that look just like them?\"{KP}\"Would they be surprised? Or would they be happy?\"{KP}\"I think it's well worth a try!\"{KP}\"Someone like that moved to this village just recently.\""
+  "en": "\"Every now and then, you meet people who look just like the masks made at the mask shop!\"{KP}\"What do you suppose would happen if you showed them masks that look just like them?\"{KP}\"Would they be surprised? Or would they be happy?\"{KP}\"I think it's well worth a try!\"{KP}\"Someone like that moved to this village just recently.\""
  },
  {
   "id": "GSV2300D/19/001E",
@@ -33,7 +33,7 @@
   "id": "GSV2300D/20/0002",
   "kind": "msg",
   "jp": "「桃太郎さんや　{bb}カード仙人{ww}には\n　会いに行って　いなさるかね？」\n　{KP}\n「カードアルバムを　くれた　仙人を\n　ないがしろにしては　いかん！」\n　{KP}\n「{bb}方言カード{ww}を　集めたら　\n　会いに行くと　いい！」\n　",
-  "en": "\"Momotaro-san, have you gone to see the {bb}Card Hermit{ww}?\"{KP}\"You mustn't neglect the hermit who gave you your Card Album!\"{KP}\"Once you've collected some {bb}Dialect Cards{ww}, go and see him!\""
+  "en": "\"Momotaro-san, my boy, have you been to see the {bb}Card Hermit{ww}?\"{KP}\"You mustn't neglect the hermit who gave you your Card Album!\"{KP}\"Once you've collected some {bb}Dialect Cards{ww}, go and see him!\""
  },
  {
   "id": "GSV2300D/21/0002",
@@ -69,7 +69,7 @@
   "id": "GSV2300D/25/001C",
   "kind": "msg",
   "jp": "「あ～！　桃太郎だポン！」\n　\n　{KP}\n「これ以上！\n　六右衛門さまの　じゃまは\n　させないポン！」",
-  "en": "\"Ah! It's Momotaro, pon!\"{KP}\"We won't let you get in Rokuemon-sama's way any more, pon!\""
+  "en": "\"Ah! It's Momotaro, pon!\"{KP}\"We won't let you get in Rokuemon-sama's way anymore, pon!\""
  },
  {
   "id": "GSV2300D/26/0002",
@@ -93,7 +93,7 @@
   "id": "GSV2300D/27/022E",
   "kind": "msg",
   "jp": "なんと　{bb}勇気の印{ww}を\n見つけた！\n　",
-  "en": "Why, Momotaro found the {bb}Mark of Courage{ww}!"
+  "en": "Whoa! Momotaro found the {bb}Mark of Courage{ww}!"
  },
  {
   "id": "GSV2300D/27/0268",

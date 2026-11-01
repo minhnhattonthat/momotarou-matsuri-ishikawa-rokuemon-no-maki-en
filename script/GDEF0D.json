@@ -387,7 +387,7 @@
   "id": "GDEF0D/53/000E",
   "kind": "msg",
   "jp": "「いらっしゃいませ　桃太郎さん！\n　この宿は　１００両で　泊まれます！\n　泊まっていきなさるか？」{KN}",
-  "en": "\"Welcome, Momotaro-san! A night at this inn is 100 ryo! Will you be stopping the night?\"{KN}"
+  "en": "\"Welcome, Momotaro-san! A night at this inn is 100 ryo! Care to stay with us?\"{KN}"
  },
  {
   "id": "GDEF0D/53/009C",
@@ -519,7 +519,7 @@
   "id": "GDEF0D/56/0004",
   "kind": "msg",
   "jp": "「いらっしゃいませ！\n　美術品の　鑑定料は\n　５０両じゃが　よろしいかな？」{KN}",
-  "en": "\"Welcome! My fee for appraising works of art is 50 ryo. Is that all right?\"{KN}"
+  "en": "\"Welcome! My fee for appraising works of art is 50 ryo. Will that do, eh?\"{KN}"
  },
  {
   "id": "GDEF0D/57/0000",
@@ -729,7 +729,7 @@
   "id": "GDEF0D/65/075C",
   "kind": "msg",
   "jp": "「くさいギャ！　桃太郎！」\n　\n　",
-  "en": "\"You stink, gya! Momotaro!\""
+  "en": "\"Momotaro! You stink, gya!\""
  },
  {
   "id": "GDEF0D/65/0794",
@@ -837,7 +837,7 @@
   "id": "GDEF0D/75/0008",
   "kind": "msg",
   "jp": "「預かり高が　２００００両を\n　こえたので　{bb}方言カード{ww}を\n　２枚　さしあげまっせ！」",
-  "en": "\"Your deposits went over 20,000 ryo, so here's two {bb}Dialect Cards{ww} for ya!\""
+  "en": "\"Your deposits went over 20,000 ryo, so here are two {bb}Dialect Cards{ww} for ya!\""
  },
  {
   "id": "GDEF0D/75/0078",
@@ -1077,7 +1077,7 @@
   "id": "GDEF0D/100/0040",
   "kind": "msg",
   "jp": "桃太郎は　スマートになった\nリバウンドには　気をつけてね！\n　",
-  "en": "Momotaro got slim! Watch out for that rebound weight!"
+  "en": "Momotaro slimmed down! Watch out for that rebound weight!"
  },
  {
   "id": "GDEF0D/103/000A",

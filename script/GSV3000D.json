@@ -63,13 +63,13 @@
   "id": "GSV3000D/11/04F4",
   "kind": "msg",
   "jp": "「さすが　桃太郎さん！\n　それでは　{bb}大としの火{ww}を\n　おわけします！」{KP}\n　\n「えっ？　この里で　使うのですね！\n　それでは　{bb}大としの火{ww}を\n　おつけしましょう！」",
-  "en": "\"Well done, Momotaro-san! Then I'll share the {bb}Year's End Fire{ww} with you!\"{KP}\"What? You'll use it in this village! Then let me light the {bb}Year's End Fire{ww} for you!\""
+  "en": "\"Well done, Momotaro-san! Then I'll share the {bb}Year's End Fire{ww} with you!\"{KP}\"Oh? You'll use it here in this village? Then let me light the {bb}Year's End Fire{ww} for you!\""
  },
  {
   "id": "GSV3000D/11/0630",
   "kind": "msg",
   "jp": "「桃太郎さんでも\n　クリアできませんか…」\n　{KP}\n「わかりました！\n　特別に　{bb}大としの火{ww}を\n　おわけしましょう！」{KP}\n　\n「えっ？　この里で　使うのですね！\n　それでは　{bb}大としの火{ww}を\n　おつけしましょう！」",
-  "en": "\"So even you can't clear it, Momotaro-san...\"{KP}\"Very well! As a special favor, I'll share the {bb}Year's End Fire{ww} with you!\"{KP}\"What? You'll use it in this village! Then let me light the {bb}Year's End Fire{ww} for you!\""
+  "en": "\"So even you can't clear it, Momotaro-san...\"{KP}\"Very well! As a special favor, I'll share the {bb}Year's End Fire{ww} with you!\"{KP}\"Oh? You'll use it here in this village? Then let me light the {bb}Year's End Fire{ww} for you!\""
  },
  {
   "id": "GSV3000D/11/075E",
@@ -87,7 +87,7 @@
   "id": "GSV3000D/13/0002",
   "kind": "msg",
   "jp": "「いいかの　お若いの！\n　{bb}ゆらゆらローソク！{ww}に\n　ちょうせん　する時は」{KP}\n　\n「あわてず　落ちついて\n　進むことを　心がけるのじゃ！」\n　",
-  "en": "\"Listen here, youngster! When you take on {bb}Wobbly Candle!{ww},\"{KP}\"be sure not to rush. Stay calm and keep moving forward!\""
+  "en": "\"Listen here, youngster! Here's how to take on {bb}Wobbly Candle!{ww}\"{KP}\"Don't you rush, now. Stay calm and keep moving forward!\""
  },
  {
   "id": "GSV3000D/14/0012",

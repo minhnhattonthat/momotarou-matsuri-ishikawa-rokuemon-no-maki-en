@@ -87,7 +87,7 @@
   "id": "GSF1205D/2/0686",
   "kind": "msg",
   "jp": "「柿太郎の　罪を\n　見のがしてやろう！」\n　",
-  "en": "\"I'll overlook Kakitaro's crimes!\""
+  "en": "\"I shall let Kakitaro's crimes go unpunished!\""
  },
  {
   "id": "GSF1205D/2/06C2",
@@ -237,7 +237,7 @@
   "id": "GSF1205D/2/116E",
   "kind": "msg",
   "jp": "「桃太郎さん！　この前の\n　{bb}えんやとっとレース{ww}は\n　楽しかったのお！」{KP}\n　\n「また　やってみるかね？」\n　\n　{KN}",
-  "en": "\"Momotaro-san! That {bb}Heave-Ho Race{ww} the other day sure was fun!\"{KP}\"Care to try it again?\"{KN}"
+  "en": "\"Momotaro-san! That {bb}Heave-Ho Race{ww} the other day was great fun, I must say!\"{KP}\"Care to try it again?\"{KN}"
  },
  {
   "id": "GSF1205D/2/1208",
@@ -303,6 +303,6 @@
   "id": "GSF1205D/9/00E0",
   "kind": "msg",
   "jp": "「何か　やつを　こらしめる\n　方法は　ないものか…」\n　{KP}\n「……そうだ　桃太郎さん！\n　水龍さまの　ちからを\n　借りると　いいだろう！」{KP}\n　\n「桃太郎さんの　愛と　勇気　\n　それに　水龍さまの\n　ちからが　くわわれば」{KP}\n　\n「はかい神なんて\n　倒せるだろう！」\n　{KP}\n「すでに　桃太郎さんは\n　水龍さまに　認められておる\n　ようですしな！」{KP}\n　\n「さあ　ワシの　ちからで\n　桃太郎さんを　水龍さまの\n　所に　お運びしよう！」",
-  "en": "\"Is there no way to teach him a lesson...\"{KP}\"......I know, Momotaro-san! You should borrow the power of Lord Water Dragon!\"{KP}\"With your love and courage, Momotaro-san, plus the power of Lord Water Dragon,\"{KP}\"you could surely defeat the God of Destruction!\"{KP}\"And it seems Lord Water Dragon has already acknowledged you, Momotaro-san!\"{KP}\"Now, I shall use my power to carry you, Momotaro-san, to Lord Water Dragon!\""
+  "en": "\"Is there no way to teach him a lesson...\"{KP}\"......I know, Momotaro-san! You should borrow the power of Lord Water Dragon!\"{KP}\"With your love and courage, Momotaro-san, plus the power of Lord Water Dragon,\"{KP}\"you could surely defeat the God of Destruction!\"{KP}\"And it seems Lord Water Dragon has already acknowledged you, Momotaro-san!\"{KP}\"Now, I shall use my power to carry you to Lord Water Dragon!\""
  }
 ]

@@ -105,7 +105,7 @@
   "id": "GSV3700D/6/0002",
   "kind": "msg",
   "jp": "「この先にある　{bb}鬼の洞窟{ww}の中は\n　真っ暗で　まわりが　よく\n　見えないそうじゃ！」{KP}\n　\n「桃太郎よ！\n　{bb}たいまつ{ww}は　ちゃんと\n　用意してあるか！？」",
-  "en": "\"They say it's pitch dark inside the {bb}Oni Cave{ww} up ahead, and you can hardly see a thing!\"{KP}\"Momotaro! Have you got a {bb}torch{ww} ready?!\""
+  "en": "\"They say it's pitch dark inside the {bb}Oni Cave{ww} up ahead, and you can hardly see a thing!\"{KP}\"Momotaro! Have you got a {bb}Torch{ww} ready?!\""
  },
  {
   "id": "GSV3700D/7/0018",
@@ -291,7 +291,7 @@
   "id": "GSV3700D/14/015E",
   "kind": "msg",
   "jp": "「おお　桃太郎よ！\n　よく　来てくれた！」\n　{KP}\n「実は　頼みが　あるのじゃ！」\n　\n　{KP}\n「この近くの　兄弟の洞窟に\n　住む　柿太郎が　ここに　来た時」\n　{KP}\n「みなで　いたずらを　せぬようにと\n　話したのだが　反対に　柿を\n　投げつけて来てな」{KP}\n　\n「何人かの　地蔵の　顔が\n　柿だらけに　なってしもうたのだ！」\n　{KP}\n「桃太郎よ！\n　２番目と　６番目と　１１番目の\n　地蔵の　顔を」{KP}\n　\n「きれいに　ふいて\n　やってはくれんかの！」\n　",
-  "en": "\"Oh, Momotaro! You've come at last!\"{KP}\"The truth is, I have a favor to ask!\"{KP}\"When Kakitaro, who lives in Brothers' Cave nearby, came by here,\"{KP}\"we all told him not to make mischief, but instead he started pelting us with persimmons,\"{KP}\"and several of us Jizo ended up with faces covered in persimmon!\"{KP}\"Momotaro! Would you wipe the faces of the 2nd, 6th and 11th Jizo\"{KP}\"nice and clean for us?\""
+  "en": "\"Oh, Momotaro! You've come at last!\"{KP}\"The truth is, I have a favor to ask!\"{KP}\"When Kakitaro, who lives in Brothers' Cave nearby, came by here,\"{KP}\"we all told him not to make mischief, but instead he started pelting us with persimmons,\"{KP}\"and several of the Jizo ended up with faces covered in persimmon!\"{KP}\"Momotaro! Would you wipe the faces of the 2nd, 6th and 11th Jizo\"{KP}\"nice and clean for us?\""
  },
  {
   "id": "GSV3700D/15/0020",
@@ -429,7 +429,7 @@
   "id": "GSV3700D/16/0000",
   "kind": "msg",
   "jp": "桃太郎は\n{bb}{MM}{ww}を　ふいた～♪\n　",
-  "en": "Momotaro played the {bb}{MM}{ww}!"
+  "en": "Momotaro played the {bb}{MM}{ww}..."
  },
  {
   "id": "GSV3700D/16/0194",

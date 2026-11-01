@@ -135,13 +135,13 @@
   "id": "GSV0600D/21/0010",
   "kind": "msg",
   "jp": "「おいおい　どうなってんだ！」\n　\n　{KP}\n「こっちとら　花見に\n　わざわざ　やって来たんだぜ！」\n　{KP}\n「枯れ木　見て\n　何が　おもしろいんだーっ！\n　金返せー！　ちくしょう！！」",
-  "en": "\"Hey, hey, what's goin' on here!\"{KP}\"We came all this way to see the cherry blossoms!\"{KP}\"What's so fun about starin' at dead trees?! Gimme my money back! Darn it all!!\""
+  "en": "\"Hey, hey, what's goin' on here!\"{KP}\"We came all this way to see the cherry blossoms!\"{KP}\"What's so fun about starin' at dead trees?! Gimme my money back! Dang it!!\""
  },
  {
   "id": "GSV0600D/21/00EC",
   "kind": "msg",
   "jp": "「いやあ　やっぱり\n　サクラは　きれいだなあ！」\n　{KP}\n「花見は　サイコーだな！\n　メシが　うめぇや！」\n　{KP}\n「どれも　これも\n　桃太郎さんの　おかげだぁ～」\n　{KP}\n「そうだ！　この　{bb}イヌぐるみ{ww}を\n　あげやしょう！」\n　{KP}\n「これを　着ると\n　犬の　ことばが　わかって\n　犬たちとも　話せるでっさ！」{KP}\n　\n「花咲かじいさんとこの　イヌに\n　ゆずってもらったんだが」\n　{KP}\n「オイラが　着ると　\n　なんだか　悪口しか\n　聞こえてこねぇんだよ！」",
-  "en": "\"Ahh, cherry blossoms sure are pretty after all!\"{KP}\"Blossom viewing is the best! The grub tastes great!\"{KP}\"And it's all thanks to Momotaro-san...\"{KP}\"I know! I'll give ya this {bb}Dog Suit{ww}!\"{KP}\"Put it on, and ya can understand dog talk and chat with the dogs too!\"{KP}\"Old Man Hanasaka's dog let me have it, but...\"{KP}\"When I wear it, somehow all I hear is folks badmouthin' me!\""
+  "en": "\"Ahh, cherry blossoms sure are pretty after all!\"{KP}\"Blossom viewing is the best! The grub tastes great!\"{KP}\"And it's all thanks to Momotaro-san...\"{KP}\"I know! I'll give ya this {bb}Dog Suit{ww}!\"{KP}\"Put it on, and ya can understand dog talk and chat with the dogs too!\"{KP}\"Old Man Hanasaka's dog let me have it, but...\"{KP}\"When I wear it, somehow all I hear is the dogs badmouthin' me!\""
  },
  {
   "id": "GSV0600D/21/02D8",
@@ -345,13 +345,13 @@
   "id": "GSV0600D/34/0010",
   "kind": "msg",
   "jp": "「この家に　いる　{bb}不幸太{ww}は\n　お金は　落とすわ\n　井戸には　落ちるわ」{KP}\n　\n「かわやには　落ちるわと\n　不幸の　かたまりみたいな\n　やつ　なんだけど」{KP}\n　\n「びっくら　こいた　ことに\n　恋を　したんだってよ！」\n　{KP}\n「相手を　落とす前に\n　自分が　ならくの底に\n　落ちるんじゃねぇのか？」",
-  "en": "\"{bb}Fukota{ww}, who lives in this house, drops his money, falls down wells,\"{KP}\"falls into the outhouse... He's a walking lump of bad luck, but\"{KP}\"you won't believe it: I hear he's fallen in love!\"{KP}\"Before he gets her to fall for him, won't he just fall into a bottomless pit himself?\""
+  "en": "\"{bb}Fukota{ww}, who lives in this house, drops his money, falls down wells,\"{KP}\"falls into the outhouse... He's a walking lump of bad luck, but\"{KP}\"well, I'll be darned, I hear he's fallen in love!\"{KP}\"Before he gets her to fall for him, won't he just fall into a bottomless pit himself?\""
  },
  {
   "id": "GSV0600D/34/015C",
   "kind": "msg",
   "jp": "「びっくら　こいた　ことに\n　{bb}不幸太{ww}の　恋が　\n　実ったんだってよ！」{KP}\n　\n「それも　村一番の　美人の\n　{bb}カレンちゃん{ww}　だってよ！\n　びっくら　こいたなぁ」{KP}\n　\n「おいらも　がんばろう！」\n　\n　",
-  "en": "\"You won't believe it: I hear {bb}Fukota{ww}'s love paid off!\"{KP}\"And with {bb}Karen-chan{ww}, the prettiest girl in the village! Can you believe it?\"{KP}\"I'd better give it my all too!\""
+  "en": "\"Well, I'll be darned! I hear {bb}Fukota{ww}'s love paid off!\"{KP}\"And with {bb}Karen-chan{ww}, the prettiest girl in the village! Well, I'll be darned!\"{KP}\"I'd better give it my all too!\""
  },
  {
   "id": "GSV0600D/35/0010",
@@ -375,7 +375,7 @@
   "id": "GSV0600D/36/00EC",
   "kind": "msg",
   "jp": "「いやー\n　よかった　よかった…」\n　{KP}\n「これで　花見客も　\n　どっと　おしよせて\n　おいらも　どっと　もうかって…」{KP}\n　\n「いやー\n　よかった　よかった…」\n　",
-  "en": "\"Well, well, that's a relief, a relief...\"{KP}\"Now the blossom viewers'll come flooding in, and I'll be flooded with money...\"{KP}\"Well, well, that's a relief, a relief...\""
+  "en": "\"Phew... what a relief, what a relief...\"{KP}\"Now the blossom viewers'll come flooding in, and I'll be flooded with money...\"{KP}\"Phew... what a relief, what a relief...\""
  },
  {
   "id": "GSV0600D/37/006C",
@@ -471,6 +471,6 @@
   "id": "GSV0600D/38/07D8",
   "kind": "msg",
   "jp": "　\n「ええっ！\n　ごめいわくは\n　おかけしませんから」{KN}",
-  "en": "\"What?! But I promise I won't be any trouble\"{KN}"
+  "en": "\"What?! But I promise I won't be any trouble!\"{KN}"
  }
 ]

@@ -150,7 +150,7 @@
   "id": "OVLGMAIN@800CB540",
   "kind": "code",
   "jp": "おんがく",
-  "en": "Sound",
+  "en": "Music",
   "max": 11
  },
  {
@@ -864,7 +864,7 @@
   "id": "OVLGMAIN@800CBC58",
   "kind": "code",
   "jp": "言葉が　わかります",
-  "en": "is clear!",
+  "en": "makes sense!",
   "max": 19
  },
  {
@@ -1039,14 +1039,14 @@
   "id": "OVLGMAIN@800CBE54",
   "kind": "code",
   "jp": "つくった　鏡",
-  "en": "own mirror",
+  "en": "this mirror",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CBE64",
   "kind": "code",
   "jp": "光を　放つ　かぐや姫の",
-  "en": "Princess Kaguya's",
+  "en": "Princess Kaguya made",
   "max": 23
  },
  {
@@ -1368,7 +1368,7 @@
   "id": "OVLGMAIN@800CC1F0",
   "kind": "code",
   "jp": "とく　勇気の　あかし",
-  "en": "seal: proof of valor",
+  "en": "seal: Mark of Courage",
   "max": 23
  },
  {
@@ -1403,14 +1403,14 @@
   "id": "OVLGMAIN@800CC260",
   "kind": "code",
   "jp": "わかります",
-  "en": "is clear!",
+  "en": "speech!",
   "max": 11
  },
  {
   "id": "OVLGMAIN@800CC26C",
   "kind": "code",
   "jp": "着ると　犬の　言葉が",
-  "en": "and dog speech",
+  "en": "and understand dog",
   "max": 23
  },
  {
@@ -2446,7 +2446,7 @@
   "id": "OVLGMAIN@800CCD18",
   "kind": "code",
   "jp": "竹づつに　ミルクが",
-  "en": "There's milk in",
+  "en": "Bamboo milk flask",
   "max": 19
  },
  {
@@ -2607,14 +2607,14 @@
   "id": "OVLGMAIN@800CCED4",
   "kind": "code",
   "jp": "シャケ弁当",
-  "en": "salmon box",
+  "en": "bento!",
   "max": 11
  },
  {
   "id": "OVLGMAIN@800CCEE0",
   "kind": "code",
   "jp": "安くて　おいしい",
-  "en": "Cheap and tasty:",
+  "en": "Cheap tasty salmon",
   "max": 19
  },
  {
@@ -3265,7 +3265,7 @@
   "id": "OVLGMAIN@800CD5B4",
   "kind": "code",
   "jp": "１本で　２度　おいしい",
-  "en": "one is twice as tasty",
+  "en": "one stick, two tastes!",
   "max": 23
  },
  {
@@ -3328,7 +3328,7 @@
   "id": "OVLGMAIN@800CD664",
   "kind": "code",
   "jp": "アンズあじ",
-  "en": "apricot!",
+  "en": "apricot.",
   "max": 11
  },
  {
@@ -3391,7 +3391,7 @@
   "id": "OVLGMAIN@800CD708",
   "kind": "code",
   "jp": "なつかしい　あじわい",
-  "en": "the more nostalgic",
+  "en": "the homier it tastes",
   "max": 23
  },
  {
@@ -3496,21 +3496,21 @@
   "id": "OVLGMAIN@800CD820",
   "kind": "code",
   "jp": "これで　決まり",
-  "en": "this is it!",
+  "en": "This is it!",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CD830",
   "kind": "code",
   "jp": "ともと　言えば",
-  "en": "travel buddy,",
+  "en": "travel pal?",
   "max": 15
  },
  {
   "id": "OVLGMAIN@800CD840",
   "kind": "code",
   "jp": "桃太郎の　旅の",
-  "en": "For Momotaro's",
+  "en": "Momotaro's",
   "max": 15
  },
  {
@@ -3524,7 +3524,7 @@
   "id": "OVLGMAIN@800CD868",
   "kind": "code",
   "jp": "つぶあん　たっぷり",
-  "en": "Chunky bean paste",
+  "en": "Chunky bean galore",
   "max": 19
  },
  {
@@ -3538,7 +3538,7 @@
   "id": "OVLGMAIN@800CD898",
   "kind": "code",
   "jp": "こしあん　たっぷり",
-  "en": "Smooth bean paste",
+  "en": "Silky paste galore",
   "max": 18
  }
 ]

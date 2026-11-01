@@ -38,3 +38,4 @@ M510D/61/0000.3	Momotaro	quiz choice; the OVLM17 name-label twin is capped at 7 
 OVLM17@800CB340	Kinta	mask name, 7B in place; its OVLM03 twin has 11 bytes and keeps Kintaro
 M580D/19/0000.2	Poverty God	quiz choice (opposite of 貧相); the code-label twin is "Bombee", which .1 ボンビー already shows
 M580D/19/0000.3	Fortune God	quiz choice; the code-label twin is "Lucky"
+GSV0400D/22/0120	Momotaro showed her the mask!	mask-lookalike NPC is a woman ("あら　わたしに　そっくり"); the twins show it to men

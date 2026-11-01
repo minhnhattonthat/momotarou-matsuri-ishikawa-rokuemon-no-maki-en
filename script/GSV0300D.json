@@ -45,7 +45,7 @@
   "id": "GSV0300D/10/0534",
   "kind": "msg",
   "jp": "「ありゃりゃ　桃太郎さん！\n　食べすぎちゃいましたか！」\n　{KP}\n「そんなに　ふとってちゃあ\n　穴から　出られませんよ！」\n　{KP}\n「しっかり　ダイエット\n　してくださいね！」\n　",
-  "en": "\"Oh my, Momotaro-san! Did you eat too much?\"{KP}\"You'll never get out of the hole that fat!\"{KP}\"Be sure to go on a diet!\""
+  "en": "\"Whoa there, Momotaro-san! Did you eat too much?\"{KP}\"You'll never get out of the hole that fat!\"{KP}\"Be sure to go on a diet!\""
  },
  {
   "id": "GSV0300D/10/0620",
@@ -57,7 +57,7 @@
   "id": "GSV0300D/10/0674",
   "kind": "msg",
   "jp": "「ありゃりゃ　桃太郎さん！\n　食べすぎちゃいましたか！」\n　{KP}\n「そんなに　ふとってちゃあ\n　穴から　出られませんよ！」\n　{KP}\n「しっかり　ダイエット\n　してくださいね！」\n　",
-  "en": "\"Oh my, Momotaro-san! Did you eat too much?\"{KP}\"You'll never get out of the hole that fat!\"{KP}\"Be sure to go on a diet!\""
+  "en": "\"Whoa there, Momotaro-san! Did you eat too much?\"{KP}\"You'll never get out of the hole that fat!\"{KP}\"Be sure to go on a diet!\""
  },
  {
   "id": "GSV0300D/10/073E",
@@ -267,7 +267,7 @@
   "id": "GSV0300D/20/0002",
   "kind": "msg",
   "jp": "「たにしのすけ　にんげんじょうたい」\n　ばんごうは０００２０！",
-  "en": "\"Tanishinosuke, human form\" Number 00020!"
+  "en": "\"Tanishinosuke, human form\"{n}The number is 00020!"
  },
  {
   "id": "GSV0300D/21/0056",
@@ -285,7 +285,7 @@
   "id": "GSV0300D/21/0126",
   "kind": "msg",
   "jp": "「やあやあ　桃太郎さん！\n　ようこそ　おいで\n　くださいました！」{KP}\n　\n「平和に　なったのも\n　桃太郎さんの　おかげです」\n　{KP}\n「たいした　おかまいも\n　できませんが　ごゆっくり\n　お楽しみください！」",
-  "en": "\"Well, well, Momotaro-san! Welcome, welcome!\"{KP}\"It's thanks to you that we have peace, Momotaro-san.\"{KP}\"We can't offer much in the way of hospitality, but please relax and enjoy yourself!\""
+  "en": "\"Hello, hello, Momotaro-san! Thank you so much for coming!\"{KP}\"It's thanks to you that we have peace, Momotaro-san.\"{KP}\"We can't offer much in the way of hospitality, but please relax and enjoy yourself!\""
  },
  {
   "id": "GSV0300D/21/043E",

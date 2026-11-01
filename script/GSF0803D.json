@@ -33,7 +33,7 @@
   "id": "GSF0803D/3/0074",
   "kind": "msg",
   "jp": "「えっ？　桃太郎さんが\n　オラたちに　ごちそうして\n　くれるんですか？」{KP}\n　\n「そうだなあ\n　オラは　{bb}野菜イタメ{ww}が\n　食べたいなぁ～！」{KP}\n　\n「野菜が　ぜ～んぶ\n　入っている　{bb}野菜イタメ{ww}が！」\n　{KP}\n「とは　言いつつ　オラは\n　{bb}カブ　にんじん　ごぼう　たまねぎ{ww}が\n　キライなんだなぁ～！」",
-  "en": "\"Huh? Momotaro-san, you're gonna treat us?\"{KP}\"Let's see... I wanna eat {bb}Stir-Fry{ww}!\"{KP}\"A {bb}Stir-Fry{ww} with every single vegetable in it!\"{KP}\"That said, I hate {bb}turnips, carrots, burdock and onions{ww}!\""
+  "en": "\"Huh? Momotaro-san, you're gonna treat us?\"{KP}\"Let's see... I wanna eat veggie {bb}Stir-Fry{ww}!\"{KP}\"A veggie {bb}Stir-Fry{ww} with every single vegetable in it!\"{KP}\"That said, I hate {bb}turnips, carrots, burdock and onions{ww}!\""
  },
  {
   "id": "GSF0803D/3/01CA",
@@ -63,7 +63,7 @@
   "id": "GSF0803D/4/0076",
   "kind": "msg",
   "jp": "「えっ？　桃太郎さんが\n　ワシたちに　ごちそうして\n　くれるんですか？」{KP}\n　\n「それじゃ！\n　ワシは　{bb}きつねうどん{ww}が\n　食べたいなぁ！」{KP}\n　\n「{bb}あぶらあげ{ww}を　手に入れるのは\n　大変だけどね！」\n　",
-  "en": "\"Huh? Momotaro-san, you're gonna treat us?\"{KP}\"Well then! I wanna eat {bb}Kitsune Udon{ww}!\"{KP}\"Getting hold of {bb}Fried Tofu{ww} is tough, though!\""
+  "en": "\"Oh? You'd treat us to a meal, Momotaro-san?\"{KP}\"Well then! I'd love some {bb}Kitsune Udon{ww}!\"{KP}\"Though {bb}Fried Tofu{ww} sure is hard to come by!\""
  },
  {
   "id": "GSF0803D/4/0168",
@@ -75,7 +75,7 @@
   "id": "GSF0803D/4/019A",
   "kind": "msg",
   "jp": "「おお　これ　これ！\n　何年ぶりかなぁ\n　きつねうどん　なんて！」{KP}\n　\n「桃太郎さん　ありがとう！」\n　\n　",
-  "en": "\"Ohh, this is it! How many years has it been since I had kitsune udon!\"{KP}\"Thank you, Momotaro-san!\""
+  "en": "\"Ohh, this is it! How many years has it been since I had Kitsune Udon!\"{KP}\"Thank you, Momotaro-san!\""
  },
  {
   "id": "GSF0803D/4/0230",

@@ -27,7 +27,7 @@
   "id": "GSV1001D/2/033C",
   "kind": "msg",
   "jp": "「そうですか　栗太郎さん\n　あなたの　お兄さんが…」\n　{KP}\n「桃太郎さんの　名前を\n　かたっているのですね！」\n　",
-  "en": "\"I see, Kuritaro-san. So your big brother...\"{KP}\"has been using Momotaro-san's name!\""
+  "en": "\"I see, Kuritaro-san. So your big brother...\"{KP}\"has been passing himself off as Momotaro-san!\""
  },
  {
   "id": "GSV1001D/2/03C2",
@@ -135,7 +135,7 @@
   "id": "GSV1001D/3/0026",
   "kind": "msg",
   "jp": "「桃太郎さん\n　おひさしぶりです！」\n　{KP}\n「あいにく　乙姫さまは\n　大切な宝物を　盗まれて\n　しまったので」{KP}\n　\n「ご気分を　悪くされて\n　しまいました！」\n　{KP}\n「なんでも　竹取りの村に\n　行った時　かぐや姫さんに\n　いただいた　{bb}首かざり{ww}だそうです！」{KP}\n　\n「お会いに　なるのは\n　またの　機会に　してくださいませ」\n　",
-  "en": "\"Momotaro-san, it's been so long!\"{KP}\"I'm afraid Otohime-sama had a precious treasure stolen,\"{KP}\"and she has fallen ill!\"{KP}\"They say it was the {bb}Necklace{ww} Princess Kaguya-san gave her when she visited Taketori Village!\"{KP}\"Please meet with her another time.\""
+  "en": "\"Momotaro-san, it's been so long!\"{KP}\"I'm afraid Otohime-sama had a precious treasure stolen,\"{KP}\"and now she's feeling unwell!\"{KP}\"They say it was the {bb}Necklace{ww} Princess Kaguya-san gave her when she visited Taketori Village!\"{KP}\"Please meet with her another time.\""
  },
  {
   "id": "GSV1001D/3/01A2",
@@ -195,7 +195,7 @@
   "id": "GSV1001D/5/001E",
   "kind": "msg",
   "jp": "「スミマセン　桃太郎さん！\n　ここより　先は　お通しできません！」\n　",
-  "en": "\"Excuse me, Momotaro-san! I can't let you go any further!\""
+  "en": "\"Sorry, Momotaro-san! I can't let you go any further!\""
  },
  {
   "id": "GSV1001D/5/0076",

@@ -105,6 +105,6 @@
   "id": "M150D/15/0002",
   "kind": "msg",
   "jp": "桃太郎は　{R0}個\n岩を　くだいた！",
-  "en": "Momotaro smashed {R0} rocks!"
+  "en": "Rocks smashed by Momotaro: {R0}!"
  }
 ]

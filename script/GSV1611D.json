@@ -39,7 +39,7 @@
   "id": "GSV1611D/4/000E",
   "kind": "msg",
   "jp": "「いらっしゃいませ！\n　{bb}はねつき地獄！{ww}が\n　５０両で楽しめます」{KN}",
-  "en": "\"Welcome! You can play {bb}Hanetsuki Hell!{ww} for 50 ryo.\"{KN}"
+  "en": "\"Welcome! For 50 ryo, you can play {bb}Hanetsuki Hell!{ww}\"{KN}"
  },
  {
   "id": "GSV1611D/4/009C",
@@ -69,7 +69,7 @@
   "id": "GSV1611D/6/0002",
   "kind": "msg",
   "jp": "「{bb}鬼まとあて{ww}の\n　免許皆伝は　６５００点か\n　まだまだ　みちのりは　遠いな…」",
-  "en": "\"Full mastery in {bb}Oni Target Toss{ww} takes 6500 points... I've still got a long way to go...\""
+  "en": "\"Full Mastery in {bb}Oni Target Toss{ww} takes 6500 points... I've still got a long way to go...\""
  },
  {
   "id": "GSV1611D/7/0010",

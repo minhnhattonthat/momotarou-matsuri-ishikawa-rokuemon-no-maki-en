@@ -123,37 +123,37 @@
   "id": "M170D/36/0168",
   "kind": "msg",
   "jp": "「桃太郎サン　貧乏神サン\n　イチ　ちぇ～んじ　アルネ！」",
-  "en": "\"Momotaro-san, Poverty God-san, place chaaange, yes!\""
+  "en": "\"Momotaro-san, Poverty God-san, position chaaange, yes!\""
  },
  {
   "id": "M170D/36/01B2",
   "kind": "msg",
   "jp": "「桃太郎サン　夜叉姫サン\n　イチ　ちぇ～んじ　アルネ！」",
-  "en": "\"Momotaro-san, Yashahime-san, place chaaange, yes!\""
+  "en": "\"Momotaro-san, Yashahime-san, position chaaange, yes!\""
  },
  {
   "id": "M170D/36/01FC",
   "kind": "msg",
   "jp": "「桃太郎サン　黒ガッパサン\n　イチ　ちぇ～んじ　アルネ！」",
-  "en": "\"Momotaro-san, Black Kappa-san, place chaaange, yes!\""
+  "en": "\"Momotaro-san, Black Kappa-san, position chaaange, yes!\""
  },
  {
   "id": "M170D/36/0248",
   "kind": "msg",
   "jp": "「貧乏神サン　夜叉姫サン\n　イチ　ちぇ～んじ　アルネ！」",
-  "en": "\"Poverty God-san, Yashahime-san, place chaaange, yes!\""
+  "en": "\"Poverty God-san, Yashahime-san, position chaaange, yes!\""
  },
  {
   "id": "M170D/36/0292",
   "kind": "msg",
   "jp": "「貧乏神サン　黒ガッパサン\n　イチ　ちぇ～んじ　アルネ！」",
-  "en": "\"Poverty God-san, Black Kappa-san, place chaaange, yes!\""
+  "en": "\"Poverty God-san, Black Kappa-san, position chaaange, yes!\""
  },
  {
   "id": "M170D/36/02DE",
   "kind": "msg",
   "jp": "「夜叉姫サン　黒ガッパサン\n　イチ　ちぇ～んじ　アルネ！」",
-  "en": "\"Yashahime-san, Black Kappa-san, place chaaange, yes!\""
+  "en": "\"Yashahime-san, Black Kappa-san, position chaaange, yes!\""
  },
  {
   "id": "M170D/36/032A",
@@ -213,7 +213,7 @@
   "id": "M170D/41/0002",
   "kind": "msg",
   "jp": "「{MM}さん！\n　{R0}のゾロ目が　でたお礼に」",
-  "en": "\"{MM}-san! As thanks for rolling doubles of {R0},\""
+  "en": "\"{MM}-san! As a reward for rolling a pair of {R0},\""
  },
  {
   "id": "M170D/41/0064",
@@ -255,31 +255,31 @@
   "id": "M170D/41/0224",
   "kind": "msg",
   "jp": "「サイコロを　１コ　あげます！」\n　",
-  "en": "\"You get one more of the dice!\""
+  "en": "\"Here's one extra die for you!\""
  },
  {
   "id": "M170D/41/027A",
   "kind": "msg",
   "jp": "「桃太郎さんの\n　サイコロが　１コ　へります！」",
-  "en": "\"Momotaro-san loses one of the dice!\""
+  "en": "\"Momotaro-san loses a die!\""
  },
  {
   "id": "M170D/41/02BC",
   "kind": "msg",
   "jp": "「金太郎さんの\n　サイコロが　１コ　へります！」",
-  "en": "\"Kintaro-san loses one of the dice!\""
+  "en": "\"Kintaro-san loses a die!\""
  },
  {
   "id": "M170D/41/02FE",
   "kind": "msg",
   "jp": "「浦島さんの\n　サイコロが　１コ　へります！」",
-  "en": "\"Urashima-san loses one of the dice!\""
+  "en": "\"Urashima-san loses a die!\""
  },
  {
   "id": "M170D/41/033E",
   "kind": "msg",
   "jp": "「夜叉姫さんの\n　サイコロが　１コ　へります！」",
-  "en": "\"Yashahime-san loses one of the dice!\""
+  "en": "\"Yashahime-san loses a die!\""
  },
  {
   "id": "M170D/41/03A0",

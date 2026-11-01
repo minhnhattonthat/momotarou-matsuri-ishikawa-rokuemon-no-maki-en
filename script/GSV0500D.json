@@ -63,7 +63,7 @@
   "id": "GSV0500D/3/0010",
   "kind": "msg",
   "jp": "「おら　ここから　北の\n　方向にある　{bb}花咲かの村{ww}から\n　来たものだ！」{KP}\n　\n「いつも　牛に　ここの水を\n　飲ませに　来ているのだ！」\n　",
-  "en": "\"I came from {bb}Hanasaka Village{ww}, north of here!\"{KP}\"I always come here to let my cow drink the water!\""
+  "en": "\"Me, I come from {bb}Hanasaka Village{ww}, up north o' here!\"{KP}\"I'm always bringin' my cow down here to drink the water!\""
  },
  {
   "id": "GSV0500D/3/00B6",
@@ -153,7 +153,7 @@
   "id": "GSV0500D/6/0052",
   "kind": "msg",
   "jp": "「こんなに　楽しいのは\n　ひさしぷりぷりだ！」\n　",
-  "en": "\"I haven't had this much fun in a plop-long time!\""
+  "en": "\"I haven't had this much fun in plop-ages!\""
  },
  {
   "id": "GSV0500D/7/0010",
@@ -189,7 +189,7 @@
   "id": "GSV0500D/9/0062",
   "kind": "msg",
   "jp": "「こんなに　楽しいのは\n　ひさしぷりぷりですわ！」\n　",
-  "en": "\"I haven't had this much fun in a plop-long time, I must say!\""
+  "en": "\"I haven't had this much fun in plop-ages, I must say!\""
  },
  {
   "id": "GSV0500D/10/0026",
@@ -213,7 +213,7 @@
   "id": "GSV0500D/10/0156",
   "kind": "msg",
   "jp": "「ウキウキするっぷり！」\n　\n　",
-  "en": "\"I'm all plop-py and giddy!\""
+  "en": "\"I'm so giddy I could plop!\""
  },
  {
   "id": "GSV0500D/12/0036",

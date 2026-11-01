@@ -15,7 +15,7 @@
   "id": "GSV0900D/1/0624",
   "kind": "msg",
   "jp": "「オイラの　あんちゃんと\n　対決を　するんだクリ」\n　{KP}\n「あんちゃんの　前で\n　おおハジを　かかせて\n　やるクリ！」",
-  "en": "\"We're gonna have a showdown with my big bro, kuri.\"{KP}\"I'll make sure he gets totally humiliated in front of big bro, kuri!\""
+  "en": "\"You're gonna have a showdown with my big bro, kuri.\"{KP}\"I'll make you look like a total fool in front of big bro, kuri!\""
  },
  {
   "id": "GSV0900D/1/06AE",
@@ -45,7 +45,7 @@
   "id": "GSV0900D/15/0002",
   "kind": "msg",
   "jp": "「」\n　ばんごうは００００８",
-  "en": "\"\"{n}The number is 00008."
+  "en": "\"\"{n}The number is 00008"
  },
  {
   "id": "GSV0900D/16/0044",
@@ -87,7 +87,7 @@
   "id": "GSV0900D/16/0320",
   "kind": "msg",
   "jp": "「でも　なっとく　いきません！\n　カメさんの　話を\n　聞くかぎり……」{KP}\n　\n「では　桃太郎さん！\n　ボクが　つくった　ゆうぎ\n　{bb}ドサッと一本釣り！{ww}で」{KP}\n　\n「勝負して　ください！」\n　\n　{KP}\n「本物の　桃太郎さんなら\n　この　ゆうぎで　１５００点\n　以上　取れるはずです！」{KP}\n　\n「さぁ！\n　{bb}ドサッと一本釣り！{ww}で\n　勝負して　いただけますか？」{KN}",
-  "en": "\"But I'm still not convinced! Going by what Turtle-san told me...\"{KP}\"Then, Momotaro-san! In the game I made, {bb}Big Haul Fishing!{ww},\"{KP}\"please take me on!\"{KP}\"If you're the real Momotaro-san, you should be able to score 1500 points or more in this game!\"{KP}\"Now! Will you take me on in {bb}Big Haul Fishing!{ww}?\"{KN}"
+  "en": "\"But I'm still not convinced! Going by what Turtle-san told me...\"{KP}\"Then, Momotaro-san! I made a game called {bb}Big Haul Fishing!{ww}\"{KP}\"Please take me on in it!\"{KP}\"If you're the real Momotaro-san, you should be able to score 1500 points or more in this game!\"{KP}\"Now! Will you take me on? It's {bb}Big Haul Fishing!{ww}\"{KN}"
  },
  {
   "id": "GSV0900D/16/04C0",
@@ -135,7 +135,7 @@
   "id": "GSV0900D/16/0884",
   "kind": "msg",
   "jp": "「さっそくですが　桃太郎さん\n　この　{bb}処方せん{ww}を\n　見て下さい！」",
-  "en": "\"Right to business, Momotaro-san. Please take a look at this {bb}Prescription{ww}!\""
+  "en": "\"Without further ado, Momotaro-san, please take a look at this {bb}Prescription{ww}!\""
  },
  {
   "id": "GSV0900D/16/08DA",
@@ -231,7 +231,7 @@
   "id": "GSV0900D/16/0E8A",
   "kind": "msg",
   "jp": "「桃太郎さん！\n　ありがとうございました！」\n　{KP}\n「やっぱり　本物の\n　桃太郎さんでしたね！」\n　",
-  "en": "\"Momotaro-san! Thank you so much!\"{KP}\"You really are the real Momotaro-san!\""
+  "en": "\"Momotaro-san! Thank you so much!\"{KP}\"I knew it! You're the real Momotaro-san!\""
  },
  {
   "id": "GSV0900D/16/0F02",
@@ -273,7 +273,7 @@
   "id": "GSV0900D/16/11C2",
   "kind": "msg",
   "jp": "「それがいい……\n　それが　いいですよ\n　桃太郎さん！」",
-  "en": "\"That's it... That's a great idea, Momotaro-san!\""
+  "en": "\"Yes... Yes, that's a good idea, Momotaro-san!\""
  },
  {
   "id": "GSV0900D/16/120A",
@@ -285,7 +285,7 @@
   "id": "GSV0900D/17/001E",
   "kind": "msg",
   "jp": "「ケン　ケン！\n　{bb}カメ{ww}が　さっきよりも\n　苦しそうです！」{KP}\n　\n「早く　{bb}はらいたの薬{ww}を\n　手に入れて　ください！」\n　{KP}\n「旅人に　聞いたのですが\n　{bb}花咲かの村{ww}に　薬づくりの\n　名人が　いるそうですよ！」",
-  "en": "\"Kyeen, kyeen! The {bb}Turtle{ww} looks worse than before!\"{KP}\"Please hurry and get the {bb}Tummy Medicine{ww}!\"{KP}\"I heard from a traveler that there's a Master medicine-maker in {bb}Hanasaka Village{ww}!\""
+  "en": "\"Kyeen, kyeen! The {bb}Turtle{ww} looks worse than before!\"{KP}\"Please hurry and get the {bb}Tummy Medicine{ww}!\"{KP}\"I heard from a traveler that there's a master medicine-maker in {bb}Hanasaka Village{ww}!\""
  },
  {
   "id": "GSV0900D/17/0114",
@@ -309,7 +309,7 @@
   "id": "GSV0900D/18/02F2",
   "kind": "msg",
   "jp": "　\n「ああ　そうだ！\n　桃太郎さんに　お古の\n　{bb}つるはし{ww}を　あげるだ！」{KP}\n　\n「石川六右衛門に　あったら\n　これを　刀がわりに\n　戦うだ！」",
-  "en": "\"Oh, I know! I'll give you my old {bb}Pickaxe{ww}, Momotaro-san!\"{KP}\"If you run into Ishikawa Rokuemon, fight him with this instead of a sword!\""
+  "en": "\"Oh, that's right! I'll give you my old {bb}Pickaxe{ww}, Momotaro-san!\"{KP}\"If you run into Ishikawa Rokuemon, fight him with this instead of a sword!\""
  },
  {
   "id": "GSV0900D/18/039C",
@@ -321,7 +321,7 @@
   "id": "GSV0900D/18/03E4",
   "kind": "msg",
   "jp": "「石川六右衛門が　気になって\n　落ちついて　穴を　ほることが\n　できねぇだ」{KP}\n　\n「ぢくしょう～！」\n　\n　",
-  "en": "\"I'm so worried about Ishikawa Rokuemon, I can't settle down and dig my holes.\"{KP}\"Dagnabbit!\""
+  "en": "\"I'm so worried 'bout Ishikawa Rokuemon, I can't settle down an' dig my holes.\"{KP}\"Dagnabbit!\""
  },
  {
   "id": "GSV0900D/18/046A",
@@ -333,7 +333,7 @@
   "id": "GSV0900D/19/0002",
   "kind": "msg",
   "jp": "「そういえば\n　この先で　見かけたよ！」\n　{KP}\n「いっしょうけんめいに\n　穴を　ほっている　男を！」\n　{KP}\n「いつのまにか　あの　穴から\n　この村に　やって来たんだ！」\n　{KP}\n「たしか　何年か前にも\n　あの男を　見た　覚えが\n　あるんだが」",
-  "en": "\"Come to think of it, I saw him up ahead!\"{KP}\"A man digging a hole with all his might!\"{KP}\"Before anyone knew it, he'd come out of that hole into this village!\"{KP}\"I'm pretty sure I remember seeing that man a few years back, too.\""
+  "en": "\"Come to think of it, I saw someone up ahead!\"{KP}\"A man digging a hole with all his might!\"{KP}\"Before anyone knew it, he'd come out of that hole into this village!\"{KP}\"I'm pretty sure I remember seeing that man a few years back, too.\""
  },
  {
   "id": "GSV0900D/20/0002",
@@ -429,7 +429,7 @@
   "id": "GSV0900D/27/0256",
   "kind": "msg",
   "jp": "「人間にも　こんな　ヒドイことを\n　するやつが　いるんだよね！」\n　",
-  "en": "\"Even humans have folks who'd do something this awful, huh!\""
+  "en": "\"So there are humans who'd do something this awful too, huh!\""
  },
  {
   "id": "GSV0900D/27/02AC",
@@ -453,7 +453,7 @@
   "id": "GSV0900D/28/01BA",
   "kind": "msg",
   "jp": "「あっ！\n　{bb}はらいたの薬{ww}が\n　あったんですね！」{KP}\n　\n「さぁ！　それを　早く\n　{bb}カメさん{ww}に　飲ませて\n　あげましょう！」",
-  "en": "\"Ah! You found {bb}Tummy Medicine{ww}!\"{KP}\"Now! Let's hurry and give it to {bb}Turtle-san{ww}!\""
+  "en": "\"Ah! You found the {bb}Tummy Medicine{ww}!\"{KP}\"Now! Let's hurry and give it to {bb}Turtle-san{ww}!\""
  },
  {
   "id": "GSV0900D/28/0254",
@@ -471,7 +471,7 @@
   "id": "GSV0900D/29/0018",
   "kind": "msg",
   "jp": "「オイラ　浦島さんの\n　ともだちの　タイ吉です！」\n　{KP}\n「浦島さんの　つくった　ゆうぎ\n　{bb}ドサッと一本釣り！{ww}は　今は\n　準備中です」{KP}\n　\n「またの　おこしを！」\n　\n　",
-  "en": "\"I'm Taikichi, Urashima-san's friend!\"{KP}\"Urashima-san's game, {bb}Big Haul Fishing!{ww}, is being set up right now.\"{KP}\"Please come again!\""
+  "en": "\"I'm Taikichi, Urashima-san's friend!\"{KP}\"We're still setting up Urashima-san's game, {bb}Big Haul Fishing!{ww}\"{KP}\"Please come again!\""
  },
  {
   "id": "GSV0900D/29/00E4",
@@ -501,7 +501,7 @@
   "id": "GSV0900D/30/0038",
   "kind": "msg",
   "jp": "「う～　シクシク\n　こんな　すがたに\n　なってしまったよ～～」{KP}\n　\n「あ～　あなたは　うわさの\n　桃太郎さん～」\n　{KP}\n「すみませんが　わたしの\n　お願いを　聞いて～\n　いただけますか～～～」{KN}",
-  "en": "\"Ooh, sob, sob... Look what I've become...\"{KP}\"Ahh, you're the famous Momotaro-san, aren't youuu...\"{KP}\"I'm sorry, but would you... grant me a favooour?\"{KN}"
+  "en": "\"Ooh, sob, sob... Look what I've become...\"{KP}\"Ahh, you're the famous Momotaro-san, aren't youuu...\"{KP}\"I'm sorry, but would you... grant me a favoooor?\"{KN}"
  },
  {
   "id": "GSV0900D/30/0126",
@@ -519,7 +519,7 @@
   "id": "GSV0900D/30/0232",
   "kind": "msg",
   "jp": "　\n「そんな～　うらめしいや～\n　お願いしま～す～よ～」\n　{KN}",
-  "en": "\"Oh nooo, how bitter I am... I beg of yooouuu...\"{KN}"
+  "en": "\"Oh nooo, I'll haunt youuu... I beg of yooouuu...\"{KN}"
  },
  {
   "id": "GSV0900D/30/028A",
