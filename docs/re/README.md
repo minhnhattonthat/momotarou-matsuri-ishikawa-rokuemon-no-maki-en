@@ -21,7 +21,8 @@ Addresses are for the dump in `rom.sha1` unless a note says otherwise.
 | [graphics.md](graphics.md) | font, TIM images, graphics-text survey | survey from the static sweep; runtime checks in phase 8 |
 | [status-menu-qa.md](status-menu-qa.md) | game-written save fixture, numeric-template extraction fix, Status redraw and scoped visual verdicts | cold-boot checks; broader phase 8 still open |
 | [status-ranks-qa.md](status-ranks-qa.md) | Six Status illustrations, maximum-width counters, money overlap fix and Hermit staff lettering | Cold rank fixtures and screenshot oracle; phase-wide QA remains open |
-| [album-records-qa.md](album-records-qa.md) | Game Album/Quick Match numeric clipping fix and complete populated/empty record-panel tours | 43 + 6 cold pages on both discs, 10 scoped visual sheets; Rank Details remains open |
+| [album-records-qa.md](album-records-qa.md) | Game Album/Quick Match numeric clipping fix and complete populated/empty record-panel tours | 43 + 6 cold pages on both discs, 10 scoped visual sheets |
+| [captions-rank-details-qa.md](captions-rank-details-qa.md) | All 27 native caption layouts and saved-Status's 43 record pages, ranks 0-10, empty records and return | Scoped cold original/English proof; natural story entrances and full phase QA remain open |
 | [name-entry-qa.md](name-entry-qa.md) | Latin player-name encoding, shared font copies and cold controller tour | 80 glyph IDs, confirmation/editing and Quick Match return; native four-character limit |
 | [name-persistence-qa.md](name-persistence-qa.md) | Memory-card parser bug, overwrite prompt fix and player-name save/reload | Four cold cases across both discs, eight name bytes verified, six scoped visual sheets |
 | [portrait-audit.md](portrait-audit.md) | Four GCV0310 labelled placeholder portraits and message selector audit | Zero literal references in 4,894 messages; cold Moon route does not bind them |

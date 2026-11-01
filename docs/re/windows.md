@@ -51,6 +51,9 @@ instructions also retain their original byte caps. Error, missing-part, continue
   **Fixed + verified** (phase 7): the hook at 0x80034DB8 (engine.py) centres by pixel width; in game "Tabidachi
   Village" (71 px) draws at x=125, "Capital of the Moon" (85 px) at 118 = 160 - w/2. Reached with warp.lua `OPS`
   (`tools/debug/caption_ops.py ID`), since captions only fire on village entry from the world map.
+  Phase-8 `caption_tour.py` now captures all 27 rows on both discs and checks exact text, x, y and width;
+  all pass and fit the native frame. Its injected-caption fixture delays the warp's initial Circle press
+  (`WARP_CLOSE_DELAY=60`); see `captions-rank-details-qa.md` for the limited layout scope.
 - **other code strings** (1,118: OVLGMAIN board UI, items, cards; OVLM minigame HUD; OVLXTTL trial screens):
   fixed layouts per screen (e.g. trial info panel: label x=48, values at 85/160/216). Budget = Japanese design
   width. The in-place byte cap (`max`) binds first: n JP chars = 2n bytes = 2n English chars (digraphs), about

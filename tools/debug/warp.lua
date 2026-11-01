@@ -145,7 +145,8 @@ L.on_frame(function(n)
       -- Stop message-closing input once map loading starts. A queued Circle
       -- after the initializer ends otherwise opens "search at your feet".
       local op = r16(VM + 0x44)
-      if st.orig and m == 1 and op ~= 0x1D and op ~= 0x1E and (n - st.hijack) % 30 == 0 then
+      if st.orig and m == 1 and op ~= 0x1D and op ~= 0x1E
+          and n - st.hijack >= (WARP_CLOSE_DELAY or 0) and (n - st.hijack) % 30 == 0 then
         L.press("circle", 6)
       end
     end

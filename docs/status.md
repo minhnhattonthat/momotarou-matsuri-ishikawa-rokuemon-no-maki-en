@@ -4,6 +4,19 @@ Updated at the end of every session. Keep it to what the next session needs; his
 
 - **Phase:** **8 in progress** (QA in the emulator), then 9 (release).
 - **Done (phase 8 so far, 2026-11-01):**
+  - Caption/Rank Details checkpoint: **27/27 captions on both discs**, with exact textlog and native
+    centering checks; **43/43 saved-Status record pages** on original, populated English and empty English,
+    including all **11 rank values**, and controller return to Status. Source memory card unchanged.
+    Fresh read-only D10 review accepts **3 caption + 10 record sheets** (`docs/re/captions-rank-details-qa.md`).
+  - Added an optional warp closing-input delay: the original opening-frame Circle could dismiss a caption
+    before capture. Rank Details retries only a missed press on the previous ready page, rejecting skips.
+    This native saved-Status route uses **context 4** and the **Game Album title on both discs**; it does
+    not prove display of the separate Rank Details atlas lettering. Caption fixtures prove layout, not
+    all destinations' natural story entrances. The red Card Album notice remains unresolved and unchanged.
+  - Latest validation: **99 tests passed**, lint 0; verifier **369 changed files / 0 errors**; cold smoke
+    `work/qa/caption_details8_smoke` passed; **0 Japanese lines in 29 English logs** (graphics excluded).
+    QA-only changes: existing main disc retained, **182,482,272 bytes**, **2026-11-01 09:45:58 UTC**, SHA-1
+    **81f569029bc195b8ea7e8bdb725b1de469099a43**. **Phase 8 remains incomplete; do not advance to release.**
   - Small-prop checkpoint: sushi menu now has all five full food/price pairs in a horizontal layout above
     the actors; bath placards say **Private Today** in all three atlas copies; the swimming victory flag
     reads **First** in a natural cold win. Fixed retained brown Japanese antialiasing, actor occlusion,
@@ -341,21 +354,23 @@ Updated at the end of every session. Keep it to what the next session needs; his
     Game Album record formats and six Quick Match pages now have populated/empty cold proof
     (`album-records-qa.md`). Name Entry now has all 80 glyphs, editing/confirmation and returned-name proof
     (`name-entry-qa.md`); name memory-card persistence now has four passing original/English cases
-    (`name-persistence-qa.md`). Rank Details and natural record-setting remain.
+    (`name-persistence-qa.md`). Saved-Status Rank Details now has 43 populated/empty pages, all rank values
+    and return proof (`captions-rank-details-qa.md`); natural record-setting remains.
     Name Entry mode 0x51 needs its native context byte set to 3 when warped, to return to Quick Match;
     `SCENE='name_entry'` and `tools/debug/name_entry.py` do this. Use the existing save fixture for reload QA.
     `work/qa/album8_*` exploratory states are from earlier builds: regenerate cold before accepting verdicts.
   - Text tour (`warp_all.py --hold 1500 --click 45 --probe tools/lua/textlog.lua`, then `tools/textlog.py`),
     `jp_left.py` on the build, visual-QA sheets + `qa_gate.py` verdicts (in-session `visual-qa` agents, D9),
     graphics-text rows in zoomed cold-boot shots (docs/re/graphics.md).
-  - Captions: 27 rows; shoot each with `OPS` (`caption_ops.py ID`) for the sheets.
+  - Captions: all 27 rows now have original/English cold op-26 captures and exact text/centering checks
+    (`caption_tour.py`, `captions-rank-details-qa.md`). Natural destination/story entrance coverage remains.
   - Weak short forms to revisit in polish: EXE fireworks items named bare "Dog"/"Monkey"/"Momotaro", 7-byte key
     items "Island" (鬼ヶ島), "Prism" (虹の玉), "Steps" (歩数計).
 - **Open bugs / gaps:**
   - The nine historical map hangs are resolved by correct initialization and map 294's entry setup;
     story flags remain unmapped (warped maps show default state). `tools/deadcode.py` output is not safe hook
     space without an exec watch (`tools/lua/deadwatch.lua`, `warp_all.py --debugger`).
-  - Phase 8 remains incomplete: much of the 201-row graphics survey, the full visual manifest, caption tour,
+  - Phase 8 remains incomplete: much of the 201-row graphics survey, the full visual manifest,
     and the corrected map interaction tour remain open. Do not advance to phase 9 on scoped graphics verdicts.
 - **Waiting on the user:**
   - (resolved, D9) reviews: the run brief allows a fresh read-only pass, so the repo's in-session `reviewer` /

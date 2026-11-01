@@ -54,7 +54,9 @@ Open for later phases:
   and PREM0D, with complete cold glyph matches, four- and one-letter entry,
   editing and record return (`name-entry-qa.md`). Four- and one-letter names
   now have native save/overwrite and separate cold-load proof on both discs
-  (`name-persistence-qa.md`). Rank Details and naturally earned records remain unverified.
+  (`name-persistence-qa.md`). Saved-Status Rank Details now covers 43 pages, ranks 0-10, empty records and
+  return (`captions-rank-details-qa.md`). This route uses the Game Album title on both discs; it does not
+  prove the separate Rank Details atlas title. Naturally earned records remain unverified.
 - GCV0310's four labelled images are dormant dialogue placeholders, IDs 123-126,
   with no references among 4,894 parsed message operations. The Moon route uploads
   their texture but never binds the portraits (`portrait-audit.md`). This is not
