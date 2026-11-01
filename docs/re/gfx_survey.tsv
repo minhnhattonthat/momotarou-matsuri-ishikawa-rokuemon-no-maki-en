@@ -72,7 +72,7 @@ id	source	kind	japanese	note
 #562	GV36000D.BIN:1	sign	ゆ?? board	unsure
 #565	GV37000D.BIN:0	sign	旅籠場? (4-char wooden board)	reading unsure
 #566	GV38000D.BIN:0	sign	town sign plaques	unsure
-#574	HCARD00D.BIN:0	card	なまら あっつぃべゃぁ / ばっ / NO.007 北海道	collectible dialect card: brush text in art + caption bar
+#574	HCARD00D.BIN:0	card	なまら あっつぃべゃぁ / ばっ / NO.001 北海道	all 100 prefecture captions English (cards-qa.md); brush text/SFX remain Japanese
 #575	HCARD00D.BIN:1	card	はっちゃきこく? / ギシ ギシ / NO.002 北海道	collectible dialect card
 #576	HCARD00D.BIN:2	card	NO.003 青森県 / じょっぱり	dialect card: handwritten word + baked label bar (NO.### + prefecture); #574-#673 share this layout
 #577	HCARD00D.BIN:3	card	NO.004 青森県 / かね?
@@ -172,7 +172,7 @@ id	source	kind	japanese	note
 #671	HCARD90D.BIN:7	card	NO.098 鹿児島県 / おじゃいも
 #672	HCARD90D.BIN:8	card	NO.099 沖縄県 / ちゃんぷるー / ぐっ
 #673	HCARD90D.BIN:9	card	NO.100 沖縄県 / ちばりよー
-#674	HOUGEN0D.BIN:0	menu	カードアルバム / 枚 / 北海道 東北 関東 中部 近畿 中国・四国 九州・沖縄 / 新しいカード?	card-album UI atlas: region table, 枚 counter, red new-card tags
+#674	HOUGEN0D.BIN:0	menu	カードアルバム / 枚 / 北海道 東北 関東 中部 近畿 中国・四国 九州・沖縄 / 新しいカード?	overview title/regions/counts English with cold proof; fragmented red new-card tags still open (cards-qa.md)
 #676	HOUGEN0D.BIN:2	logo	桃太郎まつり 石川六右衛門の巻 (+ tiny subtitle)	title logo on blue panel
 #687	M010D.BIN:4	banner	パーフェクトで賞! / たたいたで賞! / ごほうびで賞! / 見きったで賞! / のこったで賞!	English; 5/5 complete cold-boot award captures, announcements-qa.md
 #692	M030D.BIN:1	other	どっち?	tiny hiragana by O K! labels; unsure

@@ -27,7 +27,7 @@ Every Japanese-bearing image found by five read-only reviewers over all 80 sheet
 | logo | 6 | title logo pieces + press-start prompt (CI0D:3), logo panels (YUGI0D:1, HOUGEN0D:2, FILESL0D:1), name tags (CHR0D:1) |
 | menu | 5 | character name plates (CHR0D:2), mode menu labels ゆうぎアルバム/段位詳細/おためし対戦!/ネームエントリー (NAME0D:0), status screen (STATUS0D:0), card-album UI (HOUGEN0D:0), mask album buttons (M250D:22) |
 | banner | 14 | minigame start/result banners (勝ち!/負け!/引き分け!, じゃんけん!ぽん!, で賞! awards, 大当たり, スタート), 天下一だじゃれ大会 festival banner (GV02000D:2, GV13000D:2), hill kanji (EVT090D:1/2) |
-| card | 100 | the 100 dialect cards HCARD00-90 (`NO.### <prefecture>` caption + hand-lettered dialect word + SFX) |
+| card | 100 | the 100 dialect cards HCARD00-90: all prefecture captions English, 100/100 complete cold captures (`cards-qa.md`); hand-lettered dialect words + SFX still Japanese |
 | credits | 3 | staff roll EVT600D:2-4 plus five copies each: English, 22/22 cold-shot items, scoped 4/4 visual gate; readings polish remains (`credits-qa.md`) |
 | sign | 57 | town tilesets (八百屋, 宿, 茶, 湯, ゆ?? boards, round plaques, 男湯/女湯 noren), sushi price board (M440D:0), flags; many tiny and unread |
 | font | 6 | FONT0D (main text), M990D 0/1, M230D:3, NAME0D:1 |

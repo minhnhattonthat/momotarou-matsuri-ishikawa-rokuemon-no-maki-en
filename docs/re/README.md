@@ -23,6 +23,7 @@ Addresses are for the dump in `rom.sha1` unless a note says otherwise.
 | [minigame-graphics-qa.md](minigame-graphics-qa.md) | ANM sprite rectangles, minigame banners/HUD redraws, Janken input route and scoped review | Janken cold-boot proof; other outcome graphics still need routes |
 | [credits-qa.md](credits-qa.md) | 101 credit lines, six atlas reloads, complete-item screenshot oracle and scoped verdicts | 22/22 cold-boot items, 4/4 visual gate; uncited name readings need polish |
 | [announcements-qa.md](announcements-qa.md) | Shared announcement redraws, checked ANM field edits, selector fixtures and screenshot gate | 16/16 announcement states, 5/5 M010 awards, 6/6 scoped visual gate; broader phase 8 open |
+| [cards-qa.md](cards-qa.md) | Card Album warp, input latch, all 100 prefecture captions and complete-card screenshot gate | 100/100 cold captures on both discs; 5/5 caption/menu visual gate; handwritten card art still Japanese |
 
 Tools: `tools/iso.py` (LBAs), `tools/arc.py` (archives), `tools/ecd.py` (ECD codec), `tools/tim.py` (TIM decode),
 `tools/gfxdump.py` (static image sweep into `work/gfx/`), `tools/ramfind.py` (which files sit where in a RAM dump),

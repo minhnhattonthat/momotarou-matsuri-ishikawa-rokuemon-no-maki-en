@@ -81,6 +81,15 @@ L.on_frame(function(n)
     if m == num(s[3]) and st.pressed == #presses and age >= 300 and n - (st.last_press or 0) >= 200 then
       arrive(n)
     end
+  elseif kind == "cards" then
+    -- Card Album is mode 0x4C. Set only the 100 collectible flags (not the
+    -- adjacent story bits); the game's normal loader and renderer do the rest.
+    if m == 0x4D and age == 0 then
+      for i = 0, 11 do mem[0xBD9F8 + i] = 255 end
+      mem[0xBDA04] = mem[0xBDA04] | 15
+      mem[MODE & 0x1FFFFF] = 0x4C
+    end
+    if m == 0x4C and age >= 600 then arrive(n) end
   elseif kind == "game" then
     if m == 0x50 and age >= 200 and age % 120 == 0 then L.press("circle", 6) end
     if st.prev == 0x50 and m ~= 0x50 then mem[MODE & 0x1FFFFF] = num(s[3]); L.log("mode -> " .. s[3]) end

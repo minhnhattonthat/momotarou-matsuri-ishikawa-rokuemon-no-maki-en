@@ -4,6 +4,20 @@ Updated at the end of every session. Keep it to what the next session needs; his
 
 - **Phase:** **8 in progress** (QA in the emulator), then 9 (release).
 - **Done (phase 8 so far, 2026-11-01):**
+  - Card Album checkpoint: title, seven region names and counters in HOUGEN0D:0 redrawn; all **100 prefecture
+    captions** in HCARD00D through HCARD90D redrawn within the actual 120x16 name-strip sprite. Card numbers,
+    illustrations, palettes and ANM records preserved. Handwritten dialect words/SFX and the fragmented red
+    new-card tag remain Japanese; no whole-card translation approval is claimed.
+  - New `card_album` scene (454 entries) enables only collectible bits 0-99 in RAM and enters mode 0x4C.
+    `tools/debug/cards.lua` visits all 100 pages through the real loader. CD loads can lose/retain a timed tap;
+    the probe retries unchanged pages and clears cached Right input once each target arrives. It fails on skips.
+    `cards_qa.py` matches each complete illustration and caption: **100/100 on both original and English**.
+  - Fresh read-only D10 review: **5/5 scoped sheets ok** (overview + 100 caption strips), under
+    `work/qa/cards8_review`. Final tours: `work/qa/cards8_captions3`, `work/qa/cards8_jp_all3`; runtime textlog
+    **0 Japanese lines** (excludes graphics). Commands, verified RAM addresses and limits: `docs/re/cards-qa.md`.
+  - Latest validation: **50 tests passed**, lint 0; verifier **363 changed files / 0 errors**; cold smoke
+    `work/qa/cards8_final_smoke` passed. Main disc: **182,543,424 bytes**, **2026-11-01 02:52:33 UTC**, SHA-1
+    **dcd7600ce28f778f642cd81b7908ae947d753591**. Phase 8 remains incomplete; do not advance to release.
   - Shared announcements checkpoint: M990D:1 redrawn (New Record, Level Up, Full Mastery, Game Start,
     Good Work, Pause, Draw, Finish). `gfx_layout.py` validates 26 specific u16 ANM edits to rejoin Start's
     fragments and centre level numbers; the disc verifier rejects every other ANM edit. M010 Perfect's
@@ -13,7 +27,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
     animation), **5/5** M010 awards. Fresh read-only review: **6/6 sheets ok** in `work/qa/announcements8_review`.
     M03/M14/M56/M59 fixture attempts stayed in dialogue and are **not approved**. Full reproduction and limits:
     `docs/re/announcements-qa.md`. The full graphics survey and phase-wide visual tour remain open.
-  - Latest validation: **48 tests passed**, lint 0; verifier **352 changed files / 0 errors**; final cold smoke
+  - Previous announcements validation: **48 tests passed**, lint 0; verifier **352 changed files / 0 errors**; final cold smoke
     `work/qa/announcements8_release_smoke` passed; announcement/natural/mastery textlogs 0 Japanese lines.
     Main disc: **182,564,592 bytes**, **2026-11-01 02:34:07 UTC**, SHA-1
     **c84d1a018c9649a1468efa45564c88475b4e4cb8**. Phase 8 has not met its done-when; do not advance to phase 9.
@@ -99,6 +113,9 @@ Updated at the end of every session. Keep it to what the next session needs; his
     156,128 bytes (game_m25/m70-72 minigames), so English growth (a few KB per file) is far from the limit.
     15 runs of that sweep died with emulator exit -1 while other emulators ran; all 15 passed on a rerun.
 - **Next (phase 8):**
+  - Cards: use the new cold-boot tour and `cards_qa.py` meaning-ID report to translate the handwritten dialect
+    text/SFX in all 100 illustrations; source-game glosses already supply the meanings. The 100 captions are
+    done, but their scoped gate is not a whole-card verdict. Locate/render the fragmented red new-card tag.
   - Finish runtime coverage of the new minigame redraws: M030 Perfect and M14/M56/M59 banners need the
     relevant outcome/versus states. M010 awards and M990D:1 announcements now have full-sprite cold proof;
     the pause fixture does not work while other games are in dialogue, so its exit code alone is not coverage.
@@ -107,8 +124,8 @@ Updated at the end of every session. Keep it to what the next session needs; his
   - Graphics text (D5: all of it; docs/re/gfx_survey.tsv, 200 rows): classify retained title logos under D5
     (CI0D:3/TITLE0D:3, YUGI0D:1, HOUGEN0D:2, FILESL0D:1); NAME0D:0 mode-menu shots,
     STATUS0D:0 higher rank shots, remaining M990D:0 HUD + result words, remaining banners
-    (GV02000D:2, GV13000D:2...), HOUGEN0D:0 card album, ending-art signs/emblems,
-    100 dialect cards HCARD*, signs. Per image: `gfx.py export`, find each sprite's rect (in-game the sprite rect
+    (GV02000D:2, GV13000D:2...), HOUGEN0D:0 new-card tag, ending-art signs/emblems,
+    handwritten art/SFX on 100 HCARD* cards, signs. Per image: `gfx.py export`, find each sprite's rect (in-game the sprite rect
     can be narrower than the JP atlas row: shoot it), add LABELS, `gen_gfx.py`, build `--out build/g8.bin`, shoot.
   - Saved-record QA: exercise all record categories with nonzero scores, not only the newly translated file
     selector. Use the new fixture and records probe; get actual mode-menu/rank-detail/name-entry coverage.

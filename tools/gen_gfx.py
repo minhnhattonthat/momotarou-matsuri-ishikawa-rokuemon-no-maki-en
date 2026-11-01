@@ -29,8 +29,21 @@ import tim  # noqa: E402
 FONT = ROOT / 'fonts' / 'ofl' / 'Fredoka.ttf'
 CLEAR = (0, 0, 0, 0)
 HUD = {'pixel': True, 'outline': 0, 'fill': (248, 248, 248, 255)}
+PANEL = {'bg': 'fill', 'outline': 0, 'align': 'left', 'size': 14, 'fill': (8, 8, 8, 255)}
 
 LABELS = {
+    'HOUGEN0D.BIN:0': [
+        (0, 56, 160, 80, 'Card Album', {}),
+        (160, 56, 184, 80, ' ', {}),
+        (6, 109, 90, 126, 'Hokkaido', PANEL),
+        (6, 129, 90, 146, 'Tohoku', PANEL),
+        (6, 149, 90, 166, 'Kanto', PANEL),
+        (6, 169, 90, 186, 'Chubu', PANEL),
+        (6, 189, 90, 206, 'Kinki', PANEL),
+        (6, 209, 90, 226, 'Chugoku-Shikoku', {**PANEL, 'pixel': 'credits7.txt'}),
+        (6, 229, 90, 246, 'Kyushu-Okinawa', {**PANEL, 'pixel': 'credits7.txt'}),
+        *[(149, y, 166, y + 17, ' ', {'bg': 'fill', 'outline': 0}) for y in range(109, 230, 20)],
+    ],
     # Keep the rank announcements' shared exclamation at (200,40,16,40).
     # M990D:3 item 11 reads the complete 216px row; items 1-10 reuse its last 16px.
     'M990D.BIN:1': [
@@ -133,6 +146,26 @@ LABELS = {
     ],
 }
 
+# Cards 25-27 (Tokyo), 54-56 (Osaka), 59-61 (Nara), 62-64 (Wakayama),
+# 75-77 (Tokushima), and 80-82 (Ehime) have three entries; the other prefectures two.
+# The name strip is a separate 120x16 sprite. Leave NO.### and the illustration intact.
+PREFECTURES = [
+    ('Hokkaido', 2), ('Aomori', 2), ('Iwate', 2), ('Miyagi', 2), ('Akita', 2),
+    ('Yamagata', 2), ('Fukushima', 2), ('Ibaraki', 2), ('Tochigi', 2), ('Gunma', 2),
+    ('Saitama', 2), ('Chiba', 2), ('Tokyo', 3), ('Kanagawa', 2), ('Niigata', 2),
+    ('Toyama', 2), ('Ishikawa', 2), ('Fukui', 2), ('Yamanashi', 2), ('Nagano', 2),
+    ('Gifu', 2), ('Shizuoka', 2), ('Aichi', 2), ('Mie', 2), ('Shiga', 2),
+    ('Kyoto', 2), ('Osaka', 3), ('Hyogo', 2), ('Nara', 3), ('Wakayama', 3),
+    ('Tottori', 2), ('Shimane', 2), ('Okayama', 2), ('Hiroshima', 2), ('Yamaguchi', 2),
+    ('Tokushima', 3), ('Kagawa', 2), ('Ehime', 3), ('Kochi', 2), ('Fukuoka', 2),
+    ('Saga', 2), ('Nagasaki', 2), ('Kumamoto', 2), ('Oita', 2), ('Miyazaki', 2),
+    ('Kagoshima', 2), ('Okinawa', 2),
+]
+for _i, _name in enumerate(name for name, count in PREFECTURES for _ in range(count)):
+    LABELS[f'HCARD{_i // 10}0D.BIN:{_i % 10}'] = [
+        (48, 128, 120, 144, _name, {'bg': 'fill', 'outline': 0, 'size': 14, 'fill': (8, 8, 8, 255)}),
+    ]
+
 # (source x, source y, width, height, assembled x, assembled y).
 # Good Work's last two kana are a separate sprite. Pause is split into top/bottom
 # halves stored side-by-side. Letter the assembled image, then scatter it back.
@@ -156,8 +189,9 @@ def font(size, o):
 
 def mask(text, size, o):
     if o.get('pixel'):
-        glyphs = engine.glyphs(ROOT / 'fonts' / 'hud7.txt')
-        rows = [glyphs[c] for c in text.upper()]
+        filename = o['pixel'] if isinstance(o['pixel'], str) else 'hud7.txt'
+        glyphs = engine.glyphs(ROOT / 'fonts' / filename)
+        rows = [glyphs[c] if c != ' ' else ['..'] * 7 for c in text.upper()]
         widths = [max(map(len, g)) for g in rows]
         m = Image.new('L', (sum(widths) + len(rows) + 1, 9))
         x = 1

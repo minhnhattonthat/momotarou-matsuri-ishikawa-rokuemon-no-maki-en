@@ -42,6 +42,11 @@ warp uses VM+4 instead).
 - **Album enable flag**: EXE 0x800435F4 scans 70 records at **0x800BDBF0**, stride **0x1C**, for a nonzero first
   word. `tools/debug/records.lua --var RECORDS=true` marks only record 0 as played, in RAM. This enables album
   access for QA but does not manufacture a real score/rank or modify the original memory card.
+- **Card Album**: `SCENE='card_album'` enables collectible bits 0-99 at **0x800BD9F8** and enters mode
+  **0x4C** from the first intro-mode frame. Pair with `tools/debug/cards.lua`, `HOLD=-1` for all 100 pages.
+  The probe verifies display index **0x800E2324** and state **0x800E232C**, and latches the cached Right input
+  off after each page change to prevent CD-load skips. `tools/debug/cards_qa.py RUN --out DIR` requires every
+  full illustration and caption to match its own TIM. Details and the original reference: `cards-qa.md`.
 
 ## Arrival points that hang
 Warping to some maps at their commonest arrival point hangs the emulator a few frames after the map's entry
