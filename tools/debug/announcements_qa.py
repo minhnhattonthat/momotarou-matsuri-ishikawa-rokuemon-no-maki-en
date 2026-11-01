@@ -21,7 +21,10 @@ import arc  # noqa: E402
 import gfx  # noqa: E402
 
 
-def match(screen, template):
+def match(screen, template, region=None):
+    x0, y0, width, height = region or (0, 0, screen.width, screen.height)
+    if min(x0, y0) < 0 or min(width, height) <= 0 or x0 + width > screen.width or y0 + height > screen.height:
+        raise ValueError('search region is outside the screenshot')
     pixels = [(x, y, c[:3]) for y in range(template.height) for x in range(template.width)
               if (c := template.getpixel((x, y)))[3]]
     if not pixels:
@@ -43,8 +46,8 @@ def match(screen, template):
     def close(x, y, colour):
         return max(abs(a - b) for a, b in zip(px[x, y][:3], colour)) <= 8
 
-    for dy in range(screen.height - template.height + 1):
-        for dx in range(screen.width - template.width + 1):
+    for dy in range(y0, y0 + height - template.height + 1):
+        for dx in range(x0, x0 + width - template.width + 1):
             if all(close(dx + x, dy + y, c) for x, y, c in probes):
                 if all(close(dx + x, dy + y, c) for x, y, c in pixels):
                     if not edges or sum(not close(dx + x, dy + y, c)
@@ -64,7 +67,11 @@ def main():
     ap.add_argument('--textures', help='comma-separated loaded TIM entries when an archive reuses VRAM pages')
     ap.add_argument('--scan', action='store_true', help='search numbered frames from a natural result route')
     ap.add_argument('--glob', default='f[0-9]*.png', help='screenshot pattern for --scan')
+    ap.add_argument('--region', help='x,y,width,height search region for tiny glyphs such as punctuation')
     args = ap.parse_args()
+    region = tuple(map(int, args.region.split(','))) if args.region else None
+    if region and len(region) != 4:
+        ap.error('--region requires x,y,width,height')
     wanted = [int(i) for i in args.items.split(',')]
     original = (gfx.TREE / args.file).read_bytes()
     archive = arc.entries(original if args.original else gfx.apply(args.file, original))
@@ -89,7 +96,7 @@ def main():
         for path in paths:
             if path.exists() and template.exists():
                 with Image.open(path) as screen, Image.open(template) as expected:
-                    position = match(screen.convert('RGB'), expected.convert('RGBA'))
+                    position = match(screen.convert('RGB'), expected.convert('RGBA'), region)
                 if position is not None:
                     matched = str(path)
                     break

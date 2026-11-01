@@ -20,3 +20,14 @@ def test_coverage_requires_every_glyph_and_outline_pixel():
     assert announcements_qa.match(screen, template) == (5, 9)
     screen.putpixel((8, 13), (8, 8, 8))  # one covered letter pixel invalidates coverage
     assert announcements_qa.match(screen, template) is None
+
+
+def test_tiny_glyph_search_cannot_match_unrelated_panel_pixels():
+    screen = Image.new('RGB', (40, 30))
+    template = Image.new('RGBA', (1, 8))
+    template.putpixel((0, 6), (248, 248, 248, 255))
+    screen.putpixel((3, 9), (248, 248, 248))  # unrelated UI corner
+    assert announcements_qa.match(screen, template) == (3, 3)
+    assert announcements_qa.match(screen, template, (20, 12, 16, 16)) is None
+    screen.putpixel((25, 22), (248, 248, 248))
+    assert announcements_qa.match(screen, template, (20, 12, 16, 16)) == (25, 16)

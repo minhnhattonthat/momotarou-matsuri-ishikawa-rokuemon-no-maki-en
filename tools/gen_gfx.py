@@ -29,6 +29,7 @@ import engine  # noqa: E402
 import gfx  # noqa: E402
 import tim  # noqa: E402
 import gfx_results  # noqa: E402
+import gfx_racers  # noqa: E402
 
 FONT = ROOT / 'fonts' / 'ofl' / 'Fredoka.ttf'
 CLEAR = (0, 0, 0, 0)
@@ -39,6 +40,26 @@ MASK_BUTTON = {'bg': 'fill', 'outline': 0, 'size': 17, 'fill': (248, 248, 248, 2
 MASK_DIM = {**MASK_BUTTON, 'fill': (128, 128, 128, 255)}
 
 LABELS = {
+    'M050D.BIN:2': [(0, 136, 64, 152, 'Jackpot!', {})],
+    'M060D.BIN:2': [
+        # Level 1 uses a whole 56px strip; levels 2/3 reuse only its first
+        # 40px and append another number. Keep all three number cells intact.
+        (170, 4, 208, 19, 'Level', {**PANEL, 'pixel': 'credits7.txt', 'align': 'center'}),
+        (170, 28, 220, 43, 'Heave!', {**PANEL, 'pixel': 'credits7.txt', 'align': 'center'}),
+        (170, 52, 220, 67, 'Ho!', {**PANEL, 'pixel': 'credits7.txt', 'align': 'center'}),
+        (170, 76, 220, 91, 'Not yet!', {**PANEL, 'pixel': 'credits7.txt', 'align': 'center'}),
+        (170, 100, 220, 115, 'Go for it!', {**PANEL, 'pixel': 'credits7.txt', 'align': 'center'}),
+    ],
+    'M080D.BIN:6': [(48, 32, 144, 56, 'One away!', {})],
+    'M180D.BIN:3': [(128, 16, 160, 32, 'Miss', HUD)],
+    'M230D.BIN:0': [
+        # Reletter the sign interior while preserving its coloured frame.
+        (3, 211, 53, 220, 'Rabbit', {**HUD_CONDENSED, 'bg': 'fill'}),
+        (3, 220, 53, 229, 'Turtle', {**HUD_CONDENSED, 'bg': 'fill'}),
+        (3, 229, 53, 237, 'Race', {**HUD_CONDENSED, 'bg': 'fill'}),
+    ],
+    'M230D.BIN:3': [],  # gfx_racers draws names into unused pixels below the font.
+    'M500D.BIN:0': [(128, 128, 192, 144, 'Start', {})],
     'M250D.BIN:21': [(0, 32, 136, 56, 'Mask Album', {})],
     'M250D.BIN:22': [
         # Clear lettering only; preserve the beveled button edges and both states.
@@ -88,6 +109,7 @@ LABELS = {
         (96, 16, 136, 32, 'Stage', HUD),
         (176, 16, 192, 32, 'ryo', HUD),
         (88, 32, 152, 48, 'Bonus', HUD),
+        (192, 144, 208, 160, 'Race', HUD_CONDENSED),
         (208, 144, 240, 160, 'Weather', HUD_CONDENSED),
         (192, 160, 224, 176, 'Forecast', HUD_CONDENSED),
         (0, 176, 32, 192, 'Entry', HUD),
@@ -344,6 +366,8 @@ def generate(keys=None):
                 im.paste(assembled.crop((x, y, x + w, y + h)), (u, v))
         if key == 'M990D.BIN:0':
             gfx_results.draw(im, pal)
+        if key == 'M230D.BIN:3':
+            gfx_racers.draw(im, pal)
         for k in same[t]:
             name, _, e = k.partition(':')
             out = gfx.EN / f'{Path(name).stem}_{e}.png'

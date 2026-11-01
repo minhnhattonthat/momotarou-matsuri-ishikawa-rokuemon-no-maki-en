@@ -5,12 +5,14 @@ and centre GAME START. Centre the level number and ! after removing the Japanese
 level suffix. gfx_results also repacks the 40 winner/ordinal layouts into English
 word order. All counts, table offsets, palettes, scales and other items remain.
 M590D:9 relocates Lose! instead of retaining a Japanese fragment shared with actor art.
+M230D:20/21 use whole English race labels/names in previously unused font pixels.
 """
 import hashlib
 import struct
 from pathlib import Path
 
 import gfx_results
+import gfx_racers
 
 
 TARGET = ('M990D.BIN', 3)
@@ -34,6 +36,10 @@ for level in range(1, 10):
 
 def patch(name, entry, data):
     """Return exact permitted replacement bytes, or None for an unrelated entry."""
+    if (Path(name).name, entry) == ('M230D.BIN', 21):
+        return gfx_racers.patch(data)
+    if (Path(name).name, entry) == ('M230D.BIN', 20):
+        return gfx_racers.patch_units(data)
     if (Path(name).name, entry) == ('M590D.BIN', 9):
         if hashlib.sha1(data).hexdigest() != 'dffaf96bb9ef64da697e51f35b7dbdc80c8adc34':
             raise ValueError('unexpected original M590D result ANM')

@@ -177,19 +177,19 @@ id	source	kind	japanese	note
 #687	M010D.BIN:4	banner	パーフェクトで賞! / たたいたで賞! / ごほうびで賞! / 見きったで賞! / のこったで賞!	English; 5/5 complete cold-boot award captures, announcements-qa.md
 #692	M030D.BIN:1	other	どっち?	Which? translated; cold sprite fixture proof, natural prompt coverage still open; hud-outcomes-qa.md
 #694	M030D.BIN:3	banner	パーフェクトで賞!	Perfect! translated; cold complete-sprite fixture proof; hud-outcomes-qa.md
-#703	M050D.BIN:2	banner	大当たり	small tag under target sprites
-#706	M060D.BIN:2	other	れべる? 1 2 3 / よいしょ! / ほい! / まだまだ! / がんばれ!	speech bubbles
-#717	M080D.BIN:6	other	リーチ!?	speech bubble; unsure
+#703	M050D.BIN:2	banner	大当たり	Jackpot!; complete cold fixture match; natural outcome remains; minigame-labels-qa.md
+#706	M060D.BIN:2	other	れべる 1 2 3 / よいしょ! / ほい! / まだまだ! / がんばれ!	Level 1-3 / Heave! / Ho! / Not yet! / Go for it!; seven cold paused-sprite checks; minigame-labels-qa.md
+#717	M080D.BIN:6	other	リーチ!	One away!; cold Game Start substitution match; natural near-win remains; minigame-labels-qa.md
 #725	M110D.BIN:0	banner	じゃんけん!ぽん! / 勝ち! 負け! 引き分け!	janken banners
 #744	M140D.BIN:0	banner	勝ち! / 負け! / 連続	Win/Lose/Streak English; three cold sprite checks, outlined Streak; natural outcomes and wall scroll remain; hud-outcomes-qa.md
 #761	M170D.BIN:20	sign	一番	vertical flag held by hero in bath scene
-#768	M180D.BIN:3	hud	スカ ? (next to digits "+-5678910")	unsure, tiny, may be glyph fragment
-#783	M230D.BIN:0@f0	banner	?レース (framed katakana box, lower-left, roughly "アクア/レース")	unsure reading; also 1P 2P 3P 4P in Latin
-#786	M230D.BIN:3@5360	font	hiragana+katakana+ASCII A-Z/0-9 + symbols	small ~8px, kana+ASCII only, no kanji
+#768	M180D.BIN:3	hud	スカ (next to digits "+-5678910")	Miss; cold complete-sprite match; natural miss remains; minigame-labels-qa.md
+#783	M230D.BIN:0@f0	banner	ウサカメレース	Rabbit-Turtle Race sign; cold natural menu match, border preserved; minigame-labels-qa.md
+#786	M230D.BIN:3@5360	font	kana+ASCII font; 30 runner names; 位 / コース / じかん / 当リ / 両	ANM 21 names and ANM 20 labels translated in unused font space; original unused glyphs preserved; minigame-labels-qa.md
 #796	M250D.BIN:21	logo	お面アルバム	English Mask Album; complete cold title match, masks-qa.md
 #797	M250D.BIN:22	menu	できあがり / つくりなおし / L1ボタン / R1ボタン	English Done/Redo/L1/R1, bright+dim atlas; 6/6 displayed controls cold match, masks-qa.md
 #870	M440D.BIN:0	sign	price board: 大トロ 四〇〇, うに ?〇〇, 三〇〇, ?, えび, 二〇〇, 一〇〇	in-scene wooden sign; partly repeated in #871 left edge
-#877	M500D.BIN:0	banner	スタート	small orange text with Momotarou sprite
+#877	M500D.BIN:0	banner	スタート	Start; cold actor-substitution match; natural cue remains; minigame-labels-qa.md
 #888	M560D.BIN:1	banner	勝ち! 負け! 引き分け!	Three English outcome sprites cold-rendered; actor substitution fixture only; hud-outcomes-qa.md
 #890	M590D.BIN:0	banner	引き分け! 勝ち! 負け!	Three English story banners cold-rendered; Lose tail fixed without touching actor pixels; hud-outcomes-qa.md
 #896	M590D.BIN:6	banner	勝ち! 負け! 引き分け!	same banners plus cloud sprites

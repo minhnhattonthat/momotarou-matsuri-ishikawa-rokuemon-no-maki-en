@@ -5,7 +5,8 @@
 -- This proves assembly through the game renderer, NOT natural outcome logic or
 -- placement. Require announcements_qa.py pixel coverage and a visual review.
 local cfg = assert(SPRITE_FIXTURE, 'set SPRITE_FIXTURE')
-assert(cfg.target ~= cfg.source, 'target must differ from source')
+-- target may equal source: offsets are cached before any pointer changes.
+-- This cycles complete names in the real race list without changing positions.
 local mem = PCSX.getMemPtr()
 local function r16(a) a = a & 0x1FFFFF; return mem[a] + mem[a + 1] * 256 end
 local function r32(a) return r16(a) + r16(a + 2) * 65536 end

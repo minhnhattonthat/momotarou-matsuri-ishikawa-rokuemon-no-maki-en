@@ -222,3 +222,42 @@ Shared names reuse `../momotarou-densetsu-en/glossary.md` (same series, same own
 
 ## Decisions from earlier batches
 - (none yet)
+
+## Rabbit-Turtle Race runners
+
+These are full Hepburn names without macrons (D2), transcribed from all 30 kana-sprite
+names in M230D ANM 21. The authoritative item-to-name mapping is `gfx/racers.tsv`;
+the generator checks its Japanese against the original sprite glyphs.
+
+| Japanese | English |
+|---|---|
+| ウサノオウ | Usano O |
+| ウサバクシン | Usabakushin |
+| ウサツキ | Usatsuki |
+| ウサンクサイ | Usankusai |
+| ウサバット | Usabatto |
+| メンドウサイ | Mendosai |
+| ウサノケンジ | Usano Kenji |
+| ハイウサ | Haiusa |
+| ウサノダイチ | Usano Daichi |
+| ウサバラシ | Usabarashi |
+| ウサバショウ | Usabasho |
+| ソウサ | Sosa |
+| ウサニシキ | Usanishiki |
+| ウサオリ | Usaori |
+| ウサメグ | Usamegu |
+| カメノナリタ | Kamenonarita |
+| カメイナズマ | Kameinazuma |
+| カメジロ | Kamejiro |
+| マサカメ | Masakame |
+| カメタカ | Kametaka |
+| カメルーン | Kamerun |
+| カメテイザン | Kameteizan |
+| カメフック | Kamefukku |
+| モウイイカメ | Mo Ii Kame |
+| ウメノカメ | Umeno Kame |
+| カメケンザン | Kamekenzan |
+| ヨークカメ | Yoku Kame |
+| カメノスガタ | Kamenosugata |
+| ユックリカメ | Yukkuri Kame |
+| カメザキ | Kamezaki |

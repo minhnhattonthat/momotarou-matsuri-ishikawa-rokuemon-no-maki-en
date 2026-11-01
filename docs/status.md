@@ -4,6 +4,19 @@ Updated at the end of every session. Keep it to what the next session needs; his
 
 - **Phase:** **8 in progress** (QA in the emulator), then 9 (release).
 - **Done (phase 8 so far, 2026-11-01):**
+  - Minigame label/race checkpoint: Jackpot!, Level 1-3 and four speech bubbles, One away!, Miss,
+    Rabbit-Turtle Race, Start and the shared Race suffix translated. M230D's sprite-built text is now English:
+    all **30 runner names** use full glossary romanizations; rank dot, Lane, Time, Hit and ryo replace five
+    kana units. These ANM glyph strings were invisible to the text logger. Original glyph atlas stays intact.
+  - Cold original and English fixtures each cover **48/48 complete states** (18 labels + 30 names);
+    fresh read-only review accepts **10/10 scoped sheets**. Natural controller-only race covers betting,
+    racing, standings, zero payout and Good Work. Review caught seven names with unordered glyph records:
+    anchor by minimum x, cap width at 50, preserve the Lane separator. The tiny-dot oracle now has a bounded
+    search to reject panel-corner false matches. Details/reproduction: `docs/re/minigame-labels-qa.md`.
+  - Latest validation: **64 tests passed**, lint 0; verifier **363 changed files / 0 errors**; cold smoke
+    `work/qa/labels8_final4_smoke` passed; nine fixture logs and one natural-race log have 0 Japanese lines.
+    Main disc: **182,496,384 bytes**, **2026-11-01 05:21:18 UTC**, SHA-1
+    **4ca27d7a3651f537adcaf74d27d913cc7d7dd992**. **Phase 8 remains incomplete; do not advance to release.**
   - Shared HUD/outcome checkpoint: Weather, Forecast, Race Result, Entry, Slow and M03 Which? translated.
     Cold checks cover **13 shared HUD states + 11 outcome/prompt states**, with **6/6 scoped visual sheets ok**.
     M14 Streak now has a readable outlined pixel font. Fixed M59's `Loseけ!` by relocating the complete
@@ -13,7 +26,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
     **not natural outcomes or positioning**. M59's alternate TIM 6 / ANM 16 and the natural Which? route remain open.
     The screenshot gate now rejects solid-panel false matches, and the ANM renderer rejects ambiguous
     reused VRAM pages. Reproduction, original comparisons and verdict hashes: `docs/re/hud-outcomes-qa.md`.
-  - Latest validation: **60 tests passed**, lint 0; verifier **363 changed files / 0 errors**; cold smoke
+  - Previous HUD validation: **60 tests passed**, lint 0; verifier **363 changed files / 0 errors**; cold smoke
     `work/qa/outcomes8_final_smoke` passed; eight targeted textlogs contain 0 Japanese lines (graphics excluded).
     Main disc: **182,491,680 bytes**, **2026-11-01 04:37:10 UTC**, SHA-1
     **86480010b723c6376450b9181d30cd6b85c544ae**. **Phase 8 remains incomplete; do not advance to release.**
@@ -163,6 +176,10 @@ Updated at the end of every session. Keep it to what the next session needs; his
     156,128 bytes (game_m25/m70-72 minigames), so English growth (a few KB per file) is far from the limit.
     15 runs of that sweep died with emulator exit -1 while other emulators ran; all 15 passed on a rerun.
 - **Next (phase 8):**
+  - Minigame labels: M05/M08/M18/M50 have complete sprite-assembly proof, but natural Jackpot, near-win,
+    Miss and Start positioning still needs routes. Race Hit/nonzero payout remain fixture-only; the normal
+    story return remains untested (both original and English direct warps return to the debug system menu).
+    `tools/debug/minigame_labels.py` reproduces all 48 states; `race.lua` advances the natural race screens.
   - Cards: all 100 prefecture captions and marginal dialect phrases are English. Use the cold-boot tour and
     `cards_qa.py` meaning-ID report for the remaining black illustration SFX, signs and clothing emblems;
     the scoped phrase gate is not a whole-card verdict. Locate/render the fragmented red new-card tag.
