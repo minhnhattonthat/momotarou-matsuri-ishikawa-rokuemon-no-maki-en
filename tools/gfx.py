@@ -8,6 +8,7 @@ A redraw is gfx/en/<FILE>_<ENTRY>[_p<N>].png: the whole image, same size, drawn 
 their original index (palettes repeat colours), changed ones take the first index of that exact colour, any
 other colour is an error. Only the pixel block changes; header and CLUT stay, and the entry is recompressed
 (ECD) if it was compressed.
+gfx_layout.py also applies explicitly checked ANM field edits where English needs different sprite assembly.
 """
 import re
 import struct
@@ -19,6 +20,7 @@ sys.path.insert(0, str(ROOT / 'tools'))
 import arc  # noqa: E402
 import ecd  # noqa: E402
 import tim  # noqa: E402
+import gfx_layout  # noqa: E402
 
 TREE = ROOT / 'work' / 'disc' / 'tree' / 'OUTBIN'
 EN = ROOT / 'gfx' / 'en'
@@ -102,6 +104,10 @@ def apply(name, data):
         t, packed = unpack(ents[i])
         n = redraw(t, png, pal)
         ents[i] = ecd.compress(n, ecd.header(ents[i])[0]) if packed else n
+    for i, entry in enumerate(ents):
+        replacement = gfx_layout.patch(name, i, entry)
+        if replacement is not None:
+            ents[i] = replacement
     return arc.pack(ents, hs)
 
 

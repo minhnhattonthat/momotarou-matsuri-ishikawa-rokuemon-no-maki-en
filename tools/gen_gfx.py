@@ -11,6 +11,7 @@ opts: size (px, default fits the rect), wdth 75-125, wght 300-700, outline 0/1, 
 align 'left' (menu labels; default centred). bg='neutral' removes grey lettering by borrowing the nearest
 coloured pixel on the same row, preserving coloured rank-plate artwork; edge overrides the outline colour.
 pixel=True uses the native 7-pixel capitals in fonts/hud7.txt instead of the rounded font (small HUD words).
+COMPOSITES letters disjoint fragments in assembled screen space before scattering pixels back to the atlas.
 """
 import sys
 from collections import Counter
@@ -30,6 +31,21 @@ CLEAR = (0, 0, 0, 0)
 HUD = {'pixel': True, 'outline': 0, 'fill': (248, 248, 248, 255)}
 
 LABELS = {
+    # Keep the rank announcements' shared exclamation at (200,40,16,40).
+    # M990D:3 item 11 reads the complete 216px row; items 1-10 reuse its last 16px.
+    'M990D.BIN:1': [
+        (0, 40, 200, 80, 'New Record', {}),
+        (0, 80, 192, 128, 'Level Up', {}),
+        (216, 40, 256, 80, '1', {}),
+        # The header already says Level; leave just the number and its shared ! below.
+        (216, 80, 256, 120, ' ', {}),
+        (0, 128, 160, 168, 'Full Mastery', {'wdth': 75}),
+        (0, 168, 120, 200, 'Finish!', {}),
+        (0, 200, 128, 232, 'Draw!', {}),
+        # gfx_layout.py rejoins START and removes the Japanese borrowed dash.
+        (160, 128, 248, 160, 'Game', {}),
+        (128, 200, 216, 232, 'Start', {}),
+    ],
     # M990D ANM entry 2 references these as whole words (tools/anm.py), not shared characters.
     # Keep the original word rectangles so the HUD's fixed number positions remain valid.
     'M990D.BIN:0': [
@@ -70,7 +86,8 @@ LABELS = {
         (184, 192, 216, 208, 'Streak', {'size': 11, 'wdth': 75, 'outline': 0}),
     ],
     'M010D.BIN:4': [
-        (0, 0, 152, 32, 'Perfect!', {}),
+        # Item 4 adds the separately stored ! at (120,64,24,32).
+        (0, 0, 152, 32, 'Perfect', {}),
         (0, 32, 152, 64, 'Hit Award!', {}),
         (0, 64, 120, 96, 'Bonus Award', {}),
         (120, 64, 144, 96, '!', {}),
@@ -113,6 +130,16 @@ LABELS = {
                                               'edge': (248, 248, 248, 255)}),
         (114, 178, 223, 203, 'Momotaro Hermit', {'bg': 'neutral', 'wdth': 75, 'fill': (8, 8, 8, 255),
                                               'edge': (248, 248, 248, 255)}),
+    ],
+}
+
+# (source x, source y, width, height, assembled x, assembled y).
+# Good Work's last two kana are a separate sprite. Pause is split into top/bottom
+# halves stored side-by-side. Letter the assembled image, then scatter it back.
+COMPOSITES = {
+    'M990D.BIN:1': [
+        ('Good Work', [(120, 168, 136, 32, 0, 0), (216, 200, 32, 32, 136, 0)]),
+        ('Pause', [(0, 232, 96, 16, 0, 0), (96, 232, 96, 16, 0, 16)]),
     ],
 }
 
@@ -237,6 +264,15 @@ def generate():
         im.putdata([c if c[3] else CLEAR for c in im.getdata()])
         for x0, y0, x1, y1, text, o in labels:
             draw(im, x0, y0, x1, y1, text, o, pal)
+        for text, pieces in COMPOSITES.get(key, []):
+            width = max(x + w for _, _, w, _, x, _ in pieces)
+            height = max(y + h for _, _, _, h, _, y in pieces)
+            assembled = Image.new('RGBA', (width, height))
+            for u, v, w, h, x, y in pieces:
+                assembled.paste(im.crop((u, v, u + w, v + h)), (x, y))
+            draw(assembled, 0, 0, width, height, text, {}, pal)
+            for u, v, w, h, x, y in pieces:
+                im.paste(assembled.crop((x, y, x + w, y + h)), (u, v))
         for k in same[t]:
             name, _, e = k.partition(':')
             out = gfx.EN / f'{Path(name).stem}_{e}.png'

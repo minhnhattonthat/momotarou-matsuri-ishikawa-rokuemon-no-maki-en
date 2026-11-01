@@ -37,6 +37,9 @@ def test_roundtrip_and_one_pixel(tmp_path):
 
 def test_redraws_change_only_declared_label_rectangles():
     for key, labels in gen_gfx.LABELS.items():
+        rects = [(x0, y0, x1, y1) for x0, y0, x1, y1, _, _ in labels]
+        rects += [(u, v, u + w, v + h) for _, pieces in gen_gfx.COMPOSITES.get(key, [])
+                  for u, v, w, h, _, _ in pieces]
         name, entry = key.split(':')
         t, _ = gen_gfx.original(key)
         png = gfx.EN / f'{Path(name).stem}_{entry}.png'
@@ -46,4 +49,4 @@ def test_redraws_change_only_declared_label_rectangles():
         assert changed, key
         for i in changed:
             x, y = i % width, i // width
-            assert any(x0 <= x < x1 and y0 <= y < y1 for x0, y0, x1, y1, _, _ in labels), (key, x, y)
+            assert any(x0 <= x < x1 and y0 <= y < y1 for x0, y0, x1, y1 in rects), (key, x, y)

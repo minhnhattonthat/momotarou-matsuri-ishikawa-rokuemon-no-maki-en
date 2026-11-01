@@ -48,7 +48,7 @@ def references(archive, page, rect):
                     yield entry, frame, r
 
 
-def render(archive, entries, out):
+def render(archive, entries, out, strict=False):
     from PIL import Image
     pages = {}
     for _, entry in archive:
@@ -73,6 +73,8 @@ def render(archive, entries, out):
             if flags or sx != 4096 or sy != 4096:
                 raise ValueError(f'item {i}: unsupported flags/scale {r}')
             if (page, cx, cy) not in pages:
+                if strict:
+                    raise ValueError(f'item {i}: external palette/page {(page, cx, cy)}')
                 print(f'skip item {i}: external palette/page {(page, cx, cy)}')
                 break
             source = pages[(page, cx, cy)]

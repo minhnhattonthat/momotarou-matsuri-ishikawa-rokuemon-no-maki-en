@@ -7,7 +7,7 @@ Per disc file (read straight from both images through the ISO9660 records):
   - changed files equal what insert.files() made (the EXE apart from its LBA/size tables, which follow the layout);
   - code files (EXE, OVL*): romdiff against the original, allowed = string slots (+ refs in layout.RELOC files),
     engine hook sites + hook area, money sites, the EXE LBA/size tables;
-  - archives: redrawn images (gfx/en) differ only in their pixel block;
+  - archives: redrawn images (gfx/en) differ only in their pixel block; ANM edits match gfx_layout exactly;
   - script archives: same entry count, non-script entries identical, and every script entry rebuilt with its
     original Japanese gives the original bytes (only text changed; jumps consistent);
   - FONT0D: only the English glyph page entry changed;
@@ -24,6 +24,7 @@ import build  # noqa: E402
 import codestr  # noqa: E402
 import engine  # noqa: E402
 import gfx  # noqa: E402
+import gfx_layout  # noqa: E402
 import insert  # noqa: E402
 import iso  # noqa: E402
 import layout  # noqa: E402
@@ -76,9 +77,13 @@ def check_archive(name, orig, new):
     for i, ((_, a), (_, b)) in enumerate(zip(oe, ne)):
         # arc.pack pads entries to 16 bytes: compare without trailing zeros
         if i not in scripts:
+            expected_layout = gfx_layout.patch(name, i, a)
             if i in redrawn:
                 if not gfx.same_but_pixels(a, b):
                     errs.append(f'{name}/{i}: redrawn image changed outside its pixel block')
+            elif expected_layout is not None:
+                if b.rstrip(b'\0') != expected_layout.rstrip(b'\0'):
+                    errs.append(f'{name}/{i}: differs from checked English sprite layout')
             elif a.rstrip(b'\0') != b.rstrip(b'\0'):
                 errs.append(f'{name}/{i}: non-script entry changed')
             continue

@@ -4,6 +4,10 @@ Phase 8 is **incomplete**. This checkpoint translates eight atlases and verifies
 and its Score/Record HUD in a cold boot. It does not certify the other outcome graphics, the full tour, or
 the 200-row graphics survey; do not advance to release on its scoped manifest.
 
+Later checkpoint: [announcements-qa.md](announcements-qa.md) completes all M990D:1 announcement states and
+M010D:4 award display checks, fixes Perfect's duplicate punctuation, and adds a strict screenshot gate.
+M030/M14/M56/M59 still need successful outcome routes; the older remaining-work list below is historical.
+
 ## Changes and constraints
 
 | Atlas | Redraw | Runtime review |

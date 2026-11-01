@@ -4,6 +4,19 @@ Updated at the end of every session. Keep it to what the next session needs; his
 
 - **Phase:** **8 in progress** (QA in the emulator), then 9 (release).
 - **Done (phase 8 so far, 2026-11-01):**
+  - Shared announcements checkpoint: M990D:1 redrawn (New Record, Level Up, Full Mastery, Game Start,
+    Good Work, Pause, Draw, Finish). `gfx_layout.py` validates 26 specific u16 ANM edits to rejoin Start's
+    fragments and centre level numbers; the disc verifier rejects every other ANM edit. M010 Perfect's
+    duplicate exclamation fixed after comparison with the original. No new engine code or palette changes.
+  - `tools/debug/announcements.lua` selects real loaded ANM items in RAM after a cold boot. Screenshot gate
+    `announcements_qa.py`: **16/16** shared announcement states (15 paused + Full Mastery through the result
+    animation), **5/5** M010 awards. Fresh read-only review: **6/6 sheets ok** in `work/qa/announcements8_review`.
+    M03/M14/M56/M59 fixture attempts stayed in dialogue and are **not approved**. Full reproduction and limits:
+    `docs/re/announcements-qa.md`. The full graphics survey and phase-wide visual tour remain open.
+  - Latest validation: **48 tests passed**, lint 0; verifier **352 changed files / 0 errors**; final cold smoke
+    `work/qa/announcements8_release_smoke` passed; announcement/natural/mastery textlogs 0 Japanese lines.
+    Main disc: **182,564,592 bytes**, **2026-11-01 02:34:07 UTC**, SHA-1
+    **c84d1a018c9649a1468efa45564c88475b4e4cb8**. Phase 8 has not met its done-when; do not advance to phase 9.
   - Credits checkpoint: all **101 lines / 22 ANM items** redrawn, including full names and Product Managers
     omitted by an online transcription. `gfx/credits.tsv`, `tools/gen_credits.py`, new MIT `fonts/credits7.txt`.
     Whole-archive duplicate sweep updates **18 atlases** (entries 2-4 in EVT600D through EVT650D).
@@ -12,7 +25,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
     final build **22/22**. Fresh read-only visual pass accepts four enlarged sheets; scoped gate **4/4 ok** at
     `work/qa/credits8_review`. Names with unconfirmed readings remain a polish item; ending-art Japanese is
     separate from credit lettering. Commands, sources, limitations: `docs/re/credits-qa.md`.
-  - Latest validation: **45 tests passed**, lint 0; verifier **352 changed files / 0 errors**; cold smoke
+  - Previous credits validation: **45 tests passed**, lint 0; verifier **352 changed files / 0 errors**; cold smoke
     `work/qa/credits8_final_smoke` passed; credits textlog 0 Japanese lines. Main disc: 182,571,648 bytes,
     **2026-11-01 02:06:24 UTC**, SHA-1 **4031eba32228dbfe896eb6222fa86c63a4a943d1**.
     Phase 8 remains incomplete: the scoped credits gate does not cover the remaining graphics or full tour.
@@ -86,13 +99,14 @@ Updated at the end of every session. Keep it to what the next session needs; his
     156,128 bytes (game_m25/m70-72 minigames), so English growth (a few KB per file) is far from the limit.
     15 runs of that sweep died with emulator exit -1 while other emulators ran; all 15 passed on a rerun.
 - **Next (phase 8):**
-  - Finish runtime coverage of the new minigame redraws: awards need nonzero-score routes; M14/M56/M59
-    banners need the relevant outcome/versus states. Circle-only tours do not reach all those sprites.
-    M990D big announcement words and most other HUD fragments remain Japanese; use `anm.py` to check their
-    composition before editing pixels. Small Bonus at (136,16,40,16) has overlapping fragment users and is untouched.
+  - Finish runtime coverage of the new minigame redraws: M030 Perfect and M14/M56/M59 banners need the
+    relevant outcome/versus states. M010 awards and M990D:1 announcements now have full-sprite cold proof;
+    the pause fixture does not work while other games are in dialogue, so its exit code alone is not coverage.
+    Most M990D:0 HUD/result fragments remain Japanese; use `anm.py` before editing pixels. Small Bonus at
+    (136,16,40,16) has overlapping fragment users and is untouched. See `docs/re/announcements-qa.md`.
   - Graphics text (D5: all of it; docs/re/gfx_survey.tsv, 200 rows): classify retained title logos under D5
     (CI0D:3/TITLE0D:3, YUGI0D:1, HOUGEN0D:2, FILESL0D:1); NAME0D:0 mode-menu shots,
-    STATUS0D:0 higher rank shots, remaining M990D:0/1 HUD + result words, remaining banners
+    STATUS0D:0 higher rank shots, remaining M990D:0 HUD + result words, remaining banners
     (GV02000D:2, GV13000D:2...), HOUGEN0D:0 card album, ending-art signs/emblems,
     100 dialect cards HCARD*, signs. Per image: `gfx.py export`, find each sprite's rect (in-game the sprite rect
     can be narrower than the JP atlas row: shoot it), add LABELS, `gen_gfx.py`, build `--out build/g8.bin`, shoot.
