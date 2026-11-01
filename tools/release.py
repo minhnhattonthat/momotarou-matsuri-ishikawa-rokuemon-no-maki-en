@@ -62,8 +62,7 @@ def gates():
     manifests = sorted((ROOT / 'work/qa').glob('**/manifest.tsv'))
     assert any(m.parent.name == 'story' for m in manifests), 'no story manifest'
     for m in manifests:
-        verdicts = m.parent / 'verdicts' if (m.parent / 'verdicts').is_dir() else m.parent
-        py(qa_gate, 'check', m, verdicts)
+        py(qa_gate, 'check', m, m.parent / 'verdicts')  # same rule as the publish guard
     polish_check((ROOT / 'docs/polish.md').read_text(encoding='utf-8'))
 
 
