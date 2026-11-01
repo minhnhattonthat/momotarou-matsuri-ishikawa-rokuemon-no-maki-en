@@ -32,7 +32,7 @@ The title's separate press-start instruction is already translated in both copie
 
 ### Survey inventory
 Every Japanese-bearing image found by five read-only reviewers over all 80 sheets: **`docs/re/gfx_survey.tsv`**
-(204 rows including the subsequently discovered Status staff badge, GV23000D:2 Games board, round game-hall emblem and M49 Fortune God badges: id, file:entry, kind, transcription, note). Summary of the original 200-row sweep:
+(205 rows including the subsequently discovered Status staff badge, GV23000D:2 Games board, round game-hall emblem, M49 Fortune God badges and M14 Kintaro bibs: id, file:entry, kind, transcription, note). Summary of the original 200-row sweep:
 
 | Kind | Rows | What |
 |---|---|---|
@@ -49,7 +49,9 @@ Open for later phases:
 - M14's upright and tilted 勝負 wall scrolls now read MATCH. Both scrolls and Streak
   have complete native cold proof on both discs (`tanuki-qa.md`); eight sheets pass.
   The M51 helmet concern is a classification error: its mark is a question mark,
-  confirmed in fresh enlarged cold shots. M14 natural Win/Lose and Kintaro's bib remain open.
+  confirmed in fresh enlarged cold shots. M14's eight Kintaro bib cells now use K, with
+  9/9 native actor assemblies on both discs and 10 accepted sheets (`tanuki-bibs-qa.md`).
+  M14 natural Win/Lose remains open.
 - M49's four God of Fortune badges now use F; eight native reward poses on both discs
   and 11 scoped sheets pass (`fortune-qa.md`). The earlier Poverty God identification was wrong.
   Alternate coin effects and a natural story return remain outside the accepted route.

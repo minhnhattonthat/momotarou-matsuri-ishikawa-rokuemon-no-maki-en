@@ -4,6 +4,17 @@ Updated at the end of every session. Keep it to what the next session needs; his
 
 - **Phase:** **8 in progress** (QA in the emulator), then 9 (release).
 - **Done (phase 8 so far, 2026-11-02):**
+  - Even Tanuki's eight **Kintaro bib cells** now use K. Cold native two-player play
+    gives **9/9 complete actor assemblies on both discs**, covering every edited cell;
+    fresh D10 review accepts **10/10** sheets (`tanuki-bibs-qa.md`). The first condensed
+    K passed pixel matching but was rejected visually; the accepted 4x5 initial preserves
+    hands, badge rims and cloth folds. Survey #746 added (205 rows now).
+  - Latest validation: **134 tests / lint 0**, verifier **400 changed files / 0 errors**, cold
+    `work/qa/bibs8_final_smoke` passed; `bibs8_final_en` has **0 Japanese lines in 1 log**
+    (graphics excluded). Main disc **182,446,992 bytes**, **2026-11-01 19:18:23 UTC**,
+    SHA-1 **1b0e790cf5bbc1142a2adc1d6f68dd1476a49e75**. **Phase 8 remains incomplete**:
+    unresolved graphics, natural outcome/record contexts and full visual/story/NPC gates
+    still prevent advancement. No release work or owner decision is implied.
   - Even Tanuki's upright/tilted wall scrolls now say **MATCH**. Native Circle-only play
     gives **3/3** complete scroll/Streak matches on each disc; fresh D10 review accepts
     **8/8** sheets (`tanuki-qa.md`). The History Quiz Oni helmet is a question mark,
@@ -634,8 +645,10 @@ Updated at the end of every session. Keep it to what the next session needs; his
     its original overlapping fragment users remain intact and unclassified. See `docs/re/hud-counters-qa.md`.
     M14's two MATCH scrolls and Streak now have native proof (`tanuki-qa.md`);
     Win/Lose remains fixture-only. `tanuki.lua` drives both native controllers for follow-up;
-    neither tested timing produced the banners. M140D:2's Kintaro bibs still need translation.
-  - Graphics text (D5: all of it; docs/re/gfx_survey.tsv, 204 rows): product-title logo variants are now
+    neither tested timing produced the banners. M140D:2's eight Kintaro bibs now have nine
+    accepted native actor assemblies (`tanuki-bibs-qa.md`), which also records static ANM
+    selector/scroll-descriptor leads. Good Work is not proof of those Win/Lose sprites.
+  - Graphics text (D5: all of it; docs/re/gfx_survey.tsv, 205 rows): product-title logo variants are now
     explicitly retained under D5 (`graphics.md`). Remaining work: the native Rank Details title consumer
     (Game Album/Quick Match!/Name Entry have cold proof in `menu-titles-qa.md`),
     remaining M990D fragment/context classification, remaining banners
@@ -665,7 +678,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
   - The nine historical map hangs are resolved by correct initialization and map 294's entry setup;
     story flags remain unmapped (warped maps show default state). `tools/deadcode.py` output is not safe hook
     space without an exec watch (`tools/lua/deadwatch.lua`, `warp_all.py --debugger`).
-  - Phase 8 remains incomplete: much of the 204-row graphics survey, the full visual manifest,
+  - Phase 8 remains incomplete: much of the 205-row graphics survey, the full visual manifest,
     and the corrected map interaction tour remain open. Do not advance to phase 9 on scoped graphics verdicts.
 - **Waiting on the user:**
   - (resolved, D9) reviews: the run brief allows a fresh read-only pass, so the repo's in-session `reviewer` /

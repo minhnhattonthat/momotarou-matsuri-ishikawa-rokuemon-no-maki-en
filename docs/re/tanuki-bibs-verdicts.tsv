@@ -1,0 +1,11 @@
+sheet	sha1	verdict	note
+context_sheet	100ef5864fd917b06e07ec7d5e5e6a94e130424a	ok	Native versus stage; K readable, Score/Total fit, actors/dice intact; score differences are native RNG.
+pose_0_sheet	9fa40632b4800bcfc6facaefe8c1739b14c24867	ok	Open-mouth idle: distinct K diagonals; rim, cloth, hands and face preserved.
+pose_1_sheet	7279ccb13524d3f7afd1ea5656330cf2582da2cc	ok	Closed-mouth idle: complete readable K; costume border and silhouette preserved.
+pose_5_sheet	49b2d9fa4c92410e03ea3b06ee10111d2a077e1a	ok	First side pose: readable K; extended hand and folded cloth intact.
+pose_6_sheet	1ad8b75fa746207c19c2d371deeb109b0e693ba6	ok	Second side pose: near hand and badge edge intact; K unclipped.
+pose_7_sheet	f6e0b398c5b0f1f04e6802e87f8785ce0b71c3d8	ok	Eating pose: K below both hands; fingers/rim intact, old lettering removed.
+pose_8_sheet	0909a1cd2231ee654a438a98ccd3add8ecab8b11	ok	Alternate eating pose: legible K; hand and cloth outlines preserved.
+pose_9_sheet	b259f4434430ec454117be07cd2df9b72edb22b5	ok	Jumping: complete K; raised arms, feet and bib outline unchanged.
+pose_11_sheet	c065c137c94a63251d3c500dfc33dcb69f1e788b	ok	Sweating: face overlay and drops intact; complete K.
+pose_12_sheet	61cc01a688713df362c70bfd44f2cfeab60af0e5	ok	Frowning: readable K clear of rim; face and hands unchanged.

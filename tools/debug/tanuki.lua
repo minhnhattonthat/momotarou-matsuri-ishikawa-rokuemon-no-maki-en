@@ -3,6 +3,7 @@
 local mem = PCSX.getMemPtr()
 local pad2 = PCSX.SIO0.slots[2].pads[1]
 local circle = PCSX.CONSTS.PAD.BUTTON.CIRCLE
+local offset = TANUKI_OFFSET or 45
 local entered
 L.on_frame(function(n)
   if mem[0x8C490] ~= 0x10 then
@@ -15,5 +16,5 @@ L.on_frame(function(n)
     L.log(string.format('TANUKI players=2 selector=1 f%d', n))
   end
   if n % 90 == 0 then L.press('circle', 12) end
-  if (n + 45) % 90 < 12 then pad2.setOverride(circle) else pad2.clearOverride(circle) end
+  if (n + offset) % 90 < 12 then pad2.setOverride(circle) else pad2.clearOverride(circle) end
 end)
