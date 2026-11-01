@@ -4,6 +4,17 @@ Updated at the end of every session. Keep it to what the next session needs; his
 
 - **Phase:** **8 in progress** (QA in the emulator), then 9 (release).
 - **Done (phase 8 so far, 2026-11-02):**
+  - Full 100-card artwork audit: **20 whole-card sheets reviewed**; eight masks repaired on
+    **034/038/049/059/076/077/078/084**, preserving monkey/oni/staff/hand edges and removing old strokes.
+    Final D10 details **8/8 ok**; full album **7 ok / 13 issue sheets**, with no missing/stale verdicts.
+    `card-full-art-qa.md` and `card-full-art-verdicts.tsv` record rejected candidates and fourteen remaining
+    card defects. The red notice's cross-archive ANM scan supplies leads only; its runtime path remains open.
+  - Latest main validation: **127 tests passed / lint 0**, verifier **399 changed files / 0 errors**;
+    cold `work/qa/cards_full8_final_smoke` passed; `work/qa/cards_full8_final_cold` has **100/100 complete
+    captures**, **0 Japanese lines in one textlog** (graphics excluded). Main disc **182,454,048 bytes**,
+    **2026-11-01 16:39:00 UTC**, SHA-1 **5b1f3ee68331bd006fc9c1c7e0e49010a4a16816**.
+    Earlier `cards_full8_cold` and `cards_full8_accepted_cold` are rejected intermediate candidates.
+    **Phase 8 remains incomplete; the full-album gate is red and phase 9 has not started.**
   - Menu headers: **4/4 cold routes on both discs**, complete ANM/TIM pixel matches for Game Album,
     Quick Match! and Name Entry; saved-Status viewing also uses Game Album on the original. Fresh D10
     review **8/8 sheets ok**. `menu-titles-qa.md` and `tools/debug/menu_titles.py` record contexts,
@@ -12,7 +23,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
     ear/breath-puff/heart preserved. Enlarged review rejected two grey fill-donor streaks; explicit blank-paper
     bounds remove them without the broad candidate's shoreline/smoke damage. Final fresh D10 review **8/8 ok**;
     `card-margin-polish-qa.md` records commands, rejected evidence, final hashes and limited scope.
-  - Latest main validation: **126 tests passed / lint 0**, verifier **399 changed files / 0 errors**;
+  - Earlier caption-polish validation: **126 tests passed / lint 0**, verifier **399 changed files / 0 errors**;
     cold smoke `work/qa/card_polish8_accepted_smoke` passed, album **100/100 complete captures**, and
     **0 Japanese lines in its textlog** (graphics excluded). Main disc **182,454,048 bytes**,
     **2026-11-01 16:07:41 UTC**, SHA-1 **6ba02079bfa79409b99ce78d063942d6266eccdd**.
@@ -524,9 +535,13 @@ Updated at the end of every session. Keep it to what the next session needs; his
     cold proof (`card-props-qa.md`, 20 placements because the curtain uses two panels). Caption fringes
     on 028/036/046/081/099 are fixed. Follow-up `card-margin-polish-qa.md` now corrects
     003/011/022/045/085/086 with eight accepted cold sheets; the older 045 no-op is superseded.
-    Broader marginal polish remains; neither scoped pass approves every card.
+    Full follow-up `card-full-art-qa.md` corrects 034/038/049/059/076/077/078/084 and reviews all 100 cards.
+    Remaining defects: **007/026/033/039/044/054/063/075/079/082/087/093/094/098**; the full gate is
+    **7 ok / 13 issue sheets**. Begin with the listed caption-fill and artwork-preservation findings.
     Locate/render the fragmented red new-card tag.
     HOUGEN0D ANM 5/6 does not reference its visible atlas fragments; the runtime draw path is still unknown.
+    `tools/debug/atlas_refs.py` scans cross-archive ANM leads by page/depth/CLUT, but cannot prove runtime
+    use or disuse; the report records the three fragment bounds and a working control region.
   - Finish natural outcome/versus routes. M03 Perfect, M14/M56 and M59 story banners now have scoped cold
     sprite-assembly proof (`hud-outcomes-qa.md`); M59's alternate TIM 6 / ANM 16 remains unapproved, and
     Which? has fixture proof only. M010 awards and M990D:1 announcements also have full-sprite cold proof.

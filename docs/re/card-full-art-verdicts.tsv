@@ -1,0 +1,29 @@
+# scope	id	sha1	verdict	note
+full	compare_sheet	714fa9154ab4a75603e03603d5c849f4b374bf69	ok	Cards 001-005: full illustration comparison; translated captions and SFX complete, adjacent art preserved.
+full	compare_sheet_2	c2d73b194edcc98b921b0971e976779487b22cde	issue	Cards 006-010: card007 has grey horizontal fill streaks through/below Nighty-night; other four cards acceptable.
+full	compare_sheet_3	00c5adfe914dde9a2a59a6ed09129e7ef331d2cf	ok	Cards 011-015: translated captions and SFX complete; cave shading and foreground art preserved.
+full	compare_sheet_4	766c75aa320216ca191378a708166762f049e0c0	ok	Cards 016-020: translated captions, initials and SFX complete; surrounding artwork preserved.
+full	compare_sheet_5	0b11dae6a4e9f06861b597184ba5a4c487c13176	ok	Cards 021-025: captions and props complete; card022 ear and card024 breath puff retained.
+full	compare_sheet_6	4573addde2435b8725282e67fd59f1f679f2786a	issue	Cards 026-030: card026 caption fill breaks/doubles the fine horizontal background lines; other four cards acceptable.
+full	compare_sheet_7	b4237bb7ab6ecd2e8067b96b84092e11e78f52d6	issue	Cards 031-035: card034 monkey head and caption now pass; card033 still has grey fill artifacts below caption.
+full	compare_sheet_8	feb3ff1e1c74d98ef5a4b8d9972f524aac20df7d	issue	Cards 036-040: card038 background oni edge restored and caption clean; card039 still has a square grey donor streak at the bottom of the margin.
+full	compare_sheet_9	d4a4d2569c31e0dea89d978f029e9f59024439f1	issue	Cards 041-045: card044 grey tree-edge smear crosses the caption margin; other four cards acceptable.
+full	compare_sheet_10	cb000837fe975f1fdb4b0865908869233642e6ff	ok	Cards 046-050: card049 lower brown stroke removed with full hand preserved; complete captions and artwork pass.
+full	compare_sheet_11	dba8a99de7a6b57a7358feee7f9ca6053eefd55b	issue	Cards 051-055: card054 margin has stepped grey bands and damaged house linework.
+full	compare_sheet_12	cfa97d7e1417b4fc7b2b2845c1af082ebc40e4ba	ok	Cards 056-060: card059 staff edge restored and all brown/pale remnants removed; complete captions and artwork pass.
+full	compare_sheet_13	1429fc7e79e252967f3f42432726ac0be43c85db	issue	Cards 061-065: card063 has blocky pale/grey caption-fill artifacts through the sky and leaves.
+full	compare_sheet_14	92402064d9fc92003792a4f692374fbb1cb2b62e	ok	Cards 066-070: full captions, Dumplings and P mark complete; food, clothing and landscape preserved.
+full	compare_sheet_15	60714164d3ab1af262bc666c5ba410155f2a1669	issue	Cards 071-075: card075 margin has a grey horizontal streak across the end of There it is.
+full	compare_sheet_16	a50a5e656e27e7da2d9d1fdf55f4fa3647fbbb01	issue	Cards 076-080: card076/077/078 remnants removed; card079 retains brown pixels above caption and needs rose-background preservation review.
+full	compare_sheet_17	355231b3ed08cd3ac6e0070a48c0f784a9b3f82f	issue	Cards 081-085: card084 lower stroke removed; card082 still has grey donor artifacts below caption.
+full	compare_sheet_18	726c191b857cffcb4c5c06d11c803f72a9f8bdd4	issue	Cards 086-090: card087 retains brown top-of-caption pixels and has blocky grey sky fill; other four cards acceptable.
+full	compare_sheet_19	bcbe6040734ed0e4938945071eeb7407f17fa87f	issue	Cards 091-095: card093 caption clear cuts the top falling leaf; card094 has angular grey donor streaks among the left foliage.
+full	compare_sheet_20	0a373d17415cf8eb1d7e1dc973f6676e2a752fe0	issue	Cards 096-100: card098 has a stepped grey margin artifact below Welcome; other four cards acceptable.
+detail	card034_sheet	cfd4e5b43aa91eff1bfa342484941cf2dc747963	ok	Complete caption; old stroke removed and small monkey head edge retained.
+detail	card038_sheet	91bcec31c80857c7e2bb415ceb59ae191e444d77	ok	Complete caption; separate old strokes removed and background oni outline retained.
+detail	card049_sheet	476b7ea410642c2f358e9e407bbb4106aef1bf5a	ok	Complete caption and clean lower paper; full hand preserved below y90.
+detail	card059_sheet	8e68ce4e6039725314bbb0877396e7c8e504a0bf	ok	Complete caption; brown and pale remnants removed including x189 y6/20/21; curled staff intact.
+detail	card076_sheet	a01c2eff0c423b4d82760c992a00699eed640f79	ok	Complete caption and clean paper above the first English letter.
+detail	card077_sheet	db13fb2ae5b5dcbc75891dec3e79faf41240423e	ok	Complete caption and clean paper below the last English letter.
+detail	card078_sheet	03b39794195e53a2a316fd9759e65276fe7687a5	ok	Complete caption and clean paper to its left; basket and motion lines preserved.
+detail	card084_sheet	9854bf2d2597ec2f0c7b35b3eebd767c0047e9dc	ok	Complete caption and clean lower paper; adjacent stars preserved.

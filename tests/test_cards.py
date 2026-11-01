@@ -174,3 +174,26 @@ def test_margin_polish_removes_fringe_without_clearing_ear_or_heart():
             # Cold enlarged review caught grey antialias donors propagated
             # into vertical streaks on otherwise blank paper.
             assert translated.getpixel(point) == (248, 248, 248, 255)
+
+
+def test_full_card_review_preserves_character_edges_and_removes_stray_strokes():
+    # Caption bounds overlap actual artwork: monkey hair, a background oni,
+    # and the curled staff. A passing outer-rectangle test cannot catch this.
+    for card, rect in ((34, (181, 84, 188, 90)), (38, (190, 77, 192, 85)),
+                       (59, (177, 72, 192, 85))):
+        i = card - 1
+        _, source = gen_gfx.original(f'HCARD{i // 10}0D.BIN:{i % 10}')
+        with Image.open(gfx.EN / f'HCARD{i // 10}0D_{i % 10}.png') as actual:
+            assert source.crop(rect).tobytes() == actual.crop(rect).tobytes(), card
+    # These are blank paper around the English, previously left with kana
+    # tips. Keep checks independent of the generator's erasure rectangles.
+    for card, rect in ((34, (187, 75, 188, 81)), (38, (190, 63, 193, 76)),
+                       (59, (189, 0, 190, 60)), (59, (190, 70, 192, 72)),
+                       (49, (5, 85, 15, 89)), (76, (177, 9, 203, 12)),
+                       (77, (182, 69, 204, 73)), (78, (8, 55, 13, 70)),
+                       (84, (179, 83, 203, 88))):
+        i = card - 1
+        _, source = gen_gfx.original(f'HCARD{i // 10}0D.BIN:{i % 10}')
+        assert set(source.crop(rect).getdata()) != {(248, 248, 248, 255)}, card
+        with Image.open(gfx.EN / f'HCARD{i // 10}0D_{i % 10}.png') as actual:
+            assert set(actual.crop(rect).getdata()) == {(248, 248, 248, 255)}, card

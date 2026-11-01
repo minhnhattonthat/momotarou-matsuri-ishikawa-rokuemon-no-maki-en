@@ -50,8 +50,10 @@ Open for later phases:
   (`menu-titles-qa.md`, four routes and eight accepted sheets). Saved-Status viewing also uses Game Album;
   the native consumer of the separate Rank Details graphic remains open.
 - Marginal-caption masks on cards 003/011/022/045/085/086 are corrected, including preserved ear/heart
-  edges and removal of pale/grey fill-donor streaks (`card-margin-polish-qa.md`). Other card polish and
-  the red Card Album notice remain separate requirements.
+  edges and removal of pale/grey fill-donor streaks (`card-margin-polish-qa.md`). Full follow-up
+  `card-full-art-qa.md` repairs 034/038/049/059/076/077/078/084 and audits all 100 cards:
+  7 whole-card sheets pass, 13 have issues across fourteen remaining cards; eight repair details pass.
+  The red Card Album notice remains open; `atlas_refs.py` offers static ANM leads, not runtime proof.
 - Event07's snow-statue initial is now K; all three EVT620D ending fans say Festival.
   `event-props-qa.md` records cold routes, exact source masks and the shared-CLUT overwrite.
   The tiny snow placards and ending gold-prop mark remain unclassified; this is not whole-event approval.
