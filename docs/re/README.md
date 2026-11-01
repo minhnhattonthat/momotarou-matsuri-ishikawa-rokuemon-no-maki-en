@@ -27,6 +27,7 @@ Addresses are for the dump in `rom.sha1` unless a note says otherwise.
 | [card-words-qa.md](card-words-qa.md) | 100 marginal dialect phrases, bounded artwork restoration and scoped cold review | card sound effects/signs remain separate; phase 8 still open |
 | [results-qa.md](results-qa.md) | Shared winner/round/attempt/question banners and checked atlas repacking | 40/40 cold rendered states; 5 scoped visual sheets; natural progression and small HUDs remain |
 | [masks-qa.md](masks-qa.md) | Mask Maker controls, Mask Album title, preview indentation and controller route | 6/6 control sprites + title; create/accept/return route; 3 scoped sheets ok |
+| [hud-outcomes-qa.md](hud-outcomes-qa.md) | Additional HUD labels, Which?, M59 Lose fragment fix, sprite fixtures and stricter screenshot checks | 24 scoped cold sprite states, 6 visual sheets; natural outcomes and alternate M59 atlas remain open |
 
 Tools: `tools/iso.py` (LBAs), `tools/arc.py` (archives), `tools/ecd.py` (ECD codec), `tools/tim.py` (TIM decode),
 `tools/gfxdump.py` (static image sweep into `work/gfx/`), `tools/ramfind.py` (which files sit where in a RAM dump),

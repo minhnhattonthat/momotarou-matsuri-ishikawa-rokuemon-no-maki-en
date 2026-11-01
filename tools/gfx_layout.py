@@ -4,7 +4,9 @@ M990D:3: rejoin START's two adjacent atlas fragments, remove its borrowed dash,
 and centre GAME START. Centre the level number and ! after removing the Japanese
 level suffix. gfx_results also repacks the 40 winner/ordinal layouts into English
 word order. All counts, table offsets, palettes, scales and other items remain.
+M590D:9 relocates Lose! instead of retaining a Japanese fragment shared with actor art.
 """
+import hashlib
 import struct
 from pathlib import Path
 
@@ -32,6 +34,16 @@ for level in range(1, 10):
 
 def patch(name, entry, data):
     """Return exact permitted replacement bytes, or None for an unrelated entry."""
+    if (Path(name).name, entry) == ('M590D.BIN', 9):
+        if hashlib.sha1(data).hexdigest() != 'dffaf96bb9ef64da697e51f35b7dbdc80c8adc34':
+            raise ValueError('unexpected original M590D result ANM')
+        out = bytearray(data)
+        table, = struct.unpack_from('<I', data, 8)
+        start, = struct.unpack_from('<I', data, table + 4)  # Lose item 1
+        for sprite, geometry in enumerate(((0, 208, 56, 32, -28, -16), (255, 255, 1, 1, 0, 0))):
+            for field, value in zip((1, 2, 3, 4, 8, 9), geometry):
+                struct.pack_into('<H', out, start + 4 + sprite * 28 + field * 2, value & 0xFFFF)
+        return bytes(out)
     if (Path(name).name, entry) != TARGET:
         return None
     if data[:4] != b'ANM\0' or struct.unpack_from('<II', data, 4) != (71, 20):

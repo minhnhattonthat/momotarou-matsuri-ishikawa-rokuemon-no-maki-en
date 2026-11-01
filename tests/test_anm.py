@@ -31,6 +31,40 @@ def test_table_location_and_signed_offsets():
 
 
 @pytest.mark.skipif(not gfx.TREE.exists(), reason='needs work/disc')
+def test_reused_vram_pages_require_explicit_loaded_textures(tmp_path):
+    archive = arc.entries((gfx.TREE / 'M590D.BIN').read_bytes())
+    records = [[(r[0] & ~0x7000, *r[1:]) for r in item] for item in anm.items(archive[9][1])]
+    with pytest.raises(ValueError, match='ambiguous texture/palette'):
+        anm.render(archive, records, tmp_path, strict=True)
+    # Story's 8bpp result sprites use entry 0; later modes reuse its page.
+    anm.render([archive[0]], records, tmp_path, strict=True)
+    assert len(list(tmp_path.glob('*.png'))) == 3
+
+
+@pytest.mark.skipif(not gfx.TREE.exists(), reason='needs work/disc')
+def test_m59_lose_does_not_reuse_actor_pixels():
+    from PIL import Image
+    archive = arc.entries((gfx.TREE / 'M590D.BIN').read_bytes())
+    assert not list(anm.references(archive, 7, (0, 208, 56, 240)))
+    before = anm.items(archive[9][1])
+    after = anm.items(gfx_layout.patch('M590D.BIN', 9, archive[9][1]))
+    assert before[0] == after[0] and before[2] == after[2]
+    assert after[1][0][1:5] == (0, 208, 56, 32)
+    assert after[1][1][1:5] == (255, 255, 1, 1)
+    for old, new in zip(before[1], after[1]):
+        assert all(old[i] == new[i] for i in (0, 5, 6, 7, 10, 11, 12, 13))
+    original = gen_gfx.original('M590D.BIN:0')[1]
+    translated = Image.open(gfx.EN / 'M590D_0.png').convert('RGBA')
+    # The old trailing fragment overlaps actor sprites, which must stay intact.
+    assert original.crop((64, 120, 80, 152)).tobytes() == translated.crop((64, 120, 80, 152)).tobytes()
+    assert translated.getpixel((255, 255))[3] == 0
+    corrupt = bytearray(archive[9][1])
+    corrupt[-1] ^= 1
+    with pytest.raises(ValueError, match='unexpected original'):
+        gfx_layout.patch('M590D.BIN', 9, corrupt)
+
+
+@pytest.mark.skipif(not gfx.TREE.exists(), reason='needs work/disc')
 def test_shared_hud_words_have_no_partial_sprite_users():
     archive = arc.entries((gfx.TREE / 'M990D.BIN').read_bytes())
     for x0, y0, x1, y1, label, _ in gen_gfx.LABELS['M990D.BIN:0']:
@@ -38,6 +72,14 @@ def test_shared_hud_words_have_no_partial_sprite_users():
         assert refs, label
         # A fragment user would show half an English word after a whole-word redraw.
         assert all(r[1:5] == (x0, y0, x1 - x0, y1 - y0) for _, _, r in refs), label
+    # Shared texture pages can be referenced by ANMs in another archive too.
+    for path in gfx.TREE.glob('*.BIN'):
+        if path.name == 'M990D.BIN':
+            continue
+        other = arc.entries(path.read_bytes()) or []
+        for x0, y0, x1, y1, label, _ in gen_gfx.LABELS['M990D.BIN:0']:
+            assert all(r[1:5] == (x0, y0, x1 - x0, y1 - y0)
+                       for _, _, r in anm.references(other, 0x1B, (x0, y0, x1, y1))), (path.name, label)
 
 
 @pytest.mark.skipif(not gfx.TREE.exists(), reason='needs work/disc')

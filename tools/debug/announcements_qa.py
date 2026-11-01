@@ -27,6 +27,17 @@ def match(screen, template):
     if not pixels:
         return None
     probes = pixels[::max(1, len(pixels) // 16)]
+    # Opaque pixels alone accept a white label anywhere on a solid white panel.
+    # Monochrome templates need contrast at most transparent glyph edges too.
+    # Multicolour sprites already reject flat panels; their dark outline can
+    # legitimately meet a black background, so do not impose that edge test.
+    edges = {}
+    monochrome = len({colour for _, _, colour in pixels}) == 1
+    for x, y, colour in (pixels if monochrome else []):
+        for nx, ny in ((x - 1, y), (x + 1, y), (x, y - 1), (x, y + 1)):
+            if 0 <= nx < template.width and 0 <= ny < template.height:
+                if not template.getpixel((nx, ny))[3]:
+                    edges.setdefault((nx, ny), colour)
     px = screen.load()
 
     def close(x, y, colour):
@@ -36,7 +47,9 @@ def match(screen, template):
         for dx in range(screen.width - template.width + 1):
             if all(close(dx + x, dy + y, c) for x, y, c in probes):
                 if all(close(dx + x, dy + y, c) for x, y, c in pixels):
-                    return dx, dy
+                    if not edges or sum(not close(dx + x, dy + y, c)
+                                        for (x, y), c in edges.items()) * 2 >= len(edges):
+                        return dx, dy
     return None
 
 
@@ -48,6 +61,7 @@ def main():
     ap.add_argument('--entry', type=int, default=3)
     ap.add_argument('--items', default='1,2,3,4,5,6,7,8,9,10,11,13,14,15,16,18')
     ap.add_argument('--original', action='store_true')
+    ap.add_argument('--textures', help='comma-separated loaded TIM entries when an archive reuses VRAM pages')
     ap.add_argument('--scan', action='store_true', help='search numbered frames from a natural result route')
     ap.add_argument('--glob', default='f[0-9]*.png', help='screenshot pattern for --scan')
     args = ap.parse_args()
@@ -55,6 +69,10 @@ def main():
     original = (gfx.TREE / args.file).read_bytes()
     archive = arc.entries(original if args.original else gfx.apply(args.file, original))
     records = anm.items(archive[args.entry][1])
+    if args.textures:
+        textures = {int(i) for i in args.textures.split(',')}
+        archive = [(offset, b'' if i not in textures and data[:4] in (b'ECD\x01', b'\x10\0\0\0') else data)
+                   for i, (offset, data) in enumerate(archive)]
     previews = args.out / 'templates'
     previews.mkdir(parents=True, exist_ok=True)
     # Render only the requested items; names here are positions in this subset.

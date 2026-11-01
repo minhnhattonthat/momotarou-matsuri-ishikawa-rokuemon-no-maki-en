@@ -17,6 +17,14 @@ import tim  # noqa: E402
 pytestmark = pytest.mark.skipif(not gfx.TREE.exists(), reason="needs work/disc (dumpsxiso)")
 
 
+def test_pixel_labels_have_every_glyph_and_fit():
+    for key, labels in gen_gfx.LABELS.items():
+        for x0, y0, x1, y1, text, options in labels:
+            if options.get('pixel'):
+                mask = gen_gfx.fit(text, x1 - x0, y1 - y0, options)
+                assert mask.width <= x1 - x0 and mask.height <= y1 - y0, (key, text)
+
+
 def test_roundtrip_and_one_pixel(tmp_path):
     for name, e in (("CI0D.BIN", 3), ("NAME0D.BIN", 0)):
         t, _ = gfx.unpack(arc.entries((gfx.TREE / name).read_bytes())[e][1])

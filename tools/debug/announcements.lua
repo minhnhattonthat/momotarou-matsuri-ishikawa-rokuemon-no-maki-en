@@ -9,6 +9,9 @@
 -- dimensions and anchors. This verifies assembly, not score/rank gameplay logic.
 -- ANNOUNCEMENT_REPLACE={from=7,to=10} substitutes one natural result instead of
 -- opening Pause; pair with janken.lua to show Full Mastery without a pause menu.
+-- ANNOUNCEMENT_TRIGGER=13 replaces natural Game Start with one SOURCE item.
+-- Use a single source item, HOLD=2000 and --shot-every 15; verify with --scan.
+-- This reaches minigames that do not implement the shared Pause banner.
 local mem = PCSX.getMemPtr()
 local function r16(a) a = a & 0x1FFFFF; return mem[a] + mem[a + 1] * 256 end
 local function r32(a) return r16(a) + r16(a + 2) * 65536 end
@@ -75,6 +78,16 @@ L.on_frame(function(n)
         end
       end
     end
+  end
+  if ANNOUNCEMENT_TRIGGER and tableptr and sourceoffsets then
+    assert(#order == 1, 'natural trigger requires exactly one source item')
+    assert(offsets[ANNOUNCEMENT_TRIGGER], 'natural trigger out of range')
+    w32(tableptr + ANNOUNCEMENT_TRIGGER * 4, sourceoffsets[order[1]])
+    if not last then
+      L.log(string.format('ANNOUNCEMENT trigger %d -> source item %d', ANNOUNCEMENT_TRIGGER, order[1]))
+      last = order[1]
+    end
+    return
   end
   local pause = ANNOUNCEMENT_PAUSE or 1500
   if ANNOUNCEMENT_CLICKS and age >= 700 and age < pause - 120 and age % 60 == 0 then L.press('circle', 6) end

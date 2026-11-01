@@ -4,6 +4,19 @@ Updated at the end of every session. Keep it to what the next session needs; his
 
 - **Phase:** **8 in progress** (QA in the emulator), then 9 (release).
 - **Done (phase 8 so far, 2026-11-01):**
+  - Shared HUD/outcome checkpoint: Weather, Forecast, Race Result, Entry, Slow and M03 Which? translated.
+    Cold checks cover **13 shared HUD states + 11 outcome/prompt states**, with **6/6 scoped visual sheets ok**.
+    M14 Streak now has a readable outlined pixel font. Fixed M59's `Loseけ!` by relocating the complete
+    Lose! sprite; its old tail shared actor pixels, which regression tests preserve.
+  - New `sprite_fixture.lua` uses loaded ANM selectors when a game lacks the shared Pause banner;
+    `announcements.lua` can substitute a natural Game Start item. These prove assembly and palettes,
+    **not natural outcomes or positioning**. M59's alternate TIM 6 / ANM 16 and the natural Which? route remain open.
+    The screenshot gate now rejects solid-panel false matches, and the ANM renderer rejects ambiguous
+    reused VRAM pages. Reproduction, original comparisons and verdict hashes: `docs/re/hud-outcomes-qa.md`.
+  - Latest validation: **60 tests passed**, lint 0; verifier **363 changed files / 0 errors**; cold smoke
+    `work/qa/outcomes8_final_smoke` passed; eight targeted textlogs contain 0 Japanese lines (graphics excluded).
+    Main disc: **182,491,680 bytes**, **2026-11-01 04:37:10 UTC**, SHA-1
+    **86480010b723c6376450b9181d30cd6b85c544ae**. **Phase 8 remains incomplete; do not advance to release.**
   - Mask Maker controls and Mask Album title translated: **6/6 complete control sprites + 1/1 title** match
     cold captures, **3/3 scoped visual sheets ok**. Fixed preview icons covering English instructions and
     dialogue by reserving 48 pixels on every relevant line; original comparison confirms the layout.
@@ -11,7 +24,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
     confirmation and accept it, returning to Story on both discs. Error/redo/continue branches covered;
     memory-card persistence and populated album navigation remain wider QA scope.
     `docs/re/masks-qa.md` records evidence and 8bpp ANM support added to the screenshot oracle.
-  - Latest validation: **56 tests passed**, lint 0; verifier **363 changed files / 0 errors**; cold smoke
+  - Previous mask validation: **56 tests passed**, lint 0; verifier **363 changed files / 0 errors**; cold smoke
     `work/qa/mask8_smoke` passed; mask-fixture textlog 0 Japanese lines. Main disc: **182,491,680 bytes**,
     **2026-11-01 04:02:28 UTC**, SHA-1 **bd6ff6ca1786b31afe0695b328a3a05af2c741b2**.
     **Phase 8 remains incomplete.** Remaining graphics, outcome/menu routes and full visual tour prevent release.
@@ -154,11 +167,12 @@ Updated at the end of every session. Keep it to what the next session needs; his
     `cards_qa.py` meaning-ID report for the remaining black illustration SFX, signs and clothing emblems;
     the scoped phrase gate is not a whole-card verdict. Locate/render the fragmented red new-card tag.
     HOUGEN0D ANM 5/6 does not reference its visible atlas fragments; the runtime draw path is still unknown.
-  - Finish runtime coverage of the new minigame redraws: M030 Perfect and M14/M56/M59 banners need the
-    relevant outcome/versus states. M010 awards and M990D:1 announcements now have full-sprite cold proof;
-    the pause fixture does not work while other games are in dialogue, so its exit code alone is not coverage.
+  - Finish natural outcome/versus routes. M03 Perfect, M14/M56 and M59 story banners now have scoped cold
+    sprite-assembly proof (`hud-outcomes-qa.md`); M59's alternate TIM 6 / ANM 16 remains unapproved, and
+    Which? has fixture proof only. M010 awards and M990D:1 announcements also have full-sprite cold proof.
+    The pause fixture does not work while other games are in dialogue, so its exit code alone is not coverage.
     M990D:0's 40 large winner/ordinal states are now translated and cold-rendered (`results-qa.md`);
-    small HUD words remain Japanese, and normal gameplay progression still needs tour coverage. Small Bonus at
+    several small HUD counters remain Japanese, and normal gameplay progression still needs tour coverage. Small Bonus at
     (136,16,40,16) has overlapping fragment users and is untouched. See `docs/re/announcements-qa.md`.
   - Graphics text (D5: all of it; docs/re/gfx_survey.tsv, 200 rows): classify retained title logos under D5
     (CI0D:3/TITLE0D:3, YUGI0D:1, HOUGEN0D:2, FILESL0D:1); NAME0D:0 mode-menu shots,

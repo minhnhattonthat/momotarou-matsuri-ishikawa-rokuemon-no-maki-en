@@ -7,7 +7,9 @@ The ANM header holds a count at +4 and the relative-offset table location at +8.
 is a u32 sprite count followed by 28-byte records. UV, size, CLUT and tpage are
 u16s at record +2..14; signed offsets at +16/+18 and 12-bit scales at +20/+22.
 Rendering supports unscaled 4bpp/8bpp sprites in the original archive; external
-pages/palettes are explicitly skipped. --labels lists candidate references to
+pages/palettes are explicitly skipped. Conflicting TIMs on the same page/palette
+are rejected: callers must select the images actually loaded in that mode.
+--labels lists candidate references to
 redraw rectangles from gen_gfx.py. Archives can reuse VRAM pages between modes,
 so a candidate is not by itself proof that the same texture is loaded.
 """
@@ -60,7 +62,12 @@ def render(archive, entries, out, strict=False):
             continue
         x, y, _, _, _ = img
         for pal in range(clut[3]):
-            pages[(x // 64 + (y // 256) * 16, clut[0], clut[1] + pal)] = (bpp, tim.image(t, pal))
+            key = (x // 64 + (y // 256) * 16, clut[0], clut[1] + pal)
+            decoded = tim.image(t, pal)
+            if key in pages and (pages[key][0] != bpp or pages[key][1].size != decoded.size
+                                 or pages[key][1].tobytes() != decoded.tobytes()):
+                raise ValueError(f'ambiguous texture/palette {key}; select the TIM entries loaded in this mode')
+            pages[key] = (bpp, decoded)
     out.mkdir(parents=True, exist_ok=True)
     for i, records in enumerate(entries):
         x0 = min(r[8] for r in records)

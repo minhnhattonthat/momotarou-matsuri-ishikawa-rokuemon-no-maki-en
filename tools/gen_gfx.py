@@ -12,6 +12,8 @@ opts: size (px, default fits the rect), wdth 75-125, wght 300-700, outline 0/1, 
 align 'left' (menu labels; default centred). bg='neutral' removes grey lettering by borrowing the nearest
 coloured pixel on the same row, preserving coloured rank-plate artwork; edge overrides the outline colour.
 pixel=True uses the native 7-pixel capitals in fonts/hud7.txt instead of the rounded font (small HUD words).
+For a named pixel font, tight=True trims blank mask margins. source=(x0,y0,x1,y1) borrows an original
+rectangle's colours for a relocated label; list it before any redraw of that source rectangle.
 COMPOSITES letters disjoint fragments in assembled screen space before scattering pixels back to the atlas.
 """
 import sys
@@ -31,6 +33,7 @@ import gfx_results  # noqa: E402
 FONT = ROOT / 'fonts' / 'ofl' / 'Fredoka.ttf'
 CLEAR = (0, 0, 0, 0)
 HUD = {'pixel': True, 'outline': 0, 'fill': (248, 248, 248, 255)}
+HUD_CONDENSED = {**HUD, 'pixel': 'credits7.txt', 'tight': True}
 PANEL = {'bg': 'fill', 'outline': 0, 'align': 'left', 'size': 14, 'fill': (8, 8, 8, 255)}
 MASK_BUTTON = {'bg': 'fill', 'outline': 0, 'size': 17, 'fill': (248, 248, 248, 255)}
 MASK_DIM = {**MASK_BUTTON, 'fill': (128, 128, 128, 255)}
@@ -85,6 +88,11 @@ LABELS = {
         (96, 16, 136, 32, 'Stage', HUD),
         (176, 16, 192, 32, 'ryo', HUD),
         (88, 32, 152, 48, 'Bonus', HUD),
+        (208, 144, 240, 160, 'Weather', HUD_CONDENSED),
+        (192, 160, 224, 176, 'Forecast', HUD_CONDENSED),
+        (0, 176, 32, 192, 'Entry', HUD),
+        (32, 176, 96, 192, 'Race Result', HUD_CONDENSED),
+        (96, 176, 128, 192, 'Slow', HUD_CONDENSED),
     ],
     'M110D.BIN:0': [
         (0, 184, 112, 208, 'Ready...', {}),
@@ -104,15 +112,19 @@ LABELS = {
         (112, 0, 208, 32, 'Draw!', {}),
     ],
     'M590D.BIN:0': [
+        # The old second Lose sprite shares pixels with an actor. Give the
+        # complete English banner its own unused rectangle (gfx_layout.py).
+        (0, 208, 56, 240, 'Lose!', {'source': (200, 112, 240, 144)}),
         (144, 80, 240, 112, 'Draw!', {}),
         (144, 112, 200, 144, 'Win!', {}),
-        # The exclamation mark is a separate sprite; the word's source is only 40 px wide.
+        # Keep the old 40px main-word region English too; its actor-shared tail
+        # is no longer used by the relocated result sprite.
         (200, 112, 240, 144, 'Lose', {}),
     ],
     'M140D.BIN:0': [
         (184, 128, 240, 160, 'Win!', {}),
         (184, 160, 240, 192, 'Lose!', {}),
-        (184, 192, 216, 208, 'Streak', {'size': 11, 'wdth': 75, 'outline': 0}),
+        (184, 192, 216, 208, 'Streak', {**HUD_CONDENSED, 'outline': 1}),
     ],
     'M010D.BIN:4': [
         # Item 4 adds the separately stored ! at (120,64,24,32).
@@ -123,6 +135,7 @@ LABELS = {
         (0, 96, 144, 128, 'Sharp Eye!', {}),
         (0, 128, 144, 160, 'Survivor!', {}),
     ],
+    'M030D.BIN:1': [(152, 176, 184, 184, 'Which?', HUD_CONDENSED)],
     'M030D.BIN:3': [(0, 216, 176, 248, 'Perfect!', {})],
     # title: press-start prompt (the logo pieces are separate rows of docs/re/gfx_survey.tsv #6)
     # two sprites: line 1 is as wide as スタートボタンを, line 2 only as wide as おしてね! (x 49..122)
@@ -217,7 +230,7 @@ def mask(text, size, o):
                     if pixel == '#':
                         m.putpixel((x + dx, y + 1), 255)
             x += width + 1
-        return m
+        return m.crop(m.getbbox()) if o.get('tight') and m.getbbox() else m
     f = font(size, o)
     l, t, r, b = f.getbbox(text)
     m = Image.new('L', (r - l + 2, b - t + 2))
@@ -235,6 +248,8 @@ def fit(text, w, h, o):
 
 
 def draw(im, x0, y0, x1, y1, text, o, pal):
+    if o.get('source'):
+        im.paste(im.crop(o['source']).resize((x1 - x0, y1 - y0), Image.Resampling.NEAREST), (x0, y0))
     px = im.load()
     rect = [px[x, y] for y in range(y0, y1) for x in range(x0, x1)]
     bgc = Counter(rect).most_common(1)[0][0] if o.get('bg') == 'fill' else CLEAR

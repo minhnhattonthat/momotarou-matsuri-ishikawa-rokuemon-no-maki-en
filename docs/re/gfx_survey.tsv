@@ -175,13 +175,13 @@ id	source	kind	japanese	note
 #674	HOUGEN0D.BIN:0	menu	カードアルバム / 枚 / 北海道 東北 関東 中部 近畿 中国・四国 九州・沖縄 / 新しいカード?	overview title/regions/counts English with cold proof; fragmented red new-card tags still open (cards-qa.md)
 #676	HOUGEN0D.BIN:2	logo	桃太郎まつり 石川六右衛門の巻 (+ tiny subtitle)	title logo on blue panel
 #687	M010D.BIN:4	banner	パーフェクトで賞! / たたいたで賞! / ごほうびで賞! / 見きったで賞! / のこったで賞!	English; 5/5 complete cold-boot award captures, announcements-qa.md
-#692	M030D.BIN:1	other	どっち?	tiny hiragana by O K! labels; unsure
-#694	M030D.BIN:3	banner	パーフェクトで賞!	same style as #687
+#692	M030D.BIN:1	other	どっち?	Which? translated; cold sprite fixture proof, natural prompt coverage still open; hud-outcomes-qa.md
+#694	M030D.BIN:3	banner	パーフェクトで賞!	Perfect! translated; cold complete-sprite fixture proof; hud-outcomes-qa.md
 #703	M050D.BIN:2	banner	大当たり	small tag under target sprites
 #706	M060D.BIN:2	other	れべる? 1 2 3 / よいしょ! / ほい! / まだまだ! / がんばれ!	speech bubbles
 #717	M080D.BIN:6	other	リーチ!?	speech bubble; unsure
 #725	M110D.BIN:0	banner	じゃんけん!ぽん! / 勝ち! 負け! 引き分け!	janken banners
-#744	M140D.BIN:0	banner	勝ち! / 負け! / 連続	win/lose tags
+#744	M140D.BIN:0	banner	勝ち! / 負け! / 連続	Win/Lose/Streak English; three cold sprite checks, outlined Streak; natural outcomes and wall scroll remain; hud-outcomes-qa.md
 #761	M170D.BIN:20	sign	一番	vertical flag held by hero in bath scene
 #768	M180D.BIN:3	hud	スカ ? (next to digits "+-5678910")	unsure, tiny, may be glyph fragment
 #783	M230D.BIN:0@f0	banner	?レース (framed katakana box, lower-left, roughly "アクア/レース")	unsure reading; also 1P 2P 3P 4P in Latin
@@ -190,10 +190,10 @@ id	source	kind	japanese	note
 #797	M250D.BIN:22	menu	できあがり / つくりなおし / L1ボタン / R1ボタン	English Done/Redo/L1/R1, bright+dim atlas; 6/6 displayed controls cold match, masks-qa.md
 #870	M440D.BIN:0	sign	price board: 大トロ 四〇〇, うに ?〇〇, 三〇〇, ?, えび, 二〇〇, 一〇〇	in-scene wooden sign; partly repeated in #871 left edge
 #877	M500D.BIN:0	banner	スタート	small orange text with Momotarou sprite
-#888	M560D.BIN:1	banner	勝ち! 負け! 引き分け!	rainbow result banners
-#890	M590D.BIN:0	banner	引き分け! 勝ち! 負け!	same banners (partial crop)
+#888	M560D.BIN:1	banner	勝ち! 負け! 引き分け!	Three English outcome sprites cold-rendered; actor substitution fixture only; hud-outcomes-qa.md
+#890	M590D.BIN:0	banner	引き分け! 勝ち! 負け!	Three English story banners cold-rendered; Lose tail fixed without touching actor pixels; hud-outcomes-qa.md
 #896	M590D.BIN:6	banner	勝ち! 負け! 引き分け!	same banners plus cloud sprites
-#897	M990D.BIN:0	font	HUD word atlas: 時間計勝負分得点記録階 / 1P2P3P4P コース ステージ ボーナス 両 / 桃太郎と金の勝ち / 赤浦島夜叉姫鬼 二 / 三四五六七八九十 / 本日回戦負け 走天候予想後 / 参加レース けっか 遅い回 コ 本 秒 間	40 large winner/ordinal states English with cold proof (results-qa.md); several small HUD words English; remaining small words/counters open
+#897	M990D.BIN:0	font	HUD word atlas: 時間計勝負分得点記録階 / 1P2P3P4P コース ステージ ボーナス 両 / 桃太郎と金の勝ち / 赤浦島夜叉姫鬼 二 / 三四五六七八九十 / 本日回戦負け 走天候予想後 / 参加レース けっか 遅い回 コ 本 秒 間	40 large winner/ordinal states English with cold proof (results-qa.md); 13 HUD states cold-rendered (hud-outcomes-qa.md); remaining small counters and overlapping Bonus open
 #898	M990D.BIN:1	font	big outlined: 2345 6789 新記録達成!初 段位更新!段 免許皆伝ゲーム そこまで!おつかれさま 引き分け!スタート	English; 16/16 shared announcement states, checked ANM assembly edits, announcements-qa.md
 #902	NAME0D.BIN:0	menu	ゆうぎアルバム / 段位詳細 / おためし対戦! / ネームエントリー	title + menu labels with arrows
 #903	NAME0D.BIN:1	font	name-entry hiragana table (あ..ん, small kana, dakuten)	yellow ~12px; name entry keyboard
