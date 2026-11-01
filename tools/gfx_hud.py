@@ -12,7 +12,7 @@ RECT = (48, 192, 160, 216)
 PANEL_RECT = (192, 152, 248, 184)
 PANEL_SHA1 = 'b7588abd46fc698482e28f3e53599fe032b9dda1'
 WORDS = {20: 'Total', 31: 'Win', 32: 'Loss', 34: 'Floor',
-         49: 'Bonus', 73: 'Match', 85: 'sec', 78: 'items',
+         49: 'Bonus', 73: 'Duel', 85: 'sec', 78: 'items',
          79: 'pieces', 77: 'times', 33: 'min', 48: 'later'}
 
 
@@ -44,10 +44,15 @@ def patch(data):
         start, = struct.unpack_from('<I', data, table + item * 4)
         if struct.unpack_from('<I', data, start)[0] != 1:
             raise ValueError('HUD word must be a single complete sprite')
-        # Keep the original left edge and vertical centre (16px -> 8px).
+        # Keep unit labels' left edge and vertical centre (16px -> 8px).
         top, = struct.unpack_from('<h', data, start + 4 + 18)
         for field, value in zip((1, 2, 3, 4, 9), (*rect(item), top + 4)):
             struct.pack_into('<H', out, start + 4 + field * 2, value & 0xFFFF)
+        if item == 73:
+            # Duel is a centred timer-expiry cue, not a numeric suffix.
+            left, = struct.unpack_from('<h', data, start + 4 + 16)
+            width, = struct.unpack_from('<H', data, start + 4 + 6)
+            struct.pack_into('<h', out, start + 4 + 16, left + (width - rect(item)[2]) // 2)
     return bytes(out)
 
 

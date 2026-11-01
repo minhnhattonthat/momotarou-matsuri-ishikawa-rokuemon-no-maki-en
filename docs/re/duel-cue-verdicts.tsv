@@ -1,0 +1,6 @@
+sheet	sha1	verdict	note
+selection_sheet	0c7c3a84a9c028193ba66af5f9a33849672fb48b	ok	Both native player-count menus select 2P; prompt and choices fit.
+solo_context_sheet	2a99e8c35e14298a544cd86b0f524d19f8909986	ok	Natural solo expiry displays Duel, matching instructions; surrounding HUD and artwork intact.
+solo_detail_sheet	9b2bb3ed4df4956841dd5fd3b384f2aae0fe19f2	ok	Complete centred Duel cue inside preserved frame; no Japanese fringe.
+versus_context_sheet	ce452ea8e9fc0c2e0b8caa17f2822b4f94dfc483	ok	Natural versus expiry displays Duel above both players; scores fit.
+versus_detail_sheet	9b2bb3ed4df4956841dd5fd3b384f2aae0fe19f2	ok	Same complete centred cue pixels as solo.

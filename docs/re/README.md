@@ -45,6 +45,7 @@ Addresses are for the dump in `rom.sha1` unless a note says otherwise.
 | [hud-outcomes-qa.md](hud-outcomes-qa.md) | Additional HUD labels, Which?, M59 Lose fragment fix, sprite fixtures and stricter screenshot checks | 24 scoped cold sprite states, 6 visual sheets; natural outcomes and alternate M59 atlas remain open |
 | [minigame-labels-qa.md](minigame-labels-qa.md) | Minigame speech bubbles, remaining small banners, 30 sprite-built race names and five race labels | Cold sprite coverage and natural race evidence; phase-wide QA remains open |
 | [hud-counters-qa.md](hud-counters-qa.md) | Twelve HUD counters, record/floor layout fixes, M34 panel expansion and natural counter routes | Scoped cold coverage; phase-wide QA remains open |
+| [duel-cue-qa.md](duel-cue-qa.md) | Paper Fan Chop's Duel wording/centering and native two-player selection | Cold solo/versus cue pairs; other shared HUD contexts and phase-wide QA remain open |
 | [field-signs-qa.md](field-signs-qa.md) | Pun Contest banners, three bath curtain copies, complete lettering checks | Scoped cold evidence; split contest atlas still lacks runtime coverage |
 | [games-signs-qa.md](games-signs-qa.md) | Five Games-board atlases, six cold contexts, active-palette and wood-repair fixes | 12 scoped visual sheets; other shop signs and split contest consumer remain open |
 | [tea-bank-signs-qa.md](tea-bank-signs-qa.md) | Both Tea/Bank engraving families, all exact copies and cold field routes | Scoped sign checks; phase-wide graphics and story QA remain open |

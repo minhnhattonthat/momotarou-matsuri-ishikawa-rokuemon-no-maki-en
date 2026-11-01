@@ -4,6 +4,18 @@ Updated at the end of every session. Keep it to what the next session needs; his
 
 - **Phase:** **8 in progress** (QA in the emulator), then 9 (release).
 - **Done (phase 8 so far, 2026-11-02):**
+  - Paper Fan Chop's countdown cue now reads **Duel**, matching both instruction pages, and is centred
+    in its original panel. Cold solo/versus checks pass on both discs; fresh D10 review accepts **5/5**
+    scoped sheets. `duel-cue-qa.md` records native player-count checks and rejected timing/alignment probes.
+    `two_player.lua` now selects 2P through native menu states, with controller port 2 connected in the
+    emulator config; `call_contexts.py` preserves the static MIPS call-context helper.
+  - Latest validation: **131 tests / lint 0**, verifier **400 changed files / 0 errors**, cold
+    `work/qa/duel8_centered_smoke` passed; `duel8_centered_en` has **0 Japanese lines in 2 logs**
+    (graphics excluded). Main disc **182,449,344 bytes**, **2026-11-01 18:09:17 UTC**, SHA-1
+    **cbadc82590fd4cfb81d78ddca889a293d47faebe**. **Phase 8 remains incomplete.**
+  - Card-notice static follow-up: another HOUGEN loader exists at OVLXTTL **0x800D8350**, with no
+    direct JAL callers. The album background table uses only y=0/16 and cannot draw the red fragments.
+    These are limited static exclusions; native/dynamic consumers remain open (`card-full-art-qa.md`).
   - EVT220D's split village banner now reads **Welcome!!**. Native event15, run without
     automatic clicks, shows three complete scrolling placements on both discs; fresh D10 review
     accepts **6/6** context/detail sheets. `welcome-banner-qa.md` records source geometry,
@@ -559,7 +571,8 @@ Updated at the end of every session. Keep it to what the next session needs; his
     `gfxfind_rect.py --indices 12 13` finds complete engraved-glyph copies; `inn_consumers.py` lists their
     static map consumers. `signs_tour.py --only` reproduces the
     new Games, accepted contest and bath contexts; `fieldmap.py` is a navigation preview, never QA evidence.
-  - Shared HUD counters: natural Win/Loss/min/sec/later/Match/small-Bonus contexts remain unproved;
+  - Shared HUD counters: natural Win/Loss/min/sec/later/small-Bonus contexts remain unproved;
+    item 73 is now **Duel**, with accepted natural solo/versus timer-expiry proof (`duel-cue-qa.md`).
     partial M990D:2 item 42 and M990D:3 items 19/20 retain original pixels and need runtime classification.
     `hud_units.py` reproduces the accepted 12-label fixture, 8 natural contexts and record stress case;
     `ice.lua` now reaches the left ice-tower course with controller input. Broader versus/record states remain.

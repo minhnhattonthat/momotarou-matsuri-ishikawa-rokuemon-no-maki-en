@@ -139,7 +139,12 @@ def test_relocated_hud_preserves_shared_fragments_and_unrelated_fields():
             assert len(old) == len(new) == 1
             assert new[0][1:5] == gfx_hud.rect(item)
             assert new[0][9] == old[0][9] + 4
-            assert all(old[0][i] == new[0][i] for i in (0, 5, 6, 7, 8, 10, 11, 12, 13))
+            assert all(old[0][i] == new[0][i] for i in (0, 5, 6, 7, 10, 11, 12, 13))
+            if item == 73:
+                # The timer-expiry cue stays centred even when its width changes.
+                assert abs(2 * new[0][8] + new[0][3] - (2 * old[0][8] + old[0][3])) <= 1
+            else:
+                assert new[0][8] == old[0][8]
     source = gen_gfx.original('M990D.BIN:0')[1]
     target = Image.open(gfx.EN / 'M990D_0.png').convert('RGBA')
     # Preserve the partial 8x8 user and the announcement tail's 8x24 strip.

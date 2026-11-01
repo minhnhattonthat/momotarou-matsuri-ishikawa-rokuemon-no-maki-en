@@ -195,7 +195,7 @@ id	source	kind	japanese	note
 #888	M560D.BIN:1	banner	勝ち! 負け! 引き分け!	Three English outcome sprites cold-rendered; actor substitution fixture only; hud-outcomes-qa.md
 #890	M590D.BIN:0	banner	引き分け! 勝ち! 負け!	Three English story banners cold-rendered; Lose tail fixed without touching actor pixels; hud-outcomes-qa.md
 #896	M590D.BIN:6	banner	勝ち! 負け! 引き分け!	same banners plus cloud sprites
-#897	M990D.BIN:0	font	HUD word atlas: 時間計勝負分得点記録階 / 1P2P3P4P コース ステージ ボーナス 両 / 桃太郎と金の勝ち / 赤浦島夜叉姫鬼 二 / 三四五六七八九十 / 本日回戦負け 走天候予想後 / 参加レース けっか 遅い回 コ 本 秒 間	40 large winner/ordinal states English with cold proof (results-qa.md); 13 HUD states cold-rendered (hud-outcomes-qa.md); remaining small counters and overlapping Bonus open
+#897	M990D.BIN:0	font	HUD word atlas: 時間計勝負分得点記録階 / 1P2P3P4P コース ステージ ボーナス 両 / 桃太郎と金の勝ち / 赤浦島夜叉姫鬼 二 / 三四五六七八九十 / 本日回戦負け 走天候予想後 / 参加レース けっか 遅い回 コ 本 秒 間	40 large winner/ordinal states English with cold proof (results-qa.md); 13 HUD states cold-rendered (hud-outcomes-qa.md); Duel cue corrected and centred with natural solo/versus proof (duel-cue-qa.md); other small counters and overlapping Bonus open
 #898	M990D.BIN:1	font	big outlined: 2345 6789 新記録達成!初 段位更新!段 免許皆伝ゲーム そこまで!おつかれさま 引き分け!スタート	English; 16/16 shared announcement states, checked ANM assembly edits, announcements-qa.md
 #902	NAME0D.BIN:0	menu	ゆうぎアルバム / 段位詳細 / おためし対戦! / ネームエントリー	Game Album, Quick Match and Name Entry have complete cold proof; separate Rank Details consumer remains open; menu-titles-qa.md
 #903	NAME0D.BIN:1	font	name-entry hiragana table (あ..ん, small kana, dakuten)	yellow ~12px; name entry keyboard

@@ -93,7 +93,9 @@ L.on_frame(function(n)
     end
     if m == 0x4C and age >= 600 then arrive(n) end
   elseif kind == "game" then
-    if m == 0x50 and age >= 200 and age % 120 == 0 then L.press("circle", 6) end
+    if m == 0x50 and WARP_GAME_INPUT ~= false and age >= 200 and age % 120 == 0 then
+      L.press("circle", 6)
+    end
     if st.prev == 0x50 and m ~= 0x50 then
       mem[MODE & 0x1FFFFF] = num(s[3])
       if s[4] then mem[0xA3F40 + num(s[3])] = assert(num(s[4])) end

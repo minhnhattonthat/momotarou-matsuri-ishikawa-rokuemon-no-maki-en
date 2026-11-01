@@ -324,7 +324,7 @@
             "Rumble": true
         },
         {
-            "Connected": false,
+            "Connected": true,
             "Controller_PadCircle": 1,
             "Controller_PadCross": 0,
             "Controller_PadDown": 12,

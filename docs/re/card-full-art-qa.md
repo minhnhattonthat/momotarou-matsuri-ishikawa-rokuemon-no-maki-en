@@ -141,6 +141,24 @@ the runtime path remains open. Reproduce by disassembling the original
 `work/disc/tree/OUTBIN/OVLXTTL.BIN` as little-endian MIPS32 with load address
 `0x800CB338`, and comparing the cited calls to `tools/anm.py HOUGEN0D.BIN 6`.
 
+### Further static leads, 2026-11-02
+
+`tools/debug/call_contexts.py 8001f3ac --contains '$a0, $zero, 8'` also
+finds a second HOUGEN loader at **0x800D8350** (load call **0x800D8360**).
+It uploads the same three TIMs, then HCARD00D entry 0. There are **zero
+direct JAL calls** to 0x800D8350 across the original EXE and overlays;
+indirect calls and other ways of entering code remain outside that result.
+The context filter also returns nearby loads of data ID 9: the earlier
+`a0=8` has been overwritten before those calls. Inspect the actual last
+assignment and delay slot; the helper deliberately does not infer dataflow.
+
+HOUGEN0D's background tile table (entry 3) contains sixteen records, all at
+u=0/16/32/48/64 and v=0/16, on page 5/CLUT 30720. Its entry-4 background
+grid therefore cannot display the notice fragments at y=160 and below.
+Together with the ANM audit this excludes the static album layout as the
+notice's consumer, not every possible native-code path. The notice remains
+open; these findings do not authorize an unused-art exemption.
+
 ## Final validation
 
 Final main disc: **182,454,048 bytes**, built **2026-11-01 16:39:00 UTC**,
