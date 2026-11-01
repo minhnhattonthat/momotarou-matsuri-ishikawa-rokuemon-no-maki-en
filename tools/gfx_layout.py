@@ -2,10 +2,13 @@
 
 M990D:3: rejoin START's two adjacent atlas fragments, remove its borrowed dash,
 and centre GAME START. Centre the level number and ! after removing the Japanese
-level suffix. All counts, table offsets, palettes, scales and other items remain.
+level suffix. gfx_results also repacks the 40 winner/ordinal layouts into English
+word order. All counts, table offsets, palettes, scales and other items remain.
 """
 import struct
 from pathlib import Path
+
+import gfx_results
 
 
 TARGET = ('M990D.BIN', 3)
@@ -34,9 +37,9 @@ def patch(name, entry, data):
     if data[:4] != b'ANM\0' or struct.unpack_from('<II', data, 4) != (71, 20):
         raise ValueError('unexpected M990D announcement ANM header')
     out = bytearray(data)
-    for item, sprite, field, before, after in FIELDS:
+    for item, sprite, field, before, after in FIELDS + gfx_results.changes(data):
         start, = struct.unpack_from('<I', data, 20 + item * 4)
-        if struct.unpack_from('<I', data, start)[0] != 5:
+        if item not in gfx_results.LAYOUTS and struct.unpack_from('<I', data, start)[0] != 5:
             raise ValueError(f'unexpected announcement {item} sprite count')
         offset = start + 4 + sprite * 28 + field * 2
         actual, = struct.unpack_from('<H', data, offset)

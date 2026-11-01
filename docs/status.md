@@ -4,6 +4,17 @@ Updated at the end of every session. Keep it to what the next session needs; his
 
 - **Phase:** **8 in progress** (QA in the emulator), then 9 (release).
 - **Done (phase 8 so far, 2026-11-01):**
+  - Shared result banners: M990D:0 and 40 ANM states now show Round/Try/Question 1-10, individual and paired
+    winners with full names, Win and Lose. `tools/gfx_results.py` repacks English words into old large-letter
+    regions; `gfx_layout.py` checks 743 geometry fields while preserving palettes, flags, scales and counts.
+    Tests guard every other archive's sprite users, atlas boundaries and English word order.
+  - Final cold fixture: **40/40 complete result states**, **5/5 scoped visual sheets ok**; original comparison
+    under `work/qa/results8_original`. The extra M51 route is a one-question encounter and does not cover the
+    question-counter banners. Natural result progression remains in the wider QA scope. `docs/re/results-qa.md`.
+  - Latest validation: **54 tests passed**, lint 0; verifier **363 changed files / 0 errors**; cold smoke
+    `work/qa/results8_smoke` passed; result-fixture textlog 0 Japanese lines. Main disc: **182,496,384 bytes**,
+    **2026-11-01 03:39:19 UTC**, SHA-1 **2423760e259876a8dfce16a26db5ca994aa7557b**.
+    **Phase 8 remains incomplete.** Remaining graphics, outcome/menu routes and full visual tour prevent release.
   - Marginal card phrases: `gfx/card_words.tsv` and `tools/gen_card_words.py` redraw the brown dialect
     captions on **all 100 cards**. English follows the existing vertical margins clockwise; all card numbers,
     prefecture strips, palettes and ANM records stay intact. Narrow erase regions protect nearby figures,
@@ -15,7 +26,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
     restored four clipped props; new regression checks protect them. Details: `docs/re/card-words-qa.md`.
     **Illustration SFX, signs, clothing emblems and the red new-card notice remain open.** This is not whole-card
     approval and phase 8 cannot advance to release on it. Original card 001 art/gloss mismatch is documented.
-  - Latest validation: **52 tests passed**, lint 0; verifier **363 changed files / 0 errors**; cold smoke
+  - Previous card-phrase validation: **52 tests passed**, lint 0; verifier **363 changed files / 0 errors**; cold smoke
     `work/qa/words8_smoke4` passed. Main disc: **182,503,440 bytes**, **2026-11-01 03:25:16 UTC**, SHA-1
     **f7b8c56da2e6026b7d154cb3a8496b0806e3f60b**. Final tour: `work/qa/words8_final4`; scoped review:
     `work/qa/words8_review`. Phase 8 remains incomplete; do not advance to release.
@@ -135,11 +146,12 @@ Updated at the end of every session. Keep it to what the next session needs; his
   - Finish runtime coverage of the new minigame redraws: M030 Perfect and M14/M56/M59 banners need the
     relevant outcome/versus states. M010 awards and M990D:1 announcements now have full-sprite cold proof;
     the pause fixture does not work while other games are in dialogue, so its exit code alone is not coverage.
-    Most M990D:0 HUD/result fragments remain Japanese; use `anm.py` before editing pixels. Small Bonus at
+    M990D:0's 40 large winner/ordinal states are now translated and cold-rendered (`results-qa.md`);
+    small HUD words remain Japanese, and normal gameplay progression still needs tour coverage. Small Bonus at
     (136,16,40,16) has overlapping fragment users and is untouched. See `docs/re/announcements-qa.md`.
   - Graphics text (D5: all of it; docs/re/gfx_survey.tsv, 200 rows): classify retained title logos under D5
     (CI0D:3/TITLE0D:3, YUGI0D:1, HOUGEN0D:2, FILESL0D:1); NAME0D:0 mode-menu shots,
-    STATUS0D:0 higher rank shots, remaining M990D:0 HUD + result words, remaining banners
+    STATUS0D:0 higher rank shots, remaining M990D:0 small HUD words, remaining banners
     (GV02000D:2, GV13000D:2...), HOUGEN0D:0 new-card tag, ending-art signs/emblems,
     illustration SFX/signs on HCARD* cards. Per image: `gfx.py export`, find each sprite's rect (in-game the sprite rect
     can be narrower than the JP atlas row: shoot it), add LABELS, `gen_gfx.py`, build `--out build/g8.bin`, shoot.

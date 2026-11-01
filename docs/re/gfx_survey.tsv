@@ -193,7 +193,7 @@ id	source	kind	japanese	note
 #888	M560D.BIN:1	banner	勝ち! 負け! 引き分け!	rainbow result banners
 #890	M590D.BIN:0	banner	引き分け! 勝ち! 負け!	same banners (partial crop)
 #896	M590D.BIN:6	banner	勝ち! 負け! 引き分け!	same banners plus cloud sprites
-#897	M990D.BIN:0	font	HUD word atlas: 時間計勝負分得点記録階 / 1P2P3P4P コース ステージ ボーナス 両 / 桃太郎と金の勝ち / 赤浦島夜叉姫鬼 二 / 三四五六七八九十 / 本日回戦負け 走天候予想後 / 参加レース けっか 遅い回 コ 本 秒 間	metallic outlined glyphs; shared minigame HUD/result words
+#897	M990D.BIN:0	font	HUD word atlas: 時間計勝負分得点記録階 / 1P2P3P4P コース ステージ ボーナス 両 / 桃太郎と金の勝ち / 赤浦島夜叉姫鬼 二 / 三四五六七八九十 / 本日回戦負け 走天候予想後 / 参加レース けっか 遅い回 コ 本 秒 間	40 large winner/ordinal states English with cold proof (results-qa.md); several small HUD words English; remaining small words/counters open
 #898	M990D.BIN:1	font	big outlined: 2345 6789 新記録達成!初 段位更新!段 免許皆伝ゲーム そこまで!おつかれさま 引き分け!スタート	English; 16/16 shared announcement states, checked ANM assembly edits, announcements-qa.md
 #902	NAME0D.BIN:0	menu	ゆうぎアルバム / 段位詳細 / おためし対戦! / ネームエントリー	title + menu labels with arrows
 #903	NAME0D.BIN:1	font	name-entry hiragana table (あ..ん, small kana, dakuten)	yellow ~12px; name entry keyboard

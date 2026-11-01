@@ -25,6 +25,7 @@ import arc  # noqa: E402
 import engine  # noqa: E402
 import gfx  # noqa: E402
 import tim  # noqa: E402
+import gfx_results  # noqa: E402
 
 FONT = ROOT / 'fonts' / 'ofl' / 'Fredoka.ttf'
 CLEAR = (0, 0, 0, 0)
@@ -307,6 +308,8 @@ def generate():
             draw(assembled, 0, 0, width, height, text, {}, pal)
             for u, v, w, h, x, y in pieces:
                 im.paste(assembled.crop((x, y, x + w, y + h)), (u, v))
+        if key == 'M990D.BIN:0':
+            gfx_results.draw(im, pal)
         for k in same[t]:
             name, _, e = k.partition(':')
             out = gfx.EN / f'{Path(name).stem}_{e}.png'
