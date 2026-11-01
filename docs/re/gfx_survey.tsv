@@ -24,54 +24,54 @@ id	source	kind	japanese	note
 #186	FONT0D.BIN:0@10	font	page A kanji, page B digits+kana+symbols (2bpp planes)	main text font
 #187	FONT0D.BIN:1@5730	font	kanji pages	main text font
 #265	GCV0310D.BIN:13@30470	other	桃太郎 / 柿太郎 / 栗太郎 / 月姫 (labelled placeholder portraits)	dormant dialogue portrait IDs 123-126: zero literal references in 4894 messages; cold Moon trace uploads but does not bind them; portrait-audit.md; unchanged, reopen if displayed
-#302	GF10000D.BIN:0@20	sign	八百屋 (carved wooden shop board, lower right); carved kanji on small board upper right ?; strip of carved sign characters mid-left ?	Inn plaque translated in all exact copies; no static consumer in GF100/GF110/GV310, runtime unproved; other signs remain; inn-signs-qa.md
+#302	GF10000D.BIN:0@20	sign	八百屋 (carved wooden shop board, lower right); carved kanji on small board upper right ?; strip of carved sign characters mid-left ?	Inn/Tea/Bank translated in exact copies; no static consumers in GF100/GF110/GV310, runtime unproved; other signs remain; inn-signs-qa.md and tea-bank-signs-qa.md
 #305	GF10000D.BIN:3@9270	sign	row of 7 round-ish shop plaques with gold kanji ?, plus 八百屋 board below	shop-sign plaques; kanji unreadable at this size
-#320	GV00000D.BIN:0@20	sign	八百屋 (board lower right); carved kanji on small board upper right ?; sign-character strip ?	Inn plaque translated; no static consumer, runtime unproved; other signs remain; inn-signs-qa.md
-#327	GV01000D.BIN:0@10	sign	row of carved sign kanji strip (mid-left) ?; 八百屋 board (centre right)	Inn translated with cold map45 proof; other signs remain; inn-signs-qa.md
+#320	GV00000D.BIN:0@20	sign	八百屋 (board lower right); carved kanji on small board upper right ?; sign-character strip ?	Inn/Tea/Bank translated; no static consumer, runtime unproved; other signs remain; tea-bank-signs-qa.md
+#327	GV01000D.BIN:0@10	sign	row of carved sign kanji strip (mid-left) ?; 八百屋 board (centre right)	Inn/Tea/Bank translated with cold map45 proof; other signs remain; tea-bank-signs-qa.md
 #329	GV01000D.BIN:2@8360	sign	7 shop plaques with kanji ?; 八百屋 board	same as #305
-#352	GV02000D.BIN:0@20	sign	vertical signboards with kanji (right of shrine; 道 ... ?)	Inn translated with cold map59 proof; other signs remain; inn-signs-qa.md
+#352	GV02000D.BIN:0@20	sign	vertical signboards with kanji (right of shrine; 道 ... ?)	Inn/Tea/Bank translated with cold map59 proof; other signs remain; tea-bank-signs-qa.md
 #354	GV02000D.BIN:2@81b0	banner	天下一だ… / …じゃれ大会 (two white boards, probably 天下一だじゃれ大会); green signs with gold kanji ?; pink/white flags with emblem (unsure if text)	split contest board English but runtime use still unproved; other wooden signs remain; pink flags are peach emblems; field-signs-qa.md
 #355	GV02000D.BIN:3@a7e0	sign	7 shop plaques with kanji ?; 八百屋 board	same as #305
 #372	GV03010D.BIN:3@e230	sign	small wooden shop boards with kanji in centre/left rows ?	unsure; tiny
 #375	GV03030D.BIN:3@e200	sign	small wooden shop boards with kanji ?	same as #372; unsure
 #373	GV03020D.BIN:2@aec0	sign	small board lower centre with kanji ?	unsure; tiny
-#377	GV04000D.BIN:0@20	sign	道と… / 八百屋 board (large carved board top right, "道" + ?); two more plaques with kanji in the lower strip ?	both Inn plaques translated; foreground cold map80 proof, underlying copy unproved; other signs remain; inn-signs-qa.md
+#377	GV04000D.BIN:0@20	sign	道と… / 八百屋 board (large carved board top right, "道" + ?); two more plaques with kanji in the lower strip ?	Inn/Tea/Bank cold map80 proof; underlying Inn copy unproved; other signs remain; tea-bank-signs-qa.md
 #380	GV04000D.BIN:3@d460	sign	tiny shop plaques top row ?	unsure; likely decoration
-#385	GV04002D.BIN:0	sign	宿 / 道 と 茶 / 八百屋 (wooden shop signs)	Inn translated with cold map81 proof; other signs remain; inn-signs-qa.md
-#413	GV06000D.BIN:0	sign	八百屋? + ~3 other shop signs	both Inn plaques translated; displayed copy cold maps99/100 proof, other unproved; other signs remain; inn-signs-qa.md
+#385	GV04002D.BIN:0	sign	宿 / 道 と 茶 / 八百屋 (wooden shop signs)	Inn/Tea/Bank translated with cold map81 proof; other signs remain; tea-bank-signs-qa.md
+#413	GV06000D.BIN:0	sign	八百屋? + ~3 other shop signs	Inn/Tea/Bank cold maps99/100 proof; second Inn unproved; other signs remain; tea-bank-signs-qa.md
 #416	GV06000D.BIN:3	sign	row of 8 round kanji plaques + 八百屋 plaque + small plaque	sign sprite strip
-#422	GV08000D.BIN:0	sign	town signs (kanji, illegible)	Inn translated with cold map114 proof; other signs remain; inn-signs-qa.md
-#430	GV09000D.BIN:0	sign	town signs (illegible)	Inn translated with cold map126 proof; other signs remain; inn-signs-qa.md
+#422	GV08000D.BIN:0	sign	town signs (kanji, illegible)	Inn/Tea/Bank translated with cold map114 proof; other signs remain; tea-bank-signs-qa.md
+#430	GV09000D.BIN:0	sign	town signs (illegible)	Inn/Tea/Bank translated with cold map126 proof; other signs remain; tea-bank-signs-qa.md
 #433	GV09000D.BIN:3	sign	row of 5 round kanji plaques	sign strip
 #446	GV11000D.BIN:2	sign	鬼の実? (6 red vertical nobori flags, 3 kanji each)	best effort
-#447	GV12000D.BIN:0	sign	town signs: 八百屋? + kanji	Inn translated with two cold map143 placements; other signs remain; inn-signs-qa.md
+#447	GV12000D.BIN:0	sign	town signs: 八百屋? + kanji	Inn/Tea/Bank each translated with two cold map143 placements; other signs remain; tea-bank-signs-qa.md
 #448	GV12000D.BIN:1	sign	ゆうぎ -> Games	English; complete cold map143 lettering + context/detail verdicts, games-signs-qa.md
-#455	GV12002D.BIN:0	sign	town signs incl 八百屋?	Inn translated with two cold map144 placements; other signs remain; inn-signs-qa.md
+#455	GV12002D.BIN:0	sign	town signs incl 八百屋?	Inn/Tea/Bank each translated with two cold map144 placements; other signs remain; tea-bank-signs-qa.md
 #456	GV12002D.BIN:1	sign	ゆうぎ -> Games	English; complete cold map144 lettering + context/detail verdicts, games-signs-qa.md
 #459	GV12002D.BIN:4	other	き? (single glyph on a snow statue)	unsure if text
-#467	GV13000D.BIN:0	sign	town signs incl 八百屋?	both Inn plaques translated; displayed copy cold map163 proof, other unproved; other signs remain; inn-signs-qa.md
+#467	GV13000D.BIN:0	sign	town signs incl 八百屋?	Inn/Tea/Bank cold map163 proof; second Inn unproved; other signs remain; tea-bank-signs-qa.md
 #468	GV13000D.BIN:1	sign	ゆうぎ -> Games	English; complete cold map163 lettering + context/detail verdicts, games-signs-qa.md; #481/#514 also accepted, #562 classification remains open
 #469	GV13000D.BIN:2	banner	天下一だじゃれ大会	World's Greatest Pun Contest; complete cold palette-2 lettering match and scoped visual verdict; field-signs-qa.md
-#478	GV16000D.BIN:0	sign	ゆ 衣 茶 舗? と 宿 (long signboard)	Inn translated with cold map180 proof; M220D duplicate translated without visible placement; other signs remain; inn-signs-qa.md
+#478	GV16000D.BIN:0	sign	ゆ 衣 茶 舗? と 宿 (long signboard)	Inn/Tea/Bank cold map180 proof; M220D duplicate translated without visible placement; other signs remain; tea-bank-signs-qa.md
 #481	GV16000D.BIN:3	sign	ゆうぎ -> Games; 湯? / 亭? roof signs	Games cold map180 proof and scoped verdict; M220D:3 duplicate regenerated; other roof signs remain, games-signs-qa.md
 #486	GV16090D.BIN:1	sign	男湯 / 女湯; 予約 / 本日 / 貸切	Men's Bath / Women's Bath and Private Today in all three copies; runtime palette 2 corrected for placard; field-signs-qa.md and small-props-qa.md
-#499	GV20000D.BIN:0	sign	宿 道 茶 ? 八百屋?	Inn translated with cold map207 proof; other signs remain; inn-signs-qa.md
+#499	GV20000D.BIN:0	sign	宿 道 茶 ? 八百屋?	Inn/Tea/Bank translated with cold map207 proof; other signs remain; tea-bank-signs-qa.md
 #502	GV20000D.BIN:3	sign	row of 8 round kanji plaques	sign strip
-#503	GV20002D.BIN:0	sign	宿 道 茶 ? + 八百屋	Inn translated; map208 lacks a known native initializer so runtime remains unproved; other signs remain; inn-signs-qa.md
+#503	GV20002D.BIN:0	sign	宿 道 茶 ? + 八百屋	Inn/Tea/Bank translated; map208 lacks a known native initializer so runtime remains unproved; other signs remain; tea-bank-signs-qa.md
 #506	GV20002D.BIN:3	sign	row of 8 round kanji plaques	sign strip
-#507	GV21000D.BIN:0	sign	宿 道 ? 茶 ? + ゆ?? board	Inn translated with cold map223 proof; other signs remain; inn-signs-qa.md
+#507	GV21000D.BIN:0	sign	宿 道 ? 茶 ? + ゆ?? board	Inn/Tea/Bank translated with cold map223 proof; other signs remain; tea-bank-signs-qa.md
 #510	GV21000D.BIN:3	sign	8 round kanji plaques + 八百屋 plaque	sign strip
-#513	GV22000D.BIN:0	sign	row of kanji shop signs	Inn translated with cold rainy237/sunny238 proof; other signs remain; inn-signs-qa.md
+#513	GV22000D.BIN:0	sign	row of kanji shop signs	Inn/Tea/Bank translated with cold rainy237/sunny238 proof; other signs remain; tea-bank-signs-qa.md
 #514	GV22000D.BIN:1	sign	ゆうぎ -> Games	English including split right edge; both placements cold on rainy237/sunny238 with scoped verdicts, games-signs-qa.md
-#538	GV30000D.BIN:0	sign	八百屋? small board	Inn translated with cold map286 and dark GV30002D/map285 proof; other signs remain; inn-signs-qa.md
+#538	GV30000D.BIN:0	sign	八百屋? small board	Inn/Tea translated with cold map286 and dark GV30002D/map285 proof; other signs remain; tea-bank-signs-qa.md
 #547	GV32000D.BIN:1	sign	ゆうぎ -> Games	English; complete cold map295 lettering + context/detail verdicts, games-signs-qa.md
 #549	GV32000D.BIN:3	sign	8 round kanji plaques + 八百屋 + 2 small	sign strip
-#555	GV34000D.BIN:0	sign	town signs	Inn translated with cold map306 proof; other signs remain; inn-signs-qa.md
+#555	GV34000D.BIN:0	sign	town signs	Inn/Tea/Bank translated with cold map306 proof; other signs remain; tea-bank-signs-qa.md
 #556	GV34000D.BIN:1	sign	ゆうぎ -> Games	English; both map306 placements cold-rendered, context/detail verdicts, games-signs-qa.md
-#561	GV36000D.BIN:0	sign	town signs incl 湯? plaque	Inn translated with cold maps320/321 proof; other signs remain; inn-signs-qa.md
+#561	GV36000D.BIN:0	sign	town signs incl 湯? plaque	Inn/Tea/Bank translated with cold maps320/321 proof; other signs remain; tea-bank-signs-qa.md
 #562	GV36000D.BIN:1	sign	ゆ?? board	unsure
 #565	GV37000D.BIN:0	sign	旅籠場? (4-char wooden board)	reading unsure
-#566	GV38000D.BIN:0	sign	town sign plaques	both Inn plaques translated; displayed copy cold map335 proof, other unproved; other signs remain; inn-signs-qa.md
+#566	GV38000D.BIN:0	sign	town sign plaques	Inn/Tea cold map335 proof; second Inn unproved; other signs remain; tea-bank-signs-qa.md
 #574	HCARD00D.BIN:0	card	なまら あっつぃべゃぁ / はっ / NO.001 北海道	all 100 prefecture captions/marginal phrases English; 56 SFX placements on 36 cards translated (card-art-qa.md lists exact cards); small signs/emblems remain
 #575	HCARD00D.BIN:1	card	はっちゃきこく? / ギシ ギシ / NO.002 北海道	collectible dialect card
 #576	HCARD00D.BIN:2	card	NO.003 青森県 / じょっぱり	dialect card: handwritten word + baked label bar (NO.### + prefecture); #574-#673 share this layout

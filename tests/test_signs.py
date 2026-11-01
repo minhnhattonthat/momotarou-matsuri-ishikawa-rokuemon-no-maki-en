@@ -61,16 +61,20 @@ def test_full_contest_title_survives_split_atlas_boundary():
                 assert (assembled.getpixel((left + x, top + y)) == colour) == bool(expected.getpixel((x, y)))
 
 
-def test_inn_plaques_remove_both_original_engraving_colours():
-    mask = gen_gfx.mask('Inn', 7, {'pixel': 'credits7.txt', 'tight': True})
-    for stem, positions in gfx_signs.INN_ATLASES.items():
+@pytest.mark.parametrize('word,atlases,span,offset', [
+    ('Inn', gfx_signs.INN_ATLASES, 13, 0), ('Tea', gfx_signs.TEA_ATLASES, 13, 0),
+    ('Bank', gfx_signs.BANK_ATLASES, 16, -1)])
+def test_plaques_remove_both_original_engraving_colours(word, atlases, span, offset):
+    mask = gen_gfx.mask(word, 7, {'pixel': 'credits7.txt', 'tight': True})
+    for stem, positions in atlases.items():
         texture, _ = gen_gfx.original(f'{stem}.BIN:0')
         revised = gfx.indices(gen_gfx.redrawn(f'{stem}.BIN:0'))
         width = gfx.layout(texture)[1]
         for x0, y0 in positions:
-            left, top = (13 - mask.width) // 2, (13 - mask.height) // 2
+            x0 += offset
+            left, top = (span - mask.width) // 2, (13 - mask.height) // 2
             for y in range(13):
-                for x in range(13):
+                for x in range(span):
                     colour = revised[(y0 + y) * width + x0 + x]
                     letter = (left <= x < left + mask.width and top <= y < top + mask.height
                               and mask.getpixel((x - left, y - top)))

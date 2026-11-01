@@ -63,6 +63,54 @@ CASES = {
     'inn321': (321, 33, 41, 0, 'GV36000D.BIN:0'),
     'inn207': (207, 16, 21, 0, 'GV20000D.BIN:0'),
     'inn335': (335, 25, 32, 0, 'GV38000D.BIN:0'),
+    'tea45': (45, 45, 29, 0, 'GV01000D.BIN:0'),
+    'tea59': (59, 35, 117, 0, 'GV02000D.BIN:0'),
+    'tea80': (80, 30, 43, 0, 'GV04000D.BIN:0'),
+    'tea81': (81, 30, 43, 0, 'GV04002D.BIN:0'),
+    'tea99': (99, 63, 37, 0, 'GV06000D.BIN:0'),
+    'tea100': (100, 63, 37, 0, 'GV06000D.BIN:0'),
+    'tea114': (114, 13, 61, 0, 'GV08000D.BIN:0'),
+    'tea126': (126, 53, 38, 0, 'GV09000D.BIN:0'),
+    'tea143a': (143, 23, 33, 0, 'GV12000D.BIN:0'),
+    'tea143b': (143, 96, 33, 0, 'GV12000D.BIN:0'),
+    'tea144a': (144, 23, 33, 0, 'GV12002D.BIN:0'),
+    'tea144b': (144, 96, 33, 0, 'GV12002D.BIN:0'),
+    'tea163': (163, 26, 35, 0, 'GV13000D.BIN:0'),
+    'tea180': (180, 93, 50, 0, 'GV16000D.BIN:0'),
+    'tea207': (207, 23, 35, 0, 'GV20000D.BIN:0'),
+    'tea223': (223, 51, 48, 0, 'GV21000D.BIN:0'),
+    'tea237': (237, 20, 29, 0, 'GV22000D.BIN:0'),
+    'tea238': (238, 20, 29, 0, 'GV22000D.BIN:0'),
+    'tea263': (263, 43, 49, 0, 'GV23000D.BIN:0'),
+    'tea285': (285, 28, 34, 0, 'GV30002D.BIN:0'),
+    'tea286': (286, 28, 34, 0, 'GV30000D.BIN:0'),
+    'tea295': (295, 26, 26, 0, 'GV32000D.BIN:0'),
+    'tea306': (306, 57, 34, 0, 'GV34000D.BIN:0'),
+    'tea320': (320, 14, 41, 0, 'GV36000D.BIN:0'),
+    'tea321': (321, 14, 41, 0, 'GV36000D.BIN:0'),
+    'tea335': (335, 36, 32, 0, 'GV38000D.BIN:0'),
+    'bank45': (45, 19, 29, 0, 'GV01000D.BIN:0'),
+    'bank59': (59, 22, 123, 0, 'GV02000D.BIN:0'),
+    'bank80': (80, 20, 19, 0, 'GV04000D.BIN:0'),
+    'bank81': (81, 20, 19, 0, 'GV04002D.BIN:0'),
+    'bank99': (99, 17, 21, 0, 'GV06000D.BIN:0'),
+    'bank100': (100, 17, 21, 0, 'GV06000D.BIN:0'),
+    'bank114': (114, 20, 61, 0, 'GV08000D.BIN:0'),
+    'bank126': (126, 38, 41, 0, 'GV09000D.BIN:0'),
+    'bank143a': (143, 17, 25, 0, 'GV12000D.BIN:0'),
+    'bank143b': (143, 106, 25, 0, 'GV12000D.BIN:0'),
+    'bank144a': (144, 17, 25, 0, 'GV12002D.BIN:0'),
+    'bank144b': (144, 106, 25, 0, 'GV12002D.BIN:0'),
+    'bank163': (163, 30, 23, 0, 'GV13000D.BIN:0'),
+    'bank180': (180, 80, 71, 0, 'GV16000D.BIN:0'),
+    'bank207': (207, 18, 41, 0, 'GV20000D.BIN:0'),
+    'bank223': (223, 16, 48, 0, 'GV21000D.BIN:0'),
+    'bank237': (237, 23, 43, 0, 'GV22000D.BIN:0'),
+    'bank238': (238, 23, 43, 0, 'GV22000D.BIN:0'),
+    'bank263': (263, 18, 49, 0, 'GV23000D.BIN:0'),
+    'bank306': (306, 19, 34, 0, 'GV34000D.BIN:0'),
+    'bank320': (320, 22, 27, 0, 'GV36000D.BIN:0'),
+    'bank321': (321, 22, 27, 0, 'GV36000D.BIN:0'),
 }
 # These atlases also retain another Inn tile beneath/outside the visible
 # map layer. These routes approve only the displayed layer's complete label.
@@ -99,7 +147,10 @@ def run(name, args, initializers):
         if result.returncode:
             return name, [('emulator', name, 'failed', '', '', '')]
     return name, check(out, key, args.original, ('walk_*.png', f'{name}.png', 'final.png'),
-                       weather=m == 237, labels=CASE_LABELS.get(name))
+                       weather=m == 237, labels=CASE_LABELS.get(
+                           name, ('inn',) if name.startswith('inn') else
+                           ('tea',) if name.startswith('tea') else
+                           ('bank',) if name.startswith('bank') else None))
 
 
 def main():

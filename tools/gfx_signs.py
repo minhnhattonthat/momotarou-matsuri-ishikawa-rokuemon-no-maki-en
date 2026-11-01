@@ -78,6 +78,47 @@ for _name, _positions in INN_ATLASES.items():
              [(_left, _y - 1, min(32, 256 - _left), 16, 0, 0)],
              (_x - _left, 1, _x - _left + 13, 14), ['Inn'], None, 'plaque'))
 
+# Both engraved Tea patterns, found by their complete index-12/13 masks.
+# M220D:0 is an exact image duplicate of GV16000D:0 and is generated too.
+TEA_ATLASES = {
+    'GF10000D': [(1, 81)], 'GF11000D': [(1, 81)], 'GV00000D': [(1, 81)],
+    'GV01000D': [(169, 81)], 'GV02000D': [(233, 129)],
+    'GV04000D': [(33, 153)], 'GV04002D': [(33, 153)],
+    'GV06000D': [(169, 81)], 'GV08000D': [(33, 81)], 'GV09000D': [(41, 81)],
+    'GV12000D': [(49, 81)], 'GV12002D': [(49, 81)], 'GV13000D': [(33, 81)],
+    'GV16000D': [(33, 81)], 'GV20000D': [(33, 81)], 'GV20002D': [(33, 81)],
+    'GV21000D': [(65, 81)], 'GV22000D': [(17, 81)], 'GV23000D': [(177, 81)],
+    'GV24000D': [(33, 81)], 'GV30000D': [(1, 81)], 'GV30002D': [(1, 81)],
+    'GV31000D': [(1, 81)], 'GV32000D': [(33, 81)], 'GV34000D': [(97, 81)],
+    'GV36000D': [(1, 81)], 'GV38000D': [(33, 81)],
+}
+for _name, _positions in TEA_ATLASES.items():
+    for _x, _y in _positions:
+        _left = max(0, _x - 8)
+        SIGNS.setdefault(f'{_name}.BIN:0', []).append(
+            ('tea', [(_left, _y - 1, min(32, 256 - _left), 16, 0, 0)],
+             (_x - _left, 1, _x - _left + 13, 14), ['Tea'], None, 'plaque'))
+
+# と marks the といち屋 (Bank in the glossary). BANK is sixteen pixels wide;
+# use a sixteen-pixel source span, whose outer columns are plain wood, rather
+# than clipping the word to the Japanese glyph's thirteen-pixel ink bounds.
+BANK_ATLASES = {
+    'GF10000D': [(81, 81)], 'GF11000D': [(81, 81)], 'GV00000D': [(81, 81)],
+    'GV01000D': [(233, 81)], 'GV02000D': [(233, 161)],
+    'GV04000D': [(65, 153)], 'GV04002D': [(65, 153)], 'GV06000D': [(105, 65)],
+    'GV08000D': [(49, 81)], 'GV09000D': [(73, 81)],
+    'GV12000D': [(1, 81)], 'GV12002D': [(1, 81)], 'GV13000D': [(1, 81)],
+    'GV16000D': [(65, 81)], 'GV20000D': [(65, 81)], 'GV20002D': [(65, 81)],
+    'GV21000D': [(33, 81)], 'GV22000D': [(49, 81)], 'GV23000D': [(145, 81)],
+    'GV31000D': [(81, 81)], 'GV34000D': [(81, 81)], 'GV36000D': [(17, 81)],
+}
+for _name, _positions in BANK_ATLASES.items():
+    for _x, _y in _positions:
+        _left = max(0, _x - 8)
+        SIGNS.setdefault(f'{_name}.BIN:0', []).append(
+            ('bank', [(_left, _y - 1, min(32, 256 - _left), 16, 0, 0)],
+             (_x - _left - 1, 1, _x - _left + 15, 14), ['Bank'], None, 'plaque'))
+
 
 def assemble(im, pieces):
     out = Image.new('RGBA', (max(x + w for _, _, w, _, x, _ in pieces),

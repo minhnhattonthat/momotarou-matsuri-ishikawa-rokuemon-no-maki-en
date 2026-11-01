@@ -3,7 +3,18 @@
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
 - **Phase:** **8 in progress** (QA in the emulator), then 9 (release).
-- **Done (phase 8 so far, 2026-11-01):**
+- **Done (phase 8 so far, 2026-11-02):**
+  - Tea/Bank plaques: **28 Tea + 23 Bank placements across 28 atlases** translated, including M220D.
+    Both engraved variants were swept by complete pixel masks. Bank uses a 16-pixel source span,
+    preserving the complete word and all surrounding art; night Tea uses the existing CLUT-1 fix.
+    **26 Tea + 22 Bank cold placements pass on both discs**. Reframed maps99/100 after review caught
+    off-screen plaque edges despite a passing English lettering match. Fresh D10 review accepts all
+    **48/48 detail pairs**; whole-scene gate is **78 ok / 18 issues** across 96 pairs, with no missing
+    or stale verdicts. Other signs/emblems remain; `tea-bank-signs-qa.md` and its verdict TSV record scope.
+  - Latest validation: **109 tests / lint 0**, verifier **394 changed files / 0 errors**, cold smoke
+    `tea_bank8_smoke` passed, **0 Japanese lines in 48 logs** (graphics excluded). Main disc:
+    **182,451,696 bytes**, **2026-11-01 13:11:23 UTC**, SHA-1
+    **5061f496f11a4fa0be71e1c4bf936bfb181e2b7d**. **Phase 8 still has not met its done-when.**
   - Inn signs: both engraved forms now read **Inn**, **34 placements / 28 atlases** including M220D.
     Cold original/English routes cover **26 field placements**, including snow, rain and night variants.
     The first night redraw lost strokes because CLUT 0 aliases wood/ink; a new regression caught it,
@@ -390,9 +401,14 @@ Updated at the end of every session. Keep it to what the next session needs; his
     bath-counter placard is now Private Today, verified under palette 2 in all three contexts (`small-props-qa.md`).
     Five Games atlases now have six accepted cold placements (`games-signs-qa.md`); other Games variants
     #481/#514 Games boards are now accepted in five more contexts; #562 still needs classification,
-    and Tea/equipment/produce shop and stall signs remain Japanese. Both Inn glyph families now have
+    and equipment/produce shop and stall signs remain Japanese. Both Inn glyph families now have
     26 accepted cold placements (`inn-signs-qa.md`); seven context findings keep their gate red.
     Static/underlying copies and map208 remain unproved.
+    Tea/Bank glyph families now have 48 accepted cold placements (`tea-bank-signs-qa.md`); their broader
+    views expose additional Japanese Games boards in **maps80/81 and 263**, plus Fish Shop, medicine,
+    item/equipment and bath plaques. Follow the 18 whole-scene issues in `tea-bank-signs-verdicts.tsv`.
+    `plaque_consumers.py tea|bank` gives static navigation leads; `signs_tour.py --only tea* / bank*`
+    means the explicit named cases in its CASES table (the CLI does not expand wildcards).
     `gfxfind_rect.py --indices 12 13` finds complete engraved-glyph copies; `inn_consumers.py` lists their
     static map consumers. `signs_tour.py --only` reproduces the
     new Games, accepted contest and bath contexts; `fieldmap.py` is a navigation preview, never QA evidence.

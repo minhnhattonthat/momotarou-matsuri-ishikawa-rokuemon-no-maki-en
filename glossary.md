@@ -137,9 +137,9 @@ Shared names reuse `../momotarou-densetsu-en/glossary.md` (same series, same own
 | カード / カードアルバム | card / Card Album | | 方言カード Dialect Card | |
 | 道具 / どうぐ | item | | menu label: Items | |
 | だいじなもの | Key Items | | | |
-| といち屋 | Bank | | | |
+| といち屋 | Bank | | roof plaques marked と also use Bank | |
 | かんてい小屋 | Appraisal Hut | | | |
-| 茶屋 | teahouse | | | tea house |
+| 茶屋 | teahouse | | roof plaques marked 茶 use Tea | tea house |
 | 道具屋 | item shop | | | |
 | ウサカメレース | Rabbit-Turtle Race | | betting race in Usakame Village | |
 | 鬼兄弟 | Oni Brothers | | | |

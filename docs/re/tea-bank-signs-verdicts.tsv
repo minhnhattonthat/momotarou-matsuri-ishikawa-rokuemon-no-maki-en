@@ -1,0 +1,97 @@
+sheet	sha1	verdict	note
+bank100_bank_context_sheet	dd90c65e937be83a129eb0531e800854595b77c8	ok	Full Bank plaque visible after x=17 reroute; spring surroundings preserved.
+bank100_bank_detail_sheet	6a54138ddd62a81bc3caad4520712ff02d25dc64	ok	Complete BANK; wood and plaque silhouette preserved.
+bank114_bank_context_sheet	d5c0c07c31f8d86c7f83f4061db2c0bafb846426	ok	Bank and Tea fit; peach flags and scene art preserved.
+bank114_bank_detail_sheet	d1c68551b2d81a04a8062587a514a9efb066aae8	ok	Complete BANK; original wood and roof colours preserved.
+bank126_bank_context_sheet	eadbd51fe6dcc395eea4e605c892b00adea101a1	issue	Bank fits; Fish Shop sign at lower left remains Japanese.
+bank126_bank_detail_sheet	e0753a8d671d3cfeef4ebe28bbc9f5cebe185476	ok	Complete BANK; plaque frame and roof preserved.
+bank143a_bank_context_sheet	c26b1b21871b2a6644038b536756c08a0235843b	issue	Bank fits; neighboring item-shop plaque at right still reads 道.
+bank143a_bank_detail_sheet	e67bef8db4ba52ad5117908f9a24adce0ecff003	ok	Complete BANK; board edges intact.
+bank143b_bank_context_sheet	1e5ec9c7085f79b2068602a3b055d7dc0d946dff	issue	Bank fits; medicine-shop plaque at left still reads 薬.
+bank143b_bank_detail_sheet	e67bef8db4ba52ad5117908f9a24adce0ecff003	ok	Complete BANK; full plaque and engraving removal pass.
+bank144a_bank_context_sheet	d0fbe8e741385acc28e13645c8648d82f7451fb4	issue	Bank fits in snow; neighboring item-shop plaque still reads 道.
+bank144a_bank_detail_sheet	0f5921e3d694eb425940ea6254d7f08bda4dbcc1	ok	Complete BANK; snow and plaque silhouette preserved.
+bank144b_bank_context_sheet	fe1c1fcc1cffa433dc7ed176f8ac5b31013201d9	issue	Bank fits in snow; medicine-shop plaque at left still reads 薬.
+bank144b_bank_detail_sheet	0f5921e3d694eb425940ea6254d7f08bda4dbcc1	ok	Complete BANK; snow background and wood preserved.
+bank163_bank_context_sheet	ae0dd825d5c9723f23b1d129a0f6a4295e47b9d7	issue	Bank fits; purple-banner emblems need classification and partial produce-shop sign remains Japanese at left.
+bank163_bank_detail_sheet	6363292604ef94192bf74cf3aa15afc0c7e0f8e4	ok	Complete BANK; surrounding roof and plaque frame preserved.
+bank180_bank_context_sheet	f979a91d6d466e6e4662e326fd845edea0e3ba6c	issue	Bank fits; small ground placard at lower left needs lettering classification.
+bank180_bank_detail_sheet	f7269b438234429f42678f8e36ae8887d1420de6	ok	Complete BANK on green roof; board and palette preserved.
+bank207_bank_context_sheet	ae7d29b70008e05263898bce93327eaa9633866e	issue	Bank fits; Fish Shop sign at right remains Japanese.
+bank207_bank_detail_sheet	29497a69a76d2d54bb638222fde8725f63442c4b	ok	Complete BANK; stone-roof colours and silhouette preserved.
+bank223_bank_context_sheet	9fa7def5db6fba4a0ddfda71bac87c5be21e1e24	ok	Bank fully visible; nearby building and scene art preserved.
+bank223_bank_detail_sheet	91cb7b018c7f577393ea7f742f9737914b93c637	ok	Complete BANK; frame and neighbouring roof preserved.
+bank237_bank_context_sheet	a4a68f023c8789e176de9c0c9b473169261536ee	ok	Bank readable in rain; dark blue lettering follows original palette.
+bank237_bank_detail_sheet	460b9566e90df7b7cc0e10403219cab735ca34cf	ok	Complete BANK with all strokes in rain palette; original silhouette preserved.
+bank238_bank_context_sheet	ca76fe7139db0c19ce14576db6bc98ef477dfb37	ok	Bank fully visible in sunny variant; scene art preserved.
+bank238_bank_detail_sheet	866c81b7bb0a7546f1aa4039fd9d94d91eab8a48	ok	Complete BANK; sunny wood and lettering colours preserved.
+bank263_bank_context_sheet	7d8634c878c1514df7e541e0ddc16cbede8d5593	issue	Bank fits; neighboring Games board at right remains ゆうぎ.
+bank263_bank_detail_sheet	177198a72af3fbb41d23f22d7875d1a3068e4248	ok	Complete BANK on green roof; plaque frame preserved.
+bank306_bank_context_sheet	e809fdc13cac0c17659ca216ef9de931912d42bb	ok	Bank fully visible on purple roof; surrounding objects preserved.
+bank306_bank_detail_sheet	09a51e9b86397873dca0c367c88dc6491cbec289	ok	Complete BANK; all letters fit inside plaque frame.
+bank320_bank_context_sheet	f4e083f641aa1f4e8dca65ce7250ab496f376126	ok	Bank and displayed dialogue fit; native dialogue trigger differs in timing only.
+bank320_bank_detail_sheet	2842fb3c577359f22d7203bbea93dc14b15cfb14	ok	Complete BANK; purple roof and plaque silhouette preserved.
+bank321_bank_context_sheet	f4e083f641aa1f4e8dca65ce7250ab496f376126	ok	Bank and displayed dialogue fit; unchanged scene art.
+bank321_bank_detail_sheet	2842fb3c577359f22d7203bbea93dc14b15cfb14	ok	Complete BANK; all strokes and frame intact.
+bank45_bank_context_sheet	f7770f5ad335be2a76f68b778b97811334406a1d	ok	Bank and Inn fully visible; scene art preserved.
+bank45_bank_detail_sheet	f5d6ed90aed0ac45c153af8540683c3697c743f8	ok	Complete BANK; old glyph and highlights removed.
+bank59_bank_context_sheet	713bf9538435523706ee56843ba9b0361488dc1b	ok	Bank fits; peach flags, roof and plaza preserved.
+bank59_bank_detail_sheet	6a54138ddd62a81bc3caad4520712ff02d25dc64	ok	Complete BANK; plaque and surrounding roof intact.
+bank80_bank_context_sheet	4441b3dc61b75ec7e9f4542587054188a84aabcf	issue	Bank fits; Games board below remains ゆうぎ.
+bank80_bank_detail_sheet	51b2877eb9e3aa881e34812d2d8330b02dac938b	ok	Complete BANK; frame and roof preserved.
+bank81_bank_context_sheet	eb36e9a468cd4200995d9fec2a5ec062cd67446e	issue	Bank fits; Games board below remains ゆうぎ.
+bank81_bank_detail_sheet	01745f4980ae25159575f055a86dbb32b4ef3f30	ok	Complete BANK; green roof and plaque frame preserved.
+bank99_bank_context_sheet	59e484ad484409438cad9aef85051dc6e63f0179	ok	Full Bank plaque visible after x=17 reroute; autumn surroundings preserved.
+bank99_bank_detail_sheet	6a54138ddd62a81bc3caad4520712ff02d25dc64	ok	Complete BANK; wood and plaque silhouette preserved.
+tea100_tea_context_sheet	c041be82e47473ec8e2ff30e8eedd6241036c4e6	ok	Full Tea plaque visible after x=63 reroute; spring art preserved.
+tea100_tea_detail_sheet	2197138ff4230df1fc412cdf5c0c3ebc123a90ef	ok	Complete TEA; wood and plaque outline preserved.
+tea114_tea_context_sheet	3ea2b63790508c13458d4297849dc07363f247de	ok	Tea and Bank readable; plaza art preserved.
+tea114_tea_detail_sheet	39cfc553c4f21955551933fee4370aeb1c3eb21b	ok	Complete TEA; frame and original colours preserved.
+tea126_tea_context_sheet	908356e26ee7cb39d965447ae1e9a5abdd632d0b	ok	Tea readable; roof, bales and surrounding scene preserved.
+tea126_tea_detail_sheet	61284ab27f42d24174c8ed29f4dc8bd1716939dd	ok	Complete TEA; plaque edges preserved.
+tea143a_tea_context_sheet	254b5e6ec4d4b085831e5b230e12bfe27d023807	ok	Tea and Inn readable; snowy surroundings preserved.
+tea143a_tea_detail_sheet	2197138ff4230df1fc412cdf5c0c3ebc123a90ef	ok	Complete TEA; wood and original lettering colour preserved.
+tea143b_tea_context_sheet	615fdce23d1f1ee49e6a9812525bd68f5e1fbd76	ok	Tea readable; snowy street and buildings preserved.
+tea143b_tea_detail_sheet	2197138ff4230df1fc412cdf5c0c3ebc123a90ef	ok	Complete TEA; board silhouette preserved.
+tea144a_tea_context_sheet	61b3c5a439965e38b6a0380c0e94049797757800	ok	Tea and Inn fit on snow-covered roofs; scene art preserved.
+tea144a_tea_detail_sheet	12c18d32e4c5419ef9d173b6df22638041622c6c	ok	Complete TEA; snow and plaque frame preserved.
+tea144b_tea_context_sheet	4b57fa4582c398e1551be42bf1d3ae08b40a666f	ok	Tea readable in snow; actor-foot fragments are identical in original.
+tea144b_tea_detail_sheet	12c18d32e4c5419ef9d173b6df22638041622c6c	ok	Complete TEA; board outline preserved.
+tea163_tea_context_sheet	f6e633c043de5d126763124d5fdd0564c00a4022	issue	Tea fits; white emblems on purple banners need close classification.
+tea163_tea_detail_sheet	5b7816a01970e1708c2464db065dfdcc84d24f93	ok	Complete TEA; plaque frame and roof preserved.
+tea180_tea_context_sheet	3f93d9e7f808d999703789359eff85348849f8dc	ok	Tea readable on green roof; bath-town surroundings preserved.
+tea180_tea_detail_sheet	dc674b1468c6459c9d850f6e05beeb0b98220a5d	ok	Complete TEA; green roof and original plaque colours preserved.
+tea207_tea_context_sheet	6f880bd44f6d52f14ea6ece73650ce231db5a193	issue	Tea and Bank fit; Fish Shop sign below right remains Japanese.
+tea207_tea_detail_sheet	ac861be289ddda3caa6f254993959a2a7ddde9ff	ok	Complete TEA; pale wood and stone-roof palette preserved.
+tea223_tea_context_sheet	3931c3460127f972c184a1a5b7a751000beeb04f	ok	Tea fits; neighboring buildings and flower garden preserved.
+tea223_tea_detail_sheet	04ece51ed6641a94cc0d759663ade72da33f6f39	ok	Complete TEA; frame and original roof intact.
+tea237_tea_context_sheet	c2c00a6d2bef2e64bece6dcc7b9971af7eebea6a	ok	Tea readable under rain palette; displayed English dialogue fits.
+tea237_tea_detail_sheet	f4ae0b247363bb0c833cd51b5fd3f68d6a23c225	ok	Complete TEA with all strokes in dark blue rain palette.
+tea238_tea_context_sheet	1ab511e25eb26d300a62c0d58147af0735ff2737	ok	Tea and Inn readable in sunny variant; scene art preserved.
+tea238_tea_detail_sheet	04ece51ed6641a94cc0d759663ade72da33f6f39	ok	Complete TEA; sunny palette and board outline preserved.
+tea263_tea_context_sheet	f5dbf7846823b46e371485d936679a75ec52b7f6	ok	Tea and Inn fit; surrounding buildings and trees preserved.
+tea263_tea_detail_sheet	fd3a88fb2fe171a9e6ba09f7434ed1702e4b4703	ok	Complete TEA; green-roof plaque intact.
+tea285_tea_context_sheet	7f3a0a39bf04b8c4885c4c351e4dab3f55abfcad	ok	Tea readable in night palette; original darkness preserved.
+tea285_tea_detail_sheet	1307170c58ff884477a88c7485e9d7b5e5480e77	ok	Complete TEA in blue night ink; no missing strokes or retained Japanese highlight.
+tea286_tea_context_sheet	e73fa848d6ab5190a4466382e49a1da6f8747f67	ok	Tea readable in daytime; scene art preserved.
+tea286_tea_detail_sheet	38f8a4e5db8b46720dde6717a70b515fb1be6ad2	ok	Complete TEA; original daytime wood and ink colours preserved.
+tea295_tea_context_sheet	6b31dcee2a7eeccb40d2d086d084a5a61c2ec5de	ok	Tea and Games fit; shrine and street preserved.
+tea295_tea_detail_sheet	6a2c4aa1c8e0b98dd8205770822ab36159be8a8b	ok	Complete TEA; plaque outline and roof intact.
+tea306_tea_context_sheet	ae90bca03f7649fa863219a736334ec1cbb65b43	ok	Tea and Games readable; purple and green roofs preserved.
+tea306_tea_detail_sheet	04bc2987e26ab9cda0dbd94e8635ffe2b9de94c5	ok	Complete TEA; plaque silhouette and purple roof intact.
+tea320_tea_context_sheet	789cda64121422a5d97bfd8a0b3de39666970884	issue	Tea fits; large bath plaque below still reads 湯.
+tea320_tea_detail_sheet	a62f8fb29bc63b9050a66d6e167a3a6ae00065cd	ok	Complete TEA; board and purple roof preserved.
+tea321_tea_context_sheet	789cda64121422a5d97bfd8a0b3de39666970884	issue	Tea fits; large bath plaque below still reads 湯.
+tea321_tea_detail_sheet	a62f8fb29bc63b9050a66d6e167a3a6ae00065cd	ok	Complete TEA; original wood and roof colours preserved.
+tea335_tea_context_sheet	77b0a20c2ebf890f4d8ff345bbd2cd39a5064679	ok	Tea readable; cloud floor and flowers preserved.
+tea335_tea_detail_sheet	43b114cc3c427afa7247f3272c82d9a83d8fa33c	ok	Complete TEA; full plaque and wood intact.
+tea45_tea_context_sheet	172edefc926b88d14675cd6351b4a08a55695462	issue	Tea fits; produce-shop board and 防 equipment plaque at left remain Japanese.
+tea45_tea_detail_sheet	b05c9b0aa0697d8ccd5dd8c65aacb82137931590	ok	Complete TEA; plaque frame and roof intact.
+tea59_tea_context_sheet	4015d4dc80ee5002fcdf4ef065e67af7ded8226b	ok	Tea and Inn fit; peach flags and plaza preserved.
+tea59_tea_detail_sheet	2197138ff4230df1fc412cdf5c0c3ebc123a90ef	ok	Complete TEA; original plaque silhouette preserved.
+tea80_tea_context_sheet	94d32a1c96e3b428a698f5c6bc152d37609753a3	issue	Tea fits; partial produce-shop board at left remains Japanese.
+tea80_tea_detail_sheet	bac858f2ca5c305605f4fa64b21a1c2bdb61fdb6	ok	Complete TEA; roof and plaque frame preserved.
+tea81_tea_context_sheet	74abb36438f40968a505598469faa84d29593716	issue	Tea fits; partial produce-shop board at left remains Japanese.
+tea81_tea_detail_sheet	60337c4062a1123656ac5cd85ff60a01787b7818	ok	Complete TEA; purple-roof palette and wood preserved.
+tea99_tea_context_sheet	d40204f15b05c6b60ef74d827536efb29331d87d	ok	Full Tea plaque visible after x=63 reroute; autumn art preserved.
+tea99_tea_detail_sheet	2197138ff4230df1fc412cdf5c0c3ebc123a90ef	ok	Complete TEA; plaque frame and surrounding roof intact.
