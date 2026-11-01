@@ -158,6 +158,16 @@ for _name, (_x, _y, _height) in FISH_ATLASES.items():
          ['Fish Shop'], None, 'plaque'))
 
 
+# Map45 draws these as pairs of 16-pixel tiles. Weapons needs the full
+# thirty-pixel interior; extend the wood behind it within the existing board.
+# The complete index-12/13 masks occur only here in the original archive sweep.
+EQUIPMENT_SIGNS = [('weapons', 0, 'Weapons'), ('armor', 32, 'Armor'), ('shoes', 64, 'Shoes')]
+for _label, _u, _word in EQUIPMENT_SIGNS:
+    SIGNS['GV01000D.BIN:0'].append(
+        (_label, [(_u, 80, 32, 16, 0, 0)], (1, 1, 31, 14), [_word], None,
+         'wide_plaque' if _label == 'weapons' else 'equipment'))
+
+
 def assemble(im, pieces):
     out = Image.new('RGBA', (max(x + w for _, _, w, _, x, _ in pieces),
                              max(y + h for _, _, _, h, _, y in pieces)))
@@ -192,20 +202,23 @@ def draw(im, key, pal):
                 assert wood, (key, y)
                 for x in range(x0, x1):
                     px[x, y] = wood[(x - x0) % len(wood)]
-        elif kind in ('plaque', 'engraved'):
-            # Remove both the engraved stroke and its highlight. Sample only
-            # wood colours, leaving the carved board edge and roof untouched.
+        elif kind in ('plaque', 'engraved', 'wide_plaque', 'equipment'):
+            # Remove engraved strokes and highlights using only wood colours.
+            # Wide plaques also extend wood within their declared interior.
             import gfx
             colours = gfx.palette(gen_gfx.original(key)[0], gen_gfx.EDIT_PALETTES.get(key, 0))
             colour = colours[12]
             ink = set(colours[12:14])
             wood_colours = set(colours[7:11])
             for y in range(y0, y1):
+                # Wide labels can occupy the whole interior: sample untouched
+                # wood in the original row before replacing any pixels.
                 wood = {x: px[x, y] for x in range(board.width)
-                        if px[x, y] in wood_colours and not x0 <= x < x1}
+                        if px[x, y] in wood_colours and
+                        (kind in ('wide_plaque', 'equipment') or not x0 <= x < x1)}
                 assert wood, (key, y)
                 for x in range(x0, x1):
-                    if px[x, y] in ink:
+                    if px[x, y] in ink or (kind == 'wide_plaque' and 3 <= y <= 11):
                         px[x, y] = wood[min(wood, key=lambda sx: abs(sx - x))]
         else:
             # The original lettering is grey; keep the coloured cloth and its

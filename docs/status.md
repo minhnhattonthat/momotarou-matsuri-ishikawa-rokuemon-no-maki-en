@@ -4,6 +4,20 @@ Updated at the end of every session. Keep it to what the next session needs; his
 
 - **Phase:** **8 in progress** (QA in the emulator), then 9 (release).
 - **Done (phase 8 so far, 2026-11-02):**
+  - Equipment plaques: map45 now shows full **Weapons / Armor / Shoes**, with **3/3 complete
+    matches on both discs** and a fresh D10 gate of **6/6 ok** (one scene, three detail pairs).
+    Weapons expands the wood interior within the original 32-pixel tile pair; no map/code edits.
+    Complete engraved-mask sweeps find these three glyph forms only in GV01000D:0.
+    `equipment-signs-qa.md` records preservation, source coordinates, routes and verdict hashes.
+  - Narrow-plaque investigation: the Flowers/Items maps draw only a central 16-pixel tile even
+    when the atlas shows a wider board. `field_label_plan.py` now prints qualified native neighbors
+    and conservative allocation candidates. Maps99/100, 237/238 and 143 are mapped in the report;
+    mixed-palette/layer neighbors need verified tile-layout or renderer work, not a wider PNG alone.
+  - Latest validation: **111 tests / lint 0**, verifier **394 changed files / 0 errors**, cold main smoke
+    `equipment8_main_smoke` passed; **0 Japanese lines in one log** (graphics excluded). Main disc:
+    **182,451,696 bytes**, build **2026-11-01 14:08:30 UTC**, SHA-1
+    **49e632d7417e4901ca0bfb0bc872b18eb65ab6bd** (identical to `build/equipment8.bin`).
+    **Phase 8 cannot advance: its phase-wide graphics/visual gates remain incomplete.**
   - Games/Produce/Fish Shop checkpoint: **20 sign placements in 18 atlases** translated; complete mask
     sweeps cover seven new Games, nine Produce and four Fish Shop textures. **24/24 cold placements
     pass on both discs** (10 Games, 10 Produce, 4 Fish Shop). Read-only D10 review accepts all 24 detail
@@ -420,8 +434,9 @@ Updated at the end of every session. Keep it to what the next session needs; his
     Static/underlying copies and map208 remain unproved.
     Tea/Bank glyph families now have 48 accepted cold placements (`tea-bank-signs-qa.md`); their broader
     views exposed Games boards in maps80/81 and 263 plus Produce/Fish Shop boards, now covered by
-    `shop-boards-qa.md` (24 cold placements). Medicine, item/equipment, flower and bath plaques remain;
-    follow the six new issues in `shop-boards-verdicts.tsv` and the unresolved portions of the 18 older
+    `shop-boards-qa.md` (24 cold placements). Map45's equipment plaques now have cold proof
+    (`equipment-signs-qa.md`); other equipment sprite forms, medicine, item, flower and bath plaques remain.
+    Follow the five unresolved issues in `shop-boards-verdicts.tsv` and the unresolved portions of the 18 older
     whole-scene issues in `tea-bank-signs-verdicts.tsv`. Historical verdicts are not retroactively changed.
     `plaque_consumers.py tea|bank` gives static navigation leads; `signs_tour.py --only tea* / bank*`
     means the explicit named cases in its CASES table (the CLI does not expand wildcards).

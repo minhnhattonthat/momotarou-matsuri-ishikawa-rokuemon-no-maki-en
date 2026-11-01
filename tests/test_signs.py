@@ -101,7 +101,7 @@ def test_small_games_boards_keep_complete_english_and_remove_japanese():
 def test_shop_names_use_complete_strokes_in_the_inserted_palette():
     # Night CLUT 0 aliases wood and ink; inspect inserted indices, not just PNGs.
     for key, signs in gfx_signs.SIGNS.items():
-        selected = [s for s in signs if s[0] in ('produce', 'fish')]
+        selected = [s for s in signs if s[0] in ('produce', 'fish', 'weapons', 'armor', 'shoes')]
         if not selected:
             continue
         revised = gfx.indices(gen_gfx.redrawn(key))

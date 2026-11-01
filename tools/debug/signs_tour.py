@@ -22,6 +22,7 @@ import gen_scenes  # noqa: E402
 from field_signs import check  # noqa: E402
 
 CASES = {
+    'equipment45': (45, 34, 29, 0, 'GV01000D.BIN:0'),
     'produce45': (45, 38, 29, 0, 'GV01000D.BIN:0'),
     'produce80': (80, 21, 43, 0, 'GV04000D.BIN:0'),
     'produce81': (81, 21, 43, 0, 'GV04002D.BIN:0'),
@@ -139,7 +140,8 @@ CASES = {
 # These atlases also retain another Inn tile beneath/outside the visible
 # map layer. These routes approve only the displayed layer's complete label.
 CASE_LABELS = {'inn80': ('inn2',), 'inn163': ('inn2',), 'inn99': ('inn',),
-               'inn100': ('inn',), 'inn295': ('inn',), 'inn335': ('inn2',)}
+               'inn100': ('inn',), 'inn295': ('inn',), 'inn335': ('inn2',),
+               'equipment45': ('weapons', 'armor', 'shoes')}
 
 
 def run(name, args, initializers):

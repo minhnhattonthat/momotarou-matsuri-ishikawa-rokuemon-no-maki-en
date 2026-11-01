@@ -27,7 +27,7 @@ id	source	kind	japanese	note
 #302	GF10000D.BIN:0@20	sign	八百屋 (carved wooden shop board, lower right); carved kanji on small board upper right ?; strip of carved sign characters mid-left ?	Inn/Tea/Bank translated in exact copies; no static consumers in GF100/GF110/GV310, runtime unproved; other signs remain; inn-signs-qa.md and tea-bank-signs-qa.md
 #305	GF10000D.BIN:3@9270	sign	row of 7 round-ish shop plaques with gold kanji ?, plus 八百屋 board below	shop-sign plaques; kanji unreadable at this size
 #320	GV00000D.BIN:0@20	sign	八百屋 (board lower right); carved kanji on small board upper right ?; sign-character strip ?	Inn/Tea/Bank translated; no static consumer, runtime unproved; other signs remain; tea-bank-signs-qa.md
-#327	GV01000D.BIN:0@10	sign	row of carved sign kanji strip (mid-left) ?; 八百屋 board (centre right)	Inn/Tea/Bank and Produce cold map45 proof; footwear/weapon/armor signs remain; tea-bank-signs-qa.md and shop-boards-qa.md
+#327	GV01000D.BIN:0@10	sign	row of carved sign kanji strip (mid-left) ?; 八百屋 board (centre right)	Inn/Tea/Bank/Produce and Weapons/Armor/Shoes cold map45 proof; unplaced item/medicine portions remain; equipment-signs-qa.md, tea-bank-signs-qa.md and shop-boards-qa.md
 #329	GV01000D.BIN:2@8360	sign	7 shop plaques with kanji ?; 八百屋 board	same as #305
 #352	GV02000D.BIN:0@20	sign	vertical signboards with kanji (right of shrine; 道 ... ?)	Inn/Tea/Bank translated with cold map59 proof; other signs remain; tea-bank-signs-qa.md
 #354	GV02000D.BIN:2@81b0	banner	天下一だ… / …じゃれ大会; ゆうぎ; pink/white peach flags	split contest board English but runtime use still unproved; Games has both cold map59 placements; field-signs-qa.md and shop-boards-qa.md
