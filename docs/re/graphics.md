@@ -32,7 +32,7 @@ The title's separate press-start instruction is already translated in both copie
 
 ### Survey inventory
 Every Japanese-bearing image found by five read-only reviewers over all 80 sheets: **`docs/re/gfx_survey.tsv`**
-(206 rows including the subsequently discovered Status staff badge, GV23000D:2 Games board, round game-hall emblem, M49 Fortune God badges, M14 Kintaro bibs and unclassified M59 Rokuemon coat marks: id, file:entry, kind, transcription, note). Summary of the original 200-row sweep:
+(210 rows including the subsequently discovered Status staff badge, GV23000D:2 Games board, round game-hall emblem, M49 Fortune God badges, M14 Kintaro bibs, unclassified M59 Rokuemon coat marks and four Enma event crowns: id, file:entry, kind, transcription, note). Summary of the original 200-row sweep:
 
 | Kind | Rows | What |
 |---|---|---|
@@ -46,6 +46,9 @@ Every Japanese-bearing image found by five read-only reviewers over all 80 sheet
 | hud / other | 9 | 白/赤 team icons (DEF0D:9), speech bubbles (M060D:2, M080D:6), three ending-art Festival fans now English (`event-props-qa.md`), どっち? |
 
 Open for later phases:
+- Enma's four event crowns now use E; events03/11/12/13/23 give five complete
+  cold matches on both discs and ten accepted sheets (`event-crowns-qa.md`).
+  The old event10 crown attribution was inaccurate; other event marks remain.
 - M56 and M59's two banner atlases now have all nine native Win/Lose/Draw
   placements on both discs (`dice-outcomes-qa.md`). TIM6 / ANM16 belongs to
   Ishikawa Rokuemon, selector 5. Nine enlarged banners and six Gussurin/Oni

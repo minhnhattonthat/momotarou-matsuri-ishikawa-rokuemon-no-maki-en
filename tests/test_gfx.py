@@ -229,6 +229,32 @@ def test_tanuki_bibs_preserve_actor_silhouettes_and_unrelated_poses():
     assert after.tobytes() == committed.tobytes()
 
 
+def test_event_crowns_preserve_alpha_and_all_unmasked_art():
+    from PIL import Image
+    module = gen_gfx.gfx_event_crowns
+    for key in module.CROWNS:
+        texture, before = gen_gfx.original(key)
+        after = before.copy()
+        module.draw(after, key, set(gfx.palette(texture, 0)))
+        allowed = {(x, y) for a, b, c, d in module.rectangles(key)
+                   for y in range(b, d) for x in range(a, c)}
+        assert before.getchannel('A').tobytes() == after.getchannel('A').tobytes()
+        for y in range(before.height):
+            for x in range(before.width):
+                if (x, y) not in allowed:
+                    assert before.getpixel((x, y)) == after.getpixel((x, y)), (key, x, y)
+        with Image.open(gen_gfx.png_path(key)) as committed:
+            assert committed.convert('RGBA').tobytes() == after.tobytes()
+        # The bottom triangular rim must survive even where the glyph nearly
+        # touches it. The very pale EVT180 tail above that rim is old ink.
+        y, spans, _ = module.CROWNS[key]
+        bottom = y + len(spans)
+        assert before.crop((0, bottom, 256, bottom + 1)).tobytes() == (
+            after.crop((0, bottom, 256, bottom + 1)).tobytes())
+    with Image.open(gfx.EN / 'EVT180D_1.png') as image:
+        assert image.getpixel((131, 14)) == (248, 248, 248, 255)
+
+
 def test_redraws_change_only_declared_label_rectangles():
     card_rects = {}
     for row in gen_card_words.rows():
@@ -255,6 +281,7 @@ def test_redraws_change_only_declared_label_rectangles():
                   for u, v, w, h, _, _ in pieces]
         rects += gfx_intro.rectangles(key)
         rects += gfx_event_props.rectangles(key)
+        rects += gen_gfx.gfx_event_crowns.rectangles(key)
         if key == gfx_welcome.KEY:
             rects += gfx_welcome.RECTS
         if key == gen_gfx.gfx_fortune.KEY:

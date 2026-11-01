@@ -4,6 +4,17 @@ Updated at the end of every session. Keep it to what the next session needs; his
 
 - **Phase:** **8 in progress** (QA in the emulator), then 9 (release).
 - **Done (phase 8 so far, 2026-11-02):**
+  - Enma's four event-art crown initials now read **E**. Native cold events
+    **03/11/12/13/23** give **5/5 complete-crown matches on each disc**;
+    fresh D10 review accepts **10/10** context/detail sheets (`event-crowns-qa.md`).
+    The previous event10 attribution was wrong; the original-disc oracle caught
+    the source/scene mismatch. Added four omitted survey rows (210 total).
+  - Latest validation: **137 tests / lint 0**, verifier **403 changed files / 0 errors**,
+    cold `work/qa/crowns8_smoke` passed, **0 Japanese lines in five English logs**
+    (graphics excluded). Main disc: **182,451,696 bytes**, **2026-11-01 19:53:46 UTC**,
+    SHA-1 **cf1016cd768c209df01f5f5ff5cf87e18d8c3a0d**. **Phase 8 remains incomplete**:
+    remaining graphics, full visual, intermediate-dialogue and story/NPC gates
+    still prevent advancement. No release or blocking owner decision is implied.
   - Gussurin/M56, Oni/M59 selector 0 and Ishikawa Rokuemon/M59 selector 5 now have
     **9/9 native Win/Lose/Draw placements on both discs**. `dice_outcomes_qa.py` varies
     controller timing, checks native dice/ANM selectors and matches complete disc-sourced sprites.
@@ -595,6 +606,9 @@ Updated at the end of every session. Keep it to what the next session needs; his
     and `character-props-qa.md` record exact bounds and cold routes. GCV0310's four placeholders have no
     literal message references (`portrait-audit.md`); reopen if runtime evidence ever displays them.
   - Finish the corrected tour's **25 historical non-ok sheets** using `corrected-tour-verdicts.tsv`;
+    Enma's event crown findings now have supplementary passing proof in `event-crowns-qa.md`;
+    historical sheets remain unchanged. The 21 original-only event routes in `event_marks8_jp`
+    are navigation evidence for bonfires, flags, placards and other remaining art.
     supplement with the shrine-paper classification/event01 correction in `symbol-classification-qa.md`.
     EVT110D's snow initial is now K with cold event07 proof; its tiny placards remain open. Three EVT620D
     Festival fans are translated; the ending's separate gold-prop mark near (164,53) needs classification.
@@ -665,7 +679,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
     neither tested timing produced the banners. M140D:2's eight Kintaro bibs now have nine
     accepted native actor assemblies (`tanuki-bibs-qa.md`), which also records static ANM
     selector/scroll-descriptor leads. Good Work is not proof of those Win/Lose sprites.
-  - Graphics text (D5: all of it; docs/re/gfx_survey.tsv, 206 rows): product-title logo variants are now
+  - Graphics text (D5: all of it; docs/re/gfx_survey.tsv, 210 rows): product-title logo variants are now
     explicitly retained under D5 (`graphics.md`). Remaining work: the native Rank Details title consumer
     (Game Album/Quick Match!/Name Entry have cold proof in `menu-titles-qa.md`),
     remaining M990D fragment/context classification, remaining banners
@@ -695,7 +709,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
   - The nine historical map hangs are resolved by correct initialization and map 294's entry setup;
     story flags remain unmapped (warped maps show default state). `tools/deadcode.py` output is not safe hook
     space without an exec watch (`tools/lua/deadwatch.lua`, `warp_all.py --debugger`).
-  - Phase 8 remains incomplete: much of the 206-row graphics survey, the full visual manifest,
+  - Phase 8 remains incomplete: much of the 210-row graphics survey, the full visual manifest,
     and the corrected map interaction tour remain open. Do not advance to phase 9 on scoped graphics verdicts.
 - **Waiting on the user:**
   - (resolved, D9) reviews: the run brief allows a fresh read-only pass, so the repo's in-session `reviewer` /

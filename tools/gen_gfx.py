@@ -34,6 +34,7 @@ import gfx_hud  # noqa: E402
 import gfx_signs  # noqa: E402
 import gfx_intro  # noqa: E402
 import gfx_event_props  # noqa: E402
+import gfx_event_crowns  # noqa: E402
 import gfx_welcome  # noqa: E402
 import gfx_fortune  # noqa: E402
 import gfx_tanuki  # noqa: E402
@@ -66,6 +67,7 @@ LABELS = {
     **{key: [] for key in gfx_signs.SIGNS},
     **{key: [] for key in gfx_props.PROPS},
     **{key: [] for key in gfx_event_props.KEYS},
+    **{key: [] for key in gfx_event_crowns.CROWNS},
     gfx_welcome.KEY: [],
     gfx_fortune.KEY: [],
     gfx_tanuki_bibs.KEY: [],
@@ -434,6 +436,8 @@ def generate(keys=None):
             gfx_intro.draw(im, key, pal)
         if key in gfx_event_props.KEYS:
             gfx_event_props.draw(im, key, pal)
+        if key in gfx_event_crowns.CROWNS:
+            gfx_event_crowns.draw(im, key, pal)
         if key == gfx_welcome.KEY:
             gfx_welcome.draw(im, pal)
         if key == gfx_fortune.KEY:

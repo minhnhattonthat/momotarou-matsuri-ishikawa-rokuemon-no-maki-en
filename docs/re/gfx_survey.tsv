@@ -7,6 +7,10 @@ id	source	kind	japanese	note
 #70	ECTBG24D.BIN:8@24810	sign	nobori flags	unsure if text
 #71	ECTBG24D.BIN:11@2f7b0	sign	nobori flags	unsure if text
 #72	ECTBG24D.BIN:14@3ae40	sign	nobori flags	unsure if text
+#82	EVT030D.BIN:1@2050	other	Enma crown initial -> E	Cold event03 complete-crown match; event-crowns-qa.md
+#123	EVT170D.BIN:0@90	other	Enma crown initial -> E	Cold event11 complete-crown match; event-crowns-qa.md
+#128	EVT180D.BIN:1@12a0	other	Enma crown initial -> E	Cold event12 and event23 complete-crown matches; event-crowns-qa.md
+#132	EVT190D.BIN:1@1d20	other	Enma crown initial -> E	Cold event13 complete-crown match; event-crowns-qa.md
 #101	EVT090D.BIN:1@e40	banner	大 / 開? (orange characters on green hills)	reading unsure
 #102	EVT090D.BIN:2@5c20	banner	開 / 大 (orange kanji on green hills)	reading unsure
 #105	EVT100D.BIN:0@70	sign	nobori banners on poles	unsure

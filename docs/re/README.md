@@ -21,6 +21,7 @@ Addresses are for the dump in `rom.sha1` unless a note says otherwise.
 | [engine.md](engine.md) | build_line/drawer, digraph VWF hooks, English font cells, hook space, data-id size table, memory-card text path | verified (marker build, tests/test_engine.py) |
 | [windows.md](windows.md) | box variants, measured px budgets (width gate), guessed ones | measured: message, portrait, memory card, main/choice menus |
 | [graphics.md](graphics.md) | font, TIM images, graphics-text survey | survey from the static sweep; runtime checks in phase 8 |
+| [event-crowns-qa.md](event-crowns-qa.md) | Enma's four event-art E initials and corrected source/scene mapping | Five cold original/English routes, 10 accepted sheets; phase 8 remains open |
 | [status-menu-qa.md](status-menu-qa.md) | game-written save fixture, numeric-template extraction fix, Status redraw and scoped visual verdicts | cold-boot checks; broader phase 8 still open |
 | [status-ranks-qa.md](status-ranks-qa.md) | Six Status illustrations, maximum-width counters, money overlap fix and Hermit staff lettering | Cold rank fixtures and screenshot oracle; phase-wide QA remains open |
 | [album-records-qa.md](album-records-qa.md) | Game Album/Quick Match numeric clipping fix and complete populated/empty record-panel tours | 43 + 6 cold pages on both discs, 10 scoped visual sheets |

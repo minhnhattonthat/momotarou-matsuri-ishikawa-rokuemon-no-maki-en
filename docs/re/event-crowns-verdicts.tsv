@@ -1,0 +1,11 @@
+sheet	sha1	verdict	note
+event03_context_sheet	35828f588f462b1ae54b9f8625ce9a17289a8a7d	ok	E reads at native scale; crown rim, foreground rocks and Momotaro remain intact in the captured event stage.
+event03_detail_sheet	d940cb890ad50cf9299c7c65103a06b2f1709ec5	ok	Three clear E arms; old ink removed; triangular border preserved.
+event11_context_sheet	e1c7d6c1ca63d0b37b0fdf84019d5b217debe1f0	ok	E fits the native pagoda scene; Enma and building art preserved.
+event11_detail_sheet	77d2eed0b7cd101fc6b84d846535d62db6b0de15	ok	Tall crown retains sloping rim and clean white field around E.
+event12_context_sheet	fec07f92c8e85db4b973e7f00c1c07002477bae2	ok	Small E readable; cherry trees/actor intact; one-pixel vertical difference is native timing.
+event12_detail_sheet	cf6ceabc562c3e93422fadcdd8fffb51d6c2981c	ok	Five-pixel E readable; pale old-ink tail removed; original outer blue fringe retained.
+event13_context_sheet	5d13a6ca29a6b80191391497bab4014a3ae6a225	ok	E reads during flood; waves and broken-boat art intact.
+event13_detail_sheet	b28d848258c67780ee047807608eeebab9720248	ok	Slanted crown silhouette/base rim preserved; original outer blue fringe retained.
+event23_context_sheet	fec07f92c8e85db4b973e7f00c1c07002477bae2	ok	Second tree-scene consumer shows complete E without clipping in this capture.
+event23_detail_sheet	cf6ceabc562c3e93422fadcdd8fffb51d6c2981c	ok	Complete five-pixel E and preserved crown outline in second native consumer.
