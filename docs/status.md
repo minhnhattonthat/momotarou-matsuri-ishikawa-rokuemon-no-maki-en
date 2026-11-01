@@ -4,10 +4,25 @@ Updated at the end of every session. Keep it to what the next session needs; his
 
 - **Phase:** **8 in progress** (QA in the emulator), then 9 (release).
 - **Done (phase 8 so far, 2026-11-01):**
+  - Marginal card phrases: `gfx/card_words.tsv` and `tools/gen_card_words.py` redraw the brown dialect
+    captions on **all 100 cards**. English follows the existing vertical margins clockwise; all card numbers,
+    prefecture strips, palettes and ANM records stay intact. Narrow erase regions protect nearby figures,
+    leaves and props; the pixel/TIM tests reject edits outside the declared areas.
+  - Cold review found four phrases blending into background art; added a one-pixel white keyline and
+    regenerated the build/tour. `tools/debug/card_words_review.py` makes five scoped phrase sheets with the
+    skill's sheet.py. Fresh read-only review accepts **5/5 scoped sheets**, all **100/100** complete cold-boot
+    card captures match, and textlog reports **0 Japanese lines** (excludes graphics). Full-card comparison
+    restored four clipped props; new regression checks protect them. Details: `docs/re/card-words-qa.md`.
+    **Illustration SFX, signs, clothing emblems and the red new-card notice remain open.** This is not whole-card
+    approval and phase 8 cannot advance to release on it. Original card 001 art/gloss mismatch is documented.
+  - Latest validation: **52 tests passed**, lint 0; verifier **363 changed files / 0 errors**; cold smoke
+    `work/qa/words8_smoke4` passed. Main disc: **182,503,440 bytes**, **2026-11-01 03:25:16 UTC**, SHA-1
+    **f7b8c56da2e6026b7d154cb3a8496b0806e3f60b**. Final tour: `work/qa/words8_final4`; scoped review:
+    `work/qa/words8_review`. Phase 8 remains incomplete; do not advance to release.
   - Card Album checkpoint: title, seven region names and counters in HOUGEN0D:0 redrawn; all **100 prefecture
     captions** in HCARD00D through HCARD90D redrawn within the actual 120x16 name-strip sprite. Card numbers,
-    illustrations, palettes and ANM records preserved. Handwritten dialect words/SFX and the fragmented red
-    new-card tag remain Japanese; no whole-card translation approval is claimed.
+    illustrations, palettes and ANM records preserved at that checkpoint. Marginal dialect words are now
+    translated above; illustration SFX and the fragmented red new-card tag remain Japanese.
   - New `card_album` scene (454 entries) enables only collectible bits 0-99 in RAM and enters mode 0x4C.
     `tools/debug/cards.lua` visits all 100 pages through the real loader. CD loads can lose/retain a timed tap;
     the probe retries unchanged pages and clears cached Right input once each target arrives. It fails on skips.
@@ -15,7 +30,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
   - Fresh read-only D10 review: **5/5 scoped sheets ok** (overview + 100 caption strips), under
     `work/qa/cards8_review`. Final tours: `work/qa/cards8_captions3`, `work/qa/cards8_jp_all3`; runtime textlog
     **0 Japanese lines** (excludes graphics). Commands, verified RAM addresses and limits: `docs/re/cards-qa.md`.
-  - Latest validation: **50 tests passed**, lint 0; verifier **363 changed files / 0 errors**; cold smoke
+  - Previous prefecture-caption validation: **50 tests passed**, lint 0; verifier **363 changed files / 0 errors**; cold smoke
     `work/qa/cards8_final_smoke` passed. Main disc: **182,543,424 bytes**, **2026-11-01 02:52:33 UTC**, SHA-1
     **dcd7600ce28f778f642cd81b7908ae947d753591**. Phase 8 remains incomplete; do not advance to release.
   - Shared announcements checkpoint: M990D:1 redrawn (New Record, Level Up, Full Mastery, Game Start,
@@ -113,9 +128,10 @@ Updated at the end of every session. Keep it to what the next session needs; his
     156,128 bytes (game_m25/m70-72 minigames), so English growth (a few KB per file) is far from the limit.
     15 runs of that sweep died with emulator exit -1 while other emulators ran; all 15 passed on a rerun.
 - **Next (phase 8):**
-  - Cards: use the new cold-boot tour and `cards_qa.py` meaning-ID report to translate the handwritten dialect
-    text/SFX in all 100 illustrations; source-game glosses already supply the meanings. The 100 captions are
-    done, but their scoped gate is not a whole-card verdict. Locate/render the fragmented red new-card tag.
+  - Cards: all 100 prefecture captions and marginal dialect phrases are English. Use the cold-boot tour and
+    `cards_qa.py` meaning-ID report for the remaining black illustration SFX, signs and clothing emblems;
+    the scoped phrase gate is not a whole-card verdict. Locate/render the fragmented red new-card tag.
+    HOUGEN0D ANM 5/6 does not reference its visible atlas fragments; the runtime draw path is still unknown.
   - Finish runtime coverage of the new minigame redraws: M030 Perfect and M14/M56/M59 banners need the
     relevant outcome/versus states. M010 awards and M990D:1 announcements now have full-sprite cold proof;
     the pause fixture does not work while other games are in dialogue, so its exit code alone is not coverage.
@@ -125,7 +141,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
     (CI0D:3/TITLE0D:3, YUGI0D:1, HOUGEN0D:2, FILESL0D:1); NAME0D:0 mode-menu shots,
     STATUS0D:0 higher rank shots, remaining M990D:0 HUD + result words, remaining banners
     (GV02000D:2, GV13000D:2...), HOUGEN0D:0 new-card tag, ending-art signs/emblems,
-    handwritten art/SFX on 100 HCARD* cards, signs. Per image: `gfx.py export`, find each sprite's rect (in-game the sprite rect
+    illustration SFX/signs on HCARD* cards. Per image: `gfx.py export`, find each sprite's rect (in-game the sprite rect
     can be narrower than the JP atlas row: shoot it), add LABELS, `gen_gfx.py`, build `--out build/g8.bin`, shoot.
   - Saved-record QA: exercise all record categories with nonzero scores, not only the newly translated file
     selector. Use the new fixture and records probe; get actual mode-menu/rank-detail/name-entry coverage.

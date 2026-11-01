@@ -10,6 +10,7 @@ sys.path.insert(0, str(ROOT / "tools"))
 import arc  # noqa: E402
 import gfx  # noqa: E402
 import gen_gfx  # noqa: E402
+import gen_card_words  # noqa: E402
 import tim  # noqa: E402
 
 pytestmark = pytest.mark.skipif(not gfx.TREE.exists(), reason="needs work/disc (dumpsxiso)")
@@ -36,8 +37,15 @@ def test_roundtrip_and_one_pixel(tmp_path):
 
 
 def test_redraws_change_only_declared_label_rectangles():
+    card_rects = {}
+    for row in gen_card_words.rows():
+        i = row['card'] - 1
+        key = f'HCARD{i // 10}0D.BIN:{i % 10}'
+        card_rects[key] = [tuple(row[k] for k in ('x0', 'y0', 'x1', 'y1')),
+                           *gen_card_words.ERASE_RECTS.get(i + 1, [])]
     for key, labels in gen_gfx.LABELS.items():
         rects = [(x0, y0, x1, y1) for x0, y0, x1, y1, _, _ in labels]
+        rects += card_rects.get(key, [])
         rects += [(u, v, u + w, v + h) for _, pieces in gen_gfx.COMPOSITES.get(key, [])
                   for u, v, w, h, _, _ in pieces]
         name, entry = key.split(':')

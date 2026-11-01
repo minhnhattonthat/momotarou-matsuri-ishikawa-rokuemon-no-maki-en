@@ -24,6 +24,7 @@ Addresses are for the dump in `rom.sha1` unless a note says otherwise.
 | [credits-qa.md](credits-qa.md) | 101 credit lines, six atlas reloads, complete-item screenshot oracle and scoped verdicts | 22/22 cold-boot items, 4/4 visual gate; uncited name readings need polish |
 | [announcements-qa.md](announcements-qa.md) | Shared announcement redraws, checked ANM field edits, selector fixtures and screenshot gate | 16/16 announcement states, 5/5 M010 awards, 6/6 scoped visual gate; broader phase 8 open |
 | [cards-qa.md](cards-qa.md) | Card Album warp, input latch, all 100 prefecture captions and complete-card screenshot gate | 100/100 cold captures on both discs; 5/5 caption/menu visual gate; handwritten card art still Japanese |
+| [card-words-qa.md](card-words-qa.md) | 100 marginal dialect phrases, bounded artwork restoration and scoped cold review | card sound effects/signs remain separate; phase 8 still open |
 
 Tools: `tools/iso.py` (LBAs), `tools/arc.py` (archives), `tools/ecd.py` (ECD codec), `tools/tim.py` (TIM decode),
 `tools/gfxdump.py` (static image sweep into `work/gfx/`), `tools/ramfind.py` (which files sit where in a RAM dump),

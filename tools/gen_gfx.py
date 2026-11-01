@@ -343,3 +343,5 @@ if __name__ == '__main__':
         same = generate()
         import gen_credits
         gen_credits.generate(same=same)
+        import gen_card_words
+        gen_card_words.generate()
