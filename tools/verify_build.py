@@ -54,6 +54,8 @@ def code_allowed(path, stem, rows):
             for x in k[1:]:
                 ok.update(range(hdr + x, hdr + x + 4))
     sites = engine.MONEY_OVL.get(f'{stem}.BIN', [])
+    if stem == 'OVLXTTL':
+        sites = sites + [tuple(engine.RECORD_LAYOUT)]
     if stem.startswith('SLPM'):
         sites = engine.MONEY_EXE + [tuple(engine.ORIG)]   # ORIG includes money, choice, cursor and HUD sites
         lo, hi = engine.FREE - engine.EXE_BASE, engine.FREE_END - engine.EXE_BASE

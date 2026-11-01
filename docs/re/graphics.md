@@ -36,7 +36,9 @@ Every Japanese-bearing image found by five read-only reviewers over all 80 sheet
 Open for later phases:
 - Status now has all six rank illustrations and a maximum-width counter fixture.
   `status-ranks-qa.md` records the overlap/border fixes and the new Hermit staff
-  lettering omitted from the original survey. Broader saved-record menus remain.
+  lettering omitted from the original survey. `album-records-qa.md` now covers all
+  43 Game Album and six Quick Match record panels, including populated and empty
+  score categories. Rank Details and Name Entry remain unverified.
 - GCV0310's four labelled images are dormant dialogue placeholders, IDs 123-126,
   with no references among 4,894 parsed message operations. The Moon route uploads
   their texture but never binds the portraits (`portrait-audit.md`). This is not

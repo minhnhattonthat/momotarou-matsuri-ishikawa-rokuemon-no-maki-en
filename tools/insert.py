@@ -227,6 +227,7 @@ def files(mode='en', overrides=None):
         key = f'OUTBIN/{name}'
         data = out.get(key) or (TREE / 'OUTBIN' / name).read_bytes()
         out[key] = engine.patch_money(data, sites, codestr.OVL_BASE)
+    out['OUTBIN/OVLXTTL.BIN'] = engine.patch_records(out['OUTBIN/OVLXTTL.BIN'])
     for name in gfx.redraws():
         key = f'OUTBIN/{name}'
         out[key] = gfx.apply(name, out.get(key) or (TREE / 'OUTBIN' / name).read_bytes())

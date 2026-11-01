@@ -36,6 +36,10 @@ Code: `tools/engine.py` (codec, font, hooks), `tools/insert.py` (script/ -> disc
 - Font: `fonts/en12.txt` (from the sibling repo, MIT), rows 2-11 of the cell.
 
 ## Other text paths found (verified statically)
+- **Record columns**: Game Album and Quick Match numeric glyphs retain their native 12px width;
+  narrow placeholder dashes do not establish fit. `engine.RECORD_LAYOUT` checks 26 OVLXTTL instructions
+  to move Record and the populated/empty score fields inside the existing panel. All five album formats
+  and six Quick Match pages have cold evidence (`album-records-qa.md`).
 - **Memory-card messages** (EXE strings 0x80018314-0x80018634, pointer table 0x8007E934): 0x80025884 copies the
   string byte by byte into three 64-byte line buffers at 0x800A1CC8, splitting on the **bytes** `K` `K` (next
   line) and `K` `E` (end), then build_line draws each at (72,168)+16/line. So English there: <= 64 bytes per

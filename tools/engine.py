@@ -54,6 +54,26 @@ MONEY_EXE = [(0x80033DCC, 0x80033DD4, 0x80033E04), (0x800345D4, 0x800345DC, 0x80
 MONEY_OVL = {'OVLGMAIN.BIN': [(0x800D67BC, 0x800D67C4, 0x800D67D8)]}
 MONEY_WORDS = (0x240500D0, 0x24070060, 0x240500D8)       # addiu a1,0xd0 / addiu a3,0x60 / addiu a1,0xd8
 MONEY_NEW = (0x240500C8, 0x24070068, 0x240500D0)
+# Game Album and Quick Match use the same record formats in two routines.
+# Keep the full rank at x48..128, Record at x136..167, values at x184..
+# (five full-width digits + " points" end at 274, inside the panel at x280).
+RECORD_LAYOUT = {
+    0x800DAC88: (0x240500A0, 0x24050088),
+    0x800DCCE0: (0x240500A0, 0x24050088),
+}
+for _sites, _old, _new in (
+    ((0x800DAD24, 0x800DAD64, 0x800DCD84, 0x800DCDC4), 224, 184),
+    ((0x800DAF68, 0x800DCFE0), 214, 184),
+    ((0x800DAF14, 0x800DCF74), 208, 184),
+    ((0x800DAE54, 0x800DCEB4), 200, 184),
+    ((0x800DAE8C, 0x800DCEEC), 230, 214),
+    ((0x800DAEC0, 0x800DCF20), 260, 244),
+    ((0x800DAD1C, 0x800DAD5C, 0x800DCD7C, 0x800DCDBC), 216, 184),
+    ((0x800DAD9C, 0x800DCDFC), 188, 184),
+    ((0x800DAF0C, 0x800DCF6C), 192, 184),
+    ((0x800DAF48, 0x800DCFC0), 204, 184),
+):
+    RECORD_LAYOUT.update((a, (0x24050000 | _old, 0x24050000 | _new)) for a in _sites)
 for _box in MONEY_EXE:
     ORIG.update(zip(_box, MONEY_WORDS))
 # Op-04 choice layouts 5 and 6 (quiz answers, docs/re/windows.md): frame x 0xD0 -> 0xC0, w 0x68 -> 0x78, text x
@@ -90,6 +110,13 @@ def patch_money(data, sites, base, words=MONEY_WORDS, new_words=MONEY_NEW):
                 raise ValueError(f'{a:#x}: {got:#010x}, expected {old:#010x}')
             struct.pack_into('<I', out, a - base, new)
     return bytes(out)
+
+
+def patch_records(data):
+    """Move both record-renderer columns, checking each original instruction."""
+    for address, (old, new) in RECORD_LAYOUT.items():
+        data = patch_money(data, [(address,)], 0x800CB338, (old,), (new,))
+    return data
 
 
 def glyphs(path=FONT_TXT):

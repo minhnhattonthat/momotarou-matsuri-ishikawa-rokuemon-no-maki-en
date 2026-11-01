@@ -44,6 +44,9 @@ warp uses VM+4 instead).
 - **Album enable flag**: EXE 0x800435F4 scans 70 records at **0x800BDBF0**, stride **0x1C**, for a nonzero first
   word. `tools/debug/records.lua --var RECORDS=true` marks only record 0 as played, in RAM. This enables album
   access for QA but does not manufacture a real score/rank or modify the original memory card.
+  For complete record-panel coverage, `tools/debug/album_records.py` seeds ranks and scores after a real
+  save load and navigates 43 Game Album pages or six Quick Match pages (`--trial`). `--empty` checks the
+  no-record sentinel and `--original` supplies native comparisons. Exact fields and limits: `album-records-qa.md`.
 - **Card Album**: `SCENE='card_album'` enables collectible bits 0-99 at **0x800BD9F8** and enters mode
   **0x4C** from the first intro-mode frame. Pair with `tools/debug/cards.lua`, `HOLD=-1` for all 100 pages.
   The probe verifies display index **0x800E2324** and state **0x800E232C**, and latches the cached Right input

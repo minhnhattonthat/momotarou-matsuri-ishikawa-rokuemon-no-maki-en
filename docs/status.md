@@ -4,6 +4,17 @@ Updated at the end of every session. Keep it to what the next session needs; his
 
 - **Phase:** **8 in progress** (QA in the emulator), then 9 (release).
 - **Done (phase 8 so far, 2026-11-01):**
+  - Saved-record checkpoint: cold tours cover **43/43 Game Album pages** and **6/6 Quick Match pages**
+    on original, populated English and empty-record English. `tools/debug/album_records.py` loads the
+    game-written save, seeds records only in RAM, and navigates real menus; source card stays unchanged.
+  - Maximum values exposed clipped points/items and crowded money units. Both record renderers now use
+    checked x-coordinate edits that fit full units and native-width digits; empty scores say points, and
+    six-digit money has a space before ryo. Fresh read-only D10 review accepts **10/10 panel sheets**.
+    Reproduction, exact state addresses, verdict hashes and coverage limits: `docs/re/album-records-qa.md`.
+  - Latest validation: **82 tests passed**, lint 0; verifier **369 changed files / 0 errors**; cold smoke
+    `work/qa/records8_smoke` passed; all four English record tours have **0 Japanese lines**.
+    Main disc: **182,491,680 bytes**, **2026-11-01 07:51:14 UTC**, SHA-1
+    **3d7ddc6c7ae4442d2671dda01c40a9ef81da66b2**. **Phase 8 remains incomplete; do not advance to release.**
   - Status rank/counter checkpoint: all **six rank illustrations** and four English plates now have cold
     proof, plus a populated panel (rank 610, mastery 61, 100 cards, 99:59, seven-digit steps and money).
     Original and English each pass **7/7 complete picture matches**. `tools/debug/status_ranks.py` loads
@@ -286,9 +297,11 @@ Updated at the end of every session. Keep it to what the next session needs; his
     (GV02000D:2, GV13000D:2...), HOUGEN0D:0 new-card tag, ending-art signs/emblems,
     illustration SFX/signs on HCARD* cards. Per image: `gfx.py export`, find each sprite's rect (in-game the sprite rect
     can be narrower than the JP atlas row: shoot it), add LABELS, `gen_gfx.py`, build `--out build/g8.bin`, shoot.
-  - Saved-record QA: Status now covers all rank pictures and wide counters (`status-ranks-qa.md`), but
-    exercise all minigame record categories with nonzero scores. Use the save fixture and records probe;
-    get actual mode-menu/rank-detail/name-entry coverage.
+  - Saved-record QA: Status covers all rank pictures and wide counters (`status-ranks-qa.md`); all five
+    Game Album record formats and six Quick Match pages now have populated/empty cold proof
+    (`album-records-qa.md`). Rank Details, Name Entry, entered names and natural record-setting remain.
+    NAME0D:1 still has kana keys; investigate its input encoding, not just the lettering. Native Name Entry
+    mode 0x51 initializes at OVLXTTL:0x800DF8A4 and returns to Quick Match. Use the existing save fixture.
     `work/qa/album8_*` exploratory states are from earlier builds: regenerate cold before accepting verdicts.
   - Text tour (`warp_all.py --hold 1500 --click 45 --probe tools/lua/textlog.lua`, then `tools/textlog.py`),
     `jp_left.py` on the build, visual-QA sheets + `qa_gate.py` verdicts (in-session `visual-qa` agents, D9),
