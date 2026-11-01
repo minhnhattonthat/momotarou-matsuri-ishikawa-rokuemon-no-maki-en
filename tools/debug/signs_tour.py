@@ -22,6 +22,11 @@ import gen_scenes  # noqa: E402
 from field_signs import check  # noqa: E402
 
 CASES = {
+    'bath_board180': (180, 18, 16, 0, 'GV16000D.BIN:3'),
+    'bath_board320a': (320, 16, 14, 0, 'GV36000D.BIN:0'),
+    'bath_board320b': (320, 15, 47, 0, 'GV36000D.BIN:0'),
+    'bath_board321a': (321, 16, 14, 0, 'GV36000D.BIN:0'),
+    'bath_board321b': (321, 15, 47, 0, 'GV36000D.BIN:0'),
     'flowers99': (99, 20, 40, 0, 'GV06000D.BIN:0'),
     'flowers100': (100, 20, 40, 0, 'GV06000D.BIN:0'),
     'flowers237': (237, 70, 29, 0, 'GV22000D.BIN:0'),
@@ -146,6 +151,7 @@ CASES = {
 # These atlases also retain another Inn tile beneath/outside the visible
 # map layer. These routes approve only the displayed layer's complete label.
 CASE_LABELS = {'inn80': ('inn2',), 'inn163': ('inn2',), 'inn99': ('inn',),
+               **{name: ('bath',) for name in CASES if name.startswith('bath_board')},
                'inn100': ('inn',), 'inn295': ('inn',), 'inn335': ('inn2',),
                'equipment45': ('weapons', 'armor', 'shoes'),
                'flowers99': ('flowers',), 'flowers100': ('flowers',),
@@ -182,7 +188,7 @@ def run(name, args, initializers):
             command += ['--script', str(ROOT / 'tools/debug/field_walk.lua'), '--var', 'HOLD=-1',
                         '--var', f'WALK_MAP={m}', '--var', "WALK={{'-',360}}",
                         '--var', 'WALK_VRAM=true', '--var', 'WALK_EVERY=6']
-        elif name.startswith('bath'):
+        elif name in ('bath189', 'bath332', 'bath333'):
             command += ['--script', str(ROOT / 'tools/debug/field_walk.lua'), '--var', 'HOLD=-1',
                         '--var', f'WALK_MAP={m}', '--var', "WALK={{'up',160}}"]
         else:

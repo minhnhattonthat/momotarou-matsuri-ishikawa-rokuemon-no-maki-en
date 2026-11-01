@@ -169,6 +169,16 @@ for _label, _u, _word in EQUIPMENT_SIGNS:
         (_label, [(_u, 80, 32, 16, 0, 0)], (1, 1, 31, 14), [_word], None,
          'wide_plaque' if _label == 'weapons' else 'equipment'))
 
+# The bath-town plaque's right edge is stored separately below the main
+# strip. Both layouts assemble the same 48x32 board; keep its edge and posts.
+BATH_SIGNS = {
+    'GV36000D.BIN:0': [(96, 64, 48, 32, 0, 0)],
+    'GV16000D.BIN:3': [(160, 72, 32, 32, 0, 0),
+                      (0, 224, 16, 16, 32, 0), (16, 224, 16, 16, 32, 16)],
+}
+for _key, _pieces in BATH_SIGNS.items():
+    SIGNS[_key].append(('bath', _pieces, (9, 8, 39, 28), ['Bath'], None, 'engraved'))
+
 for _key, _plan in gfx_field.PLANS.items():
     SIGNS.setdefault(_key, []).append(
         (_plan['label'], gfx_field.pieces(_key), (0, 0, 48, 16), [_plan['word']], None, 'relocated'))

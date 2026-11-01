@@ -124,6 +124,10 @@ def test_wood_games_signs_preserve_every_pixel_outside_lettering():
         # cream in the editing CLUT but becomes illegible blue/purple.
         assert lettering.count(12) >= 200
         assert set(lettering) <= set(range(7, 13))  # no roof pixels borrowed into the narrow board
+        for _, other_pieces, (a, b, c, d), *_ in signs[1:]:
+            allowed.update((u + dx, v + dy) for u, v, w, h, ax, ay in other_pieces
+                           for dy in range(h) for dx in range(w)
+                           if a <= ax + dx < c and b <= ay + dy < d)
         for y in range(before.height):
             for x in range(before.width):
                 if (x, y) not in allowed:

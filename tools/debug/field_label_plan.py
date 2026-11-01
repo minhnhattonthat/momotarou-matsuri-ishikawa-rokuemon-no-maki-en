@@ -12,6 +12,7 @@ import sys
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 import arc
 import gfx
+import gfx_field
 from field_consumers import inspect
 
 
@@ -36,6 +37,15 @@ def main():
              if all((xx, yy) not in used and pixels[yy * 256 + xx] == 0
                     for yy in range(y, y + 16) for xx in range(x, x + 48))]
     print('unreferenced transparent 48x16 slots:', slots)
+    allocated = set()
+    if args.key in gfx_field.PLANS:
+        allocated = {(x, y) for u, v in gfx_field.slots(args.key)
+                     for y in range(v, v + 16) for x in range(u, u + 16)}
+    remaining = [(u, v) for v in range(0, 241, 16) for u in range(0, 241, 16)
+                 if all((x, y) not in used and (x, y) not in allocated
+                        and pixels[y * 256 + x] == 0
+                        for y in range(v, v + 16) for x in range(u, u + 16))]
+    print('unreferenced transparent aligned 16x16 slots excluding English allocations:', remaining)
     for companion in sorted({owner[1] for owner in owners}):
         entries = arc.entries((gfx.TREE / companion).read_bytes())
         for entry, (_, table) in enumerate(entries):

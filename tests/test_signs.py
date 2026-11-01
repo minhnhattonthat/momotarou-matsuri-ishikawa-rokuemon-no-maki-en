@@ -117,3 +117,25 @@ def test_shop_names_use_complete_strokes_in_the_inserted_palette():
                               and mask.getpixel((x - left, y - top)))
                     assert (colour == 12) == bool(letter), (key, x, y)
                     assert colour != 13, (key, x, y)
+
+
+def test_bath_board_split_keeps_the_complete_word_and_no_old_strokes():
+    # Map180 stores the last tile column away from the first two. Compare
+    # inserted indices in assembled space, including the final H's strokes.
+    mask = gen_gfx.mask('Bath', 7, {'pixel': 'credits7.txt', 'tight': True})
+    mask = mask.resize((mask.width * 2, 14), Image.Resampling.NEAREST)
+    boards = []
+    for key, pieces in gfx_signs.BATH_SIGNS.items():
+        raw = gen_gfx.redrawn(key)
+        indices = Image.frombytes('L', (256, 256), bytes(gfx.indices(raw)))
+        board = Image.new('L', (48, 32))
+        for u, v, w, h, x, y in pieces:
+            board.paste(indices.crop((u, v, u + w, v + h)), (x, y))
+        boards.append(board)
+        for y in range(8, 28):
+            for x in range(9, 39):
+                letter = 11 <= y < 25 and bool(mask.getpixel((x - 9, y - 11)))
+                assert (board.getpixel((x, y)) == 12) == letter, (key, x, y)
+                assert board.getpixel((x, y)) != 13, (key, x, y)
+    # The native roof/edge pixels differ; only the lettering panels agree.
+    assert boards[0].crop((9, 8, 39, 28)).tobytes() == boards[1].crop((9, 8, 39, 28)).tobytes()

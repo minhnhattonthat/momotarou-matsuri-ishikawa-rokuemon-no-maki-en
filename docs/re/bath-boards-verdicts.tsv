@@ -1,0 +1,11 @@
+id	sha1	verdict	note
+bath_board180_bath_context_sheet	9ae75bdc5ee6698dbd7823f496ea4231ee85c36f	ok	Bath plaque complete on native map180 placement; frame, roof and nearby scene preserved; scoped sign review.
+bath_board180_bath_detail_sheet	b22cecae0e5140c1b800d16c5621611721ed9ecd	ok	BATH complete across split right-hand atlas tiles; Japanese engraving and highlights removed; posts and board edge preserved.
+bath_board320a_bath_context_sheet	d55b9f6352a504b08da796574e5074623c5b3183	ok	Northern Bath plaque complete; surrounding roof and scenery preserved; displayed English dialogue fits, not a whole-event verdict.
+bath_board320a_bath_detail_sheet	447bf8c4e87ee3a78e110b5f70c22a980aa00c85	ok	BATH readable at six-times zoom; no Japanese stroke remnants or clipped right edge.
+bath_board320b_bath_context_sheet	58329d1a3e0cc28f1d73984d76bf8c0588e5fc92	ok	Southern Bath plaque complete and readable; native roof and nearby scenery preserved; scoped sign review.
+bath_board320b_bath_detail_sheet	9af42982d8e3f1dacd641dca625214f9abc5960d	ok	BATH complete on southern placement; lettering, wood frame and posts intact.
+bath_board321a_bath_context_sheet	d55b9f6352a504b08da796574e5074623c5b3183	ok	Separate map321 northern cold route matches map320 appearance; full Bath word, no clipping; scoped sign review.
+bath_board321a_bath_detail_sheet	447bf8c4e87ee3a78e110b5f70c22a980aa00c85	ok	All four letters complete on map321 northern placement; wood edge and posts preserved.
+bath_board321b_bath_context_sheet	58329d1a3e0cc28f1d73984d76bf8c0588e5fc92	ok	Separate map321 southern cold route shows complete Bath plaque; surroundings preserved; scoped sign review.
+bath_board321b_bath_detail_sheet	9af42982d8e3f1dacd641dca625214f9abc5960d	ok	All four letters complete on map321 southern placement; no Japanese engraving remains in the edited panel.

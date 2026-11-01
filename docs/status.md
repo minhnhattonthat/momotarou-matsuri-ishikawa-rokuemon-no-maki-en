@@ -4,6 +4,20 @@ Updated at the end of every session. Keep it to what the next session needs; his
 
 - **Phase:** **8 in progress** (QA in the emulator), then 9 (release).
 - **Done (phase 8 so far, 2026-11-02):**
+  - Large bath plaques now read **Bath** in **five cold placements on both discs**: map180 and both
+    bathhouses in maps320/321. `gfx_signs.py` reassembles map180's split right column; all board edges,
+    mounting posts, palettes and layouts are preserved. M220D:3's duplicate is regenerated, but its
+    natural minigame placement remains unproved. Fresh D10 review accepts **10/10** scoped sheets;
+    `bath-boards-qa.md` records hashes, sources and limits.
+  - Current validation: **121 tests / lint 0**, verifier **398 changed files / 0 errors**, **0 Japanese
+    lines in 5 logs** (graphics excluded); cold main smoke `bath_boards8_main_smoke` passed. Main disc:
+    **182,454,048 bytes**, **2026-11-01 14:50:28 UTC**, SHA-1
+    **161e5adff5fae2c79cd691b2a86cc9cfbcd59b28** (identical to `build/bath_boards8.bin`).
+    **Phase 8 cannot advance: remaining graphics, phase-wide visual and story/NPC gates are still open.**
+  - Medicine's sunny/snowy map143/144 plaques use table record74 at front cell (98,20), CLUT31488/page5.
+    The full 30-pixel word needs widening. The sunny atlas has only two remaining aligned transparent
+    16x16 slots after Items; snowy has three. `field_label_plan.py` now excludes existing English allocations
+    when listing candidates. A different layout/allocation is needed for sunny; this needs no owner ruling.
   - Narrow plaques now show full **Flowers / Items** in **six cold contexts on both discs**:
     maps99/100, 143/144 and 237/238. `gfx_field.py` uses isolated atlas tiles and hash-checked
     front-grid/record edits; source tiles, rear grids, native palettes and attributes are preserved.
@@ -446,7 +460,9 @@ Updated at the end of every session. Keep it to what the next session needs; his
     views exposed Games boards in maps80/81 and 263 plus Produce/Fish Shop boards, now covered by
     `shop-boards-qa.md` (24 cold placements). Map45's equipment plaques now have cold proof
     (`equipment-signs-qa.md`); Flowers/Items now have six accepted widened placements
-    (`narrow-plaques-qa.md`). Other equipment sprite forms, medicine and bath plaques remain.
+    (`narrow-plaques-qa.md`). Large Bath boards now have five accepted cold placements (`bath-boards-qa.md`);
+    small underlying/unplaced ゆ copies and other equipment/medicine sprite forms remain.
+    Medicine at maps143/144 has the exact tile/slot lead above; preserve the existing Items allocation.
     GV01000D:0 medicine records 102/103 have no default grid placement in map45; locate their native consumer.
     Follow the five unresolved issues in `shop-boards-verdicts.tsv` and the unresolved portions of the 18 older
     whole-scene issues in `tea-bank-signs-verdicts.tsv`. Historical verdicts are not retroactively changed.
