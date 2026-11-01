@@ -4,6 +4,17 @@ Updated at the end of every session. Keep it to what the next session needs; his
 
 - **Phase:** **8 in progress** (QA in the emulator), then 9 (release).
 - **Done (phase 8 so far, 2026-11-02):**
+  - Event artwork: Kintaro's snow-statue initial is now **K** across EVT110D's 240-pixel texture seam,
+    and all three EVT620D orange fans read **Festival** (FEST / IVAL). Exact component masks preserve
+    the statue oval and fan ribs; the first fresh review caught six cream fringe pixels, now removed
+    and regression-tested. The disc-sourced oracle handles EVT620D:1 overwriting :0's shared CLUT.
+    `event-props-qa.md` records routes, masks and limits. Tiny snow placards and the ending's black
+    gold-prop mark remain unclassified; **phase 8 cannot advance**.
+  - Final event-prop validation: **5/5 complete regions on both discs**, fresh D10 **4 detail sheets ok /
+    2 context sheets with issues**; no missing/stale verdicts. **125 tests / lint 0**, verifier **399 changed
+    files / 0 errors**, **0 Japanese lines in 2 logs** (graphics excluded); cold main smoke passed.
+    Main disc: **182,454,048 bytes**, built **2026-11-01 15:32:34 UTC**, SHA-1
+    **d20bb64a57a110da58795477de0bf197effcc0de**. `build/event_props8.bin` is an older rejected candidate.
   - Medicine now uses full **Medicine** on maps143/144, preserving Items in the same atlases. A hash-checked,
     unreferenced diagnostic checker cell supplies the third tile when transparent space runs out.
     Both discs pass **4/4** complete Medicine/Items placements; fresh D10 review **8/8 ok**.
@@ -458,7 +469,9 @@ Updated at the end of every session. Keep it to what the next session needs; his
     literal message references (`portrait-audit.md`); reopen if runtime evidence ever displays them.
   - Finish the corrected tour's **25 historical non-ok sheets** using `corrected-tour-verdicts.tsv`;
     supplement with the shrine-paper classification/event01 correction in `symbol-classification-qa.md`.
-    The actual EVT110D snow placards and round banner emblem remain open, along with signs/costume marks.
+    EVT110D's snow initial is now K with cold event07 proof; its tiny placards remain open. Three EVT620D
+    Festival fans are translated; the ending's separate gold-prop mark near (164,53) needs classification.
+    The round banner emblem and other signs/costume marks remain open.
     Map284 now has six passing native-setup retries (`map284-regression.md`). Review
     intermediate text frames and add NPC interaction/later-story routes: 465 arrival/final pairs are not
     complete dialogue or story-state coverage. Older pre-initializer shots remain superseded.

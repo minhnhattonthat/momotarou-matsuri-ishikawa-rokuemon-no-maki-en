@@ -43,9 +43,12 @@ Every Japanese-bearing image found by five read-only reviewers over all 80 sheet
 | credits | 3 | staff roll EVT600D:2-4 plus five copies each: English, 22/22 cold-shot items, scoped 4/4 visual gate; readings polish remains (`credits-qa.md`) |
 | sign | 57 | town tilesets (八百屋, 宿, 茶, 湯, ゆ?? boards, round plaques, 男湯/女湯 noren), sushi price board (M440D:0), flags; many tiny and unread |
 | font | 6 | FONT0D (main text), M990D 0/1, M230D:3, NAME0D:1 |
-| hud / other | 9 | 白/赤 team icons (DEF0D:9), speech bubbles (M060D:2, M080D:6), 祭 emblems in ending art (keep), どっち? |
+| hud / other | 9 | 白/赤 team icons (DEF0D:9), speech bubbles (M060D:2, M080D:6), three ending-art Festival fans now English (`event-props-qa.md`), どっち? |
 
 Open for later phases:
+- Event07's snow-statue initial is now K; all three EVT620D ending fans say Festival.
+  `event-props-qa.md` records cold routes, exact source masks and the shared-CLUT overwrite.
+  The tiny snow placards and ending gold-prop mark remain unclassified; this is not whole-event approval.
 - Medicine at maps143/144 now has full-word cold proof, with existing Items rechecked on the same build;
   eight scoped sheets pass (`medicine-plaques-qa.md`). Unplaced/rear-grid copies remain unproved.
   Shrine papers classify as abstract pictograms; the old event01 snow-placard note was a review error.

@@ -11,15 +11,15 @@ id	source	kind	japanese	note
 #102	EVT090D.BIN:2@5c20	banner	開 / 大 (orange kanji on green hills)	reading unsure
 #105	EVT100D.BIN:0@70	sign	nobori banners on poles	unsure
 #107	EVT100D.BIN:2@9370	sign	white nobori flags	unsure if text
-#108	EVT110D.BIN:0@60	sign	small wooden sign; emblem on snow statue	tiny, unsure
-#109	EVT110D.BIN:1@4770	sign	small wooden sign	tiny, unsure
+#108	EVT110D.BIN:0@60	sign	small wooden sign; Kintaro snow-statue initial	Initial now K across the 240px seam; complete cold event07 lettering proof; tiny placard remains unclassified; event-props-qa.md
+#109	EVT110D.BIN:1@4770	sign	small wooden sign; other half of Kintaro initial	Initial now K; tiny placard remains unclassified; event-props-qa.md
 #115	EVT130D.BIN:1@3170	sign	tanabata tanzaku strips	unsure
 #141	EVT220D.BIN:1@4020	sign	よ... (shop banner) / ...こそ!! (ようこそ!!)	town shop signs in kana, partly cropped
 #167	EVT600D.BIN:2@a6e0	credits	staff roll part 1 (総監督 さくま あきら ... テクニカルアドバイザー)	English incl. all six archive copies; cold 22/22 items; docs/re/credits-qa.md; readings polish remains
 #168	EVT600D.BIN:3@f610	credits	staff roll part 2 (マスタリングスタッフ ... スペシャルサンクス ...)	English incl. all six archive copies; cold 22/22 items; docs/re/credits-qa.md; readings polish remains
 #169	EVT600D.BIN:4@145c0	credits	staff roll part 3 (... プロデューサー / 制作 株式会社 ハドソン)	English incl. all six archive copies; cold 22/22 items; docs/re/credits-qa.md; readings polish remains
-#172	EVT620D.BIN:0@f0	other	祭 on lanterns/fan	emblem in ending art; likely keep
-#173	EVT620D.BIN:1@a9d0	other	祭 (orange fan)	emblem; likely keep
+#172	EVT620D.BIN:0@f0	other	祭 on two orange fans -> Festival	Both full words English, split FEST/IVAL; cold event20 proof; separate gold-prop mark remains open; event-props-qa.md
+#173	EVT620D.BIN:1@a9d0	other	祭 on orange fan -> Festival	Full word English, split FEST/IVAL; cold event20 proof; event-props-qa.md
 #185	FILESL0D.BIN:1@15b0	logo	桃太郎まつり (vertical, 2 variants)	original product-title lantern artwork kept Japanese under D5; both variants inspected; graphics.md
 #186	FONT0D.BIN:0@10	font	page A kanji, page B digits+kana+symbols (2bpp planes)	main text font
 #187	FONT0D.BIN:1@5730	font	kanji pages	main text font
