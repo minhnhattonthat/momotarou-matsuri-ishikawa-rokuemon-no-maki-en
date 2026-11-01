@@ -4,6 +4,16 @@ Updated at the end of every session. Keep it to what the next session needs; his
 
 - **Phase:** **8 in progress** (QA in the emulator), then 9 (release).
 - **Done (phase 8 so far, 2026-11-02):**
+  - Even Tanuki's upright/tilted wall scrolls now say **MATCH**. Native Circle-only play
+    gives **3/3** complete scroll/Streak matches on each disc; fresh D10 review accepts
+    **8/8** sheets (`tanuki-qa.md`). The History Quiz Oni helmet is a question mark,
+    confirmed cold at 10x; the older sheet 015 Japanese-helmet finding is superseded.
+    Native M14 Win/Lose remains unproved after synchronous/offset two-pad probes;
+    the versus stage exposes untranslated Kintaro bibs in M140D:2.
+  - Latest validation: **133 tests / lint 0**, verifier **400 changed files / 0 errors**, cold
+    `work/qa/tanuki8_smoke` passed; `tanuki8_en` has **0 Japanese lines in 1 log** (graphics excluded).
+    Main disc **182,446,992 bytes**, **2026-11-01 18:55:20 UTC**, SHA-1
+    **191e61ff4305eb4e21c0a596edefe71fbe4feb8e**. **Phase 8 remains incomplete.**
   - M49's four costume badges now read **F**. This is **God of Fortune**, not Poverty God as the
     earlier M50 follow-up note stated. All four edited cells have complete cold matches in eight
     native reward poses on both discs; controller input stops the selector and reaches the trial return.
@@ -622,6 +632,9 @@ Updated at the end of every session. Keep it to what the next session needs; his
     M990D:0's 40 large winner/ordinal states are now translated and cold-rendered (`results-qa.md`);
     normal gameplay progression still needs tour coverage. Small Bonus now uses a separate English sprite;
     its original overlapping fragment users remain intact and unclassified. See `docs/re/hud-counters-qa.md`.
+    M14's two MATCH scrolls and Streak now have native proof (`tanuki-qa.md`);
+    Win/Lose remains fixture-only. `tanuki.lua` drives both native controllers for follow-up;
+    neither tested timing produced the banners. M140D:2's Kintaro bibs still need translation.
   - Graphics text (D5: all of it; docs/re/gfx_survey.tsv, 204 rows): product-title logo variants are now
     explicitly retained under D5 (`graphics.md`). Remaining work: the native Rank Details title consumer
     (Game Album/Quick Match!/Name Entry have cold proof in `menu-titles-qa.md`),

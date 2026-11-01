@@ -36,6 +36,7 @@ import gfx_intro  # noqa: E402
 import gfx_event_props  # noqa: E402
 import gfx_welcome  # noqa: E402
 import gfx_fortune  # noqa: E402
+import gfx_tanuki  # noqa: E402
 import gfx_status  # noqa: E402
 import gfx_props  # noqa: E402
 import name_entry  # noqa: E402
@@ -435,6 +436,8 @@ def generate(keys=None):
             gfx_welcome.draw(im, pal)
         if key == gfx_fortune.KEY:
             gfx_fortune.draw(im, pal)
+        if key == gfx_tanuki.KEY:
+            gfx_tanuki.draw(im, pal)
         if key == 'STATUS0D.BIN:1':
             gfx_status.draw(im, pal)
         if key == 'STATUS0D.BIN:0':

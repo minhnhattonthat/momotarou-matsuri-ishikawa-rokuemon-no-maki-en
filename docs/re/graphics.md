@@ -46,6 +46,10 @@ Every Japanese-bearing image found by five read-only reviewers over all 80 sheet
 | hud / other | 9 | 白/赤 team icons (DEF0D:9), speech bubbles (M060D:2, M080D:6), three ending-art Festival fans now English (`event-props-qa.md`), どっち? |
 
 Open for later phases:
+- M14's upright and tilted 勝負 wall scrolls now read MATCH. Both scrolls and Streak
+  have complete native cold proof on both discs (`tanuki-qa.md`); eight sheets pass.
+  The M51 helmet concern is a classification error: its mark is a question mark,
+  confirmed in fresh enlarged cold shots. M14 natural Win/Lose and Kintaro's bib remain open.
 - M49's four God of Fortune badges now use F; eight native reward poses on both discs
   and 11 scoped sheets pass (`fortune-qa.md`). The earlier Poverty God identification was wrong.
   Alternate coin effects and a natural story return remain outside the accepted route.

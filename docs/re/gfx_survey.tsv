@@ -183,7 +183,7 @@ id	source	kind	japanese	note
 #706	M060D.BIN:2	other	れべる 1 2 3 / よいしょ! / ほい! / まだまだ! / がんばれ!	Level 1-3 / Heave! / Ho! / Not yet! / Go for it!; seven cold paused-sprite checks; minigame-labels-qa.md
 #717	M080D.BIN:6	other	リーチ!	One away!; cold Game Start substitution match; natural near-win remains; minigame-labels-qa.md
 #725	M110D.BIN:0	banner	じゃんけん!ぽん! / 勝ち! 負け! 引き分け!	janken banners
-#744	M140D.BIN:0	banner	勝ち! / 負け! / 連続	Win/Lose/Streak English; three cold sprite checks, outlined Streak; natural outcomes and wall scroll remain; hud-outcomes-qa.md
+#744	M140D.BIN:0	banner	勝ち! / 負け! / 連続 / upright and tilted 勝負 scrolls	Win/Lose/Streak/MATCH English; both scrolls and Streak have complete native cold proof on both discs; natural Win/Lose and M140D:2 Kintaro bib remain; tanuki-qa.md
 #761	M170D.BIN:20	sign	一番	First on the winning flag; complete natural cold victory capture on both discs; small-props-qa.md
 #768	M180D.BIN:3	hud	スカ (next to digits "+-5678910")	Miss; cold complete-sprite match; natural miss remains; minigame-labels-qa.md
 #783	M230D.BIN:0@f0	banner	ウサカメレース	Rabbit-Turtle Race sign; cold natural menu match, border preserved; minigame-labels-qa.md

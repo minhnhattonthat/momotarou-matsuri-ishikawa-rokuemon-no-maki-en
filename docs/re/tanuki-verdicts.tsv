@@ -1,0 +1,9 @@
+sheet	sha1	verdict	note
+quiz_context_sheet	db4bed385733f5c80765ed5918c50930ae3c8c12	ok	Cold History Quiz text fits; helmet is a question mark with tiger stripes, not Japanese lettering.
+quiz_helmet_sheet	bbdbb7c7f23a683280da0d28bba0c292b60f8a42	ok	Red question mark and separate square dot confirmed on both discs; surrounding dark strokes are tiger stripes.
+streak_context_sheet	f83853545106ea9b6bbbf01404b4bcadc60859d4	ok	Native Streak, score and record fit; MATCH and actor/dice artwork are intact; native roll values differ.
+streak_detail_sheet	ac9b844660a9056d47af5cfb0ce7229e108f1a7a	ok	Complete outlined STREAK fits the number panel without old strokes.
+tilted_context_sheet	920f6d5e08d4e3bfccbdd941dacd8a3022189c11	ok	Natural odd-roll failure shows tilted MATCH, intact binding/seal, readable counters and preserved stage/actors.
+tilted_detail_sheet	bf1548943fc4281af702d55ec690da37cf743bee	ok	Sloping MATCH follows paper; all original lettering removed; shaded edges, green binding, brown mounts and red seal preserved.
+upright_context_sheet	024b5107edfaef512f37b889222e5062fce69917	ok	Intro dialogue, score and record fit; MATCH scroll appears naturally with intact stage/actors.
+upright_detail_sheet	8dbad13066d0dd54cc15fd8df20c30901a77d3fe	ok	Complete centred MATCH; mounts, green binding and red seal unchanged.

@@ -182,6 +182,31 @@ def test_roundtrip_and_one_pixel(tmp_path):
             gfx.redraw(t, p)
 
 
+def test_tanuki_scrolls_preserve_binding_seals_and_transparency():
+    from PIL import Image
+    import anm
+    import gfx_tanuki
+    texture, before = gen_gfx.original(gfx_tanuki.KEY)
+    after = before.copy()
+    gfx_tanuki.draw(after, set(gfx.palette(texture, 0)))
+    allowed = {(x, y) for a, b, c, d in gfx_tanuki.rectangles()
+               for y in range(b, d) for x in range(a, c)}
+    assert before.getchannel('A').tobytes() == after.getchannel('A').tobytes()
+    for y in range(before.height):
+        for x in range(before.width):
+            if (x, y) not in allowed:
+                assert before.getpixel((x, y)) == after.getpixel((x, y)), (x, y)
+    for rect in ((167, 154, 169, 156), (170, 196, 172, 198)):
+        assert before.crop(rect).tobytes() == after.crop(rect).tobytes()
+    archive = arc.entries((gfx.TREE / 'M140D.BIN').read_bytes())
+    users = {(entry, item) for rect in gfx_tanuki.rectangles()
+             for entry, item, _ in anm.references(archive, 5, rect)}
+    assert users == {(11, 0), (11, 1)}
+    committed = Image.open(gfx.EN / 'M140D_0.png').convert('RGBA')
+    for rect in ((160, 128, 184, 160), (160, 168, 184, 208)):
+        assert after.crop(rect).tobytes() == committed.crop(rect).tobytes()
+
+
 def test_redraws_change_only_declared_label_rectangles():
     card_rects = {}
     for row in gen_card_words.rows():
@@ -212,6 +237,8 @@ def test_redraws_change_only_declared_label_rectangles():
             rects += gfx_welcome.RECTS
         if key == gen_gfx.gfx_fortune.KEY:
             rects += gen_gfx.gfx_fortune.rectangles()
+        if key == gen_gfx.gfx_tanuki.KEY:
+            rects += gen_gfx.gfx_tanuki.rectangles()
         if key == 'STATUS0D.BIN:1':
             rects += [(u, v, u + w, v + h) for u, v, w, h, _, _ in gfx_status.PIECES]
         if key == 'STATUS0D.BIN:0':
