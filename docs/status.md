@@ -4,6 +4,20 @@ Updated at the end of every session. Keep it to what the next session needs; his
 
 - **Phase:** **8 in progress** (QA in the emulator), then 9 (release).
 - **Done (phase 8 so far, 2026-11-02):**
+  - Medicine now uses full **Medicine** on maps143/144, preserving Items in the same atlases. A hash-checked,
+    unreferenced diagnostic checker cell supplies the third tile when transparent space runs out.
+    Both discs pass **4/4** complete Medicine/Items placements; fresh D10 review **8/8 ok**.
+    `medicine-plaques-qa.md` records allocation, preservation, commands and verdict hashes.
+  - Current validation: **123 tests / lint 0**, verifier **398 changed files / 0 errors**, **0 Japanese
+    lines in 4 sign logs** (graphics excluded); cold `medicine8_smoke` and `medicine8_main_smoke` passed.
+    Main disc is byte-identical to `build/medicine8.bin`, **182,454,048 bytes**, built
+    **2026-11-01 15:08:17 UTC**, SHA-1 **d0552aced38bba6aed45e37620cf76e7ddff331d**.
+  - Symbol follow-up: **7/7 cold routes on both discs**, fresh D10 **5 ok / 4 issues**. Shrine papers are
+    abstract dots/bars and torii-like pictograms; event01's old snow-placard note was a review error (the
+    historical frame also shows the bath). Actual EVT110D snow art remains open. Round banners remain
+    unresolved, now located at GV02070D:2 (128,180)-(144,196), CLUT13, with **30 exact texture matches**.
+    `symbol-classification-qa.md` preserves details; historical verdicts stay unchanged.
+    **Phase 8 cannot advance: remaining graphics, full visual and story/NPC coverage gates remain open.**
   - Large bath plaques now read **Bath** in **five cold placements on both discs**: map180 and both
     bathhouses in maps320/321. `gfx_signs.py` reassembles map180's split right column; all board edges,
     mounting posts, palettes and layouts are preserved. M220D:3's duplicate is regenerated, but its
@@ -14,10 +28,8 @@ Updated at the end of every session. Keep it to what the next session needs; his
     **182,454,048 bytes**, **2026-11-01 14:50:28 UTC**, SHA-1
     **161e5adff5fae2c79cd691b2a86cc9cfbcd59b28** (identical to `build/bath_boards8.bin`).
     **Phase 8 cannot advance: remaining graphics, phase-wide visual and story/NPC gates are still open.**
-  - Medicine's sunny/snowy map143/144 plaques use table record74 at front cell (98,20), CLUT31488/page5.
-    The full 30-pixel word needs widening. The sunny atlas has only two remaining aligned transparent
-    16x16 slots after Items; snowy has three. `field_label_plan.py` now excludes existing English allocations
-    when listing candidates. A different layout/allocation is needed for sunny; this needs no owner ruling.
+  - Earlier Medicine allocation lead is resolved above. `field_label_plan.py` excludes all existing English
+    plaque allocations when listing candidates; maps143/144 retain their native CLUT31488/page5.
   - Narrow plaques now show full **Flowers / Items** in **six cold contexts on both discs**:
     maps99/100, 143/144 and 237/238. `gfx_field.py` uses isolated atlas tiles and hash-checked
     front-grid/record edits; source tiles, rear grids, native palettes and attributes are preserved.
@@ -444,8 +456,9 @@ Updated at the end of every session. Keep it to what the next session needs; his
   - Character names, fan lettering and coat numerals have natural attract-mode proof. `character-intro-qa.md`
     and `character-props-qa.md` record exact bounds and cold routes. GCV0310's four placeholders have no
     literal message references (`portrait-audit.md`); reopen if runtime evidence ever displays them.
-  - Finish the corrected tour's **25 non-ok sheets** using `corrected-tour-verdicts.tsv`; classify the
-    snow-event placard, shrine paper charms and round banner emblem, then fix remaining signs/costume marks.
+  - Finish the corrected tour's **25 historical non-ok sheets** using `corrected-tour-verdicts.tsv`;
+    supplement with the shrine-paper classification/event01 correction in `symbol-classification-qa.md`.
+    The actual EVT110D snow placards and round banner emblem remain open, along with signs/costume marks.
     Map284 now has six passing native-setup retries (`map284-regression.md`). Review
     intermediate text frames and add NPC interaction/later-story routes: 465 arrival/final pairs are not
     complete dialogue or story-state coverage. Older pre-initializer shots remain superseded.
@@ -462,7 +475,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
     (`equipment-signs-qa.md`); Flowers/Items now have six accepted widened placements
     (`narrow-plaques-qa.md`). Large Bath boards now have five accepted cold placements (`bath-boards-qa.md`);
     small underlying/unplaced ゆ copies and other equipment/medicine sprite forms remain.
-    Medicine at maps143/144 has the exact tile/slot lead above; preserve the existing Items allocation.
+    Medicine and Items at maps143/144 now have cold proof; unplaced/rear-grid copies remain unproved.
     GV01000D:0 medicine records 102/103 have no default grid placement in map45; locate their native consumer.
     Follow the five unresolved issues in `shop-boards-verdicts.tsv` and the unresolved portions of the 18 older
     whole-scene issues in `tea-bank-signs-verdicts.tsv`. Historical verdicts are not retroactively changed.
@@ -493,7 +506,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
     M990D:0's 40 large winner/ordinal states are now translated and cold-rendered (`results-qa.md`);
     normal gameplay progression still needs tour coverage. Small Bonus now uses a separate English sprite;
     its original overlapping fragment users remain intact and unclassified. See `docs/re/hud-counters-qa.md`.
-  - Graphics text (D5: all of it; docs/re/gfx_survey.tsv, 202 rows): product-title logo variants are now
+  - Graphics text (D5: all of it; docs/re/gfx_survey.tsv, 203 rows): product-title logo variants are now
     explicitly retained under D5 (`graphics.md`). Remaining work: NAME0D:0 mode-menu shots,
     remaining M990D fragment/context classification, remaining banners
     (GV02000D:2, GV13000D:2...), HOUGEN0D:0 new-card tag, ending-art signs/emblems,
@@ -522,7 +535,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
   - The nine historical map hangs are resolved by correct initialization and map 294's entry setup;
     story flags remain unmapped (warped maps show default state). `tools/deadcode.py` output is not safe hook
     space without an exec watch (`tools/lua/deadwatch.lua`, `warp_all.py --debugger`).
-  - Phase 8 remains incomplete: much of the 202-row graphics survey, the full visual manifest,
+  - Phase 8 remains incomplete: much of the 203-row graphics survey, the full visual manifest,
     and the corrected map interaction tour remain open. Do not advance to phase 9 on scoped graphics verdicts.
 - **Waiting on the user:**
   - (resolved, D9) reviews: the run brief allows a fresh read-only pass, so the repo's in-session `reviewer` /

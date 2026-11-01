@@ -22,6 +22,8 @@ import gen_scenes  # noqa: E402
 from field_signs import check  # noqa: E402
 
 CASES = {
+    'medicine143': (143, 98, 23, 0, 'GV12000D.BIN:0'),
+    'medicine144': (144, 98, 23, 0, 'GV12002D.BIN:0'),
     'bath_board180': (180, 18, 16, 0, 'GV16000D.BIN:3'),
     'bath_board320a': (320, 16, 14, 0, 'GV36000D.BIN:0'),
     'bath_board320b': (320, 15, 47, 0, 'GV36000D.BIN:0'),
@@ -156,7 +158,8 @@ CASE_LABELS = {'inn80': ('inn2',), 'inn163': ('inn2',), 'inn99': ('inn',),
                'equipment45': ('weapons', 'armor', 'shoes'),
                'flowers99': ('flowers',), 'flowers100': ('flowers',),
                'flowers237': ('flowers',), 'flowers238': ('flowers',),
-               'items143': ('items',), 'items144': ('items',)}
+               'items143': ('items',), 'items144': ('items',),
+               'medicine143': ('medicine',), 'medicine144': ('medicine',)}
 
 
 def run(name, args, initializers):

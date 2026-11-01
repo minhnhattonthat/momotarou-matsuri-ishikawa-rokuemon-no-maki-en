@@ -21,31 +21,36 @@ pytestmark = pytest.mark.skipif(not gfx.TREE.exists(), reason='needs work/disc')
 @pytest.mark.parametrize('key', gfx_field.PLANS)
 def test_new_tiles_have_no_original_consumers_and_old_records_stay_intact(key):
     plan = gfx_field.PLANS[key]
-    for u, v in gfx_field.slots(key):
+    plans = gfx_field.plans(key)
+    destinations = [slot for p in plans for slot in gfx_field.slots(key, p['label'])]
+    assert len(destinations) == len(set(destinations)), 'English allocations overlap'
+    for u, v in destinations:
         owners, uses = field_consumers.inspect(key, (u, v, u + 16, v + 16))
         assert owners and not uses, (key, u, v, uses)
+    records = [record for p in plans for record in gfx_field.records(p)]
+    assert len(records) == len(set(records))
     raw = (gfx.TREE / plan['companion']).read_bytes()
     entries = [entry for _, entry in arc.entries(raw)]
     new = gfx.apply(plan['companion'], raw)
     assert not verify_build.check_archive(plan['companion'], raw, new)
     for i, ((_, old), (_, changed)) in enumerate(zip(arc.entries(raw), arc.entries(new))):
         if i in plan['tables']:
-            allowed = {at for record in gfx_field.RECORDS for at in range(8 + record * 8, 16 + record * 8)}
-            allowed.update(8200 + record for record in gfx_field.RECORDS)
+            allowed = {at for record in records for at in range(8 + record * 8, 16 + record * 8)}
+            allowed.update(8200 + record for record in records)
             assert all(a == b or at in allowed for at, (a, b) in enumerate(zip(old, changed)))
-            for source, target in zip(plan['ids'], gfx_field.RECORDS):
-                assert changed[8200 + target] == old[8200 + source]
+            for p in plans:
+                for source, target in zip(p['ids'], gfx_field.records(p)):
+                    assert changed[8200 + target] == old[8200 + source]
         elif i in plan['grids']:
             w, h = old[4:6]
             before = struct.unpack_from(f'<{w * h}H', old, 8)
             after = struct.unpack_from(f'<{w * h}H', changed, 8)
-            x, y = plan['cell']
-            expected = {y * w + x - 1, y * w + x, y * w + x + 1}
+            expected = {y * w + x + dx for p in plans for x, y in [p['cell']] for dx in (-1, 0, 1)}
             assert {n for n, pair in enumerate(zip(before, after)) if pair[0] != pair[1]} == expected
         else:
             assert old == changed
         if old[:4] == b'\x23\0\0\0':
-            assert not set(gfx_field.RECORDS) & set(struct.unpack_from(f'<{old[4] * old[5]}H', old, 8))
+            assert not set(records) & set(struct.unpack_from(f'<{old[4] * old[5]}H', old, 8))
     bad = bytearray(entries[plan['tables'][0]])
     bad[9] ^= 1
     with pytest.raises(ValueError, match='unexpected original field layout'):
@@ -58,15 +63,16 @@ def test_new_tiles_have_no_original_consumers_and_old_records_stay_intact(key):
     assert verify_build.check_archive(plan['companion'], raw, arc.pack(damaged, struct.unpack_from('<I', raw)[0]))
 
 
-@pytest.mark.parametrize('key', gfx_field.PLANS)
-def test_widened_label_has_full_word_and_no_old_highlight(key):
-    plan = gfx_field.PLANS[key]
+@pytest.mark.parametrize('key,label', [(key, p['label']) for key in gfx_field.PLANS
+                                     for p in gfx_field.plans(key)])
+def test_widened_label_has_full_word_and_no_old_highlight(key, label):
+    plan = gfx_field.plan_for(key, label)
     original = gfx.indices(gen_gfx.original(key)[0])
     revised = gfx.indices(gen_gfx.redrawn(key))
     mask = gen_gfx.mask(plan['word'], 7, {'pixel': 'credits7.txt', 'tight': True})
     left = (48 - mask.width) // 2
     for x in range(48):
-        u, v = gfx_field.slots(key)[x // 16]
+        u, v = gfx_field.slots(key, label)[x // 16]
         sx, sy = plan['sources'][x // 16]
         for y in range(16):
             value = revised[(v + y) * 256 + u + x % 16]

@@ -41,22 +41,43 @@ PLANS = {
                 2: '78a02576562ca3841a76e48ec725b87f4b692cfa',
                 4: 'd3d08bec3ed73c61ecf0c94f35f203a75c4dd023'}),
 }
+# These atlases contain a second narrow plaque. The last destination is an
+# unreferenced diagnostic checker tile, identical in both weather variants.
+# Its exact original index pattern is checked before drawing over it.
+MEDICINE = {
+    key: dict(PLANS[key], label='medicine', word='Medicine', cell=(98, 20),
+              ids=(99, 74, 101), sources=((208, 48), (64, 80), (144, 48)),
+              slots=((0, 32), (64, 48), (160, 240)), records=(1018, 1019, 1020))
+    for key in ('GV12000D.BIN:0', 'GV12002D.BIN:0')
+}
 
 
-def slots(key):
-    return PLANS[key].get('slots', SLOTS)
+def plans(key):
+    return [PLANS[key]] + ([MEDICINE[key]] if key in MEDICINE else [])
+
+
+def plan_for(key, label=None):
+    return next(p for p in plans(key) if label is None or p['label'] == label)
+
+
+def records(plan):
+    return plan.get('records', RECORDS)
+
+
+def slots(key, label=None):
+    return plan_for(key, label).get('slots', SLOTS)
 
 
 def cluts(plan):
     return plan.get('cluts') or (plan['clut'],) * 3
 
 
-def pieces(key, original=False):
+def pieces(key, original=False, label=None):
     return [(u, v, 16, 16, i * 16, 0)
-            for i, (u, v) in enumerate(PLANS[key]['sources'] if original else slots(key))]
+            for i, (u, v) in enumerate(plan_for(key, label)['sources'] if original else slots(key, label))]
 
 
-def template(texture, key, original=False, vram=None):
+def template(texture, key, original=False, vram=None, label=None):
     """Assemble each tile under its own native CLUT, including mixed roofs."""
     from PIL import Image
     import tim
@@ -76,7 +97,7 @@ def template(texture, key, original=False, vram=None):
             texture[20 + row * 32:20 + (row + 1) * 32] = vram[at:at + 32]
     base = (palette[1] << 6) | (palette[0] // 16)
     out = Image.new('RGBA', (48, 16))
-    for (u, v, w, h, x, y), clut in zip(pieces(key, original), cluts(PLANS[key])):
+    for (u, v, w, h, x, y), clut in zip(pieces(key, original, label), cluts(plan_for(key, label))):
         assert (clut - base) % 64 == 0
         row = (clut - base) // 64
         if vram is not None:
@@ -96,17 +117,24 @@ def files():
 
 
 def patch(name, entry, data):
-    plan = next((p for p in PLANS.values() if p['companion'] == Path(name).name), None)
-    if plan is None or entry not in plan['hashes']:
+    selected = [p for key in PLANS for p in plans(key)
+                if p['companion'] == Path(name).name and entry in p['hashes']]
+    if not selected:
         return None
+    out = bytearray(data)
+    for plan in selected:
+        patch_plan(name, entry, data, out, plan)
+    return bytes(out)
+
+
+def patch_plan(name, entry, data, out, plan):
     if hashlib.sha1(data).hexdigest() != plan['hashes'][entry]:
         raise ValueError(f'{name}/{entry}: unexpected original field layout')
-    out = bytearray(data)
     if entry in plan['tables']:
         assert data[:8] == bytes.fromhex('2203008000042020')
         destinations = plan.get('slots', SLOTS)
         for source, target, (u, v), (su, sv), clut in zip(
-                plan['ids'], RECORDS, destinations, plan['sources'], cluts(plan)):
+                plan['ids'], records(plan), destinations, plan['sources'], cluts(plan)):
             native = struct.unpack_from('<BB3H', data, 8 + source * 8)
             assert native == (su, sv, clut, 0, 5)
             assert struct.unpack_from('<BB3H', data, 8 + target * 8) == (0, 0, 30720, 0, 5)
@@ -117,24 +145,23 @@ def patch(name, entry, data):
         assert data[:4] == b'\x23\0\0\0'
         width, height = data[4:6]
         cells = struct.unpack_from(f'<{width * height}H', data, 8)
-        assert not set(RECORDS) & set(cells), 'reserved records already used'
+        assert not set(records(plan)) & set(cells), 'reserved records already used'
         x, y = plan['cell']
         at = y * width + x - 1
         assert cells[at:at + 3] == plan['ids']
-        struct.pack_into('<3H', out, 8 + at * 2, *RECORDS)
-    return bytes(out)
+        struct.pack_into('<3H', out, 8 + at * 2, *records(plan))
 
 
-def draw(im, key, pal):
+def draw(im, key, pal, label=None):
     """Generate the three relocated tiles; never alter the native source tiles."""
     import gen_gfx
     import gfx
     import gfx_signs
 
-    plan = PLANS[key]
+    plan = plan_for(key, label)
     texture, original = gen_gfx.original(key)
     colours = gfx.palette(texture, gen_gfx.EDIT_PALETTES.get(key, 0))
-    board = gfx_signs.assemble(original, pieces(key, original=True))
+    board = gfx_signs.assemble(original, pieces(key, original=True, label=label))
     px = board.load()
     # Erase the complete old central glyph, including highlights, first.
     for y in range(1, 15):
@@ -152,6 +179,12 @@ def draw(im, key, pal):
     left = (48 - mask.width) // 2
     board.paste(colours[12], (left, 4, left + mask.width, 11), mask)
     assert set(board.getdata()) <= pal
-    for u, v, w, h, x, y in pieces(key):
-        assert not im.crop((u, v, u + w, v + h)).getchannel('A').getbbox(), (key, u, v)
+    for u, v, w, h, x, y in pieces(key, label=label):
+        if label == 'medicine' and (u, v) == (160, 240):
+            indices = gfx.indices(texture)
+            tile = bytes(indices[yy * 256 + xx] for yy in range(v, v + h) for xx in range(u, u + w))
+            assert hashlib.sha1(tile).hexdigest() == '642b2cd0c1dd310cebbd714cbb7b19b356f12527'
+            assert im.crop((u, v, u + w, v + h)).tobytes() == original.crop((u, v, u + w, v + h)).tobytes()
+        else:
+            assert not im.crop((u, v, u + w, v + h)).getchannel('A').getbbox(), (key, u, v)
         im.paste(board.crop((x, y, x + w, y + h)), (u, v))

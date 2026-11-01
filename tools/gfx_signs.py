@@ -179,9 +179,11 @@ BATH_SIGNS = {
 for _key, _pieces in BATH_SIGNS.items():
     SIGNS[_key].append(('bath', _pieces, (9, 8, 39, 28), ['Bath'], None, 'engraved'))
 
-for _key, _plan in gfx_field.PLANS.items():
-    SIGNS.setdefault(_key, []).append(
-        (_plan['label'], gfx_field.pieces(_key), (0, 0, 48, 16), [_plan['word']], None, 'relocated'))
+for _key in gfx_field.PLANS:
+    for _plan in gfx_field.plans(_key):
+        SIGNS.setdefault(_key, []).append(
+            (_plan['label'], gfx_field.pieces(_key, label=_plan['label']),
+             (0, 0, 48, 16), [_plan['word']], None, 'relocated'))
 
 
 def assemble(im, pieces):
@@ -196,9 +198,9 @@ def draw(im, key, pal):
     from collections import Counter
     import gen_gfx
 
-    for _, pieces, rect, lines, colour, kind in SIGNS[key]:
+    for label, pieces, rect, lines, colour, kind in SIGNS[key]:
         if kind == 'relocated':
-            gfx_field.draw(im, key, pal)
+            gfx_field.draw(im, key, pal, label)
             continue
         board = assemble(im, pieces)
         px = board.load()

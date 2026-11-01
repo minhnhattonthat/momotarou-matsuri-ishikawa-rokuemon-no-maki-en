@@ -39,7 +39,8 @@ def main():
     print('unreferenced transparent 48x16 slots:', slots)
     allocated = set()
     if args.key in gfx_field.PLANS:
-        allocated = {(x, y) for u, v in gfx_field.slots(args.key)
+        allocated = {(x, y) for plan in gfx_field.plans(args.key)
+                     for u, v in gfx_field.slots(args.key, plan['label'])
                      for y in range(v, v + 16) for x in range(u, u + 16)}
     remaining = [(u, v) for v in range(0, 241, 16) for u in range(0, 241, 16)
                  if all((x, y) not in used and (x, y) not in allocated

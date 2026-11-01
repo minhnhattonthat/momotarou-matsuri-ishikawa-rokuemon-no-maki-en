@@ -1,0 +1,9 @@
+sheet	sha1	verdict	note
+items143_items_context_sheet	546f9c128c43b6b045cbb0a7b541d030ee2730e4	ok	Complete Items and surrounding Bank/Produce/Inn/Tea; buildings and actors retained.
+items143_items_detail_sheet	aeeb03efbd60fda2ac7df1af66a6f7aa43c798c8	ok	Items complete; roof edges and mounting posts retained.
+items144_items_context_sheet	14621b91d973bae3413034d349a492d25d18f2ec	ok	Complete Items in snowy context with surrounding shop labels preserved.
+items144_items_detail_sheet	1b094d0cd5356d0beef972a45cdd4e2d4f0fd6e4	ok	Items fits snowy roof; no missing strokes or Japanese remnants.
+medicine143_medicine_context_sheet	fa346c746418089424c28d9e03f1e916ee53d201	ok	Medicine centered above doorway; Bank/Tea and scene geometry intact.
+medicine143_medicine_detail_sheet	553adb10ee528a823862b10e269dbd85023a4ca8	ok	All eight letters fit; central Japanese glyph removed, roof edges/posts retained.
+medicine144_medicine_context_sheet	4473b3ad3b05d433a4b95c523a2c74ae95dfc935	ok	Complete Medicine on snowy roof; surrounding buildings/actors render correctly.
+medicine144_medicine_detail_sheet	1833501ac7c418df7f4140a13eb7276e5815af1f	ok	Complete Medicine with clear contrast; snow/roof edges and posts intact.

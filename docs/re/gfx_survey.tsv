@@ -32,6 +32,7 @@ id	source	kind	japanese	note
 #352	GV02000D.BIN:0@20	sign	vertical signboards with kanji (right of shrine; 道 ... ?)	Inn/Tea/Bank translated with cold map59 proof; other signs remain; tea-bank-signs-qa.md
 #354	GV02000D.BIN:2@81b0	banner	天下一だ… / …じゃれ大会; ゆうぎ; pink/white peach flags	split contest board English but runtime use still unproved; Games has both cold map59 placements; field-signs-qa.md and shop-boards-qa.md
 #355	GV02000D.BIN:3@a7e0	sign	7 shop plaques with kanji ?; 八百屋 board	same as #305
+#364	GV02070D.BIN:2@4fb0	sign	round seal-like emblem on purple game-hall curtain; reading unresolved	cold maps66/123/192; circle (128,180)-(144,196), CLUT13; 30 exact texture matches; not approved as decoration; symbol-classification-qa.md
 #372	GV03010D.BIN:3@e230	sign	small wooden shop boards with kanji in centre/left rows ?	unsure; tiny
 #375	GV03030D.BIN:3@e200	sign	small wooden shop boards with kanji ?	same as #372; unsure
 #373	GV03020D.BIN:2@aec0	sign	small board lower centre with kanji ?	unsure; tiny
@@ -44,9 +45,9 @@ id	source	kind	japanese	note
 #430	GV09000D.BIN:0	sign	town signs including 魚屋	Inn/Tea/Bank and Fish Shop cold map126 proof; other signs remain; shop-boards-qa.md
 #433	GV09000D.BIN:3	sign	row of 5 round kanji plaques; ゆうぎ	Games has cold map126 proof; round sign strip remains; shop-boards-qa.md
 #446	GV11000D.BIN:2	sign	鬼の実? (6 red vertical nobori flags, 3 kanji each)	best effort
-#447	GV12000D.BIN:0	sign	town signs: 八百屋 + kanji	Inn/Tea/Bank and Produce cold map143 proof; item/medicine plaques remain; shop-boards-qa.md
+#447	GV12000D.BIN:0	sign	town signs: 八百屋 + kanji	Inn/Tea/Bank/Produce/Items/Medicine cold map143 proof; unplaced/rear-grid and other forms remain; medicine-plaques-qa.md, narrow-plaques-qa.md and shop-boards-qa.md
 #448	GV12000D.BIN:1	sign	ゆうぎ -> Games	English; complete cold map143 lettering + context/detail verdicts, games-signs-qa.md
-#455	GV12002D.BIN:0	sign	town signs incl 八百屋	Inn/Tea/Bank and Produce cold snowy map144 proof; item/medicine plaques remain; shop-boards-qa.md
+#455	GV12002D.BIN:0	sign	town signs incl 八百屋	Inn/Tea/Bank/Produce/Items/Medicine cold snowy map144 proof; unplaced/rear-grid and other forms remain; medicine-plaques-qa.md, narrow-plaques-qa.md and shop-boards-qa.md
 #456	GV12002D.BIN:1	sign	ゆうぎ -> Games	English; complete cold map144 lettering + context/detail verdicts, games-signs-qa.md
 #459	GV12002D.BIN:4	other	き? (single glyph on a snow statue)	unsure if text
 #467	GV13000D.BIN:0	sign	town signs incl 八百屋	Inn/Tea/Bank and Produce cold map163 proof; second Inn unproved; purple-banner classification remains; shop-boards-qa.md

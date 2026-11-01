@@ -32,7 +32,7 @@ The title's separate press-start instruction is already translated in both copie
 
 ### Survey inventory
 Every Japanese-bearing image found by five read-only reviewers over all 80 sheets: **`docs/re/gfx_survey.tsv`**
-(202 rows including the subsequently discovered Status staff badge and GV23000D:2 Games board: id, file:entry, kind, transcription, note). Summary of the original 200-row sweep:
+(203 rows including the subsequently discovered Status staff badge, GV23000D:2 Games board and round game-hall emblem: id, file:entry, kind, transcription, note). Summary of the original 200-row sweep:
 
 | Kind | Rows | What |
 |---|---|---|
@@ -46,6 +46,11 @@ Every Japanese-bearing image found by five read-only reviewers over all 80 sheet
 | hud / other | 9 | 白/赤 team icons (DEF0D:9), speech bubbles (M060D:2, M080D:6), 祭 emblems in ending art (keep), どっち? |
 
 Open for later phases:
+- Medicine at maps143/144 now has full-word cold proof, with existing Items rechecked on the same build;
+  eight scoped sheets pass (`medicine-plaques-qa.md`). Unplaced/rear-grid copies remain unproved.
+  Shrine papers classify as abstract pictograms; the old event01 snow-placard note was a review error.
+  The round game-hall emblem remains unresolved, with source/CLUT and 30 exact copies now located
+  (`symbol-classification-qa.md`). These follow-ups do not replace the historical 25 non-ok sheet verdicts.
 - Seven additional Games atlases, nine Produce and four Fish Shop sources are translated, with 24 cold
   original/English placements and 24 accepted detail pairs (`shop-boards-qa.md`). Games has 20 scoped
   context/detail approvals; the shop gate retains six issues for other flower/item/equipment plaques

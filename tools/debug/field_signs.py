@@ -62,16 +62,16 @@ def check(run, key, original=False, patterns=('*.png',), weather=False, labels=N
         if labels is not None and label not in labels:
             continue
         if original and kind == 'relocated':
-            pieces = gfx_field.pieces(key, original=True)
+            pieces = gfx_field.pieces(key, original=True, label=label)
         templates = [gfx_signs.assemble(tim.image(texture, pal), pieces).crop(rect) for pal in range(palettes)]
         if kind == 'relocated':
-            templates = [gfx_field.template(texture, key, original).crop(rect)]
+            templates = [gfx_field.template(texture, key, original, label=label).crop(rect)]
         found = None
         for path in paths:
             with Image.open(path) as screen:
                 dump = path.with_suffix('.vram.bin')
                 if kind == 'relocated' and weather and dump.exists():
-                    actual = gfx_field.template(texture, key, original, dump.read_bytes()).crop(rect)
+                    actual = gfx_field.template(texture, key, original, dump.read_bytes(), label).crop(rect)
                     position = match(screen.convert('RGB'), actual)
                     if position is not None:
                         found = (str(path), position, 'captured-per-tile')

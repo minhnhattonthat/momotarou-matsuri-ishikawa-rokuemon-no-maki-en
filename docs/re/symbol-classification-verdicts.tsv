@@ -1,0 +1,10 @@
+sheet	sha1	verdict	note
+event01_context_sheet	5427818f1672f882ef4160c45d5ea92f6e76fd10	ok	Bath art has no placard; historical sheet001 note misidentified the scene.
+map_gv0002_042_context_sheet	68cdcea1253f58bd1fe0f1ebfc09ac2d6157df02	ok	Visible paper marks are pictograms/bars; offscreen upper room excluded.
+map_gv0003_043_context_sheet	a803917850b90aa0edc0ba1eb38a355997896e09	ok	Visible paper marks match abstract shrine patterns.
+map_gv0004_044_context_sheet	0cfb1214e39d6b0e327f80db7e7d0a10c4549ebd	ok	Full view confirms paper dots/bars and torii-like symbols, no readable Japanese.
+shrine_detail_sheet	6b656c6cf4bb58170f137efaec4c644d52bd39da	ok	Enlarged original/English paper marks and surrounding art agree.
+map_gv0207_066_context_sheet	35d49b450ccaba5a0e6bd1ab43694d3302791c41	issue	Round emblem still requires a supported reading or nontext classification.
+map_gv0809_123_context_sheet	2d0623e6b25ba6b3d7c8eed0f14f939c58c8e95c	issue	Same unresolved round emblem.
+map_gv1612_192_context_sheet	54b575aa2198544e04d9bfb7cd6cc4ae6c982d83	issue	Same unresolved emblem; upper edge clipped in this context.
+banner_detail_sheet	9c11eba51d6d3e29a33fef4c77992c50285899c6	issue	Seal-like emblem ambiguous; source and CLUT located, not approved as decoration.
