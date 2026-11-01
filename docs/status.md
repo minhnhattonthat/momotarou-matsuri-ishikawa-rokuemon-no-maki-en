@@ -2,7 +2,8 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** **9 done (2026-11-02): local release v1.0 built and verified, not published.**
+- **Phase:** **9 done (2026-11-02): v1.0 published** (repo public per D12):
+  https://github.com/minhnhattonthat/momotarou-matsuri-ishikawa-rokuemon-no-maki-en/releases/tag/v1.0
   - D11 (lenient graphics QA): costume/clothing marks, emblems, tiny placards, wall scrolls and landscape kanji stay as art.
     141 open visual-QA sheets got D11 verdicts (`zz_d11.tsv` beside each manifest; superseded manifests point to the
     accepted ones). The mochi-bibs WIP (M060D:3 versus bibs) is shelved in `git stash` ("mochi-bibs WIP (shelved by D11)").
@@ -14,7 +15,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
     (4 known kana-table runs in `docs/re/jp_known.txt`), every manifest gate, polish gate, xdelta, re-apply, zip.
   - `release/v1.0/Momotarou_Matsuri_EN_v1.0.zip` (patch + README). Patched image 182,451,696 bytes, SHA-1
     **fe82d5cd4dd1abd6ece3b4a9332580756dffbc59**, CRC32 05352463; patch SHA-1 1c3980a7...; zip SHA-1 4a30a313...
-  - **Next:** user playtest of `build/momotarou-matsuri_en.cue`; publishing is the user's call (pipeline §Publish).
+  - **Next:** player bug reports via GitHub issues (`gh issue list --label bug`).
 - **Done (phase 8, 2026-11-02, history):**
   - Enma's four event-art crown initials now read **E**. Native cold events
     **03/11/12/13/23** give **5/5 complete-crown matches on each disc**;
